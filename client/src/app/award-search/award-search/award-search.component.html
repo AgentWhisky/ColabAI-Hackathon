@@ -1,10 +1,28 @@
 <div class="flex justify-center mt-4">
-    <mat-form-field class="w-full max-w-lg">
-      <mat-label>SMART Search</mat-label>
-      <input matInput #prompt maxlength="1024" placeholder="Ex. I need help with..." (keyup.enter)="sendPrompt(prompt.value)">
-      <button mat-icon-button matSuffix (click)="sendPrompt(prompt.value)">
-        <mat-icon>send</mat-icon>
-      </button>
-    </mat-form-field>
+  <mat-form-field class="w-full max-w-lg">
+    <mat-label>SMART Search</mat-label>
+    <input matInput #prompt maxlength="1024" placeholder="Ex. I need help with..." (keyup.enter)="sendPrompt(prompt.value)" />
+    <button mat-icon-button matSuffix (click)="sendPrompt(prompt.value)">
+      <mat-icon>send</mat-icon>
+    </button>
+  </mat-form-field>
+</div>
+
+@for(chat of smartChat(); track chat) {
+  <div class="flex w-full mb-2 px-2">
+    @if(chat.type === 'src') {
+      <div class="flex justify-start w-full">
+        <div class="bg-yellow-100 p-4 rounded shadow w-fit max-w-xs text-sm">
+          {{ chat.text }}
+        </div>
+      </div>
+    } @else {
+      <div class="flex justify-end w-full">
+        <div class="bg-blue-300 text-white p-4 rounded shadow w-fit max-w-xs text-sm">
+          {{ chat.text }}
+        </div>
+      </div>
+    }
   </div>
+}
 
