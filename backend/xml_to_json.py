@@ -83,5 +83,4 @@ awards_data = convert_xml_to_json(xml_folder)
 
 # Upload documents to Cognitive Search
 search_client.upload_documents(documents=awards_data)
-
 print("XML files have been successfully converted to JSON and uploaded to Azure Cognitive Search.")
