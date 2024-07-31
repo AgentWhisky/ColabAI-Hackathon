@@ -1,11 +1,12 @@
 import { Component } from '@angular/core';
+import { MatButtonModule } from '@angular/material/button';
 
 @Component({
   selector: 'app-award-search',
   standalone: true,
-  imports: [],
   templateUrl: './award-search.component.html',
-  styleUrl: './award-search.component.scss'
+  styleUrl: './award-search.component.scss',
+  imports: [MatButtonModule],
 })
 export class AwardSearchComponent {
 
