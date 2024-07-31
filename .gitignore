@@ -1,0 +1,9 @@
+
+# Root Files
+.vscode
+node_modules/
+.env
+
+# Client Files
+client/.angular/
+client/node_modules/
