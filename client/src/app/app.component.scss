@@ -1,0 +1,9 @@
+.header-toolbar {
+    @apply flex justify-between items-center w-full h-20;
+
+  //bg-[#185394]
+}
+
+mat-toolbar {
+  @apply bg-slate-300 text-white
+}
