@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: Forty Years at the Interplay of Information Theory, Probability and Statistical Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>12500.00</AwardTotalIntnAmount>
+<AwardAmount>12500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tapabrata Maiti</SignBlockName>
+<PO_EMAI>tmaiti@nsf.gov</PO_EMAI>
+<PO_PHON>7032925307</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The award will support participants attending the conference “Forty Years at the Interplay of Information Theory, Probability and Statistical Learning”, which will take place at Yale University during April 26–28, 2024. The conference is a three-day meeting comprising a diverse array of activities, including a poster session tailored for students, a reception aimed at fostering networking and connections among participants, and twenty-five research talks. The scientific theme of this conference is to explore the dynamic relationship and synergy between information theory, probability, and statistical learning. Beyond academic exploration, the conference aspires to nurture and inspire the next generation of scholars. Through engaging with leading experts, students and early career researchers will have the opportunity to gain insights into recent advancements and emerging challenges in these fields. We will actively encourage participants from underrepresented groups in several ways. We will collaborate with minority student organizations, professional associations, and community groups both within and outside Yale University to promote the workshop and leverage their networks for outreach, and we will offer financial assistance to minority participants to help cover the cost of attendance, travel, or accommodations to remove barriers to participation.&lt;br/&gt;&lt;br/&gt;Statistics and information theory are deeply intertwined, both rooted in probability theory. Over the past four decades, this relationship has been meticulously explored and leveraged. In today's era marked by an unprecedented abundance of data across diverse domains and the growing influence of artificial intelligence, the indispensable tools wielded in these three disciplines continue to pave the way for discovering new limits of learning with complex data across various modalities. This conference serves as a gathering of leading researchers in these three disciplines and the next generation of data science leaders. Together, they will discuss new ideas to explore and enhance the connections between these fields, driving forward process and innovation. The website for the conference is: https://yalefds.swoogo.com/infotheory/&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423098</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Spielman</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel A Spielman</PI_FULL_NAME>
+<EmailAddress><![CDATA[spielman@cs.yale.edu]]></EmailAddress>
+<NSF_ID>000208128</NSF_ID>
+<StartDate>04/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<ZipCode>065113572</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress><![CDATA[150 MUNSON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FL6GV84CKN57</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>YALE UNIV</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FL6GV84CKN57</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>065113572</ZipCode>
+<StreetAddress><![CDATA[17 Hillhouse Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~12500</FUND_OBLG>
+</Award>
+</rootTag>

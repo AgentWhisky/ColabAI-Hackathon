@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: IMPRESS-U: Modeling and Forecasting of Infection Spread in War and Post War Settings Using Epidemiological, Behavioral and Genomic Surveillance Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>298582.00</AwardTotalIntnAmount>
+<AwardAmount>298582</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maija Kukla</SignBlockName>
+<PO_EMAI>mkukla@nsf.gov</PO_EMAI>
+<PO_PHON>7032924940</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This IMPRESS-U project is jointly funded by NSF, National Science Center of Poland (NCN), US National Academy of Sciences, and Office of Naval Research Global (DoD). The research will be performed in a multilateral international partnership that unites the Georgia State University (US), Kharkiv National Medical University and Kharkiv Oblast Center for Diseases Control and Prevention of the Ministry of Health of Ukraine (Ukraine), and&lt;br/&gt;Lodz University of Technology (Poland). US portion of the collaborative effort will be co-funded by NSF OISE/OD and MPS/DMS (Mathematical Biology and Computational Mathematics programs).&lt;br/&gt;&lt;br/&gt;The goal of the project is to develop computational models and algorithms for analyzing epidemiological dynamics under conflict and post-conflict scenarios. The proposed approach harnesses the combined strengths of computational biology, mathematical epidemiology, statistics, and machine learning, aligning with modern trends of incorporating human behavior into epidemiological models. The primary goal is to develop epidemiological models that encompass the diverse biological and epidemiological factors of pre-conflict, active conflict, and post-conflict stages. These factors include (a) the dynamics of forced population movements and migrations; (b) population concentrations, particularly in high-density refuges such as shelters and refugee camps; (c) the robustness and expanse of supply networks, with an emphasis on medical provisions; (d) disruptions to healthcare services and infrastructure, including the deliberate targeting of medical establishments as a wartime tactic; (e) prevailing environmental determinants, inclusive of sanitation and water accessibility; and (f) wartime psychological ramifications, which can impact community behaviors, resilience, and compliance with health interventions. The scientific results of the project will provide a unified modeling approach to study and predict epidemiological dynamics under various catastrophic events and develop methods for the subsequent decision making. The resulted integrated modeling framework and software will aid faster resources allocation during conflict which will mitigate pandemics, save social resources and lives of individuals involved. &lt;br/&gt;&lt;br/&gt;The project includes multiple interconnected aims. Aim 1. Developing Epidemiological Models Tailored to Conflict Zones where the focus will be the seamless integration of multi-faceted data sources. These will include surveillance records, demographic metrics, population density data, insights on health infrastructure and medical resources, environmental determinants, seasonal variations, and comprehensive psychological profiles outlining war-related psychological distress and trauma. Notably, the strategy will also introduce several innovative fractal methodologies tailored explicitly for epidemic contexts, all nested within the global modeling framework. Aim 2. Merging War-centric Epidemiological Models with Population Genetics Within a Phylodynamics Framework where the objective is to link the modeling framework conceptualized in Aim 1 with population genetics models that capture evolutionary trajectories of emergent viruses. This will be nested within a structured phylodynamics and phylogeographic framework. The approach will be one of the pioneering efforts towards development of host behavior-based phylodynamic models. Aim 3. Algorithms for Optimized Public Health Resource Location-Allocation based on merged war-centric epidemiological models will employ a multi-criterion optimization to support decision making for healthcare resource allocation in war and post-war settings. For example, due to hospital damages, the immediate and ongoing necessity is to geographically allocate portable hospitals in ways that provide maximum coverage and the highest availability for the population.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/28/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/28/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412914</AwardID>
+<Investigator>
+<FirstName>Aleksandr</FirstName>
+<LastName>Zelikovskiy</LastName>
+<PI_MID_INIT>Z</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aleksandr Z Zelikovskiy</PI_FULL_NAME>
+<EmailAddress><![CDATA[alexz@gsu.edu]]></EmailAddress>
+<NSF_ID>000488105</NSF_ID>
+<StartDate>03/28/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gerardo</FirstName>
+<LastName>Chowell-Puente</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gerardo Chowell-Puente</PI_FULL_NAME>
+<EmailAddress><![CDATA[gchowell@gsu.edu]]></EmailAddress>
+<NSF_ID>000693185</NSF_ID>
+<StartDate>03/28/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Pavel</FirstName>
+<LastName>Skums</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pavel Skums</PI_FULL_NAME>
+<EmailAddress><![CDATA[pavel.skums@uconn.edu]]></EmailAddress>
+<NSF_ID>000711439</NSF_ID>
+<StartDate>03/28/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Kirpich</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander Kirpich</PI_FULL_NAME>
+<EmailAddress><![CDATA[akirpich@gsu.edu]]></EmailAddress>
+<NSF_ID>000864616</NSF_ID>
+<StartDate>03/28/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia State University Research Foundation, Inc.]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303032921</ZipCode>
+<PhoneNumber>4044133570</PhoneNumber>
+<StreetAddress><![CDATA[58 EDGEWOOD AVE NE]]></StreetAddress>
+<StreetAddress2><![CDATA[FL 3]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MNS7B9CVKDN7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia State University Research Foundation, Inc.]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303032921</ZipCode>
+<StreetAddress><![CDATA[58 EDGEWOOD AVE NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>729800</Code>
+<Text>International Research Collab</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>733400</Code>
+<Text>MATHEMATICAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5953</Code>
+<Text>POLAND</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5998</Code>
+<Text>UKRAINE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~298582</FUND_OBLG>
+</Award>
+</rootTag>

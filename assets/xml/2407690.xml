@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SHF: Medium: A hardware-software co-design approach for high-performance in-memory analytic data processing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Database analytics is crucial for decision-making across various industries and fields of inquiry. However, there is a challenge: analyzing large amounts of data using traditional methods takes more time and money as the volume of data grows. Resolving this issue is vital for enterprises to stay competitive through fast and accurate data-driven decision-making and to keep up with rapid growth in data volumes. In the past, hardware and software for analytics could be developed separately, benefiting from Moore's Law (doubling of transistor density with each transistor generation) and Dennard scaling (which allowed Moore's Law to proceed without increasing power density). This scaling allowed the industry to steadily improve the performance of general-purpose hardware. However, we have now reached the physical limits of these trends and need new hardware approaches to enhance analytics speed and efficiency. Furthermore, processing units are now much faster than memory, so applications with large volumes of data are increasingly bottlenecked by memory accesses. This research, therefore, focuses on memory devices, in particular designing ``intelligent'' memory capable of computing results near the stored data, and proposes a solution by redesigning both hardware and software components of an analytics pipeline to work synergistically, addressing the data analytics performance issue from the ground up. This innovative approach has the potential to significantly improve the efficiency of data analytics. &lt;br/&gt;&lt;br/&gt;The project is a collaboration between one database and software researcher at the University of Wisconsin-Madison (UW) and two computer architecture and systems researchers at Cornell University and the University of Virginia (UVA). The project is organized into four thrusts. Thrust 1 aims to develop mechanisms for in-place data analytics query processing on the dynamic random access memory (DRAM) side and explore the synergies between intelligent DRAM and other processing units. Thrust 2 focuses on processing in memory (PIM) designs for static random-access memory (SRAM)-based caches, exploring associative processing (AP) and its applicability to data analytics workloads. Thrust 3 takes a holistic approach to accelerate analytics queries across both SRAM and DRAM-based PIM designs. It proposes a Domain-Specific Language (DSL)-based approach using an operational algebra, decomposing queries into a dataflow graph and optimizing their execution across different PIMs and the Central Processing Unit (CPU). Finally, Thrust 4 addresses the need for evaluation frameworks in the database-hardware co-design approach by developing a simulation infrastructure and benchmarks that can be used by the broader architecture and database research communities. Besides training students involved in this project across the hardware-software boundaries, the project will also support outreach efforts in entrepreneurship education at UW. Additionally, there are outreach plans to Native American high school students through an effort at Cornell, and at UVA, the project will contribute to ongoing efforts to build long-term collaborations with Historically Black Colleges and Universities (HBCUs) and Minority-Serving Institutions (MSIs) in the Virginia area.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/08/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>12/08/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407690</AwardID>
+<Investigator>
+<FirstName>Jignesh</FirstName>
+<LastName>Patel</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jignesh M Patel</PI_FULL_NAME>
+<EmailAddress><![CDATA[jignesh@cmu.edu]]></EmailAddress>
+<NSF_ID>000336296</NSF_ID>
+<StartDate>12/08/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 FORBES AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7942</Code>
+<Text>HIGH-PERFORMANCE COMPUTING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~400000</FUND_OBLG>
+</Award>
+</rootTag>

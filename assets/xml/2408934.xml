@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Photoinduced Proton-Coupled Electron or Energy Transfer]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>570000.00</AwardTotalIntnAmount>
+<AwardAmount>570000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Dawes</SignBlockName>
+<PO_EMAI>rdawes@nsf.gov</PO_EMAI>
+<PO_PHON>7032927486</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Sharon Hammes-Schiffer of Princeton University is supported by an award from the Chemical Theory, Models and Computational Methods program in the Division of Chemistry to develop theories and computational methods for describing the transfer of energy and charge in chemical processes. The transfer of energy or electrons from one part of a molecule to another can be coupled to the movement of protons within the molecule. The coupling among energy, electrons, and protons is critical for a wide range of chemical and biological processes, including photosynthesis, respiration, and energy production in solar cells. The development of theories and computational methods that accurately describe this coupling is challenging because electrons and protons are so light that they must be treated quantum mechanically. Hammes-Schiffer will develop theories and methods that describe electrons and protons quantum mechanically for calculating the rates and simulating the dynamics of these processes. She will apply these methods to specific processes of chemical and biological significance to elucidate their underlying fundamental principles. In addition, she and her research group will incorporate the newly developed computational methods into established quantum chemistry packages to benefit the general scientific community. She will also provide tutorials and examples to enable non-expert users to perform these types of calculations. Furthermore, Hammes-Schiffer will maintain and enhance a website containing software and educational tools related to this topic. Her research will facilitate technological and biomedical advances through a better understanding of energy and charge transfer within chemical and biological systems.&lt;br/&gt;&lt;br/&gt;Hammes-Schiffer will develop analytical theories and computational methods for investigating photoinduced proton-coupled electron transfer (PCET) and proton-coupled energy transfer (PCEnT). In contrast to PCET, the recently discovered PCEnT mechanism involves the transfer of electronic excitation energy, rather than electronic charge, within a molecular system. Hammes-Schiffer will derive PCEnT rate constant expressions based on a theoretical formulation that treats the electrons and transferring protons quantum mechanically and describes the reaction in terms of nonadiabatic transitions between electron-proton vibronic states. She will also develop nuclear-electronic orbital (NEO) multireference wavefunction methods to compute the vibronic states and couplings necessary for calculating PCET and PCEnT rate constants. The NEO approach treats key nuclei, such as the transferring protons, quantum mechanically on the same level as the electrons. In addition, Hammes-Schiffer will develop NEO methods for simulating the nonadiabatic dynamics of photoinduced PCET and PCEnT using a combination of NEO multistate density functional theory and surface hopping dynamics on vibronic surfaces. She and her group will incorporate these NEO approaches into well-established quantum chemistry packages and will create tutorials to explain how to perform NEO calculations and highlight the unique capabilities of this approach. Hammes-Schiffer will also maintain and enhance a website on electron and proton transfer to convey useful information to the community and to provide valuable tools, scripts, and software. Furthermore, her simulations of PCET and PCEnT will provide insights into the underlying fundamental principles of these types of reactions, which are essential for a broad range of chemical and biological processes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2408934</AwardID>
+<Investigator>
+<FirstName>Sharon</FirstName>
+<LastName>Hammes-Schiffer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sharon Hammes-Schiffer</PI_FULL_NAME>
+<EmailAddress><![CDATA[shs566@princeton.edu]]></EmailAddress>
+<NSF_ID>000154996</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085442001</ZipCode>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688100</Code>
+<Text>Chem Thry, Mdls &amp; Cmptnl Mthds</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~570000</FUND_OBLG>
+</Award>
+</rootTag>

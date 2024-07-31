@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[New Developments in High Energy Nuclear Physics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>299690.00</AwardTotalIntnAmount>
+<AwardAmount>299690</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bogdan Mihaila</SignBlockName>
+<PO_EMAI>bmihaila@nsf.gov</PO_EMAI>
+<PO_PHON>7032928235</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Among the four fundamental forces in nature the strong nuclear force is the least understood. It is responsible for many important processes in our Universe. One particularly important aspect is the existence of quark-gluon plasma. If ordinary matter is heated up to temperatures of about 1,000,000,000,000 degrees, hotter than the core of the sun, atoms cease to exist and protons and neutrons inside nuclei melt. The resulting plasma of quarks and gluons filled the very early Universe. We can recreate this plasma in the laboratory by colliding heavy nuclei at high energies. Experiments at the Large Hadron Collider in Europe and the Relativistic Heavy Ion Collider in the US study quark gluon plasma. The PI and his group carry out research that improves our understanding of properties of quark-gluon plasma in nuclear collisions. A particular focus lies on the mechanism of quarks and gluons arranging themselves back into protons and other bound states, a process called hadronization. It is those latter particles that are measured in experiments. Therefore, it is critical to develop a quantitative understanding of hadronization, in order to study quark-gluon plasma in experiments. This project provides training for graduate students in nuclear science.&lt;br/&gt;&lt;br/&gt;This project seeks systematic improvements to the modelling of hadronization using the Hybrid Hadronization model which has recently been developed. It addresses the treatment of spin and angular momentum in hadronization which is currently understood rather poorly. There are immediate applications of results to nucleus-nucleus collisions, where a significant amount of angular momentum is present in off-center collisions, but also to proton-proton and electron-proton collisions, where the study of the spin structure of the proton is a key goal of the experimental programs. The project also improves the treatment of baryons in Hybrid Hadronization by implementing the full spectrum of excited baryons, as recent experimental results involving baryons have created challenges to existing hadronization models. Another key component is the introduction of an important new layer regarding the study of jets, which are used to probe quark-gluon plasma and cold nuclear matter. By studying, for the first time, the hadronic interactions of jets in an ambient medium missing physics is added to state-of-the-art simulations. This will improve the accuracy of any quantitative conclusions extracted from jet measurements.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413003</AwardID>
+<Investigator>
+<FirstName>Rainer</FirstName>
+<LastName>Fries</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rainer J Fries</PI_FULL_NAME>
+<EmailAddress><![CDATA[rjfries@comp.tamu.edu]]></EmailAddress>
+<NSF_ID>000254695</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas A&M University]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress><![CDATA[400 HARVEY MITCHELL PKY S STE 30]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JF6XLNB4CDJ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A &amp; M UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M University]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778454375</ZipCode>
+<StreetAddress><![CDATA[120 Spence Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128500</Code>
+<Text>NUCLEAR THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~299690</FUND_OBLG>
+</Award>
+</rootTag>

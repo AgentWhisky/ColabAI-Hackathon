@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Small quantum groups, their categorifications and topological applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>201860.00</AwardTotalIntnAmount>
+<AwardAmount>201860</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tim Hodges</SignBlockName>
+<PO_EMAI>thodges@nsf.gov</PO_EMAI>
+<PO_PHON>7032925359</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award funds research in an area of abstract algebra. Throughout history, mathematics and physics have had profound influences on each other.  In the late 20th century, physicists discovered a deep connection between quantum physics and three-dimensional shapes, leading to the concept of topological quantum field theory (TQFT). While these 3D theories cannot fully describe our 4D universe, condensed matter physicists have found surprising applications of them in the field of quantum computing. In an effort to bridge the gap between these three-dimensional theories and our actual universe, Crane and Frenkel introduced a program called "categorification" in the late 1990s. This program aims to lift three-dimensional TQFTs to four dimensions, making it a more direct reflection of our physical reality. The PIs will involve students and postdocs in this research, with particular focus on students from underrepresented minorities.&lt;br/&gt;&lt;br/&gt;The first significant development in categorification was the discovery of Khovanov homology. This is a powerful invariant of links whose graded Euler characteristic is the Jones polynomial.  The investigators plan to use the technical machinery of hopfological algebra to extend a dual version of Khovanov homology to a homological invariant of three-dimensional manifolds whose graded Euler characteristic is the Witten-Reshetikhin-Turaev invariant.  Ideally, this construction will be fully functorial, giving rise to an invariant of four-dimensional manifolds, while remaining computationally accessible. These invariants are expected be sensitive to smooth structures and should give insights into smooth topology not provided by gauge theoretic invariants like Donaldson and Seiberg-Witten invariants. This direction will build upon the investigators' previous work on categorified quantum groups and their representations at roots of unity.  It is an open question of how to incorporate hopfological structures into Khovanov homology.  This should lead to new homotopic notions. The investigators also plan on continuing to develop non-semisimple versions of three-dimensional topological quantum field theories with an eye toward applications to quantum computation.  These non-semisimple invariants have certain topological advantages over their more classical semisimple counterparts.  This line of research will also build upon their work on the centers of small quantum groups which has recently been an active area of research in geometric representation theory.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401375</AwardID>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Sussan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joshua Sussan</PI_FULL_NAME>
+<EmailAddress><![CDATA[joshuasussan@gmail.com]]></EmailAddress>
+<NSF_ID>000629557</NSF_ID>
+<StartDate>07/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[CUNY Medgar Evers College]]></Name>
+<CityName>BROOKLYN</CityName>
+<ZipCode>112252017</ZipCode>
+<PhoneNumber>7182706107</PhoneNumber>
+<StreetAddress><![CDATA[1650 BEDFORD AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JNQFZNMEYGB3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CUNY Medgar Evers College]]></Name>
+<CityName>BROOKLYN</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>112252017</ZipCode>
+<StreetAddress><![CDATA[1650 BEDFORD AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>126700</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~201860</FUND_OBLG>
+</Award>
+</rootTag>

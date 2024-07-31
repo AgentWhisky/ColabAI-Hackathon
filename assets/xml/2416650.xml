@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CyberTraining: Implementation: Small: Enabling the Geospatial Turn in the Social Sciences through Cyberinfrastructure Training]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>499992.00</AwardTotalIntnAmount>
+<AwardAmount>499992</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sharmistha Bagchi-Sen</SignBlockName>
+<PO_EMAI>shabagch@nsf.gov</PO_EMAI>
+<PO_PHON>7032928104</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project serves the national interest by expanding access to rapidly growing geospatial tools and datasets to empower social science scholars working on some of the most pressing problems. In the realm of social science research, a wealth of valuable data with geospatial attributes is readily available, such as microdata from the US Census and American Community Survey, remote sensing data from NASA and USGS (satellite imagery, land use, urban cover, etc.), and field data generated through mobile and drone-based sensors. Such resources can have broad applicability to a wide range of fields such as public health, consumer science, urban planning, human-environmental interaction, political science, criminal justice, and disaster management, among others. However, literacy in geospatial technologies, data, and ethics has not been a standard component of social science curricula, resulting in a serious and growing gap in methods and training. Many researchers in these related fields lack proficiency in computer programing and the use of advanced cyberinfrastructure (CI), geospatial analysis, and relevant data skills, hindering their ability to derive meaningful insights from publicly available datasets. To bridge this gap, targeted training programs are essential, empowering social science researchers to navigate geospatial and cyber technologies and integrate them into their methodologies responsibly. By investing in education, interdisciplinary collaboration, and ethical considerations, this project will enable researchers and practitioners to unlock the full potential of geospatial data creation, curation, analysis, visualization, and interpretation in transformative and impactful research practices and data-driven policy making. &lt;br/&gt;&lt;br/&gt;Increased geospatial and CI literacy is the first step towards enabling the application of modern data and computationally intensive methods in impactful social science research. In this project, a multidisciplinary team of experts in geography, data science, anthropology, advanced CI, and technology pedagogy will develop a comprehensive set of training modules that can be integrated into instructional programs for undergraduate and graduate students, librarians, and faculty from two and four-year degree granting institutions. The project comprises two primary sets of activities: first, the development of a comprehensive curriculum of instructional materials for working with computational social science datasets; and second, the integration of these materials into various delivery mechanisms targeted to diverse stakeholders. The comprehensive curriculum will take the form of five broad modules that impart competencies related to the acquisition, analysis, and management of social science datasets along the data lifecycle. Each module will be designed to provide a general overview of the relevant CI tools using scenarios and datasets relevant to social science students and will be split into individual learning units with associated difficulty levels: beginner, intermediate, and expert that will assist with course organization for audiences at all levels. In addition, the researchers will employ a range of delivery mechanisms to integrate the developed curriculum into existing and novel learning pathways, targeting students as well as researchers and librarians who will integrate these learning materials in their own institutional programs. Using a train-the-trainer approach along with instruction on pedagogical methods, curriculum design, and online dissemination methods, the project will enable participants to scale and sustain these training activities in their respective home institutions as they train the next generation of social science scholars.&lt;br/&gt;&lt;br/&gt;This award by the Office of Advanced Cyberinfrastructure is jointly supported by the Social, Behavioral, and Economic Sciences Directorate and the National Discovery Cloud for Climate initiative within the Directorate for Computer and Information Science and Engineering.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070, 47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2416650</AwardID>
+<Investigator>
+<FirstName>Ian</FirstName>
+<LastName>Lindsay</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ian C Lindsay</PI_FULL_NAME>
+<EmailAddress><![CDATA[ilindsay@purdue.edu]]></EmailAddress>
+<NSF_ID>000446954</NSF_ID>
+<StartDate>07/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ningning</FirstName>
+<LastName>Kong</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ningning Kong</PI_FULL_NAME>
+<EmailAddress><![CDATA[kongn@purdue.edu]]></EmailAddress>
+<NSF_ID>000646999</NSF_ID>
+<StartDate>07/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rajesh</FirstName>
+<LastName>Kalyanam</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rajesh Kalyanam</PI_FULL_NAME>
+<EmailAddress><![CDATA[rkalyana@purdue.edu]]></EmailAddress>
+<NSF_ID>000754242</NSF_ID>
+<StartDate>07/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>044Y00</Code>
+<Text>CyberTraining - Training-based</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>295Y00</Code>
+<Text>NDCC-Natl Discvry Cloud Climat</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>800400</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>122Z</Code>
+<Text>CI Training and Professionals</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7361</Code>
+<Text>EDUCATION AND WORKFORCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~499992</FUND_OBLG>
+</Award>
+</rootTag>

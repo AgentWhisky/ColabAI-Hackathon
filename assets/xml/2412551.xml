@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: NSF-ANR MCB/PHY: Probing Heterogeneity of Biological Systems by Force Spectroscopy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Angel Garcia</SignBlockName>
+<PO_EMAI>aegarcia@nsf.gov</PO_EMAI>
+<PO_PHON>7032928897</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Biological molecules can exist in a number of different states, which influences how they function in the context of health and disease. Many of the current tools that we use to study these molecules measure average properties across states, hiding the underlying heterogeneity. This award will help decipher the nature of this heterogeneity through a combination of experiments and theory, including: 1) new methods of high-speed atomic force spectroscopy, which applies a rapidly increasing force on individual molecules (for example proteins, lipids, or complexes of bound molecules) to unravel or break them; 2) machine learning and other data analysis techniques that can extract information from the experimental results, in order to characterize the original states of the molecules and their dynamics; 3) analyzing heterogeneity of molecules in living cells, particularly the adhesion complexes that bind cells together.&lt;br/&gt;To accomplish this, the project brings together a multidisciplinary consortium of biophysicists and engineers.&lt;br/&gt;&lt;br/&gt;Broader impacts of the project will lead to the development of next generation tools for atomic force microscopy, with potential applications to other nanotechnology platforms like optical tweezers. The theory and data analysis methods will be generally applicable to any biological system, as well as in soft matter and materials science. The expected results will be relevant for a variety of health-related biological processes, from immune recognition during infection to pathologies involving protein aggregation, present in many neurological disorders. In education, the project will foster the scientific formation of young researchers through internships, summer schools, and opportunities for outreach to the broader community. &lt;br/&gt;&lt;br/&gt;This collaborative US/France project is supported by the US National Science Foundation (NSF) and the French Agence Nationale de la Recherche (ANR), where NSF funds the US investigators and ANR funds the partners in France. The US investigators are jointly funded by the Physics of Living Systems program in the Directorate for Mathematical and Physical Sciences and the Molecular Biophysics program/Division of Molecular and Cellular Biosciences in the Directorate for Biological Sciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412551</AwardID>
+<Investigator>
+<FirstName>Qingze</FirstName>
+<LastName>Zou</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Qingze Zou</PI_FULL_NAME>
+<EmailAddress><![CDATA[qzzou@soe.rutgers.edu]]></EmailAddress>
+<NSF_ID>000493359</NSF_ID>
+<StartDate>03/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>NEW BRUNSWICK</CityName>
+<ZipCode>089018559</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>3 RUTGERS PLZ</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1LVPE5GLSD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>NEW BRUNSWICK</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>089018559</ZipCode>
+<StreetAddress><![CDATA[3 RUTGERS PLZ]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7246</Code>
+<Text>PHYSICS OF LIVING SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5918</Code>
+<Text>FRANCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8007</Code>
+<Text>BioMaPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

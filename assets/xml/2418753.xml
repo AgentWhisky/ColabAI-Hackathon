@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Studies of Warm Rain Evolution using X-band Dual Polarization Radars and Advanced Ground Instruments during Summer Season in South Korea]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>406901.00</AwardTotalIntnAmount>
+<AwardAmount>406901</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yu Gu</SignBlockName>
+<PO_EMAI>ygu@nsf.gov</PO_EMAI>
+<PO_PHON>7032928796</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Raindrops are formed when millions of tiny cloud drops coalesce with the larger raindrops due to fall speed differences. It is indeed remarkable that raindrops can form in around 30-60 minutes by the processes of coalescence and further by collisions between raindrops and cloud. There are many other processes that occur, with the final result being raindrops of different sizes and number densities. The mathematical equations governing the different processes are not known precisely so many approximations are needed. The term “warm” rain generally refers to clouds whose temperature is warmer than 0 degree centigrade but such warm rain clouds can also be embedded in “cold” clouds, the combination of which produces prolific amounts of rain, the most being from hurricanes and tornadic storms. The measurement of rainfall amounts is made by sophisticated instruments that fundamentally derive the number density and sizes of drops. The research objectives of this project are related to the latter objectives of a field program which will be conducted in the summer of 2024-2025 at Incheon, Republic pf Korea under the auspices of the Korean Meteorological Agency. Rainfall in these regions have many warm clouds embedded in deep cold clouds yielding large rainfall. &lt;br/&gt;&lt;br/&gt;The specific goals are: (i) to characterize the underlying shapes of the drop size distributions (DSDs) in terms of the generalized gamma model and to evaluate its stability, taking into consideration rain-types and/or climatological dependence, if any; (ii) to retrieve DSD moments (0th to 7th) from two X-band polarimetric radar observations, focusing on the height profiles of the lower order moments especially over a heavily instrumented supersite, and cell-tracking thereafter; (iii) to determine how turbulent intensity affects the drop fall speeds; (iv) for events with significant turbulent intensity, to reconstruct the rain drop shapes from ground measurements and perform scattering calculations. The findings from this project will have direct impact on assessing accuracies of warm rain microphysical schemes. Cell tracking using 2 polarimetric X-band radars will enable more comprehensive understanding of the microphysical processes in a Lagrangian sense. Further, the concepts of the methods developed for retrieving DSD moments can be adapted to satellite-borne dual-frequency radar measurements. Another important area where the work will have direct relevance is radiowave propagation, specifically relating to co-polar and cross-polar effects for communications systems operating at millimeter waves. The effect of turbulence intensity on drop-fall velocities will undoubtedly have significant implications for hydrology and soil erosion related research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/30/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418753</AwardID>
+<Investigator>
+<FirstName>Viswanathan</FirstName>
+<LastName>Bringi</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Viswanathan N Bringi</PI_FULL_NAME>
+<EmailAddress><![CDATA[bringi@engr.colostate.edu]]></EmailAddress>
+<NSF_ID>000272413</NSF_ID>
+<StartDate>05/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Colorado State University]]></Name>
+<CityName>FORT COLLINS</CityName>
+<ZipCode>805212807</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress><![CDATA[601 S HOWES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LT9CXX8L19G1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLORADO STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Colorado State University]]></Name>
+<CityName>FORT COLLINS</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>805212807</ZipCode>
+<StreetAddress><![CDATA[601 S HOWES ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152500</Code>
+<Text>Physical &amp; Dynamic Meteorology</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~406901</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CIF: Small: Observation-Transformed Distributed Detection with Unreliable Reporting Channels]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>597135.00</AwardTotalIntnAmount>
+<AwardAmount>597135</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+<PO_EMAI>pregalia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922981</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Sensor networks play pivotal roles across civilian and military domains, from facilitating cognitive radios in 6G wireless communications to environmental monitoring and military surveillance. These networks often rely on battery-operated sensors that wirelessly transmit data to a fusion center for analysis, enabling the detection of critical phenomena through distributed detection methods. The effectiveness of these systems hinges on achieving high detection performance over noisy wireless channels, while conserving energy. Traditional approaches transmit either raw observations or their summaries to the fusion center. However, they either require higher transmission bandwidth or are not optimized for energy conservation. This project aims to develop and optimize the transformation of raw sensor observations for optimal detection performance over noisy wireless channels, subject to constraints on transmission power and bandwidth.  Anticipated outcomes include near-optimal distributed detection solutions, especially in the context of 6G and wireless sensor network deployments, elevating detection precision and facilitating timely decision-making. Additionally, the project seeks to enhance STEM education by providing research opportunities to underrepresented groups, including domestic minority and women students in Mississippi.&lt;br/&gt;&lt;br/&gt;By exploring alternative data forms beyond the current options of transmitting either original observations or binary codewords, this project aims to determine the most effective means of conveying information from the sensors to the fusion center. This objective will be pursued through a comprehensive investigation into the transformed distributed detection paradigm with several concerted efforts. First, the project focuses on the transformed, quantized distributed detection, assessing its design tractability and identifying its optimal operational region compared to conventional methods under the same bandwidth and power constraints. Second, employing functional analysis and numerical techniques, the project aims to optimize the sensor observation transforms to maximize the distributional divergence for signals received at the fusion center under different hypotheses. Third, the project evaluates the performance of transformed distributed detection in scenarios involving both channel noise and correlated observations, considering both Gaussian and non-Gaussian copula models. By addressing some fundamental issues in the field of distributed detection, including the optimality of the transforms and performance boundaries, the project is expected to yield optimized energy-efficient transmission of sensor information for decision making in networked systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2408981</AwardID>
+<Investigator>
+<FirstName>Ramanarayanan</FirstName>
+<LastName>Viswanathan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ramanarayanan Viswanathan</PI_FULL_NAME>
+<EmailAddress><![CDATA[viswa@olemiss.edu]]></EmailAddress>
+<NSF_ID>000376006</NSF_ID>
+<StartDate>06/03/2024</StartDate>
+<EndDate>06/11/2024</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lei</FirstName>
+<LastName>Cao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lei Cao</PI_FULL_NAME>
+<EmailAddress><![CDATA[lcao@olemiss.edu]]></EmailAddress>
+<NSF_ID>000394757</NSF_ID>
+<StartDate>06/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Mississippi]]></Name>
+<CityName>UNIVERSITY</CityName>
+<ZipCode>386779704</ZipCode>
+<PhoneNumber>6629157482</PhoneNumber>
+<StreetAddress><![CDATA[113 FALKNER]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G1THVER8BNL4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF MISSISSIPPI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Mississippi]]></Name>
+<CityName>UNIVERSITY</CityName>
+<StateCode>MS</StateCode>
+<ZipCode>386779704</ZipCode>
+<StreetAddress><![CDATA[113 FALKNER]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>287800</Code>
+<Text>Special Projects - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>779700</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~597135</FUND_OBLG>
+</Award>
+</rootTag>

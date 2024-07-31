@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[New Horizons in Quantum Nuclear X-ray Optics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>582920.00</AwardTotalIntnAmount>
+<AwardAmount>331041</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mark K. Beck</SignBlockName>
+<PO_EMAI>mkbeck@nsf.gov</PO_EMAI>
+<PO_PHON>7032922983</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Modern quantum metrology, quantum communication, and quantum simulation currently depend on infrared or optical photons and their resonant interactions with atoms. However, higher frequency X-ray radiation could benefit these applications, due to lower noise levels, higher phase sensitivities, tighter focusing, broader bandwidths and, accordingly, higher temporal resolution and faster processing. Nuclear ensembles resonantly interacting with X-ray radiation also have some additional advantages. Their resonant transitions are less sensitive to perturbations by electric and magnetic fields, due to the tiny size of a nucleus compared to an atom. Additionally, in contrast to atomic transitions, spectrally narrow nuclear transitions are available even at room temperature and high solid-state densities. These benefits hold promise for building compact, room-temperature, solid-state nuclear clocks that could outperform atomic clocks both in terms of accuracy and stability. Such clocks could redefine the standards of time and other measurement units and be used in searches for new physics beyond the Standard Model, including searches for dark matter and potential time-dependence of fundamental constants. Applications for such clocks could also include navigation, chronometric geodesy, geology, seismology and climatology. Narrow nuclear resonances in solids could lead to the realization of compact and long-lived nuclear quantum memories, which would be useful for long-distance quantum communication and synchronization of quantum information networks. Postdocs and graduate students participating in this project will be trained in the highly interdisciplinary field of quantum nuclear X-ray optics, learning experimental, analytical, and numerical techniques. They will get an opportunity to participate in experiments at world-class synchrotron and X-ray free electron laser facilities, such as the Advanced Photon Source at Argonne National Laboratory, and the European Synchrotron Radiation Facility in Grenoble, France.&lt;br/&gt;&lt;br/&gt;     Recent research by the PI’s team and their collaborators led to (i) pioneering resonant excitation of the Sc-45 nuclear isomer, establishing this isomer as one of the primary candidates for nuclear clocks and (ii) the first demonstration of a quantum nuclear memory for X-ray photons. The latter was based on the Doppler Nuclear Frequency Comb protocol suggested by the PI’s team. Building on that success, the current project aims at further breakthroughs in this field. It consists of two mutually related parts. 1. The first observation of coherent forward scattering in a Sc-45 sample, i.e., time-dependent collective coherent decay of the nuclear polariton resonantly excited by a train of X-ray pulses. This would allow a measurement of the linewidth (coherence time) of the nuclear transition. The linewidth is expected to be orders of magnitude narrower than any other nuclear transition explored so far. It could allow for a measurement of the gravitational red shift at record-small displacements. 2. The first demonstration of an on-demand quantum nuclear memory. Three different protocols will be explored for this purpose: (i) introducing a magnetic field gradient and switching its sign, (ii) switching the velocity directions in the Doppler Nuclear Frequency Comb memory, and (iii) switching the direction of the magnetic field in nuclear absorbers with multiple Zeeman sublevels. The team will also develop new techniques for shaping X-ray waveforms at the single photon level, which is required for achieving a high-fidelity and high-efficiency quantum memory. Interferometric phase measurements and photon statistics measurements of the original, and newly developed, sources of X-ray photons will also be performed.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409734</AwardID>
+<Investigator>
+<FirstName>Olga</FirstName>
+<LastName>Kocharovskaya</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Olga A Kocharovskaya</PI_FULL_NAME>
+<EmailAddress><![CDATA[kochar@physics.tamu.edu]]></EmailAddress>
+<NSF_ID>000491956</NSF_ID>
+<StartDate>07/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas A&M University]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress><![CDATA[400 HARVEY MITCHELL PKY S STE 30]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JF6XLNB4CDJ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A &amp; M UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M University]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778434242</ZipCode>
+<StreetAddress><![CDATA[Mitchell Physics Building, 4242 TAMU, 578 University Dr.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124100</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~331041</FUND_OBLG>
+</Award>
+</rootTag>

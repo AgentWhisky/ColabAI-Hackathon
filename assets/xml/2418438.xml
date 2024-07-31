@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: Controllable Disorder as a Path to Many-Body Entanglement in Quantum Magnets]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>249997.00</AwardTotalIntnAmount>
+<AwardAmount>249997</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mun Chan</SignBlockName>
+<PO_EMAI>mchan@nsf.gov</PO_EMAI>
+<PO_PHON>7032927104</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Non-technical Description:&lt;br/&gt;Quantum information technologies rely on quantum entanglement, or the intrinsic linking of one quantum object to another. An important research objective is to gain a fundamental understanding of many-body quantum entanglement involving large numbers of quantum objects. Certain magnetic materials known as geometrically frustrated magnets provide a valuable platform for this topic of study because they may exhibit many-body entanglement at low temperature. This project advances the search for promising quantum-entangled frustrated magnets through a systematic investigation of the role of atomic-scale disorder in promoting or hindering many-body entanglement. The results illuminate strategies for utilizing disorder to promote quantum-entangled ground states and contribute to a deeper understanding of many-body quantum entanglement in general. These research activities are integrated into education and outreach efforts including intensive undergraduate mentoring, summer research internships for diverse students, and a new organization called the Physics Breakfast Club that supports regional high-school physics teachers by building community and providing teaching resources.&lt;br/&gt; &lt;br/&gt;Technical Description:&lt;br/&gt;Recent work suggests that disorder in certain types of frustrated magnets can stabilize entangled magnetic states such as a quantum spin liquid. This project explores that idea in the context of rare-earth pyrochlore compounds with mixed atomic species on the nonmagnetic metal/metalloid site. The level of random disorder can be controlled by the size mismatch of the different atomic species, allowing a systematic investigation of the influence of disorder on the formation of a quantum spin liquid or a related phase in disordered pyrochlore compounds. The goals are to develop guiding principles for utilizing disorder as a tool for stabilizing entangled magnetic states and evaluate the potential of disordered pyrochlores for achieving these states. The magnetic and structural properties of the materials are characterized by state-of-the-art techniques including x-ray and neutron total scattering, muon spin spectroscopy, and inelastic neutron scattering. This multi-modal methodological approach is ideally suited to gaining a comprehensive understanding of the local disorder and its effect on the magnetism in pyrochlore compounds, while also providing a template for similar studies on other materials in the future.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418438</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Frandsen</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benjamin A Frandsen</PI_FULL_NAME>
+<EmailAddress><![CDATA[benfrandsen@byu.edu]]></EmailAddress>
+<NSF_ID>000806396</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Brigham Young University]]></Name>
+<CityName>PROVO</CityName>
+<ZipCode>846021128</ZipCode>
+<PhoneNumber>8014223360</PhoneNumber>
+<StreetAddress><![CDATA[A-153 ASB]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JWSYC7RUMJD1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BRIGHAM YOUNG UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Brigham Young University]]></Name>
+<CityName>PROVO</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>846021042</ZipCode>
+<StreetAddress><![CDATA[A-153 ASB]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>217Y00</Code>
+<Text>LEAPS-MPS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~249997</FUND_OBLG>
+</Award>
+</rootTag>

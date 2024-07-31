@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Leveraging Curvilinear Coordinates for Long-term and Accurate Simulations of Compact Binary Inspirals and Mergers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>450001.00</AwardTotalIntnAmount>
+<AwardAmount>450001</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award supports research in relativity and relativistic astrophysics, and it addresses the priority areas of NSF's "Windows on the Universe" Big Idea. Recent gravitational wave detections from binary black hole and neutron star mergers have revolutionized astrophysics, providing new insights into fields such as general relativity, cosmology, nuclear physics, and astronomy. Future observations from both Earth-based and space-based detectors will extend our understanding of these phenomena and the formation of supermassive black holes. The principal investigators plan to develop new GPU-enabled algorithms and computational tools to accurately model accreting binary black hole and neutron star mergers. These tools will utilize both Cartesian and curvilinear coordinates to model complex systems, enhancing stability and accuracy while simulating the entire merger process of binary neutron star (BNS) systems and supermassive black hole binaries (SMBBHs). Additionally, the PI's team works on "Astrodance," an artistic show with RIT's NTID performers that integrates dance, ASL, music, and digital storytelling to depict scientific visualizations of mergers. Public outreach efforts will include participating in events such as "ImagineRIT" and presentations on topics such as compact binary mergers and gravitational waves.&lt;br/&gt;&lt;br/&gt;By optimizing codes and grids within heterogeneous systems, the project aims to extend the duration of simulations for both the pre-merger and post-merger phases. This will enable enhanced long-term tracking of post-merger BNS systems and more efficient simulation of accreting SMBBHs. Additionally, the tools will calculate observables such as gravitational wave signatures, electromagnetic outputs, jet production, and nucleosynthesis-shaped outflows, thereby deepening our understanding of compact binary mergers. A public data repository will disseminate the project's findings to the scientific community. The team will also collaborate on several educational and outreach initiatives at RIT, including a multimessenger astronomy REU program and an NSF-funded PAARE project aimed at supporting hard-of-hearing and Hispanic students.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409706</AwardID>
+<Investigator>
+<FirstName>Yosef</FirstName>
+<LastName>Zlochower</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yosef E Zlochower</PI_FULL_NAME>
+<EmailAddress><![CDATA[yrzsma@rit.edu]]></EmailAddress>
+<NSF_ID>000220129</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Manuela</FirstName>
+<LastName>Campanelli</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Manuela Campanelli</PI_FULL_NAME>
+<EmailAddress><![CDATA[mxcsma@rit.edu]]></EmailAddress>
+<NSF_ID>000493350</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Rochester Institute of Tech]]></Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146235603</ZipCode>
+<PhoneNumber>5854757987</PhoneNumber>
+<StreetAddress><![CDATA[1 LOMB MEMORIAL DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J6TWTRKC1X14</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ROCHESTER INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rochester Institute of Tech]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146235603</ZipCode>
+<StreetAddress><![CDATA[1 LOMB MEMORIAL DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>107Y00</Code>
+<Text>WoU-Windows on the Universe: T</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>124400</Code>
+<Text>Gravity Theory</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~450001</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Electrochemical pumping with high-temperature ionomers for challenging gas separations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>570030.00</AwardTotalIntnAmount>
+<AwardAmount>386545</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carole Read</SignBlockName>
+<PO_EMAI>cread@nsf.gov</PO_EMAI>
+<PO_PHON>7032922418</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Hydrogen is an important energy vector and chemical feedstock and is expected to see wide-spread adoption because of its ability to decarbonize difficult sectors of the U.S. economy – e.g., fertilizer production, metal refining/steel production, and powering heavy duty vehicle transportation. Furthermore, hydrogen is a cost-effective energy storage solution for intermittent renewable electricity generation and when long-term seasonal energy storage is required. Meeting ambitious goals of greenhouse gas and carbon emission reduction necessitates the maturation of electrochemical technologies that generate, store, and distribute hydrogen. This project seeks to understand how electrode polymeric binder materials in electrochemical hydrogen pumps (EHPs) affect the efficiency performance for hydrogen purification from challenging gas mixtures that contain low hydrogen concentrations (1% to 20%). This is important because it is posited that U.S.’s existing natural gas pipelines may have the ability to store and distribute hydrogen from centralized production facilities. Leveraging existing infrastructure can reduce the cost of hydrogen to end users as hydrogen storage and distribution make up a large portion of the cost of hydrogen today. However, endpoint use applications necessitate pure hydrogen at high pressures. Hence, EHPs are promising technology to separate hydrogen from gas mixtures while simultaneously compressing it. Advancing materials’ performance and durability for electrochemical hydrogen pumps, such as electrode binders, can reduce capital costs for EHPs while also improving their energy efficiency. Electrochemical processes are poised to decarbonize chemical processes and is paramount to train future engineers proficient in electrochemical engineering and electrochemical systems integration. This project will commission the first electrochemical unit operation, an EHP, in Penn State’s Unit Operations Laboratory to give students hands-on training with electrochemical systems. Outreach activities for this project will engage and recruit individuals from rural communities in central Pennsylvania to teach them about sustainable chemical manufacturing using electrochemical systems.&lt;br/&gt;&lt;br/&gt;The overall goal of this fundamental research project aims to understand how electrode ionomer binders’ composition and processing influence hydrogen diffusivity and hydrogen oxidation/evolution reaction kinetics in high-temperature polymer electrolyte membrane (HT-PEM) electrochemical hydrogen pumps (EHPs). With the advent of ion-pair HT-PEMs and phosphonic acid ionomer electrode binders, preliminary experiments demonstrated hydrogen separations from syngas, and other reformed hydrocarbons with varying hydrogen and carbon monoxide concentrations, to +99.3% hydrogen at 1 A cm-2. In these experiments, it was observed that cell polarization was largely governed by hydrogen content in the gas mixture feed because CO poisoning was minimized. Addressing EHP cell polarization with gas feeds containing low hydrogen content requires new electrode binders that promote hydrogen diffusivity and foster better electrocatalyst utilization. This project will establish structure-property relationships that correlate ionomer composition and processing to reaction kinetics-transport properties. These ionomer electrochemical properties will be probed as thin films on interdigitated electrode arrays decorated with nanoscale electrocatalysts afforded from block copolymer templating. EHP studies with membrane electrode assemblies containing the new ionomers will be used for understanding cell polarization behavior for purifying hydrogen from gas mixtures with low hydrogen content.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2426358</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Arges</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher Arges</PI_FULL_NAME>
+<EmailAddress><![CDATA[cga5126@psu.edu]]></EmailAddress>
+<NSF_ID>000716707</NSF_ID>
+<StartDate>04/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUE9HKT2CLC9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ZUE9HKT2CLC9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606375418</ZipCode>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>150400</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>764400</Code>
+<Text>EchemS-Electrochemical Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>019Z</Code>
+<Text>Grad Prep APG:Enhan. Experience</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~241716</FUND_OBLG>
+<FUND_OBLG>2023~144829</FUND_OBLG>
+</Award>
+</rootTag>

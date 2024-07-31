@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The Topology of 3- and 4-Manifolds]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>317407.00</AwardTotalIntnAmount>
+<AwardAmount>317407</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Swatee Naik</SignBlockName>
+<PO_EMAI>snaik@nsf.gov</PO_EMAI>
+<PO_PHON>7032924876</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The field of topology involves understanding properties of abstract shapes that are unchanged by twisting, stretching, and bending (but not breaking or tearing).  A n-dimensional manifold is a space that locally resembles n-dimensional real space.  For example, the surface of a donut is a two-dimensional manifold, because under very high magnification, this surface looks like a two-dimensional plane.  Three-dimensional objects arise naturally in our physical world, and four-dimensional objects can be motivated by thinking about the evolution of three-dimensional objects over time.  Notably, low-dimensional topology has a number of interesting applications to biology, chemistry, physics, and quantum computing.  This project focuses on the search for deep connections between manifold theory in dimensions three and four.  In addition, the project includes funding for graduate and undergraduate student research, and it will support the Great Plains Alliance, a program that pairs graduate students with speaking opportunities at other institutions for the purpose of broadening the impact of their work and promoting graduate school in mathematics to the undergraduate attendees.  The project will also fund the Distinguished Women in Mathematics colloquium series at the University of Nebraska-Lincoln, the PI’s home institution.  This series connects UNL faculty and graduate students with prominent women mathematicians and their research.&lt;br/&gt;&lt;br/&gt;Topology in dimension three has seen an explosion of activity over the last several decades, and a number of important open problems have now been resolved.  In contrast, the topology of four-dimensional manifolds has become an increasingly active area of research, motivated by fundamental conjectures that have stubbornly resisted progress.  Two of the most famous examples include the smooth four-dimensional Poincaré conjecture (SPC4) and the slice-ribbon conjecture.  Recently, the PI has shown that a substantial family of four-manifolds satisfies the SPC4 in joint work with Jeffrey Meier.  The work connects four-dimensional handle calculus with results about Dehn surgery on knots and links in three-manifolds; it brings together a wide range of tools and techniques; and it subsumes several historically important results.  The collection of manifolds can be characterized by families of links, including some of the most promising potential counterexamples to the slice-ribbon conjecture.  This project describes a varied set of problems stemming from past work and interweaving ideas from knot theory, three-manifolds, and smooth four-manifold topology.  Specific objectives include proving additional cases of the SPC4, finding new relationships between the topology of certain homotopy four-spheres and the Andrews-Curtis conjecture in combinatorial group theory, developing connections between three- and four-dimensional knot invariants, and utilizing bridge trisections in new constructions of surfaces in four-manifolds.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2405301</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Zupan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander Zupan</PI_FULL_NAME>
+<EmailAddress><![CDATA[zupan@unl.edu]]></EmailAddress>
+<NSF_ID>000575021</NSF_ID>
+<StartDate>05/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Nebraska-Lincoln]]></Name>
+<CityName>LINCOLN</CityName>
+<ZipCode>685032427</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress><![CDATA[2200 VINE ST # 830861]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NE01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HTQ6K6NJFHA6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Nebraska-Lincoln]]></Name>
+<CityName>LINCOLN</CityName>
+<StateCode>NE</StateCode>
+<ZipCode>685032427</ZipCode>
+<StreetAddress><![CDATA[2200 VINE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NE01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125300</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>126700</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~317407</FUND_OBLG>
+</Award>
+</rootTag>

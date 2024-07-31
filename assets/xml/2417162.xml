@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Prediction, Inference, and Choice]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>272750.00</AwardTotalIntnAmount>
+<AwardAmount>272750</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Lutz</SignBlockName>
+<PO_EMAI>nlutz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927280</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This research focuses on understanding how people make decisions and interact based on information. One part explores the long-run implications of people not fully accounting for the ways that their memory can be limited or imperfect, which can lead them to, for example, overestimate their abilities and/or neglect large but infrequent losses. This work has important implications for such macroeconomic issues as why stocks tend to outperform bonds even after correcting for risk, and also helps explain  why people’s decisions can seem random. Another part delves into how people decide whether to share stories on social media. The research also examines how community dynamics influence cooperative behavior among interacting partners, which is important for understanding how societies function. The project also explores the behavior of agents who prefer to be surprised, such as those who prefer watching a close sports game to one where their preferred team is almost sure to win; this has implications for voter turnout and online gambling. Lastly, the research develops a method to evaluate theories that predict behavior across different situations, comparing economic models with machine-learning algorithms. This approach is valuable across economics disciplines including development, industrial organization, labor economics, and public finance.&lt;br/&gt;&lt;br/&gt;The work on limited memory assumes that agents only remember a random subset of their past experiences and that agents are naive about this. It shows that the agent’s long-run behavior satisfies a fixed-point condition that is formalized as a limited memory equilibrium. The research relates limited-memory equilibrium to the literature on stochastic choice, and also considers how closely the behavior of agents with “almost unlimited” but imperfect memory approximates that of agents with perfect memory. The work on social media starts from the premise that people prefer to share accurate content they will pay an attention cost to distinguish true content from false. This research uses results on stochastic approximation via differential inclusions and extends previous results on generalized Polya urns to urn systems that are only piecewise continuous. The work on community enforcement studies how people who interact with a series of partners can use information about their current partner’s past behavior to guide how they interact with them now. With the same technology,&lt;br/&gt;self-interested cooperation is less efficient in these settings than in fixed partnerships, but this can be offset by gains from specialization. The research analyzes how the tradeoff between these two forms of social organization varies with the parameters of the interaction. The work on risk and surprise uses results from convex analysis and optimal transport to analyze all concave preferences over risky lotteries that satisfy a form of smoothness condition. It shows how to view any such preference as arising from a taste for surprise, and uses this interpretation to develop new and tractable models of risk preference as well as new interpretations and results for some existing models. The work on transfer performance provides a tractable approach for evaluating cross-domain transfer performance--how accurately will a model estimated on one domain (e.g. a ountry or a set of lotteries) generalize to a new domain--based on techniques that generalize conformal inference by allowing behavior in different domains to be governed by different distributions that are themselves drawn identically and independently from a fixed but unknown meta-distribution. It derives finite-sample forecast intervals for a large class of measures of transfer performance that can be used to evaluate both economic models and black box algorithms. It then uses these forecast intervals to compare the generalizability of economic models and machine learning methods when predicting certainty equivalents for lotteries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417162</AwardID>
+<Investigator>
+<FirstName>Drew</FirstName>
+<LastName>Fudenberg</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Drew Fudenberg</PI_FULL_NAME>
+<EmailAddress><![CDATA[drew.fudenberg@gmail.com]]></EmailAddress>
+<NSF_ID>000438556</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021421347</ZipCode>
+<StreetAddress><![CDATA[50 Memorial Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>132000</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~272750</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CREST HBCU-RISE: Advancing Theoretical Artificial Intelligence Infrastructure for Modern Data Science Challenges]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>1200000.00</AwardTotalIntnAmount>
+<AwardAmount>432448</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EES</Abbreviation>
+<LongName>Div. of Equity for Excellence in STEM</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomasz Durakiewicz</SignBlockName>
+<PO_EMAI>tdurakie@nsf.gov</PO_EMAI>
+<PO_PHON>7032924892</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Centers of Research Excellence in Science and Technology HBCU Research Infrastructure for Science and Engineering (CREST HBCU-RISE), this project aims to improve the theoretical Artificial Intelligence (AI) infrastructure at Tennessee State University (TSU) for addressing important data science challenges. While AI applications have proliferated, there remains a gap in the fundamental mathematical theories required to construct reliable and secure AI systems suitable for safety-critical applications. This project seeks to address this. The expected outcomes include the advancement of scientific knowledge in AI theory and its practical applications in cybersecurity, bioinformatics, and agriculture. Additionally, this project aims to enhance interdisciplinary collaboration, promote broader participation in STEM fields, and strengthen research competitiveness at TSU.&lt;br/&gt;&lt;br/&gt;The overarching goal is to advance research capabilities in emerging AI areas and develop a comprehensive approach to educate and train Ph.D. students in collaboration with three TSU colleges: Engineering, Life and Physical Sciences, and Agriculture. The research will develop mathematical theory and practical algorithms for accurate and robust machine learning that can be applied for advancing research in privacy-preserving AI, protein structure modeling with enhanced cryo-electron microscopy imaging, and optimal feature selection for precision agriculture. High-dimensional manifold geometries for neural networks training, network linearization for homomorphic encryption in private AI, systematic integration of subspace segmentation and machine learning for cryo-electron microscopy, and quality assessment of multi-scale sensing data for crop parameters and yield estimation will be investigated. This project implements a coherent curriculum across three colleges for AI education, which includes developing educational materials, organizing professional development activities for students, providing Ph.D. student mentoring, and procuring research equipment to support this research. The CREST HBCU-RISE program supports the expansion of institutional research capacity as well as the successful training of doctoral students in STEM at HBCUs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409093</AwardID>
+<Investigator>
+<FirstName>Ali</FirstName>
+<LastName>Sekmen</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ali S Sekmen</PI_FULL_NAME>
+<EmailAddress><![CDATA[asekmen@tnstate.edu]]></EmailAddress>
+<NSF_ID>000346318</NSF_ID>
+<StartDate>04/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kamal</FirstName>
+<LastName>Al Nasr</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kamal Al Nasr</PI_FULL_NAME>
+<EmailAddress><![CDATA[kalnasr@tnstate.edu]]></EmailAddress>
+<NSF_ID>000677438</NSF_ID>
+<StartDate>04/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Erdem</FirstName>
+<LastName>Erdemir</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Erdem Erdemir</PI_FULL_NAME>
+<EmailAddress><![CDATA[eerdemir@tnstate.edu]]></EmailAddress>
+<NSF_ID>000768566</NSF_ID>
+<StartDate>04/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kamrul</FirstName>
+<LastName>Hasan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kamrul Hasan</PI_FULL_NAME>
+<EmailAddress><![CDATA[mhasan1@tnstate.edu]]></EmailAddress>
+<NSF_ID>000854073</NSF_ID>
+<StartDate>04/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Noel</FirstName>
+<LastName>Bourne</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Noel Bourne</PI_FULL_NAME>
+<EmailAddress><![CDATA[nbourne@tnstate.edu]]></EmailAddress>
+<NSF_ID>000978665</NSF_ID>
+<StartDate>04/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Tennessee State University]]></Name>
+<CityName>NASHVILLE</CityName>
+<ZipCode>372091500</ZipCode>
+<PhoneNumber>6159637631</PhoneNumber>
+<StreetAddress><![CDATA[3500 JOHN A MERRITT BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>N63ZMY7UETA3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TENNESSEE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Tennessee State University]]></Name>
+<CityName>NASHVILLE</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>372091500</ZipCode>
+<StreetAddress><![CDATA[3500 JOHN A MERRITT BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>913100</Code>
+<Text>Centers for Rsch Excell in S&amp;T</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>04002425DB</Code>
+<Name><![CDATA[NSF STEM Education]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~432448</FUND_OBLG>
+</Award>
+</rootTag>

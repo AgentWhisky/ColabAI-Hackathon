@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: Searching for an Extended Higgs Sector at the Large Hadron Collider]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>249874.00</AwardTotalIntnAmount>
+<AwardAmount>249874</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kathleen McCloud</SignBlockName>
+<PO_EMAI>kmccloud@nsf.gov</PO_EMAI>
+<PO_PHON>7032928236</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Standard Model of particle physics describes the fundamental constituents of the universe and their interactions.    One of the greatest scientific triumphs of this century was the discovery of the Higgs boson in 2012.   This made the Standard Model complete and self-consistent.   However, there remain several phenomena that the Standard Model does not explain, including dark matter, the existence of matter instead of antimatter, the huge disparity between the strength of the non-gravitational forces and that of gravity, etc.     Many of these phenomena can be explained by extending the Standard Model and popular extensions involve additional Higgs bosons.   The PI proposes to search for these additional Higgs bosons at the Large Hadron Collider as part of the ATLAS Collaboration.   He has identified a particular signature that has not been thoroughly studied and proposes to do a complete analysis of this signature.   The project is accessible to undergraduates and the PI will recruit several students to work on the computational aspects and travel to CERN to work with others in the collaboration.   An important aspect of this Collaboration is the Open Data project, which releases data, simulation and analysis tools to the public, and the PI will work with undergraduates as well as local high school teachers to develop this material.    His institution, CSU Stanislaus, is a Hispanic-serving institution which is largely first-generation and low-income.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Many extensions of the Standard Model involve additional singlet or doublet scalar fields which then predict the existence of new scalar bosons similar to the Higgs boson and which might mix with the Standard Model Higgs.   The PI proposes to search for a class of these scalars using data from the ATLAS experiment at the Large Hadron Collider, focusing on resonant scalar production in the highly sensitive 2-bottom quark, 2- tau final state.   The search will include developing selection criteria to separate signal from background, estimating background processes using data-driven techniques and developing machine-learning methods to reconstruct and identify the 2-tau signature arising from a resonance of an unknown mass.   There are several distinct projects, including a signal Monte Carlo Simulation, signal Topology, Trigger Efficiency, Missing Mass Calculator and Signal Selection.   Undergraduates will be able to play an active role in all of these projects. Although a search has been studied by the CMS Collaboration, it has not yet been done by ATLAS which might provide stronger limits (or a discovery).   The project will be performed primarily by undergraduate students in collaboration with other members of the ATLAS Collaboration.    &lt;br/&gt; &lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418779</AwardID>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Veatch</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jason Veatch</PI_FULL_NAME>
+<EmailAddress><![CDATA[jveatch@csustan.edu]]></EmailAddress>
+<NSF_ID>000976125</NSF_ID>
+<StartDate>05/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[California State University-Stanislaus]]></Name>
+<CityName>TURLOCK</CityName>
+<ZipCode>953823200</ZipCode>
+<PhoneNumber>2096673493</PhoneNumber>
+<StreetAddress><![CDATA[ONE UNIVERSITY CIRCLE]]></StreetAddress>
+<StreetAddress2><![CDATA[112A]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SRT1YX7KJQL4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CALIFORNIA STATE UNIVERSITY, STANISLAUS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California State University-Stanislaus]]></Name>
+<CityName>TURLOCK</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>953823200</ZipCode>
+<StreetAddress><![CDATA[ONE UNIVERSITY CIRCLE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>217Y00</Code>
+<Text>LEAPS-MPS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~249874</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Estimation of Misspecified Structural Equation Models with Latent Variables]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>249999.00</AwardTotalIntnAmount>
+<AwardAmount>249999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cheryl Eavey</SignBlockName>
+<PO_EMAI>ceavey@nsf.gov</PO_EMAI>
+<PO_PHON>7032927269</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This research project aims to enhance policy decisions based on statistical models that are incorrectly specified but closely fitting. Statistical models often involve a system of equations. As the number of equations in a system increases, finding a well-fitting model becomes increasingly challenging, leading to the retention of incorrect models if they provide an overall close fit to the data. However, policy decisions based on such models may be flawed. This project will develop new methods to address these concerns. The products of this research will be broadly disseminated to researchers in the social and behavioral sciences via publications and training workshops. The new methods also will be integrated into Lavaan, a widely used open-source software program. &lt;br/&gt;&lt;br/&gt;This research project will develop equation-by-equation maximum likelihood estimation for structural equation models involving latent variables. To enhance the validity of inferences in such models, equation-by-equation tests will be created for use with full information methods. In the context of incorrectly specified but closely fitting models, equation-by-equation estimation methods show promise for providing more accurate inferences for correctly specified equations within these systems. Additionally, to address the replicability crisis in the social sciences, both full information and equation-specific tests in cross-validation samples will be developed. The new methods also will be extended to models involving categorical outcomes. The project will thoroughly compare these equation-by-equation methods to current standard methods that estimate all equations simultaneously. This approach will be implemented in open-source software as a comprehensive estimator, providing an alternative to full information maximum likelihood in models that are misspecified but closely fitting.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418845</AwardID>
+<Investigator>
+<FirstName>Alberto</FirstName>
+<LastName>Maydeu-Olivares</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alberto Maydeu-Olivares</PI_FULL_NAME>
+<EmailAddress><![CDATA[amaydeu@mailbox.sc.edu]]></EmailAddress>
+<NSF_ID>000728921</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of South Carolina at Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>292083403</ZipCode>
+<PhoneNumber>8037777093</PhoneNumber>
+<StreetAddress><![CDATA[1600 HAMPTON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J22LNTMEDP73</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTH CAROLINA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>J22LNTMEDP73</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of South Carolina at Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>292083403</ZipCode>
+<StreetAddress><![CDATA[1600 HAMPTON ST # 414]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>133300</Code>
+<Text>Methodology, Measuremt &amp; Stats</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>139700</Code>
+<Text>Cross-Directorate  Activities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~249999</FUND_OBLG>
+</Award>
+</rootTag>

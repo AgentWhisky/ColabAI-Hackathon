@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[XTRIPODS: Integrated Decision-Making in Data Science: New Models, Tractable Reformulations, and Validation through Undergraduate Projects]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>199698.00</AwardTotalIntnAmount>
+<AwardAmount>199698</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tracy Kimbrel</SignBlockName>
+<PO_EMAI>tkimbrel@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Recent technological advances have significantly enhanced decision-making processes by utilizing mathematical optimization models, machine learning methods, and large collections of observed data. A component of the decision-making process is accurately estimating the parameters of the model that are informed by daily operations and solving the resulting optimization problem to produce the optimal decision. A widely practiced method of parameter estimation is to employ machine learning methods to predict optimization parameters by exploiting past records. Such integration of machine learning with decision-making has received much attention in the last several years and has showed desirable simulation results. However, it has been pointed out that there is a gap in the integration, which leads to computing only suboptimal solutions. Specifically, the performance of machine learning methods is evaluated by prediction errors, while the output of the optimization framework is decisions and the value associated with these decisions. Following on these recent efforts, this project will expand the latest advances in the machine learning integrated optimization framework to data science to narrow the identified gap and develop new methods. Throughout the project, undergraduate and graduate students will participate and work together on student projects to numerically validate the proposed methods in challenging interdisciplinary problems in data science.&lt;br/&gt;&lt;br/&gt;The research goals of the project include designing novel loss functions for parameter estimation, developing tractable reformulations of the new models, and employing large-scale computational algorithms to solve the problems efficiently. This project will investigate three types of loss - measuring prescription value, prescription optimality, and first-order condition - that include existing loss described in the literature. The proposed generalization will help relax assumptions imposed on the choices of machine learning models and the objective function’s mathematical properties. It is anticipated that implementing the proposed loss will result in discontinuous optimization problems. For computational concerns, this project will develop tractable continuous reformulations that can be efficiently solved by applying appropriate solution algorithms. Identifying suitable computational methods that exploit each optimization problem’s properties is another goal of the project. The project will apply large-scale optimization algorithms to solve proposed and existing formulations to validate the performance of the integrated approach. The outcome of these tasks will be evaluated using identifiable metrics such as optimality and feasibility of the solutions and efficiency of the solution methods. The US National Science Foundation Institute for Foundations of Data Science (IFDS) will take a supporting role in this project, including designing and evaluating student projects. In addition, IFDS will give guidance on course design based on a new course sequence on Mathematics of Data Science designed by the University of Washington Department of Mathematics, help with developing short tutorial materials, and IFDS members will contribute to the workshop planned to be held at the Southern Methodist University.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423246</AwardID>
+<Investigator>
+<FirstName>Miju</FirstName>
+<LastName>Ahn</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Miju Ahn</PI_FULL_NAME>
+<EmailAddress><![CDATA[mijua@smu.edu]]></EmailAddress>
+<NSF_ID>000808061</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Harsha</FirstName>
+<LastName>Gangammanavar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Harsha Gangammanavar</PI_FULL_NAME>
+<EmailAddress><![CDATA[harsha@smu.edu]]></EmailAddress>
+<NSF_ID>000730362</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Southern Methodist University]]></Name>
+<CityName>DALLAS</CityName>
+<ZipCode>752051902</ZipCode>
+<PhoneNumber>2147684708</PhoneNumber>
+<StreetAddress><![CDATA[6425 BOAZ ST RM 130]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D33QGS3Q3DJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOUTHERN METHODIST UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>S88YPE3BLV66</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Southern Methodist University]]></Name>
+<CityName>DALLAS</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>752051902</ZipCode>
+<StreetAddress><![CDATA[6425 BOAZ ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>041Y00</Code>
+<Text>TRIPODS Transdisciplinary Rese</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>048Z</Code>
+<Text>TRIPODS Phase 2</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~199698</FUND_OBLG>
+</Award>
+</rootTag>

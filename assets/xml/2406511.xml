@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[ALPACA - Advancing the Long-range Prediction, Attribution, and forecast Calibration of AMOC and its climate impacts]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>615117.00</AwardTotalIntnAmount>
+<AwardAmount>615117</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Baris Uz</SignBlockName>
+<PO_EMAI>bmuz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924557</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This is a project jointly funded by the National Science Foundation’s Directorate for Geosciences (NSF/GEO) and the National Environment Research Council (NERC) of the United Kingdom (UK) via the NSF/GEO-NERC Lead Agency Agreement. This Agreement allows a single joint US/UK proposal to be submitted and peer-reviewed by the Agency whose investigator has the largest proportion of the budget. Upon successful joint determination of an award recommendation, each Agency funds the proportion of the budget that supports scientists at institutions in their respective countries.&lt;br/&gt;&lt;br/&gt;This project aims to advance understanding of AMOC (Atlantic Meridional Overturning Circulation) predictability. The overarching objective of this international collaboration is to quantify, understand, and improve our capacity to predict the AMOC and its climate impacts on seasonal-to-decadal (S2D) timescales. It will utilize AMOC observations (RAPID and OSNAP) as well as observation-based AMOC reconstructions to assess the skill in predicting the AMOC in state-of-the-art S2D prediction systems. It will evaluate the processes that contribute to skill and their consistency across models and use new simulations to better understand the relative roles of different processes in driving observed variability on S2D timescales. Additionally, new large- ensemble simulations will be used to quantify the role of external forcing in driving AMOC variability and change. Finally, with this new understanding, it will determine whether S2D predictions of AMOC and AMOC-related climate impacts can be improved through physically-consistent statistical calibrations that reduce the signal-to-noise issues in predictions of atmospheric circulation. The new knowledge may inform future prediction system development and will feed directly into international coordinated activities such as WCRP’s Decadal Climate Prediction Project (DCPP) and its lighthouse activity on Explaining and Predicting Earth System Change (EPESC). Improved and better understood climate predictions will deliver significant benefits to society as a whole. The knowledge gained in this effort will be promulgated through the CESM Earth System Prediction Working Group that supports the US university community. The findings will likely influence diverse research communities focused on climate change and projection, climate prediction, ocean modeling, and observational oceanography. An early career scientist (postdoc) at NCAR will benefit from the opportunity to work with an international team of experts.&lt;br/&gt;&lt;br/&gt;The expected intellectual advancements from this work include: 1) clarification of the current capacity of state-of-the-art initialized prediction systems to predict AMOC and its constituent currents when verified against a suite of available observational benchmarks; 2) elucidation of the key predictability mechanisms at work in skillful systems and their time scale dependence; 3) improved understanding of whether and how skillful AMOC prediction translates into skillful prediction of Atlantic sector climate impacts; 4) more sophisticated attribution of past AMOC change; and 5) assessment of the potential to improve S2D AMOC and associated impacts predictions using new forecast calibration techniques.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/08/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>12/08/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406511</AwardID>
+<Investigator>
+<FirstName>Gokhan</FirstName>
+<LastName>Danabasoglu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gokhan Danabasoglu</PI_FULL_NAME>
+<EmailAddress><![CDATA[gokhan@ucar.edu]]></EmailAddress>
+<NSF_ID>000418051</NSF_ID>
+<StartDate>12/08/2023</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Isla</FirstName>
+<LastName>Simpson</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Isla R Simpson</PI_FULL_NAME>
+<EmailAddress><![CDATA[islas@ucar.edu]]></EmailAddress>
+<NSF_ID>000634909</NSF_ID>
+<StartDate>12/08/2023</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Yeager</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen G Yeager</PI_FULL_NAME>
+<EmailAddress><![CDATA[yeager@ucar.edu]]></EmailAddress>
+<NSF_ID>000728664</NSF_ID>
+<StartDate>12/08/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University Corporation For Atmospheric Res]]></Name>
+<CityName>BOULDER</CityName>
+<ZipCode>803012252</ZipCode>
+<PhoneNumber>3034971000</PhoneNumber>
+<StreetAddress><![CDATA[3090 CENTER GREEN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YEZEE8W5JKA3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University Corporation For Atmospheric Res]]></Name>
+<CityName>BOULDER</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803012252</ZipCode>
+<StreetAddress><![CDATA[3090 CENTER GREEN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>161000</Code>
+<Text>PHYSICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1324</Code>
+<Text>CLIMATE VARIABILITY AND PREDICTABILITY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~615117</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Robust and miniature laser with tailorable single-mode operation range]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Margaret Kim</SignBlockName>
+<PO_EMAI>sekim@nsf.gov</PO_EMAI>
+<PO_PHON>7032922967</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With the advent of electronic integrated circuits (ICs), society has witnessed the unprecedented miniaturization of electronic devices, leading to extremely fast and miniaturized computers as well as many applications that were previously unimaginable. Following a similar trend, the downscaling of photonic devices promises highly efficient photonic ICs. A crucial component in high-performance photonic ICs is an on-chip laser. Such a laser must simultaneously have high efficiency, low energy consumption, robust operation, and a small footprint to be compatible with the rest of the photonic circuitry and even electronic ICs. However, existing on-chip lasers, and photonic devices in general, are sensitive to structural imperfections, which become more prominent as the device becomes smaller. The proposed program will theoretically investigate and experimentally demonstrate compact on-chip III-V lasers that are robust, efficient, and whose single-mode operation range can be tailored. The superior performance of these lasers stems from the fact that the emission is protected by the bulk topology of the cavity. The devices developed in this program will lead to a family of topologically protected lasers that satisfies several requirements of the next-generation lasers for photonic ICs, which will advance electronic-photonic integration, as well as applications such as data communication, signal processing, sensing, and quantum photonics. The educational portion of the program aims to increase public awareness of photonics, pipeline qualified students to help advance the U.S. photonics industry and expand the American workforce in photonics.&lt;br/&gt;&lt;br/&gt;Robust and efficient on-chip light generation and transport are at the heart of modern chip-scale optical communication and information processing technologies, leading to the search for the next generation of on-chip lasers. In this collaborative research, miniature on-chip lasers that overcome fundamental challenges in miniature lasers – the simultaneous achievement of robust operation and a small footprint – will be realized. These lasers feature 1) robust operation: the laser emission is protected by the topology of the bulk rather than the emitting site itself; 2) small footprint: the laser is realized in 1D rather than the typical 2D; 3) large and tailorable single-mode lasing range, and 4) compatibility with existing photonic IC technologies: a synthetic rather than an actual magnetic field is used to support the non-trivial bulk topology.&lt;br/&gt;The success of this research will determine a suitable light source candidate for densely packed photonic ICs, and lead to not only fully functional photonic ICs but also the connectivity between the photonic “plane” and electronic “plane” in multi-functional adaptive photonic/electronic integrated systems. From the fundamental perspective, the topologically protected lasers developed in this project not only can be used to probe the multi-dimensional topological phase diagram of non-Hermitian systems but will also allow the exploration of other exotic phases of topological photonic devices beyond photonic topological insulators.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411394</AwardID>
+<Investigator>
+<FirstName>Chuanwei</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chuanwei Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[chuanwei.zhang@wustl.edu]]></EmailAddress>
+<NSF_ID>000512132</NSF_ID>
+<StartDate>01/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Washington University]]></Name>
+<CityName>SAINT LOUIS</CityName>
+<ZipCode>63110</ZipCode>
+<PhoneNumber>3147474134</PhoneNumber>
+<StreetAddress><![CDATA[ONE BROOKINGS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L6NFUM28LQM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WASHINGTON UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Washington University]]></Name>
+<CityName>SAINT LOUIS</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>63110</ZipCode>
+<StreetAddress><![CDATA[ONE BROOKINGS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>151700</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>091E</Code>
+<Text>Light generation &amp; detection</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>094E</Code>
+<Text>Optoelectronic devices</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~225000</FUND_OBLG>
+</Award>
+</rootTag>

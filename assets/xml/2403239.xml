@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[OAC Core: OAC Core Projects: GPU Geometric Data Processing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Juan Li</SignBlockName>
+<PO_EMAI>jjli@nsf.gov</PO_EMAI>
+<PO_PHON>7032922625</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Geometric data processing is vital across various domains, from architecture and design to medical imaging, robotics, animation, and entertainment. The integration of machine learning has propelled advancements in the field and unlocked applications for computer vision and generative AI-driven design. However, the reliance on CPU-based serial processing limits the speed of processing complex and detailed geometries. This project seeks to leverage Graphics Processing Units’ (GPUs’) parallel computing capabilities to improve geometric data processing speed, efficiency, and scalability. It introduces GPU-optimized algorithms and data structures, offering significant speed improvements for unstructured mesh processing, a common but challenging-to-optimize task essential to many applications.&lt;br/&gt;&lt;br/&gt;This project addresses the inefficiencies in 3D geometric data processing by designing data structures that maximize the potential of GPU and multi-GPU systems. It focuses on three primary research directions: 1) Dynamic Unstructured Mesh Processing, to process dynamic changes in mesh topology entirely on the GPU; 2) Parallel Intrinsic Mesh Processing, managing extrinsic and intrinsic mesh representations simultaneously to ensure optimal parallel efficiency of theoretically robust algorithms; and 3) Neural Mesh Compression, to compress mesh attributes using neural networks, maximizing the size of meshes that may be processed. Tailoring these strategies specifically for GPU architectures aims to accelerate the entire spectrum of geometric data processing applications, from large-scale simulations to interactive computer graphics. Additionally, the project seeks to make these advancements broadly accessible by releasing them in high-quality, open-source libraries, encouraging the adoption of GPU-accelerated geometric processing techniques, and providing developers and researchers with a comprehensive set of tools to explore new possibilities within their fields.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403239</AwardID>
+<Investigator>
+<FirstName>Justin</FirstName>
+<LastName>Solomon</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Justin M Solomon</PI_FULL_NAME>
+<EmailAddress><![CDATA[jsolomon@mit.edu]]></EmailAddress>
+<NSF_ID>000680985</NSF_ID>
+<StartDate>04/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Ragan-Kelley</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonathan M Ragan-Kelley</PI_FULL_NAME>
+<EmailAddress><![CDATA[jrk@mit.edu]]></EmailAddress>
+<NSF_ID>000738655</NSF_ID>
+<StartDate>04/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>090Y00</Code>
+<Text>OAC-Advanced Cyberinfrast Core</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~600000</FUND_OBLG>
+</Award>
+</rootTag>

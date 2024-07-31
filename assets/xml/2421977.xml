@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: FMitF:Track III: A Taste of Formal Methods for Different STEM Communities and Courses]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>212983.00</AwardTotalIntnAmount>
+<AwardAmount>212983</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anindya Banerjee</SignBlockName>
+<PO_EMAI>abanerje@nsf.gov</PO_EMAI>
+<PO_PHON>7032927885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Formal methods in computer science aim to increase reliability and robustness of software and hardware designs. Unfortunately, formal methods are typically only accessible to specialized professionals. One of the reasons for this limited accessibility is the lack of exposure to formal methods in undergraduate education, even for computer science majors. Even though formal methods are used in practice to analyze the correctness of large-scale software and hardware systems, they can also be applied to algorithms and other mathematical constructs at a smaller scale. The project's novelties are developing and disseminating self-contained interactive exercises, using a web-based programming environment, to solve small-scale problems using formal methods. The project's impacts are that these small-scale problems give a taste of formal methods to different STEM communities, namely: three institutions (a research institution, a liberal-arts college, and a community college), several computing and engineering majors (computer science, bioinformatics, computer engineering, chemical engineering, and more), and several topics and levels (introductory programming, engineering design, digital system design, databases, artificial intelligence, and more). The project's impacts go beyond the investigators' institutions: The self-contained interactive exercises can be used as-is, with no work required from the instructor and no additional time needed in the course schedule since they are designed to cover standard course topics, to give a taste of formal methods to all.&lt;br/&gt;&lt;br/&gt;Formal methods are currently not part of the standard computer science undergraduate curriculum. Thus instruction using formal methods, especially outside of computer science programs and outside of research institutions, is very limited. Instructors may lack the proper experience or background to teach formal methods. Instructors may not have had the appropriate exposure, and for STEM instructors outside computer science (e.g., mechanical engineering), formal methods may be far away from their fields. Additionally, there is a lack of space in the often tightly structured undergraduate computing and engineering curricula. The project's working hypothesis is that formal methods exposure can be significantly improved by developing self-contained Jupyter notebooks (using satisfiability modulo theories solvers accessed via Python) that focus on small-scale problems. These notebooks can be used as-is, with no work required from the instructor and no additional time needed in the course schedule since they are designed to cover standard course topics. For instance, modules studying the verification of the molecular structure of a chemical compound, the links in a protein-protein interaction biological network, or the tuples retrieved by a SQL query over a relational database. The project aims to impact a wide range of students and majors. This includes computer science students at the Rochester Institute of Technology (RIT, a research institution) and the College of the Holy Cross (a liberal arts college), as well as at Monroe Community College, which has a formal transfer pathway with RIT. In addition to introducing formal methods to computer science students, the project will also introduce formal methods to several engineering programs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421977</AwardID>
+<Investigator>
+<FirstName>Carlos</FirstName>
+<LastName>Rivero</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carlos Rivero</PI_FULL_NAME>
+<EmailAddress><![CDATA[crr@cs.rit.edu]]></EmailAddress>
+<NSF_ID>000727853</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edith</FirstName>
+<LastName>Hemaspaandra</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Edith Hemaspaandra</PI_FULL_NAME>
+<EmailAddress><![CDATA[eh@cs.rit.edu]]></EmailAddress>
+<NSF_ID>000176348</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Rochester Institute of Tech]]></Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146235603</ZipCode>
+<PhoneNumber>5854757987</PhoneNumber>
+<StreetAddress><![CDATA[1 LOMB MEMORIAL DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J6TWTRKC1X14</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ROCHESTER INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rochester Institute of Tech]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146235603</ZipCode>
+<StreetAddress><![CDATA[1 LOMB MEMORIAL DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>094Y00</Code>
+<Text>FMitF: Formal Methods in the F</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>071Z</Code>
+<Text>FMitF-Formal Methods in the Field</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~212983</FUND_OBLG>
+</Award>
+</rootTag>

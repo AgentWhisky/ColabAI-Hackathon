@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Equity Beyond the Algorithm: A Mathematical Quest for Fairer-ness in Machine Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>275000.00</AwardTotalIntnAmount>
+<AwardAmount>275000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Troy D. Butler</SignBlockName>
+<PO_EMAI>tdbutler@nsf.gov</PO_EMAI>
+<PO_PHON>7032922084</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>While machine learning (ML) and artificial intelligence (AI) are seeing widespread and rapid use across the world, very little is understood about many of their underlying mechanisms, and especially those revolving around fairness and bias. More examples are being reported every day that range from racist outputs of ChatGPT to imaging AI that predicts former president Barack Obama's face to be white. The mathematical community has fallen behind the rush to use ML and AI, yet mathematics is at the heart of the algorithmic designs and mechanisms behind ML and AI. This project will study fairness in ML and AI from several angles. First, it will create a framework that identifies fairness metrics throughout the algorithmic pipelines. Second, it will develop technologies to mitigate biases and improve fairness. Third, it will develop mathematical foundations to help us understand the mechanisms at work inside of many of these so-called black-box methods. In addition, medical and social justice applications will be integrated throughout the project, helping many nonprofits with high data driven needs meet their goals. These include medical applications helping to understand manifestations of Lyme disease as well as tools to help Innocence projects that work to free innocent people from prison, make appeal decisions, and synthesize case files. This synergistic approach both serves the community while also allowing those applications to fuel motivation for new and better mathematics. In addition, students will be integrated within the research team as part of their training. &lt;br/&gt;&lt;br/&gt;Although ML and AI methods have expanded by leaps and bounds, there are still critical issues around fairness and bias that remain unresolved. The focus of this project consists of two main goals. First, it will create a framework where ML and AI methods generate informative descriptions about fairness across population groups. Subsequently, a mechanism will be applied based on this assessment to promote fairness across the population. This direction will both establish a structured framework for researchers and practitioners to report fairness metrics and emphasize their significance, while also enabling algorithms to adjust for fairness. The majority of the first goal revolves around showcasing this framework in ML applications including dimension reduction, topic modeling, classification, clustering, data completion, and prediction modeling. Second, the project will provide foundational mathematical support for more complex, seemingly opaque techniques such as neural networks and large language models. This includes the investigation of mathematically tangible shallow networks to understand their behavior in benign and non-benign overfitting. The project will also analyze the geometry of embeddings derived from large language models using a linear algebraic topic modeling approach, which is tied to the first goal. Applications with nonprofit community partners will be included throughout the duration of the project, including those in medicine and criminal and social justice. In total, successful completion of the proposed work will provide a pivotal step towards creating a more equitable and mathematically grounded machine learning landscape.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2408912</AwardID>
+<Investigator>
+<FirstName>Deanna</FirstName>
+<LastName>Needell</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Deanna Needell</PI_FULL_NAME>
+<EmailAddress><![CDATA[deanna@math.ucla.edu]]></EmailAddress>
+<NSF_ID>000600078</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900244200</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress><![CDATA[10889 WILSHIRE BLVD STE 700]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA36</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RN64EPNH8JC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900951555</ZipCode>
+<StreetAddress><![CDATA[520 Portola Plaza]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~275000</FUND_OBLG>
+</Award>
+</rootTag>

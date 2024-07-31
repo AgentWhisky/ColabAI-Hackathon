@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[AF: Small: Measure in Total Function Complexity Classes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>460755.00</AwardTotalIntnAmount>
+<AwardAmount>460755</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Brass</SignBlockName>
+<PO_EMAI>pbrass@nsf.gov</PO_EMAI>
+<PO_PHON>7032922182</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will develop new tools for investigating the computational complexity of total function problems in theoretical computer science. Traditional computational complexity focuses on decision problems, which have a clear yes or no answer. Total function problems are more complex, requiring the actual construction of a solution. Examples include cryptographic tasks like integer factoring and economic tasks like finding Nash equilibria. Resource-bounded measure is a tool that has been successful in understanding the computational complexity of decision problems. In this project, we will extend resource-bounded measure to operate in the function problem setting. The new theory and findings will be promoted to the global theoretical computer science community through a Zoom seminar series. The seminar series will culminate in a workshop at the University of Wyoming in the third year, gathering graduate students and leading computational complexity researchers to discuss and promote the newly developed tools. &lt;br/&gt;&lt;br/&gt;Although resource-bounded measure has been effective in studying decision problems and traditional complexity classes, it currently does not address the complexity of function problems. We will introduce a new type of martingales that operates on function values, enabling the development of a new theory of resource-bounded measure in total function classes. These new martingales will allow for the formulation and analysis of more complex prediction strategies, filling a significant gap in computational complexity theory and extending the application of measure theory more broadly. The project will significantly impact our understanding of pseudorandomness, circuit-size complexity, fine-grained complexity, computational intractability, and the complexity landscape of total function complexity classes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2431657</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Hitchcock</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John M Hitchcock</PI_FULL_NAME>
+<EmailAddress><![CDATA[jhitchco@uwyo.edu]]></EmailAddress>
+<NSF_ID>000392588</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Wyoming]]></Name>
+<CityName>LARAMIE</CityName>
+<ZipCode>820712000</ZipCode>
+<PhoneNumber>3077665320</PhoneNumber>
+<StreetAddress><![CDATA[1000 E UNIVERSITY AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wyoming</StateName>
+<StateCode>WY</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WY00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FDR5YF2K32X5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WYOMING</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FDR5YF2K32X5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wyoming]]></Name>
+<CityName>LARAMIE</CityName>
+<StateCode>WY</StateCode>
+<ZipCode>820712000</ZipCode>
+<StreetAddress><![CDATA[1000 E UNIVERSITY AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wyoming</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WY00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779600</Code>
+<Text>Algorithmic Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~460755</FUND_OBLG>
+</Award>
+</rootTag>

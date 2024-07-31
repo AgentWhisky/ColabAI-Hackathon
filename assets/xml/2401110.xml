@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The Role of Alfven Wave Reflection and Absorption in Heating Coronal Holes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>573957.00</AwardTotalIntnAmount>
+<AwardAmount>573957</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tai-Yin Huang</SignBlockName>
+<PO_EMAI>thuang@nsf.gov</PO_EMAI>
+<PO_PHON>7032924943</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Sun’s upper atmosphere, known as the solar corona, is significantly hotter than the underlying surface of the Sun. The temperature of the corona can vary from a million to a few millions of degrees, while the solar surface is approximately 6000 degrees. This temperature increase from the surface to the corona is counterintuitive, as one expects the temperature to decrease away from the heat source. Furthermore, the solar wind, a hot, tenuous plasma originating from the sun and filling the heliosphere, also originates from the corona. Despite several decades of research, the cause of the heating of the corona and acceleration of the solar wind are not well understood. This project will focus on understanding important aspects of this long-standing physics problem through laboratory experiments and numerical simulations. Understanding the heating of the solar corona and acceleration of the fast solar wind are major goals of the heliophysics community as outlined by the 2013 NRC Heliophysics Decadal survey. The research results will be disseminated broadly through presentations to the scientific community at national and international meetings and publication in peer-reviewed literature. Elements of this research will be incorporated into public outreach events. Undergraduate and high school students will be involved in this research, and their involvement will aid workforce development for the plasma physics community.&lt;br/&gt;&lt;br/&gt;This project aims to understand the contribution of Alfven wave absorption and reflection in heating coronal holes using experiments and simulations.  The objectives of this project are: 1) Determine the mechanism responsible for Alfven wave reflection, including the role of collisions within the gradient. 2) Determine how incident Alfven wave energy is absorbed, and into which channel (electrons and/or ions) the wave energy is deposited, including the form of the deposited energy (isotropic or anisotropic heating or flow generation). 3) Quantify the contribution of Alfven wave absorption in heating and/or accelerating plasma in coronal holes, and 4) Develop an experimentally validated model for Alfven wave absorption for use in coronal modeling.  Experiments in the LArge Plasma Device (LAPD) located at the University of California, Los Angeles will be conducted to characterize the effect of collisions in Alfven wave reflection and measure the increase in plasma kinetic energy due to wave absorption. The experimental setup will be simulated numerically to gain additional insights into wave absorption, and additional simulations will be carried out with coronal parameters. An experimentally validated model of Alfven wave absorption will be developed for use in coronal modeling.  This project will significantly enhance our understanding of Alfven wave processes in a strong Alfven speed non-uniformity like those in coronal holes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401110</AwardID>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>TenBarge</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jason M TenBarge</PI_FULL_NAME>
+<EmailAddress><![CDATA[jason.tenbarge@gmail.com]]></EmailAddress>
+<NSF_ID>000700557</NSF_ID>
+<StartDate>06/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sayak</FirstName>
+<LastName>Bose</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sayak Bose</PI_FULL_NAME>
+<EmailAddress><![CDATA[sbose@princeton.edu]]></EmailAddress>
+<NSF_ID>000954422</NSF_ID>
+<StartDate>06/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085442001</ZipCode>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152300</Code>
+<Text>SOLAR-TERRESTRIAL</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~573957</FUND_OBLG>
+</Award>
+</rootTag>

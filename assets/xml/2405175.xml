@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Minimal Surfaces, Groups and Geometrization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>404388.00</AwardTotalIntnAmount>
+<AwardAmount>121081</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Qun Li</SignBlockName>
+<PO_EMAI>qli@nsf.gov</PO_EMAI>
+<PO_PHON>7032927465</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Differential geometry is a field which studies the shape of objects. Of particular importance are shapes that are "optimal" under natural constraints. An important class of optimal shapes is given by "minimal surfaces": a soap film spanning a metal wire, which tends to minimize its energy, is an example of minimal surface. This type of surfaces appears in many places in physics, but is also of intrinsic interest. The investigator will work on deforming smooth spaces, also called "manifolds", into an optimal shape by using the concept of minimal surfaces. Manifolds are ubiquitous in mathematics, and hopefully this approach will give new insights on their possible shapes. This project will moreover support student training and inclusion through seminars, workshops and knowledge dissemination efforts. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The notion of "geometric structure" serves as a unifying concept in geometry and topology, as exemplified by the Uniformization theorem for surfaces and the Geometrization theorem for 3-manifolds. In those classical instances, geometric structures are essentially defined as homogenous spaces with a geometric discrete group action. In higher dimensions, those geometric structures are very rare, and perhaps too rigid compared to the diversity of closed manifolds. In this project, the investigator proposes to consider a more general and flexible notion: minimal surfaces in (possibly infinite dimensional) homogeneous spaces, invariant under a geometric discrete group action. With this point of view, the investigator will explore a series of questions which relates minimal surfaces to geometric group theory and representation theory. A typical problem is the following: what group can act geometrically on a connected minimal surface in a Hilbert sphere?&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2405175</AwardID>
+<Investigator>
+<FirstName>Antoine</FirstName>
+<LastName>Song</LastName>
+<PI_MID_INIT>Y</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Antoine Y Song</PI_FULL_NAME>
+<EmailAddress><![CDATA[aysong@caltech.edu]]></EmailAddress>
+<NSF_ID>000890034</NSF_ID>
+<StartDate>05/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250001</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress><![CDATA[1200 E CALIFORNIA BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA28</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U2JMKHNS5TG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CALIFORNIA INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>PASADENA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>911250001</ZipCode>
+<StreetAddress><![CDATA[1200 E CALIFORNIA BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA28</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126500</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~121081</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Nonlinear Eigenvalue Problems: Building a New Paradigm Through the Lens of Systems Theory and Rational Interpolation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>350000.00</AwardTotalIntnAmount>
+<AwardAmount>89958</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jodi Mead</SignBlockName>
+<PO_EMAI>jmead@nsf.gov</PO_EMAI>
+<PO_PHON>7032927212</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>When building new devices or products, engineers naturally want to optimize performance with respect to some design variables; this process typically involves simulation with large-scale mathematical models.  One desirable goal of this optimization is to maximize the stability of a system, to avoid designs for which small disturbances can get magnified until failure occurs.  This project will study new approaches for assessing such stability, including a technique for simultaneously analyzing an entire ensemble of systems across a range of design variables, rather than analyzing individual systems one at a time.  These techniques involve the symbiotic interplay of data and mathematical models. The project will involve graduate student training and professional development through summer research and capstone projects for Virginia Tech’s Computational Modeling and Data Analytics major.&lt;br/&gt;&lt;br/&gt;Nonlinear eigenvalue problems (NLEVPs) arise naturally in many applications throughout science and engineering, from networks of vibrating structures to dynamical systems with time delays.  In contrast to the linear eigenvalue problem, algorithms for solving NLEVPs remain in an unsettled state due to the fundamental challenges these problems pose.  This project approaches NLEVPs through the lens of control theory, identifying contour-based eigenvalue algorithms as examples of system realization techniques. Given this perspective, this research program seeks to develop robust, reliable algorithms and software for NLEVPs, with an eye toward optimal parameter selection and efficiency for large-scale problems. This analysis and computational methods will be extended to handle parameter-dependent NLEVPs, where the problem varies based on one or more physical parameters. The project will also look in the opposite direction, using contour integral algorithms from eigenvalue computations to offer new approaches to data-driven modeling of dynamical systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411141</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Embree</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark Embree</PI_FULL_NAME>
+<EmailAddress><![CDATA[embree@vt.edu]]></EmailAddress>
+<NSF_ID>000240674</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Serkan</FirstName>
+<LastName>Gugercin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Serkan Gugercin</PI_FULL_NAME>
+<EmailAddress><![CDATA[gugercin@math.vt.edu]]></EmailAddress>
+<NSF_ID>000492307</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M515A1DKXAN8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240603359</ZipCode>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~89958</FUND_OBLG>
+</Award>
+</rootTag>

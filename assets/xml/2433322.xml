@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: HCC: Medium: Aerodynamic Virtual Human Simulation on Face, Body, and Crowd]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>383000.00</AwardTotalIntnAmount>
+<AwardAmount>383000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ephraim Glinert</SignBlockName>
+<PO_EMAI>eglinert@nsf.gov</PO_EMAI>
+<PO_PHON>7032924341</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project develops the first high-fidelity aerodynamic virtual human model to support the scientific community and to tackle various emerging public-health problems. The proposed collaborative research addresses the significant and numerous computational challenges associated with the modeling and simulation of dynamic virtual human systems, involving aerodynamic flow processes and various physical components (e.g., face, hair, clothes, crowd, and thermal environments). The specific focus here is on modeling the human's aerodynamic micro-environment and its interactions with human respiratory activities, which have largely been neglected in the virtual human literature. The research aims are: (1) model the aerodynamic microenvironment consisting of thin layers of airflow near the boundary of human face; (2) simulate contact, friction, and solid-air coupling with areas of the human body, including skin, hair, and clothing surfaces; and (3) develop numerical algorithms to model aerodynamic crowds for multi-physics and multi-agent simulation. Among these aims, differentiable numerical solvers will be developed to facilitate optimization and computational design for human respiration-related problems.&lt;br/&gt;&lt;br/&gt;The proposed algorithms will introduce a new family of computational tools based on first principles to fill the gaps in simulation, animation, design, and education regarding the previously ignored aerodynamic subarea of virtual human modeling. The PIs will also disseminate the results as open-source software libraries and databases of simulation results. If successful, the availability of these aerodynamics-aware virtual human models, augmented by an ensemble of differentiable physics simulators, individualized data models, interactive visualization, and VR/AR display, can provide convenient and intuitive tools for various applications that involve the human form.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/20/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2433322</AwardID>
+<Investigator>
+<FirstName>Bo</FirstName>
+<LastName>Zhu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bo Zhu</PI_FULL_NAME>
+<EmailAddress><![CDATA[bo.zhu@gatech.edu]]></EmailAddress>
+<NSF_ID>000786907</NSF_ID>
+<StartDate>05/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303186395</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320315</ZipCode>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736700</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~383000</FUND_OBLG>
+</Award>
+</rootTag>

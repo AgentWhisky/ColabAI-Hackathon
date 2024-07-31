@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Exploration of the Nonequilibrium Statistical Mechanics of Turbulent Collisionless Plasmas]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>512125.00</AwardTotalIntnAmount>
+<AwardAmount>228930</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vyacheslav (Slava) Lukin</SignBlockName>
+<PO_EMAI>vlukin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927382</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will explore turbulent plasmas using novel statistical mechanics methods. Statistical mechanics is a core branch of physics that has been enormously successful in describing the physical characteristics of matter such as gases, liquids, and quantum fields. However, it has been challenging to extend its principles to describe hot tenuous plasmas that exist throughout the Universe, including the solar wind, the interstellar medium, and matter around black holes.  This project will use computer simulations and new mathematical methods to explore the statistical mechanics of turbulent plasmas.  The result will be an improved capability to predict the multiscale behavior of plasmas in astrophysical, space, and laboratory systems, including potential future fusion energy reactors.  The methods will be used to model the occurrence of high-energy particles and radiation produced by the plasma, which can be compared to observations. The project will engage graduate students and include public outreach and undergraduate mentoring programs.&lt;br/&gt;&lt;br/&gt;The project considers the dissipation of collisionless plasma turbulence from the perspective of nonequilibrium statistical mechanics. It will involve the application of new theoretical approaches for quantifying irreversible energy dissipation in nonequilibrium systems. The team will perform and analyze kinetic and hybrid-kinetic simulations of plasma turbulence in different physical regimes, including relativistic and non-relativistic cases, to determine (1) the statistical distribution of entropy production rates in turbulence, and (2) whether turbulent energy dissipation leads to generalized maximum entropy states that can be modeled analytically. The outcome will be an improved understanding of turbulent energy dissipation in collisionless plasmas, leading to new models of nonthermal particle acceleration and subsequent radiation emission. The work has direct applications to a broad range of space and astrophysical systems, including the solar wind and black-hole accretion flows. Beyond this, it will lead to insights relevant to other dissipative plasma processes, such as magnetic reconnection and shocks, and nonequilibrium statistical systems in general.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409316</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Kunz</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew W Kunz</PI_FULL_NAME>
+<EmailAddress><![CDATA[mkunz@princeton.edu]]></EmailAddress>
+<NSF_ID>000711776</NSF_ID>
+<StartDate>04/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vladimir</FirstName>
+<LastName>Zhdankin</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vladimir V Zhdankin</PI_FULL_NAME>
+<EmailAddress><![CDATA[zhdankin@wisc.edu]]></EmailAddress>
+<NSF_ID>000677790</NSF_ID>
+<StartDate>04/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LCLSJAGTNZQ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124200</Code>
+<Text>PLASMA PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8092</Code>
+<Text>Space Weather Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~228930</FUND_OBLG>
+</Award>
+</rootTag>

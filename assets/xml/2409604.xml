@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Research on Gravitational Waves and Compact Binaries]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>180000.00</AwardTotalIntnAmount>
+<AwardAmount>60000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award will support scientific research on the orbital dynamics and gravitational wave emission of black hole binary systems.  Over one hundred observations by LIGO and Virgo of merging stellar mass black holes and neutron stars in the last nine years have opened up the era of gravitational wave astronomy.  These events reveal new astrophysics, including confirming the site of heavy-element formation and discovering a new class of intermediate-mass black holes, and provide novel ways to test relativistic gravity theory. The breakthrough also motivates the development of the LISA space-based detector and raises prospects of eventual gravitational-wave observations of extreme-mass-ratio inspirals (EMRIs).  EMRIs involve a stellar-mass black hole (or neutron star or white dwarf) spiraling into supermassive black holes, known to exist in the center of virtually all large galaxies. Immersed in dense star clusters, these supermassive black holes will frequently capture compact stars into highly eccentric and inclined orbits. As these compact stars orbit, they radiate gravitational waves, causing the orbit to decay and the compact object to eventually be swallowed by the supermassive black hole (or tidally disrupted in the case of white dwarfs). The gravitational radiation will be observable with LISA.  The theoretical work funded by this award will provide improved predictions of the expected signals from highly eccentric or inclined-precessing merging black hole binaries.  Along the way, the work also contributes to the development of young scientists trained in high-performance computing and advanced mathematical methods, many of whom go on to strengthen the U.S. technical human resource base.  The U.S. is a leader in gravitational-wave astronomy and these theoretical activities support future extensions of such observations.  Future detection of gravitational waves from EMRIs will provide unique strong-field tests of relativistic gravity theory and probe the nature of black holes, while also uncovering the astrophysical properties of the dense central regions of galaxies and their cosmic history.&lt;br/&gt;&lt;br/&gt;To pursue this effort, new techniques in black hole perturbation theory and gravitational self-force methods will be developed, along with writing associated advanced computer codes.  Symbolic mathematical calculations of black hole perturbation theory and the gravitational self-force will be made of Kerr (spinning) EMRIs to high order in the post-Newtonian (PN) expansion, for systems with both eccentric orbits and inclined, precessing orbits.  The high post-Newtonian (PN) order perturbation and self-force findings support and reinforce broader efforts to advance arbitrary-mass-ratio PN theory and may provide calibrations of effective-one-body and surrogate models of merging binaries.  These efforts to model Kerr EMRIs draw upon the lengthy experience of the PI's group over more than a decade in studying Schwarzschild EMRIs.  Generated gravitational wave flux and self-force data will be incorporated in adiabatic and post-adiabatic inspiral calculations to provide accurate waveforms for much of an EMRI's evolution.  A major part of this work will be conducted in collaboration with former students and colleagues at University College Dublin.  Results and some computer codes will be made available in online repositories.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409604</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Evans</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles R Evans</PI_FULL_NAME>
+<EmailAddress><![CDATA[evans@physics.unc.edu]]></EmailAddress>
+<NSF_ID>000297810</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275995023</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress><![CDATA[104 AIRPORT DR STE 2200]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D3LHU66KBLD5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D3LHU66KBLD5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName>CHAPEL HILL</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>275995023</ZipCode>
+<StreetAddress><![CDATA[104 AIRPORT DR STE 2200]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124400</Code>
+<Text>Gravity Theory</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~60000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SCIPE: WildWEST: Wild-area-networks Wireless Enabling Science Team]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>4962307.00</AwardTotalIntnAmount>
+<AwardAmount>4962307</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sharon Geva</SignBlockName>
+<PO_EMAI>sgeva@nsf.gov</PO_EMAI>
+<PO_PHON>7032927058</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Across the western U.S., populations and resource managers increasingly rely on sensor networks operated by earth and environmental scientists to provide crucial near-real-time information on wildfire, water, climate, and ecology. Study sites in these fields are spread across remote, rugged, and extreme environments, creating major challenges in installation, maintenance, and digital connectivity. Field researchers often work alone or in small teams with focus on specific science questions, without access to advanced technology platforms or engineering to scale or accelerate their observational data approach. Recognizing opportunity, the regional Research &amp; Education Networks in Nevada, Utah, and Arizona have formed a new, innovative, and regionally-coordinated team of research technology professionals with a mission to transform the value of traditionally ad-hoc observational science through facilitation of systems design, integration, and connectivity. &lt;br/&gt;&lt;br/&gt;Over five years, the WildWEST (Wild-area-networks Wireless Enabling Science Team) project brings together the Nevada System of Higher Education's NevadaNet, the Utah Education and Telehealth Network, and Arizona's Sun Corridor Network as partners in creating a culture of cyberinfrastructure support for the "Last 100 Miles" of field science. Core activities include coordinated workforce development and team operations, including new recruitment of field engineering and Internet-of-Things professionals (along with student trainees) in each state. This team collectively designs and implements end-to-end data transport solutions for science in remote and difficult environments. Solutions and best practices are disseminated to the national community through NSF ACCESS Support mechanisms. In partnership with key regional science collaborators, WildWEST establishes a field network testbed across state boundaries to foster novel Team Science opportunities in diverse fields of study. Finally, WildWEST leverages existing partnerships with national cyberinfrastructure and regional supercomputing centers (Utah Center for High Performance Computing and Arizona State Research Computing Center) to evolve and simplify end-to-end workflows for existing and emerging field science communities of practice.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2416870</AwardID>
+<Investigator>
+<FirstName>Derek</FirstName>
+<LastName>Masseth</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Derek A Masseth</PI_FULL_NAME>
+<EmailAddress><![CDATA[dmasseth@suncorridor.org]]></EmailAddress>
+<NSF_ID>000614823</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scotty</FirstName>
+<LastName>Strachan</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scotty D Strachan</PI_FULL_NAME>
+<EmailAddress><![CDATA[sstrachan@nshe.nevada.edu]]></EmailAddress>
+<NSF_ID>000614312</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Stewart</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James Stewart</PI_FULL_NAME>
+<EmailAddress><![CDATA[jstewart@uen.org]]></EmailAddress>
+<NSF_ID>000541908</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Breen</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME>III</PI_SUFX_NAME>
+<PI_FULL_NAME>Joseph R Breen</PI_FULL_NAME>
+<EmailAddress><![CDATA[Joe.Breen@utah.edu]]></EmailAddress>
+<NSF_ID>000543876</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Nevada System of Higher Education]]></Name>
+<CityName>RENO</CityName>
+<ZipCode>895121666</ZipCode>
+<PhoneNumber>7025227070</PhoneNumber>
+<StreetAddress><![CDATA[2601 ENTERPRISE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<StateCode>NV</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NV02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F995DBS4SRN3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOARD OF REGENT, NEVADA SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>F995DBS4SRN3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Nevada System of Higher Education]]></Name>
+<CityName>RENO</CityName>
+<StateCode>NV</StateCode>
+<ZipCode>895121666</ZipCode>
+<StreetAddress><![CDATA[2601 ENTERPRISE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NV02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>245Y00</Code>
+<Text>Strengthen the CIP Ecosystem</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>122Z</Code>
+<Text>CI Training and Professionals</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~4962307</FUND_OBLG>
+</Award>
+</rootTag>

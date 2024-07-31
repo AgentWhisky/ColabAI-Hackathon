@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: Connecting a Highly Versatile Cytochrome P450 to Quorum Sensing in Pseudomonas Aeruginosa]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>248930.00</AwardTotalIntnAmount>
+<AwardAmount>248930</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pumtiwitt McCarthy</SignBlockName>
+<PO_EMAI>pmccarth@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In this project funded by the Mathematical and Physical Sciences Directorate Launching Early-Career Academic Pathways (MPS-LEAPS) Program and managed by the Broadening Participation (CHE-BP) Program in the Division of Chemistry, Professor Miller and his students at Indiana State University will study the chemical modification of signaling molecules from the bacterium Pseudomonas aeruginosa. This highly adaptable species uses small, molecular signals produced in one bacterium to message surrounding bacteria, orchestrate concerted responses, and grow in a variety of environments like soil, plants, and animals. A recent discovery of a cytochrome P450 (CYP) enzyme from P. aeruginosa that appears capable of modifying these messaging molecules suggests that this protein may be involved in this messaging system. Dr. Miller and the undergraduate students working with him will examine whether and how this CYP enzyme modifies these messages by identifying its native partner proteins from Pseudomonas and developing methods to detect these modified messages. Comprehending these messaging systems may enable technologies to thwart P. aeruginosa as it seeks to colonize plant, animal, and human tissues—a cause of disease and death, biofouling, and crop damage. The integration of these research activities into an existing course-based research experience could enhance training in biotechnology and grow skills for a globally competitive workforce. Additionally, a program designed to engage alumni mentors with students from Indiana State University’s diverse student body has potential to unhide the hidden curriculum of college campuses that hinders first-generation, low-income, and minority students from success at university and beyond.&lt;br/&gt;&lt;br/&gt;To examine the hypothesis that a CYP is reshaping quorum sensing in P. aeruginosa, this proposal will advance an existing system for reconstituting this enzyme’s activity in vitro. This work includes identifying this enzyme’s native partner proteins and characterizing how they modulate the reactions catalyzed by the CYP. These native partner proteins will then be included in in vitro reactions with this CYP with various lipids and quorum sensing molecules to establish metabolic preferences. A combination of UV-Visible spectroscopic methods with GC-MS and LC-MS analyses of in vitro reactions will establish which modifications this CYP installs on these important lipids. The development of GC-MS and LC-MS methods to detect these modified lipids may enable their detection in P. aeruginosa and thereby the roles this enzyme plays in this organism.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418954</AwardID>
+<Investigator>
+<FirstName>Justin</FirstName>
+<LastName>Miller</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Justin C Miller</PI_FULL_NAME>
+<EmailAddress><![CDATA[Justin.Miller@indstate.edu]]></EmailAddress>
+<NSF_ID>000925912</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Indiana State University]]></Name>
+<CityName>TERRE HAUTE</CityName>
+<ZipCode>478091902</ZipCode>
+<PhoneNumber>8122373088</PhoneNumber>
+<StreetAddress><![CDATA[200 N 7TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WBLRF8Z4BEF6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>INDIANA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>WBLRF8Z4BEF6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Indiana State University]]></Name>
+<CityName>TERRE HAUTE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>478091902</ZipCode>
+<StreetAddress><![CDATA[200 N 7TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>217Y00</Code>
+<Text>LEAPS-MPS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7487</Code>
+<Text>BROADENING PARTICIPATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~248930</FUND_OBLG>
+</Award>
+</rootTag>

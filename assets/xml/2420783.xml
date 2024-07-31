@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Developing Quantitative Sensing Technologies to Evaluate Fine Motor Skills for Autistic Children]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>430826.00</AwardTotalIntnAmount>
+<AwardAmount>430826</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steve Zehnder</SignBlockName>
+<PO_EMAI>szehnder@nsf.gov</PO_EMAI>
+<PO_PHON>7032927014</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Autism spectrum disorder (ASD) is a neurodevelopmental disorder diagnosed in approximately 1 in 36 children in the US, with 87% of them experiencing some motor difficulties. These motor difficulties can include challenges with handwriting and grasping objects. While previous studies have shown that early interventions can significantly help ASD children manage motor impairment, there are very few studies evaluating the impact of interventions on performing fine motor skills. Measuring motor skills is challenging. Clinical assessments can be subjective and time consuming. Current camera-based assessments can be cumbersome and require large amounts of data. This project aims to improve evaluation of fine motor skills for ASD children by combining low-cost wearable technology with recent advances in data processing and artificial intelligence (AI). If successful, this project will lead to the design of promising interactive systems that can function in well-equipped therapy centers and at home. In addition, the project will engage students in electrical engineering design by leveraging summer engineering and undergraduate entrepreneurship programs at New York Institute of Technology.   &lt;br/&gt;&lt;br/&gt;The goal of this project is to design and test an objective game-based fine motor skill sensing and evaluation system that can measure hand gestures and fine motor skills with high accuracy. To achieve this goal, the project will combine quantitative sensing systems and AI as an alternative technology for 1) the quantitative monitoring and identification of fine motor skills deficits and 2) the evaluation of the efficacy of intervention outcomes. This proposed technology comprises the development of a low-cost wearable glove that measures hand motions and a cost-effective, user-friendly, and interactive game that improves the visual-motor integration ability in ASD children. Several gestures based on American Sign Language will be used to evaluate fine motor skills as ASL gestures can transition between various motor patterns and contribute to a variety of functional hand postures. With the use of the proposed technology, fine motor abilities like grasping and holding a pencil can quantitatively be evaluated for the first time. The sensing technology developed will have low complexity so that the ASD children and caregivers can afford to use them at home. This paves the way for future efficient and affordable ASD interventions. The developed tools in this project can be used in a wide variety of applications beyond intervention therapy, such as human-computer interaction, robotics, drone controlling, smart wearable devices, and virtual reality.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2420783</AwardID>
+<Investigator>
+<FirstName>Mary</FirstName>
+<LastName>Squillace</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mary Squillace</PI_FULL_NAME>
+<EmailAddress><![CDATA[maryot9263@gmail.com]]></EmailAddress>
+<NSF_ID>000990576</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Maryam</FirstName>
+<LastName>Ravan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maryam Ravan</PI_FULL_NAME>
+<EmailAddress><![CDATA[mravan@nyit.edu]]></EmailAddress>
+<NSF_ID>000795916</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Lopez</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander Lopez</PI_FULL_NAME>
+<EmailAddress><![CDATA[alopez@nyit.edu]]></EmailAddress>
+<NSF_ID>000990571</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Reza</FirstName>
+<LastName>Khalaj Amineh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Reza Khalaj Amineh</PI_FULL_NAME>
+<EmailAddress><![CDATA[rkhalaja@nyit.edu]]></EmailAddress>
+<NSF_ID>000731944</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New York Institute of Technology]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100237606</ZipCode>
+<PhoneNumber>5166867737</PhoneNumber>
+<StreetAddress><![CDATA[1855 BROADWAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SVZSJHR2A4T6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York Institute of Technology]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100237606</ZipCode>
+<StreetAddress><![CDATA[1855 BROADWAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>534200</Code>
+<Text>Disability &amp; Rehab Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5342</Code>
+<Text>RESEARCH TO AID THE DISABLED</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~430826</FUND_OBLG>
+</Award>
+</rootTag>

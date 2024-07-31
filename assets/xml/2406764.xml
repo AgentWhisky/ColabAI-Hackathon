@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: EAGER: Active Self-Strengthening and Reinforcement of Additively Manufactured Metal Nanocomposites in a Corrosive Environment]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>73892</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Madison</SignBlockName>
+<PO_EMAI>jmadison@nsf.gov</PO_EMAI>
+<PO_PHON>7032922937</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;Additively manufactured metals are advancing the design of aerospace and automotive materials, but these metals are more susceptible to failure under a corrosive environment due to the higher defect density. The research introduces small quantities of active nanofillers and quantifies the potentially improved performance of these metals, which would allow them to survive and thrive in extreme corrosive environments, thus transforming the engineering practicality and reliability of these metals. The scientific understanding of additively manufactured metal nanocomposites could revolutionize 3D printing technologies and revitalize the manufacturing competitiveness of the United States. The research will expose graduate students and female/minority undergraduate students to cutting-edge research at the intersections of materials design, mechanics of materials, as well as multiscale experiments and computations. The research results will form the basis of a new lecture series on 3D-printed nanocomposites as future aerospace materials for K-12 students at the Illinois Aerospace Institute summer camp, and will be incorporated into a strength of materials course currently offered at the Danville Correction Center as part of the Education Justice Project.&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;The mechanical properties of additively manufactured metals suffer from their porous microstructure that is susceptible to excessive metal oxide formation due to metal passivation under thermal, moist, or aqueous ionic environments. The research exploits the reinforcing potential of boron nitride nanotubes as active fillers in additively manufactured aluminum nanocomposites via the formation of strong nanotube-metal oxide interfaces in corrosive environments. The complementary experiments and simulations will provide direct and quantitative multiscale understanding of the hypothesized self-strengthening mechanism for these nanotube-metal nanocomposites fabricated by laser additively manufactured techniques, and elucidate how the mechanical properties of these nanocomposites respond to environmental changes (temperature, moisture content, etc.). The nanomechanical experiments of pulling out individual nanotubes from the additively manufactured metal matrix to directly measure the interfacial strength properties allow quantification of the interaction between the resultant oxide layer along the tube-metal interface and the porous microstructures. In turn, the interfacial load transfer characteristics are quantified to account for bulk mechanical performance improvement of the additively manufactured metal nanocomposite. The multiscale experiments and computations will elucidate the complex interplay of metal passivation, local interfacial load transfer, and microstructural changes, which ultimately control the stiffness, strength, and toughness of the bulk additively manufactured composite in a corrosive environment.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406764</AwardID>
+<Investigator>
+<FirstName>Huck Beng</FirstName>
+<LastName>Chew</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Huck Beng Chew</PI_FULL_NAME>
+<EmailAddress><![CDATA[hbchew@illinois.edu]]></EmailAddress>
+<NSF_ID>000601429</NSF_ID>
+<StartDate>04/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177100</Code>
+<Text>METAL &amp; METALLIC NANOSTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~73892</FUND_OBLG>
+</Award>
+</rootTag>

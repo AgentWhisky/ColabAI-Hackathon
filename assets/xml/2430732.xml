@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: PBI: Designing Public Use Microdata Business Areas (PUMBAs) for Innovation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>299999.00</AwardTotalIntnAmount>
+<AwardAmount>299999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rebecca Shearman</SignBlockName>
+<PO_EMAI>rshearma@nsf.gov</PO_EMAI>
+<PO_PHON>7032927403</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Currently, there is unprecedented investment in regional and place-based innovation ecosystems through programs such as the National Science Foundation’s Regional Innovation Engines (hereafter, NSF Engines), the Economic Development Administration’s Tech Hubs, and the U.S. Department of Energy’s Hydrogen Hubs. A key constraint from a program evaluation perspective is the lack of regional and place-based baseline data against which to measure societal and economic impact (e.g., number and share of companies that currently conduct research and development (R&amp;D); number and share of companies that report innovation activity; ownership of firms by sex, ethnicity, race, and veteran status). This project seeks to develop and validate a process for generating new geographic subdivisions well-suited for business microdata such as the Annual Business Survey (ABS). This would be analogous to the Public Use Microdata Areas (PUMAs) developed by the Census Bureau for the American Community Survey (ACS). Release of geographic definitions of these regions and related microdata or summary statistics will allow researchers and policymakers access to these data for place-based innovation.&lt;br/&gt;&lt;br/&gt;Geographic clustering is an open-ended problem. In general, finding an optimal solution is infeasible, because it requires investigating all possible cluster sizes and memberships. Several reasonable and efficient approaches exist in the literature and in open-source code; however, different algorithms may lead to different use cases being either strongly or poorly supported. Use of synthetic microdata is also an open-ended problem. Similarly, many general approaches exist but need to be evaluated for appropriateness of use cases. Finally, research on both methods has tended to focus on data for individuals rather than establishments (businesses). Adapting evaluation metrics for utility and disclosure risk to these units of analysis will expand the methodology in this area. This work will use a motivating application based on demographics of business ownership and innovation rates for businesses to further our understanding in each of these three areas: clustering algorithms, synthetic data methods, and evaluation metrology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2430732</AwardID>
+<Investigator>
+<FirstName>Christine</FirstName>
+<LastName>Task</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christine M Task</PI_FULL_NAME>
+<EmailAddress><![CDATA[christine.task@knexusresearch.com]]></EmailAddress>
+<NSF_ID>0000A03T7</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Ozawa</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jennifer K Ozawa</PI_FULL_NAME>
+<EmailAddress><![CDATA[jozawa@rti.org]]></EmailAddress>
+<NSF_ID>000905973</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Williams</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew R Williams</PI_FULL_NAME>
+<EmailAddress><![CDATA[mrwilliams@rti.org]]></EmailAddress>
+<NSF_ID>0000A02XN</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Research Triangle Institute]]></Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277090155</ZipCode>
+<PhoneNumber>9195416000</PhoneNumber>
+<StreetAddress><![CDATA[3040 CORNWALLIS RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJHCMK4NT5N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH TRIANGLE INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JJHCMK4NT5N3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Research Triangle Institute]]></Name>
+<CityName>Research Triangle Park</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277092194</ZipCode>
+<StreetAddress><![CDATA[3040 East Cornwallis Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>301Y00</Code>
+<Text>NSF Engines - Type 2</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01AC2324DB</Code>
+<Name><![CDATA[R&RA DRSA DEFC AAB]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~299999</FUND_OBLG>
+</Award>
+</rootTag>

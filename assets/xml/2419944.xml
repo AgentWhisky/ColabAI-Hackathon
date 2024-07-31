@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Robophysical Modeling of Bacterial Swimming Motion]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>265007.00</AwardTotalIntnAmount>
+<AwardAmount>265007</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The swimming motion of bacteria represents a complex phenomenon that intersects the fields of microbiology and fluid dynamics. The movement of bacteria is vital for colonization and infectious pathogenic process, enabling them to exploit resources in diverse locations and escape from unfavorable conditions. However, a complete understanding of the mechanisms underlying bacterial swimming remains elusive due to the intricate interplay of physical and biological factors. To overcome these challenges, the project will leverage the emerging field of robophysical modeling, employing techniques from robotics to realistically emulate biological systems and unravel the influences of various physical and biological factors. The outcomes will advance the mechanistic understanding of the motility behaviors of one of the most ubiquitous and important life forms on Earth. The project will also broaden research participation by undergraduate students through the use of senior design projects and enhance fluid dynamics education by creating education films based on the project outcomes. &lt;br/&gt;&lt;br/&gt;The aim of this project is to advance the understanding of how fluid mechanical forces shape the ways bacteria navigate their complex environments and interact with each other. This project undertakes a convergence approach, fusing knowledge and techniques in fluid dynamics, microbiology, and robotics to achieve the goal. By adopting techniques of robophysical modeling, the project will isolate physical effects governing bacterial swimming from other uncontrollable, complex biological factors, enabling experimental studies of bacterial swimming with unprecedented flexibility and accuracy. Combined experimental and theoretical investigations will elucidate how different non-Newtonian rheological behaviors impact their locomotion, characterize bacterial swimming near surfaces, and examine the hydrodynamic interactions of neighboring swimming bacteria. The integration of theoretical modeling with direct experimental validations will critically assess existing and new hypotheses pertaining to the physical mechanisms responsible for experimentally observed swimming behaviors of bacteria in complex environments. The project outcomes will support the ultimate goal of transforming fundamental knowledge of bacterial motility into future biomedical and technological advancements. The education and training opportunities provided by the project will also educate future STEM workforce on disciplinary convergence.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419944</AwardID>
+<Investigator>
+<FirstName>Roberto</FirstName>
+<LastName>Zenit</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roberto Zenit</PI_FULL_NAME>
+<EmailAddress><![CDATA[zenit@brown.edu]]></EmailAddress>
+<NSF_ID>000851131</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Brown University]]></Name>
+<CityName>PROVIDENCE</CityName>
+<ZipCode>029129100</ZipCode>
+<PhoneNumber>4018632777</PhoneNumber>
+<StreetAddress><![CDATA[1 PROSPECT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>RI01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E3FDXZ6TBHW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BROWN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E3FDXZ6TBHW3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Brown University]]></Name>
+<CityName>PROVIDENCE</CityName>
+<StateCode>RI</StateCode>
+<ZipCode>029129127</ZipCode>
+<StreetAddress><![CDATA[184 Hope Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>RI01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144300</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~265007</FUND_OBLG>
+</Award>
+</rootTag>

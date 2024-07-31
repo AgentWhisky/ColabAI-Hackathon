@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Discovering SGS models enabling energy backscatter for turbulent combustion]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>354405.00</AwardTotalIntnAmount>
+<AwardAmount>354405</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harsha Chelliah</SignBlockName>
+<PO_EMAI>hchellia@nsf.gov</PO_EMAI>
+<PO_PHON>7032927281</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The design of aerospace propulsion systems is significantly streamlined by employing computational fluid dynamics. Leveraged by high-performance computing, numerical simulation helps reduce development cost and explore the design parameter space, contributing to finding an optimal design and eventually lowering fuel consumption and carbon footprints on our environment. Modeling turbulent flows is a key to achieving dramatic reduction in computational cost. However, such task is challenged by the physio-chemical complexities of turbulent reacting flows, in which conventional turbulence modeling approaches are usually limited. This study proposes to address the modeling challenges by discovering turbulence models for reacting flows in a way that is physically consistent and data driven. The developed modeling framework is expected to benefit other applications in science and engineering where interactions between turbulence and multiphysics play central roles, such as particle suspension, atmospheric science, high-speed aerodynamics, and nuclear fusion. As a part of educational activities, video materials on technical formulations and outcomes will be developed and shared publicly on online platforms for training current and future workforces. An outreach project on fluid mechanics is planned targeting local K-6 or under to promote interests in fluid mechanics and engage undergraduate students. &lt;br/&gt;&lt;br/&gt;A modeling framework is proposed for the large-eddy simulation of turbulent premixed flame to discover closure terms that describe combustion-induced energy backscatter. Despite the compelling evidence of energy backscatter in turbulent combustion, scientific questions remain as to how such effects should be modeled in subgrid-scale stresses. The traditional eddy-viscosity concept is limited in describing the true two-way interactions between turbulence and premixed flame. A modeling framework based on wavelet multiresolution analysis will be developed so that subgrid-scale models that optimally describe spectral energy transfer are discovered from high-fidelity numerical database. The optimization formulation is consistent to the fundamental concept of large-eddy simulation. A tensor representation theory will be utilized to expand analytically the true subgrid-scale stresses in terms of thermo-physio-chemical states into a complete and minimal form. For statistically one-dimensional turbulent premixed flames, the modeling framework will be tested for different regimes of turbulent premixed combustion. The proposed study is expected to provide a first-of-its-kind discovery of subgrid-scale models that allow energy backscatter in turbulent premixed flame, accelerating the advent of accurate and efficient prediction-based design of aerospace propulsion system.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412607</AwardID>
+<Investigator>
+<FirstName>Jeonglae</FirstName>
+<LastName>Kim</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeonglae Kim</PI_FULL_NAME>
+<EmailAddress><![CDATA[jkim520@asu.edu]]></EmailAddress>
+<NSF_ID>000803746</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852813670</ZipCode>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>140700</Code>
+<Text>CFS-Combustion &amp; Fire Systems</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~354405</FUND_OBLG>
+</Award>
+</rootTag>

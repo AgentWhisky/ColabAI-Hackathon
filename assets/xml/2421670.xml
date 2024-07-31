@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[TRAILBLAZER: Quantum-Enabled Dial (QED) to Control Biochemical Reactions and Cell Behaviors]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2025</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>3000000.00</AwardTotalIntnAmount>
+<AwardAmount>3000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07040000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EFMA</Abbreviation>
+<LongName>Emerging Frontiers &amp; Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alias Smith</SignBlockName>
+<PO_EMAI>alismith@nsf.gov</PO_EMAI>
+<PO_PHON>7032928367</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>We are in the middle of the “second quantum revolution”, with quantum technology poised to deliver unprecedented advances in computing, communication, and sensing. The power of quantum technology in biomedical sciences, so far untapped, will be developed in this study. By leveraging the quantum property, namely electron spins, in engineered proteins proposed in this study, biochemical reactions, and subsequent cell behaviors, can be controlled using magnetic fields. Magnetic fields can alter electron spin states in the engineered proteins.  The design of the engineered proteins is inspired by a family of naturally occurring proteins which are sensitive to magnetic fields. This family of magneto-sensitive proteins is known to control biological clocks, DNA damage repair, neuronal activities, and seasonal navigation of migratory birds. The engineered proteins will exhibit graded sensitivity to magnetic fields, where their activities are correlated to the strength of the externally applied magnetic field. As such, biochemical reactions can be dialed down or up by adjusting the field strength. Therefore, this new class of engineered proteins is named “quantum-enabled dial (QED)”. QED will have high impacts in many fields, since QED activity can be tuned on a continuous scale. QED can be excited by light or by chemical energy, is modular and can be designed to control numerous enzymatic activities, and the QED activities can be spatially addressed by patterned magnetic fields. QED activity can be varied over time by varying field strengths over time. Lastly, QED can potentially be useful for quantum computing. Therefore, QEDs will open new avenues in synthetic biology, medicine, and quantum computing. The project team will create immersive research experiences that engage a diverse group of participants and organize regular discussions that address the challenges and solutions to increasing the participation and success of the full spectrum of engineering and science talent in the nation. &lt;br/&gt;&lt;br/&gt;A new class of synthetic proteins, “quantum-enabled dial (QED)”, will be developed with the aim to control prescribed biochemical reactions thus actuating cellular behaviors. The backbone of QED is a flavoprotein, where the flavin and a neighbor amino acid form a spin-correlated radical pair upon chemical or photonic excitation. Magnetic fields can change the energy landscape within the QED molecule. As a result, the rate of the radical pair decaying to the ground state can be controlled by applying external magnetic fields. The decay process releases energy that can be utilized to drive other biochemical reactions. Two types of QED, QED-up and QED-down, will be developed. Increasing the field strength will increase the rate of the reaction coupled to QED-up in a graded manner, but it will decrease the rate of the reaction coupled to QED-down. The cDNA constructs encoding QED-up and -down will be first designed and then expressed in cells or fabricated tissue samples. QED activities in cells when subjected to different magnetic field strengths will be calibrated to guide future applications. QED can be used to solve grand challenges in synthetic biology, tissue engineering, medicine, and quantum computing. For example, QED-based bespoke molecules can be built in a straightforward fashion. QED can be used as smart drugs. When and where the drug is active can be controlled precisely. QED can also be the basis of hot Q-bits, so that ambient temperature quantum computing can be realized.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421670</AwardID>
+<Investigator>
+<FirstName>Yun</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yun Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[pcadmus1@jhu.edu]]></EmailAddress>
+<NSF_ID>000753688</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212182608</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTMTDMBR29C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE JOHNS HOPKINS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212182608</ZipCode>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>763300</Code>
+<Text>EFRI Research Projects</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~3000000</FUND_OBLG>
+</Award>
+</rootTag>

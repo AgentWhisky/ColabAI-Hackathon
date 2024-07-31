@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Imaging Nanoscale Heterogeneity in Single-Atom Catalysts with Single-Molecule Fluorescence Microscopy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>447122.00</AwardTotalIntnAmount>
+<AwardAmount>447122</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Colby Foss</SignBlockName>
+<PO_EMAI>cfoss@nsf.gov</PO_EMAI>
+<PO_PHON>7032925327</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With the support of the Macromolecular, Supramolecular and Nanochemistry Program and the Chemical Measurement and Imaging Program in the Division of Chemistry, Professor Bryce Sadtler of Washington University in St. Louis will use advanced microscopy to understand how the structures of single-atom photocatalysts change over time when they catalyze chemical reactions to produce fuel. Photocatalysts can absorb sunlight to initiate valuable reactions for energy production and environmental remediation, such as the reduction of carbon dioxide into a fuel source like methanol. Single-atom photocatalysts are a relatively new type of photocatalyst consisting of individually dispersed metal atoms on a semiconductor support. Single-atom photocatalysts have potential advantages over other types of photocatalysts, including increased activity compared with nanoparticles for fuel-forming reactions. However, it is currently very challenging to monitor how the structures of single-atom photocatalysts may change over time, and how those changes impact their efficiency. Professor Sadtler and his students will use single-molecule fluorescence microscopy to image individual catalytic reactions on the surface of single-atom photocatalysts; this technique will enable them to visualize whether the distribution of metal atoms changes over time. By identifying whether individual metal atoms or small clusters of atoms are more catalytically active, Sadtler and his team aim to design more efficient and stable single-atom photocatalysts to produce chemical fuels in a carbon-neutral manner. To broaden participation in these research activities, Professor Sadtler will host high-school teachers in his laboratory during the summer to conduct research on catalyst synthesis and characterization. &lt;br/&gt;&lt;br/&gt;Current synthetic methods used to make single-atom catalysts typically result in significant variations in the distribution of metal atoms and their coordination to the surface of the support; this structural heterogeneity produces different types of active sites and makes it difficult to elucidate structure/activity relationships based on ensemble measurements of catalytic activity. This project will use single-molecule fluorescence microscopy with chemically activated fluorogenic probes to quantify differences in photocatalytic activity at the nanoscale for dispersed metal atoms that are supported on semiconductor metal oxides. These studies can provide new insights into how heterogeneity of the nanoscale distribution of supported metal atoms controls the regions of the particle that are photocatalytically active. The utility of these experiments will be assessed by applying observations made at the single-molecule and single-particle levels to rationalize and predict structure/activity relationships measured at the ensemble level for the reduction of carbon dioxide using single-atom photocatalysts.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/26/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404415</AwardID>
+<Investigator>
+<FirstName>Bryce</FirstName>
+<LastName>Sadtler</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bryce Sadtler</PI_FULL_NAME>
+<EmailAddress><![CDATA[sadtler@wustl.edu]]></EmailAddress>
+<NSF_ID>000708781</NSF_ID>
+<StartDate>06/26/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Washington University]]></Name>
+<CityName>SAINT LOUIS</CityName>
+<ZipCode>63110</ZipCode>
+<PhoneNumber>3147474134</PhoneNumber>
+<StreetAddress><![CDATA[ONE BROOKINGS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L6NFUM28LQM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WASHINGTON UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Washington University]]></Name>
+<CityName>SAINT LOUIS</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>631304899</ZipCode>
+<StreetAddress><![CDATA[ONE BROOKINGS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688000</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>688500</Code>
+<Text>Macromolec/Supramolec/Nano</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~447122</FUND_OBLG>
+</Award>
+</rootTag>

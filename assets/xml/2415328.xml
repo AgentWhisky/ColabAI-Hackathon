@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-MeitY: Strain Engineering of Magnetism in Ferrimagnetic Spinel Ferrites and Garnets by Combinatorial Substrate Epitaxy for Dual H- and E-Tunable High Frequency Devices]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>390001.00</AwardTotalIntnAmount>
+<AwardAmount>390001</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Supriyo Bandyopadhyay</SignBlockName>
+<PO_EMAI>sbandyop@nsf.gov</PO_EMAI>
+<PO_PHON>7032925392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Title:  Novel synthesis techniques for thin film magnetic oxides for electric and magnetic field tunable miniature high frequency devices &lt;br/&gt; &lt;br/&gt;Abstract&lt;br/&gt;&lt;br/&gt;Ferrites and garnets are magnetic materials of choice for use in high frequency signal processing devices due to low loss characteristics.  Their widespread use in frequency tunable devices, however, is limited by two factors: difficulties in miniaturization due to the need for a source of high external magnetic fields that will also require a large operating power.  This international collaborative project is on novel synthesis techniques to tailor the properties of ferrite and garnet thin films to achieve a large built-in magnetic field to eliminate the need for high magnetic fields and power requirements and to design and fabricate voltage tunable devices by using a composite of magnetic and ferroelectric films.  Magnetic oxide films will be grown on substrates with a variety of crystallographic orientations and characterized to identify the appropriate substrate orientation to achieve a large internal magnetic field.  Following this critical step, ferrite and garnet films grown on desired substrates will be bonded to ferroelectric oxide films and the composites will be used in used in high frequency devices such as resonators and filters and tested in terms of voltage and magnetic field tunability and loss parameters.  Anticipated key outcomes of this project are human resources development in materials and device technologies and a new family of smart, energy efficient, miniature high frequency devices for use in consumer electronics and communication systems.&lt;br/&gt;&lt;br/&gt;This collaborative research program is aimed at tunable, miniature, planar devices with the use of (i) ferrite/garnet films with a self-magnetic bias provided by strain-induced anisotropy field and (ii) voltage tuning of the device facilitated by two different mechanisms: Non-Linear Magneto-electric Effects and linear magneto-electric coupling in a composite with a ferroelectric.  The enhancement of the anisotropy field is to be achieved by introducing a controlled strain due to film-substrate lattice mismatch in the films grown by combinatorial substrate epitaxy, a technique suitable for simultaneous film growth on a polycrystalline substrate with a wide range of strain states, thereby enabling optimization of the substrate and material parameters for specific device applications.  The most important task is the growth of yttrium iron garnet and nickel ferrite films by liquid phase epitaxy on polycrystalline substrates of yttrium aluminum garnet and magnesium aluminate with a large film-substrate lattice mismatch.  Well-characterized substrates will be prepared by spark-plasma sintering and hot-pressing.  Substrates and grown films will be characterized by electron and scanning probe microscopies.  Localized ferromagnetic resonance measurements by scanning microwave microscopy will provide information on appropriate grain orientations for enhanced strain induced anisotropy fields.  Films grown on single crystal substrates of preferred orientations will be bonded to ferroelectric lead zirconate titanate or lead magnesium niobate-lead titanate.  Yttrium iron garnet-ferroelectric composites are to be used in 1-10 GHz resonators and band-pass and band-stop filters.  Nickel ferrite-based composites are to be used for devices in the 10-20 GHz range and will be characterized in terms of broad-band tuning with a permanent magnet and narrow-band voltage tuning by magneto-electric effects and loss parameters and figures of merit.  A partner in industry will evaluate their performance for use in 4G/5G wireless technologies and in similar high frequency communication systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415328</AwardID>
+<Investigator>
+<FirstName>Gopalan</FirstName>
+<LastName>Srinivasan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gopalan Srinivasan</PI_FULL_NAME>
+<EmailAddress><![CDATA[srinivas@oakland.edu]]></EmailAddress>
+<NSF_ID>000248608</NSF_ID>
+<StartDate>07/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hongwei</FirstName>
+<LastName>Qu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hongwei Qu</PI_FULL_NAME>
+<EmailAddress><![CDATA[qu2@oakland.edu]]></EmailAddress>
+<NSF_ID>000510958</NSF_ID>
+<StartDate>07/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Oakland University]]></Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>483094401</ZipCode>
+<PhoneNumber>2483704116</PhoneNumber>
+<StreetAddress><![CDATA[2200 N SQUIRREL RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJTLACN81NK1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OAKLAND UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>LY1HEB9XS5G8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Oakland University]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>483094401</ZipCode>
+<StreetAddress><![CDATA[2200 N SQUIRREL RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>151700</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>107E</Code>
+<Text>Magnetics and spin electronics</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~390001</FUND_OBLG>
+</Award>
+</rootTag>

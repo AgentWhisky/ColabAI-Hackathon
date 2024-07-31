@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Burrowing Dynamics in Sediment Beds]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>330001.00</AwardTotalIntnAmount>
+<AwardAmount>330001</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shahab Shojaei-Zadeh</SignBlockName>
+<PO_EMAI>sshojaei@nsf.gov</PO_EMAI>
+<PO_PHON>7032928045</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The development of soft robots that can navigate through complex terrains to mine resources, and actuated devices that transport granular medium, requires a physical understanding of the interactions of oscillating thin elastic bodies with particulates immersed in a fluid. A set of prototypes will be constructed with elastic materials embedded with magnetic particles that can be oscillated with controlled external fields and can be observed inside opaque medium with optical index matching techniques. A theoretical model which incorporates the forces exerted by the granular and fluid medium, the elastic forces of the body, and the external fields will be developed guided by experimental observations of the shape and velocity of the robots. The results of the research will be reported at scientific conferences and published as peer-reviewed articles that will be freely available via the web. Graduate student research and dissertation work will be supported by the grant. The project will enable the year-round research training of undergraduate students through intensive participation in summer research, and capstone courses towards pursuing STEM careers. Educational toys exploring the physics of burrowers will be developed and demonstrated at community outreach events to inspire K-12 students as well as adults.  &lt;br/&gt;&lt;br/&gt;The award will study the physical principles that determine the dynamics of undulating soft filaments in granular mediums with experiments and elasto-hydrodynamic theory. Prototypes will be constructed that span the range of burrowers observed in nature including undulating filament-shaped organisms, and those that are coated with oscillating cilia. Conditions which give rise to metachronal waves in multi-filament arrays will be elucidated and their relative efficiency in transport will be examined with varying phase-field techniques. Medium-structure interaction models will be developed to capture the shape and speed based on the elasticity of the body and the rheology of the medium. Control over the direction of motion, and ability to rise or fall through the bed, will be investigated in terms of lift experienced by an oscillating body in sediments and by size separation mechanisms. This study will enable a detailed understanding of the interactions of oscillating elastic structures with granular environments under unsteady flow conditions. The proposed work will result in a deep understanding of biolocomotion and soft robot design in sediment beds through physical intelligence, and the design of jamming-free pumps that can transport granular suspensions through channels. The project activities will further support training of students at various stages of their education, including enabling undergraduate and graduate laboratory research experience, and opportunities to participate in outreach activities.  Models depicting the physics of burrowing will be developed to demonstrate to school students and members of the public at community outreach events.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/27/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401729</AwardID>
+<Investigator>
+<FirstName>Arshad</FirstName>
+<LastName>Kudrolli</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arshad A Kudrolli</PI_FULL_NAME>
+<EmailAddress><![CDATA[akudrolli@clarku.edu]]></EmailAddress>
+<NSF_ID>000090941</NSF_ID>
+<StartDate>06/27/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Clark University]]></Name>
+<CityName>WORCESTER</CityName>
+<ZipCode>016101400</ZipCode>
+<PhoneNumber>5084213835</PhoneNumber>
+<StreetAddress><![CDATA[950 MAIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LD3WUVEUK2N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF CLARK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Clark University]]></Name>
+<CityName>WORCESTER</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>016101400</ZipCode>
+<StreetAddress><![CDATA[950 MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>141500</Code>
+<Text>PMP-Particul&amp;MultiphaseProcess</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~330001</FUND_OBLG>
+</Award>
+</rootTag>

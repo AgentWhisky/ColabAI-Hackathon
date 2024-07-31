@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[IRES: Artificial Intelligence and Data Science for the Understanding, Prediction and Prevention of Disease (AI-UPP)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>448222.00</AwardTotalIntnAmount>
+<AwardAmount>448222</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Fahmida Chowdhury</SignBlockName>
+<PO_EMAI>fchowdhu@nsf.gov</PO_EMAI>
+<PO_PHON>7032924672</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Over the past few decades the generation of ‘big data’ within biology and health has exploded. This is largely due to technological improvements within the ‘-omics’ space as well as in microscopy and medical imaging. With the availability of these large datasets, new challenges are arising related to the analysis and interpretation of these data. As such, we turn to artificial intelligence (AI) and data science techniques to efficiently and accurately mine data to maximize our understanding of various biological systems. Although significant advances have been made in this area, new AI and data science methods are needed as existing biotechnologies improve and new methods emerge which will increase the volume and complexity of these datasets. Looking to the future, the development of these new methods requires the creation of educational programs in order to train the next generation of AI and data scientists. Given this need, this IRES project aims to train 24 undergraduate students (8 students per year for 3 years) from primarily undergraduate institutions in the U.S. to conduct 10 weeks of supervised research in host labs at the Karolinska Institutet and the Science for Life Laboratory in Stockholm, Sweden. Students from the U.S. from underrepresented groups in engineering/computer science are prioritized in the recruitment efforts for this program. Under the direction of research mentors in San Diego and Sweden, students work on projects in host labs focused around a centralized theme of developing advanced AI and/or data science tools aimed at understanding, predicting and/or preventing disease. Given this research theme, this work has the potential to create tools that will ultimately serve to improve the health of people in society. Additionally, through scientific, professional development, public policy and cultural activities, this IRES site aims to develop globally-engaged scientists/engineers with an understanding of how their scientific research is grounded in and contributes to society as a whole. &lt;br/&gt;&lt;br/&gt;The research projects which the IRES students work on are at the forefront of biomedical data science. Each project focuses on developing or improving upon AI and data science tools to advance our ability to understand, predict and/or prevent disease. These research efforts serve to deepen our knowledge of fundamental biology by contributing to our understanding of disease mechanisms as well as examining the preventive medicine capabilities of physical activity. Additionally, the development of these computational tools contributes to the identification of early disease detection methods related to patterns discovered using AI-facilitated radiology/pathology techniques. Furthermore, this work advances engineering knowledge by developing new computational methods useful to the fields of biology, bioinformatics, biomedical engineering, and computer science. Lastly, advances resulting from this research are also likely to contribute to fields outside of those directly related to this work, such as with image object detection.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2420210</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Chapman</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark A Chapman</PI_FULL_NAME>
+<EmailAddress><![CDATA[markchapman@sandiego.edu]]></EmailAddress>
+<NSF_ID>000804351</NSF_ID>
+<StartDate>07/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of San Diego]]></Name>
+<CityName>SAN DIEGO</CityName>
+<ZipCode>921102476</ZipCode>
+<PhoneNumber>6192606825</PhoneNumber>
+<StreetAddress><![CDATA[5998 ALCALA PARK FRNT]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>51</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA51</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6S1GT51XD56</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of San Diego]]></Name>
+<CityName>SAN DIEGO</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>921102476</ZipCode>
+<StreetAddress><![CDATA[5998 ALCALA PARK FRNT]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>51</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA51</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>288Y00</Code>
+<Text>Intl Rsrch Exp for Stds (IRES)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5937</Code>
+<Text>SWEDEN</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~448222</FUND_OBLG>
+</Award>
+</rootTag>

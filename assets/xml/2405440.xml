@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Rigidity and Flexibility through Group Actions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>207485.00</AwardTotalIntnAmount>
+<AwardAmount>207485</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eriko Hironaka</SignBlockName>
+<PO_EMAI>ehironak@nsf.gov</PO_EMAI>
+<PO_PHON>7032927041</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>A traditional dynamical system is a time lapse of a space that describes the motion of points. The time lapse can be in a single, discrete time step or a continuous time flow. One natural way in which dynamical systems can be considered the same, called conjugacy, is through change of coordinates. That is, two dynamical systems are conjugate if there is an equivalence between the spaces which connects the way in which time steps are made. One of the central classification questions in dynamics is to classify dynamical systems up to conjugacy. This question has variations based on what it means for two systems to be equivalent, usually taking the forms of measurable, continuous and smooth equivalences. The goal of the proposal is to study the classification question from various perspectives, including generalizing the notion of a dynamical system to a group action, understanding possible values for conjugacy invariants and relaxing the notion of conjugacy to allow for time reparameterization. The proposal also includes work with students at various levels to deepen the collective understanding.&lt;br/&gt;&lt;br/&gt;The proposal aims to capitalize on momentum in 3 key areas: smooth rigidity for actions of abelian groups and higher-rank semisimple Lie groups, Kakutani equivalence for flows and group actions, and flexibility for conjugacy invariants. Each of these questions is related to a classification question, the first working toward the Katok-Spatzier conjecture and Zimmer program, the second being an extension of results about Kakutani equivalence of parabolic flows to the setting of abelian group actions, and the third being a natural extension of the seminal work of Erchonko-Katok describing the possible values for topological and metric entropy for geodesic flows on surfaces.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2405440</AwardID>
+<Investigator>
+<FirstName>Kurt</FirstName>
+<LastName>Vinhage</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kurt W Vinhage</PI_FULL_NAME>
+<EmailAddress><![CDATA[vinhage@math.utah.edu]]></EmailAddress>
+<NSF_ID>000702926</NSF_ID>
+<StartDate>06/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841129049</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL8GLEVH6MG3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF UTAH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841129049</ZipCode>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126500</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~207485</FUND_OBLG>
+</Award>
+</rootTag>

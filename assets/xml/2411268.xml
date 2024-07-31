@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Elements: TUPS: Table Understanding for Paleoclimate Studies]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>171570.00</AwardTotalIntnAmount>
+<AwardAmount>171570</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marlon Pierce</SignBlockName>
+<PO_EMAI>mpierce@nsf.gov</PO_EMAI>
+<PO_PHON>7032927743</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>To better understand how climate may change in the future, scientists look at how it has varied in the past, a field called paleoclimatology. Doing so requires the use of proxies such as the rings of trees or the chemical composition of ice cores to infer climate variability over thousands to millions of years. Given the importance of these datasets, it is crucial that scientists have the ability to efficiently locate, access, and integrate data. Paleoclimate studies often require the integration of hundreds of datasets that are stored in unstructured files, currently requiring scientists to spend a significant fraction of their time manually reformatting the data before they can work with it. The goal of this project is to use artificial intelligence to identify tables in files automatically so these tables can be used more easily in analyses. The end goal is to make more data available to scientists, to reduce the time scientists spend on data wrangling, to decrease the time it takes to obtain scientific results, and to increase the reproducibility of scientific analyses performed by different research groups. Working with collaborators from the hydroclimate community, the project contributes to the understanding of how water resources have changed over the last two thousand years. &lt;br/&gt;&lt;br/&gt;The Table Understanding for Paleoclimate Studies project aims to leverage table understanding machine learning mechanisms to greatly reduce the time scientists spend searching, wrangling, and annotating paleoclimate datasets prior to analysis. The resulting deep learning model will be integrated into a Python toolbox that will allow scientists to identify and retrieve tables from unstructured files into their computational environment along with relevant metadata. A primary use case for this project is to extract tabular paleoclimate data from the National Oceanic and Atmospheric Administration World Data Service for Paleoclimatology and the PANGAEA repositories. Over the past decade, these archived centers have spent a significant effort standardizing and updating the metadata of the datasets in their possession, but many datasets remain difficult to extract programmatically. In addition, this project builds on an existing recommender system for paleoclimate datasets that will be updated with community-curated datasets to help with metadata annotation and correction. TUPS will directly engage with the paleoclimate community through tutorials, hackathons, and a workshop to ensure that tools and training materials meet the community scientific needs and to help train the next generation of paleoclimate scientists. &lt;br/&gt;&lt;br/&gt;This award by the Office of Advanced Cyberinfrastructure is jointly supported by the National Discovery Cloud for Climate initiative within the Directorate for Computer and Information Science and Engineering and by Geosciences Directorate’s Research, Innovation, Synergies, and Education and Atmospheric and Geospace Sciences divisions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050, 47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411268</AwardID>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>McKay</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nicholas P McKay</PI_FULL_NAME>
+<EmailAddress><![CDATA[Nicholas.McKay@nau.edu]]></EmailAddress>
+<NSF_ID>000604429</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northern Arizona University]]></Name>
+<CityName>FLAGSTAFF</CityName>
+<ZipCode>86011</ZipCode>
+<PhoneNumber>9285230886</PhoneNumber>
+<StreetAddress><![CDATA[601 S KNOLES DR RM 220]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MXHAS3AKPRN1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHERN ARIZONA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northern Arizona University]]></Name>
+<CityName>FLAGSTAFF</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>86011</ZipCode>
+<StreetAddress><![CDATA[601 S KNOLES DR RM 220]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>153000</Code>
+<Text>Paleoclimate</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>243Y00</Code>
+<Text>GEO CI - GEO Cyberinfrastrctre</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>295Y00</Code>
+<Text>NDCC-Natl Discvry Cloud Climat</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>800400</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~171570</FUND_OBLG>
+</Award>
+</rootTag>

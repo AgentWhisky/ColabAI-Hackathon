@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SHF: Medium: Tiny Chiplets for Big AI: A Reconfigurable-On-Package System]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+<PO_EMAI>sabasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927843</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>As monolithic chips reach their technological and practical limits, the integration of chiplets is emerging as the primary mechanism to continuously scale up processor performance, improve power efficiency, enhance IP reuse at low cost, and expedite time-to-market. This new concept of composable chiplets is particularly appealing to the artificial intelligence (AI) sector, which is in a pressing need to deliver computing chips to support increasingly complex and diverse cognitive algorithms. This project aims to pioneer such a computing system, including new architectural and design automation tools, for massive AI workloads. The envisioned system will benefit various scenarios, ranging from high-performance computing applications to mobile and edge devices. This project also addresses the skill shortage in the semiconductor area, a crucial aspect for reshoring the semiconductor industry. It involves training students in the areas of heterogeneous system design, AI architectures, and design automation. The investigators plan to improve the knowledge base through new curriculum development, engaging undergraduate students in research through Research Experiences for Undergraduates (REU) supplement, and participating in outreach programs customized for K-12 students. In addition, this project will advocate web-based knowledge dissemination including releasing software codes and novel designs. Several workshops and tutorials promoting chiplet-based co-design have been organized by the investigators and will be continued.&lt;br/&gt;&lt;br/&gt;Distinguished from current practice of 2.5D/3D heterogeneous integration (HI), this project aims to transform the architecture of chiplet-based design through three unique perspectives: Miniaturization to reduce the chiplet size to the minimum (tiny chiplets) for high composability, guided by AI computing cores; Very-large-scale integration to integrate thousands of tiny chiplets to scale up computing power and diversity for big AI applications, offering unprecedented flexibility and efficiency for AI algorithm and system designers; and Reconfiguration on the package to enable adaptation to varying workloads and address thermal and reliability concerns in 2.5D/3D packaging. These innovations will push the limits of architecture and physical design, addressing challenges related to chiplet definition, interconnection, power and thermal integrity, and workload mapping. The objective is to create a suite of design automation tools, streamlining the complete design process of reconfigurable chiplet-based systems for big AI computing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403409</AwardID>
+<Investigator>
+<FirstName>Jun</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jun Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[jzhan640@asu.edu]]></EmailAddress>
+<NSF_ID>000965413</NSF_ID>
+<StartDate>04/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852813670</ZipCode>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~400000</FUND_OBLG>
+</Award>
+</rootTag>

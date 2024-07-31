@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PFI-TT: Affordable and Generalizable Predictive Maintenance Solutions for Small and Medium Manufacturers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>550000.00</AwardTotalIntnAmount>
+<AwardAmount>550000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samir M. Iqbal</SignBlockName>
+<PO_EMAI>smiqbal@nsf.gov</PO_EMAI>
+<PO_PHON>7032927529</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Partnerships for Innovation - Technology Translation (PFI-TT) project is in enhancing the reliability of manufacturing facilities and the efficiency of production on shop floors, particularly for small and medium-sized manufacturers (SMMs). By developing affordable and self-sustaining predictive maintenance (PM) solutions, the project aims to reduce unexpected machine downtimes and unnecessary maintenance costs. The technology integrates advanced machine learning (ML) tools with an edge-cloud computing infrastructure, enabling continuous and real-time monitoring of industrial equipment. This innovation is expected to bridge the gap between cutting-edge research and practical application, providing SMMs with the tools necessary to compete in a technology-driven market. The societal benefits include increased operational efficiency, cost savings, and the promotion of sustainable manufacturing practices. The commercial potential includes the adoption of solutions that could revolutionize maintenance strategies across diverse manufacturing sectors, leading to broader economic benefits.&lt;br/&gt;&lt;br/&gt;The project addresses the critical need for cost-effective and generalizable PM solutions in the manufacturing industry. The primary research objective is to develop a low-cost, self-sustaining edge device, to be equipped with ML-based data analytics and deployed in a streamlined edge-cloud computing infrastructure, for real-time equipment monitoring, diagnosis, and prognosis. The project will focus on three key innovations: (1) designing an edge device that integrates sensors with an energy harvesting module and microcontroller-deployable ML algorithms, facilitating self-powered, continuous, and prompt machine monitoring and diagnosis; (2) creating a generalizable ML-based diagnosis and prognosis tool that can continuously update itself using unlabeled data streams and be scalable to diverse manufacturing environments, and (3) establishing an integrated edge-cloud data processing and decision-making pipeline for efficient deployment of these tools on the shop floor. These developed hardware and software solutions will be tested in both laboratory and industrial settings, followed by pilot projects to validate the technology's efficacy and adaptability. The anticipated technical results include high detection accuracy, reduced maintenance costs, and improved machine uptime, ultimately advancing the state of PM in manufacturing.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by Partnerships for Innovation (PFI) program, and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/26/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412609</AwardID>
+<Investigator>
+<FirstName>Peng</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peng Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[edward.wang@uky.edu]]></EmailAddress>
+<NSF_ID>000808062</NSF_ID>
+<StartDate>06/26/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Kentucky Research Foundation]]></Name>
+<CityName>LEXINGTON</CityName>
+<ZipCode>405260001</ZipCode>
+<PhoneNumber>8592579420</PhoneNumber>
+<StreetAddress><![CDATA[500 S LIMESTONE]]></StreetAddress>
+<StreetAddress2><![CDATA[109 KINKEAD HALL]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<StateCode>KY</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KY06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H1HYA8Z1NTM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF KENTUCKY RESEARCH FOUNDATION, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Kentucky Research Foundation]]></Name>
+<CityName>LEXINGTON</CityName>
+<StateCode>KY</StateCode>
+<ZipCode>405260001</ZipCode>
+<StreetAddress><![CDATA[500 S LIMESTONE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KY06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>166200</Code>
+<Text>PFI-Partnrships for Innovation</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6840</Code>
+<Text>ROBOTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~550000</FUND_OBLG>
+</Award>
+</rootTag>

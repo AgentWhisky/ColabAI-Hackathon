@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Explaining analytical heterogeneity in ecology and evolutionary biology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>379240.00</AwardTotalIntnAmount>
+<AwardAmount>379240</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Betsy Von Holle</SignBlockName>
+<PO_EMAI>mvonholl@nsf.gov</PO_EMAI>
+<PO_PHON>7032924974</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>After scientists have gathered data, they often must analyze the data before they can draw conclusions about how the world works. However, recent research indicates that different researchers, because they analyze the data in different ways, can sometimes draw different conclusions from the same data, which could influence how people ultimately act upon those findings. The purpose of this study is to identify the situations in which different researchers may be more or less likely to come to different conclusions when analyzing the same data. To accomplish this goal, the project leaders will provide the same datasets and research questions to large numbers of researchers in ecology and evolutionary biology. At the end of this study, project leaders will hold workshops at major conferences to share their results and to start conversations within the scientific community about how data analysis practices should or should not change. Undergraduates in Biology, Math and Statistics, and Computer Science will gain research skills, and teaching modules for an ecology lab and a statistical modeling class will be generated. &lt;br/&gt;&lt;br/&gt;To assess the importance of potential drivers of heterogeneity among analysis outcomes, the project will use two data sets--one from avian ecology, one from plant ecology. Potential drivers of analytical heterogeneity, and how they will be studied include:&lt;br/&gt;a. Features of datasets: volunteers will be provided alternate versions of the same data and asked to provide different analyses for each version. Versions will differ in the strength of the main effect, the strength of covariate relationships, and the presence of categorical variables that can be used to divide data into subsets. &lt;br/&gt;b. Data processing: the last dataset version provided to analysts will be entirely pre-processed, and no additional processing by volunteers will be allowed prior to analysis.&lt;br/&gt;c. Researcher domain expertise: For each of the two biological datasets, volunteer analysts will be recruited from a pool of experts in the study system in question, and more broadly from ecologists and evolutionary biologists at large.&lt;br/&gt;After volunteer analysts have submitted their analyses, project leaders will conduct meta-analyses to identify the contributions to analytical heterogeneity of the manipulations described above, which will be used to inform discussions of data analysis standards in ecology, evolutionary biology, and other disciplines.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/27/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403465</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Parker</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timothy H Parker</PI_FULL_NAME>
+<EmailAddress><![CDATA[parkerth@whitman.edu]]></EmailAddress>
+<NSF_ID>000095140</NSF_ID>
+<StartDate>06/27/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Whitman College]]></Name>
+<CityName>WALLA WALLA</CityName>
+<ZipCode>993622067</ZipCode>
+<PhoneNumber>5095275990</PhoneNumber>
+<StreetAddress><![CDATA[345 BOYER AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MN2YF7KQHHJ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE BOARD OF TRUSTEES OF WHITMAN COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Whitman College]]></Name>
+<CityName>WALLA WALLA</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>993622067</ZipCode>
+<StreetAddress><![CDATA[345 BOYER AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>112700</Code>
+<Text>Evolutionary Processes</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>112800</Code>
+<Text>Population &amp; Community Ecology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~379240</FUND_OBLG>
+</Award>
+</rootTag>

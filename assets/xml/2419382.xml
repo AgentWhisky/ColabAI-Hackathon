@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Attosecond and Strong Field Physics in Correlated Multielectron System]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>138092.00</AwardTotalIntnAmount>
+<AwardAmount>44851</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Julio Gea-Banacloche</SignBlockName>
+<PO_EMAI>jgeabana@nsf.gov</PO_EMAI>
+<PO_PHON>7032927924</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The astonishing advances in the generation of attosecond light pulses, and the availability of high-intensity lasers in the near-infrared region, have opened up a field of new possibilities in the study of the real-time electron dynamics in complex systems. One of the goals of attosecond and strong-field physics is to access fundamental information on electronic motion in its natural time scale and be able to control charge migration in molecules, e.g., to select a specific bond breaking at a molecular site, or to trigger a chemical reaction. The main objective of the project is to develop a new, efficient, and versatile numerical method to support the experimental and theoretical study of the interaction of multi-electron systems with ultra-short and intense laser pulses. This work aims at contributing to the development of attochemistry and ultimately bridge the gap between attosecond physics and biology. In addition, as connecting experimental measurements to real-time meaningful physical observables has shown to be far from simple, new methods will be investigated to track the rapid dynamics of photoelectron emitted from different valence shells in molecules, as well as during tunnel ionization in intense laser fields. &lt;br/&gt;&lt;br/&gt;With attosecond physics becoming among the most thriving fields of science, new theoretical tools are needed to support the exploration of attosecond phenomena in complex systems. ATTOMESA, a new numerical method for ultrafast physics, will be designed to treat various multiphoton processes investigated with current experimental setups, and to study unexplored aspects of driven multielectron attosecond and strong field dynamics in atoms and molecules. The formalism used in ATTOMESA includes electron correlation and exchange, as well as inter-channel coupling. It is based on a hybrid quadrature approach, where a quantum-chemistry description using Gaussian-type orbitals is used in the short-range to mid-range electron-molecule interaction region, while finite-element discretized variable representation functions complement the description at larger electronic radius, resulting in a highly efficient parallel ab initio method able to treat strong field processes in molecules. Consequently, processes such as high-harmonic generation and frustrated tunnel ionization can be handled fully ab initio. In this work, the following physical processes will be treated with ATTOMESA; photoionization time delay near a Cooper minimum and between different valence shells using a new spectroscopic method, estimation of electronic coherence in a biomolecule after sudden photoionization, and finally assessing the role of electron correlation in streaking/attoclock experiments. Finally, Bohmian mechanics will be employed as a useful tool to interpret strong-field phenomena in atoms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/13/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/13/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419382</AwardID>
+<Investigator>
+<FirstName>Nicolas</FirstName>
+<LastName>Douguet</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nicolas Douguet</PI_FULL_NAME>
+<EmailAddress><![CDATA[nicolas.douguet@ucf.edu]]></EmailAddress>
+<NSF_ID>000814461</NSF_ID>
+<StartDate>02/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[The University of Central Florida Board of Trustees]]></Name>
+<CityName>ORLANDO</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress><![CDATA[4000 CENTRAL FLORIDA BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RD7MXJV7DKT9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Central Florida Board of Trustees]]></Name>
+<CityName>ORLANDO</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>328168005</ZipCode>
+<StreetAddress><![CDATA[4000 CENTRAL FLORIDA BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128400</Code>
+<Text>AMO Theory/Atomic, Molecular &amp;</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~44851</FUND_OBLG>
+</Award>
+</rootTag>

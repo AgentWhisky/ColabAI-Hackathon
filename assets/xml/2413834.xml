@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Nonparametric Learning in High-Dimensional Survival Analysis for causal inference and sequential decision making]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jun Zhu</SignBlockName>
+<PO_EMAI>jzhu@nsf.gov</PO_EMAI>
+<PO_PHON>7032924551</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Data with survival outcomes are commonly encountered in real-world applications to capture the time duration until a specific event of interest occurs. Nonparametric learning for high dimensional survival data offers promising avenues in practice because of its ability to capture complex relationships and provide comprehensive insights for diverse problems in medical and business services, where vast covariates and individual metrics are prevalent. This project will significantly advance the methods and theory for nonparametric learning in high-dimensional survival data analysis, with a specific focus on causal inference and sequential decision making problems. The study will be of interest to practitioners in various fields, particularly providing useful methods for medical researchers to discover relevant risk factors, assess causal treatment effects, and utilize personalized treatment strategies in contemporary health sciences. It will also provide useful analytics tools beneficial to financial and related institutions for assessing user credit risks and facilitating informed decisions through personalized services. The theoretical and empirical studies to incorporate complex nonparametric structures in high-dimensional survival analysis, together with their interdisciplinary applications, will create valuable training and research opportunities for graduate and undergraduate students, including those from underrepresented minority groups.&lt;br/&gt;&lt;br/&gt;Under flexible nonparametric learning frameworks, new embedding methods and learning algorithms will be developed for high dimensional survival analysis. First, the investigators will develop supervised doubly robust linear embedding and supervised nonlinear manifold learning method for supervised dimension reduction of high dimensional survival data, without imposing stringent model or distributional assumptions. Second, a robust nonparametric learning framework will be established for estimating causal treatment effect for high dimensional survival data that allows the covariate dimension to grow much faster than the sample size. Third, motivated by applications in personalized service, the investigators will develop a new nonparametric multi-stage algorithm for high dimensional censored bandit problems that allows flexibility with potential non-linear decision boundaries with optimal regret guarantees.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413834</AwardID>
+<Investigator>
+<FirstName>Zhezhen</FirstName>
+<LastName>Jin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhezhen Jin</PI_FULL_NAME>
+<EmailAddress><![CDATA[zj7@columbia.edu]]></EmailAddress>
+<NSF_ID>000488710</NSF_ID>
+<StartDate>06/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100277922</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress><![CDATA[615 W 131ST ST]]></StreetAddress>
+<StreetAddress2><![CDATA[MC 8741]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100277922</ZipCode>
+<StreetAddress><![CDATA[615 W 131ST ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~100000</FUND_OBLG>
+</Award>
+</rootTag>

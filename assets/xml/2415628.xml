@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Improving Domestic Small Ruminant Reproduction Through Computer Assisted Embryo Analysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>274996.00</AwardTotalIntnAmount>
+<AwardAmount>274996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ela Mirowski</SignBlockName>
+<PO_EMAI>emirowsk@nsf.gov</PO_EMAI>
+<PO_PHON>7032922936</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader/commercial impact of this Small Business Innovation Research (or Small Business Technology Transfer) Phase I project will be to accelerate the quality and growth of U.S. sheep and goat production through improved embryo transfer rates. The United States is forced to import 1.5 billion USD yearly of small ruminant protein to fulfill national demand. Embryo transfer use to improve domestic herds is currently limited due to low success rates and almost exclusively used in a small margin of elite herds. By improving the success of this technology and lowering the cost, it will democratize it for wider industry use. Accelerating national sheep and inventory numbers through more productive and prolific animals will significantly bolster the health, safety, and welfare of the American populace through increased access to economical, lean protein. More animals entering the food supply means job creation and an expansion of tax revenue through increased demand for animal feedstuffs, routine animal care, veterinarian services, transportation, animal processing, and distribution of value-added products. Fulfilling U.S. consumer needs with U.S. grown sheep and goats means job creation and internal food security.&lt;br/&gt;&lt;br/&gt;In this project, machine learning models with computer vision and multifactorial herd qualities will be studied to significantly improve sheep and goat breeding success rates. Key identified features in the embryo will be used as a baseline that will enable evaluation of a variety of intrinsic and extrinsic factors related to the ewe during the gestational period to better understand environmental factors related to pregnancy failure and success.  This analysis will produce a comprehensive embryo and animal health analysis that can be used in sheep and goat embryology laboratories to enable veterinarians, embryologists, and producers to improve breeding success rates. The resulting user interface incorporates the data collection and processing with herd breeding management to serve as a minimum viable product for immediate wider industry adoption.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/26/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415628</AwardID>
+<Investigator>
+<FirstName>Brittany</FirstName>
+<LastName>Scott</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brittany Scott</PI_FULL_NAME>
+<EmailAddress><![CDATA[brittany@smartrepro.com]]></EmailAddress>
+<NSF_ID>000969805</NSF_ID>
+<StartDate>06/26/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SEMEN AND EMBRYO ADVANCED REPRODUCTIVE TECHNOLOGIES (SMART), LLC]]></Name>
+<CityName>JONESBORO</CityName>
+<ZipCode>724010477</ZipCode>
+<PhoneNumber>8705884295</PhoneNumber>
+<StreetAddress><![CDATA[2208 DUNCAN ROAD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arkansas</StateName>
+<StateCode>AR</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AR01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RYFZRBZJU6L1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SEMEN AND EMBRYO ADVANCED REPRODUCTIVE TECHNOLOGIES (SMART), LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SEMEN AND EMBRYO ADVANCED REPRODUCTIVE TECHNOLOGIES (SMART), LLC]]></Name>
+<CityName>JONESBORO</CityName>
+<StateCode>AR</StateCode>
+<ZipCode>724010477</ZipCode>
+<StreetAddress><![CDATA[2208 DUNCAN ROAD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arkansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AR01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9109</Code>
+<Text>AGRICULTURAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~274996</FUND_OBLG>
+</Award>
+</rootTag>

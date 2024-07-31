@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Structure and Statistics of Disordered Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>260000.00</AwardTotalIntnAmount>
+<AwardAmount>239338</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Wilmer</SignBlockName>
+<PO_EMAI>ewilmer@nsf.gov</PO_EMAI>
+<PO_PHON>7032927021</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>A recurring challenge in modeling complex networks is to predict macroscopic outcomes from knowing only the microscopic rules of a system. Examples range from the global level (social networks, economic networks) to the cellular level (immune networks, neuron networks), and can be virtual rather than physical (signal processing, artificial intelligence). Probability theory can analyze these systems by harnessing the predictive power of the aggregate effect of more and more random variables, otherwise known as disorder. To make effective use of this theory, mathematicians and other practitioners must be able to both infer qualitative large-scale structure from more easily measured system statistics and identify the relationship between these statistics and the parameters governing the model. This project will pursue these objectives for two classes of disordered systems: spin glasses and random growth, both of which are of continuing interest in physics, computer science, and engineering. The project will include research training opportunities for graduate and undergraduate students and also outreach efforts to elementary and secondary students. &lt;br/&gt;&lt;br/&gt;Among the proposed investigations are (1) establishing Parisi-type formulas for the limiting energy of so-called multi-species and vector-spin models, by using techniques from functional analysis and PDEs; (2) determination of the phase diagram of these same models, by performing variational calculus on the obtained Parisi formulas; (3) producing new estimates on the size of fluctuations in growth interfaces associated to first- and last-passage percolation, by adapting tools from stochastic analysis; and (4) studying the phenomenon of quenched localization in directed polymers, by leveraging untapped connections to spin glass theory. This rigorous mathematical work will be aided by experimental computer simulation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/13/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>12/13/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412473</AwardID>
+<Investigator>
+<FirstName>Erik</FirstName>
+<LastName>Bates</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Erik Bates</PI_FULL_NAME>
+<EmailAddress><![CDATA[ewbates@ncsu.edu]]></EmailAddress>
+<NSF_ID>000784111</NSF_ID>
+<StartDate>12/13/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276950001</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NVH931QJJ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276077514</ZipCode>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126300</Code>
+<Text>PROBABILITY</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~239338</FUND_OBLG>
+</Award>
+</rootTag>

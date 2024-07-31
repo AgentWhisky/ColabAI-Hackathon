@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A data-driven approach to uncover the response of evaporation and transpiration to changes in hydrometeorology across the United States]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>398525.00</AwardTotalIntnAmount>
+<AwardAmount>398525</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christopher S. Lowry</SignBlockName>
+<PO_EMAI>cslowry@nsf.gov</PO_EMAI>
+<PO_PHON>7032928825</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Precipitation is changing across the United States. The North and East are mostly getting wetter while the West has become drier, with notable wet years interspersed. These changes also impact how water returns to the atmosphere, which is important to understand. If it travels through plants via transpiration, conditions are probably right for photosynthesis and growth. Water can also enter the atmosphere through evaporation from soil, or from wet plant canopies after rain, which helps keep plants cool. The researchers will use water flux measurements and apply new techniques to infer if it enters the atmosphere through plants, from plant surfaces, or from soil. Combined with satellite and weather data, they will create machine learning models to predict how water re-enters the atmosphere every hour across the U.S. at a resolution of about two miles. These data will be publicly available to better understand the changing water cycle of the U.S. The researchers will continue to work with Tribal colleagues to monitor forest water use and to provide training opportunities in forest and water science.&lt;br/&gt;&lt;br/&gt;Observed changes to U.S. hydrometeorology impact the components of evapotranspiration (ET): transpiration (T) through plant stomata and evaporation from soil (Es) and from precipitation intercepted by vegetation (Ei). Relatively little is known about how T, Es, and Ei respond to precipitation at large scales. The researchers hypothesize that the shorter and more intense precipitation events now more common in the eastern U.S. will favor Es over Ei because all rain events will wet vegetative canopies, resulting in Ei, but heavier events will have a greater impact on near-surface soil moisture, favoring Es. They will use high-frequency eddy covariance data from 45 National Ecological Observatory Network (NEON) sites to estimate T, Es, and Ei using micrometeorological techniques. They will then train machine learning models for T, Es, and Ei based on satellite and meteorological data from the Geostationary Observational Environmental Satellites – R Series (GOES-R) and the High-Resolution Rapid Refresh (HRRR) model. Outputs will be used to build public, cloud-native data libraries of surface-atmosphere water flux every hour at 3 km resolution across the continental United States to understand how T, Es, and Ei respond to changes in hydrometeorology. They will also continue eddy covariance measurements in black ash-dominated wetland forests with Menominee and Stockbridge-Munsee Tribal colleagues and develop training modules for high school and college students in water, forest, and data science.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2422397</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Stoy</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paul C Stoy</PI_FULL_NAME>
+<EmailAddress><![CDATA[pcstoy@wisc.edu]]></EmailAddress>
+<NSF_ID>000552242</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LCLSJAGTNZQ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>157900</Code>
+<Text>Hydrologic Sciences</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~398525</FUND_OBLG>
+</Award>
+</rootTag>

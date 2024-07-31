@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Memory-aware Accelerated Solvers for Nonlinear Problems in High Dimensional Imaging Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>162510.00</AwardTotalIntnAmount>
+<AwardAmount>162510</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Troy D. Butler</SignBlockName>
+<PO_EMAI>tdbutler@nsf.gov</PO_EMAI>
+<PO_PHON>7032922084</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Achieving significant advances over the state-of-the-art methods for imaging applications such as reconstruction and high-dimensional image/video compression requires fundamentally new approaches to keep up with the volumes of (multi-dimensional and possibly streaming) data that have become pervasive in science and engineering applications. Consider, for instance, the need to continuously monitor, diagnose, and visualize anomalies within the body through modern magnetic resonance (MR) and computerized tomography (CT) scans, to inspect objects at crowded checkpoints, or check surveillance video for possible threats. These applications present a common challenge: the need to process an ever-increasing amount of data quickly and accurately to enable real-time decisions at a low computational cost while respecting limited memory capacities. This collaborative project will address these challenges through an innovative, multi-pronged, mathematical and algorithmic framework that capitalizes on properties inherent in the data as well as on features in the solutions (i.e. images, video frames) that persist over time and/or as the solutions are being resolved. The work produced will have broad scientific impact: for example, the newly offered speed of the image reconstruction methods may improve the ability to detect anomalies in tissue, underground or in luggage, while the compression algorithms hold promise for other disciplines where the ability to compress and explain multi-way (a.k.a tensor) data is paramount, such as satellite imaging, biology, and data science. Graduate students will be trained as part of this project.&lt;br/&gt;&lt;br/&gt;Digital images and video are inherently multi-way objects. A single, grayscale, digital image is a two-dimensional array of numbers with the numbers coded to appear as shades of gray whereas a collection of such grayscale images, such as video frames, are three-way arrays, also called third order tensors. The benefit of tensor compression (or completion, if some image values are missing or obscured) techniques in terms of quality over more traditional matrix-based methods merit their use. Reconstructing images that preserve edges is also of paramount importance: consider that an image edge defines the boundary between a tumor and normal tissue, for instance. This project will focus on these two distinct imaging problems, edge-based reconstruction and compressed tensor data representation, whose solution requires memory-efficient iterative approaches, but for which the state-of-the-art iterative techniques are slow to converge and memory intensive. The acceleration will be achieved by a combination of judicious choice of limited memory recycled subspaces, classical acceleration approaches (e.g., NGMRES or Anderson Acceleration), and operator approximation. Furthermore, if the data arrives asynchronously or the regularized problem cannot all fit into memory at once, the method will extend to streamed-recycling. The streamed-recycling approach will break the problem up into memory-manageable chunks while keeping a small-dimensional subspace that encodes and retains the most important features to enable solution to the original, large-scale problem. The impact of the accelerated edge-preserving image reconstruction algorithms will be demonstrated on X-ray CT, but the algorithms will have much wider applicability in other imaging modalities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/30/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410698</AwardID>
+<Investigator>
+<FirstName>Misha</FirstName>
+<LastName>Kilmer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Misha Kilmer</PI_FULL_NAME>
+<EmailAddress><![CDATA[misha.kilmer@tufts.edu]]></EmailAddress>
+<NSF_ID>000447484</NSF_ID>
+<StartDate>05/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Tufts University]]></Name>
+<CityName>SOMERVILLE</CityName>
+<ZipCode>021442401</ZipCode>
+<PhoneNumber>6176273696</PhoneNumber>
+<StreetAddress><![CDATA[169 HOLLAND ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WL9FLBRVPJJ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF TUFTS COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>WL9FLBRVPJJ7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Tufts University]]></Name>
+<CityName>SOMERVILLE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021442401</ZipCode>
+<StreetAddress><![CDATA[169 HOLLAND ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~162510</FUND_OBLG>
+</Award>
+</rootTag>

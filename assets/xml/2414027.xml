@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Investigating the connection between tunneling two-level systems, ultrastability, and ideality in vapor-deposited amorphous films through controlling disorder and fragility]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>657685.00</AwardTotalIntnAmount>
+<AwardAmount>657685</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Mann</SignBlockName>
+<PO_EMAI>elmann@nsf.gov</PO_EMAI>
+<PO_PHON>7032922655</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Non-Technical Abstract&lt;br/&gt;&lt;br/&gt;Amorphous materials, also known as glasses, lack structural order, making it difficult to calculate and predict their properties compared to crystalline materials which consist of repeated patterns of atoms. This lack of order, however, does not preclude the applicability or scientific impact of amorphous materials; plastics, silicate glasses, and amorphous silicon photovoltaics are examples pertinent to daily life, industry, and technologies, and superconducting amorphous materials changed how we understand superconductivity. Intriguingly, there exists the notion of an "ideal glass", which while remaining disordered, lacks imperfections in that disorder and thus approaches the uniqueness of a crystal, including reproducibility and predictability of its properties. While glasses are traditionally made by liquid quenching, in recent years materials made as thin films by vapor deposition can, under select circumstances, come closer to the ideal glass state than any liquid quenched material.  This result is important to understand both because it reveals a hidden order within the structural disorder of a glass and because these glasses without imperfections have properties that are more desirable than the traditional glass. The project will fabricate and measure a class of semiconductor alloys known as chalcogenides that are important to several technologies particularly opto-electronic switches and memories, and potentially for superconducting qubits and coatings for gravitational wave detectors. By varying their composition and growth conditions and studying their structure and properties, the research team will determine how the degree of order affects the properties.  The research enables understanding and control of the properties of technologically important amorphous materials and increases our understanding of the fundamental science of amorphous materials, which remains elusive despite decades of study. The project also educates and trains students and helps to increase diversity participation in science; the principal investigator and her students actively engage in efforts to make physics accessible to underrepresented STEM ethnic and socioeconomic minorities. &lt;br/&gt;&lt;br/&gt;Technical Abstract&lt;br/&gt;&lt;br/&gt;Researchers prepare and study the structure and tunneling two-level states (TLS) of amorphous chalcogenide alloys with a designed range of compositions grown by physical vapor deposition at temperatures below but near their respective glass transition temperatures under conditions that cause them to lie on a range of thermodynamic and kinetic stability, reflecting a range of enthalpy and entropy. The alloys are phase change materials important to technology including opto-electronic switches and memories, and potentially superconducting qubits and gravitational wave detector mirror coatings.  Recent experiments suggest that two extremely different vapor deposited materials (indomethacin and silicon) can form ultrastable glasses with enthalpy near the corresponding crystal and with a low density of TLS, suggestive that these materials are close to ideal glasses, in which the entropy of the glass is very close to that of a crystal, indicating hidden order within their disorder.  The research tests the hypothesis that low TLS is achieved by vapor deposition when growth is done near the Kauzmann temperature TK, at which the ideal glass is theoretically produced, if there is sufficient surface atomic mobility at that temperature. The distinction between fragile and strong glass formers is hypothesized to be critical: TK is high for fragile glasses, meaning that high surface mobility is likely near TK, so they grow in a low entropy, near-ideal state, whereas for strong glasses, the opposite is true. The chalcogenides range from fragile to strong as a function of composition, enabling testing of these hypotheses and creation of near-ideal low TLS glasses, providing insight into the intriguing ideal glass state.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414027</AwardID>
+<Investigator>
+<FirstName>Frances</FirstName>
+<LastName>Hellman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Frances Hellman</PI_FULL_NAME>
+<EmailAddress><![CDATA[fhellman@physics.berkeley.edu]]></EmailAddress>
+<NSF_ID>000180502</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>171000</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~657685</FUND_OBLG>
+</Award>
+</rootTag>

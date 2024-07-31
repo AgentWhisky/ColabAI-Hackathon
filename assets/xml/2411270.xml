@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Elements: Cyberinfrastructure for Post-Linkage Data Analysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>599992.00</AwardTotalIntnAmount>
+<AwardAmount>599992</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Varun Chandola</SignBlockName>
+<PO_EMAI>vchandol@nsf.gov</PO_EMAI>
+<PO_PHON>7032922656</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The digital revolution has led to a rapid expansion of available data sources. Data integration methods such as record linkage are critically important in generating actionable insights from the combination of data sources in a cost-effective manner. Record linkage merges multiple files by identifying matching records associated with the same entity. Without unique identifiers, this process is often error-prone, bearing the risk of false and missed links, which can compromise data analysis based on the merged file. Building on established implementations of record linkage, this project develops software in popular data science programming languages that addresses potential errors and uncertainty in data analysis performed post-linkage. The development of the software is driven by the needs of federal statistical agencies, researchers and practitioners in health services, and other stakeholders seeking to harness record linkage to unravel the potential of their data. The resulting additional capabilities for linked data analysis support informed decision-making in public administration and health services and enable savings in data collection and human labor. The project provides research opportunities and support for graduate students and delivers educational materials on the record linkage and analysis pipeline, thereby contributing to workforce development and the training of future data scientists.&lt;br/&gt;&lt;br/&gt;Existing software for record linkage is almost entirely dedicated to aspects pertaining to the creation of linked files, leaving a gap in supporting downstream tasks. This project fills this gap by providing software supporting post-linkage data analysis, an evolving subject with various open problems requiring novel statistical and computational tools. Guided by use cases from several application domains, the investigators intend to unify and refine state-of-the-art approaches to post-linkage data analysis in primary and secondary analysis settings given information of varying degrees about the underlying linkage process. The project develops scalable, robust and user-friendly implementations of these approaches embedded in a modular software that is envisioned to ease burdens for users of linked data, enable the validity of analyses based on such data, and propel advances in the field of data integration. The latter is achieved by generating capabilities for validation, benchmarking, and inspiring new avenues of methodological research.&lt;br/&gt;&lt;br/&gt;This Office of Advanced Cyberinfrastructure award is jointly funded by the Division of Social and Economic Sciences (SES) in the Social, Behavioral and Economic Sciences Directorate (SBE).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070, 47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411270</AwardID>
+<Investigator>
+<FirstName>Roee</FirstName>
+<LastName>Gutman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roee Gutman</PI_FULL_NAME>
+<EmailAddress><![CDATA[Roee_Gutman@brown.edu]]></EmailAddress>
+<NSF_ID>000651144</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Slawski</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Martin Slawski</PI_FULL_NAME>
+<EmailAddress><![CDATA[mslawsk3@gmu.edu]]></EmailAddress>
+<NSF_ID>000762135</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kali</FirstName>
+<LastName>Thomas</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kali Thomas</PI_FULL_NAME>
+<EmailAddress><![CDATA[kali.thomas@jhu.edu]]></EmailAddress>
+<NSF_ID>000985616</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EADLFP7Z72E5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE MASON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>H4NRWLFCDF43</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>220304422</ZipCode>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>800400</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~599992</FUND_OBLG>
+</Award>
+</rootTag>

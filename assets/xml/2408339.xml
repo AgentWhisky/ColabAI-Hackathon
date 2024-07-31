@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Galaxy Predictions for the Faint and Low Surface Brightness Universe]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>391640.00</AwardTotalIntnAmount>
+<AwardAmount>391640</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Benacquista</SignBlockName>
+<PO_EMAI>mbenacqu@nsf.gov</PO_EMAI>
+<PO_PHON>9568322523</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Ultrafaint dwarf galaxies are the faintest galaxies known. They typically contain only 100 to 100,000 stars. Ultrafaint dwarfs are excellent probes for cosmology and the nature of dark matter. They also offer a new regime to understand processes like star-formation and stellar feedback. Currently, only about 100 of these faint galaxies are known, all within the volume of the Local Group. Surveys from telescopes like the Vera Rubin Observatory and the Nancy Grace Roman Space Telescope will allow the discovery of ultrafaint dwarfs within a 100-1000 times larger volume. However, theoretical predictions from numerical simulations are unable to reach the necessary resolution to model such small galaxies, limiting the reach of observational efforts. This investigator will combine a set of analytical methods and idealized numerical simulations to effectively extend the range of predictions of current cosmological hydrodynamical simulations to the regime of faint and ultra-faint dwarfs. Through the Cal-Bridge program, undergraduate students from underrepresented groups will participate fully in this research, receiving training in computer programming along with presentation and writing skills.  She will also develop workshops to train middle and high-school teachers with hands-on activities based on topics related to this proposal. &lt;br/&gt;&lt;br/&gt;The PI and her research team will use tidal tracks describing the tidal evolution of satellites to supplement the cosmological simulations of groups and clusters from the TNG project in regimes where the simulations are under-resolved. This will enable their model to make predictions for the satellite population in groups and clusters, including faint and ultrafaint dwarfs. With their simulated catalogs they will address three fundamental topics. (1) Predictions for the number, stellar/luminosity function, sizes and radial distribution of satellite galaxies within groups and clusters. (2) Study the impact of tidal stripping in the formation of compact objects such as compact ellipticals (cE) dwarfs. (3) Quantify the number and properties of stellar streams expected in groups and clusters in Lambda-CDM.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2408339</AwardID>
+<Investigator>
+<FirstName>Laura</FirstName>
+<LastName>Sales</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Laura V Sales</PI_FULL_NAME>
+<EmailAddress><![CDATA[laura.sales@ucr.edu]]></EmailAddress>
+<NSF_ID>000684390</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Riverside]]></Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210001</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress><![CDATA[200 UNIVERSTY OFC BUILDING]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>39</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA39</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MR5QC5FCAVH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Riverside]]></Name>
+<CityName>RIVERSIDE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>925210001</ZipCode>
+<StreetAddress><![CDATA[200 UNIVERSTY OFC BUILDING]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>39</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA39</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>121700</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~391640</FUND_OBLG>
+</Award>
+</rootTag>

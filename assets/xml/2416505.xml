@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The Optimal Multi-dimensional Taxation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>473000.00</AwardTotalIntnAmount>
+<AwardAmount>473000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Lutz</SignBlockName>
+<PO_EMAI>nlutz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927280</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Tax, transfer, and social insurance programs are important policies that are of concern to economists, decision makers, and the general public. Households’ tax liabilities and transfers depend on multiple characteristics and this dependence is rather sophisticated. For instance, in the U.S., individuals’ taxes and transfers are determined jointly by their earnings, marital status and earnings of their spouses, different types of capital incomes, mortgage amounts, educational expenditures, and health insurance purchases. This project develops a unified framework for studying such multi-dimensional taxation in environments with rich and realistic heterogeneity. The project describes the optimal design of multi-dimensional taxes, transfers, and social insurance programs; identifies simple and intuitive empirical statistics that are central to their design; and provides tests to assess whether existing taxes are Pareto efficient and suggests efficiency-enhancing reforms.&lt;br/&gt;&lt;br/&gt;Despite prevalence of multi-dimensional taxes and transfers in practice, there is a lack of normative literature in public economics that explores their efficiency and optimal design. Current off-the-shelf methods largely rely on ad-hoc assumptions on the shape of a tax schedule and/or uni-dimensionality of heterogeneity that limits their practical relevance. This project addresses these limitations by developing general techniques that can be applied to a wide range of multi-dimensional environments to study two questions: (i) the optimal design of a multi-dimensional tax system given some social objective, and (ii) testing whether existing uni- or multi-dimensional tax systems can be reformed in a Pareto-improving way. The project builds upon and extends two approaches in the normative public finance literature: mechanism design methods and perturbations of tax functions. It combines both methods with several techniques from multi-variate calculus, such as the divergence theorem and the coarea formula, to deliver a comprehensive characterization of the optimal multi-dimensional tax schedule. The project also identifies new empirical statistics that play a central role in optimal multi-dimensional taxation and estimates them empirically for specific applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2416505</AwardID>
+<Investigator>
+<FirstName>Mikhail</FirstName>
+<LastName>Golosov</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mikhail Golosov</PI_FULL_NAME>
+<EmailAddress><![CDATA[golosov@uchicago.edu]]></EmailAddress>
+<NSF_ID>000063638</NSF_ID>
+<StartDate>07/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ilia</FirstName>
+<LastName>Krasikov</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ilia Krasikov</PI_FULL_NAME>
+<EmailAddress><![CDATA[ikrasikov@uchicago.edu]]></EmailAddress>
+<NSF_ID>000992742</NSF_ID>
+<StartDate>07/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[National Bureau of Economic Research Inc]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021385359</ZipCode>
+<PhoneNumber>6178683900</PhoneNumber>
+<StreetAddress><![CDATA[1050 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GT28BRBA2Q49</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NATIONAL BUREAU OF ECONOMIC RESEARCH INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[National Bureau of Economic Research Inc]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021385359</ZipCode>
+<StreetAddress><![CDATA[1050 MASSACHUSETTS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>132000</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~473000</FUND_OBLG>
+</Award>
+</rootTag>

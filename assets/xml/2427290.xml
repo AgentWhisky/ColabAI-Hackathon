@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Modeling Fluid-Structure Interactions Between Flexible Structures and Inertial Viscoelastic Flow]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>499993.00</AwardTotalIntnAmount>
+<AwardAmount>499993</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to investigate Fluid-Structure Interactions (FSI) between a flexible structure and inertial-viscoelastic flow, by conducting a series of numerical simulations and synergistic experiments. Since the majority of the structures in FSI systems found in nature and in industry are in fact flexible, it is critical to understand the influence of viscoelasticity on flexible structures such as flags, sheets and cantilevered beams. The broader impacts of this project will extend to a possible new transformative suppression method for flow-induced oscillations of a host of different FSI systems used extensively in industry. The findings of this research will be disseminated at different levels by integrating the proposed research into the outreach programs for K-12 students and teachers, incorporating this research into undergraduate and graduate classes, increasing research opportunities for undergraduate and graduate students, and through a gallery exhibition based on the results of this project.&lt;br/&gt;&lt;br/&gt;This project will have a transformative impact on our understanding of FSI systems at simultaneously high Reynolds numbers and high Weissenberg numbers where the structures are flexible. A number of important canonical cases will be considered including the cases where the structure is a flexible sheet placed parallel to the incoming flow (the flapping flag problem), where wall-mounted flexible structures are placed in flow (terrestrial and aquatic plants), and where the structure with a circular or square cross section is placed in cross flow (VIV and galloping). The numerical simulations of these systems will be conducted in OpenFOAM by modifying the source code to account for the components of the polymeric stress tensor associated with viscoelastic flows, and by updating the OpenFOAM adapter which is used as a liaison between OpenFOAM and preCICE coupling library. The FENE-P constitutive model and its associated solvers will be introduced by integrating RheoTool into the computational environment. The viscoelasticity of the fluid will be systematically increased by modifying the rheological properties of the constitutive model to observe the influence of fluid elasticity on vortex formation and structural dynamics. In the experiments, the flexible structure’s motion will be recorded optically using a high-speed camera that will record the response of the entire structure. The flow field behavior will be studied using Particle Image Velocimetry. Through selective local injection of viscoelastic fluid ahead of these flexible structures, we will investigate a technique for suppressing or possibly enhancing the flow-induced motion of these flexible structures in real world applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2427290</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Rothstein</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonathan P Rothstein</PI_FULL_NAME>
+<EmailAddress><![CDATA[rothstein@ecs.umass.edu]]></EmailAddress>
+<NSF_ID>000114053</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yahya</FirstName>
+<LastName>Modarres-Sadeghi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yahya Modarres-Sadeghi</PI_FULL_NAME>
+<EmailAddress><![CDATA[modarres@engin.umass.edu]]></EmailAddress>
+<NSF_ID>000559924</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>AMHERST</CityName>
+<ZipCode>010039252</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress><![CDATA[101 COMMONWEALTH AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VGJHK59NMPK9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>AMHERST</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>010039252</ZipCode>
+<StreetAddress><![CDATA[101 COMMONWEALTH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144300</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~499993</FUND_OBLG>
+</Award>
+</rootTag>

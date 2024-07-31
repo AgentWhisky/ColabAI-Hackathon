@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Exotic Limiting Profiles in Kinetic Equations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>209999.00</AwardTotalIntnAmount>
+<AwardAmount>209999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitry Golovaty</SignBlockName>
+<PO_EMAI>dgolovat@nsf.gov</PO_EMAI>
+<PO_PHON>7032922117</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The equations of hydrodynamics model many phenomena in the physics of fluids/gases and are generally quite accurate for as long as the molecules of the fluid/gas remain "well behaved". That is, the molecules move according to a local aggregate velocity with little thermal variation between their individual trajectories. But certain situations (e.g. shock waves, cascading turbulence, astrophysical extremes) can arise in the evolution of these equations which challenge this assumption of "well behaved" molecules, possibly leading to model breakdown. Kinetic theory seeks to create a sufficiently robust model of high-energy and chaotic particle dynamics that can reach (and continue past) such physical states. It is therefore natural to investigate, on a mathematically rigorous level, the behavior of kinetic equations near these extreme states, and also to investigate how well the solutions to the kinetic equations approximate/converge to the original hydrodynamic model. This project advances the theoretical understanding of partial differential equations arising from physics and also investigates how kinetic models can elaborate on the shortcomings of the original scientific theory (e.g., a fluid simulator that switches to a kinetic model in the presence of extreme turbulent shocks, and that knows when to make this switch to minimize the error). The project consists of several parts suitable for graduate student research, designed to introduce young mathematicians to the broader field of applied partial differential equations, and to enhance their overall preparation in STEM fields. Findings will be made available to the general scientific community and, where possible, promoted through the investigator's institution to undergraduates in mathematics.&lt;br/&gt;&lt;br/&gt;The research goals of the project are attained by examining kinetic equations in four near-extreme situations where other (simpler) physical models are known to encounter problems: relativistic speeds, conflicts between thermodynamic and inertial equilibrium, boundary interactions, and implosion shocks. First, the project establishes the well-posedness and conditional regularity theory for the relativistic Landau equations, with particular interest in the dynamics of slower-than-light mass spreading. Second, the project creates a rigorous mathematical study on the effect of evaporative cooling in a self-gravitating gas cluster with particle collisions. Here gravity and thermodynamics pull the solution towards two different equilibria, but the conservation of mass and energy means the gas must somehow compromise between the two, while increasing entropy pulls the equation towards an irreversible limiting state (also fundamentally a three-dimensional effect, absent in two dimensions). Third, the project explores boundary interactions in kinetic equations, and whether these can be recovered as a limit of boundaryless “force field” interactions (at the level of high energy plasmas, “hard wall” boundaries are impractical). And fourth, the project explores the behavior of kinetic equations near certain known self-similar shock profiles for compressible fluid equations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2408163</AwardID>
+<Investigator>
+<FirstName>Andrei</FirstName>
+<LastName>Tarfulea</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrei Tarfulea</PI_FULL_NAME>
+<EmailAddress><![CDATA[tarfulea@lsu.edu]]></EmailAddress>
+<NSF_ID>000679333</NSF_ID>
+<StartDate>07/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Louisiana State University]]></Name>
+<CityName>BATON ROUGE</CityName>
+<ZipCode>708030001</ZipCode>
+<PhoneNumber>2255782760</PhoneNumber>
+<StreetAddress><![CDATA[202 HIMES HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ECQEYCHRNKJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LOUISIANA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Louisiana State University]]></Name>
+<CityName>BATON ROUGE</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>708030001</ZipCode>
+<StreetAddress><![CDATA[202 HIMES HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125300</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~209999</FUND_OBLG>
+</Award>
+</rootTag>

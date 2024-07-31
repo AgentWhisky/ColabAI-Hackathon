@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Travel Grant: Conference Support for the Python in Heliophysics Community (PyHC) 2024 Summer School; Boulder, Colorado; May 20-24, 2024]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tai-Yin Huang</SignBlockName>
+<PO_EMAI>thuang@nsf.gov</PO_EMAI>
+<PO_PHON>7032924943</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The award will provide travel support up to 20+ selected participants to participate in the 2024 Python in Heliophysics Community (PyHC) summer school to be held on May 20-24 at the Laboratory for Atmospheric and Space Physics (LASP) in Boulder, CO. The PyHC 2024 summer school will provide a platform for attendees to learn more about Open-Source Software (OSS) efforts with the Heliophysics and space physics communities, gain knowledge in working with OSS software projects, and discuss and collaborate on open software packages and techniques.  The project seeks to boost representation of women and other minorities, students, early career and post-doctoral developers and scientists, and potential attendees from smaller institutions.  Digital copies of presentations, tutorials, and demonstrations will be collected and kept online on PyHC’s YouTube channel for public viewing and the material will be stored in the PyHC GitHub repository for public access.   &lt;br/&gt;&lt;br/&gt;The PyHC 2024 Summer School will serve as a gathering for the Heliophysics community to come together and learn more on the existing open-source Python software available for their use. Attendees will receive an overview of open-source Python Heliophysics software through the lens of PyHC packages. Topics to be covered include PyHC core package introductions, a look into time, coordinates and SPICE kernels and how PyHC software handles those, a “how to” session for relevant software topics, a panel session where participants submit questions to be answered by the PyHC package developers, interoperability sessions, student group activities leveraging PyHC software, and an introduction to artificial intelligence and machine learning in Heliophysics. Summer school participants will work with the NASA HelioCloud platform, providing them with experience on cloud software. Travel award criteria will be developed and vetted by the Summer School organizing committee and will be based on need, relevance, career stage, and equity for considerations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414651</AwardID>
+<Investigator>
+<FirstName>Julie</FirstName>
+<LastName>Barnum</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Julie Barnum</PI_FULL_NAME>
+<EmailAddress><![CDATA[Julie.Barnum@lasp.colorado.edu]]></EmailAddress>
+<NSF_ID>000841802</NSF_ID>
+<StartDate>01/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 MARINE ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 481 572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803037814</ZipCode>
+<StreetAddress><![CDATA[1234 Innovation Dr.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1521</Code>
+<Text>AERONOMY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

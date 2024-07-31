@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Using Spin Networks to Enable Next-Generation 'SABRE' Imaging and Polarizing Molecular Systems at Scale]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>298000.00</AwardTotalIntnAmount>
+<AwardAmount>298000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelsey Cook</SignBlockName>
+<PO_EMAI>kcook@nsf.gov</PO_EMAI>
+<PO_PHON>7032927490</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, Professors Boyd Goodson at Southern Illinois University Carbondale (SIUC) and Eduard Chekmenev at Wayne State University (WSU) are working to improve the sensitivity of nuclear magnetic resonance (NMR)—an important method of chemical analysis—and the well known clinical imaging modality, magnetic resonance imaging (MRI). The two collaborating laboratories bring together synergistic expertise in new spin physics (Goodson) and NMR instrumentation (Chekmenev). The Goodson/Chekmenev team is developing new, inexpensive, and easy-to-perform means of enhancing nuclear magnetization - a sensitivity-limiting factor in many NMR, MRI, and nuclear science applications, including: diagnostic tests for a host of diseases; chemical and materials analysis and quantification; and the creation of substances and devices used to measure fundamental interactions in physics.  Anticipated cost savings can also make these methods more available for other lab settings, particularly those that have more limited research infrastructure and/or that feature undergraduate research.  Several students are involved, gaining exposure to highly interdisciplinary training.  The team is also engaged in efforts to recruit undergraduate students and provide them with research opportunities on both campuses; and to provide enriching hands-on magnetic resonance activities for elementary and high school students with the goal of increasing the numbers and diversity of students ultimately exploring careers in science.&lt;br/&gt;&lt;br/&gt;The NMR/MRI approaches being used in this collaborative research project are based on Signal Amplification by Reversible Exchange, or SABRE.  In SABRE, an organometallic catalyst is used to co-locate parahydrogen and a target molecule (substrate) within a transient complex. With properly matched external magnetic fields, nuclear spin order can transfer spontaneously and efficiently from parahydrogen to the substrate, giving rise to NMR and MRI signals that are increased by several orders of magnitude.  Work by the Goodson/Chekmenev team seeks to: (i) improve the understanding of SABRE processes involving complex spin networks under homogeneous and heterogeneous catalytic conditions—and at ultra-low fields—to achieve improved hyperpolarization of key substrate classes; (ii) leverage what is learned to achieve high spin polarization in both protons and key heteronuclei (e.g. 117Sn, 15N, and 13C) prepared continuously, in large volumes, and consistently over long durations to enable new types of experiments (including for neutron science); and (iii) exploit spin networks to enable novel modes of NMR/MRI read-out, including through-proton detection and MR imaging of hyperpolarized heteronuclei and RASER (Radio Amplification by Stimulated Emission of Radiation)-based NMR/MRI sensing of hyperpolarized media—with the potential to enormously improve the sensitivity and spatiotemporal resolution of measurements of chemical reactions, including potentially in living tissues.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404388</AwardID>
+<Investigator>
+<FirstName>Eduard</FirstName>
+<LastName>Chekmenev</LastName>
+<PI_MID_INIT>Y</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eduard Y Chekmenev</PI_FULL_NAME>
+<EmailAddress><![CDATA[chekmenev@wayne.edu]]></EmailAddress>
+<NSF_ID>000579182</NSF_ID>
+<StartDate>05/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Wayne State University]]></Name>
+<CityName>DETROIT</CityName>
+<ZipCode>482023692</ZipCode>
+<PhoneNumber>3135772424</PhoneNumber>
+<StreetAddress><![CDATA[5700 CASS AVE STE 4900]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M6K6NTJ2MNE5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WAYNE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Wayne State University]]></Name>
+<CityName>DETROIT</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>482023692</ZipCode>
+<StreetAddress><![CDATA[5700 CASS AVE STE 4900]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688000</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~298000</FUND_OBLG>
+</Award>
+</rootTag>

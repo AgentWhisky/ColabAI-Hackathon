@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: DASI Track 1--AUtonomous Remote geospace Observation and Research Array (AURORA)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>1632000.00</AwardTotalIntnAmount>
+<AwardAmount>470017</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Roman Makarevich</SignBlockName>
+<PO_EMAI>rmakarev@nsf.gov</PO_EMAI>
+<PO_PHON>7032927207</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>High-latitude and polar regions present a unique set of challenges for continuous observations because of their remoteness and extreme and harsh environments. This project seeks to develop the next generation of small, low-power, autonomous, multi-instrument adaptive, ground-based geospace observation arrays, named AUtonomous Remote Geospace Observation and Research Array (AURORA). It is designed to fill large gaps in the currently existing ground-based instrument arrays in the high-latitude and polar regions. &lt;br/&gt;&lt;br/&gt;With advanced technologies in solar panels, batteries, bidirectional satellite communication, low-power sensors (fluxgate and searchcoil magnetometers, radio receivers, etc.), and high-performance single-board computers, AURORA will enable year-round observations with cost-effective, multiple instruments in these remote logistically challenging locations. This will significantly improve the ability to study (1) interhemispheric asymmetries from the viewpoint of geomagnetic and ionospheric variability, (2) the mesoscale of solar-wind - magnetosphere - ionosphere coupling in high-latitude and polar regions, as well as other space weather phenomena. Deep-field autonomous observatories have the potential to co-locate instruments across disciplines in polar science and facilitate international collaborations. This project will also contribute to training the future workforce. It will support two early-career researchers including a female early-career scientist. Graduate and undergraduate students will participate in the research, assisting with instrumentation design and testing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2432886</AwardID>
+<Investigator>
+<FirstName>Shane</FirstName>
+<LastName>Coyle</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shane E Coyle</PI_FULL_NAME>
+<EmailAddress><![CDATA[shanec1@vt.edu]]></EmailAddress>
+<NSF_ID>000927255</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zhonghua</FirstName>
+<LastName>Xu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhonghua Xu</PI_FULL_NAME>
+<EmailAddress><![CDATA[zxu77@vt.edu]]></EmailAddress>
+<NSF_ID>000661074</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M515A1DKXAN8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240603359</ZipCode>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>420200</Code>
+<Text>Upper Atmospheric Facilities</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~470017</FUND_OBLG>
+</Award>
+</rootTag>

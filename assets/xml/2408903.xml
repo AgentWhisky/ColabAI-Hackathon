@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Studies of Binary Systems in Strong Gravity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>210000.00</AwardTotalIntnAmount>
+<AwardAmount>69209</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The direct detection of gravitational waves emitted from merging black holes and merging neutron stars by the NSF's LIGO detectors over the last few years has opened a new window to the Universe. Observations of mergers of two black holes or two neutron stars provide a vast amount of data that allows the study of both strong gravity and matter at extreme densities. As the two objects get close, fully non-linear numerical simulations of the Einstein equations are required to interpret the observational data. By comparing to observations, predictions from these codes can be used to infer information about the stars, including the equation of state at supra nuclear density. The project funded by this award will carry out such simulations. It focuses on scenarios that have not been widely investigated yet, such as neutron stars containing dark matter, or possible deviations from the Einstein equations. In addition, the projects will further develop the computer codes we use for our simulations. The aim is to use more advanced numerical methods to obtain both higher accuracy and also faster simulations. This research will also lead to the publication of simulation results (e.g. gravitational waveforms) which will be useful for the emerging field of gravitational wave and multimessenger astronomy. Part of the planned research will be carried out in close collaboration with researchers at the universities of Jena and Potsdam in Germany. Visits or virtual meetings by faculty, postdocs, and students are planned. This exchange will have educational benefits for students and postdocs at Florida Atlantic University (FAU). Through regular meetings and seminars, the PI's group helps to train students in a wide range of topics ranging from general relativity and astrophysics to computer science and large-scale computing. The project also includes a week-long hands-on summer workshop for students from a nearby high school. The workshop will teach the participating students about programming, motivated by the subject of numerical relativity. All students involved in this project or the workshop will acquire valuable skills that will help build a globally competitive STEM workforce.&lt;br/&gt;&lt;br/&gt;It is now possible to observe gravitational waves from black hole and neutron star mergers, as well as electromagnetic counterparts in the case of neutron stars. These observations provide a vast amount of data that allows the study of both strong gravity and matter at extreme densities. Using numerical relativity computer simulations, the project funded by this award will investigate scenarios that have not received much attention until now. It will study how dark matter influences binary neutron star mergers in General Relativity. This will be achieved by investigating different neutron star configurations that span a range of dark matter fractions, dark matter particle masses, binary mass ratios, and spins. By comparing to observations, this will lead to limits on the dark matter fraction in neutron stars. The project will also investigate how neutron star mergers differ in massive scalar-tensor gravity, a viable alternative to General Relativity. This will allow testing for possible deviations from General Relativity. To do so, the equations of massive scalar-tensor theory will be implemented in computer programs to create both initial data and to be able to evolve them. In both the dark matter and scalar-tensor cases gravitational wave catalogs, and characteristics of the merger remnant such as final masses and spins, or disk masses, as well as the amount of ejected mass, will be published. This work will be performed with the mature BAM code. Yet, it is also planned to extend the next-generation Nmesh code that aims at achieving higher accuracy. The ultimate goal is to perform long simulations of binary black hole inspirals, where the ratio of the two black hole masses is very high. This project aims to lay the groundwork for this endeavor by deriving a new first-order evolution system that can evolve black holes as punctures when using finite differences. This evolution system will then be implemented in Nmesh, where the elements containing the punctures will use finite differences, while other elements will use a more accurate discontinuous Galerkin method. Another aim is to improve the accuracy of neutron star simulations, by combining discontinuous Galerkin with finite volume methods. The focus will be on studying finite volume methods that do not need to communicate more data than discontinuous Galerkin methods to improve parallelization performance.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2408903</AwardID>
+<Investigator>
+<FirstName>Wolfgang</FirstName>
+<LastName>Tichy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wolfgang Tichy</PI_FULL_NAME>
+<EmailAddress><![CDATA[wolf@fau.edu]]></EmailAddress>
+<NSF_ID>000107313</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Florida Atlantic University]]></Name>
+<CityName>BOCA RATON</CityName>
+<ZipCode>334316424</ZipCode>
+<PhoneNumber>5612970777</PhoneNumber>
+<StreetAddress><![CDATA[777 GLADES RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL23</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q266L2NDAVP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA ATLANTIC UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida Atlantic University]]></Name>
+<CityName>BOCA RATON</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>334316424</ZipCode>
+<StreetAddress><![CDATA[777 GLADES RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL23</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124400</Code>
+<Text>Gravity Theory</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>069Z</Code>
+<Text>Windows on the Universe (WoU)</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~69209</FUND_OBLG>
+</Award>
+</rootTag>

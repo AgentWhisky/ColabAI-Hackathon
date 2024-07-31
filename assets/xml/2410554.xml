@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Postdoctoral Fellowship: PRFB: AI4CYPs: Leveraging Machine Learning to Predict Functional Characteristics of Cytochrome P450s]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>249000.00</AwardTotalIntnAmount>
+<AwardAmount>249000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pankaj Jaiswal</SignBlockName>
+<PO_EMAI>pjaiswal@nsf.gov</PO_EMAI>
+<PO_PHON>7032924594</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This action funds an NSF Plant Genome Postdoctoral Research Fellowship in Biology for FY 2024. The fellowship supports a research and training plan in a host laboratory for the Fellow who also presents a plan to broaden participation in biology. The title of the research and training plan for this fellowship to Elizabeth Mahood is “AI4CYPs: Leveraging Machine Learning to Predict Functional Characteristics of Cytochrome P450s”. The host institutions for the fellowship are the Massachusetts Institute of Technology and Czech Academy of Sciences and the sponsoring scientist are Drs. Regina Barzilay and Tomáš Pluskal.&lt;br/&gt;&lt;br/&gt;Many critical plant processes, including growth and defense, are indirectly facilitated by enzymes. Plant enzymes are also directly responsible for making dozens of high-value specialized metabolite (SMs) molecules that are used in medicines (taxol, artemisinin), nutritional supplements (resveratrol, quercetin), fragrances/food additives (lemonol, vanillin), etc. Despite their high importance to both plant health and human society, most plant enzymes are poorly understood, in terms of what substrates they can accept, and what chemical modifications they can impart. The conventional biochemical assay-based process to identify roles of enzymes and their substrates that are required to synthesize these SMs in plants is time and labor-intensive. Such assays involve predicting the substrates and products of the enzymes involved in the biosynthetic pathway followed by experimental validations. Current large-scale experimental approaches for uncovering plant SM biosynthesis pathways are dominated by transcriptomic, metabolomics methods. Although these methods are ultimately successful, their scope and utility are limited due to the prerequisite of finding specific substrates for the biochemical reactions. It is not currently possible to decode an enzyme’s substrate specificity or its reaction products from the protein sequence alone. Novel methods of predicting enzyme function are needed to address the vast quantity of enzyme sequences that currently have no known substrates. This project will apply recent developments in the Artificial Intelligence and Machine Learning fields to plant biology by selecting algorithms initially designed to process images or human languages and instead training them on data collected from plant enzymes. Such algorithms have demonstrated success in predicting substrates of human enzymes, but have yet to be evaluated on plant enzymes, which are more functionally diverse.&lt;br/&gt;&lt;br/&gt;This proposal will use the curated data libraries available at the collaborator/mentor labs as well as from the publicly available resources to produce two machine learning (ML) models capable of predicting 1) if an enzyme will bind to a substrate, and 2) the Site of Metabolism of the substrate, given enzyme binding. These models will be validated both in silico, on a curated database of Cytochrome P450 (CYP) enzymes with documented substrates and products and experimentally. The models will additionally provide insight on which molecular and enzyme substructures contribute highly to binding, providing helpful information for enzyme engineering. While project will test on CYPs, it is expected that this method is generalizable to any enzyme class and is therefore positioned to accelerate discovery of enzymatic activity across all sequenced plant and microbial enzymes. The proposed research will provide training to the Fellow in three areas: advancing their ML knowledge to the current state-of-the-art, increasing understanding of enzyme biochemistry, and furthering their entrepreneurship skills.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410554</AwardID>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Mahood</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elizabeth H Mahood</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000988357</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Mahood, Elizabeth Hesterlene]]></Name>
+<CityName>St. Louis</CityName>
+<ZipCode>63109</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>810500</Code>
+<Text>NPGI PostDoc Rsrch Fellowship</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>092Z</Code>
+<Text>AI-Supported Learning</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1112</Code>
+<Text>GENES AND GENOME SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7174</Code>
+<Text>POSTDOC FELLOW IN SCI, MATH EN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7577</Code>
+<Text>PLANT GENOME RESEARCH RESOURCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~249000</FUND_OBLG>
+</Award>
+</rootTag>

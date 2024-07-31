@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RINGS: WISECOM - Wireless Integrated Sensing, Learning and Communication Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>793985.00</AwardTotalIntnAmount>
+<AwardAmount>609876</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Murat Torlak</SignBlockName>
+<PO_EMAI>mtorlak@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Future wireless networks will integrate sensing and communication functions. The sensing capabilities can come from the sensors of the devices in the network. The radio communication signal itself can also be used for sensing, especially when operating at high carrier frequencies, with high bandwidths and large antenna arrays. Examples are cellular networks supporting automated vehicles or industrial robots equipped with radar, lidar or cameras. This project advances the fundamental technologies, from a hardware and software perspective, to enable integrated sensing, learning and communication (ISLAC) wireless networks, capable of obtaining and communicating accurate information about the environment, relevant for the users and for the network operation itself. The sensing accuracy provided by these technologies is critical, both to support a given use case, and to enhance the resilience of the network, enabling a fast respond to failures or mis-configurations. The outcomes of this project will improve cellular connectivity for people and devices, by providing higher data rates, with more reliability, in a way that embraces machine learning and the wealth of sensor data also being deployed in such networks. &lt;br/&gt;&lt;br/&gt;To establish the potential of integrated sensing, learning and communication networks to enhance their own resilience, this project develops: (a) the core enabling technologies for ISLAC networks, including hardware and signal processing algorithms for joint sensing and communications; (b) mathematical tools to measure resilience accounting for the particular propagation features and network operation at millimeter wave (mmWave) and sub-Terahertz (sub-THz) bands; (c) learning strategies that exploit sensing information to improve network adaptability; and (d) user-centric algorithms that exploit sensing information to improve network autonomy and increase. The developed strategies will be evaluated using a framework based on a combination of ray tracing, experimental measurements and models that mix the digital, physical, and virtual worlds. This methodology will enable the evaluation of the developed technologies in several relevant scenarios supported by cellular networks, including automated vehicles, automated factories, and immersive reality settings.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2433782</AwardID>
+<Investigator>
+<FirstName>Nuria</FirstName>
+<LastName>Gonzalez Prelcic</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nuria Gonzalez Prelcic</PI_FULL_NAME>
+<EmailAddress><![CDATA[ngprelcic@ucsd.edu]]></EmailAddress>
+<NSF_ID>000771932</NSF_ID>
+<StartDate>06/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress><![CDATA[9500 GILMAN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930021</ZipCode>
+<StreetAddress><![CDATA[9500 GILMAN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>181Y00</Code>
+<Text>NextG Network Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>021Z</Code>
+<Text>Industry Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7363</Code>
+<Text>RES IN NETWORKING TECH &amp; SYS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>4082CYXXDB</Code>
+<Name><![CDATA[NSF TRUST FUND]]></Name>
+<FUND_SYMB_ID>048960</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~609876</FUND_OBLG>
+</Award>
+</rootTag>

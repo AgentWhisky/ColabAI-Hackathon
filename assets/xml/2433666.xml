@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: NSF-JST Workshop on Secure and Resilient Smart Living CPS]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>24999.00</AwardTotalIntnAmount>
+<AwardAmount>24999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Corman</SignBlockName>
+<PO_EMAI>dcorman@nsf.gov</PO_EMAI>
+<PO_PHON>7032928754</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The envisioned era of “smart living” aims to improve human quality of life and experience, leading to a better and safer society, with the help of smart sensors and devices, the Internet of Things (IoT), and cyber-physical systems (CPS) coupled with advanced data analytics, artificial intelligence (AI) and machine learning (ML) techniques. The voluminous data collected from smart living applications (e.g., smart buildings/cities, smart energy, smart transportation, smart manufacturing, smart health, smart agriculture, disaster response) are vulnerable to a wide variety of security threats and privacy/trust breaches, thwarting the accuracy of decision making and operational impacts on which the modern society depends. Attack (or anomaly) detection in smart living CPS poses unique challenges since the collected data are also affected by the behavioral randomness of human users. Privacy and trust issues in smart societies are exacerbated owing to socio-economic-cultural differences. In addition, one needs to consider the tradeoff between privacy, safety, and security which are important at a practical level to the community members.&lt;br/&gt;&lt;br/&gt;Recognizing the research challenges and opportunities in smart and connected communities, in recent years the NSF and the Japan Science and Technology (JST) Agency have established joint funding programs to support collaborative cutting-edge research and development in smart living. This proposal aims to continue and advance that dialog, by requesting funds for US researchers to participate in the NSF-JST Workshop on Secure and Resilient Smart Living CPS to be held in Osaka, Japan on July 2-3, 2024. The outcome of the workshop will be to catalyze mutually beneficial areas of further collaborations between the researchers in the US and Japan in the areas of security, privacy, trust, resilience, safety, dependability, and robustness of smart living CPS, potentially leading to joint funding opportunities. Such bilateral cooperation will help establish stronger US-Japan strategic alliance in research, education, technology innovation, entrepreneurship, and workforce development that can benefit the citizens and society at large in both countries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2433666</AwardID>
+<Investigator>
+<FirstName>Sajal</FirstName>
+<LastName>Das</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sajal K Das</PI_FULL_NAME>
+<EmailAddress><![CDATA[sdas@mst.edu]]></EmailAddress>
+<NSF_ID>000430507</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Missouri University of Science and Technology]]></Name>
+<CityName>ROLLA</CityName>
+<ZipCode>654091330</ZipCode>
+<PhoneNumber>5733414134</PhoneNumber>
+<StreetAddress><![CDATA[300 W. 12TH STREET]]></StreetAddress>
+<StreetAddress2><![CDATA[202 CENTENNIAL HALL]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y6MGH342N169</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Missouri University of Science and Technology]]></Name>
+<CityName>ROLLA</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>654091330</ZipCode>
+<StreetAddress><![CDATA[300 W. 12TH STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>033Y00</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~24999</FUND_OBLG>
+</Award>
+</rootTag>

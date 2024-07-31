@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Quantum Simulation with a Floquet Engineered Array of Interacting Molecules]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>511970.00</AwardTotalIntnAmount>
+<AwardAmount>511970</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mark K. Beck</SignBlockName>
+<PO_EMAI>mkbeck@nsf.gov</PO_EMAI>
+<PO_PHON>7032922983</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Quantum mechanics has unlocked countless technologies that benefit society, including lasers and precise measurements of time that enable the precision of GPS. These technologies rely on the quantum properties of atoms and molecules as though each particle is in isolation, whereas technologies reliant on the entanglement between particles are still in development. Exciting applications include quantum simulators, which may discover new materials with quantum properties, such as the absence of electrical resistance. Under a prior award, the PI and her team developed techniques to engineer individually controlled interactions between molecules. The current project will expand the number of individually controlled molecules and use these to model simple quantum materials for calibration, so that ultimately the team will be able to study useful complex materials. This process of pursuing new techniques in the control of quantum particles will also train and educate students and postdocs, contributing to the quantum workforce in industry, academia, and national labs. Furthermore, training will be enhanced by a new modern course on quantum molecular physics to be developed by the PI.&lt;br/&gt;&lt;br/&gt;Quantum simulation has excited many in the AMO and quantum science community with the idea that arrays of controllable, interacting particles can reveal the physics of correlated many-body systems by reproducing their Hamiltonians. This project aims to create a quantum simulator of spin dynamics consisting of a configurable array of ultracold dipolar molecules, assembled atom by atom and held in individual optical tweezers. In particular, the PI and her students will use Floquet-engineered microwave pulse sequences to tune the molecular Hamiltonian to match that of quantum materials like the antiferromagnetic bosonic t-J model, the XXZ spin model, and synthetic dimension lattices. Properties, and the efficiency of producing these quantum phases, will be studied. Supported by a prior award, the research group has prepared molecules in single quantum states and their rotation has been coherently controlled. In this new work the research team will entangle the rotation of adjacent molecules, and develop new microwave pulse sequences to control molecular rotation in order to engineer target Hamiltonians.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409713</AwardID>
+<Investigator>
+<FirstName>Kang-Kuen</FirstName>
+<LastName>Ni</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kang-Kuen Ni</PI_FULL_NAME>
+<EmailAddress><![CDATA[ni@chemistry.harvard.edu]]></EmailAddress>
+<NSF_ID>000731461</NSF_ID>
+<StartDate>07/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021385366</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress><![CDATA[1033 MASSACHUSETTS AVE STE 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LN53LCFJFL45</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021385366</ZipCode>
+<StreetAddress><![CDATA[12 Oxford Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124100</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~511970</FUND_OBLG>
+</Award>
+</rootTag>

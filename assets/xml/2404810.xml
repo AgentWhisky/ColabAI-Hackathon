@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Four-manifold Topology and Knotting in Dimensions 3--5]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>256993.00</AwardTotalIntnAmount>
+<AwardAmount>77419</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Swatee Naik</SignBlockName>
+<PO_EMAI>snaik@nsf.gov</PO_EMAI>
+<PO_PHON>7032924876</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Topology is the study of objects up to continuous deformations such as stretching and twisting. A common object of study is a knot, which a tangled loop in 3-dimensional space. Analogously, we may study knotted surfaces in a four-dimensional space, knotted three-dimensional objects in a five-dimensional space, and so forth. The study of knots in general dimension has applications to other areas of science such as biology, condensed matter physics, cryptography, and data analysis. One can study an object by investigating the possible behavior of knotted objects contained within. This project deals with "low-dimensional" topology, where the ambient space is of dimension at most five. Themes include exploring the difference between smooth and continuous equivalences of knotted objects, which typically involves different methods than in higher dimension. A key objective is to develop new tools and constructions applicable to low-dimensional topology. This project will additionally provide research opportunities for undergraduate and graduate students in mathematics.&lt;br/&gt;&lt;br/&gt;This project will utilize constructive techniques from 3-, 4-, and 5-dimensional topology to study geometric questions involving knots and knotted surfaces in 3- and 4-manifolds. The PI will expand current understanding of knotted surfaces by using higher dimensional methods from surgery theory restricted to 4-dimensional cross-sections or by studying restrictions on 3-dimensional boundary and applying lower-dimensional techniques such as tools from knot Floer or Khovanov homology. Specific goals include understanding exotic phenomena in the 4-ball and 4-sphere, developing new concordance obstructions for surfaces in 4-manifolds, and extending structures such as fibrations from 3-manifolds over suitable bounded 4-manifolds.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404810</AwardID>
+<Investigator>
+<FirstName>Maggie</FirstName>
+<LastName>Miller</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maggie Miller</PI_FULL_NAME>
+<EmailAddress><![CDATA[maggie.miller@utexas.edu]]></EmailAddress>
+<NSF_ID>000811898</NSF_ID>
+<StartDate>05/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126700</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~77419</FUND_OBLG>
+</Award>
+</rootTag>

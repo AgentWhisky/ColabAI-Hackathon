@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Advances in Global Programming for Pioneering Next-Generation Inverse Material Characterization Methods]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>415754.00</AwardTotalIntnAmount>
+<AwardAmount>415754</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reha Uzsoy</SignBlockName>
+<PO_EMAI>ruzsoy@nsf.gov</PO_EMAI>
+<PO_PHON>7032922681</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award will contribute to the advancement of national prosperity and manufacturing capabilities by supporting study of state-of-the-art computational approaches for accurately characterizing the mechanical behavior of materials critical to sectors such as defense, construction, and energy. This research will develop generalizable analytical methods for material characterizations with unprecedented accuracy in significantly reduced time, taking into account experimental errors and inhomogeneous materials and significantly accelerating the discovery of new materials. The interdisciplinary nature of this research will create new channels of communication between academics and practitioners, train a doctoral student in interdisciplinary research through multilateral collaboration with national laboratories and create educational materials for both operations research and materials science.&lt;br/&gt;&lt;br/&gt;This research will establish a global programming epsilon-optimal spatial branching technique based on a novel class of efficient convex underestimators with proven asymptotic convergence. An innovative decomposition-based scheme will be introduced that achieves data decoupling through a regularization procedure, enabling separability into tractable sub-optimization problems allowing convergence to an epsilon-optimal robust solution. Finally, the research will introduce a new nested spatial branching scheme that solves a class of constraint-based multi-objective problems through a reformulation scheme, casting the problem as an equivalent bilevel optimization problem. This research fills an important gap in the optimization literature by introducing scalable global programming techniques that can handle challenging non-convex structures. It will also advance our understanding of how to effectively use data for the accurate characterization of material mechanics and for predicting their behavior, even when faced with extrinsic uncertainties and intrinsic material variabilities. The performance assessments of the optimization approaches will be informed by data obtained through collaborations with national laboratories.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414715</AwardID>
+<Investigator>
+<FirstName>Dinakar</FirstName>
+<LastName>Sagapuram</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dinakar Sagapuram</PI_FULL_NAME>
+<EmailAddress><![CDATA[dinakar@tamu.edu]]></EmailAddress>
+<NSF_ID>000715612</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hrayer</FirstName>
+<LastName>Aprahamian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hrayer Aprahamian</PI_FULL_NAME>
+<EmailAddress><![CDATA[hrayer@tamu.edu]]></EmailAddress>
+<NSF_ID>000801611</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress><![CDATA[3124 TAMU]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778400001</ZipCode>
+<StreetAddress><![CDATA[Emerging Technologies Building]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>006Y00</Code>
+<Text>OE Operations Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>073E</Code>
+<Text>OPTIMIZATION &amp; DECISION MAKING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5514</Code>
+<Text>OPERATIONS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~415754</FUND_OBLG>
+</Award>
+</rootTag>

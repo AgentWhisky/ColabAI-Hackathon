@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Ultra-fast simulations of sensory membrane proteins with validation by HD exchange]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>253890.00</AwardTotalIntnAmount>
+<AwardAmount>253890</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaroslaw Majewski</SignBlockName>
+<PO_EMAI>jmajewsk@nsf.gov</PO_EMAI>
+<PO_PHON>7032927278</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Developing a predictive understanding of sensory membrane proteins is imperative for our ability to address environmental stresses including global warming. The proposed research will study how humans and other animals’ sensors perceive pressure, heat, and sound, and then send signals that enable one to feel pain, hear, and sense when muscles are moving, lungs are filling, and even when stomachs are full. The perception of force and heat at the atomic level is a complicated process. Our sensors are proteins that are embedded in the outer layer, or membrane, of a cell. How these sensors and other membrane-imbedded proteins respond to external stimuli provides information on how they move and function. Computer simulations are an integral part of modern biological research as they augment many experimental studies and provide a test bed for our ideas on how biological molecules function. The goal of the research is to produce computational tools that have the detail, flexibility, and accuracy to conduct realistic simulations of sensory membrane proteins. This project will enhance the training of a diverse STEM workforce, including graduate students and postdoctoral scholars, and extend our nation’s leadership in biophysics.&lt;br/&gt;&lt;br/&gt;Ideally, a computational tool should exist to simulate dynamics and predict structure. The sequence-to-structure challenge has largely been solved by AlphaFold2. However, simulating dynamics, especially for large membrane proteins involved in sensing of force and heat, remains a challenge. The research will produce a fast and easy-to-use tool called Upside that has the accuracy to simulate realistic conformational changes in membrane proteins. Upside fills an important niche in the “simulation biosphere”. The model uses 5 atoms and has a multi-position side chain center, and authentic H-bonds. Upside can be used to investigate the dynamics of large membrane proteins for long times with near-atomic resolution. This enables a variety of studies including those on environmental sensing, ion channels and protein folding. Our development of methods to integrate hydrogen-deuterium exchange-mass spectrometry (HDX) data with simulations will be beneficial to the computational and experimental communities. Accuracy will be assessed using our validation protocols and the HDX-MS data. These data identify which parts of the protein are most stable making an excellent complement and method to validate simulations. Upside also is an excellent complement to many other computational studies as it can rapidly sample the energy surface and identify regions for exploration by more detailed methods. In addition to experimental validation, Upside will be compared to all-atom molecular dynamics simulations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2427812</AwardID>
+<Investigator>
+<FirstName>Yun</FirstName>
+<LastName>Luo</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yun L Luo</PI_FULL_NAME>
+<EmailAddress><![CDATA[luoy@westernu.edu]]></EmailAddress>
+<NSF_ID>000864289</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Western University of Health Sciences]]></Name>
+<CityName>POMONA</CityName>
+<ZipCode>917661854</ZipCode>
+<PhoneNumber>9094697040</PhoneNumber>
+<StreetAddress><![CDATA[309 E 2ND ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>35</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA35</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NFFLPSHMNJN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WESTERN UNIVERSITY OF HEALTH SCIENCES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Western University of Health Sciences]]></Name>
+<CityName>POMONA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>917661854</ZipCode>
+<StreetAddress><![CDATA[309 E 2ND ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>35</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA35</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>114400</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~253890</FUND_OBLG>
+</Award>
+</rootTag>

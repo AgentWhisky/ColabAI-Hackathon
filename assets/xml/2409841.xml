@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Hydrodynamic models of electric charge transport: structure-preserving numerical methods]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>219782.00</AwardTotalIntnAmount>
+<AwardAmount>219782</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ludmil T. Zikatanov</SignBlockName>
+<PO_EMAI>lzikatan@nsf.gov</PO_EMAI>
+<PO_PHON>7032922175</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Electric charge transport physics is at the core of several technologies driving our economic and national security interests. For instance, the design of novel semiconductor devices requires a proper understanding of electron transport in the high-frequency regime. Similarly, the operation of directed energy systems hinges on the development of novel microwave sources and high-voltage high-current pulsed-power infrastructure. The project aims to provide innovative and robust numerical methods that will greatly enhance our predictive capabilities in the context of high-frequency electric charge transport simulation. This project will contribute to developing a new educational curriculum targeting the interdisciplinary training of graduate students at the intersection of mathematical modeling, numerical analysis, scientific computation, and physics.&lt;br/&gt; &lt;br/&gt;The project will develop numerical methods to solve electrostatic and electrodynamic fluid models of electric charge transport. The Euler-Maxwell and Euler-Poisson systems are some of the simplest electrodynamic and electrostatic (respectively) fluid models of electric charge transport. These models describe electrically non-neutral plasmas, electron inertia effects, high-frequency electrostatic plasma oscillation, and collective cyclotron motions such as the Diocotron instability. This project comprises numerical analysis, scientific computing, and graduate-level education. The research program will advance space and time discretizations for hydrodynamic models of electric charge transport that are mathematically guaranteed to be robust and preserve key mathematical properties of interest. Among such properties, we have preservation of pointwise stability properties (e.g. positivity of density and minimum principle of the specific entropy), discrete energy-stability, and well-posedness of linear algebra systems. This project comprises three research tasks involving the development of: (I) Semi-implicit schemes for Euler-Maxwell and Euler-Poisson systems, (II) Maxwell's equations formulations and solvers, and (III) Graph-based solvers for nonlinear hyperbolic systems (mathematical theory and high-performance implementation). The resulting methods will be implemented using the library deal.II. It will extend the investigator and collaborators' high-performance software developments. This project will also lead to a new graduate-level class to train a new generation of students on the nature of these models and their technological applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409841</AwardID>
+<Investigator>
+<FirstName>Ignacio</FirstName>
+<LastName>Tomas</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ignacio Tomas</PI_FULL_NAME>
+<EmailAddress><![CDATA[igtomas@ttu.edu]]></EmailAddress>
+<NSF_ID>000897468</NSF_ID>
+<StartDate>06/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas Tech University]]></Name>
+<CityName>LUBBOCK</CityName>
+<ZipCode>79409</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress><![CDATA[2500 BROADWAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EGLKRQ5JBCZ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS TECH UNIVERSITY SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas Tech University]]></Name>
+<CityName>LUBBOCK</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>79409</ZipCode>
+<StreetAddress><![CDATA[2500 BROADWAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~219782</FUND_OBLG>
+</Award>
+</rootTag>

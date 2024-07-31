@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: PBI: The Economic and Societal Causes and Consequences of Innovation Clusters]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>299408.00</AwardTotalIntnAmount>
+<AwardAmount>299408</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rebecca Shearman</SignBlockName>
+<PO_EMAI>rshearma@nsf.gov</PO_EMAI>
+<PO_PHON>7032927403</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This research aims to develop a groundbreaking tool to help policymakers predict the economic and societal impacts of investments made by the National Science Foundation (NSF) in regional technology- and science-based ecosystems. These investments are intended to stimulate regional innovation and drive broad economic benefits. Current models lack the ability to accurately forecast the impact of such investments. We hope to advance the state of the art in two ways: 1) Better prediction of the impacts of investments in regional technology and science-based ecosystems, particularly for novel and disruptive technologies; and 2)Improved analysis of societal impacts of these investments. By combining historical case studies on successful and unsuccessful regions, causal matched-pair analysis of actual vs counterfactual investment locations, and advanced data analysis techniques such as machine learning, this project seeks to create a reliable tool that can guide policymakers in designing effective, impactful funding strategies. The ultimate goal is to support the creation of thriving innovation clusters that enhance economic growth and societal well-being, especially in underserved communities.&lt;br/&gt;&lt;br/&gt;The proposed research will develop a predictive tool using a three-pronged approach. The first prong involves qualitative case studies of regions that have experienced significant economic transformations, helping to identify key attributes and mechanisms driving success. The second prong integrates these qualitative insights with quantitative analysis, using historical data and econometric methods to identify causal effects and predictors of successful innovation investments. The third prong focuses on creating a proof-of-concept forecasting tool, leveraging machine learning and systems dynamics to model complex interactions and predict outcomes. This tool will be validated with out-of-sample testing and compared against international benchmarks to ensure robustness. The project’s innovative approach aims to revolutionize how the impacts of NSF investments are forecasted, offering a powerful resource for policymakers to optimize funding decisions and foster inclusive economic development. Our outcome measures will include both indicators of innovation (such as patenting and productivity) and of shared prosperity (such as median wages and health status).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2431763</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Shoag</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel Shoag</PI_FULL_NAME>
+<EmailAddress><![CDATA[dxs788@case.edu]]></EmailAddress>
+<NSF_ID>000842976</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Susan</FirstName>
+<LastName>Helper</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Susan Helper</PI_FULL_NAME>
+<EmailAddress><![CDATA[susan.helper@case.edu]]></EmailAddress>
+<NSF_ID>000405132</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Case Western Reserve University]]></Name>
+<CityName>CLEVELAND</CityName>
+<ZipCode>441061712</ZipCode>
+<PhoneNumber>2163684510</PhoneNumber>
+<StreetAddress><![CDATA[10900 EUCLID AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJMKEF7EJW69</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CASE WESTERN RESERVE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Case Western Reserve University]]></Name>
+<CityName>CLEVELAND</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>441061712</ZipCode>
+<StreetAddress><![CDATA[10900 EUCLID AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>301Y00</Code>
+<Text>NSF Engines - Type 2</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01AC2324DB</Code>
+<Name><![CDATA[R&RA DRSA DEFC AAB]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~299408</FUND_OBLG>
+</Award>
+</rootTag>

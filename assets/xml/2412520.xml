@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Mechanics of the Topologically Complex Nuclear Envelope]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>393371.00</AwardTotalIntnAmount>
+<AwardAmount>393371</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shivani Sharma</SignBlockName>
+<PO_EMAI>shisharm@nsf.gov</PO_EMAI>
+<PO_PHON>7032924204</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The nuclear envelope (NE) is a physical barrier between the cytoplasm and the nucleus that is essential for the survival and function of eukaryotic cells. The NE has a complex geometry, consisting of two lipid membranes fused at hundreds of donut-shaped pores and maintained at a stable distance from each other. How the NE’s complex geometry enables its critical functions is not understood. Prior work suggests that double-layered membrane geometries have unexpected mechanical properties that are not found in manufactured materials. This award supports studies to develop new fundamental insight into the mechanical properties of the NE, with two broad goals: 1) discover the link between NE structure and NE mechanical properties, and 2) identify mechanical principles for the design of a new generation of biologically inspired complex materials with unique functions. Findings from this project will be used to develop physics-based games for a virtual mechanics and biomechanics lab (VMBL) for teaching students about the interplay between topology and mechanics in 2D materials. The project will train students from underrepresented groups and promote their success in research and teaching.&lt;br/&gt;&lt;br/&gt;The overarching goal of this experimental and computational project is to explain how passive forces, active forces, and geometry impact NE mechanics. The researchers will experimentally quantify spatial fluctuations in the NE under perturbations of passive load-bearing proteins, active force-generating cytoskeletal proteins, and ATP depletion. Monte Carlo simulations on a double membrane system with donut-shaped pores will be performed to interpret these experimental observations and quantify NE mechanics. Experimental data will provide snapshots of membrane geometry which will be interpreted with the computational model to develop insights into the underlying mechanics and forces. Overall, the study will unravel the interplay between geometry, topology, and mechanics in soft 2D materials.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412520</AwardID>
+<Investigator>
+<FirstName>Tanmay</FirstName>
+<LastName>Lele</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tanmay P Lele</PI_FULL_NAME>
+<EmailAddress><![CDATA[tanmay.lele@tamu.edu]]></EmailAddress>
+<NSF_ID>000286318</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress><![CDATA[3124 TAMU]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778433124</ZipCode>
+<StreetAddress><![CDATA[3124 TAMU]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>747900</Code>
+<Text>BMMB-Biomech &amp; Mechanobiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>028E</Code>
+<Text>BIOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~393371</FUND_OBLG>
+</Award>
+</rootTag>

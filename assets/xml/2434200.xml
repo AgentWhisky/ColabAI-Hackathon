@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Elements: A workflow for efficient and reproducible permafrost geomorphology analysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>393758.00</AwardTotalIntnAmount>
+<AwardAmount>342631</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marlon Pierce</SignBlockName>
+<PO_EMAI>mpierce@nsf.gov</PO_EMAI>
+<PO_PHON>7032927743</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The project is focused on developing software to study the dynamics of permafrost landscapes, with the aim of quantifying and predicting landscape changes and carbon fluxes. The software developed in this project connects the ever-growing volume of environmental data being collected from high latitudes datasets with cutting-edge software to advance understanding of permafrost landscapes. These analyses will help understand permafrost landscape dynamics and their influence on carbon release, which is crucial for accurate climate projections and informed mitigation efforts. This work trains the next generation of geoscientists in the use of advanced data and computational tools, ensuring they are well-equipped to tackle complex environmental challenges and fostering a more inclusive and diverse scientific community. Through its commitment to open-source tools and interoperability, PyCoGSS also promotes interdisciplinary investigations in permafrost research. This project advances our understanding of climate change and its effects on landscapes while providing hands-on learning experiences in geospatial science through the development of teaching materials alongside research tools.&lt;br/&gt;&lt;br/&gt;Recent advancements in satellite technology and software have improved the study of permafrost landscapes, but the lack of appropriate cyberinfrastructure and training hinders widespread adoption, limiting progress in understanding permafrost landscape dynamics. To overcome this, the project combines process geomorphology with advanced computational tools for acquiring, analyzing, and visualizing large interdisciplinary datasets. The Python Computational Geomorphology Software System (PyCoGSS) enables reproducible and scalable analyses of landscape morphology, topographic change, and ecohydrological indicators. The software facilitates the acquisition, analysis, and visualization of topographic and multispectral data, allowing for spatial and temporal trend analyses. It enables quick experimentation with different combinations of morphometric data and multispectral products as inputs to machine learning algorithms. The software development prioritizes user-friendliness and accessibility, catering to researchers at different career stages. The project employs undergraduate researchers to test software to ensure the content is accessible to coding novices and lead to the training of undergraduates in scalable and reproducible landscape analysis. The development of PyCoGSS has the potential to  foster a more inclusive surface processes community and promote open-source tools and datasets.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This award by the NSF Office of Advanced Cyberinfrastructure is jointly supported by the Office of Polar Programs (OPP), the Division of Research, Innovation, Synergies, and Education (RISE), and the Geomorphology and Land-use Dynamics (GLD) Program within the NSF Directorate for Geosciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/30/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050, 47.070, 47.078</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2434200</AwardID>
+<Investigator>
+<FirstName>Joanmarie</FirstName>
+<LastName>Del Vecchio</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joanmarie Del Vecchio</PI_FULL_NAME>
+<EmailAddress><![CDATA[joanmarie@wm.edu]]></EmailAddress>
+<NSF_ID>000834511</NSF_ID>
+<StartDate>05/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[College of William and Mary]]></Name>
+<CityName>WILLIAMSBURG</CityName>
+<ZipCode>231852817</ZipCode>
+<PhoneNumber>7572213965</PhoneNumber>
+<StreetAddress><![CDATA[1314 S MOUNT VERNON AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EVWJPCY6AD97</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLLEGE OF WILLIAM AND MARY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[College of William and Mary]]></Name>
+<CityName>WILLIAMSBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>231852817</ZipCode>
+<StreetAddress><![CDATA[1314 S MOUNT VERNON AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>243Y00</Code>
+<Text>GEO CI - GEO Cyberinfrastrctre</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>540700</Code>
+<Text>Polar Cyberinfrastructure</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>745800</Code>
+<Text>Geomorphology &amp; Land-use Dynam</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>800400</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01AB2324DB</Code>
+<Name><![CDATA[R&RA DRSA DEFC AAB]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>0100CYXXDB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~342630</FUND_OBLG>
+</Award>
+</rootTag>

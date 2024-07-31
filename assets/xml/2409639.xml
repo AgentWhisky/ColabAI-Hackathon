@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I: Novel signal estimation methods for low-cost diagnostic ultrasound acquisition by non-expert operators.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>275000.00</AwardTotalIntnAmount>
+<AwardAmount>275000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+<PO_EMAI>hahn@nsf.gov</PO_EMAI>
+<PO_PHON>7032927069</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project can shape advances in health and welfare, national defense, and in science. The overall product simplifies image acquisition. It is an application for remote tele-health and enables any ultrasound device to take images without the operator needing to see the images acquired. Any physician, any nurse, and/or novice can acquire images, which can then be made available for experts, human or artificial, to examine. This opens up the bottleneck of high-cost trained sonographers to enable more rapid growth of the market, and can scale rapidly on any of the devices of large ultrasound device manufacturers. The technology can reduce costs associated with training and reduce variability in hospitals and health systems, reach patients in their homes, in primary care or retail clinics, and in urgent and remote care centers. Other needs that can be met include the Veterans Administration in its community-based outpatient clinics currently lacking imaging facilities; and in the Army in battlefield situations where ultrasound in the front lines can now be used due to obviating lengthy training requirements. Scientifically, other coherent imaging methods such as optical, photoacoustic, and thermoacoustic would also benefit.&lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project develops low-cost&lt;br/&gt;hardware and software for the acquisition of ultrasound images so that no anatomic training is needed, instead guiding even a lay operator with easily learned graphical clues until data acquisition is complete and can be passed, for example, to an examining physician in a format familiar to her from other radiological images. The central innovation is in signal and image processing that will allow accurate image reconstruction from freehand 2D ultrasound signal data with imperfect information on the position of the probe that comes from low-cost sensors. This is an essential element that enables the low-cost solution envisaged. Instead of the conventional approach of registering two image sets by comparing overlapping images, new methods are proposed so that different scan planes which do not have overlapping sets of images can be co-registered accurately. The key objectives of the research are to implement and test the algorithms for improved localization of an ultrasonic echo return, and then to determine whether these improvements are sufficient to obtain images of clinical quality as deemed by a qualified radiologist. Success allows a prototype satisfying the overall goal of the first sentence above.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409639</AwardID>
+<Investigator>
+<FirstName>Jeremy</FirstName>
+<LastName>Dahl</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeremy Dahl</PI_FULL_NAME>
+<EmailAddress><![CDATA[jjdahl@stanford.edu]]></EmailAddress>
+<NSF_ID>000982176</NSF_ID>
+<StartDate>06/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Brady</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Martin L Brady</PI_FULL_NAME>
+<EmailAddress><![CDATA[marty@sonovance.com]]></EmailAddress>
+<NSF_ID>000309844</NSF_ID>
+<StartDate>06/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SONOVANCE, INC.]]></Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212102708</ZipCode>
+<PhoneNumber>6122293676</PhoneNumber>
+<StreetAddress><![CDATA[4203 SOMERSET PLACE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LG2BCG5MGHJ1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SONOVANCE, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SONOVANCE, INC.]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212102708</ZipCode>
+<StreetAddress><![CDATA[4203 SOMERSET PLACE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>150500</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>004E</Code>
+<Text>BIOMEDICAL ENG AND DIAGNOSTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~275000</FUND_OBLG>
+</Award>
+</rootTag>

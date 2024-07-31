@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CyberTraining: Implementation: Small: Training AI-skilled and Fairness-aware Research Workforce for Cloud Infrastructure Cybersecurity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>295000.00</AwardTotalIntnAmount>
+<AwardAmount>295000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sharmistha Bagchi-Sen</SignBlockName>
+<PO_EMAI>shabagch@nsf.gov</PO_EMAI>
+<PO_PHON>7032928104</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The growing dependence of organizations on cloud cyberinfrastructure (CI), coupled with the intrinsic on-demand and elastic nature of the cloud CI, have widened the attack surface and made it an attractive target to rapidly evolving cyber threats. The development of fairness-aware Artificial Intelligence (AI) and machine learning (ML) based security solutions can make cloud CI more resilient and trustworthy. However, a key pillar of a successful secure cloud adoption necessitates scientific research workforce training. This project aims to train the future research workforce to develop and use AI-based cloud CI cybersecurity solutions that are fair, ethical, and unbiased. In addition, the project aims to instill the ability of the workforce to adapt and evolve these AI based cybersecurity solutions for cloud CI to improve their trustworthiness and resiliency, as new adversary models are discovered. &lt;br/&gt;&lt;br/&gt;The technical innovations of this project address the growing needs for a fairness-aware AI-skilled secure cloud CI research workforce in two-fold. First, the project will develop and integrate seven advanced experiential learning modules, referred to as AI4SecureCI, for secure cloud CI using fair and explainable AI concepts into undergraduate and graduate curriculum, training around 500 diverse participants including faculty and students directly. The developed AI4SecureCI modules will include the concepts of network security, authorization and automated access control, online malware detection, classifying malware threats, adversarial attacks and defenses, bias and fairness, and explainable AI, relevant to cloud CI. These modules will include the (1) lecture materials to provide conceptual knowledge for AI4SecureCI, and (2) hands-on lab exercises to provide practical experience. To support hands-on labs and enable wider adoption of the modules, the team will utilize ready-to-use datasets created from their own cloud CI security research and public security datasets, and free-tier cloud services such as AWS Educate. Second, the project will ensure broader adoption, via student boot-camps and series of faculty workshops of developed advanced AI4SecureCI and computational data-driven methods, into underrepresented groups of CI users and contributors to foster research advancements for evolving cloud CI security threat vectors. The advances made under this project, both in terms of research, modules developed, as well as training material will be made publicly available on a project website. The team will collaborate closely with the NSF ACCESS program to enhance the dissemination of knowledge and expertise within the CI community by incorporating the AI4SecureCI modules into the ACCESS Knowledge Base.&lt;br/&gt;&lt;br/&gt;"&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2416990</AwardID>
+<Investigator>
+<FirstName>Indranil</FirstName>
+<LastName>Bhattacharya</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Indranil Bhattacharya</PI_FULL_NAME>
+<EmailAddress><![CDATA[ibhattacharya@tntech.edu]]></EmailAddress>
+<NSF_ID>000653596</NSF_ID>
+<StartDate>07/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Maanak</FirstName>
+<LastName>Gupta</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maanak Gupta</PI_FULL_NAME>
+<EmailAddress><![CDATA[mgupta@tntech.edu]]></EmailAddress>
+<NSF_ID>000819245</NSF_ID>
+<StartDate>07/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kumar</FirstName>
+<LastName>Yelamarthi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kumar Yelamarthi</PI_FULL_NAME>
+<EmailAddress><![CDATA[kyelamarthi@tntech.edu]]></EmailAddress>
+<NSF_ID>000868242</NSF_ID>
+<StartDate>07/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mir Mehedi</FirstName>
+<LastName>Pritom</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mir Mehedi A Pritom</PI_FULL_NAME>
+<EmailAddress><![CDATA[mpritom@tntech.edu]]></EmailAddress>
+<NSF_ID>000977940</NSF_ID>
+<StartDate>07/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Tennessee Technological University]]></Name>
+<CityName>COOKEVILLE</CityName>
+<ZipCode>385050001</ZipCode>
+<PhoneNumber>9313723374</PhoneNumber>
+<StreetAddress><![CDATA[1 WILLIAM L JONES DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KZNHNMDUTJA5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TENNESSEE TECHNOLOGICAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Tennessee Technological University]]></Name>
+<CityName>COOKEVILLE</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>385050001</ZipCode>
+<StreetAddress><![CDATA[1 WILLIAM L JONES DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>044Y00</Code>
+<Text>CyberTraining - Training-based</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>122Z</Code>
+<Text>CI Training and Professionals</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7361</Code>
+<Text>EDUCATION AND WORKFORCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~295000</FUND_OBLG>
+</Award>
+</rootTag>

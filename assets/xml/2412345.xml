@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Exploring Automatic Optimization of Multi-tiered HPC Storage Systems via Practical Reinforcement Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>133980.00</AwardTotalIntnAmount>
+<AwardAmount>133980</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nowadays, scientific discovery increasingly involves generating and analyzing large amounts of data. These data-intensive scientific applications pose significant challenges to the storage systems of high-performance computing (HPC) clusters, that are heterogeneous and extremely complex. Scientists who need high-speed data access often experience frustration in effectively using these heterogeneous storage options. There is need to build the long-missing automated HPC I/O (Input/Output) middleware to transparently help scientists achieve optimal data access performance without their manual efforts. Designing automated HPC I/O middleware for large-scale, heterogeneous, and shared HPC storage systems is an extremely challenging task. The researchers supported by this grant plan to  leverage machine learning techniques to understand the requests and the current system status, intelligently and adaptively scheduling and coordinating I/O requests. The outcomes of this research are expected to work with existing storage components and minimize the impacts on both scientific applications and the HPC systems.&lt;br/&gt;&lt;br/&gt;This project plans to tackle this grand challenge by exploring practical reinforcement learning-based (RL) methods and building relevant software infrastructure in an HPC environment. There are two main focuses in the project: 1) RL-based data placement for high storage utilization, and 2) RL-based I/O coordination for shared storage. Both tasks depend on identifying effective reinforcement learning methods and integrating these methods effectively into HPC systems. To achieve this goal, a novel, system-centric reinforcement learning framework will be developed. Moreover, in each research focus, various RL algorithms, deep neural network designs, and reward shaping will be proposed, implemented, rigorously benchmarked, and compared with state-of-the-art solutions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412345</AwardID>
+<Investigator>
+<FirstName>Dong</FirstName>
+<LastName>Dai</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dong Dai</PI_FULL_NAME>
+<EmailAddress><![CDATA[dai@udel.edu]]></EmailAddress>
+<NSF_ID>000696153</NSF_ID>
+<StartDate>02/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of North Carolina at Charlotte]]></Name>
+<CityName>CHARLOTTE</CityName>
+<ZipCode>282230001</ZipCode>
+<PhoneNumber>7046871888</PhoneNumber>
+<StreetAddress><![CDATA[9201 UNIVERSITY CITY BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JB33DT84JNA5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>N8DMK1K4C2K5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Charlotte]]></Name>
+<CityName>CHARLOTTE</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>282230001</ZipCode>
+<StreetAddress><![CDATA[9201 UNIVERSITY CITY BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7942</Code>
+<Text>HIGH-PERFORMANCE COMPUTING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~133980</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Backtracking non-Fickian reactive transport in aquifers: Theory, predictability, and application]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2025</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>198334.00</AwardTotalIntnAmount>
+<AwardAmount>198334</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Laura Lautz</SignBlockName>
+<PO_EMAI>llautz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927775</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Accurately predicting and backtracking pollutants in aquatic environments is an important component of ensuring public health and the sustainability of water resources. This project will develop innovative models that enhance our ability to trace the origins of reactive pollutants in aquifers, a process known as backward tracking (BWT). Traditional BWT methods typically assume standard, or the so-called “Fickian” diffusion, where the spread of pollutants in water is linear over time. However, real-world scenarios often involve “non-Fickian” diffusion, characterized by a more complex, nonlinear spread of pollutants in heterogeneous geological media. This project will address this gap with the ultimate goal of enhancing groundwater management and informing environmental protection policies. The broader impacts include advancing educational initiatives, such as K-12 education and undergraduate/graduate research, in collaboration with local schools and communities. &lt;br/&gt;&lt;br/&gt;This project will develop and validate a new theory for BWT by incorporating non-Fickian diffusion and reaction models. The primary activities include theory development, model predictability, and validation. The project will propose the adjoint of the tempered stable law to create new BWT models for reactive pollutants experiencing super- and sub-diffusion. Numerical simulations and machine learning techniques will be used to approximate key parameters of these models, enhancing their accuracy and applicability. The models will be validated through real-world applications, including calculating groundwater ages and assessing aquifer vulnerability. The expected outcomes are a robust backward probability theory with corresponding physical models, a comprehensive set of predictive parameters, and an upgraded and validated software suite for practical applications. These advancements are expected to improve the resolution of inverse problems in hydrology, environmental science, and engineering, contributing to better environmental management and policymaking.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412673</AwardID>
+<Investigator>
+<FirstName>Yong</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yong Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[yzhang264@ua.edu]]></EmailAddress>
+<NSF_ID>000487133</NSF_ID>
+<StartDate>07/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Alabama Tuscaloosa]]></Name>
+<CityName>TUSCALOOSA</CityName>
+<ZipCode>354012029</ZipCode>
+<PhoneNumber>2053485152</PhoneNumber>
+<StreetAddress><![CDATA[801 UNIVERSITY BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RCNJEHZ83EV6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ALABAMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>TWJWHYEM8T63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama Tuscaloosa]]></Name>
+<CityName>TUSCALOOSA</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>354870001</ZipCode>
+<StreetAddress><![CDATA[301 ROSE ADMIN BLDG]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>157900</Code>
+<Text>Hydrologic Sciences</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>722200</Code>
+<Text>XC-Crosscutting Activities Pro</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~198334</FUND_OBLG>
+</Award>
+</rootTag>

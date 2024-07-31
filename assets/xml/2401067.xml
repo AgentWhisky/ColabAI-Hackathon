@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAISE: CET: Multidisciplinary High-Performance Computing and Artificial Intelligence Enabled Catalyst Design for Micro-Plasma Technologies in Clean Energy Transition]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>999999.00</AwardTotalIntnAmount>
+<AwardAmount>999999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carole Read</SignBlockName>
+<PO_EMAI>cread@nsf.gov</PO_EMAI>
+<PO_PHON>7032922418</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Research Advanced by Interdisciplinary Science and Engineering (RAISE) award is made in response to Dear Colleague Letter 23-109, as part of the NSF-wide Clean Energy Technology initiative. Catalytic reactions play a central role in many clean energy transition areas, such as hydrogen generation, carbon capture, and energy storage. Improving the efficiency of catalyzed processes is essential to achieve these goals. Plasma is a powerful tool to facilitate chemical reactions; however, the fundamental understanding of plasma-assisted chemical reactions remains limited, hindering industrial adoption. This project leverages artificial intelligence and machine learning for catalyst discovery and developing new methods to study chemical reactions under extreme conditions such as plasma. This interdisciplinary effort spans materials science, electrical engineering, machine learning, and big data analytics with the overarching goal to advance the development of plasma-assisted catalysis. The collaborative team at the University of Houston and Howard University aims to engage underrepresented groups in cutting-edge research, fostering inclusivity in the tech industry. Through this multidisciplinary project, the next generation workforce will be trained in AI, scientific computing, and materials synthesis and characterization to address clean energy challenges.&lt;br/&gt; &lt;br/&gt;This project seeks to seamlessly integrate experimental techniques with multiphysics and multiscale computational methodologies, offering improved comprehension of plasma-assisted chemical reactions. The interdisciplinary research requires synergistic efforts across chemical engineering, materials science, electrical engineering, and computational science blending expertise in areas such as heterogeneous catalysis, optimal materials characterization, multiphysics and multiscale modeling, high-performance computing, and artificial intelligence. Research thrusts include: 1) Interpretable deep learning and density functional theory based catalyst discovery for plasma-assisted chemical reactions; 2) Multiscale and multiphysics electromagnetic-plasma simulation; 3) Integrated design, synthesis, and characterization of the catalyst and reactor system to facilitate the micro-plasma generation and improve the reaction efficiency; and 4) Bench scale demonstration of efficient reactions using the micro-plasma catalyst system. Through this multifaceted approach, the project aims to propel scientific understanding and to significantly contribute to addressing critical challenges in the area of clean and sustainable energy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401067</AwardID>
+<Investigator>
+<FirstName>Lars</FirstName>
+<LastName>Grabow</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lars C Grabow</PI_FULL_NAME>
+<EmailAddress><![CDATA[grabow@uh.edu]]></EmailAddress>
+<NSF_ID>000595277</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jiefu</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jiefu Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[jchen82@central.uh.edu]]></EmailAddress>
+<NSF_ID>000703598</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xuqing</FirstName>
+<LastName>Wu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xuqing Wu</PI_FULL_NAME>
+<EmailAddress><![CDATA[xwu8@central.uh.edu]]></EmailAddress>
+<NSF_ID>000704940</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiaonan</FirstName>
+<LastName>Shan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaonan Shan</PI_FULL_NAME>
+<EmailAddress><![CDATA[xshan@central.uh.edu]]></EmailAddress>
+<NSF_ID>000732780</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Su</FirstName>
+<LastName>Yan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Su Yan</PI_FULL_NAME>
+<EmailAddress><![CDATA[su.yan@howard.edu]]></EmailAddress>
+<NSF_ID>000787196</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Houston]]></Name>
+<CityName>HOUSTON</CityName>
+<ZipCode>772043067</ZipCode>
+<PhoneNumber>7137435773</PhoneNumber>
+<StreetAddress><![CDATA[4300 MARTIN LUTHER KING BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QKWEF8XLMTT3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF HOUSTON SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Houston]]></Name>
+<CityName>HOUSTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>772043067</ZipCode>
+<StreetAddress><![CDATA[4300 MARTIN LUTHER KING BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>268Y00</Code>
+<Text>CET Strategic Investments</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>049Z</Code>
+<Text>RAISE-Research Advanced by Interdiscipli</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01AB2324DB</Code>
+<Name><![CDATA[R&RA DRSA DEFC AAB]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~999999</FUND_OBLG>
+</Award>
+</rootTag>

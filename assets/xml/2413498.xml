@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: A low-cost, long-endurance observational platform for the Arctic atmospheric boundary layer]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/15/2023</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>299585.00</AwardTotalIntnAmount>
+<AwardAmount>96050</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lauren Culler</SignBlockName>
+<PO_EMAI>lculler@nsf.gov</PO_EMAI>
+<PO_PHON>7032928057</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Arctic is the fastest-changing environment on the planet. Temperatures in the region have risen by more than 3°C since the 1970s, three times faster than the global average. Over the past few decades, the Arctic has taken the role of a canary in the coal mine for climate change, but our ability to monitor the atmosphere in this harsh and remote region is still very limited, and often relies on very expensive manned flights and research cruises. This is in contrast with the situation in the ocean, where autonomous platforms have provided a wealth of observations. The resulting paucity of observations is hindering our understanding of the Arctic evolution, and of its relationship to lower latitude weather and the global climate. This project focuses on overcoming current challenges in monitoring the Arctic atmosphere by designing, developing, and testing a novel observational platform aimed at providing autonomous, continuous access to the central Arctic throughout all seasons.&lt;br/&gt;&lt;br/&gt;This EAGER project supports the design, testing and implementation of an autonomous Arctic atmospheric observing system using a novel design of balloons capable of making multiple soundings for each deployment. The platform’s mission requirements include the ability to: i) fly across the Arctic basin carried by the prevailing winds while performing four, 1 km soundings per day over three weeks; ii) operate within a temperature range between -50°C and +20°C; and iii) survive precipitation and icing. By performing a series of bench tests and two field campaigns, the project will focus on verifying three hypotheses. First, that the proposed mechanical-compression balloon design will provide sufficient maneuverability and robustness to survive the impact of inclement weather. Second, that recent advancements in sensors, satellite modems, and high-specific-energy batteries, will provide sufficient savings in weight and energy consumption to achieve the target three-week flight time. Third, that a control algorithm can be designed to autonomously fly several platforms across the Arctic in an energy efficient way. The project will also support education and public outreach through demonstration events using scaled-down balloon deployments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.078</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413498</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Spall</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael A Spall</PI_FULL_NAME>
+<EmailAddress><![CDATA[mspall@whoi.edu]]></EmailAddress>
+<NSF_ID>000186466</NSF_ID>
+<StartDate>01/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gianluca</FirstName>
+<LastName>Meneghello</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gianluca Meneghello</PI_FULL_NAME>
+<EmailAddress><![CDATA[gianluca.meneghello@gmail.com]]></EmailAddress>
+<NSF_ID>000855619</NSF_ID>
+<StartDate>01/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Woods Hole Oceanographic Institution</Name>
+<CityName>WOODS HOLE</CityName>
+<ZipCode>025431535</ZipCode>
+<PhoneNumber>5082893542</PhoneNumber>
+<StreetAddress>266 WOODS HOLE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GFKFBWG2TV98</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WOODS HOLE OCEANOGRAPHIC INSTITUTION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Woods Hole Oceanographic Institution]]></Name>
+<CityName>WOODS HOLE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>025431535</ZipCode>
+<StreetAddress><![CDATA[WOODS HOLE, MA 025431535]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5293</Code>
+<Text>AON-Arctic Observing Network</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1079</Code>
+<Text>ARCTIC RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5294</Code>
+<Text>USGCRP</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>0100CYXXDB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~96050</FUND_OBLG>
+</Award>
+</rootTag>

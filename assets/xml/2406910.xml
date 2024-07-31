@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Dynamic Modeling and Risk Prediction with Complex Observational Semi-Competing Risks Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/15/2023</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>174995.00</AwardTotalIntnAmount>
+<AwardAmount>168894</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Observational studies using secondary data sources, such as registry, claims, and electronic health records, are primary research tools to assess treatment effects and predict disease outcomes in real-world settings. Observational data, however, often present many complexities, for which substantial methods development is needed to obtain valid results. Particularly, semi-competing risks data arise when a terminal event (e.g., death) can prevent the observation of a non-terminal event (e.g., cancer recurrence), but not vice versa. The analysis of such data is further complicated with clustered outcomes, time-varying treatment effects, confounding, and dynamic prediction. This project will develop novel dynamic modeling and risk prediction methods with complex observational semi-competing risks data. The project is motivated by cancer studies. The developed methods will also be broadly applicable in other health conditions, reliability studies, and social science, where such data commonly arise. The investigator will integrate research and education by training graduate students, designing advanced topic courses, and engaging underrepresented minority students. The investigator will also develop open-source, user-friendly software packages in R to disseminate the results.&lt;br/&gt;&lt;br/&gt;The project has three research aims. The first aim is to develop a copula-based, time-varying coefficient, random-effect model for multilevel semi-competing risks data. The second aim is to develop a propensity score matching based method to control for confounding in multilevel observational semi-competing risks data. The impact of omitting unmeasured confounders will be studied. The third aim is to develop a novel dynamic risk prediction tool for non-terminal and terminal events with such data. Unlike traditional prediction models, the developed model will utilize data on patients’ dynamic disease progression and characteristics. The investigator will derive large sample properties of the new estimators, conduct simulations for evaluation, and apply the methods to analyze real-world data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/15/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>11/15/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406910</AwardID>
+<Investigator>
+<FirstName>Hong</FirstName>
+<LastName>Zhu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hong Zhu</PI_FULL_NAME>
+<EmailAddress><![CDATA[hzhu2m@virginia.edu]]></EmailAddress>
+<NSF_ID>000869674</NSF_ID>
+<StartDate>11/15/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229034833</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJG6HU8PA4S5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RECTOR &amp; VISITORS OF THE UNIVERSITY OF VIRGINIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[RECTOR & VISITORS OF THE UNIVERSITY OF VIRGINIA]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>229034833</ZipCode>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~168894</FUND_OBLG>
+</Award>
+</rootTag>

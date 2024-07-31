@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: GEM: A novel Machine learning technique to Parameterize EneRgetic Electron maps (AMPERE)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>273169.00</AwardTotalIntnAmount>
+<AwardAmount>89682</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chia-Lin Huang</SignBlockName>
+<PO_EMAI>chihuang@nsf.gov</PO_EMAI>
+<PO_PHON>7032927544</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Energetic electron precipitation (EEP) occurs when the high-energy electrons trapped in Earth's radiation belts enter the atmosphere and collide with atmospheric particles, depositing energy in the atmospheric system. EEP is one of the main processes contributing to the loss of energetic electrons and has important implications in the interconnected atmosphere-ionosphere-magnetosphere system (e.g., changes in atmospheric chemistry, ionization, and conductance) and in space weather (e.g., satellite radiation monitoring, satellite drag, etc.).  These energetic electrons are primarily scattered by plasma waves; however, due to limited data coverage, our comprehensive understanding of EEP is limited.  In this project, by developing a machine learning (ML) model, the team will characterize and parameterize the EEP phenomenon's properties and dynamics. Modeling the spatial and temporal evolution of regions where EEP occurs will lead to a better understanding of the evolution of the radiation belt dynamics and temporal dependence of the energy input to the atmospheric system. The project is highly interdisciplinary, as our understanding of EEP directly impacts several fields, from the atmosphere and ionosphere system to the magnetosphere, and even potentially provides helpful information for space weather monitoring of electron radiation in the near-Earth environment. The project has the potential to support collaborative efforts across all these communities. The ML model and its outputs will be released to the public, enabling follow-up research projects.&lt;br/&gt;&lt;br/&gt;The lack of global observations of EEP is a major limiting factor in advancing our knowledge on EEP. The team suggest to parameterize EEP by developing global EEP maps through the use of machine learning (ML) techniques. These maps will be based on measurements from the long-lived NOAA's POES/MetOp satellites and will be produced given a time history of geomagnetic activity. The project will address the following science questions: How does the global electron precipitation evolve in time and space with geomagnetic activity? Which plasma waves correspond to the observed enhanced electron precipitation? How does the improved spatial coverage impact the estimates/constraints on the spatial size, duration, and flux intensity of the electron precipitation regions? Analyzing the spatial and temporal evolution of regions where EEP occurs will lead to a better understanding of the evolution of the radiation belt dynamics and temporal dependence of the energy input to the atmosphere. Additionally, the team will explore whether there is a clear cause-effect correlation between the location and energy of EEP and two main plasma waves. This provides a more definite understanding of the causal relationship between the wave modes and EEP, possibly demonstrating that EEP maps can serve as a proxy for wave activity.  Finally, by estimating the size and flux of EEP regions, the team will quantify the electron loss of the outer radiation belt and the EEP input that contributes to variations in atmospheric chemistry and ionization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401265</AwardID>
+<Investigator>
+<FirstName>Luisa</FirstName>
+<LastName>Capannolo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Luisa Capannolo</PI_FULL_NAME>
+<EmailAddress><![CDATA[luisacap@bu.edu]]></EmailAddress>
+<NSF_ID>000901363</NSF_ID>
+<StartDate>06/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151703</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>THL6A6JLE1S7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF BOSTON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>022151703</ZipCode>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>575000</Code>
+<Text>MAGNETOSPHERIC PHYSICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~89682</FUND_OBLG>
+</Award>
+</rootTag>

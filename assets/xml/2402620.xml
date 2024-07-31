@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Portable Preterm Imaging System]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Molly Wasko</SignBlockName>
+<PO_EMAI>mwasko@nsf.gov</PO_EMAI>
+<PO_PHON>7032924749</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is the development of a point-of-care device that can be used in clinical settings as well as by mothers at home. Preterm birth (PTB) is defined as the delivery of a baby before 37 weeks of gestation. PTB is the number one cause of infant death worldwide and it also the number one cause of infant neurological disorders and long-term cognitive impairment.  PTB leads to health issues, including problems with hearing, vision, digestion, and breathing. To decrease preterm births, it is important to identify at-risk pregnancies to initiate preventive interventions. Unfortunately, numerous studies indicate that current methods are insufficient and ineffective in predicting preterm birth. The strength of the cervix collagen fiber network is integral to maintaining gestation, and loss of collagen architecture is intrinsic to many preterm labor occurrences. Using the technology developed in this project, the Portable Preterm Imaging System (PRIMM) to monitor collagen architecture, the team can non-invasively assess the risk of pre-term labor at early stages. The risk assessment of PTB could be used to formulate a therapeutic strategy, including using medications or bedrest to delay birth. Affording the infant a few additional weeks of gestation could improve health outcomes for both mother and child as well as reduce healthcare costs.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of a method for scanning, imaging, and screening cervical dysplasia, infections, and cancer. The Portable Preterm Imaging System (PPRIM) introduced in this research is a proprietary technology comprising a specialized imaging system enclosed within a flexible insertable sheath. This imaging system is equipped with a camera featuring integrated polarizers, accompanied by a custom-made LED ring illuminator. The novel design approach employed in this system enables the generation of a matrix dataset capable of forming voxel per sample. Notably, the PPRIM is unique due to its wide field of view which ensures the entire cervix can be captured in a single image. Furthermore, its fast acquisition time facilitates quick and efficient examinations. The PPRIM has been designed to prioritize ease of use and provide comfort during the procedure. Its simplicity is a key feature, as the device offers comprehensive coverage of the cervical area, delivering valuable information to healthcare providers and patients alike.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402620</AwardID>
+<Investigator>
+<FirstName>Jessica</FirstName>
+<LastName>Ramella-Roman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jessica Ramella-Roman</PI_FULL_NAME>
+<EmailAddress><![CDATA[jramella@fiu.edu]]></EmailAddress>
+<NSF_ID>000436431</NSF_ID>
+<StartDate>02/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>MIAMI</CityName>
+<ZipCode>331992516</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress><![CDATA[11200 SW 8TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q3KCVK5S9CP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA INTERNATIONAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Q3KCVK5S9CP1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>MIAMI</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331992516</ZipCode>
+<StreetAddress><![CDATA[11200 SW 8TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>004E</Code>
+<Text>BIOMEDICAL ENG AND DIAGNOSTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

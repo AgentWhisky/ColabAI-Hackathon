@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Multimodal Mass Spectrometric Imaging of Polymeric Nanomaterials and their Biochemical Effects]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>501049.00</AwardTotalIntnAmount>
+<AwardAmount>159944</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jose Almirall</SignBlockName>
+<PO_EMAI>jalmiral@nsf.gov</PO_EMAI>
+<PO_PHON>7032927434</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, Professor Richard Vachet, Professor Vincent Rotello, and their groups at the University of Massachusetts Amherst are developing new methods to measure polymeric nanomaterials in biological tissues. Nanomaterials are used in a wide range of products and technologies, including consumer goods, industrial applications, and medicine. To properly understand the biological consequences of such nanomaterials, new methods are needed that can track their distribution and biochemical effects, especially for newly emerging precision therapies based on RNA. Professors Vachet and Rotello are developing new imaging approaches that can simultaneously reveal the locations and effects of polymeric nanomaterials in tissues. The proposed imaging methods rely on new chemical tagging strategies and sophisticated laser-based mass spectrometry tools that will enable nanomaterials to be quantified in tissues. The ability to quantify these nanomaterials and the therapies that they carry has the potential to help guide the design of safer and more effective therapeutic delivery systems. In addition, new computational tools will be developed that may be extendible to other applications that require high resolution and site-specific molecular information. A diverse group of undergraduate and graduate students will be involved in the project, and these students will obtain training in cutting-edge mass spectrometry and nanotechnology.&lt;br/&gt;&lt;br/&gt;This collaborative study from the Vachet and Rotello groups will develop new molecular mass tags that when combined with laser ablation inductively-coupled plasma mass spectrometry (LA-ICP MS) and matrix-assisted laser desorption/ionization MS (MALDI MS) is expected to yield quantitative spatial information about nanomaterials, their therapeutic cargo, and their biochemical effects in tissues. Moreover, these molecular tags will enable a multiplexed imaging approach that allows multiple polymeric nanomaterial designs to be imaged simultaneously in mice, facilitating therapeutic optimization while avoiding overuse of mice. The new molecular tagging strategies will also facilitate the computational fusion of the mass spectrometry methods with fluorescence imaging methods, resulting in high-resolution, information-rich data that will provide unprecedented insight into the fate and effect of nanomaterial therapeutic delivery systems. The value of these new methods will be evaluated by using them to quantify distribution parameters for nanomaterial-enabled siRNA therapies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403967</AwardID>
+<Investigator>
+<FirstName>Vincent</FirstName>
+<LastName>Rotello</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vincent M Rotello</PI_FULL_NAME>
+<EmailAddress><![CDATA[rotello@chem.umass.edu]]></EmailAddress>
+<NSF_ID>000302065</NSF_ID>
+<StartDate>06/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Vachet</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard W Vachet</PI_FULL_NAME>
+<EmailAddress><![CDATA[rwvachet@chem.umass.edu]]></EmailAddress>
+<NSF_ID>000238779</NSF_ID>
+<StartDate>06/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>AMHERST</CityName>
+<ZipCode>010039252</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress><![CDATA[101 COMMONWEALTH AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VGJHK59NMPK9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>AMHERST</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>010039252</ZipCode>
+<StreetAddress><![CDATA[COMMONWEALTH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688000</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~159944</FUND_OBLG>
+</Award>
+</rootTag>

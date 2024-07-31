@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Embedding Calculus and its Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eriko Hironaka</SignBlockName>
+<PO_EMAI>ehironak@nsf.gov</PO_EMAI>
+<PO_PHON>7032927041</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project concerns spaces of embeddings, generalizing the question of whether a circle embedded in three dimensional space can be untangled to the question of whether an n-parameter family of embeddings (possibly in high dimensions) can be deformed to a constant family.  The PI will study far-reaching extensions of the linking number of a pair of curves in 3-space in novel ways.  This project will improve our understanding of embedded objects and their relatives, both for their intrinsic mathematical interest and for their myriad applications in algebra, geometry, and physics.  The PI will also work toward broadening participation in mathematics at the University of Louisiana at Lafayette and in the wider region through minority recruitment efforts, national and university-wide initiatives, and undergraduate research mentorship.&lt;br/&gt; &lt;br/&gt;The main technical tool pervading this project is the functor calculus of Goodwillie and Weiss, especially the variant known as embedding calculus.  The embedding calculus will often serve as an organizational principle, with configuration spaces playing a key role in concrete implementations of it.   The PI will use this method to study the algebraic topology of spaces of embeddings and spaces of diffeomorphisms of manifolds of various dimensions, including their integer-valued and torsion invariants.  Related directions to be explored include the rigid geometry of embeddings; expansions and finite-type invariants of groups; and computational and probabilistic approaches to various linking phenomena. &lt;br/&gt;&lt;br/&gt;This project is jointly funded by the NSF-DMS Topology and Geometric Analysis Program (TGA) and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2405370</AwardID>
+<Investigator>
+<FirstName>Robin</FirstName>
+<LastName>Koytcheff</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robin M Koytcheff</PI_FULL_NAME>
+<EmailAddress><![CDATA[koytcheff@louisiana.edu]]></EmailAddress>
+<NSF_ID>000704550</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Louisiana at Lafayette]]></Name>
+<CityName>LAFAYETTE</CityName>
+<ZipCode>705032014</ZipCode>
+<PhoneNumber>3374825811</PhoneNumber>
+<StreetAddress><![CDATA[104 E UNIVERSITY AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C169K7T4QZ96</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF LOUISIANA AT LAFAYETTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>C169K7T4QZ96</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Louisiana at Lafayette]]></Name>
+<CityName>LAFAYETTE</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>705032014</ZipCode>
+<StreetAddress><![CDATA[104 E UNIVERSITY CIR 3RD FL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126700</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~150000</FUND_OBLG>
+</Award>
+</rootTag>

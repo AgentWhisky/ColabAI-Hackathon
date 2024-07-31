@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Multiplexed Distributed Acoustic Sensing (DAS) at the Ocean Observatory Initiative (OOI) Regional Cabled Array (RCA)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>198069.00</AwardTotalIntnAmount>
+<AwardAmount>198069</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kandace Binkley</SignBlockName>
+<PO_EMAI>kbinkley@nsf.gov</PO_EMAI>
+<PO_PHON>7032927577</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Distributed Acoustic Sensing (DAS) is a relatively new observational technique in academia that interrogates an optical fiber with repeated laser pulses and utilizes changes in the phase of backscattered light to measure the strain rate along the fiber. If successful, this test will demonstrate the feasibility of multiplexed DAS on the Ocean Observatory Initiative’s (OOI) Regional Cabled Array (RCA)and would open the door for large-scale seafloor monitoring using the numerous existing telecom cables. Permanent, offshore DAS arrays have the potential to dramatically improve warning times for both great earthquakes in the Cascadia subduction zone. University of Washington postdocs will get experience leading data acquisition and quality control analysis.&lt;br/&gt;&lt;br/&gt;In November 2021 NSF-funded pilot experiment demonstrated the feasibility of making DAS observations using optical fibers in the two submarine cables of the Ocean Observatory Initiative’s (OOI) Regional Cabled Array (RCA) offshore Oregon. This test will take advantage of a planned brief maintenance shutdown to acquire both lit-fiber and dark-fiber DAS data on the same cable and with the same instrument to evaluate system performance. It will consist of a 4-day test of DAS on the OOI RCA in March 2024 using L-band DAS to record on lit fiber without interrupting ordinary RCA data telemetry. The advantage of a test that includes a shutdown is that we will observe both the DAS data quality with and without telecom data, as well as the telecom data quality with and without DAS.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415521</AwardID>
+<Investigator>
+<FirstName>Bradley</FirstName>
+<LastName>Lipovsky</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bradley P Lipovsky</PI_FULL_NAME>
+<EmailAddress><![CDATA[bpl7@uw.edu]]></EmailAddress>
+<NSF_ID>000785793</NSF_ID>
+<StartDate>02/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marine</FirstName>
+<LastName>Denolle</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marine A Denolle</PI_FULL_NAME>
+<EmailAddress><![CDATA[marinedenolle@gmail.com]]></EmailAddress>
+<NSF_ID>000709694</NSF_ID>
+<StartDate>02/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Wilcock</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William S Wilcock</PI_FULL_NAME>
+<EmailAddress><![CDATA[wilcock@u.washington.edu]]></EmailAddress>
+<NSF_ID>000096020</NSF_ID>
+<StartDate>02/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981951016</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 BROOKLYN AVE NE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WASHINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>SEATTLE</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981951016</ZipCode>
+<StreetAddress><![CDATA[4333 BROOKLYN AVE NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1680</Code>
+<Text>OCEAN TECH &amp; INTERDISC COORDIN</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~198069</FUND_OBLG>
+</Award>
+</rootTag>

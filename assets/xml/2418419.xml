@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Implementation and testing of DFDM, a novel elastic wave propagation solver for global seismology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>265600.00</AwardTotalIntnAmount>
+<AwardAmount>265600</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy Panero</SignBlockName>
+<PO_EMAI>wpanero@nsf.gov</PO_EMAI>
+<PO_PHON>7032925058</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Imaging the Earth’s deep interior at a greater resolution than currently achievable will improve our understanding of the nature of deep-Earth structures, including those that lead to the formation of volcanic islands such as Iceland and Hawaii. A powerful way to probe the interior is to measure the energy from earthquake waves as they travel through the complex Earth. Available seismic methods do not have sufficient resolution to describe these features to understand their origin and nature. Improving resolution requires the development of efficient and accurate methods for the computation of how seismic energy travels through these features, to be compared to what is observed at seismograms across the globe. The project team proposes a new algorithm, “Distributional Finite Difference Method” (DFDM) which presents advantages relative to the most efficient codes presently available by allowing for flexible model geometry without degrading the accuracy of the computation. This approach also shows potential for increased computational speed, as this type of work is computationally heavy and requires access to high performance computing facilities. This project will develop a computer code based on DFDM, compare results with those from available methods, and illustrate its use for modeling regions of extreme physical properties at the base of the mantle. The code will be made available to the community through the Computational Infrastructure for Geodynamics (CIG) portal as a contribution to geophysical infrastructure while supporting the education and professional development of graduate students, postdoctoral scholars, and early career scientists.&lt;br/&gt;&lt;br/&gt;As higher spatial resolution is sought in global seismic imaging to investigate the nature of small scale objects, the complexity of meshing, accuracy of the wavefield, and soaring computational time at high frequencies represent significant challenges, justifying continued efforts to design the next generation of numerical wave propagation codes. Flexible methods may take advantage of variable resolution requirements for different locations within a 3D model. This approach keeps the wavefield computation accurate and maintains competitive computational costs in comparison to codes such as the SPECFEM suite, which is based on the spectral element method (SEM). The newly developed versatile Distributional Finite Difference Method (DFDM) shows promise for application in global seismology, with some potential advantages compared to the SEM. DFDM combines the simple structure of the pseudo-spectral/finite-difference methods (FD) with accurate treatment of boundary conditions including free surfaces, as in spectral element-based techniques. This method also accurately accounts for material discontinuities and non-conformal interfaces, via an element-wise domain decomposition, where elements can be arbitrary large, depending on the medium’s geometry. In DFDM, the accuracy is independent of the size of the elements, such that elements can be large in regions where the model is smooth. In addition to its flexibility and accuracy, preliminary benchmarks of the algorithm prior to parallelization and optimization show that the DFDM is computationally faster for the same accuracy when compared to SEM in complex 3D models. DFDM therefore represents an attractive alternative to SEM-based approaches once parallelized and optimized. This team will implement, parallelize, and optimize a novel seismic wave propagation solver, based on this novel algorithm to combine advantages of the spectral element method widely used in global seismology, and of the Finite Difference method. The DFDM shows promise for application in global seismology and for modeling of fine scale structure in the deep Earth. The project will benchmark the resulting code against the highly optimized SPECFEM3D_GLOBE and provide an illustration of application to a complex ultra-low velocity zone (ULVZ) model at the core-mantle boundary. The final product will be a platform-independent, efficient package (“app”) for distribution to the seismology community through the Computational Infrastructure for Geodynamics (CIG) portal.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/13/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/13/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418419</AwardID>
+<Investigator>
+<FirstName>Barbara</FirstName>
+<LastName>Romanowicz</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Barbara A Romanowicz</PI_FULL_NAME>
+<EmailAddress><![CDATA[barbara@seismo.berkeley.edu]]></EmailAddress>
+<NSF_ID>000105433</NSF_ID>
+<StartDate>06/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>157400</Code>
+<Text>Geophysics</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~265600</FUND_OBLG>
+</Award>
+</rootTag>

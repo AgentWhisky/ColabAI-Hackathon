@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: A Stretchable Ion Barrier for Bioelectronic Encapsulation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Svetlana Tatic-Lucic</SignBlockName>
+<PO_EMAI>staticlu@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Stretchable bioelectronic devices are essential for seamless integration with biological tissue, providing substantial benefits for biomedical applications. However, these devices face a fundamental challenge in maintaining their performance over time in the physiological environment. That is, ions from the surrounding environment gradually diffuse into the dielectric encapsulations, causing electrical leakage and degrading insulation over time. This EAGER project aims to develop a non-leaky, stretchable dielectric encapsulation. The research will focus on investigating heterogeneous materials and structures that mimic cell membranes, specifically emulating the bilayer that prevents ion transport. The outcomes of this research could lead to significant advancements in bioelectronic interfaces that are simultaneously stretchable and ion-impermeable, allowing reliable operation under physiological conditions for extended periods (e.g., lifetime). Additionally, this project offers a comprehensive interdisciplinary research and education program for graduate and undergraduate students, covering diverse fields such as interfacial science, mechanics, nanofabrication, materials science, and bioengineering. &lt;br/&gt;&lt;br/&gt;The fact that ion permeability and material stretchability are inextricably linked at the molecular level imposes a fundamental limit on soft materials’ ability to inhibit ion diffusion. This EAGER project addresses this fundamental limit by creating a bioinspired stretchable ion barrier that emulates the cell’s phospholipid bilayer so as to realize stretchable yet ion-impermeable dielectrics. Using only existing stretchable materials, the research focuses on engineering them to mimic the lipid bilayer and investigate (1) the underlying science mechanism, (2) the mechanical robustness, and (3) the electrical stability of the stretchable ion barrier through theoretical and experimental studies. This research is expected to provide new ideas for reconciling two mutually exclusive material properties through biomimetic engineering designs. In particular, it helps remove the major roadblock for bioelectronics to accurately record and stimulate biological signals in vivo over extremely long durations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2430855</AwardID>
+<Investigator>
+<FirstName>Tingyi</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tingyi Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[leoliu@umass.edu]]></EmailAddress>
+<NSF_ID>000812284</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>AMHERST</CityName>
+<ZipCode>010039252</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress><![CDATA[101 COMMONWEALTH AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VGJHK59NMPK9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>Hadley</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>010359450</ZipCode>
+<StreetAddress><![CDATA[c/o Office of Pre-Award Services]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>756400</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~100000</FUND_OBLG>
+</Award>
+</rootTag>

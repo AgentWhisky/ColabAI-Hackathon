@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: OAC CORE: Federated-Learning-Driven Traffic Event Management for Intelligent Transportation Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>249991.00</AwardTotalIntnAmount>
+<AwardAmount>249991</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Varun Chandola</SignBlockName>
+<PO_EMAI>vchandol@nsf.gov</PO_EMAI>
+<PO_PHON>7032922656</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Intelligent transportation systems (ITS) utilize smart traffic surveillance and machine learning (ML) technologies to optimize traffic management and guarantee driving safety. Currently, centralized ML is the mainstream learning method in the ITS, where vast amounts of traffic video data among distributed edge devices (e.g., smart traffic cameras and dashcams) are transmitted to a central server to train an ML model, resulting in prohibitive efficiency and privacy concerns. Federated learning (FL) is a promising paradigm that leverages the computing power of distributed devices to enable collaborative training of shared ML models over large-scale data while keeping the data local and safe. Unfortunately, existing FL packages fail to fully support the FL on resource-limited devices, which dominate the road infrastructure edge devices. This project aims to build an edge-friendly cyberinfrastructure that allows FL to be deployed for ITS applications in an efficient, secure, and privacy-preserving manner. The proposed research will bring transformative advances in many transportation applications, such as naturalistic driving study and traffic conflict prediction. The proposed cyberinfrastructure will be deployed for real-world traffic management to enhance transportation agencies’ situational awareness and decision-making capabilities. The proposed software tools will be open source to enhance the research infrastructure for the broad ITS communities. Educational activities include curriculum development, student mentoring, and outreach to K-12 students.&lt;br/&gt;&lt;br/&gt;The project will establish new theoretical and practical results about the FL from the critical perspectives of efficiency, security, and privacy — three properties necessary for broad adoption and deployment on the massive resource-limited road infrastructure edge devices in the ITS. Specifically, (1) this project will systematically investigate the interplay between the FL and distinct types of efficiency issues in the ITS, such as expensive computation cost, high communication consumption, and low device utilization. (2) This project will provide theoretical and practical security tools for both empirical and certified defenses against malicious attacks on data and models in the ITS. (3) This project will investigate the relationship between FL and privacy in the traffic video data by proposing new theoretically grounded designs and FL architectures, such as privacy-preserving data and model sharing. (4) This project will develop a real distributed testbed with NVIDIA Jetson Nano devices to test the above-proposed methods. These small devices can be deployed in junction boxes and vehicles for FL to serve ITS applications.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Office of Advanced Cyberinfrastructure (OAC) Core Research program and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414474</AwardID>
+<Investigator>
+<FirstName>Da</FirstName>
+<LastName>Yan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Da Yan</PI_FULL_NAME>
+<EmailAddress><![CDATA[yanda@iu.edu]]></EmailAddress>
+<NSF_ID>000732653</NSF_ID>
+<StartDate>01/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>BLOOMINGTON</CityName>
+<ZipCode>474057000</ZipCode>
+<PhoneNumber>3172783473</PhoneNumber>
+<StreetAddress>107 S INDIANA AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YH86RTW2YVJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF INDIANA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Indiana University]]></Name>
+<CityName>BLOOMINGTON</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>474083901</ZipCode>
+<StreetAddress><![CDATA[700 N Woodlawn Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>090Y</Code>
+<Text>OAC-Advanced Cyberinfrast Core</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~249991</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Relaxation and Dissociation Dynamics of Anionic and Neutral Species Studied by Extreme Ultraviolet Time-resolved Photoelectron Spectroscopy of Flat Liquid Jets]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Papanikolas</SignBlockName>
+<PO_EMAI>jpapanik@nsf.gov</PO_EMAI>
+<PO_PHON>7032928173</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Structure, Dynamics, and Mechanisms A (CSDM-A) program in the Division of Chemistry, Professor Daniel Neumark of the University of California, Berkeley will use time-resolved photoelectron spectroscopy to watch the relaxation and dissociation of a solvated molecule that occurs following photon absorption. In photoelectron spectroscopy, a high-energy photon is used to detach one of the electrons in a molecule, and the velocity of the departing electron contains information about the molecular energy states at the instant of ejection. The method can be applied to any molecule and has been used to great effect in the study of isolated gas phase molecules for decades. However, analogous studies in liquids are considerably more challenging since the surrounding solvent could interfere with motion of the departing electron. Professor Neumark and his students will pass the solutions through liquid jets, which will enable the study of solvated molecules using time-resolved photoelectron spectroscopy. Their approach has the potential to address the origin and mechanism of photostability in molecules including DNA constituents, which have strong UV absorption yet do not dissociate. The project will also contribute to the development of a diverse scientific workforce by providing research opportunities for graduate students, undergraduates, and postdoctoral scholars.&lt;br/&gt; &lt;br/&gt;Under this award, photoexcited anionic and neutral solutes in flat liquid jets will be studied by the UC-Berkeley team using time-resolved extreme ultraviolet (XUV) photoelectron spectroscopy. Femtosecond ultraviolet (UV) pump and XUV probe pulses will excite the solute and then follow its dynamics by measuring the photoelectron spectrum as a function of UV/XUV delay. Experiments will be carried out using probe photon energies of 22 eV and 90 eV. Light at 22 eV serves as a universal valence ionization probe; one can ionize valence electrons from initially excited electronic states and from any electronic states populated by subsequent relaxation. Target systems of these experiments are the phenolate and nitrophenolate anions as well as the neutral species indole and tryptophan. At 90 eV, one can photoionize I(4d) core electrons and thus monitor time-dependent chemical shifts in the photodissociation of iodine-containing species. Experiments at 90 eV will first be carried out on aqueous iodide anions in order to track energies and solvent relaxation upon excitation of the charge-transfer-to-solvent band of iodide at 240 nm. Experiments on photoexcited iodobenzene and iodophenolate at both probe energies will probe the competition between relaxation within the manifold of valence states on the aromatic ring and dissociation to iodine atoms or iodide anions.  Such experiments, if successful, will serve to significantly extend the range of experiments available to photoelectron spectroscopy, giving valuable information about chemical dynamics and solvent effects in the condensed phase.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2422769</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Neumark</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel M Neumark</PI_FULL_NAME>
+<EmailAddress><![CDATA[dneumark@berkeley.edu]]></EmailAddress>
+<NSF_ID>000299248</NSF_ID>
+<StartDate>05/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>Berkeley</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947201460</ZipCode>
+<StreetAddress><![CDATA[B64 Hildebrand Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>910100</Code>
+<Text>CSD-Chem Strcture and Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~600000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Research Infrastructure: SuperMAG--New Science Capabilities and Continued Operation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>1107716.00</AwardTotalIntnAmount>
+<AwardAmount>204303</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chia-Lin Huang</SignBlockName>
+<PO_EMAI>chihuang@nsf.gov</PO_EMAI>
+<PO_PHON>7032927544</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Ground-based magnetometers have remained essential for the Geospace community for decades. More than 600 ground-based stations worldwide are mostly part of the SuperMAG collaboration. This dataset provides nearly global, continuous, and decade-long monitoring of the ground-level magnetic field, allowing a wide range of studies. A dataset collected by stations operated in some 100 nations naturally comes with a long list of complexities that prevent extensive studies and make the dataset inaccessible for students and non-experts. SuperMAG is designed to overcome these problems and provide easy access to validated and uniform data, plots, and various derived products. SuperMAG has a record of enabling less privileged groups and students to produce world-class science results and publish in high-impact science journals. Beyond the research community, SuperMAG targets the general public, particularly teachers and students, by having easy-to-understand data products and figures. SuperMAG has over 4000 registered users who utilize the service in about 200 peer-reviewed papers and more than ten theses annually.  &lt;br/&gt;&lt;br/&gt;The project's main objective is twofold: 1) continued support for SuperMAG and 2) development of new capabilities to enhance the existing service. SuperMAG provides an interface for a broad range of users to access data from magnetometers distributed worldwide. SuperMAG provides validated measurements of magnetic field perturbations from all operational stations in the same coordinate system, with identical time resolution and a common baseline removal approach. In addition, several derived data products are provided, which enable a broad range of scientific studies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403939</AwardID>
+<Investigator>
+<FirstName>Jesper</FirstName>
+<LastName>Gjerloev</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jesper W Gjerloev</PI_FULL_NAME>
+<EmailAddress><![CDATA[Jesper.Gjerloev@jhuapl.edu]]></EmailAddress>
+<NSF_ID>000321432</NSF_ID>
+<StartDate>05/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212182608</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTMTDMBR29C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE JOHNS HOPKINS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University Applied Physics Laboratory]]></Name>
+<CityName>Laurel</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207236006</ZipCode>
+<StreetAddress><![CDATA[11101 Johns Hopkins Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>420200</Code>
+<Text>Upper Atmospheric Facilities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~204303</FUND_OBLG>
+</Award>
+</rootTag>

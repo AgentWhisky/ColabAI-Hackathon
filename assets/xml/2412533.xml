@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-ANR MCB/PHY: Elucidating Plant Vascular Function and Dynamics in Planta and on Chip]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Angel Garcia</SignBlockName>
+<PO_EMAI>aegarcia@nsf.gov</PO_EMAI>
+<PO_PHON>7032928897</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The function of vascular plants relies both on active and passive transport phenomena driven through two coupled vascular systems: transpiration moves water from the roots to the leaves through the xylem to maintain hydration and transfer nutrients, and osmosis drives the flow through the phloem carrying photosynthesized sugars from the leaves throughout the plant for growth and storage. Both flows are also hypothesized to mediate long-distance biochemical signaling within the plant that coordinate whole-plant function and represent important targets for crop improvement for sustainable agriculture. This project unites expertise on physicochemistry, device engineering, and plant biology to develop new tools for interrogating these processes and new fundamental biophysical and biological understanding of them. Many fundamental questions remain on the physiological mechanisms of operation and functional roles of these transport processes, particularly relative to the phloem and its coupling to the xylem and other tissues: 1) the biophysics of the loading and unloading of sugars, water, and signaling molecules to and from the phloem; 2) the dynamics of phloem transport as a function of biotic (e.g., photosynthetic rate and localized tissue growth) and abiotic (e.g., diurnal variations in water status) processes; and 3) the coordination of these processes at the whole-organism scale. Progress on these topics has been hindered by the lack of experimental tools with which to investigate hypotheses across scales, from local membrane-mediated to system-scale processes, either in vitro or in planta. To address these questions, an international team of researchers in the USA and France will work together to develop the first synthetic system that allows for recapitulation of the full, coupled operation of the xylem and phloem systems to test a diversity of biophysical hypotheses on the mechanisms and function of plant vasculature. The team will also develop new sensors for sensing of vascular transport processes, in-plant; and inform and confront in vitro experiments with biophysical and biochemical experiments in vivo. This effort will provide new insights into the biology and biophysics of plant vascular function and create new tools for basic and applied research by others.&lt;br/&gt;&lt;br/&gt;The outcomes of this project will serve the broader community scientifically and technologically by creating new microfluidic devices and functionalities, new tools for in-plant measurement, and new understanding of the fundamentals of whole-plant integration of resources and signals. These tools and understanding could translate into strategies for crop improvement and management, as well as into other industries, including manufacturing. This international, cross-disciplinary project will provide rich training opportunities to graduate students and post-doctoral scholars at both institutions in the US and France. The Cornell-based team will create and deliver experiential curriculum related to this project for high school students from underserved communities and mentor undergraduate summer students through Research Experience for Undergraduates programs on these research themes.&lt;br/&gt; &lt;br/&gt;This collaborative US/France project is supported by the US National Science Foundation (NSF) and the French Agence Nationale de la Recherche (ANR), where NSF funds the US investigators and ANR funds the partners in France. The US investigators are jointly funded by the Physics of Living Systems program in the Directorate for Mathematical and Physical Sciences and the Molecular Biophysics program/Division of Molecular and Cellular Biosciences in the Directorate for Biological Sciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412533</AwardID>
+<Investigator>
+<FirstName>Margaret</FirstName>
+<LastName>Frank</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Margaret Frank</PI_FULL_NAME>
+<EmailAddress><![CDATA[mhf47@cornell.edu]]></EmailAddress>
+<NSF_ID>000689596</NSF_ID>
+<StartDate>02/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Abraham</FirstName>
+<LastName>Stroock</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Abraham D Stroock</PI_FULL_NAME>
+<EmailAddress><![CDATA[ads10@cornell.edu]]></EmailAddress>
+<NSF_ID>000414951</NSF_ID>
+<StartDate>02/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>341 PINE TREE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148502820</ZipCode>
+<StreetAddress><![CDATA[167A Olin Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7246</Code>
+<Text>PHYSICS OF LIVING SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5918</Code>
+<Text>FRANCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8007</Code>
+<Text>BioMaPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~250000</FUND_OBLG>
+</Award>
+</rootTag>

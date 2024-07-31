@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[QCD at High Temperature and/or Density]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>240000.00</AwardTotalIntnAmount>
+<AwardAmount>240000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bogdan Mihaila</SignBlockName>
+<PO_EMAI>bmihaila@nsf.gov</PO_EMAI>
+<PO_PHON>7032928235</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In the standard Big Bang model, the first few instants of the early universe were filled with quark-gluon plasma -- an incredibly high-temperature gas of the constituents of protons and neutrons.  In the laboratory, tiny nucleus-sized droplets of quark-gluon plasma have been produced briefly by colliding large atomic nuclei at extremely high energy.  The droplets live too briefly to study directly and must instead be studied from the high-energy signatures of the collisions.  For instance, some collisions produce additional pairs of extremely high-energy constituents that lose energy by flying through the quark-gluon plasma droplet. So, one way to study properties of quark-gluon plasmas is from measurements related to the amount of such energy loss and its comparison to theoretical calculations.  This project tests the validity and self-consistency of methods typically used in theoretical calculations by calculating how thoroughly quantum mechanical corrections influence the energy loss.  In addition to studying the theory of probing quark-gluon plasmas, the PI will mentor students engaged in this research and will refine and make publicly available educational materials designed to excite advanced undergraduates and early graduate students into a first exploration of quantum field theory, a fundamental approach to theoretical particle physics.&lt;br/&gt;&lt;br/&gt;High-energy particles traveling through matter lose energy mainly by showering via splitting processes like bremsstrahlung and pair production, similar to a cosmic ray shower in the atmosphere.  In the case here, typical splittings are induced by glancing collisions of the high-energy particle with the constituents of the quark-gluon plasma.  In principle, each collision offers a chance for a high-energy particle to split.  However, the quantum mechanical duration of that splitting, known as the formation time for the splitting, turns out to grow with energy.  At high enough energies, it grows so much that multiple collisions with the plasma occur within the formation time.  This causes a large suppression of the splitting rate known as the Landau-Pomeranchuk-Migdal effect, worked out in the 1950s for electromagnetic interactions (quantum electrodynamics, QED) and the 1990s for the strong interactions (quantum chromodynamics, QCD).  This project will study whether formation times can become so large that there is also quantum interference between successive splittings of the shower.  This question bears on whether such showers can really be modeled as a growing collection of well-defined numbers of high-energy particles -- a question the project addresses by improving and extending calculations of such quantum interference effects.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/20/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412362</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Arnold</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter Arnold</PI_FULL_NAME>
+<EmailAddress><![CDATA[pa6z@virginia.edu]]></EmailAddress>
+<NSF_ID>000958978</NSF_ID>
+<StartDate>06/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229034833</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJG6HU8PA4S5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RECTOR &amp; VISITORS OF THE UNIVERSITY OF VIRGINIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>229034833</ZipCode>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128500</Code>
+<Text>NUCLEAR THEORY</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~240000</FUND_OBLG>
+</Award>
+</rootTag>

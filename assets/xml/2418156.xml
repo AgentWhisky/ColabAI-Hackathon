@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CIF: Small: Non-Asymptotic Foundations of Approximate Message Passing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Fowler</SignBlockName>
+<PO_EMAI>jafowler@nsf.gov</PO_EMAI>
+<PO_PHON>7032928910</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Approximate message passing (AMP) is a family of iterative algorithms that was been widely used to solve linear-regression problems in recent years. AMP algorithms are known to offer optimal solutions in certain situations and are well-understood theoretically under certain asymptotic assumptions, notably when it is assumed that the number of data samples approaches infinity. However, practical settings often operate under a very limited number of known data samples such that asymptotic knowledge no longer applies. Indeed, contemporary data-science applications often call for the ability to extract actionable information from datasets of limited size. AMP algorithms commonly serve as fast-convergent and statistically efficient estimators and can be employed as powerful theoretical machinery to study other statistical procedures in high dimension. However, the asymptotic nature of most of the existing AMP theory limits the capability of fully characterizing the convergence behavior of these algorithms in real-world settings. Accordingly, this project aims to develop a new, non-asymptotic statistical foundation for AMP that allows one to predict its finite-sample dynamics in a fine-grained manner.  Broader-impact aspects of the work lie in its potential to substantially enrich the statistical and algorithmic foundations for information processing and machine learning in data-hungry applications and to contribute significantly to various science and engineering applications such as optimal imaging, social-network analysis, single-cell data analysis, and generative modeling. The investigator also plans to create new courses, develop tutorials and short courses in high-profile conferences and workshops, and organize corresponding materials into a monograph.&lt;br/&gt; &lt;br/&gt;The technical activities aim to significantly advance the foundation of AMP by developing a versatile non-asymptotic framework capable of handling a polynomial number of AMP iterations in the most-challenging, sample-limited regime. To achieve this goal, the research program will leverage insights and techniques from various fields, including high-dimensional statistics, statistical signal processing, information theory, convex geometry, random-matrix theory, and statistical physics. To facilitate specific investigations and discussions, the project revolves around several stylized problems, subsuming as special cases structured linear models, spiked low-rank models, tensor learning, and diffusion generative models, among others. It is anticipated that this project will contribute novel insights into this foundational area from both theoretical and algorithmic perspectives.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/31/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418156</AwardID>
+<Investigator>
+<FirstName>Yuting</FirstName>
+<LastName>Wei</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yuting Wei</PI_FULL_NAME>
+<EmailAddress><![CDATA[ytwei@wharton.upenn.edu]]></EmailAddress>
+<NSF_ID>000800345</NSF_ID>
+<StartDate>05/31/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress><![CDATA[3451 WALNUT ST STE 440A]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GM1XX56LEP58</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GM1XX56LEP58</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191046205</ZipCode>
+<StreetAddress><![CDATA[3451 WALNUT ST STE 440A]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779700</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>073E</Code>
+<Text>OPTIMIZATION &amp; DECISION MAKING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~600000</FUND_OBLG>
+</Award>
+</rootTag>

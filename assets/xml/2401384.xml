@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[P-adic Variation of Modular Galois Representations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>330000.00</AwardTotalIntnAmount>
+<AwardAmount>123986</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award concerns Algebraic number theory, which is the study of solutions to polynomial equations with rational coefficients, and Galois actions, which are symmetries among these solutions. A major theme of modern number theory is to use Galois actions to gain new insight into questions about integer or rational solutions to polynomial equations that have stimulated mathematical activity since ancient times. One major way that Galois actions are applied toward these questions is to interpolate them into continuously varying families. To make an analogy, interpolation through the Galois actions can be thought of as threading a string through a set of beads. This project concerns "degeneracies" or "singularities" within these families, analogous to a knot lying at a point of convergence among strands of the string. This project aims to not only "untie" such degeneracies to access the information they seem to obscure, but also to reveal the additional number-theoretic information in the degeneracy itself. Funding for this project will also be dedicated to supporting mathematical activity in Western Pennsylvania, such as bringing external speakers to Pittsburgh Number Theory Days and encouraging student activity in research and outreach. As far as student research, the PI will advise graduate and undergraduate student researchers working toward the targeted research outcomes of this project. And as far as outreach, the PI will recruit and support undergraduate students working in grant-funded outreach efforts to enrich math education for elementary and middle school students. &lt;br/&gt;&lt;br/&gt;Developments in the p-adic variation of Galois representations and of modular forms has fueled great progress in modern algebraic number theory. But when degeneracies occur in interpolation, notions and tools are lacking or need refinement. This project aims to resolve and apply these degeneracies in various settings using homological tools. Among the targeted outcomes are refinements of links between Galois representations and modular forms, applications of new notions of p-adically interpolated modular forms to conjectures about derived enrichments of the Langlands correspondence, and new techniques to compute rational or integral solutions to polynomial equations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401384</AwardID>
+<Investigator>
+<FirstName>Carl</FirstName>
+<LastName>Wang Erickson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carl Wang Erickson</PI_FULL_NAME>
+<EmailAddress><![CDATA[carl.wang-erickson@pitt.edu]]></EmailAddress>
+<NSF_ID>000655629</NSF_ID>
+<StartDate>04/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Pittsburgh]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152600001</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress><![CDATA[4200 FIFTH AVENUE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MKAGLD59JRL1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF PITTSBURGH - OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pittsburgh]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152600001</ZipCode>
+<StreetAddress><![CDATA[4200 FIFTH AVENUE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~123986</FUND_OBLG>
+</Award>
+</rootTag>

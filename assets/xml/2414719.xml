@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Chemo-Physics and Molecular Design of In-situ Hydrogel-MXene Biosensors]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/15/2023</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>258083.00</AwardTotalIntnAmount>
+<AwardAmount>258083</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aleksandr Simonian</SignBlockName>
+<PO_EMAI>asimonia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922191</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Colorectal cancer (CRC) has a significant global impact, affecting 2 million people worldwide and standing as the third leading cause of cancer-related deaths in the United States. Technologies that enable in-situ monitoring of biomarkers closely related to the development and progression of CRC are highly desirable for timely diagnosis, early intervention, and personalized treatment of CRC. However, the complicated chemical, biological, and mechanical factors within complex physiological environments present substantial challenges in achieving specific, sensitive, and durable early detection of CRC. With support from the Biosensing Program in the Division of Chemical, Bioengineering, Environmental and Transport Systems and the Chemical Measurement and Imaging Program in the Division of Chemistry, the research groups of Prof. Shaoting Lin (Michigan State University), Prof. Chenglin Wu (Missouri University of Science and Technology), and Prof. Xinyue Liu (Michigan State University) aim to overcome these challenges by developing in-situ hydrogel-MXene biosensors capable of detecting low-level CRC biomarkers (e.g., carcinoembryonic antigen (CEA)) in simulated intestinal environments. The in-situ hydrogel-MXene biosensor will potentially lead to a big leap in bioelectronics, offering transformative impacts in disease diagnostics and paving the way for personalized healthcare. In addition, this project is expected to foster the development of the next-generation workforce in emerging biotechnologies through multi-institutional and interdisciplinary efforts including the integration of new topics in undergraduate courses and the promotion of STEM fields to encourage more students to engage in these areas of study.&lt;br/&gt;&lt;br/&gt;The goal of this project is to integrate selective-permeable hydrogels with MXene-based field-effect transistors for developing high-performance hydrogel-MXene biosensors that can achieve in-situ detection of low-level colorectal cancer (CRC) biomarkers (e.g., carcinoembryonic antigen (CEA)) in simulated intestinal environments while mitigating the influence of mobile ions. To achieve this, this project will leverage molecular design of reversible interaction, network topology, and fixed charge in hydrogels to modulate hydrogel-intestine interactions for selective biomolecular transport and to regulate hydrogel-MXene interactions for improved field-effect sensing performance. Specifically, this project will leverage the synergy of network elasticity and reversible interaction in hydrogels to independently modulate the transport of target and non-target biomolecules, thereby enabling selective and enhanced transport. In addition, this project will harness the combined efforts of molecular design, atomic simulation, and DFT calculation to optimize the design of network topology and fixed charge density of hydrogels, thus maximizing the Debye length, reduce the capacitance, and tune the bandgap at the hydrogel-MXene interface. Finally, this project will incorporate the explored hydrogel design principles to build a high-performing hydrogel-MXene biosensor capable of quantifying CRC biomarkers in simulated intestinal environments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414719</AwardID>
+<Investigator>
+<FirstName>Chenglin</FirstName>
+<LastName>Wu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chenglin Wu</PI_FULL_NAME>
+<EmailAddress><![CDATA[chenglinwu@tamu.edu]]></EmailAddress>
+<NSF_ID>000743440</NSF_ID>
+<StartDate>04/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress><![CDATA[3124 TAMU]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778433124</ZipCode>
+<StreetAddress><![CDATA[3124 TAMU]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>790900</Code>
+<Text>BIOSENS-Biosensing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1639</Code>
+<Text>SENSORS AND SENSING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~258083</FUND_OBLG>
+</Award>
+</rootTag>

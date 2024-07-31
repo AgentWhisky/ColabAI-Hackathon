@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Generalizations of the Ultrapower Axiom]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>80000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+<PO_EMAI>tbartosz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[At the turn of the 20th century, mathematicians discovered a series of logical paradoxes that forced them to reevaluate the very foundation of the subject. The Zermelo-Frankel axioms of set theory (ZFC) emerged in the decades that followed as an answer to the question: what are the basic assumptions of mathematics? From the nine postulates of ZFC, one can derive all known theorems of mathematics. Despite this triumph of logic, a &lt;br/&gt;major problem remains: there are mathematical problems that cannot be solved assuming the ZFC axioms alone. Most famously, Godel and Cohen showed that starting with these axioms, it is impossible to prove or refute Cantor's Continuum Hypothesis. One of the main goals of modern set theory is to analyze and classify axiomatic systems beyond ZFC that are strong enough to answer these undecidable questions. This project studies a framework for generating set-theoretic axioms by mining the structure of large cardinals in inner models of set theory. This project involves student training and conference organization and will have an impact on the philosophy of mathematics.&lt;br/&gt;&lt;br/&gt;ZFC can be seen as an attempt to axiomatize the structure of the class of all sets. It is incomplete because our mathematical intuitions about arbitrary sets do not suffice to determine all their properties. To get around this problem, one can restrict attention to smaller subclasses of sets that are somehow canonical. Gödel discovered that there are subclasses that are rich enough to satisfy the ZFC axioms yet constrained enough that all their properties can be determined. Such a subclass is called a canonical inner model. For example, in canonical inner models, the Continuum Hypothesis is true. One obtains extensions of ZFC by considering the statements that hold in canonical inner models. One such statement is the Ultrapower Axiom, identified and studied by the PI in his dissertation. The axiom imposes a rich structure on the upper reaches of the hierarchy of infinite cardinals, or large cardinals, one of the central objects of study in set theory. Taking advantage of a recent breakthrough of Woodin, the PI was able to formulate strong generalizations of the Ultrapower Axiom, which this project proposes to study in hopes that they will shed further light on major open problems in inner model theory and large cardinals.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/26/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/26/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401789</AwardID>
+<Investigator>
+<FirstName>Gabriel</FirstName>
+<LastName>Goldberg</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gabriel T Goldberg</PI_FULL_NAME>
+<EmailAddress><![CDATA[ggoldberg@berkeley.edu]]></EmailAddress>
+<NSF_ID>000785857</NSF_ID>
+<StartDate>03/26/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>1608 4TH ST STE 201</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Regents of the University of California]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1268</Code>
+<Text>FOUNDATIONS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~80000</FUND_OBLG>
+</Award>
+</rootTag>

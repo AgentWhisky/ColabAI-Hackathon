@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Stochastic Modeling of Turbulence over Rough Walls: Theory, Experiments, and Simulations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>490525.00</AwardTotalIntnAmount>
+<AwardAmount>490525</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Most of the surfaces over which turbulent flows evolve are hydrodynamically rough. The effect of roughness is very challenging to simulate rigorously because the geometry and the nearby velocity field has to be reproduced with a very fine resolution, which is computationally expensive. For some applications, including wind energy, pollution dispersion, canopy flows in urban areas, the ground region is a minor, but unfortunately necessary and costly, component of the simulation. The standard approach is to bypass the complexity of the roughness layer and assume that the logarithmic mean velocity profile extends all the way to the surface, thus losing some of the variability of the near surface velocity field. A more active wall modeling strategy could be envisioned. Recently, the evolution and derivation of the logarithmic mean velocity profile, has been connected to the vertical distribution of Uniform Momentum Zones. These are large flow regions that tend to move coherently with the same velocity, tend to get thicker with the distance from the wall, and are separated by thin regions of intense gradients. The Uniform Momentum Zones, and these internal shear layers separating them, are the simplest modeling framework for wall turbulence. The outreach component of the proposal includes a summer program for undergrad students from Native American Tribal College, international collaboration with a colleague in Australia, and experimental data sharing, open to everyone in the research community. &lt;br/&gt;&lt;br/&gt;The goal of this project is to formulate, and validate experimentally, a Uniform Momentum Zones-based stochastic model able to reproduce the velocity field, characteristic of near-surface turbulence, preserving its variability and dynamics, all the way to the ground.  To build and test this new model, experiments are needed, on different rough surfaces, to map the Uniform Momentum Zones distribution in three dimensions and guide the stochastic model. A new interface with large scale numerical simulations will be also implemented as a new, dynamic boundary condition. This will enable researchers to replace the computationally expensive, near-surface domain with an affordable synthetic velocity field, and improve future simulations of complex atmospheric flows, or similarly high Reynolds number turbulent boundary layers, like those developing around ships or planes. The ultimate goal is to enable and test the formulation of the stochastic model based on the surface roughness geometry and on easily measurable flow variables, to ensure predictive capabilities with minimal input information.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412025</AwardID>
+<Investigator>
+<FirstName>Lian</FirstName>
+<LastName>Shen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lian Shen</PI_FULL_NAME>
+<EmailAddress><![CDATA[shen@umn.edu]]></EmailAddress>
+<NSF_ID>000105664</NSF_ID>
+<StartDate>04/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michele</FirstName>
+<LastName>Guala</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michele Guala</PI_FULL_NAME>
+<EmailAddress><![CDATA[mguala@umn.edu]]></EmailAddress>
+<NSF_ID>000586460</NSF_ID>
+<StartDate>04/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress><![CDATA[200 OAK ST SE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554142070</ZipCode>
+<StreetAddress><![CDATA[2 3rd Ave SE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144300</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~490525</FUND_OBLG>
+</Award>
+</rootTag>

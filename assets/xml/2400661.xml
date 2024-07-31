@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[ERI: Advancing Understanding of Data-driven Wildfire Evacuation Planning for Communities with Transient Populations in the Wildland-Urban Interface]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>155961</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jacqueline Meszaros</SignBlockName>
+<PO_EMAI>jmeszaro@nsf.gov</PO_EMAI>
+<PO_PHON>7032927261</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Due to the significant loss of life and property caused by wildfires in the past few years, wildfire evacuation planning has become a priority for communities in the wildland-urban interface (WUI). Part-time residents and transient populations (e.g., visitors) can differ from full-time residents in terms of evacuation logistics and behavior, which poses a significant challenge for community evacuation planning. This Engineering Research Initiation (ERI) project will leverage big data and computer models to develop a new wildfire evacuation planning approach that can incorporate part-time residents and transient populations and take into account different evacuation scenarios. Research outputs will be shared with community stakeholders to improve local wildfire evacuation plans. The knowledge generated in this project will help evacuation researchers and practitioners better use big data and the newest wildfire evacuation modeling techniques to improve wildfire public safety. Furthermore, this project will support education and training for the next-generation of geographic information systems (GIS) professionals, data scientists/engineers, and evacuation researchers/practitioners.&lt;br/&gt;&lt;br/&gt;This project will advance understanding the use of big data and coupled wildfire evacuation models in wildfire evacuation planning for communities with transient populations. The research team will conduct a household survey to study the difference between full-time and part-time residents with regard to evacuation logistics and behavior. Then we will integrate fire spread and microscopic traffic simulation models to develop a coupled wildfire evacuation model that can incorporate full-time and part-time residents’ evacuation logistics and behavior and other transient populations. A variety of data from different sources will be used to systematically design a series of evacuation scenarios, and the developed evacuation model is used to perform evacuation simulations for these evacuation scenarios. The generated fire perimeter and high-resolution vehicle trajectory data will be used to derive evacuation time estimates and vehicle exposure count information. The research team will use GIS to visualize vehicle exposure count information. Additionally, the evacuation planning approach will be employed to create data-driven evacuation plans for the study site. The research findings will be broadly disseminated via an online workshop, publications, conference presentations, and a Web GIS application.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by Humans, Disasters, and the Built Environment (HDBE) and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/03/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>11/03/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400661</AwardID>
+<Investigator>
+<FirstName>Dapeng</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dapeng Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[dapeng.li@ua.edu]]></EmailAddress>
+<NSF_ID>000851038</NSF_ID>
+<StartDate>11/03/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama Tuscaloosa</Name>
+<CityName>TUSCALOOSA</CityName>
+<ZipCode>354012029</ZipCode>
+<PhoneNumber>2053485152</PhoneNumber>
+<StreetAddress>801 UNIVERSITY BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RCNJEHZ83EV6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ALABAMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>TWJWHYEM8T63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama Tuscaloosa]]></Name>
+<CityName>TUSCALOOSA</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>354870001</ZipCode>
+<StreetAddress><![CDATA[301 ROSE ADMIN BLDG]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1638</Code>
+<Text>HDBE-Humans, Disasters, and th</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>042E</Code>
+<Text>HAZARD AND DISASTER RESPONSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9264</Code>
+<Text>RESEARCH INITIATION AWARD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~155960</FUND_OBLG>
+</Award>
+</rootTag>

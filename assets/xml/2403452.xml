@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CIF: Medium:Data Manifolds and Local Geometry in Deep Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>664000.00</AwardTotalIntnAmount>
+<AwardAmount>455058</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alfred Hero</SignBlockName>
+<PO_EMAI>ahero@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Over the last decade, machine learning (ML) and artificial intelligence (AI) have often been in the news, thanks to striking achievements in areas such as self-driving cars and AI-enabled chat services. Much of the progress that has led to these breakthroughs can be attributed to the development of deep learning methods (deep neural networks). While these methods have developed very quickly to address a large number of tasks, training them often involves manual tuning and requires enormous amounts of data, resulting in significant costs, including both manpower and power consumption. More sustainable, lower-cost approaches for developing and deploying complex ML and AI systems are needed to ensure that these methods can be widely deployed to accelerate scientific progress and benefit society. For this purpose, it is important to develop a better understanding of why and how certain neural networks outperform others. This is critical for faster prototyping, reduced training times, lower complexity, and better interpretability of deep learning models.  The investigators will test their methods through external collaborations and they plan to develop multiple activities to broaden participation in computing, including new course development, REU programs, and K-12 activities. &lt;br/&gt;&lt;br/&gt;This project focuses on developing techniques for a mathematical understanding of deep learning intrinsic to the given task and data being considered. In this project, neural networks are viewed as operators whose behavior is characterized in terms of their action on the training (or testing) data and, more specifically, on the geometry of the data. One major benefit of this approach is that it can be applied to a wide variety of networks since it abstracts the architecture and considers only how a specific system converts inputs into outputs. This project has three main research objectives. First,  when both the model and data are fixed, the goal is to compare different networks and understand how they learn and generalize to unseen data. Second, this project investigates the situation where the data is fixed, but the network model can change. This work focuses on clustering, dimensionality reduction, and importance sampling to reduce the size of the model. Finally, the geometric analysis developed in this project is applied in settings where both the model and data change. This makes analyzing domain adaptation and graph neural network transfer possible, providing efficient algorithms and generalization error guarantees.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403452</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Cloninger</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander Cloninger</PI_FULL_NAME>
+<EmailAddress><![CDATA[acloninger@ucsd.edu]]></EmailAddress>
+<NSF_ID>000655694</NSF_ID>
+<StartDate>06/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gal</FirstName>
+<LastName>Mishne</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gal Mishne</PI_FULL_NAME>
+<EmailAddress><![CDATA[gmishne@ucsd.edu]]></EmailAddress>
+<NSF_ID>000795102</NSF_ID>
+<StartDate>06/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress><![CDATA[9500 GILMAN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930021</ZipCode>
+<StreetAddress><![CDATA[9500 GILMAN DRIVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779700</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7936</Code>
+<Text>SIGNAL PROCESSING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~455058</FUND_OBLG>
+</Award>
+</rootTag>

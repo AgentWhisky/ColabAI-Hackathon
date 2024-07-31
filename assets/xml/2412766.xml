@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Emergence of Heterogeneity in Bacteria During Antibiotic Responses]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>540000.00</AwardTotalIntnAmount>
+<AwardAmount>204000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Krastan Blagoev</SignBlockName>
+<PO_EMAI>kblagoev@nsf.gov</PO_EMAI>
+<PO_PHON>7032924666</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Microbial populations are highly heterogeneous, with different phenotypes emerging even among cells that are genetically identical. This coexistence of cells with different attributes is an important aspect of microbial ecology, conferring resilience and adaptability to microbial populations. Remarkably, the emergence of heterogeneity does not necessarily depend on complex cellular mechanisms, but can instead be achieved through fundamental physical and biological processes that are common to all microbes. Yet, despite our broad understanding of microbial physiology, we still lack a framework to connect the molecular processes happening at the cellular scale to the complex behaviors we observe in microbial communities. The goal of this award is to understand the role of two general features of microbial populations in generating phenotypic diversity: noise in gene expression and spatial variations across microbial colonies. Using antibiotic responses in bacteria as a model system, this project will investigate how these features affect responses in single cells, providing a mechanism for the emergence of complex collective behaviors such as increased antibiotic resistance and “memory” from past events. These studies advance basic research by laying a foundation for future investigations into how complex environments mediate microbial evolution, as well as developing state-of-the-art experimental and computational methods, ultimately leading to a framework to predict the behavior of microbial populations that will guide the development of synthetic systems for biotechnology applications.&lt;br/&gt;&lt;br/&gt;With support from the National Science Foundation, this research project aims to investigate the hypothesis that the interplay between drug action, gene regulation and cell metabolism determines phenotypic diversity and collective behavior in microbial populations during antibiotic responses. To overcome difficulties in studying cell responses across multiple scales, this approach combines microfluidic experiments to image single bacterial cells and biofilm-like colonies with liquid-culture experiments to measure growth in large planktonic populations. These experiments will be leveraged to develop physical models of the dynamics of antibiotic responses. The research plan will answer two questions: 1) How do stochastic fluctuations generate phenotypic diversity? Here, the investigators will develop a theory to understand how metabolism-mediated feedback mechanisms amplify stochastic variations to generate phenotypic variability in a predictable manner. These results will describe the nature and stability of these different phenotypes and connect single-cell heterogeneity to population-level growth. 2) How are collective responses coordinated among different phenotypes in spatially structured microbial colonies? Here, the investigators will develop a theory to understand the contribution of spatial structure to the collective mechanisms of resistance provided by organization into biofilms. Together, these aims will elucidate how heterogeneity emerges in microbial populations and how it gives rise to complex behaviors at the population level. This award also places an emphasis on diversity, equity, and inclusion. The project includes the development of a summer research program for underrepresented minorities, who will attend tutorials and perform research directly related to this award.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Physics of Living Systems and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412766</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Schultz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel Schultz</PI_FULL_NAME>
+<EmailAddress><![CDATA[daniel.schultz@dartmouth.edu]]></EmailAddress>
+<NSF_ID>000860528</NSF_ID>
+<StartDate>06/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Dartmouth College]]></Name>
+<CityName>HANOVER</CityName>
+<ZipCode>037552170</ZipCode>
+<PhoneNumber>6036463007</PhoneNumber>
+<StreetAddress><![CDATA[7 LEBANON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<StateCode>NH</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NH02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EB8ASJBCFER9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF DARTMOUTH COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>T4MWFG59C6R3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Dartmouth College]]></Name>
+<CityName>HANOVER</CityName>
+<StateCode>NH</StateCode>
+<ZipCode>037552170</ZipCode>
+<StreetAddress><![CDATA[7 LEBANON ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NH02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~204000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Understanding the effects of solvents on the adsorption energies of prototypical reactants on catalyst surfaces]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>211477.00</AwardTotalIntnAmount>
+<AwardAmount>211477</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert McCabe</SignBlockName>
+<PO_EMAI>rmccabe@nsf.gov</PO_EMAI>
+<PO_PHON>7032924826</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The design of new, more active, and selective catalysts is vital for creating cleaner, more sustainable chemical processes with wide-ranging applications, including renewable energy and chemical syntheses. A typical catalytic process includes multiple elementary steps involving many surface-bound intermediates and transition states. The energetics of these intermediates and transition states are crucial, as they determine the rate and selectivity of the catalysts, yet accurate energies are only available for a few key intermediates on metals. The project will use Single Crystal Adsorption Calorimetry (SCAC) to directly measure the heat of adsorption and co-adsorption with solvents on clean single-crystal surfaces in an ultrahigh vacuum. Graduate students and postdocs involved in this project will benefit from the learning and professional environment at PNNL. Microcalorimetry will also be integrated into a mini research project for high school students attending Summer Experience in Science and Engineering for Youth at Oregon State University.&lt;br/&gt;&lt;br/&gt;SCAC provides the only way to measure the heat of adsorption for irreversible events like dissociative adsorption, which are crucial for producing adsorbed molecular fragments ubiquitous in catalytic mechanisms (e.g., -OH, -CH3, -OCH3, -OOCH) and part of the project. These measurements will also expand to include metal oxides (e.g., FeO/Pt(111). The adsorbate energies gained from these studies will provide fundamental information about the effects of solvents on the binding of reaction intermediates. They will further serve as benchmarks for more accurate theoretical predictions of adsorption energies and effects of solvent on their values, improving predictability and enabling computational catalysis design.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415041</AwardID>
+<Investigator>
+<FirstName>Zdenek</FirstName>
+<LastName>Dohnalek</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zdenek Dohnalek</PI_FULL_NAME>
+<EmailAddress><![CDATA[zdenek.dohnalek@wsu.edu]]></EmailAddress>
+<NSF_ID>000989591</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Washington State University]]></Name>
+<CityName>PULLMAN</CityName>
+<ZipCode>991640001</ZipCode>
+<PhoneNumber>5093359661</PhoneNumber>
+<StreetAddress><![CDATA[240 FRENCH ADMINISTRATION BLDG]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XRJSGX384TD6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WASHINGTON STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Washington State University]]></Name>
+<CityName>Richland</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>993520999</ZipCode>
+<StreetAddress><![CDATA[PO Box 999]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>140100</Code>
+<Text>Catalysis</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~211477</FUND_OBLG>
+</Award>
+</rootTag>

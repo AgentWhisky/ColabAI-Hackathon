@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Curvature, Metric Geometry and Topology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>142565.00</AwardTotalIntnAmount>
+<AwardAmount>142565</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Qun Li</SignBlockName>
+<PO_EMAI>qli@nsf.gov</PO_EMAI>
+<PO_PHON>7032927465</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The PI’s focus is the study of objects in dimensions higher than three that admit positive or non-negative curvature.  Intuitively one may think of positive curvature in the following manner: On the surface of Earth any two longitudes from the North pole appear to bend towards each other and indeed they meet at the South pole. This is true of all points on Earth if we imagine longitudes emanating from each point. Because of this, we say that the surface of Earth has positive curvature everywhere. By the same token, a saddle has negative curvature at the point where the rider sits while a flat table has zero curvature. In higher dimensions, matters are far less visually apparent. One deals almost exclusively with equations and sophisticated geometrical techniques that describe the curvature of manifolds, a term that refers to objects that, roughly speaking, have no sharp edges. Manifolds of bounded size are called compact manifolds.  One of the great mysteries in the study of positive or non-negative curvature is the dearth of examples. The techniques at hand are few and the number of known examples remains relatively small.  In this project the PI aims to study positively and non-negatively curved manifolds with proposed new methods of construction. The project also presents several broader impact activities including outreach, inclusivity, and undergraduate research.&lt;br/&gt; &lt;br/&gt; &lt;br/&gt;The study of manifolds with positive or non-negative sectional curvature has a long history with roots as far back as Felix Klein in the late nineteenth century.  The PI's work for many years has been to try and construct new examples while attempting to prove rigidity theorems in the presence of additional hypotheses.  Complete manifolds of non-negative sectional curvature fall into two broad categories: compact and non-compact. In the non-compact case we have the beautiful Soul theorem of Cheeger and Gromoll:  A complete, non-compact manifold with non-negative sectional curvature is diffeomorphic to a vector bundle over a closed, totally convex submanifold.  In the compact case, Gromov's theorem restricts the topology sharply:  The total Betti number is bounded by a constant depending only on the dimension.  Beyond these theorems the question remains: which closed manifolds admit metrics of non-negative sectional curvature?  In this project the PI continues their recently successful research program on constructing new manifolds with non-negative curvature as well as a new proposed method for constructing positive curvature.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411029</AwardID>
+<Investigator>
+<FirstName>Krishnan</FirstName>
+<LastName>Shankar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Krishnan Shankar</PI_FULL_NAME>
+<EmailAddress><![CDATA[shankakx@jmu.edu]]></EmailAddress>
+<NSF_ID>000433726</NSF_ID>
+<StartDate>06/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[James Madison University]]></Name>
+<CityName>HARRISONBURG</CityName>
+<ZipCode>228013104</ZipCode>
+<PhoneNumber>5405686872</PhoneNumber>
+<StreetAddress><![CDATA[800 S MAIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MVTKSCN6NMH3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>JAMES MADISON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U2B3MYZP5L43</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[James Madison University]]></Name>
+<CityName>HARRISONBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>228013104</ZipCode>
+<StreetAddress><![CDATA[800 S MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126500</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~142565</FUND_OBLG>
+</Award>
+</rootTag>

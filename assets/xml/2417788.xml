@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Feedback Controlled Assembly of Colloidal Precursors into Low-Defect Membranes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>380000.00</AwardTotalIntnAmount>
+<AwardAmount>380000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shahab Shojaei-Zadeh</SignBlockName>
+<PO_EMAI>sshojaei@nsf.gov</PO_EMAI>
+<PO_PHON>7032928045</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Thin membranes with well-defined pore orientations and without any defects are essential to separating critical chemicals for numerous essential technologies involving catalysis, batteries, solar cells, sensors, etc. However, limited capabilities for large-scale manufacturing of low-defect membranes remains a critical barrier, and the best fabrication methods are often material specific. In this project, methods will be developed to enable feedback control over electric field mediated assembly of supported membranes from porous particles of different shapes and materials. A central hypothesis is that electric fields can control interactions in essentially all particulate materials and that such fields can be used to fabricate low-defect membranes for a diverse range of applications. Key questions to be addressed include understanding how particle size, shape, internal pore structure, and chemistries together determine how electric fields interact with different materials. Alternatively, how these interactions can be tuned to guide the scalable manufacturing of low-defect supported membranes. Broader impact activities include educating a diverse and inclusive multidisciplinary workforce as well as outreach to underrepresented groups in Baltimore through classroom and laboratory modules involving microscopy and computational research visuals.&lt;br/&gt;&lt;br/&gt;The research plan in this project includes a series of connected aims to both gain fundamental understanding of different precursor particle interactions in electric fields and enable feedback control of rapid microstructure evolution toward low-defect membrane structures. The aims are to: (1) (learn potentials) measure and model dipolar interactions of different porous precursor particles in nonuniform AC electric fields, to understand how material properties together with size and shape control particle positions, orientations, and packing on surfaces, (2) (learn dynamics) measure and model diffusive particle and defect dynamics in liquid, liquid crystal, and crystal states for fixed fields and dynamic structure evolution between states with field changes, and (3) (learn control) implement feedback control with optimal policies to achieve in minimum time low-defect supported membrane structures from different shaped precursor particles. Achieving these aims will provide fundamental rules for tuning field mediated interactions and a material agnostic approach to assemble low-defect membranes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417788</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Bevan</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael A Bevan</PI_FULL_NAME>
+<EmailAddress><![CDATA[mabevan@jhu.edu]]></EmailAddress>
+<NSF_ID>000217237</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212182608</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTMTDMBR29C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE JOHNS HOPKINS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212182608</ZipCode>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>141500</Code>
+<Text>PMP-Particul&amp;MultiphaseProcess</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~380000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CSR: Medium: Fortuna: Characterizing and Harnessing Performance Variability in Accelerator-rich Clusters]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>333105.00</AwardTotalIntnAmount>
+<AwardAmount>221316</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniel Andresen</SignBlockName>
+<PO_EMAI>dandrese@nsf.gov</PO_EMAI>
+<PO_PHON>7032922177</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Large computing clusters, including data centers and supercomputers, are used for a variety of applications including scientific computations and machine learning. Modern compute clusters typically use specialized accelerator hardware to speed up computations. Operators of accelerator-rich clusters aim to have high resource utilization across all users of the cluster. However, these systems are often under-utilized due to performance variability across accelerators; that is, application performance varies across accelerators even when the same application is run on the same type of accelerator. This proposal will develop Fortuna, a set of tools that can be used by cluster operators and researchers to characterize and harness variability across accelerators. First, Fortuna will use new methodologies to characterize how much performance variability exists across a wide range of accelerator hardware. Second, Fortuna will identify which applications are more likely to suffer from performance variability. Finally, Fortuna will include new scheduling mechanisms that can use variability measurements and knowledge about applications to improve utilization.&lt;br/&gt;&lt;br/&gt;Broader impacts of the proposed research include open-source implementations of algorithms and tools, which will be applicable to many large-scale clusters and lay the groundwork for wider industry adoption. The project will also create course modules on system design principles with heterogeneous hardware and software, based on the tools developed as a part of the proposal. This will teach the next generation of students how to design hardware and software to improve utilization of future systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/30/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401244</AwardID>
+<Investigator>
+<FirstName>Zhao</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhao Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[zhao.zhang@rutgers.edu]]></EmailAddress>
+<NSF_ID>000746656</NSF_ID>
+<StartDate>01/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>NEW BRUNSWICK</CityName>
+<ZipCode>089018559</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>3 RUTGERS PLZ</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1LVPE5GLSD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>NEW BRUNSWICK</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>089018559</ZipCode>
+<StreetAddress><![CDATA[3 RUTGERS PLZ]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~221316</FUND_OBLG>
+</Award>
+</rootTag>

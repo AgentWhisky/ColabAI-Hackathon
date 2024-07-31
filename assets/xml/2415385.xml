@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-meitY: Machine Learning Guided 3D Printing of Self-Healing Sustainable Concrete from Waste Materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>499999.00</AwardTotalIntnAmount>
+<AwardAmount>499999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Hamilton</SignBlockName>
+<PO_EMAI>bhamilto@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Concrete is the most common construction material used worldwide, with the primary constituent being ordinary Portland cement (OPC). Yet processing of OPC accounts for ~8% of human-caused global carbon emissions. Hence, reducing carbon emissions by designing sustainable concrete is a major goal of environmental and sustainability research. Countries across the globe have planned several steps to achieve carbon neutrality by the year 2050. The United Nations Environment Programme (UNEP) encourages the production of sustainable alternatives to decarbonize the construction sector. On the other hand, the disposal of household plastic waste is a significant challenge across the United States as well as across the globe. In the year 2018, about 35.7 million tons of plastic waste was produced in the United States. Hence, there is a need to develop an alternate strategy for repurposing plastic waste. Repurposing plastic waste and industrial waste for sustainable concrete development is well aligned environmental sustainability goals and this project is aimed in that direction. This project aims to not only enhance the scientific understanding and technological advancement of multifunctional sustainable concrete development using industrial and plastic waste with the help of 3D printing technology, and also is committed to training a diverse range of researchers and students.&lt;br/&gt;&lt;br/&gt;The objective of this project is to fabricate 3D-printed sustainable self-healing concrete with multifunctional properties using industrial and household waste materials such as spent foundry sand and polyethylene terephthalate (PET) based plastic bottle waste and marine organisms, such as algae. The project aims to develop a novel machine-learning (ML)--based algorithm during 3D printing that is expected to introduce autonomy in the machine. The first objective is to fabricate the 3D-printed self-healing sustainable concrete followed by a durability assessment. The resultant physical and mechanical properties of the concrete will be predicted using numerical simulations followed by experimental validation. The second objective is dedicated to fabricating multilayered 3D-printed structures with silk protein waste and algae. The utilization of silk waste during 3D printing will introduce thermal insulation and algae will be useful to convert CO2 to O2 in the presence of sunlight. Finally, a novel real-time machine learning algorithm will be developed to introduce autonomy in the 3D-printing process. Successful completion of this project is expected to contribute to advancing scientific understanding of the underlying mechanisms of sustainable concrete development with autonomous 3D printing along with prototype development.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415385</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Kaplan</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David L Kaplan</PI_FULL_NAME>
+<EmailAddress><![CDATA[david.kaplan@tufts.edu]]></EmailAddress>
+<NSF_ID>000162550</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Markus</FirstName>
+<LastName>Buehler</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Markus J Buehler</PI_FULL_NAME>
+<EmailAddress><![CDATA[mbuehler@MIT.EDU]]></EmailAddress>
+<NSF_ID>000326937</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Arjak</FirstName>
+<LastName>Bhattacharjee</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arjak Bhattacharjee</PI_FULL_NAME>
+<EmailAddress><![CDATA[arjak.bhattacharjee@nmt.edu]]></EmailAddress>
+<NSF_ID>000990563</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New Mexico Institute of Mining and Technology]]></Name>
+<CityName>SOCORRO</CityName>
+<ZipCode>878014681</ZipCode>
+<PhoneNumber>5758355496</PhoneNumber>
+<StreetAddress><![CDATA[801 LEROY PL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HZJ2JZUALWN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW MEXICO INSTITUTE OF MINING AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New Mexico Institute of Mining and Technology]]></Name>
+<CityName>SOCORRO</CityName>
+<StateCode>NM</StateCode>
+<ZipCode>878014681</ZipCode>
+<StreetAddress><![CDATA[801 LEROY PL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>764300</Code>
+<Text>EnvS-Environmtl Sustainability</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022Z</Code>
+<Text>International Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>120Z</Code>
+<Text>US-India Collaborative Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6194</Code>
+<Text>INDIA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~499999</FUND_OBLG>
+</Award>
+</rootTag>

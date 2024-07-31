@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-SNSF: ULTRA: Ubiquitous Large InTelligent ArRAys]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jenshan Lin</SignBlockName>
+<PO_EMAI>jenlin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927360</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The massive amount of available bandwidth at millimeter-wave (mm-wave) and terahertz (THz) frequencies is gaining increasing interest for next-generation communications and sensing systems. At these frequencies, multi-antenna transceiver (TRX) arrays are key in overcoming the high path-loss and boosting the signal-to-noise ratio, critical for maintaining robust communications. Unlike single-antenna systems, designing large multi-antenna arrays entails significant challenges due to (i) mismatches and non-idealities, and (ii) the large number of control parameters. Existing arrays mostly rely on look-up-tables (LUTs) and offline compensation. Such static solutions, however, can neither capture all possible operation modes nor provide real-time adaptivity to the propagation conditions and communications/sensing tasks. This collaborative research project with Swiss researchers at ETH Zürich will result in novel intelligent large-scale multi-antenna array architectures with highly reconfigurable 140 GHz frontends. Unlike today's systems that are blind to imbalances and mismatches in the array, or only make static corrections, employing detectors and adaptive array calibration/beamforming will result in an adaptive array, thus performing better as conditions evolve, and lowering the cost to calibrate a large array. The research will directly impact applications in beyond-5G and 6G communications, sub-mm-wave radar, and next-generation satellite/intersatellite links. To disseminate research results, the project will provide open access to the array models, array calibration/beamforming codes, and array demonstration measurements.&lt;br/&gt;&lt;br/&gt;The ULTRA (Ubiquitous Large inTelligent arRAys) project aims at addressing large-array design challenges with a holistic approach that jointly considers mm-wave electronics, antenna arrays, digital baseband processing, and calibration algorithms. The main objective is to design large and scalable array architectures at D-band 140GHz with intelligent calibration as well as adaptive in-field beamforming. The work is divided in several thrusts, including Analytical and Behavior Modeling of Non-idealities in Large Scalable Arrays, Designing Reconfigurable D-Band Frontends as Performance Tuning "Knobs", Designing Non-Intrusive D-Band Frontends Performance "Sensors", Blind Array Calibration and Beamforming Algorithms, and ULTRA 140-GHz Array System Integration and Demonstration. Both beam-independent non-idealities (e.g., phase/gain/power mismatches) and beam-dependent non-idealities (e.g., antenna coupling/crosstalk) will be modeled. For array antenna load compensation, a reconfigurable load-modulated-balanced-amplifier transmitter and a Marchand balun receiver with non-foster terminations will be investigated. D-band orthogonal phase/gain tuning blocks will also be explored. Non-intrusive in-situ real-power and impedance detectors will be used to detect antenna mismatches/coupling (beam-dependent non-idealities). Transmitter/receiver (TX/RX) loopbacks will measure gain/phase/power mismatches (beam-independent non-idealities) in array elements. Signal processing and machine learning algorithms for blind, on-the-fly array calibration and residual impairment compensation will be pursued. Digital beamforming methods that adapt their key parameters to the instantaneous channel conditions and calibration/beamforming algorithms will be implemented on field-programmable gate array (FPGA) prototyping boards to interface with the D-band TRX array for offline/online close-loop operation of the ULTRA system. This collaborative U.S.-Swiss project is supported by the U.S. National Science Foundation (NSF) and the Swiss National Science Foundation (SNSF), where NSF funds the U.S. investigator and SNSF funds the partners in Switzerland.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403511</AwardID>
+<Investigator>
+<FirstName>Ali</FirstName>
+<LastName>Niknejad</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ali M Niknejad</PI_FULL_NAME>
+<EmailAddress><![CDATA[niknejad@eecs.berkeley.edu]]></EmailAddress>
+<NSF_ID>000448979</NSF_ID>
+<StartDate>03/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>1608 4TH ST STE 201</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022Z</Code>
+<Text>International Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>105E</Code>
+<Text>RF/Microwave &amp; mm-wave tech</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>129Z</Code>
+<Text>U.S. NSF-Swiss Resrch Corp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5950</Code>
+<Text>SWITZERLAND</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~400000</FUND_OBLG>
+</Award>
+</rootTag>

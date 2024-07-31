@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SaTC: CORE: Small: U.S.-Ireland R&D Partnership: Detecting Heterogeneous Malware for Internet-of-Things Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>231490.00</AwardTotalIntnAmount>
+<AwardAmount>151946</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nan Zhang</SignBlockName>
+<PO_EMAI>nanzhang@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Internet of Things (IoT), encompassing devices such as medical equipment, autonomous vehicles, and industrial control units, is becoming integral to modern life and is expected to reach one trillion devices by 2035. Unfortunately, malware attacks on IoT systems are increasing rapidly, exemplified by incidents like the Mirai botnet and the Colonial pipeline attack. While significant research has explored malware detection for PCs and mobile devices, these methods are not suitable for IoT systems due to their diverse operating systems and low power. Current models also struggle against sophisticated attacks that aim to evade detection. To address these challenges, the project team is developing DANGER-IoT, an approach to IoT malware detection that works across heterogeneous platforms, is efficient for low-power devices, and robust against advanced attacks. The researchers are collaborating with industry experts to ensure the project's ideas work well in real-world settings and are creating open-source tools and datasets. Spread across four universities and three countries, this project is also impacting a diverse group of students through new courses, security competitions, and international exchanges.&lt;br/&gt;&lt;br/&gt;The DANGER-IoT project focuses on developing advanced machine-learning models for IoT malware detection. The first goal is to create a generic model that can detect malware across heterogeneous IoT platforms by constructing a common embedding space for similar functions across different operating systems and architectures. The project's second aim is to ensure efficiency for low-power devices by applying model compression techniques adapted from explainable AI and model pruning. To enhance robustness, the project will explore large-language models for code-style transfer, making malware appear benign to existing classifiers, and using the results to design a novel moving-target defense. By integrating multi-task learning, behavior classification, and a comprehensive IoT malware dataset, DANGER-IoT aims to provide a scalable detection approach, robust defenses, and significant contributions to the community through shared data, benchmarks, and tools.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/07/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/07/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2422242</AwardID>
+<Investigator>
+<FirstName>Ziming</FirstName>
+<LastName>Zhao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ziming Zhao</PI_FULL_NAME>
+<EmailAddress><![CDATA[zimingzh@buffalo.edu]]></EmailAddress>
+<NSF_ID>000710958</NSF_ID>
+<StartDate>06/07/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SUNY at Buffalo]]></Name>
+<CityName>AMHERST</CityName>
+<ZipCode>142282577</ZipCode>
+<PhoneNumber>7166452634</PhoneNumber>
+<StreetAddress><![CDATA[520 LEE ENTRANCE STE 211]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMCJKRFW5R81</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GMZUKXFDJMA9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Buffalo]]></Name>
+<CityName>AMHERST</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>142282577</ZipCode>
+<StreetAddress><![CDATA[520 LEE ENTRANCE STE 211]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>806000</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022Z</Code>
+<Text>International Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~151946</FUND_OBLG>
+</Award>
+</rootTag>

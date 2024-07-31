@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Historical Simulations of Greenland Ice-sheet Dynamics: The Imprint of Early Ice Loss on Recent and Future Change]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/15/2023</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>361775.00</AwardTotalIntnAmount>
+<AwardAmount>361775</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelly Brunt</SignBlockName>
+<PO_EMAI>kbrunt@nsf.gov</PO_EMAI>
+<PO_PHON>7032928457</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Ice loss from the Greenland Ice Sheet contributes to sea level rise and is projected to continue over the next century. Projections of future ice loss rely on models that simulate the dynamic response of the ice sheet to climate changes. A key challenge is calibrating models based on observations made in the last few decades, in part because ice dynamics adjust to climate changes over long timescales. Past climate therefore affects the modern state. This project will use a numerical ice-sheet model and long-term climate data to simulate Greenland ice-sheet changes since 1850, with a specific focus on the ice-sheet’s dynamic “memory” of climate over the past century. Ice loss concurrent with rapid warming is well documented in recent decades, but a period of rapid Arctic warming also occurred in the 1920s-1930s. Historical observations, where available, suggest that this triggered the retreat of many glaciers on the Greenland Ice Sheet, but their ongoing adjustment has not been thoroughly investigated. With simulations that fully encompass this period of early climate forcing, this project will provide further context for recent observations, and will provide insights that will aid in calibrating models for future projections. This project will also train two undergraduate students.&lt;br/&gt;&lt;br/&gt;The model simulations will encompass both the Greenland Ice Sheet as a whole, as well as case studies on several of its major outlet glaciers. Simulations will be forced with climate reanalysis products that extend over the industrial era, enabling a realistic treatment of short-term variability, including the rapid warming of the 1920s-1930s. The primary intended deliverable will be historical simulations that capture the major phases of mass loss suggested by long-term observations. Model output will be made publicly available to aid broader efforts to initialize simulations of future mass loss of the Greenland Ice Sheet. An additional deliverable will be a set of perturbed simulations designed to clarify leading physical controls on the glacier and ice-sheet evolution over this era. This will include assessing the relative impacts of climate variability and topographic boundary conditions, and the dynamic response that was committed by early-twentieth-century climate forcing. Together, the proposed model simulations will test theory and quantify the effects of early forcing, drawing new links between sparse glacier and climate observations from the pre-satellite era.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/28/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/28/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.078</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2422350</AwardID>
+<Investigator>
+<FirstName>John Erich</FirstName>
+<LastName>Christian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John Erich Christian</PI_FULL_NAME>
+<EmailAddress><![CDATA[jchr@uoregon.edu]]></EmailAddress>
+<NSF_ID>000922359</NSF_ID>
+<StartDate>03/28/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Oregon Eugene</Name>
+<CityName>EUGENE</CityName>
+<ZipCode>974031905</ZipCode>
+<PhoneNumber>5413465131</PhoneNumber>
+<StreetAddress>1776 E 13TH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z3FGN9MF92U2</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF OREGON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Z3FGN9MF92U2</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Oregon Eugene]]></Name>
+<CityName>EUGENE</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>974031657</ZipCode>
+<StreetAddress><![CDATA[1585 E 13TH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5280</Code>
+<Text>ANS-Arctic Natural Sciences</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1079</Code>
+<Text>ARCTIC RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5280</Code>
+<Text>ARCTIC NATURAL SCIENCES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5294</Code>
+<Text>USGCRP</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>0100CYXXDB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~361775</FUND_OBLG>
+</Award>
+</rootTag>

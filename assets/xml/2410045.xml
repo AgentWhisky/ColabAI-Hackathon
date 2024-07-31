@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Rational approximation for new structured methods in numerical linear algebra]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>227891.00</AwardTotalIntnAmount>
+<AwardAmount>227891</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ludmil T. Zikatanov</SignBlockName>
+<PO_EMAI>lzikatan@nsf.gov</PO_EMAI>
+<PO_PHON>7032922175</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This grant supports the development of extremely fast methods for large-scale computing with structured matrices that appear pervasively in applications such as imaging, control theory, and signal processing. The Investigator will leverage new ideas in rational approximation that explain the structures in these matrices and imply the possibility of superfast algorithms. The matrices of primary interest are those with special displacement structures, including Toeplitz, Vandermonde, Hankel, Cauchy, and Loewner matrices, as well as block variants of these matrices. Such matrices and related matrix equations are ubiquitous across the sciences, and improved algorithms are greatly needed to overcome computational bottlenecks that currently impede progress and limit the scale of investigable problems. Collaborating with domain experts, the Investigator will develop open-source software that solves these problems under broader assumptions and at larger scales than what is currently possible. In areas such as MRI imaging, geophysical imaging, Fourier imaging in astrophysics and scattering, and in climate modeling, these improvements will ultimately benefit the public with positive impacts on medical technologies and other technologies deployed in the interest of citizens.&lt;br/&gt;&lt;br/&gt;The goal and scope of the project is to advance scientific knowledge in two critical ways: (1) It will extend the applicability of rank-structured methods beyond what is currently possible and create new methods for working with rank-structured rectangular matrices. The solvers developed in this work are general and can be applied to any matrix with rectangular hierarchical structure. The work will develop general techniques for efficiently designing preconditioners, solving least squares and minimum norm problems, applying regularization, and solving constrained optimization problems that involve rectangular hierarchical matrices. It will inspire further research into both the design and application of direct methods in settings where previously they were too expensive or underdeveloped to consider. (2) This work tackles a collection of matrix families that lie at the heart of many applications. It supplies a new and general framework from which all of their compression properties can be theoretically understood. The foundation of that framework comes from rational approximation theory.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410045</AwardID>
+<Investigator>
+<FirstName>Heather</FirstName>
+<LastName>Wilber</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Heather D Wilber</PI_FULL_NAME>
+<EmailAddress><![CDATA[hdw27@uw.edu]]></EmailAddress>
+<NSF_ID>000840622</NSF_ID>
+<StartDate>06/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981951016</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress><![CDATA[4333 BROOKLYN AVE NE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WASHINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>SEATTLE</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981951016</ZipCode>
+<StreetAddress><![CDATA[4333 BROOKLYN AVE NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~227891</FUND_OBLG>
+</Award>
+</rootTag>

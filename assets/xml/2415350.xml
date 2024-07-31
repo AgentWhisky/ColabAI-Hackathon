@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Open Context: Sustaining a Collaborative Data Infrastructure for Archaeology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>270834.00</AwardTotalIntnAmount>
+<AwardAmount>270834</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Yellen</SignBlockName>
+<PO_EMAI>jyellen@nsf.gov</PO_EMAI>
+<PO_PHON>7032928759</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Data plays a key role in virtually every aspect of 21st century science. This project explores way of organizing and sharing archaeological research data to better address research questions about the human past, inform and educate the public, and align with ethical best practices. Open Context, launched in 2006, has emerged as a globally recognized platform for the review, curation, and publication of archaeological data documenting excavations, surveys, and collections research worldwide. With over two million records from 191 projects across 94 countries, including 173,000 images and illustrations, Open Context preserves invaluable archaeological contributions using open-source technologies and open standards. Data preservation is not merely a compliance issue; it involves significant ethical considerations, including cross-cultural intellectual property issues and conceptual challenges. Open Context places a strong emphasis on intellectual investment in data. It provides services that transform raw data into intelligible and useful information, ensuring their value and relevance to both scholars and the public. &lt;br/&gt;&lt;br/&gt;Archaeological knowledge grows by synthesizing evidence accumulated over many years of field research by many investigators. Open Context helps make this vast body of material more accessible and useful. This project sustains and enhances Open Contexts's data curation services to enable scientific data to be reused with greater confidence and to meet evolving archaeological research needs. The investigators make technical improvements to increase the scalability and performance of Open Context’s infrastructure and support for services that promote greater scientific confidence in the provenance and authenticity of data. Open Context’s editorial team curate and publish groups of thematically related archaeological datasets that have a high reuse potential to support new research on topics as diverse as ancient trade and exchange systems and multi-disciplinary approaches to understanding human environment interactions. This work champions ethically and contextually appropriate approaches to open access and open data and addresses critical needs in the preservation of cultural heritage data. Open Context data curation contributions see increasing demand and impacts as computational methods continue to evolve, especially as interest in artificial intelligence grows. This initiative ensures the platform's continued impact in both scholarly and public spheres while advancing interdisciplinary collaboration and innovations to make scientific data more valued and beneficial to diverse communities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415350</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Kansa</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric C Kansa</PI_FULL_NAME>
+<EmailAddress><![CDATA[kansaeric@gmail.com]]></EmailAddress>
+<NSF_ID>000452654</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sarah</FirstName>
+<LastName>Kansa</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sarah W Kansa</PI_FULL_NAME>
+<EmailAddress><![CDATA[sarahkansa@gmail.com]]></EmailAddress>
+<NSF_ID>000553872</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[The Alexandria Archive Institute]]></Name>
+<CityName>SAN FRANCISCO</CityName>
+<ZipCode>941272036</ZipCode>
+<PhoneNumber>4154257380</PhoneNumber>
+<StreetAddress><![CDATA[125 EL VERANO WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GJ2EJM2K5GD7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE ALEXANDRIA ARCHIVE INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Alexandria Archive Institute]]></Name>
+<CityName>SAN FRANCISCO</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>941272036</ZipCode>
+<StreetAddress><![CDATA[125 EL VERANO WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>139300</Code>
+<Text>ARCHAEOMETRY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1393</Code>
+<Text>ARCHAEOMETRY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~270834</FUND_OBLG>
+</Award>
+</rootTag>

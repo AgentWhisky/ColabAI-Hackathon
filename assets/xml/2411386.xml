@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Elements: VLCC-States: Versioned Lineage-Driven Checkpointing of Composable States]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marlon Pierce</SignBlockName>
+<PO_EMAI>mpierce@nsf.gov</PO_EMAI>
+<PO_PHON>7032927743</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Checkpointing is a fundamental pattern used by a variety of scientific applications at both small and large computing scales. Widely adopted for resilience purposes by long-running applications (i.e., checkpoint-restart), it has seen an explosion of additional use cases that directly help applications progress faster and reduce time-to-solution even in the absence of failures: adjoint computations (essential in financial modeling, weather prediction, computational fluid dynamics, seismic imaging, and control theory) need to capture a history of checkpoints in a forward pass, which are then revisited in a backward pass. Training artificial intelligence models, increasingly used by scientific applications, often results in trajectories that do not lead to convergence or may lead to undesirable patterns, prompting the need to backtrack to an earlier checkpoint of the learning model to try an alternative. Transfer learning and fine-tuning using a previous checkpoint of a learning model can be used to adapt the training more quickly, avoiding expensive training from scratch. Many other use cases are important in scientific computing: suspend-resume (e.g., to preempt a long-running job in favor of a higher priority job), migration (checkpoint on one machine, restart on another), debugging (replay a problematic code region to reproduce errors without starting from scratch), and reproducibility (checkpoint and compare intermediate data during repeated runs). Despite broad applicability, current state-of-the-art solutions lack the flexibility, performance, and scalability needed to address these scenarios efficiently. The Versioned Lineage-Driven Checkpointing of Composable States (VLCC-States) project aims to fill this gap. It will streamline the development and use of checkpointing patterns for scientific applications, which simplifies and improves the reusability of integration efforts across different communities, improves awareness of the multitude of checkpointing scenarios, reduces development effort and cost, and enables flexible customization to extract the best performance and scalability for the desired application scenario.&lt;br/&gt;&lt;br/&gt;VLCC-States provides technical innovation in three areas. First, it introduces composable providers of intermediate states, which hide the complexity of capturing and assembling checkpoints of distributed data structures and their transformations across different modules and programming languages while optimizing their layout to eliminate redundancies, reduce sizes, and improve performance. Second, it provides multi-level co-optimized caching and prefetching techniques, which enable scalable management of the life cycle of checkpoints for interleavings of capture and reuse operations on heterogeneous storage stacks under concurrency. Third, it develops specialized checkpointing tools for large Artificial Intelligence models, with a focus on integration with PyTorch and DeepSpeed, to enable users to transparently take advantage of high-performance and scalable checkpointing using a familiar API. This project will engage partners in industry and national research laboratories to co-design VLCC-States, tune its capabilities, and evaluate its implementation. This project will undertake educational and broadening participation activities to improve community awareness and understanding of challenges in scientific data management.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/30/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411386</AwardID>
+<Investigator>
+<FirstName>Bogdan</FirstName>
+<LastName>Nicolae</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bogdan F Nicolae</PI_FULL_NAME>
+<EmailAddress><![CDATA[bogdan.nicolae@acm.org]]></EmailAddress>
+<NSF_ID>000795836</NSF_ID>
+<StartDate>04/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUE9HKT2CLC9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ZUE9HKT2CLC9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606375418</ZipCode>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>800400</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: The causes and consequences of Higher Order Interactions (HOI)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>729936.00</AwardTotalIntnAmount>
+<AwardAmount>729936</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jodie Jawor</SignBlockName>
+<PO_EMAI>jjawor@nsf.gov</PO_EMAI>
+<PO_PHON>7032927887</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Public health and bioeconomics are two examples of fields that can benefit from the funded work. By developing a framework to study higher order interactions, i.e., simultaneous interactions, the funded work will provide novel tools to analyze complex systems. The COVID-19 pandemic was challenging to control because people could catch the disease from accumulating many short exposures to multiple infected people, i.e., from higher order interactions, which are rarely considered in epidemiological models. Similarly, the efficient transfer of goods was another casualty of the pandemic due to supply-chain disruptions. Higher order interactions, in which goods are exchanged simultaneously, can substantially expedite the transfer of goods and increase the robustness and resilience of supply-chains to disruptions. The general framework that will be developed in this grant will use a tractable biological system to develop mathematical tools to study the causes and consequences of higher order interactions. The mathematical models and tools developed will be general, to allow application to other systems, such as communication, disease transmission, and social learning. The work will be published in general journals with a wide interdisciplinary readership and the analysis code will be made publicly available. Both PIs have a strong track record of recruiting and facilitating the success of students from groups that are unrepresented in the sciences and this commitment to mentoring a diverse population of trainees in interdisciplinary work will continue. To further disseminate the work to the general public, podcast episodes will be produced and distributed widely.&lt;br/&gt;&lt;br/&gt;Collective outcomes, such as the social behavior of animals, emerge from interactions among system components. While substantial work has been devoted to examining the intricate network of interactions among animals, these interactions are described and analyzed as dyadic events. However, multiple individuals can interact simultaneously. For example, an alarm call is broadcast to multiple individuals at once rather than through multiple one-on-one interactions. Despite the important conceptual and functional differences between dyadic and higher order interactions, there are only few methodological approaches that emphasize the higher order nature of social interactions. The proposed work will examine the causes and consequences of higher order interactions, and the feedback between them, by adapting and implementing existing mathematical tools from algebraic topology, simplicial sets, in novel ways. Specifically, the aims include to determine the conditions under which higher order interactions emerge; to examine the consequences of higher order interactions; and to investigate feedback between causes and consequences of higher order interactions to uncover potential evolutionary pathways for their emergence. Social insects are an especially powerful system for examining the questions in the proposal because of the profound fitness consequences of interactions among individuals for the group. Therefore, the proposed work will use foraging and food transmission of Argentine ants (Linepithema humile) as a model system to examine the internal and external causes and consequences of higher order interactions. Project outcomes will enable innovative approaches to fundamental and generalizable questions which are currently beyond our reach.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414383</AwardID>
+<Investigator>
+<FirstName>Nina</FirstName>
+<LastName>Fefferman</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nina H Fefferman</PI_FULL_NAME>
+<EmailAddress><![CDATA[nfefferm@utk.edu]]></EmailAddress>
+<NSF_ID>000203710</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960001</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress><![CDATA[201 ANDY HOLT TOWER]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FN2YCS2YAUW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TENNESSEE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>LXG4F9K8YZK5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>KNOXVILLE</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>379960001</ZipCode>
+<StreetAddress><![CDATA[201 ANDY HOLT TOWER]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>765900</Code>
+<Text>Animal Behavior</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~729936</FUND_OBLG>
+</Award>
+</rootTag>

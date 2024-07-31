@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[US-UK Collab: A spatially-explicit model of bat evolution and pathogen transmission dynamics in complex changing landscapes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>2712841.00</AwardTotalIntnAmount>
+<AwardAmount>2712841</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samuel Scheiner</SignBlockName>
+<PO_EMAI>sscheine@nsf.gov</PO_EMAI>
+<PO_PHON>7032927175</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will study bats, a diverse group of organisms that play an important role in ecosystems, and how they are adapting to the disease, white-nose syndrome. Infectious disease is a natural phenomenon affecting wildlife populations. However, globalization and rapid environmental changes, such as land use and climate change, can worsen the impact of diseases on wildlife populations and increase the likelihood of spillover to humans. Thus, scientists are faced with the important challenge of understanding and accurately predicting future disease spread in a rapidly changing world. White-nose syndrome has caused severe declines in the number of bats in North America since 2006. Previous studies have found that some bats have a genetic makeup that helps them survive diseases, such as white-nose syndrome, while other bats can have genes that help them adapt to changing climates. To accomplish the project goals, in collaboration with researchers in the United Kingdom, a new computer model will be developed to forecast how bats move across large landscapes along with how key genes contribute to a population’s ability to adapt to threats from both disease and climate. The project will result in the training of a diverse population of undergraduates, graduate students, and post-doctoral scholars. In addition, results will be disseminated online, including creating educational outreach activities with a particular focus on underrepresented learners from all ages in rural communities of the USA.&lt;br/&gt;&lt;br/&gt;The primary aims of this project are (1) to study three species of North American bats (Myotis lucifugus, Perimyotis subflavus, Eptesicus fuscus) affected by white-nose syndrome to understand how they adapt to changes in climate and disease threats, and (2) to develop a new disease modeling framework that simultaneously incorporates wildlife movement and connectivity with genetic processes over time by adding a flexible compartmental SIR-type model to an established spatially explicit, individual-based, eco-evolutionary model of metapopulation dynamics. The model will be developed from data from eight states stretching from Texas to Wisconsin to New England. Accomplishing these goals together will help generate more precise forecasts regarding the future of disease transmission within wildlife populations and between wildlife and humans. This project will yield not only scientific advances for host-disease systems, but also provide research-informed wildlife health planning maps to help locate important populations that are able to resist and tolerate disease while coping with climate shifts. To help achieve these goals, the project will engage a diverse set of conservation managers, scientists, and researchers across wildlife biology, disease ecology, bioinformatics, computational ecology, population health, and conservation biology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074, 47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407848</AwardID>
+<Investigator>
+<FirstName>Erin</FirstName>
+<LastName>Landguth</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Erin L Landguth</PI_FULL_NAME>
+<EmailAddress><![CDATA[erin.landguth@mso.umt.edu]]></EmailAddress>
+<NSF_ID>000082188</NSF_ID>
+<StartDate>06/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Julie</FirstName>
+<LastName>Weckworth</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Julie B Weckworth</PI_FULL_NAME>
+<EmailAddress><![CDATA[julie.weckworth@mso.umt.edu]]></EmailAddress>
+<NSF_ID>000552902</NSF_ID>
+<StartDate>06/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Casey</FirstName>
+<LastName>Day</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Casey Day</PI_FULL_NAME>
+<EmailAddress><![CDATA[casey.day@mso.umt.edu]]></EmailAddress>
+<NSF_ID>000681354</NSF_ID>
+<StartDate>06/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Montana]]></Name>
+<CityName>MISSOULA</CityName>
+<ZipCode>598120003</ZipCode>
+<PhoneNumber>4062436670</PhoneNumber>
+<StreetAddress><![CDATA[32 CAMPUS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DAY7Z8ZD48Q3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MONTANA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Montana]]></Name>
+<CityName>MISSOULA</CityName>
+<StateCode>MT</StateCode>
+<ZipCode>598120003</ZipCode>
+<StreetAddress><![CDATA[32 CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>724200</Code>
+<Text>Ecology of Infectious Diseases</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~2712841</FUND_OBLG>
+</Award>
+</rootTag>

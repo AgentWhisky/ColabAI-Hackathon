@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A Process-Level Understanding of Mesoscale Convective Processes over the Congo Basin Using the Model for Prediction Across Scales (MPAS)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>473998.00</AwardTotalIntnAmount>
+<AwardAmount>144919</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chungu Lu</SignBlockName>
+<PO_EMAI>clu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927110</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Congo Basin, located in Central Africa, occupies only 10% of Africa’s landmass, but hosts one of the largest global terrestrial rainfall centers. Rainfall in the basin, supplying 30% of the continent’s water resources, is vital for agriculture, river passages, socio-economy, and human well-being in central sub-Saharan Africa, as well as for the sustainability of the world’s second-largest rainforest. Mesoscale convective systems (MCSs), which produce large thunderstorms of tens to hundreds of kilometers wide, over the Congo Basin account for more than 80% of the total rainfall, much higher than their contribution to rainfall over other tropical regions.&lt;br/&gt;&lt;br/&gt;Of all the tropical regions, the Congo Basin stands out as the least studied in the meteorological research, largely due to sparse in-situ observations. Yet, the existing studies have shown that MCSs over the Congo Basin exhibit distinct relationship with large-scale thermodynamic and dynamic meteorological conditions not seen in other tropical regions. These features challenge the understanding of the mechanisms controlling MCSs over the Congo Basin. A few available studies have evaluated MCSs over this region from a climate perspective. However, there remain major knowledge gaps in understanding physical and dynamic mechanisms governing Congo Basin MCSs, especially on the weather time scale. This project, for the first time, use one of the state-of-the-art global cloud-resolving models, namely, the Model for Prediction Across Scales, to simulate MCSs over the Congo Basin and understand their initiation, development, and propagation at the process level and connections to environmental factors. The valuable insights gained from this research will be shared in general undergraduate courses and public outreach efforts, ultimately bolstering our capacity to understand the behavior of MCSs, their impacts on weather extremes, and so hazards that are closely related to socio-economy and human well-being.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/07/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/07/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404970</AwardID>
+<Investigator>
+<FirstName>Rong</FirstName>
+<LastName>Fu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rong Fu</PI_FULL_NAME>
+<EmailAddress><![CDATA[rfu@atmos.ucla.edu]]></EmailAddress>
+<NSF_ID>000525242</NSF_ID>
+<StartDate>05/07/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Siyu</FirstName>
+<LastName>Zhao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Siyu Zhao</PI_FULL_NAME>
+<EmailAddress><![CDATA[siyu_zhao@atmos.ucla.edu]]></EmailAddress>
+<NSF_ID>000870581</NSF_ID>
+<StartDate>05/07/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900244200</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress><![CDATA[10889 WILSHIRE BLVD STE 700]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA36</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RN64EPNH8JC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900951406</ZipCode>
+<StreetAddress><![CDATA[10889 WILSHIRE BLVD STE 700]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152500</Code>
+<Text>Physical &amp; Dynamic Meteorology</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~144919</FUND_OBLG>
+</Award>
+</rootTag>

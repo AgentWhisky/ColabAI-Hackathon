@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[High-Fidelity Lattice Systems of Ultracold Dipolar Molecules]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>864117.00</AwardTotalIntnAmount>
+<AwardAmount>214419</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mark K. Beck</SignBlockName>
+<PO_EMAI>mkbeck@nsf.gov</PO_EMAI>
+<PO_PHON>7032922983</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Some of the most intriguing quantum phenomena, such as high-temperature superconductivity and quantum magnetism, arise in materials where quantum particles interact over relatively long distances. Both high-temperature superconductivity – the property of certain materials to carry electrical power without loss – and quantum magnetism promise to revolutionize technology, from efficient energy distribution, new kinds of electronics, to quantum computing. However, the physical processes behind these phenomena are not well understood, hampering the targeted design of quantum materials for uses in tomorrow’s technology.  In this research program the PI and his team will develop an experimental simulation system to help elucidating physical processes behind superconductivity and quantum magnetism. The new quantum simulator will rely on ultracold polar molecules that interact via long-range dipole-dipole interactions - akin to the long-range interactions between bar magnets, but in a quantum context. Having recently created the first Bose-Einstein condensate (BEC) of polar molecules, the research team has demonstrated the unique capability to prepare molecules deep in the quantum regime at temperatures of just a few billionth of a degree above absolute zero. By confining the polar molecules in optical lattices, artificial crystals made of laser light, the research team will carefully coax molecular systems to create and investigate new states of quantum matter. The research will be carried out by a diverse team of undergraduate students, graduate students, and postdocs. The students and postdocs will receive in-depth STEM education at the cutting edge of quantum science and technology, conveying the perspective that it is not only possible to observe quantum phenomena, but also to build complex quantum systems from bottom up. The project will help growing a uniquely skilled workforce, poised to develop technologies of the future. The team will also make broad efforts to widely disseminate the results in teaching and outreach activities, with a special emphasis on supporting URM students and broadening participation in STEM. &lt;br/&gt;&lt;br/&gt;Specifically, the PI and graduate students will realize high-fidelity lattice systems of ultracold dipolar molecules to unlock new possibilities for many-body quantum physics, quantum simulation, and quantum computing. Starting from a BEC of sodium-cesium molecules, the PI and the research team will prepare polar molecules in optical lattices with a controlled filling, including unity filling. This setup will enable the realization and investigation of extended Hubbard models and models for quantum magnetism in parameter regimes that have not been accessible with other approaches. Molecular BECs and their ability to realize highly controlled systems of strongly dipolar quantum matter promise important insights into the principles of self-organization of matter.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409747</AwardID>
+<Investigator>
+<FirstName>Sebastian</FirstName>
+<LastName>Will</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sebastian Will</PI_FULL_NAME>
+<EmailAddress><![CDATA[sw3151@columbia.edu]]></EmailAddress>
+<NSF_ID>000734301</NSF_ID>
+<StartDate>07/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100277922</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress><![CDATA[615 W 131ST ST]]></StreetAddress>
+<StreetAddress2><![CDATA[MC 8741]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100276624</ZipCode>
+<StreetAddress><![CDATA[923 Schapiro, Room 9LW1]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124100</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~214419</FUND_OBLG>
+</Award>
+</rootTag>

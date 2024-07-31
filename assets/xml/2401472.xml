@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Spheres of Influence:  Arithmetic Geometry and Chromatic Homotopy Theory]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>340000.00</AwardTotalIntnAmount>
+<AwardAmount>82195</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Adriana Salerno</SignBlockName>
+<PO_EMAI>asalerno@nsf.gov</PO_EMAI>
+<PO_PHON>7032922271</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The principal investigator plans to build a bridge between two areas of mathematics:  number theory and topology.  Number theory is an ancient branch of mathematics concerned with the whole numbers and primes.  Some basic results in number theory are the infinitude of primes and the formula which gives all the Pythagorean triples.  Topology is the study of shapes, but one doesn't remember details like length and angles;  the surfaces of a donut and a coffee mug are famously indistinguishable to a topologist.  An overarching theme in topology is to invent invariants to distinguish among shapes.  For instance, a pair of pants is different from a straw because "number of holes" is an invariant which assigns different values to them (2 and 1 respectively, but one has to be precise about what a hole is).  The notion of "hole" can be generalized to higher dimensions:  a sphere has no 1-dimensional hole, but it does have a 2-dimensional hole and even a 3-dimensional hole (known as the Hopf fibration, discovered in 1931).  There are "spheres" in every dimension, and the determination of how many holes each one has is a major unsolved problem in topology.  Lately, the topologists' methods have encroached into the domain of number theory.  In particular the branch of number theory known as p-adic geometry, involving strange number systems allowing for decimal places going off infinitely far to the left, has made an appearance.  The principal investigator will draw upon his expertise in p-adic geometry to make contributions to the counting-holes-in-spheres problem.  He will also organize conferences and workshops with the intent of drawing together number theorists and topologists together, as currently these two realms are somewhat siloed from each other.  Finally, the principal investigator plans to train his four graduate students in methods related to this project.&lt;br/&gt;&lt;br/&gt;The device which counts the number of holes in a shape is called the "homotopy group".  Calculating the homotopy groups of the spheres is notoriously difficult and interesting at the same time.   There is a divide-and-conquer approach to doing this known as chromatic homotopy theory, which replaces the sphere with its K(n)-localized version.  Here K(n) is the Morava K-theory spectrum.  Work in progress by the principal investigator and collaborators has identified the homotopy groups of the K(n)-local sphere up to a torsion subgroup.   The techniques used involve formal groups, p-adic geometry, and especially perfectoid spaces, which are certain fractal-like entities invented in 2012 by Fields Medalist Peter Scholze.  The next step in the project is to calculate the Picard group of the K(n)-local category, using related techniques.  After this, the principal investigator will turn his attention to the problem known as the "chromatic splitting conjecture", which has to do with iterated localizations of the sphere at different K(n).  This is one of the missing pieces of the puzzle required to assemble the homotopy groups of the spheres from their K(n)-local analogues. This award is jointly supported by the Algebra and Number Theory and Geometric Analysis programs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401472</AwardID>
+<Investigator>
+<FirstName>Jared</FirstName>
+<LastName>Weinstein</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jared Weinstein</PI_FULL_NAME>
+<EmailAddress><![CDATA[jsweinst@math.bu.edu]]></EmailAddress>
+<NSF_ID>000629085</NSF_ID>
+<StartDate>04/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151703</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>THL6A6JLE1S7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF BOSTON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>022151703</ZipCode>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>126500</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~82195</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: Rational Points, Diophantine Problems, and L-functions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>249338.00</AwardTotalIntnAmount>
+<AwardAmount>249338</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Adriana Salerno</SignBlockName>
+<PO_EMAI>asalerno@nsf.gov</PO_EMAI>
+<PO_PHON>7032922271</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Number theory sits at a busy intersection in mathematics. The effect of this is twofold. First, it means number theory provides tools to solve seemingly unrelated mathematical problems in other areas. Second, it means problems in number theory can be studied using tools from many realms of mathematics. This project concerns number-theoretic problems in two general categories: rational points on curves and related Diophantine problems, and the study of special functions known as L-functions. Problems in the first category, though usually simple to state, frequently require sophisticated mathematical technology in their resolution. The second category of problems concerns L-functions, special mathematical functions that combine large amounts of arithmetic data in a single package. L-functions are important, still poorly understood, and the subject of far-reaching conjectures. In both categories, the investigator draws inspiration from branches of mathematics outside of number theory. In addition to breaking new theoretical ground, the investigator will mentor students in research projects. The project is structured to provide the students with opportunities and means for collaboration. There is a focus on recruiting students from historically excluded or underrepresented groups.&lt;br/&gt;&lt;br/&gt;On a technical level, the investigator will study a deep conjecture of Sander, which predicts the rational points on a certain infinite family of curves, known as Erdos-Selfridge curves. In general, it is a difficult problem to find all the rational points on a curve of large genus. The investigator will develop a novel "mass increment argument" to study rational points on these curves. This argument is loosely inspired by various increment arguments in additive combinatorics, such as those used to prove Roth’s or Szemeredi’s theorems on arithmetic progressions in sets. This requires intricate combinatorics and a quantitative version of Faltings's celebrated theorem on rational points on curves of genus at least two. In related problems, Chabauty-type arguments make an appearance. Additive combinatorics also has connections to the investigator's recent collaborative work on new methods of detecting zeros of the Riemann zeta function. The project will explore further the potential of these methods. Furthermore, to facilitate work on the Riemann zeta function requiring explicit results, the investigator will obtain sharper bounds on the zeta function in important regions and derive new zero-density estimates.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418328</AwardID>
+<Investigator>
+<FirstName>Kyle</FirstName>
+<LastName>Pratt</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kyle Pratt</PI_FULL_NAME>
+<EmailAddress><![CDATA[kyle.pratt@mathematics.byu.edu]]></EmailAddress>
+<NSF_ID>000784575</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Brigham Young University]]></Name>
+<CityName>PROVO</CityName>
+<ZipCode>846021128</ZipCode>
+<PhoneNumber>8014223360</PhoneNumber>
+<StreetAddress><![CDATA[A-153 ASB]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JWSYC7RUMJD1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BRIGHAM YOUNG UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Brigham Young University]]></Name>
+<CityName>PROVO</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>846021128</ZipCode>
+<StreetAddress><![CDATA[A-153 ASB]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>217Y00</Code>
+<Text>LEAPS-MPS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~249338</FUND_OBLG>
+</Award>
+</rootTag>

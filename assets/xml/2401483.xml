@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Moduli Spaces and Invariants in Algebraic Geometry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+<PO_EMAI>mdouglas@nsf.gov</PO_EMAI>
+<PO_PHON>7032922467</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Algebraic geometry deals with the study of algebraic varieties: higher-dimensional geometric shapes defined by systems of polynomial equations. Solving such systems directly often proves to be intractable. A fundamental theme in algebraic geometry is the interplay between the qualitative geometry of algebraic varieties and the quantitative analysis of solutions to polynomial equations. Central to this is the question of classifying algebraic varieties. The answer to the classification question often comes in the form of a so-called moduli space, which is a parameter space for the algebraic varieties of interest. Each point of a moduli space represents a variety, and the geometry of the moduli space reflects the ways these varieties change and deform as the parameters vary. The classification question, then, is tantamount to understanding the geometry of the corresponding moduli space. This project will develop new tools in moduli theory and use them to advance the classification of algebraic varieties. In addition, the project will provide research training opportunities for both undergraduate and graduate students.&lt;br/&gt; &lt;br/&gt;In more detail, the Deligne-Mumford compactification of the space of pointed curves by pointed stable curves has been the gold standard in moduli theory. In higher dimensions, the stable pair, or KSBA, compactification serves the same role. However, its construction and geometry are considerably more intricate, and few general reults about its local and global geometry are known. This project will develop and refine techniques in the deformation theory of stable pairs and wall-crossing phenomena for higher-dimensional moduli, thereby offering a path toward developing higher-dimensional enumerative geometry. A second focus is to explore the log Calabi-Yau wall. The theory of stable pairs applies to varieties of log general type, and the theory of K-stability applies to log Fano varieties. This project will develop a moduli theory for log Calabi-Yau pairs that will bridge the gap between KSBA- and K-moduli. Finally, the project aims to use the previously developed moduli theoretic techniques to answer questions in arithmetic geometry and arithmetic statistics, namely on counting rational points of bounded height on stacks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401483</AwardID>
+<Investigator>
+<FirstName>Dori</FirstName>
+<LastName>Bejleri</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dori Bejleri</PI_FULL_NAME>
+<EmailAddress><![CDATA[dbejleri@umd.edu]]></EmailAddress>
+<NSF_ID>000756559</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425100</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress><![CDATA[3112 LEE BUILDING]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NPU8ULVAAS23</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>College Park</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207425100</ZipCode>
+<StreetAddress><![CDATA[3112 LEE BLDG 7809 REGENTS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~225000</FUND_OBLG>
+</Award>
+</rootTag>

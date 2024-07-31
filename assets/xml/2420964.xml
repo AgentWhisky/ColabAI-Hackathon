@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Private Blockchain-Enabled Federated Learning Framework for Distributed Manufacturing Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>299999.00</AwardTotalIntnAmount>
+<AwardAmount>299999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janis Terpenny</SignBlockName>
+<PO_EMAI>jterpenn@nsf.gov</PO_EMAI>
+<PO_PHON>7032922487</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In recent years, global manufacturing networks experienced a variety of shocks and disturbances including COVID-19. Thus, improving network resiliency, transparency, and cybersecurity have emerged as a national priority. Smart Manufacturing technologies such as Artificial Intelligence and Machine Learning show promise in achieving these objectives, yet struggle to materialize at the manufacturing network level. Particularly small and medium-sized manufacturers struggle in their adoption of these data-driven, value added technologies due to a lack of resources and incentives. Consequently, they cannot participate in many high-value manufacturing networks that often require certain technologies and data sharing. This EArly-concept Grant for Exploratory Research (EAGER) project supports research that intends to address this challenge through a Blockchain-enabled framework that leverages secure and private Federated Learning which meets the unique requirements of defense manufacturing networks. This framework enhances the availability and integrity of critical supplies, as well as strengthens and diversifies the defense industrial base. The project’s secure and privacy-preserving data sharing and collaboration mechanisms can be applied in various domains beyond manufacturing, such as healthcare, finance, and supply chain, empowering individuals and organizations to share data securely and collaborate effectively. The results have potential to transform industry, drive economic growth, foster innovation, and enhance societal well-being. &lt;br/&gt;&lt;br/&gt;The project’s research problem stems from manufacturing networks’ inability to securely and efficiently exchange data and leverage network level Federated Learning. The project aims to increase the resiliency of distributed and dynamic manufacturing networks, specifically including small and medium-sized manufacturers, by providing access to a secure private Blockchain platform that enables decentralized, secure, and transparent communication channels. This enables manufacturing network level learning through Federated Learning while respecting data ownership and ensuring retention of competitive or controlled (raw) data and machine learning models. To achieve these goals, the project utilizes Federated Learning by integrating a private Blockchain to manage metadata, access controls, and model updates. Unlike existing approaches, the framework focuses on specific challenges and requirements of manufacturing networks. This means ensuring confidential data remains local under full control of the individual nodes while leveraging Blockchain for efficient coordination of the Federated Learning process as well as reducing overhead cost for smaller network participants that are resource constraint. The project advances the state-of-the-art in Federated Learning and Blockchain technology through efficient algorithms for model aggregation and coordination in the presence of heterogeneous data for manufacturing networks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2420964</AwardID>
+<Investigator>
+<FirstName>Thorsten</FirstName>
+<LastName>Wuest</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thorsten Wuest</PI_FULL_NAME>
+<EmailAddress><![CDATA[thwuest@mail.wvu.edu]]></EmailAddress>
+<NSF_ID>000712226</NSF_ID>
+<StartDate>03/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>West Virginia University Research Corporation</Name>
+<CityName>MORGANTOWN</CityName>
+<ZipCode>265052742</ZipCode>
+<PhoneNumber>3042933998</PhoneNumber>
+<StreetAddress>886 CHESTNUT RIDGE ROAD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>West Virginia</StateName>
+<StateCode>WV</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WV02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M7PNRH24BBM8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WEST VIRGINIA UNIVERSITY RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[West Virginia University]]></Name>
+<CityName>MORGANTOWN</CityName>
+<StateCode>WV</StateCode>
+<ZipCode>265066107</ZipCode>
+<StreetAddress><![CDATA[1306 Evansdale Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>West Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WV02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>229Y</Code>
+<Text>MSI-Manufacturing Systms Integ</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>016Z</Code>
+<Text>Cybermanufacturing Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~299999</FUND_OBLG>
+</Award>
+</rootTag>

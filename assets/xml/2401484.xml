@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[On Enumerative and Tautological Invariants Defined by Perfect Obstruction Theories]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>194000.00</AwardTotalIntnAmount>
+<AwardAmount>194000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Adriana Salerno</SignBlockName>
+<PO_EMAI>asalerno@nsf.gov</PO_EMAI>
+<PO_PHON>7032922271</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project focuses on two related topics in algebraic geometry, which are motivated by their connections with physical theories (string theory and gauge theory). The first topic is Donaldson-Thomas (DT) and Vafa-Witten (VW) theory, which studies the invariants of  the space parametrizing sets of solutions of polynomials defining two dimensional objects with certain topological constraints in a space. The second topic is higher dimensional  Gromov-Witten (GW) theory, which roughly speaking is about a systematic way of counting numbers of surfaces with particular constraints in a space defined by a set of polynomial equations.   For a real dimension four space, a remarkable conjecture of electromagnetic duality  (S-duality) from physics says that counting  two dimensional objects in a topological space has nice modularity properties. Different branches of mathematics are linked together by these two theories and deep properties of geometric objects have been uncovered by calculating invariants. In this project the PI will investigate the S-duality conjecture between these two theories and relate them to other branches of mathematics and physics. This award will also support graduate student research. &lt;br/&gt;&lt;br/&gt;In more detail, the projects are designed to define several new enumerative invariants  of the moduli spaces of geometric objects in algebraic geometry.  The first  topic is Donaldson-Thomas and Vafa-Witten theory. The PI will study DT invariants for Calabi-Yau 4-folds, apply the DT invariants  to prove the S-duality conjecture for real four and six dimensional  manifolds. The second topic is higher dimensional Gromov-Witten theory. The PI will study GW counting surface invariants, construct the moduli space of surface case stable maps and the virtual fundamental class,  and  use the virtual fundamental class to define tautological  invariants and  study the original GW invariants of counting curves.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Algebra and Number Theory program and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401484</AwardID>
+<Investigator>
+<FirstName>Yunfeng</FirstName>
+<LastName>Jiang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yunfeng Jiang</PI_FULL_NAME>
+<EmailAddress><![CDATA[y.jiang@ku.edu]]></EmailAddress>
+<NSF_ID>000512528</NSF_ID>
+<StartDate>04/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Kansas Center for Research Inc]]></Name>
+<CityName>LAWRENCE</CityName>
+<ZipCode>660457563</ZipCode>
+<PhoneNumber>7858643441</PhoneNumber>
+<StreetAddress><![CDATA[2385 IRVING HILL RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SSUJB3GSH8A5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF KANSAS CENTER FOR RESEARCH INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SSUJB3GSH8A5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Kansas Center for Research Inc]]></Name>
+<CityName>LAWRENCE</CityName>
+<StateCode>KS</StateCode>
+<ZipCode>660457552</ZipCode>
+<StreetAddress><![CDATA[2385 IRVING HILL RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~194000</FUND_OBLG>
+</Award>
+</rootTag>

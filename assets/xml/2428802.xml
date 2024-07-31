@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: Uncertainty Quantification for Machine Learning Integrated Physics Modeling (UQ-MLIP 2024); Arlington, Virginia; 12-14 August 2024]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>16800.00</AwardTotalIntnAmount>
+<AwardAmount>16800</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy C. Crone</SignBlockName>
+<PO_EMAI>wcrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award provides travel support for 14 early career researchers to attend the 2024 Thematic Conference on Uncertainty Quantification for Machine Learning Integrated Physics Modeling (UQ-MLIP 2024), to be held in Crystal City, Arlington, Virginia, 12-14 August 2024. This thematic conference will provide an interdisciplinary coverage of uncertainty quantification for scientific machine learning and physics modeling. It will bring together leading experts, scientists, and young researchers from both academia and industry, with the goal of exchanging the latest developments on these topics and identifying challenges and opportunities to push this interdisciplinary research effort forward. The conference will feature technical presentations by invited speakers, a poster contest, and two panel sessions addressing challenges and future directions. This award will broaden the participation of a diverse set of participants, including women and underrepresented minorities, early career researchers and students, mid-career and senior faculty, as well as representatives from federal agencies and private companies. Dissemination will be achieved through workshop proceedings. A detailed summary about challenges and opportunities will be made available to the community at large.&lt;br/&gt;&lt;br/&gt;Computational models of real-world systems are increasingly integrating data-driven models from the field of machine learning with physics-based models derived on, or informed by, first-principles. It is thus of greatest importance to carefully characterize and quantify the uncertainties associated with each model class under realistic scenarios where data can be scarce and limited. Furthermore, the propagation of parametric and model-form uncertainties to the outcomes of the integrated models demands for the construction of novel approaches or extensions of existing methodologies. Other topics that would benefit from such developments include digital twinning, model reduction, large scale integrated computations, and decision making in computational science and engineering. Applications of these methods hold the promise to push the boundaries of modeling, inverse identification, and simulation and experimental characterization in mechanics of materials and structures across scales. This thematic conference will facilitate the exchange of information on these topics, providing interdisciplinary collaboration and networking opportunities to a broad and diverse audience including early career researchers, faculty, students, stakeholders, and industrial partners.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Division of Civil, Mechanical and Manufacturing Innovation (CMMI) in the Engineering (ENG) directorate and the Office of Advanced Cyberinfrastructure (OAC) in the Computer and Information Science and Engineering (CISE) directorate.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/20/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2428802</AwardID>
+<Investigator>
+<FirstName>Johann</FirstName>
+<LastName>Guilleminot</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Johann Guilleminot</PI_FULL_NAME>
+<EmailAddress><![CDATA[johann.guilleminot@duke.edu]]></EmailAddress>
+<NSF_ID>000732781</NSF_ID>
+<StartDate>06/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>163000</Code>
+<Text>Mechanics of Materials and Str</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>736100</Code>
+<Text>EDUCATION AND WORKFORCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>013E</Code>
+<Text>MULTI-SCALE MODELING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>022E</Code>
+<Text>SOLID MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>026E</Code>
+<Text>STRUCTURAL MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7231</Code>
+<Text>CYBERINFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~16800</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Remaining Unknowns in Ion-Electron Reactions for Tandem Mass Spectrometry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>465000.00</AwardTotalIntnAmount>
+<AwardAmount>150783</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jose Almirall</SignBlockName>
+<PO_EMAI>jalmiral@nsf.gov</PO_EMAI>
+<PO_PHON>7032927434</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, Professor Kristina Hakansson and her group at the University of Michigan are working to improve our ability to characterize the chemical structure of molecules, including especially biomolecules such as proteins, nucleic acids, and carbohydrates.  Such structural analysis is essential to help us understand the function (and malfunction) of molecules in complex samples, e.g., biofluids, cells, and tissues.  It is also crucial for the safety of therapeutic biomolecules.  The Hakansson laboratory employs electron irradiation of gaseous, charged biomolecules to yield diagnostic fragmentation.  Depending on their energy, electrons can either be attached or cause detachment of electrons from both cationic and anionic molecules.  While electron attachment to cations, resulting in electron capture dissociation (ECD), and electron detachment from anions,resulting in electron detachment dissociation (EDD), are energetically favorable and structurally informative processes that have been relatively broadly applied, including commercial implementations, many questions remain about the underlying mechanisms as well as how these processes can be tuned and how the resulting data should be interpreted.  Electron attachment to anions and electron detachment from cations are less favorable processes; however, the Hakansson laboratory has shown in previous work that negative ion electron capture dissociation; niECD is feasible and shows unique advantages for structural analysis of acidic biomolecules such as phosphorylated and sulfated analytes.  Recent work from the Hakansson group has also shown that electron detachment from cations (tandem ionization) can occur at much lower electron energies than previously demonstrated.  This research is providing new approaches to biomolecular structural characterization with important implications for drug discovery and enhanced understanding of the molecular basis of living organisms.  Students working on these projects gain exposure to highly interdisciplinary research.  Dr. Hakansson and her group also works to bring appreciation for these concepts and for broader science opportunities to middle school students in an effort to boost interest in the scientific method at an early educational stage.  &lt;br/&gt;&lt;br/&gt;Under this award, the Hakansson group will explore electron energy vs. flux effects in positive and negative ion mode on both upgraded Fourier transform ion cyclotron resonance (FT-ICR) and beam-type implementations.  This research seeks to elucidate whether “hot” ECD is not an energy but an electron density effect, tentatively termed electron flux dissociation; EFD.  Resulting spectra are rich in structural information, including amino acid side chain cleavages that can differentiate isomers and carbohydrate cross-ring fragments that provide linkage information for branched analytes.  Similarly, recent reports of internal fragments resulting from two backbone bond cleavages in proteins following electron irradiation do not appear to be a result of “true” ECD but rather an electron flux effect.  In addition, because internal fragments have many isomeric and isobaric assignment possibilities, false discovery rates are high.  The Hakansson group seeks to elucidate all fragmentation pathways leading to terminal fragments, including hydrogen shuffling, radical a-type ion formation, and accompanying water/ammonia losses that can be erroneously assigned to internal fragments.  In addition, they will explore the role of de-isotoping errors in such assignments.  Furthermore, they will contrast EDD, which shows only two main fragment ion types, to collisional activation, which shows up to eight fragment ion types, with regard to false discovery of terminal and internal fragments from oligonucleotides.  Finally, the Hakansson team will leverage these insights with an eye toward improved alignment of ion-electron reactions with liquid chromatography-tandem mass spectrometry analyses of labile post-translational modifications and oligonucleotides.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/06/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/06/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404064</AwardID>
+<Investigator>
+<FirstName>Kristina</FirstName>
+<LastName>Hakansson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kristina Hakansson</PI_FULL_NAME>
+<EmailAddress><![CDATA[kicki@umich.edu]]></EmailAddress>
+<NSF_ID>000483345</NSF_ID>
+<StartDate>05/06/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688000</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~150783</FUND_OBLG>
+</Award>
+</rootTag>

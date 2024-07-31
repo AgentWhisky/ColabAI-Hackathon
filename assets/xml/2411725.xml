@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-ANR MCB/PHY: DNA Origami-based machines for epigenetic manipulation of gene transcription]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>700000.00</AwardTotalIntnAmount>
+<AwardAmount>700000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Manju Hingorani</SignBlockName>
+<PO_EMAI>mhingora@nsf.gov</PO_EMAI>
+<PO_PHON>7032927323</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>All cell types must precisely express the correct sets of genes, in order to properly use the information encoded in chromosomal DNA for their distinct functions. The ability to target, detect, and control the use of the genetic information on a single cell basis can provide crucial fundamental insights and the ability to influence how genes function and are regulated. This project will develop and implement multifunctional DNA-based nanoscale devices to detect genetic activity and even control the expression of genes. These devices will provide direct views on how the mechanical and physical organization of a gene controls its expression and serve as a platform for nanoscale gene regulation. Furthermore, this project will focus on genes that control cell state, and could therefore enable mechanical control of gene expression to modulate and change the differentiated state of individual cells. This is a collaborative project with a French team at the Institute de Génétique et Biologie Moléculaire et Cellulaire, which will provide trainees with collaborative and international team science experiences. The team will also incorporate the research into undergraduate and graduate courses as well as summer programs for incoming students at the Ohio State University to educate them in emerging areas of nanotechnology, biophysics, and molecular and cell biology.&lt;br/&gt;&lt;br/&gt;Chromatin structure and dynamics are central regulators of gene accessibility, which determines the genes that are both expressed and silenced. The ability to quantify and control the expression of specified genes will enable mechanistic understanding of gene regulation and the ability to control cell behavior and state. This project will develop and apply DNA origami (DO) based nanodevices, which are emerging as a promising technology for constructing complex multifunctional biocompatible devices, to manipulate and quantify RNA transcription. DO nanodevices will be developed to target specific genes and then activate their transcription (Goal 1). DO nanodevices will separately be designed and implemented with molecular beacons to detect and quantify the production of one and then multiple messenger RNA molecules from one or more genes (Goal 2). Finally, multiple functional DO devices will be developed that both activate and quantify transcription of specific genes where the function(s) can be triggered by an external signal such as a specific RNA or protein molecule (Goal 3). Overall, this project will provide a foundation for leveraging the multifunctionality of DNA nanotechnology for targeted control of RNA transcription.&lt;br/&gt;&lt;br/&gt;This collaborative US/France project is supported by the US National Science Foundation and the French Agence Nationale de la Recherche, where NSF funds the US investigators and ANR funds the partners in France. The US investigators are jointly funded by the Genetic Mechanisms program/Division of Molecular and Cellular Biosciences in the Directorate for Biological Sciences and by the Physics of Living Systems program in the Directorate for Mathematical and Physical Sciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/31/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411725</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Poirier</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Poirier</PI_FULL_NAME>
+<EmailAddress><![CDATA[mpoirier@mps.ohio-state.edu]]></EmailAddress>
+<NSF_ID>000395584</NSF_ID>
+<StartDate>05/31/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carlos</FirstName>
+<LastName>Castro</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carlos E Castro</PI_FULL_NAME>
+<EmailAddress><![CDATA[castro.39@osu.edu]]></EmailAddress>
+<NSF_ID>000601713</NSF_ID>
+<StartDate>05/31/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111200</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>724600</Code>
+<Text>PHYSICS OF LIVING SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5918</Code>
+<Text>FRANCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8007</Code>
+<Text>BioMaPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~700000</FUND_OBLG>
+</Award>
+</rootTag>

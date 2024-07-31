@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Modifying conformational changes of a conserved bridge helix of Cas9 and Cas12a to reduce off-target DNA cleavage]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Manju Hingorani</SignBlockName>
+<PO_EMAI>mhingora@nsf.gov</PO_EMAI>
+<PO_PHON>7032927323</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Cas9 and Cas12a are members of the clustered regularly interspaced short palindromic repeats (CRISPR) and CRISPR-associated (Cas) systems. They protect bacteria from viral infections by cleaving the invading viral genetic material. The molecular mechanisms of Cas9 and Cas12a have been harnessed extensively for applications such as gene editing and molecular diagnostics. However, the details of how the protein-RNA-DNA interactions of Cas9 and Cas12a ensure fidelity of DNA cleavage are yet to be fully characterized. This project focuses on deciphering how the structure and chemical properties of bridge helix (BH), a highly conserved region of Cas9 and Cas12a, regulates DNA cleavage fidelity. The research outcomes will enable development of error-proof Cas9 and Cas12a variants that minimize undesired genome changes and have potential for patentable technologies that advance biotechnology. The project also facilitates research training of high school, undergraduate, and graduate students in CRISPR-Cas systems and the use of active learning tools to improve macromolecular structure pedagogy, and promotes development of cryogenic electron microscopy (cryo-EM), a frontier technology used for macromolecular structure determination, at the University of Oklahoma. &lt;br/&gt;&lt;br/&gt;Cas9 and Cas12a are the workhorses of genome technologies. Despite being from two different CRISPR types, both Cas9 and Cas12a have a bilobed architecture with the bridge helix (BH) connecting the lobes. The PI previously established that the BH is essential for DNA cleavage selectivity in both enzymes. Based on this foundation, the project will investigate the molecular mechanisms of BH-mediated off-target discrimination. The experiments will test an overarching hypothesis that BH allosterically controls DNA cleavage by the nuclease domains of Cas9 and Cas12a and that the helical integrity and amino acid properties at different positions of the BH impact off-target discrimination. A combinatorial approach that includes protein engineering, biochemical and kinetic analyses, structural biology (cryo-EM, x-ray crystallography, and molecular dynamics simulations), and cell-based gene editing assays will be applied. The resulting mechanistic knowledge will enable development of high-fidelity Cas9 and Cas12a variants for biotechnology applications. Moreover, since the BH is small (one alpha helix) and is highly conserved in several Cas nucleases, it offers a tangible means of creating high-fidelity versions of many types of CRISPR-Cas systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2424888</AwardID>
+<Investigator>
+<FirstName>Rakhi</FirstName>
+<LastName>Rajan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rakhi Rajan</PI_FULL_NAME>
+<EmailAddress><![CDATA[r-rajan@ou.edu]]></EmailAddress>
+<NSF_ID>000709236</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jin</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jin Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[jin.liu@unthsc.edu]]></EmailAddress>
+<NSF_ID>000866879</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Oklahoma Norman Campus]]></Name>
+<CityName>NORMAN</CityName>
+<ZipCode>730193003</ZipCode>
+<PhoneNumber>4053254757</PhoneNumber>
+<StreetAddress><![CDATA[660 PARRINGTON OVAL RM 301]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OK04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EVTSTTLCEWS5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF OKLAHOMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Oklahoma Norman Campus]]></Name>
+<CityName>NORMAN</CityName>
+<StateCode>OK</StateCode>
+<ZipCode>730193003</ZipCode>
+<StreetAddress><![CDATA[660 PARRINGTON OVAL RM 301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OK04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111200</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1000000</FUND_OBLG>
+</Award>
+</rootTag>

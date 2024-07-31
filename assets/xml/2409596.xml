@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Electronic Coherence and Entangled Molecular Wave Packets]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>636210.00</AwardTotalIntnAmount>
+<AwardAmount>636210</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mark K. Beck</SignBlockName>
+<PO_EMAI>mkbeck@nsf.gov</PO_EMAI>
+<PO_PHON>7032922983</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The internal dynamics of molecules after absorbing light plays a fundamental role in many aspects of our lives, including vision, solar energy harvesting (e.g., photosynthesis and solar cells) and in the protection of DNA from ultraviolet radiation (UV photoprotection). These dynamics consist of a complicated interplay between the electrons and the nuclei, whose motions are strongly coupled and cannot be treated independently. As the dynamics are governed by the rules of quantum mechanics and involve many coupled particles, they are very difficult to calculate accurately. Furthermore, because they take place on ultrafast time scales [10^(−15) s], and on very short length scales [10^(−10) m], they are very difficult to observe and follow experimentally. In this work, the PI and graduate students carrying out the research will develop experimental approaches to follow the ultrafast dynamics of electrons and nuclei in small molecules following the absorption of light. They will use temporally shaped ultrafast pulses, and advanced charged particle detection techniques, as an ultrafast quantum camera to take “pictures” of the molecules and produce movies of the coupled electron-nuclear dynamics following the absorption of light. The work will contribute to the training of the next generation of scientists, and ties directly to the 2023 Nobel prize in physics for the development attosecond pulses and the study of electron dynamics. &lt;br/&gt;&lt;br/&gt;Octave spanning ultra-broadband laser pulses will be generated using nonlinear optical techniques (self-phase modulation in stretched hollow-core fibers) and shaped using an acousto-optic, modulator-based, frequency-domain pulse shaper. This approach to pulse shaping allows the PI and graduate students carrying out the measurements to produce pulses which are short enough to capture the dynamics as they unfold and to be sensitive to the detailed motion of the electrons. By measuring the energy and direction of electrons and ions produced by the interaction between the molecules and pairs of shaped laser pulses, the PI and graduate students can gain detailed insight into the evolution of the molecule—i.e., how the electrons and nuclei move after the molecule absorbs light. The measurements will be compared in detail with approximate calculations of the dynamics in order to develop better models and a more comprehensive understanding, which will ultimately lead to the development of improved light harvesting and energy conversion technologies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409596</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Weinacht</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas C Weinacht</PI_FULL_NAME>
+<EmailAddress><![CDATA[thomas.weinacht@stonybrook.edu]]></EmailAddress>
+<NSF_ID>000322146</NSF_ID>
+<StartDate>06/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SUNY at Stony Brook]]></Name>
+<CityName>STONY BROOK</CityName>
+<ZipCode>117940001</ZipCode>
+<PhoneNumber>6316329949</PhoneNumber>
+<StreetAddress><![CDATA[W5510 FRANKS MELVILLE MEMORIAL L]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M746VC6XMNH9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M746VC6XMNH9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Stony Brook]]></Name>
+<CityName>STONY BROOK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>117940001</ZipCode>
+<StreetAddress><![CDATA[W5510 FRANKS MELVILLE MEMORIAL LIBRARY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124100</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~636210</FUND_OBLG>
+</Award>
+</rootTag>

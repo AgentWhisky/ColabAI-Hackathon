@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: NSF-MeitY: NeuroFlex: RRAM-Enhanced Neural Interfaces for Reconfigurable Implantable Machine Intelligence]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>319999.00</AwardTotalIntnAmount>
+<AwardAmount>319999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ale Lukaszew</SignBlockName>
+<PO_EMAI>rlukasze@nsf.gov</PO_EMAI>
+<PO_PHON>7032928103</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Understanding the brain is one of the greatest challenges in science and engineering. Current brain-machine interfaces, however, are severely limited by power consumption, data acquisition capabilities, and real-time processing constraints. These limitations in turn limit our ability to study brain function and develop treatments for neurological disorders. The NeuroFlex project aims to address these challenges by creating a powerful yet energy-efficient neural interface platform. By combining innovative memory devices optimized for efficient data storage, programmable circuits for high-density neural signal acquisition, and specialized processors for low-power computation, this research could revolutionize our understanding of the brain. The insights gained from this advanced neural interface technology have the potential to unlock new therapies for conditions like epilepsy, Parkinson's disease, and other neurological disorders that affect millions worldwide. Furthermore, the interdisciplinary nature of this project, spanning device engineering, circuit design, and tensor accelerators, will advance these fields and inspire new avenues of research. The project will also develop new tools and educational initiatives. The researchers will organize a workshop on computing with emerging technologies, develop curriculum modules on system-on-chip design, and engage K-12 students through outreach activities aimed at encouraging participation in STEM fields, with a focus on underrepresented groups.&lt;br/&gt;&lt;br/&gt;The NeuroFlex project will develop an implantable neural interface platform that integrates three key innovations: 1) optimized resistive RAM memory for efficient data storage, 2) programmable analog front-end circuits for high-density neural signal acquisition, and 3) specialized processors for energy-efficient computation of both dense and sparse neural network operations. Intelligent control algorithms and software will orchestrate the flow of data through these components to maximize efficiency within the strict power and size constraints of an implantable device. The research plan encompasses device fabrication and characterization, mixed-signal circuit design, digital accelerator development, and the mapping of machine learning algorithms onto the novel hardware architecture. We will validate our approach through testing of two prototype chips, including one with novel integrated devices. By bringing together experts in devices, circuits, architectures, and algorithms, the NeuroFlex project aims to bridge the gap between neuroengineering and microelectronics to enable a new generation of brain-machine interface technologies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415261</AwardID>
+<Investigator>
+<FirstName>Siddharth</FirstName>
+<LastName>Joshi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Siddharth Joshi</PI_FULL_NAME>
+<EmailAddress><![CDATA[sjoshi2@nd.edu]]></EmailAddress>
+<NSF_ID>000788786</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Notre Dame]]></Name>
+<CityName>NOTRE DAME</CityName>
+<ZipCode>465566031</ZipCode>
+<PhoneNumber>5746317432</PhoneNumber>
+<StreetAddress><![CDATA[836 GRACE HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FPU6XGFXMBE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NOTRE DAME DU LAC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FPU6XGFXMBE9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Notre Dame]]></Name>
+<CityName>NOTRE DAME</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>465565708</ZipCode>
+<StreetAddress><![CDATA[940 Grace Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>756400</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>154E</Code>
+<Text>Computat systems &amp; security</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~319999</FUND_OBLG>
+</Award>
+</rootTag>

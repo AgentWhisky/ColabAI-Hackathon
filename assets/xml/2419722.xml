@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CICI:TCR:S2-D2: Securing Self-describing Data, Formats, and Libraries]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>1197143.00</AwardTotalIntnAmount>
+<AwardAmount>1197143</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rob Beverly</SignBlockName>
+<PO_EMAI>rbeverly@nsf.gov</PO_EMAI>
+<PO_PHON>7032927068</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Data in science and engineering are often managed by software libraries that store data and data-describing metadata together. These “self-describing” data, file formats, and software libraries, such as HDF5 and netCDF, offer standardized, machine-independent, and portable file formats that support flexible and performant organization of large amounts of data. As a result, numerous scientific, engineering, and industry applications use these formats for storing and analyzing their data. With many critical fields using self-describing formats, these data as well as their corresponding data management software libraries have become critical cyberinfrastructure that must be secured to perform accurate and reproducible science. Unfortunately, existing data management software libraries were designed decades ago, before cybersecurity was a major concern, so there has never been a targeted testing and evaluation of the trustworthiness, integrity, and resilience of these libraries. This project is exploring strategies to integrate both well-known and advanced security algorithms into prominent data management libraries. The research performed in in this project will be a foundational step towards building next generation secure data management cyberinfrastructure for the rapidly changing landscape of science and AI, where security, privacy, and trustworthiness are critically required. &lt;br/&gt;&lt;br/&gt;This project will apply comprehensive testing, evaluation, issue identification, hardening, and validation to correct security deficiencies in self-describing file formats and libraries. The specific R&amp;D tasks include: (1) assessing and fixing file format vulnerabilities, (2) protecting data access libraries, (3) exploring security solutions for metadata and data, and (4) constructing a security framework, called S2-D2. The S2-D2 project will have a direct impact on securing data in a variety of scientific domains. Additionally, bolstering the HDF5 library with robust security will make it more usable in applications that require increased security, such as the financial and medical fields.&lt;br/&gt;&lt;br/&gt;This award by the NSF Office of Advanced Cyberinfrastructure is jointly supported by the NSF National Discovery Cloud for Climate (NDC-C) initiative.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419722</AwardID>
+<Investigator>
+<FirstName>Dana</FirstName>
+<LastName>Robinson</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dana E Robinson</PI_FULL_NAME>
+<EmailAddress><![CDATA[derobins@hdfgroup.org]]></EmailAddress>
+<NSF_ID>000564270</NSF_ID>
+<StartDate>06/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Surendra</FirstName>
+<LastName>Byna</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Surendra Byna</PI_FULL_NAME>
+<EmailAddress><![CDATA[byna.1@osu.edu]]></EmailAddress>
+<NSF_ID>000595776</NSF_ID>
+<StartDate>06/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zhiqiang</FirstName>
+<LastName>Lin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhiqiang Lin</PI_FULL_NAME>
+<EmailAddress><![CDATA[zlin@cse.ohio-state.edu]]></EmailAddress>
+<NSF_ID>000610524</NSF_ID>
+<StartDate>06/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>295Y00</Code>
+<Text>NDCC-Natl Discvry Cloud Climat</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>802700</Code>
+<Text>Cybersecurity Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8027</Code>
+<Text>Cyber Secur - Cyberinfrastruc</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1197143</FUND_OBLG>
+</Award>
+</rootTag>

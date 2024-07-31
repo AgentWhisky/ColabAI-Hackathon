@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II: Real-time Community-in-the-Loop Platform for Improved Urban Flood Forecasting and Management]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase II project is in the potential to transform flood management tools by combining community insights with artificial intelligence to generate information on urban flood dynamics from those experiencing flood impacts. Changing hydrological cycles, sea level rise and inadequate infrastructure have made urban flooding a global issue. This project will improve efficiency and speed of flood responses and design of urban flood management infrastructure by combining disparate data sources including resident posts on local flood and geospatial data on infrastructure and community characteristics. It aims to improve environmental justice by giving residents the ability to report flood incidents and impacts in data that can be used by stormwater managers. By tracking real-time impacts in areas most vulnerable to flooding, which disproportionately affect marginalized communities, it would help cities respond more efficiently to flooding events, prioritize flood adaptation maintenance, and facilitate stewardship to improve the health and well-being of underserved communities. This project serves as a technical platform for novel multi-sector approaches critical for the effective implementation of climate solutions. By engaging directly with the public, the project educates users on local climate risks and mitigation strategies.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The goal of this project is to improve flood incident response and infrastructure planning by cities, counties, and utilities by providing hyper-local community-generated data and artificial intelligence (AI) enabled flood impact insights not accessible with current approaches. The synthesis of multiple forms of environmental and community-generated data into quantitative insights for stormwater managers represents a significant technical challenge. This project aims to fill critical data gaps by developing accurate algorithms for extracting flood height, detailed flood characteristics, personal impacts, and root causes for flooding of all severity levels, as well as methods to aggregate information from different sources and modalities. Combined with an automated prompting workflow, the tool will provide a platform for positive reinforcement feedback for improving the data quality, coverage, and engagement across residents and flood managers in flood prone areas.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404540</AwardID>
+<Investigator>
+<FirstName>Julia</FirstName>
+<LastName>Drapkin</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Julia K Drapkin</PI_FULL_NAME>
+<EmailAddress><![CDATA[julia@iseechange.org]]></EmailAddress>
+<NSF_ID>000851725</NSF_ID>
+<StartDate>06/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[ISEECHANGE, Inc.]]></Name>
+<CityName>NEW ORLEANS</CityName>
+<ZipCode>701221206</ZipCode>
+<PhoneNumber>9177207327</PhoneNumber>
+<StreetAddress><![CDATA[4532 BANCROFT DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XWDUJRUGD9N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ISEECHANGE INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[ISEECHANGE, Inc.]]></Name>
+<CityName>NEW ORLEANS</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>701221206</ZipCode>
+<StreetAddress><![CDATA[4532 BANCROFT DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537300</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1238</Code>
+<Text>TECH FOR SUSTAINABLE ENVIRONMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1000000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Exploring the role of interphase node proteins in NDR-family kinase Sid2p localization during cytokinesis.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>384431.00</AwardTotalIntnAmount>
+<AwardAmount>384431</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Loretta Jackson-Hayes</SignBlockName>
+<PO_EMAI>lojackso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924286</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will evaluate the spatial and temporal control of cell division to provide a better understanding of how highly conserved regulatory mechanisms contribute to a cell’s ability to successfully divide. Cell division is a critical process essential for the proper growth and maintenance of living organisms. A better characterization and understanding of this process could have applications in enhancing biodiversity, agriculture, or food production. Cytokinesis, the final stage of cell division, involves the physical separation of the two newly formed cells. In animals and fungi, this process is regulated by a series of conserved molecular pathways, one of which involves a key protein called Sid2p. Recent research indicates that other proteins, known as scaffold proteins, play a role in recruiting Sid2p at the appropriate time to the precise location where the cell will divide. Understanding how these scaffold proteins interact with Sid2p is essential for unraveling the mechanisms underlying cytokinesis. By utilizing genetic, biochemical, and cell biological approaches to investigate these interactions, this project will provide insights into the fundamental principles governing cell division. In addition to the research goals, this project will enable training of Wellesley College undergraduate students in basic genetics, molecular and cellular biology, biochemistry, quantitative microscopy, and computational image analysis. Trainees will also help stimulate interest and excitement about scientific research in the next generation of students through their mentorship of participants in the Wellesley College Science Club for Girls, which is an after-school outreach program for girls interested in STEM disciplines.&lt;br/&gt;&lt;br/&gt;Cytokinesis, the final step in cell division, is a highly regulated process that must be coordinated with many concurrent events in the cell cycle. Cytokinesis in animals and fungi involves the conserved mechanism of contractile ring assembly and constriction, which has been extensively studied in fission yeast. The fission yeast SIN pathway is a signaling cascade, homologous to the mammalian Hippo pathway, which initiates completion of cell division by promoting onset of contractile ring constriction. The final step in the SIN involves the NDR-family kinase Sid2p, which is homologous to the mammalian division regulatory protein LATS1/2. Work from the principal investigator’s lab and others implicate four Type 2 interphase node scaffold proteins in recruiting Sid2p to the contractile ring. This project tests the hypothesis that these scaffold proteins function in a synergistic pathway to localize Sid2p to the division site during cytokinesis, thereby ensuring timely cell division. This research will characterize Sid2p recruitment to the division site in cells depleted of the cytokinesis scaffold proteins and evaluate the effect on contractile ring constriction and time to completion of division using fluorescence microscopy. The project will then identify binding domains between scaffold proteins and Sid2p using truncation mutants and immunoprecipitation. Together, this project provides insight into localization of the NDR kinase Sid2p during cytokinesis in fission yeast, which will in turn provide a better understanding of how this conserved, essential protein is regulated and contributes to successful cell division in other organisms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414363</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Goss</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John W Goss</PI_FULL_NAME>
+<EmailAddress><![CDATA[jgoss@wellesley.edu]]></EmailAddress>
+<NSF_ID>000664109</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Wellesley College]]></Name>
+<CityName>WELLESLEY HILLS</CityName>
+<ZipCode>024818203</ZipCode>
+<PhoneNumber>7812832079</PhoneNumber>
+<StreetAddress><![CDATA[106 CENTRAL ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z17DSLNJ1DX1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WELLESLEY COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Wellesley College]]></Name>
+<CityName>WELLESLEY HILLS</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>024818203</ZipCode>
+<StreetAddress><![CDATA[106 CENTRAL ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111400</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~384431</FUND_OBLG>
+</Award>
+</rootTag>

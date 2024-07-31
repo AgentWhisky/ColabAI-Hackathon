@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Laboratory Studies of Laser-Driven, Ion-Scale Mini-Magnetospheres on the LArge Plasma Device]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>514702.00</AwardTotalIntnAmount>
+<AwardAmount>514702</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vyacheslav (Slava) Lukin</SignBlockName>
+<PO_EMAI>vlukin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927382</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Magnetospheres form when a flowing plasma, like the solar wind, impacts a magnetic obstacle, like a planet, and are an integral part of space weather systems.  Earth’s magnetosphere has been observed by spacecraft for decades, but magnetospheres can also exist on much smaller scales, such as around small moons or asteroids that are difficult to study directly.  This project utilizes laboratory experiments to create and explore artificial versions of these “mini” magnetospheres.  By leveraging the ability of laboratory experiments to be carried out with high repeatability in a controlled setting, the experiments will provide an unprecedented, high-resolution three-dimensional map of a dynamic magnetosphere.  This will advance our fundamental understanding of space weather by investigating magnetic reconnection, a key process that can drive geomagnetic storms that pose extreme hazards to human activities in space.  The project will utilize the LArge Plasma Device (LAPD) at the University of California, Los Angeles and includes a collaboration with the Instituto Superior Técnico in Lisbon, Portugal.  The project also provides advanced training and mentorship opportunity to a diverse group of undergraduate and graduate students to prepare them for the STEM workforce.&lt;br/&gt;&lt;br/&gt;Magnetospheres are a ubiquitous feature of magnetized bodies embedded in a plasma flow. In planetary magnetospheres, a key process driving magnetospheric dynamics is magnetic reconnection, in which magnetic energy is explosively released when opposing magnetic field lines merge and annihilate. In space environments, this reconnection is collisionless and controlled by kinetic-scale plasma physics. Mini-magnetospheres, small ion-scale structures that are well-suited to studying kinetic-scale physics, provide a unique environment for studying magnetospheric reconnection that can be created in the laboratory.  This project will create ion-scale magnetospheres by coupling a supersonic, laser-driven plasma flow with a dipole magnet embedded in the uniform, magnetized plasma of the Large Plasma Device (LAPD) at the University of California, Los Angeles.  Leveraging the high-repetition and reproducible capabilities of the platform and high-fidelity 3D numerical simulations, the objectives of the project are to 1) develop a novel 3D Thomson scattering diagnostic for measuring key plasma parameters in mini-magnetosphere experiments; 2) measure for the first time the magnetic reconnection rate in both dayside and magnetotail configurations through highly-resolved, volumetric datasets; and 3) investigate how magnetic reconnection impacts the global structure of the magnetosphere.  The laboratory measurements will help validate numerical simulations and magnetospheric models, as well as complement spacecraft observations of mini-magnetospheres such as those associated with small moons, comets, and lunar magnetic anomalies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409284</AwardID>
+<Investigator>
+<FirstName>Derek</FirstName>
+<LastName>Schaeffer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Derek Schaeffer</PI_FULL_NAME>
+<EmailAddress><![CDATA[derek.schaeffer@ucla.edu]]></EmailAddress>
+<NSF_ID>000732157</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900244200</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress><![CDATA[10889 WILSHIRE BLVD STE 700]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA36</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RN64EPNH8JC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900951547</ZipCode>
+<StreetAddress><![CDATA[430 Portola Plaza, 4-712 PAB]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124200</Code>
+<Text>PLASMA PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5914</Code>
+<Text>WESTERN EUROPE, OTHER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8092</Code>
+<Text>Space Weather Research</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~514702</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Orderability of Groups, and Foliations and Flows on 3-Manifolds]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>149827.00</AwardTotalIntnAmount>
+<AwardAmount>74963</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eriko Hironaka</SignBlockName>
+<PO_EMAI>ehironak@nsf.gov</PO_EMAI>
+<PO_PHON>7032927041</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Groups are among the most pervasive algebraic structures in both mathematics and real life. Roughly speaking, whenever there is a notion of multiplication on a set of things, this set becomes a group. We say a group can be left-ordered if one can order elements of the group so that the relative size of any two elements remains unchanged when multiplying both elements by another element on the left.  When it comes to the case where the group is derived from a 3-dimensional space (a 3-manifold), known as the fundamental group, there is a surprising connection between whether the group can be left-ordered and two other natural structures on the 3-dimensional spaces. One structure is called foliations, which views the 3-dimensional spaces as a union of 2-dimensional layers, akin to the foliations seen in metamorphic rocks. The other, called flows, captures the motions of points in the 3-dimensional spaces. The main objective of this project is to deepen our understanding of this connection. Additionally, this project will support initiatives focused on improving mathematical education in the community, making advanced mathematics more accessible and engaging to a broader audience. &lt;br/&gt;&lt;br/&gt;There are two main research directions in the project: 1. Investigating the L-space conjecture, which connects the orderability of groups, foliations on 3-manifolds, and the complexity of certain Floer homology of the manifolds. The project will particularly focus on the conjecture for toroidal manifolds through notions of slope detection. 2. Studying various actions of 3-manifold groups on 1-dimensional spaces (circles, lines, trees) naturally arising from foliations and flows. This includes their dynamical properties and their connection to the existence of left-orders on the 3-manifold groups.  &lt;br/&gt;&lt;br/&gt;This project is jointly funded by the NSF-DMS Topology and Geometric Analysis Program (TGA) and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409398</AwardID>
+<Investigator>
+<FirstName>Ying</FirstName>
+<LastName>Hu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ying Hu</PI_FULL_NAME>
+<EmailAddress><![CDATA[yinghu@unomaha.edu]]></EmailAddress>
+<NSF_ID>000841409</NSF_ID>
+<StartDate>05/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Nebraska at Omaha]]></Name>
+<CityName>OMAHA</CityName>
+<ZipCode>681820001</ZipCode>
+<PhoneNumber>4025542286</PhoneNumber>
+<StreetAddress><![CDATA[6001 DODGE ST EAB 209]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NE02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FZRNFQTKADH1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NEBRASKA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FZRNFQTKADH1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Nebraska at Omaha]]></Name>
+<CityName>OMAHA</CityName>
+<StateCode>NE</StateCode>
+<ZipCode>681822000</ZipCode>
+<StreetAddress><![CDATA[6001 DODGE ST EAB 209]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NE02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~74963</FUND_OBLG>
+</Award>
+</rootTag>

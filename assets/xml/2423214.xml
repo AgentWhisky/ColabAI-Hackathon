@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MCA: Identifying mRNA dynamics and cis-regulatory elements that support low-noise gene expression]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>457300.00</AwardTotalIntnAmount>
+<AwardAmount>457300</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Manju Hingorani</SignBlockName>
+<PO_EMAI>mhingora@nsf.gov</PO_EMAI>
+<PO_PHON>7032927323</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Cells need a steady supply of RNAs and proteins to survive and perform all their functions. Yet, there is always some variation in the production speed of RNAs and proteins (called “gene expression noise”), which leads to variability in the concentrations of these important molecules even between genetically identical cells. Gene expression noise can threaten cellular functions, and for genes that are key to cellular survival, the noise needs to be minimized. It is not fully understood how cells can keep the noise level low for particular genes. This Mid-Career Advancement (MCA) project will enable the principal investigator (PI) to learn and apply the latest transcriptomics technologies to address this question. Experimental results will be combined with computational modeling to explain how cells can keep gene expression noise to a minimum. The project will generate new inter-institutional ties and opportunities for undergraduate and graduate students, from biology, computer science, and the data sciences, to train in cutting-edge technologies and data analysis. The educational activities will lower the barrier for biology students to use computational or mathematical tools and open more research and career development pathways for them. &lt;br/&gt;&lt;br/&gt;Gene expression noise must have a lower limit, and this limit has been widely assumed to be at a level where the variance in RNA numbers equals the mean RNA number. The PI’s group has identified genes with considerably lower variance, which cannot be explained by the standard model of expression that is used for low-noise genes. This raises two questions: (i) What is an adequate expression model for these genes? And (ii) how widespread are genes with such ultra-low noise, do they exist across organisms, and what are their commonalities? The first question will be addressed through single-molecule RNA live-cell imaging in combination with computational modeling. The second question will be addressed by surveying hundreds of mammalian genes for their level of noise using the most accurate high-throughput technology available for such measurements. Successful completion of the project will support or revise the model for low-noise gene expression that the PI’s group has developed and provide an accurate overview of the lower end of the noise spectrum in mammalian cells. This information can be applied in biotechnology to construct more reliable synthetic circuits for gene expression.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423214</AwardID>
+<Investigator>
+<FirstName>Silke</FirstName>
+<LastName>Hauf</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Silke Hauf</PI_FULL_NAME>
+<EmailAddress><![CDATA[silke@vt.edu]]></EmailAddress>
+<NSF_ID>000690539</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M515A1DKXAN8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240603359</ZipCode>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111200</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>101Z</Code>
+<Text>MCA-Mid-Career Advancement</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~457300</FUND_OBLG>
+</Award>
+</rootTag>

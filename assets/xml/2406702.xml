@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-BSF: Nanoelectrochemistry in Well-Defined Nanocavities]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>530000.00</AwardTotalIntnAmount>
+<AwardAmount>530000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ryan Jorn</SignBlockName>
+<PO_EMAI>rjorn@nsf.gov</PO_EMAI>
+<PO_PHON>7032924514</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Structure, Dynamics, and Mechanisms A (CSDM-A) program in the Division of Chemistry, Professor Michael Mirkin of the City University of New York-Queens College is investigating the impact of confining electrochemical reactions to nanoscale cavities in collaboration with Professor Daniel Mandler of the Hebrew University of Jerusalem. The advantages of carrying out reactions within nanoscale confined spaces have been demonstrated in systems ranging from electrocrystallization to chemical synthesis in nanoreactors. However, these studies have been limited by poor characterization and control of the chemistry and geometry of the nanoconfined spaces.  To overcome these limitations, the PIs and their students will employ a powerful combination of nanoparticle-imprinting techniques with novel scanning electrochemical probes. Using this approach, they seek to unravel the contributions of several physicochemical phenomena to the complex electrochemistry of confined systems. An improved understanding of confined electrochemical processes has the long term potential to impact nanofabrication efforts and advance the development of sensors and electrocatalysts.  The graduate and undergraduate students involved in this project will be trained in a multidisciplinary research environment in nanomaterials, interfacial electrochemistry, scanning probe microscopy, mathematical modeling, and nanoscience.&lt;br/&gt;&lt;br/&gt;Nanocavities of differing size and chemical functionality on the inner surface will be formed to study the effects of confinement on electrochemical processes.  Precise control of the physical and chemical properties of the pores will be attained through surface modification and extensive characterization. Scanning electrochemical microscopy (SECM) based approaches will be developed in an effort to map individual nanocavities and provide quantitative measurements of chemical processes in confined spaces. Nanometer-sized SECM tips will be used to measure fluxes of electroactive species generated inside a nanocavity, induce local electrodeposition, and image the topography changes in growing nanostructures inside the pores. SECM theory will be developed, and finite-element simulations will be performed to facilitate the extraction of quantitative kinetic information from the experimental data. Several fundamentally important electrochemical reactions will be investigated in nanocavities with well-defined geometry and surface chemistry, including the oxygen reduction reaction in water, electrodeposition of Cu, and electropolymerization of conductive polymers. The main goal is to reveal the origins of confinement effects on each process and explore the possibility of controlling their kinetics and pathways by tuning the geometry and chemical properties of nanocavities. &lt;br/&gt;&lt;br/&gt;This collaborative US/Israel project is supported by the US National Science Foundation and the Israel Binational Science Foundation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/06/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/06/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406702</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Mirkin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Mirkin</PI_FULL_NAME>
+<EmailAddress><![CDATA[michael_mirkin@qc.edu]]></EmailAddress>
+<NSF_ID>000097744</NSF_ID>
+<StartDate>05/06/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[CUNY Queens College]]></Name>
+<CityName>FLUSHING</CityName>
+<ZipCode>113671575</ZipCode>
+<PhoneNumber>7189975400</PhoneNumber>
+<StreetAddress><![CDATA[6530 KISSENA BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EJABWGUJM228</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CUNY Queens College]]></Name>
+<CityName>FLUSHING</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>113671575</ZipCode>
+<StreetAddress><![CDATA[6530 KISSENA BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>910100</Code>
+<Text>CSD-Chem Strcture and Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~530000</FUND_OBLG>
+</Award>
+</rootTag>

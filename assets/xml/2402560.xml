@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: OAC Core: Cyber-Infrastructure for Community Detection, Extraction, and Search in Large Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ashok Srinivasan</SignBlockName>
+<PO_EMAI>asriniva@nsf.gov</PO_EMAI>
+<PO_PHON>7032922122</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Networks, also referred to as graphs, consist of nodes (vertices) connected by edges (links). Many  types of information can be represented as networks. For example, in social networks, vertices can represent people and edges can represent friendships, while in biological networks the vertices can represent proteins and the edges can represent interactions between proteins.  A basic problem in network analysis is to partition the vertices of a graph into non-overlapping sets so that each set represents a cohesive group.  This problem, referred to as “community detection” or “graph clustering”, has widespread application in many domains, including biology, engineering, and the social sciences. In this project, new community detection methods will be developed that can run on large networks in the order of millions and billions of vertices and will be implemented in highly efficient software that can be used in high performance computing platforms.  An educational component is included with advanced training for both undergraduate and graduate students. &lt;br/&gt;&lt;br/&gt;Community detection, otherwise known as graph clustering, is the problem of partitioning the vertices of a graph into disjoint sets, so that each set has desirable properties, such as being well-connected (i.e., not having a small edge cut), having high internal density, and being relatively separated from other clusters. Common approaches for graph clustering include optimizing under the modularity criterion or the Constant Potts Model.  Because these are NP-hard optimization problems, heuristic searches are used that can be very computationally intensive on large datasets.  Furthermore, recent research has revealed limitations to currently popular methods, including the tendency to produce very poorly connected clusters, i.e., clusters with small edge cuts. The Connectivity Modifier software was developed to address this problem: it modifies a given clustering by iteratively finding and removing small edge cuts from clusters and then reclustering, until all clusters are well-connected.  This project will develop new performant implementations of the Connectivity Modifier, and expand the set of clustering methods that can be used within the framework. The project will also develop a modular suite of clustering tools that address other problems in community detection, such as finding center-periphery clusters and overlapping clusters, that will enable developers to explore algorithmic approaches to clustering on large networks and also enable exploratory data analysis for applications researchers. The current implementations of these codes have not been implemented for very large networks nor for high performance computing (HPC) platforms. This project will develop parallel codes for these methods that can be deployed on a wide range of compute platforms.  The research in this project will be integrated into graduate level courses and undergraduate and graduate students will participate in advanced research under the mentorship of the project investigators.  The expected benefits include new software capable of analyzing networks with billions of vertices and that can be deployed in a wide range of hardware, enabling researchers to make discovery in a wide range of application areas, including systems biology, scientometrics, and social network analysis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402560</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Bader</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David A Bader</PI_FULL_NAME>
+<EmailAddress><![CDATA[bader@njit.edu]]></EmailAddress>
+<NSF_ID>000206826</NSF_ID>
+<StartDate>07/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New Jersey Institute of Technology]]></Name>
+<CityName>NEWARK</CityName>
+<ZipCode>071021824</ZipCode>
+<PhoneNumber>9735965275</PhoneNumber>
+<StreetAddress><![CDATA[323 DR MARTIN LUTHER KING JR BLV]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SGBMHQ7VXNH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW JERSEY INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New Jersey Institute of Technology]]></Name>
+<CityName>NEWARK</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>071021824</ZipCode>
+<StreetAddress><![CDATA[323 DR MARTIN LUTHER KING JR BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>090Y00</Code>
+<Text>OAC-Advanced Cyberinfrast Core</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~250000</FUND_OBLG>
+</Award>
+</rootTag>

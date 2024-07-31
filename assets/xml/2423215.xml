@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[XTRIPODS: Hybrid Science-Machine Learning Solvers for Nanophotonics and Metamaterials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>199040.00</AwardTotalIntnAmount>
+<AwardAmount>199040</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tracy Kimbrel</SignBlockName>
+<PO_EMAI>tkimbrel@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Machine Learning is rapidly advancing into our everyday lives, in the form of chatbots, image generation, computer vision, etc. The majority of existing machine learning models are trained on vast amounts of data, ranging from digitized books to internet forums to ever expanding image libraries. Machine learning is also making significant inroads into “soft” and social sciences that rely on descriptive data. At the same time, machine learning’s impact on computational sciences that are based on complex equations has been rather incremental. One of the main reasons for this relatively slow adoption of machine learning in computational sciences is the lack of diverse and extensive training datasets. This project aims to address the slow adoption of machine learning into computational sciences by embedding scientific knowledge (in the form of governing equations) into the machine learning process. In doing so, the project aims to develop new classes of computational algorithms that bring together the benefits of the universality of direct computer simulations and the speed of machine-learning-based predictions. The collaborative research will serve as a training ground for a new generation of interdisciplinary scientists working at the interface between physics, engineering, and computer science. &lt;br/&gt;&lt;br/&gt;The project aims to solve one of the main roadblocks for deploying machine learning tools to computational sciences: the paucity and relative homogeneity of training data. By embedding physics-based constraints into the machine learning process, the researchers aim to reduce the size of the training sets required to develop machine learning models and to improve the physics consistency of predictions of these models. The team will use the example of linear partial differential Maxwell equations in electromagnetic composites (metamaterials and metasurfaces) to predict distributions of electromagnetic fields in these composites and to increase the resolutions of these field distributions. The methods that are developed in this project for electromagnetic composites can be potentially applied for other computational-science-intensive fields, including acoustics and quantum science. The researchers will leverage collaboration between institutions for education and mentoring of participating students and for outreach activities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423215</AwardID>
+<Investigator>
+<FirstName>Viktor</FirstName>
+<LastName>Podolskiy</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Viktor A Podolskiy</PI_FULL_NAME>
+<EmailAddress><![CDATA[viktor_podolskiy@uml.edu]]></EmailAddress>
+<NSF_ID>000493531</NSF_ID>
+<StartDate>07/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Massachusetts Lowell]]></Name>
+<CityName>LOWELL</CityName>
+<ZipCode>018543629</ZipCode>
+<PhoneNumber>9789344170</PhoneNumber>
+<StreetAddress><![CDATA[600 SUFFOLK ST STE 450]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LTNVSTJ3R6D5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS LOWELL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Lowell]]></Name>
+<CityName>LOWELL</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>018543624</ZipCode>
+<StreetAddress><![CDATA[600 SUFFOLK ST STE 212]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>041Y00</Code>
+<Text>TRIPODS Transdisciplinary Rese</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>048Z</Code>
+<Text>TRIPODS Phase 2</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~199040</FUND_OBLG>
+</Award>
+</rootTag>

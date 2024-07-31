@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: Ultracold Atoms for Quantum Science]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>249684.00</AwardTotalIntnAmount>
+<AwardAmount>249684</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kathleen McCloud</SignBlockName>
+<PO_EMAI>kmccloud@nsf.gov</PO_EMAI>
+<PO_PHON>7032928236</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>While simple quantum systems have long been studied, there is increasing interest in quantum many-body systems, which play an increasingly important role in applied science and technology and in fields ranging from chemistry to cosmology.   These states, in which many degrees of freedom are entangled, are prohibitive to simulate on classical computers.   Ultracold atoms provide a powerful tool for simulating quantum many-body systems because they can be isolated from their environment, tuned over wide ranges and probed with high resolution.  This proposal is to develop a new experimental platform for creating new quantum simulation of many-body spin systems which will simulate quantum magnetism.   This will help understand how entanglement spreads in many-body interacting systems with applications in quantum metrology and quantum computing.   The PI will train students for careers in quantum information science with summer research programs, will develop 3-2 engineering partnerships with emerging Quantum Engineering degree programs and will join ongoing outreach at Lewis &amp; Clark and the Portland community.&lt;br/&gt;&lt;br/&gt;Quantum many-body systems have been very important in applied science and technology.  They generally cannot be simulated on classical computers.   The PI proposes to use ultracold atoms as a platform for quantum simulation since they can be isolated from the environment, tuned over wide ranges, and probed with great resolution   There is particular interest in systems far from equilibrium since spintronics, quantum-enhanced metrology and quantum computing all occur far from equilibrium.   The PI will develop a new experimental platform for creating new non-equilibrium quantum simulations of many-body spin systems.  They will explore extensions to the quantum Heisenberg Model which will inform models of quantum magnetism.   The PI will use Lithium 6.    This is a good choice since it is one of the first neutral atoms to be laser-cooled to quantum degeneracy, it is naturally abundant and is one of the few stable fermionic alkali isotopes.   Also, atomic interactions can be easily tuned using magnetic Feshbach resonances.  The two isotopes of lithium have similar resonant frequencies and thus a single apparatus can produce quantum simulations of either fermionic or bosonic systems.  The PI will use undergraduate researchers to make preliminary measurements of the spin properties of many-body quantum systems.    He will broaden STEM participation with a multi-pronged approach – through mentored summer research opportunities, cultivating dual-degree 3-2 partnerships emphasizing QIS careers and ongoing outreach, including middle-school lessons and summer camps.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt; &lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418777</AwardID>
+<Investigator>
+<FirstName>Ben</FirstName>
+<LastName>Olsen</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ben A Olsen</PI_FULL_NAME>
+<EmailAddress><![CDATA[bolsen@lclark.edu]]></EmailAddress>
+<NSF_ID>000949664</NSF_ID>
+<StartDate>06/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Lewis and Clark College]]></Name>
+<CityName>PORTLAND</CityName>
+<ZipCode>972198091</ZipCode>
+<PhoneNumber>5037687211</PhoneNumber>
+<StreetAddress><![CDATA[615 S PALATINE HILL RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JXJJHFBDBLD5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LEWIS &amp; CLARK COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JXJJHFBDBLD5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Lewis and Clark College]]></Name>
+<CityName>PORTLAND</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>972198091</ZipCode>
+<StreetAddress><![CDATA[615 S PALATINE HILL RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>217Y00</Code>
+<Text>LEAPS-MPS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~249684</FUND_OBLG>
+</Award>
+</rootTag>

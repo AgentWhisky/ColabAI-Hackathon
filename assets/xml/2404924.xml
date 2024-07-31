@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: Summer School on Cluster Algebras and Related Topics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>47996.00</AwardTotalIntnAmount>
+<AwardAmount>47996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stefaan De Winter</SignBlockName>
+<PO_EMAI>sgdewint@nsf.gov</PO_EMAI>
+<PO_PHON>7032922599</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Cluster Algebra Summer School takes place at the University of Connecticut June 17-21, 2024. It is aimed at graduate and advanced undergraduate students, and it comprises four mini-courses on different recent developments in the theory of cluster algebras and related topics. This theory is a relatively young branch of mathematics. The initial motivation was to gain an understanding of certain positivity properties in representation theory, a branch of modern algebra. The theory quickly developed deep connections to a variety of disciplines in mathematics and physics, and it is a highly active research area. Cluster algebras are commutative rings equipped with a combinatorial structure that groups its elements into certain subsets, called clusters, which are related to each other via an intricate apparatus called mutation. This structure turns out to be very natural, in the sense that it is present in a large number of mathematical designs. &lt;br/&gt;&lt;br/&gt;The four mini-courses are on the following topics. (1) Cluster structures on Richardson varieties and their categorification, which focuses on a relation between representation theory and cluster algebras in the setting of algebras arising from Grassmannian varieties. (2) Cluster algebras and Legendrian links, a mini-course on a connection between cluster algebras and symplectic geometry, especially the contact structure on positive braids. (3) Maximal almost rigid modules, a new type of modules over gentle algebras that correspond bijectively to triangulations of surfaces. (4) Cluster algebras and knot theory, which is on a fundamental relation to knots and links that gives new insights into both areas. All courses are on recent advances in the field and are taught by researchers who are directly involved in these developments. This summer school will help to prepare a diverse group of junior mathematicians to work in this important field. The url for the website of the school is https://egunawan.github.io/cass24/.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404924</AwardID>
+<Investigator>
+<FirstName>Ralf</FirstName>
+<LastName>Schiffler</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ralf Schiffler</PI_FULL_NAME>
+<EmailAddress><![CDATA[schiffler@math.uconn.edu]]></EmailAddress>
+<NSF_ID>000064291</NSF_ID>
+<StartDate>06/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Emily</FirstName>
+<LastName>Gunawan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Emily Gunawan</PI_FULL_NAME>
+<EmailAddress><![CDATA[emily_gunawan@uml.edu]]></EmailAddress>
+<NSF_ID>000965705</NSF_ID>
+<StartDate>06/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Connecticut]]></Name>
+<CityName>STORRS</CityName>
+<ZipCode>062699018</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress><![CDATA[438 WHITNEY RD EXTENSION UNIT 11]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WNTPS995QBM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CONNECTICUT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Connecticut]]></Name>
+<CityName>STORRS</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>062691133</ZipCode>
+<StreetAddress><![CDATA[438 WHITNEY RD EXTENSION UNIT 1133]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>797000</Code>
+<Text>Combinatorics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~47996</FUND_OBLG>
+</Award>
+</rootTag>

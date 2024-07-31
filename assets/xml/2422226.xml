@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Platform for Characterizing Transdiagnostic Markers of Disease from Wearable and Mobile Technologies]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>252329</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steve Zehnder</SignBlockName>
+<PO_EMAI>szehnder@nsf.gov</PO_EMAI>
+<PO_PHON>7032927014</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The goal of this Faculty Early Career Development (CAREER) project is to develop an open-source software platform using wearable sensors and mobile phones to help diagnose internalizing disorders in young children. Nearly one in five children experience an internalizing disorder like anxiety or depression. These disorders can hinder development well into adulthood. Yet objective and widely available assessment for these conditions remains a key unmet need. Such an assessment could enable effective diagnosis at scale while advancing the understanding of internalizing disorders, potentially informing future personalized interventions. The results of this project pave the way for improved assessment of a variety of disorders such as fall risk assessment in older adults and in individuals with neurological disorders. This project will also establish a digital mental health interest group at the University of Vermont that will bring together high-school, undergraduate, and graduate students with faculty and industry professionals. This group will engage in an annual digital mental health hackathon, hosted by UVM’s Center for Biomedical Innovation, that focuses on rural mental healthcare.&lt;br/&gt;&lt;br/&gt;This NSF CAREER project advances the fields of childhood mental health, digital medicine, and the engineering of signal processing and machine learning algorithms for extracting meaning from wearable sensor signals. These advances fill key knowledge gaps, and will be made in the context of three research objectives: 1) developing and validating context-aware multi-modal digital biomarkers and using them to identify transdiagnostic latent classes, 2) developing, validating, and optimizing multi-modal, multi-domain digital phenotypes of childhood internalizing disorders, and 3) developing an open-source platform that integrates algorithms for extracting biomarkers, latent classes, and phenotypes from wearable and mobile technologies. Data to inform this project will be collected from children at elevated risk for internalizing disorders. Each child will complete a series of brief mood induction tasks during which movement, speech, electromyography, electrodermal activity, and electrocardiography data will be collected by wearables and mobile phones. These research objectives advance scientific knowledge of the biomarkers and phenotypes of childhood internalizing disorders, trans-diagnostic latent profiles in young children, and the relationship between physiological markers of these conditions and their behavioral symptoms. The first-of-its-kind platform will advance development and validation efforts in digital medicine and allow future extension to a wide array of clinical endpoints.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2422226</AwardID>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>McGinnis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ryan McGinnis</PI_FULL_NAME>
+<EmailAddress><![CDATA[rmcginni@wakehealth.edu]]></EmailAddress>
+<NSF_ID>000771237</NSF_ID>
+<StartDate>03/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Wake Forest University School of Medicine</Name>
+<CityName>WINSTON SALEM</CityName>
+<ZipCode>271570001</ZipCode>
+<PhoneNumber>3367162382</PhoneNumber>
+<StreetAddress>MEDICAL CENTER BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SN7KD2UK7GC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WAKE FOREST UNIVERSITY HEALTH SCIENCES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name/>
+<CityName/>
+<StateCode/>
+<ZipCode/>
+<StreetAddress/>
+<CountryCode/>
+<CountryName>RI REQUIRED</CountryName>
+<StateName>RI REQUIRED</StateName>
+<CountryFlag>0</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF>""</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5342</Code>
+<Text>Disability &amp; Rehab Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~162828</FUND_OBLG>
+<FUND_OBLG>2022~89501</FUND_OBLG>
+</Award>
+</rootTag>

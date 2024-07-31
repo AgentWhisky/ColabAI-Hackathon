@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SHF: Small: Scalable and Extensible I/O Runtime and Tools for Next Generation Adaptive Data Layouts]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>300165.00</AwardTotalIntnAmount>
+<AwardAmount>289136</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The ability to perform large scale scientific simulations on supercomputers have fueled a wave of innovation and discoveries across a range of disciplines including energy, cosmology, earth science, medicine, and national security. With the advent of exascale, applications promise to deliver data of ever-increasing size at higher resolution and fidelity. Current technology trends in High Performance Computing (HPC) systems are creating an unprecedented gap between compute and I/O performance, making data movement the slowest component of the simulation-analysis pipeline. Many techniques have been proposed to alleviate this bottleneck including compression and hierarchical data layouts, but current solutions lack scalability and portability, and do not provide a holistic approach to the data-management needs of both parallel I/O and analysis (in situ and post-hoc) workflows. This work will develop a scalable and extensible I/O runtime and tools for the next-generation adaptive data layouts that inherently imbibe compression and progressive data access, advancing the state of art in the field of high-performance data management. The work will lay the foundation for an end-to-end data management solution that will cater to the challenging needs of the entire simulation-analysis pipeline and significantly accelerate science at exascale.&lt;br/&gt;&lt;br/&gt;The research aims to develop an end-to-end data-management solution for the next generation adaptive data layouts. The proposed data layouts will be  hierarchical, compressed, and tunable, making them suitable to deal with the data deluge and the evolving landscape of HPC. A hierarchical layout will allow progressive access to massively large data enabling post-hoc and in situ analysis at any scale. State-of-the-art data compression and reduction techniques will significantly alleviate data-movement bottlenecks, especially while performing parallel I/O. Finally, a tunable layout combined with novel performance analysis and visualization tools will allow data-driven approaches to optimize I/O performance at runtime for different workflows and HPC platforms. This project aims to achieve its goals by developing: a scalable and tunable parallel I/O runtime that will support progressive read/write operations using adaptive data layouts; interfaces to support the adaptive data layouts for in situ workflows; a novel WebGPU-powered visualization system that can take advantage of the progressive nature of the layout enabling interactive exploration of large datasets on web browsers; and performance-mining and -visualization tools to enable data-driven and portable I/O performance prediction and auto-tuning. The solution will be evaluated on leadership supercomputers and mid-scale clusters, and integrated with large-scale simulations, analysis, and I/O frameworks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/07/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>11/07/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401274</AwardID>
+<Investigator>
+<FirstName>Sidharth</FirstName>
+<LastName>kumar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sidharth kumar</PI_FULL_NAME>
+<EmailAddress><![CDATA[sidharth@uic.edu]]></EmailAddress>
+<NSF_ID>000807599</NSF_ID>
+<StartDate>11/07/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606124305</ZipCode>
+<PhoneNumber>3129962862</PhoneNumber>
+<StreetAddress><![CDATA[809 S MARSHFIELD AVE M/C 551]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>W8XEAJDKMXH3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606124305</ZipCode>
+<StreetAddress><![CDATA[809 S MARSHFIELD AVE M/C 551]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7942</Code>
+<Text>HIGH-PERFORMANCE COMPUTING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~289136</FUND_OBLG>
+</Award>
+</rootTag>

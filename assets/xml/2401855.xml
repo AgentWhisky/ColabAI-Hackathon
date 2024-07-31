@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Excellence in Research - Numerical and experimental investigations of droplet deposition in nasal cavity from topical intranasal corticosteroid sprays among diverse groups]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>867163.00</AwardTotalIntnAmount>
+<AwardAmount>867163</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020005</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Intranasal sprays play a crucial role in treating allergies and sinus disease.  Both conditions decrease quality of life and contribute to a substantial economic burden. Current intranasal sprays do not account for differences in nasal anatomy.  We know that the shape of the noses changes as we age and is different between ethnicities; however, we do not know if these differences decrease the benefits of nasal sprays. The goal of this project is to investigate the differences in drug deposition from nasal sprays among diverse groups using experimental and computing models. By studying how nasal sprays are absorbed in individuals with diverse ethnic backgrounds, genders, and ages, this research seeks to improve nasal spray delivery.  The broader impacts of this project include improving drug delivery methods for other nasal conditions, potential applications in nasal vaccine development, and fostering diversity in STEM education and research by providing opportunities for underrepresented students.&lt;br/&gt;&lt;br/&gt;This project will employ particle image velocimetry (PIV) testing, subject-specific model development from CT scans, and computational fluid dynamics (CFD) modeling to investigate intranasal corticosteroid spray (INCS) deposition patterns in diverse nasal cavities. Through the integration of experimental measurements and computational simulations, the project aims to develop accurate prediction tools for INCS drug deposition with three research tasks: (i) PIV measurements of the flow field near the exit of the nozzle in the drug spray for the three most-widely used over the counter (OTC) INCS to serve as the initial condition for the CFD modeling; (ii) CFD model development to investigate the drug deposition process in INCS; and (iii) Analysis of drug deposition difference among diverse groups  using CFD model validated by measurements in 3D printed models reconstructed from CT scans. The successful completion of this research will not only provide insights into drug delivery mechanisms, but will also contribute to the development of more effective nasal drug delivery systems. Additionally, this project will enhance undergraduate and graduate STEM education by integrating research findings into coursework and providing research opportunities for underrepresented students. Overall, this project has the potential to significantly impact both scientific knowledge and societal well-being by improving drug delivery methods and promoting diversity and inclusion in STEM fields.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401855</AwardID>
+<Investigator>
+<FirstName>Zheng</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zheng Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[zheng.li@morgan.edu]]></EmailAddress>
+<NSF_ID>000899324</NSF_ID>
+<StartDate>04/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Kimple</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adam J Kimple</PI_FULL_NAME>
+<EmailAddress><![CDATA[kimplead@med.unc.edu]]></EmailAddress>
+<NSF_ID>000934760</NSF_ID>
+<StartDate>04/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Morgan State University]]></Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212510001</ZipCode>
+<PhoneNumber>4438853200</PhoneNumber>
+<StreetAddress><![CDATA[1700 E COLD SPRING LN]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KULSKCCZJT27</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MORGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KULSKCCZJT27</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Morgan State University]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212510001</ZipCode>
+<StreetAddress><![CDATA[1700 E COLD SPRING LN]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>070Y00</Code>
+<Text>HBCU-EiR - HBCU-Excellence in</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>112Z</Code>
+<Text>Racial Equity in STEM</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~867163</FUND_OBLG>
+</Award>
+</rootTag>

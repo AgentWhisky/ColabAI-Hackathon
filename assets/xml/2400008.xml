@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A description of surface dynamics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>249103.00</AwardTotalIntnAmount>
+<AwardAmount>249103</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeremy Tyson</SignBlockName>
+<PO_EMAI>jtyson@nsf.gov</PO_EMAI>
+<PO_PHON>7032927210</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project seeks to understand the mechanisms that underlie the transition of a dynamical system from an ordered state to a random (chaotic) state. In other words, the aim is to understand the processes through which a system's behavior evolves from periodicity toward chaos, as one or more governing parameters are varied. A related goal is to identify the primary bifurcation responsible for qualitative changes exhibited by a dynamical system. While such comprehension has previously been attained for low-dimensional dynamical systems, this project introduces a novel approach to transcend the low-dimensional limitation. The project will offer new conceptual ideas and approaches to provide fresh perspectives on advances in mathematics and science. Additionally, the project will facilitate the training of graduate students directly engaged in the research, and will afford educational opportunities to undergraduate students through the organization of a summer school presenting topics in mathematics, including topics related to dynamical systems.&lt;br/&gt;&lt;br/&gt;The theory of one-dimensional dynamical systems successfully explains the depth and complexity of chaotic phenomena in concert with a description of the dynamics of typical orbits for typical maps. Its remarkable universality properties supplement this understanding with powerful geometric tools. In the two-dimensional setting, the range of possible dynamical scenarios that can emerge is at present only partially understood, and a general framework for those new phenomena that do not occur for one-dimensional dynamics remains to be developed. In prior work supported by the NSF, the principal investigator introduced a large open class of two-dimensional dynamical systems, including the classical Henon family without the restriction of large area contraction, that is amenable to obtaining results as in the one-dimensional case. Moreover, major progress was reached to understand the transition from zero entropy to positive entropy using renormalization schemes. The present project has several components. First, existing renormalization schemes will be adapted to the positive entropy realm. Next, initial steps towards a characterization of dissipative diffeomorphisms in more general contexts will be addressed. Finally, the principal investigator will seek to develop the theory of differentiable renormalization without an a priori assumption of proximity to the one-dimensional setting. These results will open the door to a global description of dissipative diffeomorphisms and their behavior under perturbation, bringing both new tools and new perspectives to smooth dynamical systems theory.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400008</AwardID>
+<Investigator>
+<FirstName>Enrique</FirstName>
+<LastName>Pujals</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Enrique Pujals</PI_FULL_NAME>
+<EmailAddress><![CDATA[epujals@gc.cuny.edu]]></EmailAddress>
+<NSF_ID>000788724</NSF_ID>
+<StartDate>04/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY Graduate School University Center</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100164309</ZipCode>
+<PhoneNumber>2128177526</PhoneNumber>
+<StreetAddress>365 5TH AVE STE 8113</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QVW9TFAZJFE7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CUNY Graduate School University Center]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100164309</ZipCode>
+<StreetAddress><![CDATA[365 5TH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5913</Code>
+<Text>BRAZIL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5918</Code>
+<Text>FRANCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~249103</FUND_OBLG>
+</Award>
+</rootTag>

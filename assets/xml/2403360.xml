@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[OAC Core: Enhancing Network Security by Implementing an ML Malware Detection and Classification Scheme in P4 Programmable Data Planes and SmartNICs]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>599999.00</AwardTotalIntnAmount>
+<AwardAmount>599999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Juan Li</SignBlockName>
+<PO_EMAI>jjli@nsf.gov</PO_EMAI>
+<PO_PHON>7032922625</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Malware attacks represent significant threats to organizations, which use a variety of approaches to protect against them. Examples include intrusion detection systems, intrusion prevention systems, and other security systems that run on general-purpose computers. Such schemes perform "deep packet inspection" (DPI), a process by which a security device protecting an organization thoroughly examines incoming traffic and alerts administrators about suspicious activities. While DPI may be effective in some scenarios, it requires significant processing. Furthermore, if the organization receives a high volume of traffic from the Internet, DPI may not keep up with the traffic and may only inspect a fraction of it. Additionally, the inspection may not be conducted in real-time and may only detect the malware after the attack.&lt;br/&gt;&lt;br/&gt;This project proposes to leverage the capability of P4 programmable data plane (PDP) switches and smartNICs to perform DPI. The project has four objectives. 1) Develop a malware detection and classification application running on PDPs, operating at line rate. The application will perform DPI of Domain Name System (DNS) packets, preventing malware from communicating with the corresponding C2 server. Traffic will be monitored in real-time, and functions commonly executed on general-purpose CPUs will be offloaded to PDPs. The plan includes analyzing DNS data, characterizing traffic patterns, and feeding such information to a machine learning (ML) algorithm. The ML algorithm will detect and classify malware according to their family (e.g., trojan, backdoor, ransomware). 2) Develop a malware detection and classification application running on a SmartNIC, for encrypted DNS packets. Research will be conducted to perform feature extraction for malware generating such packets. An ML algorithm will use the features to detect and classify the malware. 3) Develop a control application that shares threat intelligence and avoids malware propagation. As PDP switches and smartNIC detect malware, they share the threat intelligence with a centralized controller. 4) Expand the eX-IoT platform to fingerprint, store, and index newly detected and classified malware. The eX-IoT platform is a real-time platform for fingerprinting compromised devices on the Internet. The prototype running on PDPs and smart NICs will be built with open-source components available to the community, and the developed knowledge will be disseminated by synthesizing it as virtual lab libraries for courses and self-paced learning. The libraries will be distributed to colleges and universities. Finally, tutorials on malware detection and PDPs will be organized with organizations such as Internet2 and FABRIC.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403360</AwardID>
+<Investigator>
+<FirstName>Jorge</FirstName>
+<LastName>Crichigno</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jorge Crichigno</PI_FULL_NAME>
+<EmailAddress><![CDATA[jcrichigno@cec.sc.edu]]></EmailAddress>
+<NSF_ID>000571570</NSF_ID>
+<StartDate>04/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elias</FirstName>
+<LastName>Bou-Harb</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elias Bou-Harb</PI_FULL_NAME>
+<EmailAddress><![CDATA[ebouharb@lsu.edu]]></EmailAddress>
+<NSF_ID>000723736</NSF_ID>
+<StartDate>04/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elie</FirstName>
+<LastName>Kfoury</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elie Kfoury</PI_FULL_NAME>
+<EmailAddress><![CDATA[ekfoury@email.sc.edu]]></EmailAddress>
+<NSF_ID>000953075</NSF_ID>
+<StartDate>04/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of South Carolina at Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>292083403</ZipCode>
+<PhoneNumber>8037777093</PhoneNumber>
+<StreetAddress><![CDATA[1600 HAMPTON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J22LNTMEDP73</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTH CAROLINA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>J22LNTMEDP73</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of South Carolina at Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>292083403</ZipCode>
+<StreetAddress><![CDATA[1600 HAMPTON ST # 414]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>090Y00</Code>
+<Text>OAC-Advanced Cyberinfrast Core</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~599999</FUND_OBLG>
+</Award>
+</rootTag>

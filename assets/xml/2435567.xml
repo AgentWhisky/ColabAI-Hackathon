@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Netzero: Exploring the feasibility of generative AI language models to create scalable and equitable building energy models]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>294457.00</AwardTotalIntnAmount>
+<AwardAmount>294457</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Hamilton</SignBlockName>
+<PO_EMAI>bhamilto@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Existing buildings represent a substantial opportunity to reduce energy costs and decarbonize our society. Realizing this goal often requires creating a bottom-up physics-based building energy model (e.g. EnergyPlus) of a particular building to identify and analyze potential energy-efficient retrofit opportunities. Creating a detailed building energy model is a manual, labor-intensive, and expensive process, limiting access to such models for most buildings. The emerging technology of generative artificial intelligence (AI) large language models (LLMs) represents a potentially transformative mechanism to reduce the required labor and costs for creating building energy models, thereby making building energy modeling more accessible to a broad spectrum of the building stock. The overall research objective of this project is to explore the feasibility of generative AI LLMs to create building energy models and understand how this emerging technology can be applied to building decarbonization and energy equity challenges. The two project specific objectives are: 1) Test the feasibility of generative AI LLMs to automate various steps of building energy model creation; 2) Quantify the performance and time tradeoffs between traditional and generative AI-driven building energy models and apply these insights to decarbonization and energy equity challenges.&lt;br/&gt;&lt;br/&gt;This project is one of the first to apply the emerging technology of generative AI to the grand challenge of building decarbonization. The project has high-risk elements given the unproven nature of this new technology (large language models) and its application to the domain of building energy modeling. The research also has a “high reward” potential to fundamentally transform current practices in building energy modeling by automating the process of modeling building stock and identifying building energy efficiency and decarbonization solutions. The expected research results are potentially transformative as they would yield fundamental knowledge and quantitative analysis on the dynamics between building energy models and generative AI models. The knowledge created and the associated quantitative analysis will inform methods in both the fields of building science and artificial intelligence. Specifically, this project will yield the following: 1) A feasibility assessment and knowledge of how AI LLMs can automate each step of the building energy modeling process; 2) A quantitative understanding of the performance and time tradeoffs between traditional and generative AI-driven building energy models. This project aims to have a broad impact on the academic and burgeoning industrial communities related to generative AI and building decarbonization. For the academic community, this project will help catalyze a new generation of research spanning building science and artificial intelligence. The project’s impact on the academic community will be further enhanced by publishing data, code, and models to a GitHub repository. For the industrial community, this project aims to catalyze net-zero building heating and cooling by laying the foundation for highly scalable building energy models. The project plans to  reach the industrial community by leveraging existing outreach programs by the Stanford Center for Integrated Facility Engineering. Additionally, the project plans to partner with the Stanford Building Decarbonization Learning Accelerator to disseminate research and provide training to small firms that are leading decarbonization efforts in disadvantaged communities. The project will also have strong pedagogical broader impacts as the experiments will be conducted in PI Jain’s course on building energy modeling. Students in his course will gain exposure and hands-on experience with generative AI and its applications to building science.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2435567</AwardID>
+<Investigator>
+<FirstName>Rishee</FirstName>
+<LastName>Jain</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rishee Jain</PI_FULL_NAME>
+<EmailAddress><![CDATA[risheej@stanford.edu]]></EmailAddress>
+<NSF_ID>000655241</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>STANFORD</CityName>
+<ZipCode>943052004</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress><![CDATA[450 JANE STANFORD WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJD6G4D6TJY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE LELAND STANFORD JUNIOR UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>STANFORD</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943052004</ZipCode>
+<StreetAddress><![CDATA[450 JANE STANFORD WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>764300</Code>
+<Text>EnvS-Environmtl Sustainability</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~294457</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Self-Normalized Inference for High-Dimensional Time Series]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>175000.00</AwardTotalIntnAmount>
+<AwardAmount>175000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jun Zhu</SignBlockName>
+<PO_EMAI>jzhu@nsf.gov</PO_EMAI>
+<PO_PHON>7032924551</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The project aims to initiate a new paradigm for statistical inference of high-dimensional time series. High-dimensional time series refer to a sequence of large dimensional data collected over time, and examples include large panel data in economics, functional magnetic resonance imaging data in neuroscience, stock price data for a large set of companies in finance, cellular usage data over time for a large number of users in telecommunication, high-resolution spatio-temporal data in climate science, and many others. An intrinsic feature of high-dimensional time series data is the temporal dependence among high-dimensional data vectors collected at different time points, while many existing results on high-dimensional data analysis require such vectors to be independent of each other. By allowing dependence to exist not only among different components of the data vector at any given time point but also among data vectors collected at different time points, the project results are expected to lead to a new paradigm for statistical inference and uncertainty quantification of high-dimensional time series. In addition, the project products are expected to be transformative and useful in a wide range of applications to provide the practitioners with a powerful and convenient statistical toolbox for scientific discoveries involving the analysis of high-dimensional time series data. The research developed is expected to be integrated into the undergraduate and graduate education and equip the students with advanced yet accessible statistical tools for analyzing high-dimensional time series data. &lt;br/&gt;&lt;br/&gt;The project involves the development of a new paradigm to quantify the accumulative uncertainty of self-normalized statistics over an increasing dimension, and a number of its guided statistical inference problems and real applications. Self-normalization refers to the technique of using recursive estimators to pivotalize the asymptotic distribution of the statistic of interest, which has enjoyed considerable development in the low-dimensional setting. Its extension to the high-dimensional setting, however, can be a nontrivial challenge and directly applying self-normalization to high-dimensional objects can lead to singularities or substantial size distortions. A major gap that prevented self-normalized statistics from prevailing in high-dimensional time series analysis is their non-standard limiting distribution which has been mostly tabulated through numerical approximations. To address this, the project seeks a new approach in connection with harmonic analysis to provide an analytical characterization on how the uncertainty of self-normalized distributions accumulates over an increasing dimension. The results then would guide the development of various statistical methods and their asymptotic theory for self-normalized inference of high-dimensional time series. These include, for example, self-normalized high-dimensional feature selection, simultaneous uncertainty quantification of high-dimensional objects, and extensions to general quantities such as the median, variance, quantiles, autocovariances, ratio statistics, and others.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412661</AwardID>
+<Investigator>
+<FirstName>Ting</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ting Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[tingzhang@uga.edu]]></EmailAddress>
+<NSF_ID>000632298</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Georgia Research Foundation Inc]]></Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress><![CDATA[310 E CAMPUS RD RM 409]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NMJHD63STRC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia]]></Name>
+<CityName>ATHENS</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306021589</ZipCode>
+<StreetAddress><![CDATA[310 E CAMPUS RD RM 409]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~175000</FUND_OBLG>
+</Award>
+</rootTag>

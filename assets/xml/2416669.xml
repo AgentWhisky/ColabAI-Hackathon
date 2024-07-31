@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: School and Workshop on Univalent Mathematics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>49959.00</AwardTotalIntnAmount>
+<AwardAmount>49959</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+<PO_EMAI>tbartosz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award supports participants of the Fourth School and Workshop on Univalent Mathematics during 2024/7/28-8/2 at the University of Minnesota. The "Univalent Foundations," devised by Fields Medalist Vladimir Voevodsky, is an alternative foundation for mathematics that is particularly amenable to formal computer verification. Mathematical proofs formulated in the Univalent Foundations can thus be checked by computers automatically. This workshop will be the first one in the series in the United States, and aims to train the participants in the theory and practice of the Univalent Foundations and foster research activities in related areas.&lt;br/&gt;&lt;br/&gt;The Univalent Foundations offers certain novel features:&lt;br/&gt;1. It is based on type theory, a formal language that arguably matches everyday mathematics better and supports effective computer checking.&lt;br/&gt;2. Traditional sets from set theory can still be represented as particular types.&lt;br/&gt;3. Equalities between elements can have richer structures suitable for representing, for example, different isomorphisms between two isomorphic sets.&lt;br/&gt;4. The univalence principle is built-in, which formally asserts that isomorphic structures must be treated as equal, and thus, all definitions automatically respect isomorphisms.&lt;br/&gt;&lt;br/&gt;Participants will learn how to express mathematical ideas using the Univalent Foundations in a computer system (proof assistant) that can offer immediate feedback. More information about the event is available at https://unimath.github.io/minneapolis2024/.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2416669</AwardID>
+<Investigator>
+<FirstName>Kuen-Bang</FirstName>
+<LastName>Hou</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kuen-Bang Hou</PI_FULL_NAME>
+<EmailAddress><![CDATA[kbh@umn.edu]]></EmailAddress>
+<NSF_ID>000780066</NSF_ID>
+<StartDate>04/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress><![CDATA[200 OAK ST SE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554550159</ZipCode>
+<StreetAddress><![CDATA[200 Union ST SE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126800</Code>
+<Text>FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~49959</FUND_OBLG>
+</Award>
+</rootTag>

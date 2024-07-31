@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: Inaugural Berkeley-Stanford Workshop on Veridical Data Science]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>11000.00</AwardTotalIntnAmount>
+<AwardAmount>11000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tapabrata Maiti</SignBlockName>
+<PO_EMAI>tmaiti@nsf.gov</PO_EMAI>
+<PO_PHON>7032925307</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Inaugural Berkeley-Stanford Workshop on Veridical Data Science will be held on Friday &lt;br/&gt;May 31, 2024, at BIDS on UC Berkeley campus. The organizing committee consists of &lt;br/&gt;Bin Yu (UC Berkeley, co-chair), Russ Poldrack (Stanford, co-chair), Maya Mathur &lt;br/&gt;(Stanford), and Tiffany Tang (University of Michigan). This conference is jointly hosted &lt;br/&gt;by the Berkeley Institute of Data Science (BIDS) and the Department of Statistics, parts of &lt;br/&gt;UC Berkeley's College of Computing, Data Science, and Society (CDSS) and Stanford &lt;br/&gt;Data Science Center for Open and Reproducible Science (SDS-CORES).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Data science is playing a ubiquitous role in science, society, and beyond, underscoring &lt;br/&gt;the urgent need to ensure the trustworthiness and safety of data science including &lt;br/&gt;machine learning. The data science life cycle (DSLC) is often a complex and multi-step &lt;br/&gt;process, including domain problem formulation, data collection and cleaning, data &lt;br/&gt;visualization, model/algorithm development, post-hoc visualization, interpretation, &lt;br/&gt;vetting and communication. In every step of a DSLC, human judgment calls are made &lt;br/&gt;and often unaccounted for in the traditional uncertainty quantification. Veridical data &lt;br/&gt;science (VDS) is the practice of rigorously conducting data analysis while making &lt;br/&gt;human judgment calls and using domain knowledge to extract and communicate useful, &lt;br/&gt;trustworthy information from data to solve a real-world domain problem. The &lt;br/&gt;Predictability-Computability-Stability (PCS) framework and documentation have been &lt;br/&gt;developed towards veridical data science. This conference is focused on veridical &lt;br/&gt;(truthful) data science (VDS) for responsible data analysis and decision-making. There &lt;br/&gt;will be 4 keynote speakers and 9 invited speakers. We expect around 100–150 &lt;br/&gt;attendees from both academia and industry. 8-10 lightning talk speakers will be &lt;br/&gt;selected based on submitted abstracts. This workshop intends to build a community of &lt;br/&gt;veridical data science researchers. https://na.eventscloud.com/website/69057&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/25/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/25/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413618</AwardID>
+<Investigator>
+<FirstName>Bin</FirstName>
+<LastName>Yu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bin Yu</PI_FULL_NAME>
+<EmailAddress><![CDATA[binyu@stat.berkeley.edu]]></EmailAddress>
+<NSF_ID>000465148</NSF_ID>
+<StartDate>04/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~11000</FUND_OBLG>
+</Award>
+</rootTag>

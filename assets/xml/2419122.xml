@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: AI4OPT-AG: Advancing Quad Collaboration via Digital Agriculture and Optimization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne Emig</SignBlockName>
+<PO_EMAI>aemig@nsf.gov</PO_EMAI>
+<PO_PHON>7032927241</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The United Nations predicts a global population beyond 9 billion by 2050, requiring at least doubling current food production. However, half of our planet's habitable land is already used for agriculture with little left for new farms. As such, food productivity must increase in order to grow more food within the land we have. Controlled-environment agriculture (CEA) offers a great potential solution – in this type of indoor farming, plants grow in oxygenated, fertilizer-rich hydroponics rather than soil, allowing growers to optimize plant nutrition. Paired with the precise control of environmental conditions enabled by indoor cultivation, plants can exhibit enhanced productivity in hydroponic systems and can be cultivated at higher areal densities in vertical configurations. Further, agricultural digitization can help improve efficiency, resilience, and sustainability of commercial vertical farming by opening the door to implementation of artificial intelligence (AI) for automation, real-time monitoring and control, and exploitation of massive amounts of data, promising deeper fundamental understanding of both plant physiology and performance within an engineering context. In this project, AI4OPT-AG, established by Georgia Tech, will lead an exploratory multi-national research network with targeted institutions in Japan, Australia, and India to collaborate and accelerate innovations in digital agriculture and optimization, and bolster food security for our future.&lt;br/&gt;&lt;br/&gt;High-fidelity digital-twin-based approaches to digitization, and further, in-silico optimization, remain nascent in agriculture and the life sciences more broadly. This cultivation modality presents a useful platform for the study of living, dynamic, cyber-physical systems, with the implementation of hydroponic rather than soil-based configurations enabling direct, near-instantaneous control of the plant growth environment. Two specific next-generation techniques, hyperspectral imaging and gas chromatography fingerprinting of plant signaling molecules, could unlock valuable fundamental insights into plant physiology, but generate massive datasets requiring efficient processing to generate actionable insights. Innovations in digital agriculture, particularly in the engineering and integration of artificial intelligence (AI), biofeedback, and robotics could accelerate both knowledge generation and technology development. The primary challenges associated with this approach arise from the massive quantity of data, and the heterogeneity in data modality, quality, resolution, frequency, and complexity. There is also an opportunity to hybridize modeling approaches beyond purely data-driven or first- principles- based approaches. Such a hybrid approach may improve capabilities beyond those of its individual components, with first principles based physiological models providing fundamental constraints, transparency, and a tether to ground truths, while data-driven approaches provide data augmentation, unparalleled fitting abilities, and efficient management of high dimensional data. We are developing novel approaches to manage, integrate, exploit, and optimize these disparate, and often sparse data streams to enable rapid, computationally efficient techniques to support control and optimization applications. Although robotics and automation are valuable paths towards rapid feedback and high-throughput data collection in vertical farming operations, innovations in AI are crucial to enable rapid, accurate, high-throughput, non-destructive plant status determinations as a platform for performance optimization.&lt;br/&gt;&lt;br/&gt;This award is supported as part of the Quad AI-ENGAGE initiative to advance innovation through critical technologies to empower next generation agriculture.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/26/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/26/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419122</AwardID>
+<Investigator>
+<FirstName>Pascal</FirstName>
+<LastName>Van Hentenryck</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pascal R Van Hentenryck</PI_FULL_NAME>
+<EmailAddress><![CDATA[pvh@isye.gatech.edu]]></EmailAddress>
+<NSF_ID>000109104</NSF_ID>
+<StartDate>04/26/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yongsheng</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yongsheng Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[yongsheng.chen@ce.gatech.edu]]></EmailAddress>
+<NSF_ID>000324563</NSF_ID>
+<StartDate>04/26/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Igou</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas K Igou</PI_FULL_NAME>
+<EmailAddress><![CDATA[thomas.igou@gatech.edu]]></EmailAddress>
+<NSF_ID>000926275</NSF_ID>
+<StartDate>04/26/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303186395</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303186395</ZipCode>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>054Y00</Code>
+<Text>GVF - Global Venture Fund</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5912</Code>
+<Text>AUSTRALIA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5919</Code>
+<Text>INDIA (COOPERATIVE SCIENCE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5921</Code>
+<Text>JAPAN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

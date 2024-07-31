@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Solute cluster strengthening mechanism in Mg alloys]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>289939.00</AwardTotalIntnAmount>
+<AwardAmount>289939</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Madison</SignBlockName>
+<PO_EMAI>jmadison@nsf.gov</PO_EMAI>
+<PO_PHON>7032922937</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;Tiny groupings of solute atoms at the nanometer scale in materials are referred to as "solute clusters," and they have the potential to dramatically improve the strength of metal alloys. This process has been recognized only in the last two decades and is not yet fully understood, especially when compared to more conventional strengthening methods, such as precipitate strengthening, which involves growing hard particles in alloys to make them stronger. In this work, Mg alloys are selected as the model system. The goal of this research is to understand when and why the nanoscale clustering of solute atoms can work better than other strengthening mechanisms. It is anticipated that certain types of solute clusters, based on their chemical compositions and spatial arrangements, can be particularly potent at blocking the movement of dislocations, which are line defects in alloys that accommodate plastic deformation. Via a combination of advanced experimental characterization and computer simulation techniques, the research will be carried out in the following steps: first, to understand the structure and spatial dispersion of solute clusters; next, to elucidate how these solute clusters interact with dislocations at the nanometer scale; and finally, to quantify how much stronger these solute clusters can make the metal macroscopically. This research could lead to a new theory to quantitatively predict metal strength based on the presence of these solute clusters. The significance of this research lies in its potential to advance our knowledge of alloy strengthening, which could result in the development of stronger and lighter metallic materials for everything from cars to planes. It also includes educational outreach, such as engaging students of various age groups and the public with materials science and creating new learning opportunities in the field.&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;Recognizing solute cluster strengthening as a novel strengthening mechanism, the goal of the project is to address the knowledge gap in quantitatively modeling and understanding the interactions between solute clusters and dislocations at the atomistic level and the subsequent macroscopic yield strength enhancement. Using Mg as the model system, the project's objective is to elucidate the fundamental mechanisms underpinning solute cluster strengthening through a multiscale approach and to develop a quantitative predictive model of the associated strengthening stress. One key scientific question to be tackled is why solute clustering is more effective than traditional precipitate strengthening under certain conditions. The hypothesis is that specific solute cluster configurations and chemistries offer superior strengthening effects compared to both a superposition of individual solute atoms in a randomized solid solution and precipitates containing an equivalent number of solute atoms. To validate this hypothesis, the following research activities are proposed: atomic-scale prediction and identification of solute cluster chemistry and structure; nanometer-scale modeling and characterization of dislocation-cluster interactions; and continuum-scale prediction and measurement of the critical resolved shear stress enhancement due to solute clusters across different slip systems. By integrating computational simulations with experimental validation, the proposed research seeks to develop a transformative multiscale model that integrates the intricate atomic-level details of cluster-dislocation interactions for quantitative modeling of dislocation slip mechanics and prediction of flow stress. Moreover, this research will offer insights into the specific scenarios wherein solute cluster strengthening outperforms conventional precipitate hardening. The anticipated outcome is a new physical model that complements existing alloy strengthening theories, advancing the field of materials science and the development of alloys with enhanced mechanical performance. The educational component of the project will promote engagement with K-12 and underrepresented student groups, facilitating their participation in science and engineering through special events and student exchange programs. Additionally, the development of a new summer school course on multiscale modeling of structural materials will further reinforce the nation's scientific and engineering workforce competitiveness.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410049</AwardID>
+<Investigator>
+<FirstName>Yu Kelvin</FirstName>
+<LastName>Xie</LastName>
+<PI_MID_INIT>X</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yu Kelvin X Xie</PI_FULL_NAME>
+<EmailAddress><![CDATA[kelvin_xie@tamu.edu]]></EmailAddress>
+<NSF_ID>000796710</NSF_ID>
+<StartDate>06/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress><![CDATA[3124 TAMU]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778430001</ZipCode>
+<StreetAddress><![CDATA[3003 TAMU]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177100</Code>
+<Text>METAL &amp; METALLIC NANOSTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>094Z</Code>
+<Text>Materials Data</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~289939</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: FMitF: Track I: Synthesis and Verification of In-Memory Computing Systems using Formal Methods]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sorin Draghici</SignBlockName>
+<PO_EMAI>sdraghic@nsf.gov</PO_EMAI>
+<PO_PHON>7032922232</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project is a collaborative effort that brings together expertise in formal methods, machine learning, computer-aided design, and fabrication of in-memory computing systems. The main goal of the project is to create formal methods that can synthesize neural networks in the memory of the computer and also prove their correctness. The project pursues tasks that include the verification of neural networks accelerated using analog in-memory computing (IMC) and the synthesis of hybrid analog-digital IMC for neural networks using formal methods and machine learning. The project demonstrates these innovations using in-field fabrication of IMC systems. The effort creates new algorithms for enabling the deployment of robust AI models on emerging in-memory hardware technologies that may be more prone to errors than traditional CMOS technologies. The project would also allow the training of neural networks with reduced power consumption. This is particularly important given the larger adoption of AI and the need to train more and more powerful neural networks. The endeavor enables several other contributions to the research community, including enhancing the reliability of neural networks on in-memory circuits, increasing diversity in computer engineering and computer science, and fostering interdisciplinary collaboration across formal methods, machine learning, and hardware design. &lt;br/&gt;&lt;br/&gt;The project focuses on advancing formal methods to tackle real-world challenges encountered in emerging in-memory computing systems. By leveraging recent innovations in machine learning and formal methods, the project synthesizes crossbars for neural nets using decision diagrams, neural nets, and reinforcement learning. It verifies bidirectional digital IMC circuits before demonstrating such in-memory computing systems through fabrication. This effort expands our understanding of the capabilities and limitations of in-memory computing systems and creates innovations in fields such as in-memory computing, formal methods, and artificial intelligence.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/08/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>12/08/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404036</AwardID>
+<Investigator>
+<FirstName>Sumit</FirstName>
+<LastName>Jha</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sumit K Jha</PI_FULL_NAME>
+<EmailAddress><![CDATA[sumit.jha@fiu.edu]]></EmailAddress>
+<NSF_ID>000570822</NSF_ID>
+<StartDate>12/08/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida International University</Name>
+<CityName>MIAMI</CityName>
+<ZipCode>331992516</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress>11200 SW 8TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q3KCVK5S9CP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA INTERNATIONAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Q3KCVK5S9CP1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>MIAMI</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331992516</ZipCode>
+<StreetAddress><![CDATA[11200 SW 8TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>094Y</Code>
+<Text>FMitF: Formal Methods in the F</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>071Z</Code>
+<Text>FMitF-Formal Methods in the Field</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~250000</FUND_OBLG>
+</Award>
+</rootTag>

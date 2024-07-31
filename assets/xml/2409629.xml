@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Precision Tests of Einstein's Equations with Axisymmetric Numerical Relativity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>119998.00</AwardTotalIntnAmount>
+<AwardAmount>39999</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award supports a new research initiative, which will use the techniques of numerical relativity to model black hole formation and explore possible consequences for astrophysical observations. This effort is complementary to the work of a recently formed Utah LIGO group, and will enhance collaboration with gravitational researchers both within and external to the University of Utah. The work will be carried out by the PI in conjunction with both graduate and undergraduate students, as problems in numerical relativity are excellent training grounds in both modern physics research and state-of-the-art computational techniques. The PI will continue to maintain an affiliation with departmental outreach programs that conduct direct outreach to groups underrepresented in the sciences including rural schools in Utah and Montana.&lt;br/&gt;&lt;br/&gt;The observation of gravitational waves by the LIGO and VIRGO interferometers is among the greatest scientific achievements of the twenty-first century, simultaneously confirming one of Einstein's most elusive predictions and opening a new window into the study of astrophysical processes. At the same time, these successes created new motivation to probe the foundations of General Relativity, which is known to be an incomplete picture of nature. In most cases of interest, it is necessary to bring the techniques of numerical relativity to bear on the simultaneous solution of ten independent Einstein equations in four-dimensional spacetime. These solutions may either predict observations or serve as a laboratory for "thought experiments" in which exotic spacetimes are tested to understand the limitations of the theory. One such laboratory is the study of critical phenomena that occur in spacetimes near the black hole creation threshold. Previous work by the Utah Numerical Relativity group has focused on competing critical collapse of scalar fields in spherical symmetry, in which the interplay between several stress-energy sources may tend to enhance or frustrate the collapse of the system. Under this award, the group will extend these studies to axisymmetric systems to test whether the competing collapse phenomenon persists in more generic systems, and if so, what the consequences might be for primordial black hole formation and other observables. In a related parallel effort, we are applying new computational techniques to the historically difficult problem of the collapse of vacuum gravitational waves.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409629</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Belz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John Belz</PI_FULL_NAME>
+<EmailAddress><![CDATA[belz@physics.utah.edu]]></EmailAddress>
+<NSF_ID>000222886</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841129049</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL8GLEVH6MG3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF UTAH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841129049</ZipCode>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124400</Code>
+<Text>Gravity Theory</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~39999</FUND_OBLG>
+</Award>
+</rootTag>

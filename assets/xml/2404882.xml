@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Homological Mirror Symmetry and Fukaya Categories from a Toric Perspective]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>111345.00</AwardTotalIntnAmount>
+<AwardAmount>111345</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eriko Hironaka</SignBlockName>
+<PO_EMAI>ehironak@nsf.gov</PO_EMAI>
+<PO_PHON>7032927041</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Interesting and impactful mathematics often arises when new connections are made between different fields of math. While even heuristic connections can be fruitful, mirror symmetry provides a fascinating direct connection, originating from modern physics, between algebraic geometry and symplectic topology that has led to major advances in both areas. Algebraic geometry is a rich and classical field of mathematics that explores shapes called algebraic varieties described by polynomial equations. Symplectic topology is a younger area that studies shapes built from a geometric formalism for classical mechanics by packaging solutions to certain partial differential equations into algebraic invariants. This project aims to deepen our understanding of the mirror symmetry phenomenon by building on new insights in a special case where the algebraic varieties are particularly symmetric. This will be done with the aim of verifying new cases of the homological mirror symmetry conjecture, exploring structural aspects of a symplectic invariant known as the Fukaya category, and investigating arithmetic aspects of mirror symmetry. The project will also involve undergraduate research projects on combinatorial problems coming from mirror symmetry.&lt;br/&gt;&lt;br/&gt;The first technical goal of the project is to further develop functorial aspects of the toric homological mirror symmetry equivalence by enlarging the list of sheaves and functors that can be provably described in terms of Lagrangian submanifolds and geometric operations on them. These geometric functors will give a better understanding of homological mirror symmetry for singular varieties obtained by gluing toric varieties along toric strata, which can then be deformed to obtain new cases of the homological mirror symmetry conjecture. In the other direction, the project will seek to leverage the geometric flexibility of the Fukaya category to construct new group actions on derived categories of toric varieties. The project will also aim to determine when symplectic fibrations can be described in terms of cornered Liouville sectors resulting in a gluing formula for their Fukaya categories. Finally, the project will explore the extent to which the toric Frobenius morphism and its simple geometric description on the mirror can be extended to other classes of varieties with an eye towards generation time in the derived category.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by Topology and Geometric Analysis program and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404882</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Hanlon</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew Hanlon</PI_FULL_NAME>
+<EmailAddress><![CDATA[andrew.d.hanlon@dartmouth.edu]]></EmailAddress>
+<NSF_ID>000787872</NSF_ID>
+<StartDate>05/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Dartmouth College]]></Name>
+<CityName>HANOVER</CityName>
+<ZipCode>037552170</ZipCode>
+<PhoneNumber>6036463007</PhoneNumber>
+<StreetAddress><![CDATA[7 LEBANON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<StateCode>NH</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NH02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EB8ASJBCFER9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF DARTMOUTH COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>T4MWFG59C6R3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Trustees of Dartmouth College]]></Name>
+<CityName>HANOVER</CityName>
+<StateCode>NH</StateCode>
+<ZipCode>037552170</ZipCode>
+<StreetAddress><![CDATA[7 LEBANON ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NH02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126500</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~111345</FUND_OBLG>
+</Award>
+</rootTag>

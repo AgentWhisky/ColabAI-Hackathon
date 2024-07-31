@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MCA: Linking the biodiversity of necrophagous insects and their microbes to the fate of carrion]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2025</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>327219.00</AwardTotalIntnAmount>
+<AwardAmount>327219</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kari Segraves</SignBlockName>
+<PO_EMAI>ksegrave@nsf.gov</PO_EMAI>
+<PO_PHON>7032928935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will test how insect and microbial diversity affect the breakdown of dead animals. Decomposition of dead organisms is critical for controlling the recycling of nutrients in ecosystems. For example, this recycling process can affect soil health and plant growth. Decomposition of dead animals, or carrion, is a unique process because high-quality nutrients, such as proteins, fats, and carbohydrates, may be recycled for reuse by living organisms. Although carrion decomposition is important in natural systems, little is known about the ecology of this process. Some microbes and insects feed only on animal remains, but it is unknown how the diversity of these organisms affects decomposition rates. This project will provide insight into the role of insect and microbial diversity in controlling the fate of the estimated two billion tons of animal life on Earth. The results will help guide environmental management plans in a world of declining biodiversity. The project will also train undergraduate students through workshops on microbes.&lt;br/&gt;&lt;br/&gt;To investigate the effect of insect and microbial taxonomic and functional diversity on decomposition rates of carrion, this project will use carrion mesocosms with four levels of insect species richness, from zero to three, in an outdoor, terrestrial field experiment. Each treatment will be replicated five times to capture a range of insect combinations within a block of four treatments. Further, the experiment will be replicated across three blocks to capture variation across experiment locations, for a total of sixty mesocosms. This research will take place at the Pineywoods Environmental Research Laboratory at Sam Houston State University, where carrion decomposer insects and microbes have been studied for over a decade. Insect functional traits, such as body size to tarsus size ratio, will be measured and included in Rao's quadratic entropy to estimate functional trait diversity of each mesocosm insect community. Carrion tissue and associated soil microbiomes will be characterized via amplicon sequencing over the key decomposition stages of active and advanced decay. Key microbial decomposer metabolic activity, which may be a functional niche unique to carrion decomposition, will be investigated via meta-transcriptomics. The contributions of insect taxonomic and functional diversity, microbial taxonomic and metabolic diversity on the ecosystem function of decomposition rate will be estimated via generalized linear mixed effects models. The results of this project will illuminate biodiversity ecosystem function relationships in an important, yet understudied system.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423119</AwardID>
+<Investigator>
+<FirstName>Jessica</FirstName>
+<LastName>Metcalf</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jessica L Metcalf</PI_FULL_NAME>
+<EmailAddress><![CDATA[Jessica.Metcalf@colostate.edu]]></EmailAddress>
+<NSF_ID>000078744</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Colorado State University]]></Name>
+<CityName>FORT COLLINS</CityName>
+<ZipCode>805212807</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress><![CDATA[601 S HOWES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LT9CXX8L19G1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLORADO STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Colorado State University]]></Name>
+<CityName>FORT COLLINS</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>805214593</ZipCode>
+<StreetAddress><![CDATA[601 S HOWES ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>112800</Code>
+<Text>Population &amp; Community Ecology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>101Z</Code>
+<Text>MCA-Mid-Career Advancement</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~327219</FUND_OBLG>
+</Award>
+</rootTag>

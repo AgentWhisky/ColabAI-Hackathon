@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SCH: In-Vivo Real-Time Assessment of Thrombus in Stroke Treatment via Fiber Raman Spectroscopy and Multi-Physics Neural-Operator Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>1199991.00</AwardTotalIntnAmount>
+<AwardAmount>1199991</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Fowler</SignBlockName>
+<PO_EMAI>jafowler@nsf.gov</PO_EMAI>
+<PO_PHON>7032928910</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Stroke is a leading cause of death and disability worldwide, creating a significant social and economic burden. It occurs when a blood clot blocks an artery in the brain, cutting off the blood supply and leading to the death of brain cells. To treat stroke, prompt removal of the clot via an inserted tube is critical. It has been noticed that the effectiveness of different clot removal devices and techniques varies depending on the clot's chemical and mechanical properties. However, there is currently no suitable method to determine the properties of a clot stuck in the brain in advance of the surgical process.  Thus, the goal of this project is to achieve real-time assessment of clot mechanical properties to guide decision-making for higher clot removal success rates. This project aims to provide doctors with an imaging cable, with a special light source, that can be delivered through the tube to measure the clot's properties. To quickly and accurately interpret the light collected from the clot for chemical- and mechanical-property measurement, an artificial-intelligence algorithm will be created. The development of the imaging cable and the artificial-intelligence algorithm for clinical use will be enabled in this project by the advancement of knowledge in multiple areas including engineering, physics, data science, biochemistry, and medicine via the collaboration among engineers, scientists, and doctors. Additionally, this project will involve undergraduate, community college, and high-school students in research, with an emphasis on diversity in race, gender, and academic stages.&lt;br/&gt;&lt;br/&gt;The current standard of care for ischemic stroke caused by large-vessel occlusion is mechanical thrombectomy. The failure and complications of mechanical thrombectomy can be associated with the lack of understanding of the mechanical properties of the blood clot to be retrieved. Currently, the evaluation of clot properties can be only vaguely achieved preoperatively by magnetic resonance imaging or computer tomography, which cannot assist real-time decision making. The goal of this project is to achieve intravascular, in-vivo, real-time assessment of clot mechanical properties to guide thrombectomy decision-making for higher success rates. To achieve this goal, the project has three objectives: 1) to evaluate clot chemical composition in-vivo using a catheter with fiber Raman spectroscopy; 2) to predict clot mechanical properties based on its chemical composition via multi-physics modeling and machine learning; and, 3) to validate this in-vivo real-time intravascular approach in animal and human cadaveric models for clinical translation. Specifically, this project has the following tasks: 1) integration of a sub-millimeter Raman fiber probe into a catheter for neuro-intervention; 2) training of a convolutional neural network to interpret Raman spectra for clot biochemical compositions, addressing inconsistent spectral biomarkers and fiber-induced background noise; 3) development of a multi-physics dissipative particle-dynamics model of blood clots with cellular components designed to address variations in individual clinical cases; and 4) training of a neural operator to achieve real-time mapping from Raman signals to clot mechanics. This project has the following potential contributions. In physics and engineering, downsizing the Raman fiber probe to the unprecedented sub-millimeter scale demonstrates the philosophy of using machine learning to overcome hardware difficulties, which can drive sensor innovation. In biology and biochemistry, the miniaturized Raman probe will remove spatial constraints to enable Raman spectroscopy in a wider range of specimens and settings. In medicine and translational research, the multi-physics particle-based numerical model of blood-clot biomechanics can serve as an in-silico platform for investigating the pathogenesis of thrombosis and testing drugs and devices interacting with clots. In data science, this project showcases the neural operator accelerating scientific simulation for real-time, data-driven, clinical decision-making, which may promote machine-learning use for fast interpretation of clinical data. The project may promote sensor-enabled, data-driven, real-time, intraoperative decision-making for optimized thrombectomy with safe, fast, and complete clot removal. Given the fact that stroke is a leading cause of death and disability all around the world, this project promises significant societal impacts.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406212</AwardID>
+<Investigator>
+<FirstName>Yuxiang</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yuxiang Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[yliu11@wpi.edu]]></EmailAddress>
+<NSF_ID>000656296</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yihao</FirstName>
+<LastName>Zheng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yihao Zheng</PI_FULL_NAME>
+<EmailAddress><![CDATA[yzheng8@wpi.edu]]></EmailAddress>
+<NSF_ID>000784981</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Worcester Polytechnic Institute]]></Name>
+<CityName>WORCESTER</CityName>
+<ZipCode>016092247</ZipCode>
+<PhoneNumber>5088315000</PhoneNumber>
+<StreetAddress><![CDATA[100 INSTITUTE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJNQME41NBU4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WORCESTER POLYTECHNIC INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Worcester Polytechnic Institute]]></Name>
+<CityName>WORCESTER</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>016092247</ZipCode>
+<StreetAddress><![CDATA[100 INSTITUTE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>801800</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7936</Code>
+<Text>SIGNAL PROCESSING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1199991</FUND_OBLG>
+</Award>
+</rootTag>

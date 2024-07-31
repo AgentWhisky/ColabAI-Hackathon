@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: FET: Small: Reservoir Computing with Ion-Channel-Based Memristors]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>269912.00</AwardTotalIntnAmount>
+<AwardAmount>269912</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+<PO_EMAI>sabasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927843</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The general-purpose digital computing paradigm faces severe limitations, which could potentially be addressed by adopting more brain-inspired approaches. However, despite significant recent advancements in artificial intelligence algorithms, substantial work remains in developing hardware capable of emulating the functionality and energy efficiency of the brain. This project aims to develop novel physical reservoir computing architectures that harness the highly nonlinear dynamics of ion-channel-based memristors (ICMs). This work will develop new fabrication methods, learning algorithms, and network designs to take advantage of the unique properties of the proposed materials. This will lead towards a new paradigm for brain-inspired computing with biocompatible and highly energy-efficient hardware. The long-term goal is to develop low-cost, energy-efficient, highly tunable, modular, fault-tolerant, and self-healing biomolecular neural networks and tissues. The intended applications include signal processing, in-sensor and near-sensor computing, neuro-engineering, artificial intelligence, and post-silicon technologies. The educational impact leverages the fact that this project interfaces with topics in engineering, biology, physics, and chemistry. Students who are involved will receive exclusive scientific training, which will help prepare them for making contributions in multiple fields.&lt;br/&gt;&lt;br/&gt;Traditional reservoir computers use a reservoir layer comprising a recurrent connection of neurons with randomly assigned synaptic weights, followed by a readout layer whose nonvolatile synaptic weights are trained. The hypothesis is that both reservoir and readout layers can be combined into a single layer using ICMs that exhibit collocated volatile and non-volatile memories. The basic element in these devices is an insulating lipid membrane that mimics the composition and function of biological membranes. In the presence of voltage-activated ion channels, these synthetic lipid membranes can exhibit voltage-dependent memristance caused by membrane and ion channel dynamics. This proposed research specifically aims to: 1) understand how the specific properties of the ICMs can be harnessed for reservoir computing; 2) design architectures tailored to the nonlinear short-term memory dynamics of our devices in both the reservoir and the readout layers, and possibly combine them into a single layer; 3) experimentally validate using crossbar arrays of the ICMs; and 4) generalize the new reservoir architecture so it can be used with other nonvolatile and volatile memristors, possibly solid-state in nature.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Software and Hardware Foundations Cluster of the Division of Computing and Communication Foundations (CCF) in the Directorate for Computer and Information Science and Engineering (CISE) and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403559</AwardID>
+<Investigator>
+<FirstName>Md Sakib</FirstName>
+<LastName>Hasan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Md Sakib Hasan</PI_FULL_NAME>
+<EmailAddress><![CDATA[mhasan5@olemiss.edu]]></EmailAddress>
+<NSF_ID>000803116</NSF_ID>
+<StartDate>04/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Mississippi]]></Name>
+<CityName>UNIVERSITY</CityName>
+<ZipCode>386779704</ZipCode>
+<PhoneNumber>6629157482</PhoneNumber>
+<StreetAddress><![CDATA[113 FALKNER]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G1THVER8BNL4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF MISSISSIPPI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Mississippi]]></Name>
+<CityName>UNIVERSITY</CityName>
+<StateCode>MS</StateCode>
+<ZipCode>386779704</ZipCode>
+<StreetAddress><![CDATA[113 FALKNER]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>089Y00</Code>
+<Text>FET-Fndtns of Emerging Tech</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>086Z</Code>
+<Text>Neuromorphic Computing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~269912</FUND_OBLG>
+</Award>
+</rootTag>

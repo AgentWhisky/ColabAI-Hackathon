@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Predicting cognitive risk to enable autonomy and avert driving-related incidents in people with Alzheimer's disease and related dementias]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is the development of a device for any vehicle with an electronic ignition to improve safety by detecting cognitive driving risk due to Alzheimer’s disease and related dementias. Cognitively impaired drivers place themselves and others in danger due to predictable errors in a variety of skill maneuvers compared with cognitively “normal” drivers. In addition, older adults with late mild to early moderate Alzheimer’s disease and Alzheimer’s disease-related dementias may have an unrecognized lack of self-regulation to accurately self-assess driving risk. To address this challenge, this technology is designed to provide a rapid and objective way to quantify the predictive cognitive risk of driving. The technology will support autonomy and avert Alzheimer’s disease-related dementias driving-related incidents and potential tragedies and property losses. The prevention of cognitively impaired driving may benefit family caregivers of those with Alzheimer’s disease and related dementias, commercial and mass transportation, and those who are cognitively impaired due to illicit drugs not detectable by breathalyzer technologies.  &lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of an adaptive cognitive driving risk device to prevent driving and prompt mitigation strategies if cognitive driving risk is detected.  This artificial intelligence (AI)-powered technology allows the identification of the least number of tests from seven neurocognitive domains to predict cognitively-at-risk driving with the best accuracy. In addition, the device provides real-time, predictive assessments of cognitive driving risk to support driving autonomy along with a mechanism to halt driving for those who refuse to cease driving after being deemed cognitively unsafe by a healthcare professional. A lab prototype has established the principles for driving prevention with a failed cognitive test. This technology may be used to support the Infrastructure Act of 2021, which mandates that all auto manufacturers integrate the ability to indirectly identify impaired drivers beginning in 2026.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2431941</AwardID>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Gaweda</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adam E Gaweda</PI_FULL_NAME>
+<EmailAddress><![CDATA[adam.gaweda@louisville.edu]]></EmailAddress>
+<NSF_ID>000688245</NSF_ID>
+<StartDate>06/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Candace</FirstName>
+<LastName>Harrington</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Candace C Harrington</PI_FULL_NAME>
+<EmailAddress><![CDATA[candace.harrington@louisville.edu]]></EmailAddress>
+<NSF_ID>0000A029K</NSF_ID>
+<StartDate>06/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Louisville Research Foundation Inc]]></Name>
+<CityName>LOUISVILLE</CityName>
+<ZipCode>402081838</ZipCode>
+<PhoneNumber>5028523788</PhoneNumber>
+<StreetAddress><![CDATA[2301 S 3RD ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<StateCode>KY</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KY03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E1KJM4T54MK6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF LOUISVILLE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Louisville Research Foundation Inc]]></Name>
+<CityName>LOUISVILLE</CityName>
+<StateCode>KY</StateCode>
+<ZipCode>402081838</ZipCode>
+<StreetAddress><![CDATA[2301 S 3RD ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KY03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>066E</Code>
+<Text>INSTRUMENTATION &amp; DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

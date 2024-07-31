@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Monitoring time series in structured function spaces]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>292362.00</AwardTotalIntnAmount>
+<AwardAmount>292362</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yulia Gel</SignBlockName>
+<PO_EMAI>ygel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927888</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project aims to develop new mathematical theory and statistical tools that will enable monitoring for changes in complex systems, for example global trade networks. Comprehensive databases containing details of trade between almost all countries are available. Detecting in real time a change in the typical pattern of trade and identifying countries where this change takes place is an important problem. This project will provide statistical methods that will allow making decisions about an emergence of an atypical pattern in a complex system in real time with certain theoretical guarantees. The project will also offer multiple interdisciplinary training opportunities for the next generation of statisticians and data scientists.&lt;br/&gt;&lt;br/&gt;The methodology that will be developed is related to sequential change point detection, but is different because the in-control state is estimated rather than assumed. This requires new theoretical developments because it deals with complex infinite dimensional systems, whereas existing mathematical tools apply only to finite-dimensional systems. Panels of structured functions will be considered and methods for on-line identification of components undergoing change will be devised. All methods will be inferential with controlled probabilities of type I errors. Some of the key aspects of the project can be summarized in the following points. First, statistical theory leading  to change point monitoring schemes in infinite dimensional function spaces will be developed. Second, strong  approximations valid in Banach spaces will lead to assumptions not encountered in scalar settings and potentially to different threshold functions. Third, for monitoring of random density functions, the above challenges will be addressed in custom metric spaces. Fourth, since random densities are not observable, the effect of estimation will be incorporated. The new methodology will be applied to viral load measurements, investment portfolios, and global trade data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412408</AwardID>
+<Investigator>
+<FirstName>Piotr</FirstName>
+<LastName>Kokoszka</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Piotr S Kokoszka</PI_FULL_NAME>
+<EmailAddress><![CDATA[Piotr.Kokoszka@colostate.edu]]></EmailAddress>
+<NSF_ID>000105640</NSF_ID>
+<StartDate>06/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Colorado State University]]></Name>
+<CityName>FORT COLLINS</CityName>
+<ZipCode>805212807</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress><![CDATA[601 S HOWES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LT9CXX8L19G1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLORADO STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Colorado State University]]></Name>
+<CityName>FORT COLLINS</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>805212807</ZipCode>
+<StreetAddress><![CDATA[601 S HOWES ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~292362</FUND_OBLG>
+</Award>
+</rootTag>

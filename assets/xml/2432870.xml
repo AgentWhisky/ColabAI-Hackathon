@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: PBI: Using machine learning to generate datasets and models to assess socio-economic impacts of place-based innovation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>299738.00</AwardTotalIntnAmount>
+<AwardAmount>299738</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rebecca Shearman</SignBlockName>
+<PO_EMAI>rshearma@nsf.gov</PO_EMAI>
+<PO_PHON>7032927403</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Understanding the impact of place-based innovations on socio-economic aspects is crucial for accurately measuring recent adaptation and mitigation efforts. Current methods and tools used to address the impact of such activities on communities are still not properly capturing the nuances associated with biases towards specific ethnic and racial communities or simply including socio-vulnerable populations. This project is focused on assessing the impact of the U.S. National Science Foundation's Regional Innovation Engines (NSF Engines) in New York and Louisiana. We will utilize advanced ML tools to analyze and quantify these impacts, ultimately applying, for the first time to our knowledge, AI tools to such socio-economic problems related to climate change and creating scalable models that can be applied to other regions and areas.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;ML tools can be used to discover patterns and relationships among datasets and build new inference models that can connect changes among variables. In the case of this specific project, the project will use ML to discover relationships among socio-economic, climate and environmental datasets and model such relationships with a specific emphasis in identifying biases of historical models on socially-vulnerable populations. However, to counterbalance the potential “black-box” effects of ML-based approaches, the project will make use of Explanatory Artificial Intelligence (XAI). XAI tools help characterize the accuracy, transparency, fairness, and outcomes of AI-powered decision-making. Specifically, the project will make use of an XAI technique based on Shapley coefficients, which quantifies the relative role of each predictor on the model performances. This will allow us not only to understand the drivers of potential changes - eg. due to NSF investements in those areas - but also to better understand the “quality” of the ML outputs that will be required to fulfill basic rules based on the knowledge of the processes under study from a qualitative point of view. Convening workshops with experts will help identify the specific datasets and optimal approaches for creating a database that will unveil the impact of new activities on communities through ML models.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2432870</AwardID>
+<Investigator>
+<FirstName>Marco</FirstName>
+<LastName>Tedesco</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marco Tedesco</PI_FULL_NAME>
+<EmailAddress><![CDATA[mtedesco@ldeo.columbia.edu]]></EmailAddress>
+<NSF_ID>000477271</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100277922</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress><![CDATA[615 W 131ST ST]]></StreetAddress>
+<StreetAddress2><![CDATA[MC 8741]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[LDEO - Columbia University]]></Name>
+<CityName>Palisades</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>109648000</ZipCode>
+<StreetAddress><![CDATA[61 rte 9W]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>301Y00</Code>
+<Text>NSF Engines - Type 2</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01AC2324DB</Code>
+<Name><![CDATA[R&RA DRSA DEFC AAB]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~299738</FUND_OBLG>
+</Award>
+</rootTag>

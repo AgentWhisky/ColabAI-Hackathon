@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: CRISPR-based biosensors for the ultra-accurate detection of disease-related single nucleotide polymorphisms (SNPs)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>548821.00</AwardTotalIntnAmount>
+<AwardAmount>430785</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aleksandr Simonian</SignBlockName>
+<PO_EMAI>asimonia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922191</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Single nucleotide polymorphisms (SNPs) are the most common types of genetic variations in the human genome. Each SNP represents a difference in a single DNA building block, called a nucleotide.  With the completion of the human genome project, more and more SNPs have been identified as biomarkers for life-threatening diseases. Detecting such SNPs is of particular importance to the fields of cancer diagnosis, pathogen detection, and various health condition monitoring. The standard methods to detect SNPs rely on real-time polymerase chain reaction (PCR) and next-generation sequencing (NGS), but are largely limited by their poor sensitivity and bad accuracy. This CAREER project will exploit the newly discovered CRISPR technology to detect disease-related SNPs, improving human health. To provide broader impacts on a national level, this project will pursue the following two education and outreach goals: 1) broaden participation in careers in biotechnology and 2) equip undergraduate and graduate students with the required biotechnology knowledge and hands-on experience. &lt;br/&gt;&lt;br/&gt;In bacteria and archaea cells, CRISPR was developed as an adaptive defense system against viral infections. In addition to gene editing, CRISPR technology has been applied to detect nucleic acids in the past few years. This NSF CAREER project aims to study the fundamental properties of CRISPR Cas nucleases through their non-specific collateral activities (also named “trans-cleavage” activity) and apply the knowledge to detect disease-related SNPs. The central hypothesis is that systematic characterization and optimization of the trans-cleavage activities of the CRISPR Cas nucleases (Cas12, Cas13, and Cas14) will provide a solid foundation to develop novel biosensing approaches for the ultra-accurate detection of disease-related SNPs (less than 0.1% SNPs in wild type can be detected). The major research objectives are: 1) enable an ultra-accurate detection of SNPs using a CRISPR-Cas14 biosensor; 2) design a ratiometric detection of SNPs using biorthogonal CRISPR-Cas13 systems; and 3) demonstrate CRISPR-12 array sensors to identify multiple SNPs simultaneously.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421137</AwardID>
+<Investigator>
+<FirstName>Juhong</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Juhong Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[jchen@ucr.edu]]></EmailAddress>
+<NSF_ID>000827288</NSF_ID>
+<StartDate>03/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Riverside</Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210001</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress>200 UNIVERSTY OFC BUILDING</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>39</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA39</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MR5QC5FCAVH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Riverside]]></Name>
+<CityName>RIVERSIDE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>925210001</ZipCode>
+<StreetAddress><![CDATA[200 UNIVERSTY OFC BUILDING]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>39</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA39</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7909</Code>
+<Text>BIOSENS-Biosensing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1639</Code>
+<Text>SENSORS AND SENSING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~430785</FUND_OBLG>
+</Award>
+</rootTag>

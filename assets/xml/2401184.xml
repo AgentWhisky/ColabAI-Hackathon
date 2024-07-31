@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Representation Theory and Geometry in Monoidal Categories]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>255298.00</AwardTotalIntnAmount>
+<AwardAmount>88519</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tim Hodges</SignBlockName>
+<PO_EMAI>thodges@nsf.gov</PO_EMAI>
+<PO_PHON>7032925359</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Principal Investigator (PI) will investigate the representation theory of various algebraic objects. A representation of an abstract algebraic object is a realization of the object via matrices of numbers. Often times, it is advantageous to view the entire collection of representations of an algebraic object as a structure known as a tensor category. Tensor categories consist of objects with additive and multiplicative operations like the integers or square matrices. Using the multiplicative operation, one can introduce the spectrum of the tensor category which is a geometric object (like a cone, sphere or torus). The PI will utilize the important connections between the algebraic and geometric properties of tensor categories to make advances in representation theory. The PI will continue to involve undergraduate and graduate students in these projects. He will continue to be an active member of the mathematical community by serving on national committees for the American Mathematical Society (AMS), and as an editor of a major mathematical journal.&lt;br/&gt;&lt;br/&gt;The PI will develop new methods to study monoidal triangular geometry. Several central problems will utilize the construction of homological primes in the general monoidal setting and the introduction of a representation theory for MTCs. This representation theory promises to yield new information about the Balmer spectrum of the MTC. In particular, the general MTC theory will be applied to study representations of Lie superalgebras. The PI will also explore new ideas to study representations of classical simple Lie superalgebras. This involves systematically studying various versions of Category O and the rational representations for the associated quasi-reductive supergroups. One of the main ideas entails the use of the detecting and BBW parabolic subgroups/subalgebras. Furthermore, the PI will study the orbit structure of the nilpotent cone and will construct resolutions of singularities for the orbit closures. The PI will study important questions involving representations of reductive algebraic groups. Key questions will focus on the understanding the structures of induced representations, and whether these modules admit p-filtrations. These questions are interrelated with the 30-year-old problem of realizing projective modules for the Frobenius kernels via tilting modules for the reductive algebraic group, and the structure of extensions between simple modules for the first Frobenius kernel.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401184</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Nakano</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel K Nakano</PI_FULL_NAME>
+<EmailAddress><![CDATA[nakano@math.uga.edu]]></EmailAddress>
+<NSF_ID>000432699</NSF_ID>
+<StartDate>04/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Georgia Research Foundation Inc]]></Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress><![CDATA[310 E CAMPUS RD RM 409]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NMJHD63STRC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia]]></Name>
+<CityName>ATHENS</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306021589</ZipCode>
+<StreetAddress><![CDATA[310 EAST CAMPUS RD TUCKER HALL ROOM 409]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~88519</FUND_OBLG>
+</Award>
+</rootTag>

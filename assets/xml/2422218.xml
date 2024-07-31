@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Co-regulation of multidrug efflux and bacterial metabolism]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>997047.00</AwardTotalIntnAmount>
+<AwardAmount>997047</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Cyr</SignBlockName>
+<PO_EMAI>rcyr@nsf.gov</PO_EMAI>
+<PO_PHON>7032928440</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The export and breakdown of molecules that are toxic, or disrupt metabolic balance, are important cellular processes. However, how export and metabolic balance are coordinated to protect bacteria and maintain metabolic function remains poorly understood. The investigators have recently found that the protein AcrR, which controls export genes, may play a central role in sensing and then coordinating both functions. They hypothesize that the main function of AcrR is to sense metabolic stress caused by the accumulation of many different cellular metabolites and then coordinate export and a whole-cell metabolic network to cope with toxic chemicals and maintain metabolic balance. However, the vast majority of metabolic genes directly regulated by AcrR and cellular metabolites that control its function remain unknown. This project is expected to close this knowledge gap by uncovering the network of metabolic pathways sensed and directly regulated by AcrR. These contributions are important because they will transform our knowledge of how bacteria maintain metabolic balance and adapt to hazards, metabolic stress, and environmental changes. The Broader Impacts of this work include the intrinsic merit of the research as all cells need to deal with noxious molecules and maintain metabolic balance. Additional activities include the integration of this research into the Microbial Physiology course at California State University Northridge, which is a primarily undergraduate and minority-serving institution. By redesigning the laboratory portion of the class as a full Course-Based Undergraduate Research Experience (CURE) course, this project will significantly enhance the scientific education and expand the number of students from all backgrounds with direct access to hands-on research, which is critical to inspire them to pursue STEM careers. &lt;br/&gt;&lt;br/&gt;The mechanisms by which bacteria co-regulate multidrug efflux pumps and metabolism in response to hazards and stress remain poorly understood. The overall objective of this project is to discover the whole-cell network of metabolic pathways sensed and directly regulated by the AcrR repressor of Escherichia coli. Based on previous findings from the PI’s laboratory, the central hypothesis of this project is that the function of this regulator is to sense the concentrations of different multidrug efflux pump substrates, which include both antimicrobials and many cellular metabolites, and then globally co-regulate efflux, metabolism, motility and other functions. Such co-regulation would ultimately allow bacteria to remove and/or detoxify these substrates to maintain metabolic balance. To attain the overall objective, the investigators will pursue two specific aims: (I) Identify the network of metabolic genes directly regulated by AcrR using both biased and unbiased methods; and II) Identify the array of metabolic ligands that control the function of AcrR using targeted and untargeted approaches. The expected outcomes of these aims will provide for the first time a mechanistic understanding of the central role of this conserved regulator in globally controlling the metabolism and physiology of Gram-negative bacteria. Specifically, the investigators anticipate that this project will uncover the genome-wide role of AcrR as a sensor and regulator of many important metabolic pathways and physiological functions. These outcomes are significant because they will transform our understanding of how bacteria maintain homeostasis and adapt to toxic molecules, metabolic stress, and changes in their environment.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2422218</AwardID>
+<Investigator>
+<FirstName>CRISTIAN</FirstName>
+<LastName>RUIZ RUEDA</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>CRISTIAN RUIZ RUEDA</PI_FULL_NAME>
+<EmailAddress><![CDATA[cristian.ruiz-rueda@csun.edu]]></EmailAddress>
+<NSF_ID>000805941</NSF_ID>
+<StartDate>07/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[The University Corporation, Northridge]]></Name>
+<CityName>NORTHRIDGE</CityName>
+<ZipCode>913300001</ZipCode>
+<PhoneNumber>8186771403</PhoneNumber>
+<StreetAddress><![CDATA[18111 NORDHOFF ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>32</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA32</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LAGNHMC58DF3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California State University, Northridge]]></Name>
+<CityName>NORTHRIDGE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>913300001</ZipCode>
+<StreetAddress><![CDATA[18111 NORDHOFF ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>32</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA32</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111400</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~997047</FUND_OBLG>
+</Award>
+</rootTag>

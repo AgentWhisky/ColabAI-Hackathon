@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CSR: Medium: Enhancing Energy Awareness for Efficient Federated Learning over Mobile AI Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>146855</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniela Oliveira</SignBlockName>
+<PO_EMAI>doliveir@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Federated Learning (FL) has emerged as a popular distributed machine learning paradigm in a wide range of sectors (e.g., healthcare, fintech, and autonomous driving) because of its potential of protecting people’s privacy - it does not require gathering all the data in one place for operation.  Meanwhile, driven by the increasing ubiquity of mobile devices, FL applications are shifting from wall-plug powered artificial intelligence (AI) devices to battery-powered mobile AI systems (e.g., smartphones, tablets, wearables). Existing research largely ignores the role battery energy awareness plays in efficient FL training over mobile AI systems. This project addresses this challenge and innovates on developing an energy-efficient FL framework for mobile AI systems, making these systems more suitable for execution on everyday mobile devices without draining their batteries quickly. The project's broader significance and importance are its potential to advance mobile computing and AI technologies, ensuring both are energy-efficient and privacy-preserving. Furthermore, this project shares its research artifacts and results with the community and includes educational activities targeting under-represented groups in computing. &lt;br/&gt;&lt;br/&gt;This project investigates the efficiency, quality, and robustness of FL systems from an energy perspective, aiming to develop a comprehensive energy-efficient FL framework for mobile AI systems. The research is structured around three synergistic objectives. First, the project develops a universal energy estimation methodology applicable across a variety of devices engaged in FL training, incorporating Deep Neural Network (DNN) models with diverse architectures. Next, utilizing insights into energy consumption, the project explores strategies to enhance the energy efficiency of FL, particularly in high-speed communication scenarios such as autonomous driving and augmented/virtual reality. Additionally, the project integrates learning performance metrics, such as accuracy and latency, with energy parameters—including energy consumption and battery life—in the FL participant selection process. This integration aims to create a balanced and optimized learning environment. To support these goals, the project establishes a mobile AI testbed and energy measurement setup, equipped with real-world FL benchmarks and workloads.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403248</AwardID>
+<Investigator>
+<FirstName>Seung-Jong</FirstName>
+<LastName>Park</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Seung-Jong J Park</PI_FULL_NAME>
+<EmailAddress><![CDATA[spxzb@umsystem.edu]]></EmailAddress>
+<NSF_ID>000494278</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Missouri University of Science and Technology]]></Name>
+<CityName>ROLLA</CityName>
+<ZipCode>654091330</ZipCode>
+<PhoneNumber>5733414134</PhoneNumber>
+<StreetAddress><![CDATA[300 W. 12TH STREET]]></StreetAddress>
+<StreetAddress2><![CDATA[202 CENTENNIAL HALL]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y6MGH342N169</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Missouri University of Science and Technology]]></Name>
+<CityName>ROLLA</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>654091330</ZipCode>
+<StreetAddress><![CDATA[300 W. 12TH STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>735400</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~146855</FUND_OBLG>
+</Award>
+</rootTag>

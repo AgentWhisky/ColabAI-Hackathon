@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Frameworks: Coupling bulk and surface processes in simulating the solid earth with ASPECT and LandLab]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>260056.00</AwardTotalIntnAmount>
+<AwardAmount>260056</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marlon Pierce</SignBlockName>
+<PO_EMAI>mpierce@nsf.gov</PO_EMAI>
+<PO_PHON>7032927743</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Research in the 1960s revealed that Earth’s outer shell is broken into a dozen or so relatively rigid plates that represent the top of a convecting system in Earth’s deep interior. Motions between and within these tectonic plates create mountain ranges, volcanoes, sedimentary basins, and other major geologic surface features. These features represent vertical relief that, under the force of gravity, is then subject to erosion, landsliding, and other forms of downslope movement of mass. Earth’s topography is thus controlled by the balance between tectonic processes that build relief, and erosional processes that remove and redistribute relief.  Conversely, the evolution of topography affects the forces within tectonic plates, influencing subsequent faulting and volcanic activity, and leading to feedbacks over a range of spatial and temporal scales. On million-year timescales, sedimentary basins create natural resource deposits (such as oil and gas reservoirs), and chemical reactions associated with erosion can remove carbon dioxide from the atmosphere, directly influencing Earth’s climate and habitability. On human timescales, the creation of vertical relief promotes landsliding and far-reaching sediment distribution, which is often associated with interacting geohazards including earthquakes, tsunamis, and volcanic eruptions. Building on prior, previously independent work modeling Earth’s interior and surface processes separately, this project develops new computational methods to simulate and advance our knowledge of the dynamic interplay between Earth’s surface and interior and makes these methods available to the scientific community. The computational methods derived through this project have direct societal relevance to studying geohazards and resource exploration. All software developed through this award follows established software engineering practices, is openly available to the public, and is fully documented. Community training activities are used to engage other scientists and promote the adoption of the new methods developed by this project.  &lt;br/&gt;&lt;br/&gt;A major research challenge in the geosciences is understanding how the Earth’s surface and its interior interact to shape one another. Because much of the relevant interactions are inaccessible due to their space or time extents (or both), computer simulations serve as an essential tool for studying interactions in coupled geologic systems. Yet, numerical models have traditionally treated the Earth’s surface and its interior as independent domains. None of the widely used, open-source software packages for simulating mantle convection, long-term tectonics, or short-term tectonics have incorporated surface processes until very recently. Similarly, software for the simulation of surface processes has generally been driven by prescribing vertical uplift rates, even though it is clear that these uplift rates depend on, and thus must be coupled to, erosion rates. This project couples two widely used community codes: (i) ASPECT, a package originally intended for the simulation of mantle dynamics but more recently also used extensively for modeling of long-term processes in tectonic plates, with active development towards incorporating physics (such as compressible elasticity) necessary to capture shorter term processes; and (ii) Landlab, an environment that includes and facilitates the description of surface processes. Since their inception, these codes have transformed the level of complexity of simulations in their respective domains and have gained large user bases. Both codes are backed by large NSF-funded centers: the Computational Infrastructure for Geodynamics (CIG) in the case of ASPECT, and the Community Surface Dynamics Modeling System (CSDMS) in the case of Landlab. The software and workflows developed through this project enable scientific communities that are typically siloed, studying either Earth’s surface or its interior, to initiate new studies of coupled processes with direct societal relevance, including geohazards and resource exploration. Model use cases implemented by the project demonstrate the coupling on different spatial and temporal scales, which can be used by domain scientists to initiate independent research projects. Project training materials are incorporated into long-standing training programs associated with ASPECT (e.g., annual hackathons) and Landlab (e.g., CSDMS clinics), as well as online videos, interactive web visualizations, and at various community meetings and workshops. Finally, a major part of the development effort is parallelizing Landlab, which improves its performance over a wide range of applications, including modeling short time-scale processes such as volcanic eruption cycles, landslides and flooding.&lt;br/&gt;&lt;br/&gt;This award by the Office of Advanced Cyberinfrastructure is jointly supported by the National Discovery Cloud for Climate initiative within the Directorate for Computer and Information Science and Engineering and by the Geosciences Directorate’s Research, Innovation, Synergies, and Education and Earth Sciences divisions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050, 47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410848</AwardID>
+<Investigator>
+<FirstName>Timo</FirstName>
+<LastName>Heister</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timo Heister</PI_FULL_NAME>
+<EmailAddress><![CDATA[heister@clemson.edu]]></EmailAddress>
+<NSF_ID>000674003</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Clemson University]]></Name>
+<CityName>CLEMSON</CityName>
+<ZipCode>296340001</ZipCode>
+<PhoneNumber>8646562424</PhoneNumber>
+<StreetAddress><![CDATA[201 SIKES HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H2BMNX7DSKU8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CLEMSON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Clemson University]]></Name>
+<CityName>CLEMSON</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>296340001</ZipCode>
+<StreetAddress><![CDATA[201 SIKES HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>157400</Code>
+<Text>Geophysics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>243Y00</Code>
+<Text>GEO CI - GEO Cyberinfrastrctre</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>295Y00</Code>
+<Text>NDCC-Natl Discvry Cloud Climat</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>722200</Code>
+<Text>XC-Crosscutting Activities Pro</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>800400</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>077Z</Code>
+<Text>CSSI-1: Cyberinfr for Sustained Scientif</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7231</Code>
+<Text>CYBERINFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~260056</FUND_OBLG>
+</Award>
+</rootTag>

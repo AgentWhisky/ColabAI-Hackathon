@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Ultrafast Nanoscopy of Energy Carriers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>560000.00</AwardTotalIntnAmount>
+<AwardAmount>560000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sumanta Acharya</SignBlockName>
+<PO_EMAI>sacharya@nsf.gov</PO_EMAI>
+<PO_PHON>7032924509</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Electronics are ubiquitous in modern society, driven by remarkable innovation and fast paced technological development in the semiconductor industry. Accordingly, the density of transistors in integrated circuits has been continuously increasing. With the most recent 3 nm- and 2 nm-node technologies, the number of transistor units on one single chip of fingernail size approaches 50 billion. Consequently, nanoscale thermal management of densely packed devices is an important concern. Recent advances in nanoscience and nanotechnology have enabled both theoretical descriptions and experimental interrogations of new heat transfer mechanisms. However, as devices approach fundamental laws of physics, it has become challenging for conventional thermal characterization tools to comprehensively understand the behaviors of energy carriers and measure the temperature distribution. Addressing this challenge, the research will develop new methods to probe energy carriers and analyze thermal transport in nanomaterials by combining ultrafast optical measurements with nanoscale spatial resolution. This project will enable characterization of high-performance optoelectronic devices and the development of new thermal management methods for future semiconductor technology.&lt;br/&gt;&lt;br/&gt;The goal of the research is to develop a new methodology for investigating nanoscale thermal transport phenomena in both equilibrium and non-equilibrium regimes. By coupling temporally modulated laser beams of femtosecond pulse duration with tip-based scanning near-field optical microscopy, pump-probe ultrafast nanoscopy will be demonstrated and applied to study energy carriers (electrons and phonons) with ultrahigh temporal resolution (below 100 fs) and beyond-diffraction-limit spatial resolution (on the order of 10 nm). The project will focus on the following aims: (i) validating the ultrafast nanoscopy as a powerful experimental platform for probing nanomaterials with high spatiotemporal resolutions; (ii) incorporating spatial separation of the pump excitation from the probe tip to measure energy carrier transport; (iii) developing a methodological framework to distinguish different microscopic degrees of freedom and elucidate electron-phonon interactions in different material systems. Fundamental scientific concepts and experimental methods developed in the project will enable new strategies for nanoscale thermal management in the next-generation electronics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2416149</AwardID>
+<Investigator>
+<FirstName>Costas</FirstName>
+<LastName>Grigoropoulos</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Costas P Grigoropoulos</PI_FULL_NAME>
+<EmailAddress><![CDATA[cgrigoro@berkeley.edu]]></EmailAddress>
+<NSF_ID>000203705</NSF_ID>
+<StartDate>07/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chris</FirstName>
+<LastName>Dames</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chris E Dames</PI_FULL_NAME>
+<EmailAddress><![CDATA[cdames@berkeley.edu]]></EmailAddress>
+<NSF_ID>000369361</NSF_ID>
+<StartDate>07/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Junqiao</FirstName>
+<LastName>Wu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Junqiao Wu</PI_FULL_NAME>
+<EmailAddress><![CDATA[wuj@berkeley.edu]]></EmailAddress>
+<NSF_ID>000234375</NSF_ID>
+<StartDate>07/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>140600</Code>
+<Text>TTP-Thermal Transport Process</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1406</Code>
+<Text>THERMAL TRANSPORT PROCESSES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~560000</FUND_OBLG>
+</Award>
+</rootTag>

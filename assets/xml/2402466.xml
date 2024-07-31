@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: A Smart Context-Aware Multi-Fingered System for Dexterous Grasping]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>18681</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is the development of a potential platform for many industries and companies, such as advanced manufacturing, e-commerce, retailer, mailing, and logistics. The platform could revolutionize and automate the process of sorting and packing irregular-shaped objects, e.g., sorting plastic mail bags with various dimensions and weights for USPS; and packing irregular-shaped goods for Walmart and Amazon. The project could also revolutionize portable automation that relies on general tools in advanced manufacturing, e.g., enabling the large footprint of aircraft assembly in confined space access for Spirit AeroSystems; and automating manufacturing processes that require various kinds of manipulation such as placing, grasping, and capping.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of a platform system extending robotic grasping towards dexterous strategies for multi-fingered hands, and increasing the capability of context perception by fusing novel sensors. To accomplish dexterous grasping and manipulation, a dexterous robotic hand was designed by tightly integrating anthropomorphic gripper mechanics, context perception, and task-oriented grasp planning. The robotic hand achieves in-situ perception of object affordances by fusing multimodal sensors, including object dimensions and object characteristics such as materials, rigidity, and mass. This is the first robotic gripper that perceives object characteristics by using infrared sensors and machine-learning methods. To deploy efficient strategies for various task requirements and object affordances, a knowledge-driven model is developed to resolve the planning of dexterous manipulation motion. The model represents human knowledge as hand topology and learns task-oriented manipulation plans to adapt to different work context. Due to the integrated structure of knowledge and learning, the model produces robust and adaptive plans with a high efficiency in learning.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402466</AwardID>
+<Investigator>
+<FirstName>Hongsheng</FirstName>
+<LastName>He</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hongsheng He</PI_FULL_NAME>
+<EmailAddress><![CDATA[hongsheng.he@ua.edu]]></EmailAddress>
+<NSF_ID>000644189</NSF_ID>
+<StartDate>02/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Alabama Tuscaloosa]]></Name>
+<CityName>TUSCALOOSA</CityName>
+<ZipCode>354012029</ZipCode>
+<PhoneNumber>2053485152</PhoneNumber>
+<StreetAddress><![CDATA[801 UNIVERSITY BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RCNJEHZ83EV6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ALABAMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>TWJWHYEM8T63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama Tuscaloosa]]></Name>
+<CityName>TUSCALOOSA</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>354870001</ZipCode>
+<StreetAddress><![CDATA[301 ROSE ADMIN BLDG]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6840</Code>
+<Text>ROBOTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~18681</FUND_OBLG>
+</Award>
+</rootTag>

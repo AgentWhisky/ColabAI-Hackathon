@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Probing Nonadiabatic Strong Field Ionization with Phase-Resolved Attoclock]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>626467.00</AwardTotalIntnAmount>
+<AwardAmount>626467</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mark K. Beck</SignBlockName>
+<PO_EMAI>mkbeck@nsf.gov</PO_EMAI>
+<PO_PHON>7032922983</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Quantum tunneling is a fundamental process that underpins many important physical phenomena and technologies, such as nuclear fusion and chemical reactions essential for life. Without the tunneling of nuclei, the sun will not produce energy. Electrons in atoms and molecules can also tunnel under the influence of a strong laser field. This process has enabled the development of a remarkable technology: attosecond spectroscopy, which enables one to make a movie of atoms and electrons with a shutter speed of 10^(-17) seconds (with 16 zeros after the decimal point). This technology will allow us to finally understand and control chemical reactions, which will potentially solve many practical problems, such as making new molecules as cures for diseases. However, because the tunneling process is complex and the efficiency is low, a deeper understanding and further technical improvements are needed. In this project, Professor Li at Wayne State University will use a new technique developed in his group to study the tunneling process and answer the critical question of whether tunneling is instantaneous. Additional benefits of this project include developing new detector technologies and training the next generation of chemists and physicists.&lt;br/&gt;&lt;br/&gt;In this project, the nonadiabaticity and tunneling delay in the process of strong-field ionization will be investigated. It has been challenging to study tunneling dynamics when electrons are under the barrier because the motion is complex, containing both real and imaginary components. Tunneling delay is a good example. After more than a decade of intensive research, the delay observed in attoclock optical tunneling experiments is still under intense debate. This project represents a new direction in addressing this long-standing issue by adopting a new scheme that can separate various compounding factors in interpreting attoclock measurements. This can lead to a definitive answer to the tunneling delay question and the tunneling nonadiabaticity question. Specifically, Prof. Li and his students will employ a novel attoclock approach, which combines a three-dimensional (3D) electron-momentum imaging technique with high-performing ion-electron coincidence/covariance techniques, coupled with phase-tagged few-cycle near-infrared laser pulses (&lt;5 fs). The study will provide new insights into the issue of the tunneling delay and reveal whether and how electronic structures of atoms and molecules impact electronic dynamics under the barrier. Furthermore, a multi-hit 3D electron momentum imaging system will be developed to facilitate the proposed research and many other research efforts in the AMO and Chemical Physics communities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409529</AwardID>
+<Investigator>
+<FirstName>Wen</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wen Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[WLI@CHEM.WAYNE.EDU]]></EmailAddress>
+<NSF_ID>000580733</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Wayne State University]]></Name>
+<CityName>DETROIT</CityName>
+<ZipCode>482023692</ZipCode>
+<PhoneNumber>3135772424</PhoneNumber>
+<StreetAddress><![CDATA[5700 CASS AVE STE 4900]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M6K6NTJ2MNE5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WAYNE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Wayne State University]]></Name>
+<CityName>DETROIT</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>482023692</ZipCode>
+<StreetAddress><![CDATA[5700 CASS AVE STE 4900]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124100</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~626467</FUND_OBLG>
+</Award>
+</rootTag>

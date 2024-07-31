@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Free Boundary Geometry in Heterogeneous Media]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>184162</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitry Golovaty</SignBlockName>
+<PO_EMAI>dgolovat@nsf.gov</PO_EMAI>
+<PO_PHON>7032922117</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Free boundary problems arise in the mathematical modelling of physical systems with a phase interface.  Well-known, and perhaps familiar, examples include the Stefan problem for melting and freezing of ice in water and the capillary problem describing the shapes of water droplets on a car window or a leaf.  In these problems it is very important to understand the effects of heterogenous media. Microscopic structure plays a major role in determining the macroscopic physics, for example whether a water droplet will "stick" to a surface (due to contact angle hysteresis) or roll off (low hysteresis and/or superhydrophobicity). In mathematical terms such interface problems lie at the intersection of several fields: partial differential equations (PDE), geometry, and probability / statistical physics. This project aims to advance the theory of phase interfaces in heterogeneous media by developing new techniques which make connections between these distinct mathematical fields.  The project will contribute to the development of STEM workforce and STEM education through training of graduate students and postdoctoral researchers.&lt;br/&gt;&lt;br/&gt;This project will study free boundary problems in heterogeneous media at micro and macro scales, especially as related to problems of capillarity and wetting.   The two main goals are: (1) to develop a theory of large-scale regularity for one- and two-phase free boundary problems and obstacle problems in periodic and random media, (2) to derive and study models for the rate independent evolution of capillary drops under the effects of contact angle hysteresis.  Quantitative results in homogenization and hydrodynamic limits enable more efficient computations which can be rigorously validated.  The large-scale regularization properties of elliptic and parabolic PDE in periodic and random media is central in the study of quantitative homogenization.  Much less is known in the context of phase interfaces or free boundaries.  This project will advance the quantitative homogenization theory of free boundaries and interfaces by studying several important model problems. In the theory of wetting on a rough surface, a rigorous mathematical formulation in terms of calculus of variations and homogenization theory can clarify the meaning of ambiguous physical models for computing effective contact angles. This project will enhance the understanding of these models both from a theoretical and computational perspective.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407235</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Feldman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William Feldman</PI_FULL_NAME>
+<EmailAddress><![CDATA[feldman@math.utah.edu]]></EmailAddress>
+<NSF_ID>000758095</NSF_ID>
+<StartDate>05/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841129049</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL8GLEVH6MG3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF UTAH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841129049</ZipCode>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~184162</FUND_OBLG>
+</Award>
+</rootTag>

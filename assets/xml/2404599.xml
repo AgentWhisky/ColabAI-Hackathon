@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Geometric Analysis and Complex Geometry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>339999.00</AwardTotalIntnAmount>
+<AwardAmount>339999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Qun Li</SignBlockName>
+<PO_EMAI>qli@nsf.gov</PO_EMAI>
+<PO_PHON>7032927465</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The principal investigator's research is concerned with the study of geometric structures on a class of spaces known as complex manifolds, which are higher-dimensional curved spaces which can be defined using complex numbers. Complex manifolds are ubiquitous objects in mathematics, and have wide-ranging applications in physics and engineering. A notable class of complex manifolds is known as Calabi-Yau manifolds, which are a fundamental tool in theoretical high-energy physics, and one of the PI's main lines of research will enhance our understanding of these manifolds and their properties. Another major direction of research revolves around the study of an evolution equation for geometric spaces known as Ricci flow, which evolves a given shape in a continuous fashion aiming to make it as round as possible. In this process, singularities may develop, and understanding their nature is a central problem in the field. This project will investigate the nature of singularities that form as time goes to infinity, in the case when the geometric evolution exists for all positive time. For broader impacts, the PI will continue mentoring and advising graduate students and postdoctoral researchers, co-organize weekly seminars, organize conferences, workshops and summer schools, and disseminate their work at conferences, meetings, and seminars, as well as via scientific publications.&lt;br/&gt;&lt;br/&gt;The PI will use techniques from geometric analysis, nonlinear partial differential equations and holomorphic dynamics to investigate fundamental questions about the geometry of complex manifolds and symplectic 4-manifolds. The first project aims to obtain a rather complete picture of the long-time behavior of immortal solutions of Ricci flow on compact Kahler manifolds. The main difficulty is that in the cases which are not already understood, the evolving metrics are volume-collapsed as time approaches infinity, and the expected limiting space is lower-dimensional. The second project is about understanding (1,1) cohomology classes on the boundary of the Kahler cone of a Calabi-Yau manifold, and the singularities of the closed positive currents that these classes contain. The third project will attack a conjecture of Donaldson program which aims to to extend Yau's solution of the Calabi Conjecture in Kahler geometry to symplectic 4-manifolds, and explore its applications in symplectic topology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404599</AwardID>
+<Investigator>
+<FirstName>Valentino</FirstName>
+<LastName>Tosatti</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Valentino Tosatti</PI_FULL_NAME>
+<EmailAddress><![CDATA[tosatti@post.harvard.edu]]></EmailAddress>
+<NSF_ID>000544092</NSF_ID>
+<StartDate>05/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126500</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~339999</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Wavefunction Embedding: A Toolbox for Transition Metal Spectroscopy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>508776.00</AwardTotalIntnAmount>
+<AwardAmount>508776</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michel Dupuis</SignBlockName>
+<PO_EMAI>mdupuis@nsf.gov</PO_EMAI>
+<PO_PHON>7032922919</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Theory, Models and Computational Methods program in the Division of Chemistry, Professor John Herbert of Ohio State University is developing theoretical methods to understand the spectroscopy of transition metal systems.  Transition metal materials are poised to be an important component of a solar energy economy, as photocatalysts that use solar energy to formally split water, giving molecular hydrogen that can be used as fuel, for example, or to convert captured CO2 into useful chemical feedstocks.  Ultrafast x-ray spectroscopy has recently emerged as a promising experimental tool to probe the properties and function of these materials at the atomic level, but theoretical simulations are needed to interpret the results.  However, existing theoretical methods are either too expensive to address realistic materials, or else do not offer sufficient accuracy to be interpretative.  These issues will be addressed by the Herbert research group.  Computational tools developed as part of this work will be made available to the research community in widely used software packages that will also be used to modernize teaching activities, incorporating research problems into the classroom via partnership with Ohio Supercomputer Center.  A broad array of students will engage in this research, including students recruited from programs designed to broaden participation in science, such as an American Chemical Society Bridge program and an NSF-funded Research Experiences for Undergraduates program that targets students from small Rust Belt communities.&lt;br/&gt;&lt;br/&gt;Chemical dynamics and materials science are in the midst of an ultrafast x-ray revolution, with new light sources allowing for time resolution ranging from 100 femtoseconds down to tens of attoseconds. These emerging experimental techniques are poised to provide unprecedented mechanistic information on myriad transition metal catalyst systems.  To complement this new generation of spectroscopies, and new set of computational tools is required. Tools developed as part of this work have the potential to connect the structure of materials to the behavior of spin and charge carriers--electrons and holes--that are probed experimentally. Accordingly, under this award, the Herbert research group will develop methods to simulate ultrafast transient x-ray experiments, and core-level spectroscopy generally, in systems containing transition metals.  Target systems include solid-state metal oxides that are promising candidates for visible band-gap photocatalysts.  A variety of new models and algorithms will be pursued, including modifications to excited-state density functional theory (DFT) that are expected to be better equipped to handle systems with an open-shell ground state, avoiding severe spin contamination.  Hybrid wavefunction/DFT methods that move beyond conventional DFT will also be pursued.  These include wavefunction-in-DFT embedding, to bring highly correlated, multi-reference  wavefunctions for spectroscopy into the solid state, thereby avoiding the need to construct and validate finite cluster models of materials.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402361</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Herbert</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John M Herbert</PI_FULL_NAME>
+<EmailAddress><![CDATA[herbert@chemistry.ohio-state.edu]]></EmailAddress>
+<NSF_ID>000409963</NSF_ID>
+<StartDate>04/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101350</ZipCode>
+<StreetAddress><![CDATA[151 W. Woodruff Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688100</Code>
+<Text>Chem Thry, Mdls &amp; Cmptnl Mthds</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~508776</FUND_OBLG>
+</Award>
+</rootTag>

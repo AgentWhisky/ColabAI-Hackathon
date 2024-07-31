@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Bayesian Learning for Spatial Point Processes: Theory, Methods, Computation, and Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/15/2023</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>151210.00</AwardTotalIntnAmount>
+<AwardAmount>121153</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Scientists, engineers, economists, and sports practitioners are increasingly aware of the importance of accurately understanding underlying clusters when trying to recover complex patterns that vary across time and space.  Examples of such patterns include earthquake occurrences over North America, tree locations in Barro Colorado Island, field goal attempts of professional players over basketball courts, and bullet-screen comments from live streams. When performing statistical analysis on such complex point process patterns, the scientific goals often involve either intensity estimation or cluster learning.  To help achieve the scientific goals, this project will develop methods to reveal hidden spatial homogeneity within spatial point processes and underlying heterogeneity among different univariate or multivariate processes. The project will advance knowledge within the statistical sciences and contribute useful tools to the work of government agencies, environmental scientists, social scientists, and practitioners in the sports industry. The project will also provide training opportunities to undergraduate and graduate students. &lt;br/&gt;&lt;br/&gt;This project will fill the gap between nonparametric Bayesian methods and spatial point processes, including intensity estimation and heterogeneity learning for univariate and multivariate processes. The research will focus on three topics based on a nonparametric Bayesian framework with applications to different socio-economic problems. In the first topic, the investigator will construct a Markov constraint nonparametric Bayesian prior to learn the point process’s intensity surface of with spatial homogeneity. The investigator will develop a method for jointly estimating intensity surfaces and latent group information for multiple point processes in the second topic. Lastly, the investigator will develop a multivariate point process model with complex intensity function and latent group structure for each type of points.  The investigator will establish consistency and asymptotic distributions of the new estimators and develop eﬀicient algorithms together with publicly available software.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/19/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>12/19/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412923</AwardID>
+<Investigator>
+<FirstName>Guanyu</FirstName>
+<LastName>Hu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Guanyu Hu</PI_FULL_NAME>
+<EmailAddress><![CDATA[guanyu.hu@uth.tmc.edu]]></EmailAddress>
+<NSF_ID>000861673</NSF_ID>
+<StartDate>12/19/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[The University of Texas Health Science Center at Houston]]></Name>
+<CityName>HOUSTON</CityName>
+<ZipCode>770303870</ZipCode>
+<PhoneNumber>7135003999</PhoneNumber>
+<StreetAddress><![CDATA[7000 FANNIN ST FL 9]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUFBNVZ587D4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT HOUSTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Texas Health Science Center at Houston]]></Name>
+<CityName>Houston</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>770305400</ZipCode>
+<StreetAddress><![CDATA[7000 FANNIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~121153</FUND_OBLG>
+</Award>
+</rootTag>

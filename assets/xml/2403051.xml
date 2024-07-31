@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[OAC Core: Edge to Cloud Workflows: Advancing Workflow Management in the Computing Continuum]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Juan Li</SignBlockName>
+<PO_EMAI>jjli@nsf.gov</PO_EMAI>
+<PO_PHON>7032922625</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project aims to build the scientific foundations for edge-to-cloud computing and catalyze research on innovative cyberinfrastructure (CI) and workflow management for the computing continuum.   Edge computing is making significant inroads into our lives and is impacting the types of science and engineering we can do.  Applications spanning from the edge to the cloud are used in environmental monitoring, precision agriculture, wildfire prediction, zooplankton classification, and construction. In computer science, many researchers are exploring techniques for federated learning. CI researchers are exploring edge-to-cloud solutions that can help process data at the edge and as it moves from the edge to the data center. However, efficiently executing edge-to-cloud applications is still a challenge. Edge devices are very heterogeneous and resource-limited (computing power, storage, network bandwidth, energy power). They can have intermittent network connectivity, be mobile, and are often prone to failures. However, because they are near the network’s edge, where the data is being generated, they provide low latency and quick turnaround time for latency-sensitive applications. They can also address data privacy concerns by operating on the data in place, and the overall application can be power-efficient because data does not have to move from the edge to the cloud.&lt;br/&gt;&lt;br/&gt;In this context, this project focuses on the efficient and robust management of edge-to-cloud workflows. It includes (1) the development of a set of real-world and synthetic scientific workflows that can serve as benchmarks for evaluating edge-to-cloud algorithms and systems, (2) the development and evaluation of novel task scheduling algorithms that can optimize the performance and reliability of edge-to-cloud applications, (3) the development of an experiment management framework that enables easy execution of edge-to-cloud workflows on the computing continuum, and (4) the broad dissemination of all research artifacts through online repositories with links from the project website. The project also enables and welcomes community contributions.  Results will be published in peer-reviewed journals and conference proceedings.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403051</AwardID>
+<Investigator>
+<FirstName>Ewa</FirstName>
+<LastName>Deelman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ewa Deelman</PI_FULL_NAME>
+<EmailAddress><![CDATA[deelman@isi.edu]]></EmailAddress>
+<NSF_ID>000119337</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900890701</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress><![CDATA[3720 S FLOWER ST FL 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>Marina del Rey</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>902926611</ZipCode>
+<StreetAddress><![CDATA[4676 Admiralty Way, Suite 1001]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>090Y00</Code>
+<Text>OAC-Advanced Cyberinfrast Core</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~600000</FUND_OBLG>
+</Award>
+</rootTag>

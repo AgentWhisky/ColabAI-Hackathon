@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Statistical Inference for High Dimensional and High Frequency Data: Contiguity, Matrix Decompositions, Uncertainty Quantification]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>155372.00</AwardTotalIntnAmount>
+<AwardAmount>155372</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jun Zhu</SignBlockName>
+<PO_EMAI>jzhu@nsf.gov</PO_EMAI>
+<PO_PHON>7032924551</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>To pursue the promise of the big data revolution, the current project is concerned with a particular form of such data, high dimensional high frequency data (HD2), where series of high-dimensional observations can see new data updates in fractions of milliseconds. With technological advances in data collection, HD2 data occurs in medicine (from neuroscience to patient care), finance and economics, geosciences (such as earthquake data), marine science (fishing and shipping), and, of course, in internet data. This research project focuses on how to extract information from HD2 data, and how to turn this data into knowledge. As part of the process, the project develops cutting-edge mathematics and statistical methodology to uncover the dependence structure governing HD2 data. It interfaces with concepts of artificial intelligence. In addition to developing a general theory, the project is concerned with applications to financial data, including risk management, forecasting, and portfolio management. More precise estimators, with improved margins of error, will be useful in all these areas of finance. The results are of interest to main-street investors, regulators and policymakers, and the results are entirely in the public domain. The project will also provide research training opportunities for students.&lt;br/&gt; &lt;br/&gt;In more detail, the project will focus on four linked questions for HD2 data: contiguity, matrix decompositions, uncertainty quantification, and the estimation of spot quantities. The investigators will extend their contiguity theory to the common case where observations have noise, which also permits the use of longer local intervals. Under a contiguous probability, the structure of the observations is often more accessible (frequently Gaussian) in local neighborhoods, facilitating statistical analysis. This is achieved without altering the underlying models. Because the effect of the probability change is quite transparent, this approach also enables more direct uncertainty quantification. To model HD2 data, the investigators will explore time-varying matrix decompositions, including the development of a singular value decomposition (SVD) for high frequency data, as a more direct path to a factor model. Both SVD and principal component analysis (PCA) benefit from contiguity, which eases both the time-varying construction, and uncertainty quantification. The latter is of particular importance not only to set standard errors, but also to determine the trade-offs involved in estimation under longitudinal variation: for example, how many minutes or days are required to estimate a covariance matrix, or singular vectors? The investigators also plan to develop volatility matrices for the drift part of a financial process, and their PCAs. The work on matrix decompositions will also benefit from projected results on spot estimation, which also ties in with contiguity. It is expected that the consequences of the contiguity and the HD2 inference will be transformational, leading to more efficient estimators and better prediction, and that this approach will form a new paradigm for high frequency data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413953</AwardID>
+<Investigator>
+<FirstName>Lan</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lan Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[lanzhang@uic.edu]]></EmailAddress>
+<NSF_ID>000313767</NSF_ID>
+<StartDate>06/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606124305</ZipCode>
+<PhoneNumber>3129962862</PhoneNumber>
+<StreetAddress><![CDATA[809 S MARSHFIELD AVE M/C 551]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>W8XEAJDKMXH3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606124305</ZipCode>
+<StreetAddress><![CDATA[809 S MARSHFIELD AVE M/C 551]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~155372</FUND_OBLG>
+</Award>
+</rootTag>

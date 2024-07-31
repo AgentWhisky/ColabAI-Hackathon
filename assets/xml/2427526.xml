@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Transformation Potential of a Music-assisted Bio-feedback System to Enhance Mental Well-being]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Molly Wasko</SignBlockName>
+<PO_EMAI>mwasko@nsf.gov</PO_EMAI>
+<PO_PHON>7032924749</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is based on the development of a real-time neuro-biofeedback system that utilizes binaural beats to enhance mental well-being and cognitive performance. A binaural beat is an illusion created by the brain when you listen to two tones with different frequencies at the same time (one in each ear), which the brain interprets as a single tone. This technology aims to address the growing demand for non-pharmacological interventions using binaural beat therapy as a form of sound wave therapy to reduce stress, improve focus, and enhance overall mental health. The accessibility, convenience, and customizability achieved at a relatively low cost will give this technology a unique competitive advantage in the health and wellness industry. By providing real-time feedback and personalized recommendations, this software algorithm is poised to make positive contributions in the fields of self-improvement, mental health, and cognitive neuroscience.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. The solution is based on the development of a user-friendly mobile application that adapts to the user's current brain state using audiowaves in the form of adaptive binaural beats and an electroencephalography (EEG)-guided bio-feedback system. Auditory binaural beats are a method commonly used to alter the brain state that involves an auditory illusion perceived when two different pure-tone sine waves, both with frequencies lower than 1000 Hz and with less than a 30 Hz difference between them, are presented to a listener dichotically (one through each ear). The brain integrates the two signals, producing a sensation of a third sound called the "beat," whose frequency is equal to the difference between the two frequencies originating in the superior olivary nucleus of the brainstem. Music-assisted relaxation, which includes binaural beats that alter brainwave patterns to induce relaxation, is widely used in a variety of commercial platforms. The technology innovation utilizes binaural beats with music to achieve intended brain states based on real-time EEG feedback to provide a personalized solution for enhancing mental health and cognitive functions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2427526</AwardID>
+<Investigator>
+<FirstName>Chathurika</FirstName>
+<LastName>Dhanasekara</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chathurika S Dhanasekara</PI_FULL_NAME>
+<EmailAddress><![CDATA[samudani.dhanasekara@ttuhsc.edu]]></EmailAddress>
+<NSF_ID>0000A039C</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas Tech University Health Science Center]]></Name>
+<CityName>LUBBOCK</CityName>
+<ZipCode>794300002</ZipCode>
+<PhoneNumber>8067434565</PhoneNumber>
+<StreetAddress><![CDATA[3601 4TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E4Z2NUYUMHF9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS TECH UNIVERSITY HEALTH SCIENCES CENTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas Tech University Health Science Center]]></Name>
+<CityName>LUBBOCK</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>794300002</ZipCode>
+<StreetAddress><![CDATA[3601 4TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

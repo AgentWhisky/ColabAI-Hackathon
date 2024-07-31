@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation Potential of Compact and Low-Energy Molecular Diagnostic Devices for the Testing for Infectious Diseases]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaime A. Camelio</SignBlockName>
+<PO_EMAI>jcamelio@nsf.gov</PO_EMAI>
+<PO_PHON>7032922061</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is the development of a simplified diagnostic platform that can significantly increase the reach of infectious disease management, particularly during pandemics. By employing passive heating and cooling to enable biochemical reactions without reliance on conventional, energy-intensive equipment, this device aims to make diagnostics accessible in resource-limited environments. The technology facilitates rapid, on-site disease detection using a smartphone, thereby bypassing the logistical challenges of centralized laboratories. The societal benefits include quicker diagnosis and intervention, which are critical in outbreak containment and management, leading to saved lives and reduced spread of diseases. Commercially, this innovation opens market opportunities within the growing field of point-of-care testing, which is projected to grow due to increasing demand for decentralized healthcare solutions.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of an innovative thermal cycling mechanism that facilitates rapid heating and cooling cycles crucial for the Polymerase Chain Reaction (PCR) processes. The mechanism features a spinning disc embedded with conductors located near stationary magnets. As the disc spins, the changing magnetic fields interact with the conductors to induce eddy currents, which generate Joule heating. This method allows for efficient nucleic acid amplification. By harnessing such passive energy sources, the system achieves significant reductions in complexity and operational costs. The technical merit of this approach lies in its ability to maintain precise temperature control necessary for accurate biochemical reactions, thereby enabling reliable diagnostics in a compact, portable format. This solution has the potential to simplify and expedite pathogen detection in both developed and under-resourced settings.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/13/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/13/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2422468</AwardID>
+<Investigator>
+<FirstName>Aashish</FirstName>
+<LastName>Priye</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aashish Priye</PI_FULL_NAME>
+<EmailAddress><![CDATA[priyeah@uc.edu]]></EmailAddress>
+<NSF_ID>000817108</NSF_ID>
+<StartDate>05/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Cincinnati Main Campus]]></Name>
+<CityName>CINCINNATI</CityName>
+<ZipCode>452202872</ZipCode>
+<PhoneNumber>5135564358</PhoneNumber>
+<StreetAddress><![CDATA[2600 CLIFTON AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DZ4YCZ3QSPR5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CINCINNATI UNIV OF</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DZ4YCZ3QSPR5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Cincinnati Main Campus]]></Name>
+<CityName>CINCINNATI</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>452202872</ZipCode>
+<StreetAddress><![CDATA[2600 CLIFTON AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>066E</Code>
+<Text>INSTRUMENTATION &amp; DIAGNOSTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

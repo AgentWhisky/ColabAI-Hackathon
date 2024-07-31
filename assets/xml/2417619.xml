@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF: Small: High-Performance Incremental Spectral Algorithms for Efficient Modeling and Simulation of Large-Scale Integrated Circuits]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>599998.00</AwardTotalIntnAmount>
+<AwardAmount>599998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+<PO_EMAI>sabasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927843</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Modern integrated circuits (ICs) integrate billions of transistors into a single chip. Even key subsystems such as clock distribution networks, power delivery networks (PDNs), embedded memory arrays, and analog and mixed-signal systems can become incredibly complex, consisting of hundreds of millions of circuit components. As a consequence, it has become exceedingly difficult to model, simulate, optimize, and verify future ICs at a large scale using existing design methodologies. Recent research in spectral graph sparsification has made it possible to construct much sparser subgraphs while preserving important graph spectral properties such as the first few eigenvalues and eigenvectors of the graph Laplacian. These findings have already led to the development of highly efficient algorithms for solving large sparse matrices, partial differential equations (PDEs), and simulating large-scale circuit systems. However, existing spectral sparsification methods do not efficiently allow for updating the sparsified graph when only incremental changes are made to the original network. The algorithms and methodologies to be developed in this project will be transferred to technology companies, such as semiconductor and electronic design automation (EDA) companies, as well as social and network companies for potential industrial applications. Furthermore, the source code of the developed EDA algorithms will be made available to other researchers through collaborations. The project also includes compelling education, outreach, and course development plan. The primary research investigator plans to recruit K-12 students from local schools and get them involved in the latest research projects.&lt;br/&gt;&lt;br/&gt;This research project aims to investigate scalable algorithms for incremental spectral sparsification of large graph Laplacians and integrated circuit networks. The framework will allow for efficiently handling large graphs that experience streaming edge insertions/deletions in sublinear time, and significantly accelerating SPICE-accurate modeling and simulations of large circuit designs that undergo frequent updates.  This research will also investigate efficient approaches for incremental modeling and simulation of integrated circuits leveraging incremental spectral sparsification and involve close collaborations with leading industrial experts in circuit simulation to evaluate the proposed research. The success of the proposed research will potentially contribute to the advancements in spectral graph theory and EDA, leading to the development of highly scalable incremental algorithms for solving partial differential equations, sparse matrix problems, spectral graph partitioning, and design automation of large-scale ICs. &lt;br/&gt;&lt;br/&gt;This project is co-funded by the Software and Hardware Foundations (SHF) and Discovery Research PreK-12 (DRK12) programs. DRK12 is an applied research program that supports STEM education PreK-12.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070, 47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417619</AwardID>
+<Investigator>
+<FirstName>Zhuo</FirstName>
+<LastName>Feng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhuo Feng</PI_FULL_NAME>
+<EmailAddress><![CDATA[zfeng12@stevens.edu]]></EmailAddress>
+<NSF_ID>000555056</NSF_ID>
+<StartDate>06/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Stevens Institute of Technology]]></Name>
+<CityName>HOBOKEN</CityName>
+<ZipCode>07030</ZipCode>
+<PhoneNumber>2012168762</PhoneNumber>
+<StreetAddress><![CDATA[1 CASTLEPOINT ON HUDSON]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJ6CN5Y5A2R5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stevens Institute of Technology]]></Name>
+<CityName>HOBOKEN</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>070305906</ZipCode>
+<StreetAddress><![CDATA[1 CASTLEPOINT ON HUDSON]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>764500</Code>
+<Text>Discovery Research K-12</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>106Z</Code>
+<Text>Microelectronics and Semiconductors</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8817</Code>
+<Text>STEM Learning &amp; Learning Environments</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>04AC2324DB</Code>
+<Name><![CDATA[EDU DRSA DEFC AAB]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~599998</FUND_OBLG>
+</Award>
+</rootTag>

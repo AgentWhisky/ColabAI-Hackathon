@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Ultrafast Electroluminescence Spectroscopy for Transient Charge and Exciton Dynamics in Halide Perovskites and Heterojunctions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>377053.00</AwardTotalIntnAmount>
+<AwardAmount>377053</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Lane</SignBlockName>
+<PO_EMAI>plane@nsf.gov</PO_EMAI>
+<PO_PHON>7032922453</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Description&lt;br/&gt;&lt;br/&gt;Metal halide perovskites are an emerging class of semiconductors showing great promise for electronic devices such as light-emitting diodes (LEDs) and solar cells. A deeper understanding of these materials has the potential to pave the way for transformative advancements in next-generation electronics. In order to understand how a material performs in its intended application, it is necessary to replicate those conditions. For example, an LED emits light when electrically injected and oppositely charged carriers recombine. In this study, the PI will study perovskites using an electrical testbed on timescales less than a nanosecond and with sub-micron resolution. The project will strengthen U.S. technological leadership and cultivate the next generation of scientists and engineers, with a focus on broadening participation. The project will also foster scientific curiosity through outreach activities designed to engage K-12 students, teachers, and parents. Both undergraduate and graduate students will be actively involved in the project through interdisciplinary research that will expose them to real-world scientific challenges and foster their interest in STEM studies and careers. &lt;br/&gt;&lt;br/&gt;Technical Description&lt;br/&gt;&lt;br/&gt;Perovskite-based devices have undergone a revolution in the past decade. Solar cells now achieve power conversion efficiencies exceeding 25%, and light-emitting diodes boast internal quantum efficiencies surpassing 90%. For further advancements, a deeper understanding of fundamental charge-carrier and exciton dynamics in perovskites is essential. However, much of the literature to date has focused on understanding charge-carrier and exciton dynamics by optical excitation. Despite the many differences that electrical excitation introduces, little is known about their impacts on charge and exciton dynamics in the material. The goal of this research is to bridge this knowledge gap and investigate charge and exciton dynamics of perovskite semiconductors under electrical excitation. Specifically, the project develops an ultrafast electroluminescence testbed and study transient charge and exciton dynamics within various perovskite compositions and related perovskite/organic heterojunctions, such as free charge carrier recombination, exciton funneling and recombination processes, as well as interfacial charge-transfer state energies. The research helps elucidate many unexplained, yet key phenomena involved in halide perovskites, and facilitate desirable manipulation of charge and exciton dynamics in perovskites for next-generation optoelectronic devices.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403802</AwardID>
+<Investigator>
+<FirstName>Lianfeng</FirstName>
+<LastName>Zhao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lianfeng Zhao</PI_FULL_NAME>
+<EmailAddress><![CDATA[lianfez@clemson.edu]]></EmailAddress>
+<NSF_ID>000914273</NSF_ID>
+<StartDate>04/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Clemson University]]></Name>
+<CityName>CLEMSON</CityName>
+<ZipCode>296340001</ZipCode>
+<PhoneNumber>8646562424</PhoneNumber>
+<StreetAddress><![CDATA[201 SIKES HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H2BMNX7DSKU8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CLEMSON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Clemson University]]></Name>
+<CityName>CLEMSON</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>296340001</ZipCode>
+<StreetAddress><![CDATA[201 SIKES HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177500</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>106Z</Code>
+<Text>Microelectronics and Semiconductors</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8607</Code>
+<Text>Solar Energy Capture&amp;Conver</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~377053</FUND_OBLG>
+</Award>
+</rootTag>

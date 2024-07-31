@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Partial Differential Equation Methods in Kinetic Theory and Their Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>380000.00</AwardTotalIntnAmount>
+<AwardAmount>311106</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitry Golovaty</SignBlockName>
+<PO_EMAI>dgolovat@nsf.gov</PO_EMAI>
+<PO_PHON>7032922117</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Principal Investigator (PI) will study several important mathematical problems arising in physics: 1) In the study of a body of gas with prescribed boundary temperature, the PI plans to understand mathematically the intriguing `ghost effect' on heat conduction predicted 50 years ago;  2) The control of plasma-wall interaction is important in nuclear fusion, and the PI will study the role of such interactions mathematically in a tokamak-like geometry. He also plans to derive and justify important fluid models for describing a plasma and to demonstrate absence of shock formation in the presence of an external magnetic effect; 3) In contrast to a black hole, a naked singularity is a gravitational collapse of a star which can be observed. The existence and stability of such a naked singularity is a fundamental theoretical open question in the study of Einstein's theory for general relativity. The PI plans to establish stability of a naked singularity recently discovered via his previous NSF support; 4) Even though contact lines (e.g. boundary line where coffee meets the coffee cup, or boundary line of a drop of fluid on a table) play an important role in the study of fluids, it has been an outstanding question to model and determine the dynamics of these contact lines. The PI continues his effort to understand this challenging problem mathematically. As broader impacts of the proposed research, the PI plans to work to investigate the ghost effect from experimental and numerical standpoints, in collaborations with other researchers. The PI also continues to train PhD students and postdoctoral fellows through these research projects.&lt;br/&gt;&lt;br/&gt;On the technical level, the PI will 1) establish dynamical stability for recently constructed kinetic ghost effect in heat conduction, based on his recent decisive construction of `ghost effect' solutions; 2) Based on his recent work, the PI plans to construct global unique solutions for the Vlasov-Maxwell-Landau system, a fundamental kinetic model for describing a plasma, in the presence of a perfect conducting boundary in a tokamak-like geometry. The PI also plans to construct global well-posedness for Boltzmann equation with inverse power kernels in a bounded domain and derive fluid equations as the hydrodynamic limits of the Boltzmann theory; 3) The PI discovered that there is no shock formation in plasma two-fluid models (Euler-Maxwell system) for irrotational flows with small amplitude in his previously funded research. Thanks to his recent decisive discovery of a new mechanism of rotation to suppress singularity formation, the PI plans to construct global axisymmetric smooth rotating flows in the presence of an external magnetic field; 4) The PI continues his study to establish stability of gravitational collapse and naked singularity via analyzing spectrum problems in self-similar variables with the help of the interval arithmetic techniques; 5) The PI plans to establish the first PDE justification of dynamic fluid models for describing capillary surface or contact lines in 3D, based on his recent success in 2D.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2405051</AwardID>
+<Investigator>
+<FirstName>Yan</FirstName>
+<LastName>Guo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yan Guo</PI_FULL_NAME>
+<EmailAddress><![CDATA[yan_guo@brown.edu]]></EmailAddress>
+<NSF_ID>000110463</NSF_ID>
+<StartDate>05/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Brown University]]></Name>
+<CityName>PROVIDENCE</CityName>
+<ZipCode>029129100</ZipCode>
+<PhoneNumber>4018632777</PhoneNumber>
+<StreetAddress><![CDATA[1 PROSPECT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>RI01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E3FDXZ6TBHW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BROWN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Brown University]]></Name>
+<CityName>PROVIDENCE</CityName>
+<StateCode>RI</StateCode>
+<ZipCode>029129127</ZipCode>
+<StreetAddress><![CDATA[1 PROSPECT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>RI01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~311106</FUND_OBLG>
+</Award>
+</rootTag>

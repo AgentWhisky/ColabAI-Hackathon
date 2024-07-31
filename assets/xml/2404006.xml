@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Chiral Sum-Frequency Generation Microscopy: Mapping Chiral Macromolecular Assemblies in Cells and Tissues]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>388983.00</AwardTotalIntnAmount>
+<AwardAmount>388983</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelsey Cook</SignBlockName>
+<PO_EMAI>kcook@nsf.gov</PO_EMAI>
+<PO_PHON>7032927490</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement &amp; Imaging program and partial co-funding from the Chemistry of Life Processes program, both in the Division of Chemistry, Professor Eric Potma at the University of California-Irvine is developing a new optical microscope capable of visualizing protein structures in cells and tissues. Unlike existing optical microscopes, this instrument can produce images of important protein structures without the need for artificial chemical labeling. Instead, the microscope leverages a particular property that the targeted protein assemblies exhibit: chirality. This property relates the chemical structure of the protein and the way it is assembled, forming a unique signature that can be used for mapping relevant cell and tissue structures without the need for labeling. Professor Potma and his group will use this new instrument to study dynamic structural elements of cells, as well as the organization of proteins that form plaques associated with Alzheimer’s disease. The research has the potential to produce new insights into important biological processes that have been difficult to study with conventional optical imaging techniques. The project provides extensive training for graduate and undergraduate students, equipping them with advanced skills in the areas of physical chemistry, optical microscopy, and molecular biophysics. These opportunities will be extended to students from historically black colleges and universities (HBCUs), providing an exciting and immersive summer research experience with an aim of increasing the number of African American doctoral students in science, technology, engineering, and mathematics (STEM).&lt;br/&gt;&lt;br/&gt;The optical microscope is essential for visualizing protein structures in cells and tissues, yet the fluorescent labels needed for generating molecular-specific contrast can perturb cellular function and provide an incomplete and/or distorted picture of key cell and tissue structures. Label-free optical imaging techniques have matured into attractive alternatives to conventional approaches, providing solutions to imaging challenges that cannot be addressed with standard protocols. Although second-harmonic generation (SHG) microscopy can map fibrillar protein assemblies that display non-centrosymmetry, this popular approach lacks the spectroscopic selectivity to enable a deeper analysis of such protein structures. This project seeks to develop a new imaging technique for chemically selective imaging of fibrillar protein structures based on vibrationally-sensitive, sum-frequency generation (SFG) microscopy. The technique will map structures based on molecular chirality, thereby increasing sensitivity, boosting signal levels, and visualizing structures that have hitherto remained invisible in label-free optical microscopy. The newly developed chiral SFG microscope will be used to study the dynamics of the microtubule network in cells and the structural organization of amyloid-beta proteins in plaques associated with Alzheimer’s disease.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/06/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/06/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404006</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Potma</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric Potma</PI_FULL_NAME>
+<EmailAddress><![CDATA[epotma@uci.edu]]></EmailAddress>
+<NSF_ID>000108049</NSF_ID>
+<StartDate>05/06/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kim</FirstName>
+<LastName>Green</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kim Green</PI_FULL_NAME>
+<EmailAddress><![CDATA[kngreen@uci.edu]]></EmailAddress>
+<NSF_ID>000624283</NSF_ID>
+<StartDate>05/06/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>IRVINE</CityName>
+<ZipCode>926970001</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress><![CDATA[160 ALDRICH HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA47</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MJC5FCYQTPE6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA IRVINE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>IRVINE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>926972025</ZipCode>
+<StreetAddress><![CDATA[1102 Nature Sciences II]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA47</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688000</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>688300</Code>
+<Text>Chemistry of Life Processes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~388983</FUND_OBLG>
+</Award>
+</rootTag>

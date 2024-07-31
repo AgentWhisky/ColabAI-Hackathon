@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: PBI: Modeling Place-based Innovation by Leveraging AI-Enabled Dynamic Graph Techniques]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>295591.00</AwardTotalIntnAmount>
+<AwardAmount>295591</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rebecca Shearman</SignBlockName>
+<PO_EMAI>rshearma@nsf.gov</PO_EMAI>
+<PO_PHON>7032927403</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Place-based innovation (PBI) plays a crucial role in driving regional economic development and addressing community needs by leveraging existing research institutions, universities, and industries. However, critical gaps remain in our understanding of the duration and investments required to bring products from initial research and development through translation phases to market availability. Similarly, the impact of workforce development approaches on participant career trajectories and earnings potential remains unclear. This project aims to provide novel modeling solutions to quantify and predict PBI-related quantities, considering the complex interplay of geography, technology domain, and cross-sector partnerships. The outcomes of this research may benefit various stakeholders, including companies, nonprofits, governments, universities, and individuals, by providing crucial insights into the timelines, investments, and contextual dependencies associated with converting ideas into societal impacts.&lt;br/&gt;&lt;br/&gt;The proposed study will develop a deep graph neural network-based foundation model to quantify and predict PBI-related quantities, addressing the challenges posed by data scarcity and the multi-faceted complexity of diverse geography and technology domains. The model will be pre-trained using widely accessible public datasets and fine-tuned on place- or domain-specific datasets, enabling effective handling of data scarcity. The research design focuses on three main aspects of PBI: modeling the time and capital requirements for product development and commercialization; assessing the impacts of workforce development and diversity, equity, inclusion, and accessibility (DEIA) factors on career outcomes; and accounting for the influence of contextual factors such as geography, technology, and cross-sector partnerships. The methodology will leverage cutting-edge AI techniques, such as multi-view learning and graph Transformers, to provide an integrated model for PBI-related modeling and predictions. The project has high potential to significantly advance our understanding of PBI dynamics and complex interplays of factors influencing innovation, workforce development, and regional economic growth. The developed foundation model can serve as a powerful tool for decision-makers, enabling them to make informed choices regarding resource allocation, strategy development, and policy implementation. Moreover, the project's innovative approach will help open up new research avenues in the field of PBI, fostering further advancements in our understanding of innovation ecosystems and their societal impact.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2433190</AwardID>
+<Investigator>
+<FirstName>Qiang</FirstName>
+<LastName>Ye</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Qiang Ye</PI_FULL_NAME>
+<EmailAddress><![CDATA[qye3@uky.edu]]></EmailAddress>
+<NSF_ID>000482987</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Qiang</FirstName>
+<LastName>Cheng</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Qiang S Cheng</PI_FULL_NAME>
+<EmailAddress><![CDATA[qiang.cheng@uky.edu]]></EmailAddress>
+<NSF_ID>000309382</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Kentucky Research Foundation]]></Name>
+<CityName>LEXINGTON</CityName>
+<ZipCode>405260001</ZipCode>
+<PhoneNumber>8592579420</PhoneNumber>
+<StreetAddress><![CDATA[500 S LIMESTONE]]></StreetAddress>
+<StreetAddress2><![CDATA[109 KINKEAD HALL]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<StateCode>KY</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KY06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H1HYA8Z1NTM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF KENTUCKY RESEARCH FOUNDATION, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Kentucky Research Foundation]]></Name>
+<CityName>LEXINGTON</CityName>
+<StateCode>KY</StateCode>
+<ZipCode>405260001</ZipCode>
+<StreetAddress><![CDATA[500 S LIMESTONE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KY06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>301Y00</Code>
+<Text>NSF Engines - Type 2</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01AC2324DB</Code>
+<Name><![CDATA[R&RA DRSA DEFC AAB]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~295591</FUND_OBLG>
+</Award>
+</rootTag>

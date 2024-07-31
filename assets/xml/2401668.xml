@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Dynamical Instabilities in Solids and Two-Phase Flow]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>401620.00</AwardTotalIntnAmount>
+<AwardAmount>401620</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Hoy</SignBlockName>
+<PO_EMAI>rhoy@nsf.gov</PO_EMAI>
+<PO_PHON>7032922340</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;Cracks in solids have been studied for many years, yet some basic questions about them are barely understood. What is best known are the minimal, necessary, conditions for a crack to run. What is much less well known is how to predict the speed at which they run once they begin to move. Even questions about what speeds are possible for cracks in principle are unsettled. Resolving such questions will be an important part of the work in this project. The most important applications would be to cases where considerable uncertainty surrounds the question of when or whether a crack will actually begin to move. One example is earthquakes, which remain notoriously hard to predict.&lt;br/&gt; &lt;br/&gt;The work will also involve mechanical instabilities in fluids. They are particularly of concern for oil recovery, when oil is pushed out of the ground by water. In this case the instability comes from the formation of fingers of water that run into the oil and eventually reduce production. The work in this project will investigate the phenomenon taking into account the fact that the underground environment is tremendously lumpy and complicated, requiring an advance beyond theories assuming it is uniform.&lt;br/&gt; &lt;br/&gt;The Principal Investigator is involved in a number of educational activities. These include overall supervision of UTeach, a STEM teacher preparation program preparing around 800 middle and high school STEM teachers a year at 54 universities, teaching and developing the UTeach Research Methods course, which provides an organized research experience for prospective teachers in the program, serving as faculty lead for OnRamps Physics I, which provides the opportunity to earn college physics credit to over 6000 high school students each year, helping develop workforce plans so young people can have access to good jobs as semiconductor manufacturing returns to the United States, and activities to improve the ethics of the physics community.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This project will involve theoretical and computational investigations into the failure of solids and into two-phase fluid flow. A common theme in these problems is that they involve dynamical instabilities of moving structures in solids and liquids, and they have applications in geophysics. The project will follow up on recent experimental evidence that supersonic cracks exist and show how to deduce their behavior from materials properties. This work will rely on special analytical techniques based on the Wiener-Hopf method developed over many years, and will advance both the understanding of cracks and the reach of the techniques. Improved understanding of the conditions under which supersonic cracks exist will have application in the interpretation of earthquake dynamics. The project will also develop theoretical understanding of two-phase flow in disordered media, and the fingering instabilities that make these flows difficult to predict. This work has application to enhanced oil recovery.&lt;br/&gt; &lt;br/&gt;The existence of supersonic cracks represents a shift in the understanding of how cracks move. Recent experimental observations of these cracks create an opportunity to settle the matter of their existence and to delve into unsettled questions that include understanding how crack motion is related to microscopic structures, and the conditions under which supersonic cracks are stable and unstable.  New approaches to two-fluid flow will provide novel ways to approach this classic problem in pattern-forming physics, and extend it to the context of highly heterogeneous materials.&lt;br/&gt; &lt;br/&gt;Each of the subjects in this project has practical importance. Fracture mechanics has been essential in areas that range from designing airplanes that will not fail in flight, to trying to predict conditions for initiation of earthquakes. Looking carefully at supersonic earthquakes, which have  an enormous amount of available energy when they run, allows one to recast the question of earthquake prediction; instead of asking when they move, ask why so frequently they do not move although they can. Two-phase flow lies behind secondary recovery of petroleum, and improved understanding will impact the ability to make greatest use of existing oil fields during the challenging energy transition from hydrocarbons.&lt;br/&gt; &lt;br/&gt;The PI will continue activities impacting education that include serving as Executive Director for UTeach, one of the country's largest university-based networks for preparation of STEM teachers, faculty lead for OnRamps Physics I, which provides the opportunity to obtain university physics credit to over 6000 high school students a year, developing a workforce plan to meet challenges created by the Chips and Science Act, and activities that follow from having been the founding chair of the Ethics Committee of the American Physical Society.&lt;br/&gt; &lt;br/&gt;&lt;br/&gt;STATEMENT OF MERIT REVIEW&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401668</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Marder</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael P Marder</PI_FULL_NAME>
+<EmailAddress><![CDATA[marder@chaos.ph.utexas.edu]]></EmailAddress>
+<NSF_ID>000308752</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>176500</Code>
+<Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~401620</FUND_OBLG>
+</Award>
+</rootTag>

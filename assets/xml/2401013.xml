@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Coordinated LES modeling and wind/water tunnel experiments for elucidating wind/wave effects on floating wind turbine wakes and farm performance.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>399968.00</AwardTotalIntnAmount>
+<AwardAmount>399968</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The vast wind-energy potential above deep ocean waters has motivated serious consideration of floating wind farms. While promising, improvements to system reliability and lower costs are imperative for floating wind farms to begin playing a significant role in the transition to renewable energy sources. Key elements to enable both improved reliability and cost reductions include improved understanding of the complex fluid dynamical interactions between different types of ocean waves, turbulent winds in the marine atmospheric boundary layer, and multiple wind turbine wakes in floating wind farms as well as tools for their prediction. This project will develop and apply novel, accurate, and practical computational and experimental tools to probe these complex fluid dynamical interactions. It will fill knowledge and technology gaps in our ability to predict complex interactions between floating turbine wakes, prevailing winds, and wave fields. The project will help educate graduate students and include outreach activities with the Johns Hopkins Center for Educational Outreach to engage with local K-12 schools in Baltimore and the Oregon Science and Industry Museum in Portland to perform demonstrations of findings to a broader audience through their science communication program. &lt;br/&gt; &lt;br/&gt;The main goals of this project are to: (i) Develop improved and practically applicable surface flux parameterizations required for Large Eddy Simulations of the marine boundary layer above ocean waves. The novel computational framework uses simple non-deforming coarse meshes including a phase-resolving model with computational costs similar to traditional equilibrium wall models that cannot resolve wave phase-dependent phenomena. This approach is generally applicable to any non-breaking wavefield, from monochromatic to multi-frequency/omni-directional ocean-waves characterized by broad spectra. (ii) Improve experiment scaling concepts to better adapt laboratory-scale experiments to accurately reproduce relevant physics of field-scale floating wind farms and to generate pertinent experimental datasets to compare with models. Scaling is based on several newly defined dimensionless ratios involving turbine/platform inertia and flow-dependent parameters. Scaled laboratory experiments will simultaneously capture the turbulent wind velocity field, wave kinematics, and model wind turbine motion and generated power. (iii) Generate high quality experimental datasets under controlled conditions in wind-tunnel/wave tank laboratory experiments to test and validate the new LES wall modeling approaches under conditions of increasing complexity, elucidate conditions under which wind-wave-turbine interactions can increase or decrease power production, wake recovery, and unsteady structural loading strength, and finally, apply the improved computational and laboratory modeling tools to offshore conditions based on field data obtained along the US West Coast (relevant to floating wind energy applications). The outcome will be improved characterizations of floating turbine response such as unsteady loading as function of various wind and sea-states.  The project was funded by the NSF ENG Fluid Dynamics program and the DoE/EERE Wind Energy Technology Office.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401013</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Meneveau</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles V Meneveau</PI_FULL_NAME>
+<EmailAddress><![CDATA[meneveau@jhu.edu]]></EmailAddress>
+<NSF_ID>000113441</NSF_ID>
+<StartDate>06/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dennice</FirstName>
+<LastName>Gayme</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dennice F Gayme</PI_FULL_NAME>
+<EmailAddress><![CDATA[dennice@jhu.edu]]></EmailAddress>
+<NSF_ID>000547055</NSF_ID>
+<StartDate>06/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212182608</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTMTDMBR29C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE JOHNS HOPKINS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212182608</ZipCode>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144300</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>Y18000</Code>
+<Text/>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425RB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~399968</FUND_OBLG>
+</Award>
+</rootTag>

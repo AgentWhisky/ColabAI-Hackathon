@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Elements: PypeIt - Spectroscopic Data Reduction by Scientists for the Community]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>520159.00</AwardTotalIntnAmount>
+<AwardAmount>520159</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Varun Chandola</SignBlockName>
+<PO_EMAI>vchandol@nsf.gov</PO_EMAI>
+<PO_PHON>7032922656</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>PypeIt represents a set of tools that enable a user to take data acquired from an astronomical telescope and turn it into a table of numbers that the user can make scientific measurements with. To make this change requires a set of techniques and algorithms that have been developed over many years by many different individuals. PypeIt collects these techniques into a single set of software that allows end to end data calibration. This proposal aims to make it easier for new people to write and maintain this software by breaking it into more manageable pieces. It also aims to increase engagement with astronomers throughout the community so as to increase the number of astronomers who will work on developing the tools as well as the overall user base. More users and more developers will increase the community and make the project self-sustaining in the long term.&lt;br/&gt;&lt;br/&gt;PypeIt is a large set of python-based libraries and scripts that reduce two-dimensional spectra into calibrated one- and two-dimensional data sets. The core goals of this proposal are to: build a graphical user interface that aids in both running PypeIt and highlighting issues and errors in the data reduction process, refactor the code base so that the underlying core routines are easily accessible to external developers, and build tools that ease cloud-based use of PypeIt, with the goal of quick and efficient reduction of large data sets. Designed and developed in consultation with the community, these GUIs will broaden the science produced by PypeIt, improve the quality of the scientific products, and speed the time to publication. Second, we will refactor the core algorithms. To date, PypeIt has not been designed nor developed with the intent to integrate its core codes within the larger astronomical, software ecosystem. We would refactor the core algorithms, e.g. sky subtraction and the underlying basis spline code, to (i) accept and return basic Python objects, (ii) have extensive documentation on inputs, outputs and the algorithm procedures; and (iii) include usage examples as further documentation and for testing. These efforts will facilitate the future development and maintenance of PypeIt and, more importantly, enable the community to leverage the code for their own purposes and future instruments.&lt;br/&gt;&lt;br/&gt;This award by the Office of Advanced Cyberinfrastructure is jointly supported by the Division of Astronomical Sciences in the Mathematics and Physical Sciences Directorate.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410837</AwardID>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Prochaska</LastName>
+<PI_MID_INIT>X</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jason X Prochaska</PI_FULL_NAME>
+<EmailAddress><![CDATA[xavier@ucolick.org]]></EmailAddress>
+<NSF_ID>000110338</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bradford</FirstName>
+<LastName>Holden</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bradford P Holden</PI_FULL_NAME>
+<EmailAddress><![CDATA[holden@ucolick.org]]></EmailAddress>
+<NSF_ID>000656875</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Santa Cruz]]></Name>
+<CityName>SANTA CRUZ</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress><![CDATA[1156 HIGH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VXUFPE4MCZH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA SANTA CRUZ</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Regents of the University of California, Santa Cruz]]></Name>
+<CityName>SANTA CRUZ</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950641077</ZipCode>
+<StreetAddress><![CDATA[1156 HIGH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>179800</Code>
+<Text/>
+</ProgramElement>
+<ProgramElement>
+<Code>800400</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~520159</FUND_OBLG>
+</Award>
+</rootTag>

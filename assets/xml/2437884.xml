@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Development of advanced quantitative tools for laser radiation safety evaluation in laser urology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Adam Wax</SignBlockName>
+<PO_EMAI>awax@nsf.gov</PO_EMAI>
+<PO_PHON>7032928809</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Laser lithotripsy is the most common procedure to treat urinary stones. In this procedure, a small flexible endoscope is introduced up the urinary tract to the location of a stone. An optical fiber is passed through the endoscope and the tip is placed near the stone. High-energy laser pulses are delivered through the optical fiber to the tip. The laser energy transmitted to the stone breaks it into small pieces that can pass through the urinary tract. Recently, high-power laser systems have been created that make the procedure easier, shortening operating time and producing smaller fragments. However, the energy from these high-power lasers turns into heat that can damage kidney and other tissues. The FDA and the public health community do not presently have standard regulatory science tools for safety evaluation of laser lithotripsy devices. The objective of this project is to develop advanced tools to be used by industry, researchers and regulatory groups to evaluate heating from these lasers to improve the safety of future devices. This project will perform computer simulations and lab experiments to identify how heating is impacted by different laser characteristics. The project will create a database to identify safe power limits, and guidance documentation for evaluating new devices. It will also involve training future scientists and engineers in regulatory science, and educating physician and medical student groups on these effects. The project will support public health by reducing the risk of serious complications during these procedures and introduce protocols for safe use.&lt;br/&gt;&lt;br/&gt;Laser lithotripsy is the most common intervention for urinary stones, where a laser fiber is passed through an endoscope to deliver pulsed laser energy causing stone fragmentation. The recent introduction of high-power laser systems has expanded the capabilities of laser lithotripsy. However, higher laser power presents a risk of overheating the calyceal fluid and tissue. The impact of various physical, biological, and operator factors on this thermal effect is unknown. Furthermore, the biological sequelae from thermal injury to these tissues are not fully characterized. The FDA and public health community are lacking standard test tools, test protocols and guidance documents for laser radiation safety evaluation of these technologies. The objective of this project is to develop advanced quantitative regulatory science tools to evaluate photothermal effects to the urinary tract during laser lithotripsy and improve the safety of future devices. A computational finite-element model for laser lithotripsy will be developed to simulate physical processes of laser-induced heating, as well as laser, irrigation, and gravity induced fluid flow within the urinary tract to determine the spatiotemporal distributions of heat and pressure. The models will include realistic parameters of the biological fluids and tissues. The models will be used to simulate clinically relevant scenarios of laser lithotripsy to assess and predict thermal and pressure effects to the tissues, and a database will be defined for relevant limits of the exposure parameters required to produce bioeffects. Finally, guidance documents will be produced for evaluating future devices and exposure scenarios.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2437884</AwardID>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Maxwell</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adam Maxwell</PI_FULL_NAME>
+<EmailAddress><![CDATA[amax38@uw.edu]]></EmailAddress>
+<NSF_ID>000928055</NSF_ID>
+<StartDate>07/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M515A1DKXAN8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240603359</ZipCode>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>723600</Code>
+<Text>BioP-Biophotonics</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~200000</FUND_OBLG>
+</Award>
+</rootTag>

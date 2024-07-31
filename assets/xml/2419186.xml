@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Evolution of the Global Total Electron Contents (TEC) during Solar Flares]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>348238.00</AwardTotalIntnAmount>
+<AwardAmount>112514</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shikha Raizada</SignBlockName>
+<PO_EMAI>sraizada@nsf.gov</PO_EMAI>
+<PO_PHON>7032928963</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Solar flares, as the most intense eruptions of solar radiation, can cause enhanced ionization in the upper atmosphere on a global scale. This enhancement can impact aviation, maritime, and military communication systems and global navigation systems. However, our understanding of the flare-to-flare variations in the upper atmosphere is still illusive and thus prohibits forecasting capabilities. The results of this project will significantly deepen our understanding of flare-to-flare variations in the upper atmosphere and improve our predictability of the global upper atmosphere during solar flares. As Solar Cycle 25 is approaching its maximum accompanied by more frequent and intense solar flares, it is timely to carry out the research that will investigate the solar flares’ impact on the upper atmosphere in detail. This project will be valuable in mitigating the impact of solar flares on aviation, maritime, and military communication systems and global navigation systems, which are critical for both everyday life and national security.&lt;br/&gt;&lt;br/&gt;The overarching science goal is to investigate the evolutions of the global ionospheric total electron contents (TEC) during solar flares and to improve our ability to predict the responses of the global TEC to solar flares. Specific science questions that this project aims to address include: 1. What is the temporal evolution of the global TEC during solar flares? 2. How do the different phases of solar flares (e.g., coronal dimming and EUV late phase) impact the responses of the global TEC? 3. How can we predict the response of global TEC to solar flares using machine learning (ML) models? To address these SQs, the research team plans to utilize TEC data from the worldwide GNSS receivers, perform detailed analysis with an aim to investigate its responses to solar flares. The solar spectral irradiance during such events will be from empirical models (e.g., FISM2) or observations (e.g., SDO EVE). The investigation will use state-of-the-art physics-based numerical models (e.g., GITM) to investigate the responses of the TEC during different phases of solar flares, especially the EUV late phase and coronal dimming. The project plans to develop ML models to predict the global TEC responses to solar flares. To carry out the tasks, a team including experts in ground-based observations, numerical modeling, and machine learning would be involved in the research. The outcome of this project can help mitigate the impact of solar flares on our technological society. The project will support an early career researcher and promote integration of research and education.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/28/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419186</AwardID>
+<Investigator>
+<FirstName>Zihan</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zihan Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[zihan.wang@uta.edu]]></EmailAddress>
+<NSF_ID>000901085</NSF_ID>
+<StartDate>06/28/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Arlington]]></Name>
+<CityName>ARLINGTON</CityName>
+<ZipCode>760199800</ZipCode>
+<PhoneNumber>8172722105</PhoneNumber>
+<StreetAddress><![CDATA[701 S NEDDERMAN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMLUKUPJJ9N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT ARLINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Arlington]]></Name>
+<CityName>ARLINGTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>760199800</ZipCode>
+<StreetAddress><![CDATA[701 S. NEDDERMAN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152100</Code>
+<Text>AERONOMY</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~112514</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF/BIO-DFG: Developmental IGF/growth-signaling induced influences on adult life trajectories of hematopoietic stem cell selection and function]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>225306.00</AwardTotalIntnAmount>
+<AwardAmount>225306</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Loretta Jackson-Hayes</SignBlockName>
+<PO_EMAI>lojackso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924286</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Adult stem cells maintain our organs throughout life by continual replenishment of the specialized cells of that organ. Recent discoveries have shown that events occurring in early life can impact adult stem cell function many years later. This project will test whether specific early-life events – mediated by diet or growth/metabolic signaling pathways – can influence blood stem cell function years later. This question will be addressed by combining stem cell transplantation and sequencing experiments in mice with new mathematical models to predict the dynamics of stem cell populations over time. By jointly measuring the expression of genes and the epigenetic marks present on the DNA of single cells, it will be possible to test the hypothesis that early life events induce a stem cell ‘memory’ that persists throughout life. If such an effect is found, the investigators will test whether it is possible to reverse it by exposing stem cells to specific molecular factors to partially reprogram the cells to a state in which the effects of early-life signals are erased. The investigators expect the results to provide a proof-of-concept that stem cell memory impacts the selection of stem cell subpopulations during life. These findings will impact our understanding of cell signaling more generally and stem cell memory across other organs and development systems. This multidisciplinary study will also offer diverse training and educational opportunities for students in a variety of settings ranging from K-12 classrooms to medical school.&lt;br/&gt;&lt;br/&gt;The maintenance of the blood system throughout life is controlled by an intricate combination of cell-autonomous and extrinsic mechanisms in hematopoietic stem cells (HSCs). Throughout life, HSCs undergo somatic evolution and selection of subpopulations of HSCs occurs. This project will investigate the role of growth signaling in early life and its impact on HSCs by analyzing the influence of early life IGF/growth signals on the installment of epigenetic memory and the selection of molecularly defined subpopulations of HSCs during adult life. HSC transplantation studies will be used to study HSCs perturbed in early life and then implanted into non-perturbed niches (or vice versa) to investigate the extent to which HSC-intrinsic memory effects vs. extrinsic (i.e. niche/systemic effects) dominate stem cell dynamics throughout life. HSC subpopulation selection will be assessed using time-course single cell sequencing analyses of genetic mouse models and dietary interventions that change IGF/growth-signaling during development. Mathematical models will be developed to study how dynamic transcriptional networks change in HSCs of adult mice in response to transient perturbations in developmental growth signals. Finally, transient induction of pluripotency factors (partial reprogramming) will be employed to test whether it is possible to revert memory effects of developmental IGF/growth signaling and whether this would ameliorate developmental influences on epigenetic memory, transcriptional changes, and the selection of molecularly defined HSC subpopulation during adult life.&lt;br/&gt;&lt;br/&gt;This collaborative US/German project is supported by the US National Science Foundation (NSF) and the Deutsche Forschungsgemeinschaft (DFG) where NSF funds the US investigator and DFG funds the German partner.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421941</AwardID>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>MacLean</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adam L MacLean</PI_FULL_NAME>
+<EmailAddress><![CDATA[macleana@usc.edu]]></EmailAddress>
+<NSF_ID>000826882</NSF_ID>
+<StartDate>06/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900890701</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress><![CDATA[3720 S FLOWER ST FL 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900892910</ZipCode>
+<StreetAddress><![CDATA[1050 CHILDS WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111400</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5936</Code>
+<Text>GERMANY (F.R.G.)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~225306</FUND_OBLG>
+</Award>
+</rootTag>

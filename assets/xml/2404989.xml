@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Search-Accelerated Markov Chain Monte Carlo Algorithms for Bayesian Neural Networks and Trillion-Dimensional Problems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>163265.00</AwardTotalIntnAmount>
+<AwardAmount>163265</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>ANDREAS BERLIND</SignBlockName>
+<PO_EMAI>aberlind@nsf.gov</PO_EMAI>
+<PO_PHON>7032925387</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Machine learning with deep neural networks occurs in every scientific field. In astronomy, machine learning (ML) applications are wide-ranging.  Advanced ML methods involve large numbers of tunable variables, in the range of millions to trillions of parameters. Current methods for tuning these parameters can find a single best-fitting model but are unable to produce the range of ML models that match observations. Knowing the range of uncertainties for a given method is of fundamental importance in science. More broadly, there are many areas beyond science where knowing the range of uncertainties is important (e.g., driverless cars, medical, and military applications). This proposal introduces a new algorithm that will explore uncertainties for trillion-dimensional models and beyond (encompassing the dimensionality of current large neural networks). For such trillion-dimensional parameter spaces, the method would be five hundred times faster than the best previous approaches. This method could revolutionize machine learning across scientific and commercial fields. The ability to show that all reasonable neural networks give similar results would directly address present problems of robustness and reproducibility, as well as rigorously quantify model uncertainties. This proposal also involves direct broader impact work with veterans transitioning from the military to college. &lt;br/&gt;&lt;br/&gt;This proposal would advance the frontiers of sampling algorithm performance, with typical O(log D) or better scaling with dimensionality, as well as provide new knowledge about the geometry of high-dimensional posterior distributions, including those for deep neural networks. Advancing sampling algorithm performance would allow a broad range of problems to be addressed in astronomy that would otherwise be computationally intractable, especially reconstruction problems (e.g., field-level inference for cosmology or blended source reconstruction) and high-dimensional modeling (e.g., modeling the joint distribution of physical properties of multiple galaxies simultaneously, given their luminosity, spatial, and redshift distributions). Advancing understanding of the geometry of high-dimensional posterior distributions would enable the development of more optimized algorithms for exploration and sampling, particularly for advanced neural networks, further reducing the barriers to robust posterior distributions. The results of this proposal will be released as an open-source implementation of the algorithm as well as an open-access accompanying paper.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/26/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/26/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404989</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Behroozi</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter S Behroozi</PI_FULL_NAME>
+<EmailAddress><![CDATA[behroozi@arizona.edu]]></EmailAddress>
+<NSF_ID>000603033</NSF_ID>
+<StartDate>03/26/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Arizona]]></Name>
+<CityName>TUCSON</CityName>
+<ZipCode>85721</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress><![CDATA[845 N PARK AVE RM 538]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ED44Y3W6P7B9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ARIZONA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Arizona]]></Name>
+<CityName>TUCSON</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>85721</ZipCode>
+<StreetAddress><![CDATA[933 N Cherry Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>121700</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~163265</FUND_OBLG>
+</Award>
+</rootTag>

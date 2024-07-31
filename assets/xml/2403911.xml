@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[APTO: Constructing causal knowledge graphs for assessing and predicting technology outcomes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>5798454.00</AwardTotalIntnAmount>
+<AwardAmount>1932818</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15010000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TF</Abbreviation>
+<LongName>Technology Frontiers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeff Alstott</SignBlockName>
+<PO_EMAI>jalstott@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Assessing and predicting technology outcomes (APTO) is crucial for evaluating the impact of R&amp;D investments on innovation, economic growth, and national competitiveness. Tackling this complex task requires appropriate datasets and effective data creation tools. The latest natural language processing (NLP) technologies have reached human-level performance in certain crucial information extraction tasks, as evidenced by results from community-organized challenges. This project will leverage an award-winning pipeline for constructing knowledge graphs (KGs) by expanding it substantially to include a diverse set of technology related entities and their relations. KGs comprise entities like diseases, genes, drugs, etc., and their relations, including associations, bindings, positive correlations, etc. The enhanced KG will be ready for developing models for predicting technology outcomes in healthcare and drug discovery. In addition to the dataset, the project team will also develop an end-to-end toolkit for fellow APTO teams to perform information extraction tasks and construct KGs in their own domains. By utilizing the latest advancements in NLP and predictive modeling, the project will provide a comprehensive assessment of the capabilities and applications of biomedical technologies. This will not only inform R&amp;D investments but will also contribute to informed decision-making in healthcare and technology policy, as well as address the disparities between healthcare spending and outcomes. Furthermore, the project's approach of extracting vast amounts of information from text to build predictive models can be applied to other sectors, advancing research and knowledge across various fields. Ultimately, this project has the potential to drive strategic investments in technology and innovation, improving health outcomes and fostering economic prosperity on a national and global scale.  &lt;br/&gt;&lt;br/&gt;This project will leverage a pipeline recently developed that won the NIH-organized LitCoin NLP challenge, a competition that evaluated methods for constructing biomedical knowledge graphs (KGs) by extracting entities and their relations from biomedical texts. Using this pipeline, the project team created a large-scale KG by extracting information from all PubMed abstracts. The KG, named iKraph, contains substantially more information than that in public databases. To adapt iKraph for causal inference, the project team annotated direction information for the relations in the LitCoin dataset and developed models to predict the direction of relations, which enabled the construction of a causal KG capable of inferring causality between indirectly connected entities. In this project, iKraph will be enhanced by adding a diverse set of technology related entities and their relations such as equipment, technology, technology features, feature values, problems, methods, data types, datasets, and geographical entities etc. The project team will extract relevant information from unstructured text including PubMed abstracts, PubMed Central full-text articles, patents, marketing reports, and Wikipedia articles. Relevant data from public databases will also be integrated into iKraph. The toolkit for constructing KGs, designed for end-to-end annotation and model building, will utilize an AI-assisted methodology. This approach incorporates AI models at every stage of the annotation process to enhance quality and significantly improve efficiency. Finally, the project team will conduct a case study on advanced manufacturing technologies (AMT) for the production of generic off-patent drugs using the constructed KG.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403911</AwardID>
+<Investigator>
+<FirstName>Jinfeng</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jinfeng Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[jinfeng@insilicom.com]]></EmailAddress>
+<NSF_ID>000646072</NSF_ID>
+<StartDate>07/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[INSILICOM LLC]]></Name>
+<CityName>TALLAHASSEE</CityName>
+<ZipCode>323125701</ZipCode>
+<PhoneNumber>8502283897</PhoneNumber>
+<StreetAddress><![CDATA[8117 VIBURNUM CT]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UEZ1NQZ388J6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>INSILICOM LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>XYQ4NLXPBR35</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[INSILICOM LLC]]></Name>
+<CityName>TALLAHASSEE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>323125701</ZipCode>
+<StreetAddress><![CDATA[8117 VIBURNUM CT]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>267Y00</Code>
+<Text>APTO-Assess-Predict Tech Outcm</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1932818</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Transforming Personal Informatics Systems to Support Routine Transitions in Healthy Eating]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>605063.00</AwardTotalIntnAmount>
+<AwardAmount>235880</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+<PO_EMAI>dcosley@nsf.gov</PO_EMAI>
+<PO_PHON>7032928832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Many people use personal informatics technology, such as smartwatches and mobile tracking applications, to support and maintain their healthy eating goals. However, disruptions and transitions of routines, such as moving, job changes, or family illness, can interfere with their ability to stick to their goals. When these transitions happen, they might influence how individuals access healthy eating resources or create challenges for people to maintain their healthy eating behavior outside their established routine. Transitions may also create new needs or change people’s priorities around healthy eating. However, current personal informatics technology is typically designed based on the assumption that everyday behavior remains static. As a result, when transitions happen in everyday life, existing technologies struggle to help people assess and adapt to the changing needs, constraints, and priorities. Thus, this project aims to examine how personal informatics systems can be designed to support people in healthy eating when experiencing transitions in their routines, individually and collaboratively. &lt;br/&gt;&lt;br/&gt;The initial line of work will be to systematically understand people’s needs and the challenges of healthy eating when transitions in their routines occur. These findings will help create design principles and theoretical foundations supporting technology design around these transitions. The second line of work will iteratively design and develop technologies that can support people to cope with transitions and continue to eat healthily. Finally, the project team will conduct field studies to evaluate the usefulness, usability, and engagement with these technologies over time and in the context of transitions. The project will contribute empirical knowledge, design guidelines, theoretical frameworks, and field-evaluated technology to support healthy eating during transitions in routines. It also includes integrated education and outreach activities for universities, high schools, and local communities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414270</AwardID>
+<Investigator>
+<FirstName>Chia-Fang</FirstName>
+<LastName>Chung</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chia-Fang Chung</PI_FULL_NAME>
+<EmailAddress><![CDATA[cfchung@ucsc.edu]]></EmailAddress>
+<NSF_ID>000804674</NSF_ID>
+<StartDate>04/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Santa Cruz]]></Name>
+<CityName>SANTA CRUZ</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress><![CDATA[1156 HIGH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VXUFPE4MCZH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA SANTA CRUZ</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Cruz]]></Name>
+<CityName>SANTA CRUZ</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950641077</ZipCode>
+<StreetAddress><![CDATA[1156 HIGH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736700</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~235880</FUND_OBLG>
+</Award>
+</rootTag>

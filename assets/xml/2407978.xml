@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Upgrading the MKID Exoplanet Camera for Subaru SCExAO]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>881843.00</AwardTotalIntnAmount>
+<AwardAmount>881843</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alison Peck</SignBlockName>
+<PO_EMAI>apeck@nsf.gov</PO_EMAI>
+<PO_PHON>7032922522</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>People from every nation, young or old, are filled with wonder at the night sky and invariably ask “Are We Alone?”  We still don't know the answer! Over 5000 exoplanet detections have been confirmed in the last two decades, but finding a planet and knowing if it has life on it are very different things. To find life we need to go beyond the techniques that have allowed us to find these thousands of distant planets and develop instruments and techniques that let us detect the spectral features that are the signposts of life: oxygen, water vapor, methane, ozone, maybe even chlorophyll. In this project, the investigators will upgrade a powerful instrument for detecting and characterizing exoplanets called the MKID Exoplanet Camera. They have also started a YouTube channel, @ExperimentalAstrophysics, to show the world what it is like to design, fabricate, and use astronomical instruments. They will document their progress at: https://www.youtube.com/channel/UCfhgvAdHDxXEzX0E8OX4c8A/ &lt;br/&gt;&lt;br/&gt;Over the last half decade, the investigators have constructed and operated the MKID Exoplanet Camera (MEC), a z through J band (800-1400 nm) Integral Field Spectrograph (IFS) located behind the Subaru Coronagraphic Extreme Adaptive Optics (SCExAO) at the Subaru Telescope on Maunakea. MEC uses Microwave Kinetic Inductance Detectors (MKIDs) as the enabling technology for high contrast imaging. MEC is the first permanently deployed near-infrared MKID instrument and is designed to operate both as an IFS and as a focal plane wavefront sensor in a multi-kHz feedback loop with SCExAO. MEC was designed nearly a decade ago using the best MKID technology of the time, but in subsequent years, the team has made significant MKID breakthroughs. Most notable is an improvement in the spectral resolution at 1 micron from R~5 to R~20 (R~35 at 400 nm) in recent lab measurements. This project will upgrade the MEC instrument to use this latest MKID technology, boosting the spectral resolution and array fill factor. This is especially timely as SCExAO has recently been upgraded to use a new 3000 actuator first stage deformable mirror (DM), which allows the full use of the 2000 actuator DM inside SCExAO for coherent differential imaging to reach unprecedented contrast levels at small inner working angles. Students will be a key part of the development program, helping to train the next generation of instrument PIs, and the team have also started a YouTube channel, @ExperimentalAstrophysics, to show the world what it is like to work in an Experimental Astrophysics lab. This channel will document the process of building and installing MEC’, and this work involves undergrads from UCSB's Film and Media studies department as editors.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407978</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Mazin</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benjamin A Mazin</PI_FULL_NAME>
+<EmailAddress><![CDATA[bmazin@physics.ucsb.edu]]></EmailAddress>
+<NSF_ID>000537758</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName>SANTA BARBARA</CityName>
+<ZipCode>931060001</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress><![CDATA[3227 CHEADLE HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G9QBQDH39DF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SANTA BARBARA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName>SANTA BARBARA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>931060001</ZipCode>
+<StreetAddress><![CDATA[3227 CHEADLE HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>121800</Code>
+<Text>ADVANCED TECHNOLOGIES &amp; INSTRM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7697</Code>
+<Text>INSTRUMENTATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~881843</FUND_OBLG>
+</Award>
+</rootTag>

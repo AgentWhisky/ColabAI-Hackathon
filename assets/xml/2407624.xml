@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Enabling direct imaging radio telescopes and precision cosmology with pyFHD]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>570112.00</AwardTotalIntnAmount>
+<AwardAmount>570112</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Frank Schinzel</SignBlockName>
+<PO_EMAI>fschinze@nsf.gov</PO_EMAI>
+<PO_PHON>7032928112</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>A new generation of large radio telescopes are being developed to study how and when the first stars and galaxies formed, understand our evolving universe, and explain the behavior of our sun and solar system. These telescopes will have many more antennas than previous radio telescopes. A new technique has been developed to significantly reduce the data rates from such large telescopes. Under this grant, the investigators will add functionality to the open source pyFHD software package. The investigators will test this software with data collected from several radio telescopes including both traditional and direct imaging systems. These software enhancements will be made widely available to the entire radio astronomy community, facilitating and encouraging additional contributions to the package. In addition, this grant will support EPIC TV, giving the public a real-time view of the radio sky as seen by the Long Wavelength Array in New Mexico. This project will provide research experiences for non-traditional undergraduate students that are not well served by standard research opportunities. This will include enabling these students on a path to graduate school, with a goal to diversify the broader STEM workforce.&lt;br/&gt;&lt;br/&gt;Fast Holographic Deconvolution (FHD) was developed in the 21cm cosmology community that solves many of the analysis challenges encountered in that research area. It has been used in obtaining leading limits of the 21cm Epoch of Reionization power spectrum, demonstrating that it has the precision required for cosmology, as well as being used to make high-quality catalogs and polarized maps of galactic emission. FHD, originally written in IDL (the Interactive Data Language), shares a mathematical framework with direct imaging, making it well placed to help address the data analysis challenges for direct imaging telescopes. Recently, in a major development effort, the minimal set of FHD functionality required for a standard cosmology analysis was ported to python, resulting in the open source pyFHD package. The functionality the investigators will develop in pyFHD under this grant will enable the community to demonstrate the science performance of direct imaging radio telescopes with a full end-to-end pipeline. This will provide the community with a reference implementation of the software needed to perform science without interferometric visibilities and will facilitate evaluation for future proposals to construct direct imaging radio telescopes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407624</AwardID>
+<Investigator>
+<FirstName>Miguel</FirstName>
+<LastName>Morales</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Miguel F Morales</PI_FULL_NAME>
+<EmailAddress><![CDATA[mmorales@phys.washington.edu]]></EmailAddress>
+<NSF_ID>000463122</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bryna</FirstName>
+<LastName>Hazelton</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bryna J Hazelton</PI_FULL_NAME>
+<EmailAddress><![CDATA[brynah@phys.washington.edu]]></EmailAddress>
+<NSF_ID>000710539</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981951016</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress><![CDATA[4333 BROOKLYN AVE NE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WASHINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>SEATTLE</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981951016</ZipCode>
+<StreetAddress><![CDATA[3910 15th Ave NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>121800</Code>
+<Text>ADVANCED TECHNOLOGIES &amp; INSTRM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7697</Code>
+<Text>INSTRUMENTATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~570112</FUND_OBLG>
+</Award>
+</rootTag>

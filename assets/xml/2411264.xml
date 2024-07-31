@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-BSF: Scalable Graph Neural Network Algorithms and Applications to PDEs]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>374988.00</AwardTotalIntnAmount>
+<AwardAmount>121190</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Troy D. Butler</SignBlockName>
+<PO_EMAI>tdbutler@nsf.gov</PO_EMAI>
+<PO_PHON>7032922084</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will advance the fields of geometric machine learning and numerical partial differential equations and strengthen the connections between them. Geometric machine learning provides an effective approach for analyzing unstructured data and has become indispensable for computer graphics and vision, bioinformatics, social network analysis, protein folding, and many other areas. Partial differential equations (PDEs) are ubiquitous in mathematical modeling, and their numerical solution enables the simulation of real-world phenomena in engineering design, medical analysis, and material sciences, to name a few. A unified study of both fields exposes many potential synergies, which the project will seize to improve the efficiency of algorithms in both areas. The first goal is to improve the scalability of geometric machine learning approaches based on graph neural networks (GNNs) to accommodate growing datasets with millions of nodes using insights and ideas from numerical PDEs. The second goal is to accelerate numerical PDE simulations by enhancing numerical solvers on unstructured meshes with GNN components. Through these improvements in computational efficiency, the project will enable more accurate data analysis and PDE simulations for high-impact applications across the sciences, engineering, and industry. Graduate students and postdoctoral researchers will be integrated into this research as part of their professional training. &lt;br/&gt;&lt;br/&gt;This project will develop computational algorithms that improve the efficiency and scalability of GNNs and create new approaches for GNNs for solving nonlinear PDEs on unstructured meshes. To improve the scalability of GNNs to graphs with millions of nodes, the research team will develop spatial smoothing operators, coarsening operators, and multilevel training schemes. To accelerate PDE simulations on unstructured meshes, the team will train GNNs to produce effective prolongation, restriction, and coarse mesh operators in multigrid methods and preconditioners in Krylov methods. The team will demonstrate that the resulting hybrid schemes accelerate computations and are provably convergent. To show the broad applicability of the schemes, the team will consider challenging PDE problems in computational fluid dynamics and test the scalable GNNs on established geometric learning benchmark tasks such as shape and node classification. The mathematical backbone of these developments is algebraic multigrid techniques, which motivate GNN design and training and are used in the PDE solvers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411264</AwardID>
+<Investigator>
+<FirstName>Lars</FirstName>
+<LastName>Ruthotto</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lars Ruthotto</PI_FULL_NAME>
+<EmailAddress><![CDATA[lruthotto@emory.edu]]></EmailAddress>
+<NSF_ID>000685163</NSF_ID>
+<StartDate>06/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Emory University]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303221061</ZipCode>
+<PhoneNumber>4047272503</PhoneNumber>
+<StreetAddress><![CDATA[201 DOWMAN DR NE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>S352L5PJLMP8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EMORY UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Emory University]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303224250</ZipCode>
+<StreetAddress><![CDATA[400 DOWMAN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~121190</FUND_OBLG>
+</Award>
+</rootTag>

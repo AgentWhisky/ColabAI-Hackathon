@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CDS&E-MSS: Community detection via covariance structures]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/15/2023</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>180000.00</AwardTotalIntnAmount>
+<AwardAmount>180000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>A weighted network is a network in which each edge between nodes is assigned a weight or, in other words, a numerical value. In contrast to an unweighted network where edges are binary, a weighted network provides additional information about the importance, strength, or intensity of the connections between nodes. This project aims to develop novel community detection tools specifically designed for the analysis of weighted network data, with a primary focus on applications in bioinformatics and biological science. The goal is to identify modules of highly correlated genes by utilizing the covariance or correlation matrix that represents a weighted network. By applying a systematic, computationally efficient, and theoretically rigorous approach, this project aims to effectively address this problem, facilitating its application in various biological contexts such as cancer research and brain imaging data analysis. A significant aspect of this project is the opportunity it provides to students to gain valuable research experiences in statistics, data science, and bioinformatics. The PIs plan to involve and mentor both undergraduate and graduate students in their research related to this project.&lt;br/&gt;&lt;br/&gt;The project first presents a novel approach to community detection via covariance structures. Specifically, the project focuses on the block-structured covariance model (BCM) and its variants, such as the heterogeneous block covariance model (HBCM). Under the BCM, data follows a multivariate normal distribution, with the covariance matrix organized into blocks based on community labels. The HBCM incorporates heterogeneous parameters to account for the characteristics of individual variables when forming connections with other features. Second, this project provides not only multiple community detection methods but also a systematic framework for studying weighted networks. This framework opens up new avenues for community detection research. Additionally, the BCM/HBCM framework enables the evaluation of various nonparametric methods and criterion functions, both theoretically and practically. Moreover, the project develops novel methods to overcome computational and theoretical challenges inherent in the new research topic.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>10/25/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>10/25/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401020</AwardID>
+<Investigator>
+<FirstName>Yunpeng</FirstName>
+<LastName>Zhao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yunpeng Zhao</PI_FULL_NAME>
+<EmailAddress><![CDATA[Yunpeng.Zhao@asu.edu]]></EmailAddress>
+<NSF_ID>000655626</NSF_ID>
+<StartDate>10/25/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Colorado State University]]></Name>
+<CityName>FORT COLLINS</CityName>
+<ZipCode>805212807</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress><![CDATA[601 S HOWES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LT9CXX8L19G1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLORADO STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Colorado State University]]></Name>
+<CityName>FORT COLLINS</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>805212807</ZipCode>
+<StreetAddress><![CDATA[601 S HOWES ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>806900</Code>
+<Text>CDS&amp;E-MSS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~180000</FUND_OBLG>
+</Award>
+</rootTag>

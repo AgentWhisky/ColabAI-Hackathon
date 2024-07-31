@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The impact of socioeconomic heterogeneity on science and innovation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Feeney</SignBlockName>
+<PO_EMAI>mfeeney@nsf.gov</PO_EMAI>
+<PO_PHON>7032927197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Broad evidence in the science of science has shown that the composition of the scientific workforce shapes the pace and direction of scientific discovery and innovation, and that workforce heterogeneity often leads to more innovative science. Recent work has shown that the U.S. scientific workforce is substantially less heterogeneous in socioeconomic backgrounds than the population of doctoral recipients. However, little is known about whether and how this lack of heterogeneity shapes the range and types of scientific discoveries overall or impacts specific fields of study. A lack of comprehensive data on the socioeconomic composition of the scientific workforce has limited empirical work, theory building, and evidenced based policy-making on these questions. This project advances our understanding of how socioeconomic heterogeneity influences scientific careers and scholarship across scientific fields and identifies specific mechanisms to improve the productivity of the scientific community and its capacity to produce innovative research.&lt;br/&gt;&lt;br/&gt;This project (i) produces a unique, large-scale, individual-level data set that links researcher socioeconomic backgrounds with scholarly topics for U.S.-based scientists spanning more than 100 fields of study; (ii) makes an anonymized version of this data set publicly available for reuse by the research community to investigate related questions; (iii) uses state-of-the-art computational and statistical techniques to quantify the impact of socioeconomic heterogeneity within a field on its scholarly outputs and estimate the impact of socioeconomic heterogeneity on workforce attrition; and (iv) identifies mechanisms by which socioeconomic heterogeneity influences scientific careers and shapes the pace and direction of knowledge production, to inform efforts to improve the results of investments in science and innovation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2420950</AwardID>
+<Investigator>
+<FirstName>Aaron</FirstName>
+<LastName>Clauset</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aaron Clauset</PI_FULL_NAME>
+<EmailAddress><![CDATA[aaron.clauset@colorado.edu]]></EmailAddress>
+<NSF_ID>000497756</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Acuna</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel E Acuna</PI_FULL_NAME>
+<EmailAddress><![CDATA[daniel.acuna@colorado.edu]]></EmailAddress>
+<NSF_ID>000722750</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Larremore</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel B Larremore</PI_FULL_NAME>
+<EmailAddress><![CDATA[daniel.larremore@colorado.edu]]></EmailAddress>
+<NSF_ID>000605019</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress><![CDATA[3100 MARINE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 481 572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado Boulder]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803031904</ZipCode>
+<StreetAddress><![CDATA[3415 Colorado Avenue, 596 UCB]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125Y00</Code>
+<Text>Science of Science</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~400000</FUND_OBLG>
+</Award>
+</rootTag>

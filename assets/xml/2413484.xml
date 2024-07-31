@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[New Approaches to Sensitivity Analysis in Observational Studies]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>180000.00</AwardTotalIntnAmount>
+<AwardAmount>58516</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>While randomized experiments remain the gold standard for elucidating cause and effect relations, countless societally important "what-if?" questions cannot be addressed through clinical trials for a litany of reasons, ranging from ethical concerns to logistical infeasibility. For this reason, observational studies, wherein the assignment of group status to individuals is outside the control of the researcher, often represent the only path forward for inferring causal effects. While observational data are often inexpensive to collect and plentiful, regrettably, they suffer from inescapable biases due to self-selection. In short, associations between group status and outcomes of interest need not reflect causal effects, as the groups being compared might have considerable differences on the basis of factors unavailable for adjustment. This project will develop new methods for sensitivity analysis in observational studies, which answer the question, "How much-unmeasured confounding would need to exist to overturn a study's finding of a causal effect?" Quantifying the robustness of observational findings to hidden bias will help frame the debate around the reliability of such studies, allowing researchers to highlight findings that are particularly resilient to lurking variables. This project provides both theoretical guidance on how to extract the most out of a sensitivity analysis and computationally tractable methods for making this guidance actionable. Moreover, when randomized experimentation is possible, the developed methods will help researchers use existing observational studies for hypothesis generation, enabling them to find sets of promising outcome variables whose causal effects may be verified through follow-up experimentation. This award includes support for work with graduate students.&lt;br/&gt;&lt;br/&gt;This project develops a new set of statistical methods for conducting sensitivity analyses after matching. These methods aim to overcome shortcomings of the existing approach, conferring computational, theoretical, and practical benefits. The project will provide a new approach to sensitivity analysis after matching called weighting-after-matching. The project will establish computational benefits, theoretical improvements in design sensitivity, and practical improvements in the power of a sensitivity analysis by using weighting-after-matching in lieu of the traditional unweighted approach. The project will also establish novel methods for sensitivity analysis with multiple outcome variables. These innovations will include a scalable multiple testing procedure for observational studies, facilitating exploratory analysis while providing control of the proportion of false discoveries, and methods for sensitivity analysis using weighting-after-matching for testing both sharp null hypotheses of no effect at all and hypotheses on average treatment effects. Finally, the project will establish previously unexplored benefits from using matching and weighting in combination, two modes of adjustment in observational studies commonly viewed as competitors. This will help bridge the divide between matching estimators and weighting estimators in the context of a sensitivity, in so doing providing a natural avenue for theoretical comparisons of these approaches.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413484</AwardID>
+<Investigator>
+<FirstName>Colin</FirstName>
+<LastName>Fogarty</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Colin B Fogarty</PI_FULL_NAME>
+<EmailAddress><![CDATA[fogartyc@umich.edu]]></EmailAddress>
+<NSF_ID>000939095</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~58516</FUND_OBLG>
+</Award>
+</rootTag>

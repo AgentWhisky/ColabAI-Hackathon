@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Electrically Controlled Quantum Light Emission in Atomically Thin Materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>488251.00</AwardTotalIntnAmount>
+<AwardAmount>166212</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yaroslav Koshka</SignBlockName>
+<PO_EMAI>ykoshka@nsf.gov</PO_EMAI>
+<PO_PHON>7032924986</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Description &lt;br/&gt;This project advances the understanding of and control over the emission of single photons in atomically thin semiconductor materials. A photon is a single, well-defined quantum of light, and single-photon emitters are a key component in systems for quantum communications and computing. Atomically thin semiconductors offer a promising approach and material platform for the development of single-photon emitters and their integration with current computing and communications systems. Researchers in this project are using semiconductor manufacturing techniques to create chips that combine atomically thin semiconductors with more conventional semiconductor electronics, in a configuration that allows electrical signals to mechanically deform the atomically thin semiconductor layers as required to achieve single photon emission. This capability leads to the possibility of achieving electrical control over the emission of single photons. By using different atomically thin semiconductor materials, emission of single photons with different energies can be achieved. Also, by reducing the size and correspondingly increasing the density of single photon emitters on a semiconductor chip, researchers are exploring possibilities for observing additional exotic quantum phenomena in light emission. This project is helping to establish and strengthen the foundation of understanding required for application of quantum light emission in these materials to quantum communications and information processing systems. A strong education and outreach component is included, focusing on an enrichment project for K-8 students in which extremely inexpensive, readily available materials combined with a smartphone camera can be used to build a very simple “microscope” providing magnification by up to a factor of fifty. Providing diverse student populations with accessible yet powerful capabilities for applying basic optical concepts and visually exploring their surroundings enables them to solidify concepts learned in school and to develop a scientific, evidence-based approach to their world with benefits extending across a broad range of their future endeavors.&lt;br/&gt;&lt;br/&gt;Technical Description &lt;br/&gt;Single photon emission and its relationship to strain, material defects, and optical properties of semiconductors in which it occurs are fundamental issues in the study of quantum materials. Furthermore, single-photon emitters are a key component in systems for quantum communications and information processing. Atomically thin transition metal dichalcogenide (TMD) semiconductors offer a promising approach for development of single-photon emitters that can be integrated with conventional semiconductor electronic and photonic structures. This project builds upon a recently developed nanofabricated platform that enables tensile strain in atomically thin TMD semiconductors to be dynamically controlled via application of bias voltages to a back gate, thereby creating electrostatic attraction between the TMD material and an underlying silicon wafer. This platform allows modulation of mobile carrier concentrations simultaneously with strain, and can be reduced in lateral dimension to scales comparable to or smaller than the wavelength of an illumination source and/or the light emitted by the TMD semiconductor. Two principal directions are being pursued: (i) demonstration, characterization, and optimization of dynamically controllable, strain-dependent single-photon emission from monolayer WSe2, and other atomically thin TMD semiconductors, notably MoSe2 and MoTe2, using the nanofabricated material platform recently developed by the principal investigator; and (ii) creation of closely spaced, electrically controllable single-photon emitters and investigation of their possible interactions and coupling. These activities are elucidating fundamental properties of single-photon emitters in atomically thin TMD semiconductors as well as approaches for dynamically controlling their emission and associated optical properties such as wavelength, single photon purity, and emission rate. Scaling of these structures to subwavelength dimensions enables interactions among multiple single-photon emitters to be created and modulated, establishing a foundation for achieving new insights into and potential demonstrations of quantum phenomena such as entanglement or superradiance.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413468</AwardID>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Yu</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Edward T Yu</PI_FULL_NAME>
+<EmailAddress><![CDATA[ety@ece.utexas.edu]]></EmailAddress>
+<NSF_ID>000197441</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177500</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~166212</FUND_OBLG>
+</Award>
+</rootTag>

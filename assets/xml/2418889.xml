@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: Failure of Compactness in Elliptic Problems with Applications in Science and Mathematics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>249974.00</AwardTotalIntnAmount>
+<AwardAmount>249974</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ludmil T. Zikatanov</SignBlockName>
+<PO_EMAI>lzikatan@nsf.gov</PO_EMAI>
+<PO_PHON>7032922175</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nonlinear partial differential equations (PDE) naturally arise as models for phenomena in a variety of fields of study, including biology, physics, and differential geometry. Many PDE models of interest exhibit a so-called lack of compactness; an analytical obstacle that makes standard methods of solving such equations inapplicable. This obstacle must be confronted by researchers whose objects of study are described by such PDE models. Consequently, the mathematical community has expended a great deal of effort in attempts to understand PDEs that exhibit a failure in compactness. Of particular interest in these efforts is to understand the mechanisms by which compactness properties can fail. This project will contribute both to the application and to the development of the mathematical theories that underly such an understanding. Consequently, the project will impact the fields of science that use nonlinear PDE as tools for understanding their objects of interest. Moreover, by integrating research-based educational and mentoring experiences, this project will both increase student persistence toward STEM degrees at the undergraduate level and enhance institutional capacity for developing young talent in the mathematical sciences.&lt;br/&gt;&lt;br/&gt;The primary object of study in this project is nonlocal PDE of prescribed-curvature type. The local counterparts of these equations have been extensively studied, and although they are geometrically inspired, they have applications to science and mathematics outside of geometry. A common feature of the local and nonlocal problems is that they are locally modeled by equations that are invariant under the action of a non-compact symmetry group. This invariance manifests as a failure of compactness at the level of functional spaces and is the primary obstacle to establishing the existence of solutions. In this project, variational and topological methods will be used to determine sufficient conditions for the solvability of the nonlocal equations. To employ these methods, the mechanism by which compactness fails will be precisely described via a delicate bubbling analysis. This bubbling analysis will extend the bubbling analysis of the local setting but features additional technicalities due to the nonlocal nature of the problems under consideration.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418889</AwardID>
+<Investigator>
+<FirstName>Mathew</FirstName>
+<LastName>Gluck</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mathew R Gluck</PI_FULL_NAME>
+<EmailAddress><![CDATA[mathew.gluck@siu.edu]]></EmailAddress>
+<NSF_ID>000920614</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Southern Illinois University at Carbondale]]></Name>
+<CityName>CARBONDALE</CityName>
+<ZipCode>629014302</ZipCode>
+<PhoneNumber>6184534540</PhoneNumber>
+<StreetAddress><![CDATA[900 S NORMAL AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y28BEBJ4MNU7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOARD OF TRUSTEES OF SOUTHERN ILLINOIS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Southern Illinois University Carbondale]]></Name>
+<CityName>CARBONDALE</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>629014302</ZipCode>
+<StreetAddress><![CDATA[1245 Lincoln Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>217Y00</Code>
+<Text>LEAPS-MPS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~249974</FUND_OBLG>
+</Award>
+</rootTag>

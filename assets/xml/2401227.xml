@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: IMPRESS-U: Random Matrix Theory and its Applications to Deep Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maija Kukla</SignBlockName>
+<PO_EMAI>mkukla@nsf.gov</PO_EMAI>
+<PO_PHON>7032924940</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This IMPRESS-U project will be jointly supported by NSF, US National Academy of Sciences, and National Science Centre of Poland. The research will be conducted in collaborative partnership that unites the Pennsylvania State University, USA, Institute for Low Temperature Physics and Engineering of the National Academy of Sciences of Ukraine (ILTPE), and the University of Warsaw, Poland. The USA part of this IMPRESS-U project is co-funded by the Office of International Science and Engineering and MPS/DMS Applied Mathematics and Computational Mathematics programs.&lt;br/&gt;&lt;br/&gt;Part 1.&lt;br/&gt;The main ideas of Artificial Intelligence were formulated in 1970s, when complex technological processes in chemical, automobile and other industries became dependent on an enormous number of random and non-random factors. To answer this challenge, self-learning systems (SLS) were proposed. The SLS allow for fine tuning of production lines and adapting to constantly changing conditions (temperature, pressure, etc). One of the most promising modern realizations of SLS is Deep Neural Networks (DNNs) which are currently used everywhere from industry and defense systems up to internet technologies and cell phones. &lt;br/&gt;A key component of the DNNs’ learning process is adjusting the parameters of a DNN to increase its performance. These parameters form matrices with typically initial random entries. Hence, the application of Random Matrix Theory (RMT) could greatly benefit the learning process. In this project, it is expected to establish criteria for optimal learning via developing RMT tools. As a result, it will be possible to speed up the learning process, increase the DNN accuracy, reduce complexity, and avoid over-training.&lt;br/&gt;The project engages research teams from the US (Penn State University), Poland, and Ukraine. The project will build to a large extent upon the world-class strength in RMT of the school of mathematics in Kharkiv, Ukraine. The project will help to integrate graduate students, postdocs, and researchers from Kharkiv into the international scientific community and research workforce, and to prepare a new generation of Ukrainian researchers working in STEM fields. The Ukrainian students will be introduced to the state-of-the-art applications of RMT in DNNs.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Part 2.&lt;br/&gt;Inspired by the function of biological neural networks, Deep Neural Networks (DNNs) have demonstrated their high effectiveness in a wide range of cutting-edge applications such as object, speech, and pattern recognition. However, they are still poorly understood from a theoretical point of view. Recent studies have shown that analysis based on Random Matrix Theory (RMT) can help to improve the convergence and learning speed of neural networks as well as improve accuracy and reduce the computational complexity of training algorithms in deep learning. The focus of the project is twofold: (i) further development of RMT techniques, (ii) employment of these techniques for developing numerical and analytical methods in deep learning. Specifically, the spectral properties of random matrix ensembles arising in the analysis of DNNs will be studied, both analytically and numerically. In particular, the project will address enhancing accuracy of DNNs and reducing computational complexity via RMT-based pruning and regularization techniques. To this end, the research will be concerned with finding an optimal weight initialization for untrained DNNs, determining stopping criteria for training, studying the nonlinearity’s effect on DNN learning speed, as well as justifying numerical and approximation methods and error estimates.&lt;br/&gt;The project brings together researchers from various fields and approaches in mathematics and physics. These fields range from deep learning, machine learning, RMT, and condensed matter physics to probability theory, and analysis. The project will develop analytical and numerical tools in RMT and deep learning and enrich the global mathematical community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/20/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>12/20/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401227</AwardID>
+<Investigator>
+<FirstName>Leonid</FirstName>
+<LastName>Berlyand</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leonid V Berlyand</PI_FULL_NAME>
+<EmailAddress><![CDATA[lvb2@psu.edu]]></EmailAddress>
+<NSF_ID>000379505</NSF_ID>
+<StartDate>12/20/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168021503</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPM2J7MSCF61</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE PENNSYLVANIA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>168021503</ZipCode>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7298</Code>
+<Text>International Research Collab</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5998</Code>
+<Text>UKRAINE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

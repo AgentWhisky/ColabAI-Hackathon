@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CyberTraining: Pilot: Leading the Way to Effective CI Use (CI Pathways)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ashok Srinivasan</SignBlockName>
+<PO_EMAI>asriniva@nsf.gov</PO_EMAI>
+<PO_PHON>7032922122</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>CI Pathways is an innovative project designed to help researchers effectively use advanced cyberinfrastructure (CI) tools in their scientific work. These tools are essential for modern research, aiding in critical tasks such as efficient and large-scale data collection, analysis, and sharing. However, many researchers struggle to integrate these resources due to a lack of training, an environment for practice, and continued support. CI Pathways addresses this by offering a structured, cohort-based training program where participants learn alongside peers and receive guidance from experienced mentors. By including participants from diverse backgrounds and disciplines, CI Pathways will promote inclusivity and broaden access to these critical resources. The project aligns with NSF's mission by promoting scientific progress and fostering education and diversity. It helps bridge the gap for underrepresented groups in science and engineering, advancing national prosperity and welfare. Additionally, by equipping researchers with the skills to use CI tools, the project contributes to national interests in scientific advancement and innovation. The program's success will be shared with the wider research community, enabling other institutions to adopt similar models and further amplify the project's impact.&lt;br/&gt;&lt;br/&gt;CI Pathways aims to empower researchers with the skills and knowledge to integrate advanced cyberinfrastructure (CI) resources effectively into their research workflows. The project addresses two primary challenges: a lack of awareness and training on the benefits and opportunities of CI resources and insufficient guidance and support in accessing and using these resources. By overcoming these challenges, CI Pathways seeks to enhance research productivity and innovation across diverse scientific disciplines. The project employs a cohort-based, mentor-supported training model. Participants will be selected through a diverse, equitable, and inclusive application process, emphasizing representation from underrepresented groups and non-traditional domains. The program offers a combination of self-paced and live training sessions with a focus on CI tools, data science, and machine learning. These sessions and their supporting content will be made available to the community at large through incorporation into the NSF ACCESS Knowledge Base. Each cohort will be supported by experienced mentors who will guide participants through their individualized learning paths. Participants will have access to CI resources to practice their newly acquired skills in real research contexts. A mentor training program will be offered to participants who complete their learning paths, preparing them to serve as mentors in future cohorts. By fostering a supportive and collaborative learning environment, CI Pathways will cultivate a community of researchers who can share knowledge and support one another in their use of CI resources, especially those provided by NSF’s ACCESS.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417789</AwardID>
+<Investigator>
+<FirstName>Sandra</FirstName>
+<LastName>Kappes</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sandra Kappes</PI_FULL_NAME>
+<EmailAddress><![CDATA[kappes@illinois.edu]]></EmailAddress>
+<NSF_ID>000921272</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bruno</FirstName>
+<LastName>Ricardi de Abreu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bruno Ricardi de Abreu</PI_FULL_NAME>
+<EmailAddress><![CDATA[babreu@illinois.edu]]></EmailAddress>
+<NSF_ID>000867214</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>044Y00</Code>
+<Text>CyberTraining - Training-based</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>122Z</Code>
+<Text>CI Training and Professionals</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7361</Code>
+<Text>EDUCATION AND WORKFORCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

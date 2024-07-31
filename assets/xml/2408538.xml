@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Optical interrogation of deep-brain activity via parallelized diffuse correlation spectroscopy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>407538.00</AwardTotalIntnAmount>
+<AwardAmount>407538</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steve Zehnder</SignBlockName>
+<PO_EMAI>szehnder@nsf.gov</PO_EMAI>
+<PO_PHON>7032927014</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The measurement of blood flow within the brain can provide key feedback regarding neurological and mental health. However, existing technologies to perform these measurements are large, expensive, and not portable. Research efforts have explored portable technologies that shine light into the head and then measure its scattered response to estimate blood flow beneath the skull. These imaging technologies are promising, but they are not able to effectively measure deep into tissue. This project aims to explore new optical methods to measure blood flow much deeper within the human head than existing technologies. By accurately measuring blood flow from multi-centimeter depths, this project aims to open new areas of the brain for neuroimaging studies, and thus new frontiers for scientific exploration. To promote and share knowledge gained, this project will develop new education modules that will be accessible to the public. These modules will explain basic principles of optical neuroimaging methods, provide details on software used to convert optical measurements into blood flow estimates, and detail how blood flow estimates can be analyzed.&lt;br/&gt;&lt;br/&gt;This project will focus on development of a specific optical neuroimaging technology termed diffuse correlation spectroscopy (DCS), which measures the temporal dynamics of scattered coherent light to extract deep tissue hemodynamics. By parallelizing DCS detection over many thousands of individual single-photon avalanche diodes (SPADs) within an integrated array, it is possible to dramatically increase blood flow measurement accuracy from deep tissue areas. This project will explore co-optimized software that jointly exploits temporal and spatial correlations within diffusely scattered light to maximize the accuracy of blood flow measurements from deep within tissue. A key aim is to establish a spatiotemporal DCS approach that will use a new spread-speckle detection strategy across a large SPAD array, along with Bayesian optimization software that account for low photon counts, to unlock the ability to measure blood flow from within the hippocampus. To achieve this aim, this proposal will utilize whole-head photon transport modeling, optical system development, and human subject experiments to push non-invasive optical measurement of hemodynamics significantly deeper within the human head.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2408538</AwardID>
+<Investigator>
+<FirstName>Roarke</FirstName>
+<LastName>Horstmeyer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roarke Horstmeyer</PI_FULL_NAME>
+<EmailAddress><![CDATA[rwh4@duke.edu]]></EmailAddress>
+<NSF_ID>000723796</NSF_ID>
+<StartDate>05/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>723600</Code>
+<Text>BioP-Biophotonics</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~407538</FUND_OBLG>
+</Award>
+</rootTag>

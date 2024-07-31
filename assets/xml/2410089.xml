@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Postdoctoral Fellowship: PRFB: Capturing RNA Modifications From Start to Finish: Transcription to Maturation During Heat Stress]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>249000.00</AwardTotalIntnAmount>
+<AwardAmount>249000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kan Wang</SignBlockName>
+<PO_EMAI>kawang@nsf.gov</PO_EMAI>
+<PO_PHON>7032924591</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This action funds an NSF Plant Genome Postdoctoral Research Fellowship in Biology for FY 2024. The fellowship supports a research and training plan in a host laboratory for the Fellow who also presents a plan to broaden participation in biology. The title of the research and training plan for this fellowship to Wil Prall is "Capturing RNA Modifications From Start to Finish: Transcription to Maturation During Heat Stress". The host institution for the fellowship is the Universite Paris-Saclay (France) and the sponsoring scientist is Drs. Martin Crespi and Moussa Benhamed.&lt;br/&gt;&lt;br/&gt;The rise in global temperature due to climate change poses a significant threat and challenge to current agricultural practice and food sustainability. Increasingly frequent periods of high temperature forces plants and crops alike to manage heat-shock periods which can be damaging and, in many instances, detrimental to yield and food production. Through this research, understanding how crops, specifically tomatoes, manage frequent heat-shock periods on the molecular level will be tested. Conducting this research will entail using a combination of classic genetic manipulation and plant breeding as well as the use of cutting-edge technology to visualize and decipher the complicated genetic information that serves as the blueprint for heat stress management in crops. This research will contribute to the current knowledge in the field of plant stress management and mitigation and be useful for future agricultural practices as global temperatures continue to rise. This project focuses on the development of novel sequencing technologies in crops, the development of biochemical and biological protocols, as well as a comparative analysis of university level teaching practice in the biological sciences between science education structures in The United States and France. This project brings together novel and cutting-edge biology with assessment of current and future educational practices to advance global understanding and education. &lt;br/&gt;&lt;br/&gt;Single nucleotide modification on RNA transcripts govern nearly every aspect of an RNA molecules’ life, from transcription to degradation. The importance of modification deposition and removal across the plant (epi)transcriptome has been made clear in recent years, particularly in important crop species. With the rapid climate-mediated changes in temperature, understanding how crops like tomato react to these extremes, is critical. There is a lack in knowledge and understanding of how or why these modifications are added and removed, their influence on co-transcriptional RNA maturation, and the dynamic regulation during stresses. This project advances the development of a sequencing pipeline that capture nascent RNA intermediates in various states and detects the RNA modifications they harbor using Oxford Nanopore Technologies Direct RNA sequencing. Using this new method, the research goal is to identify when and where specific modifications are added and removed during the creation and maturation of RNA in plants and during extreme or moderate stresses leading to thermotolerance acquisition in the important crop, tomato. These combined analyses will provide information that will be used to understand the regulation and effects each modification has on maturing RNA across species and conditions and define original links between the epitranscriptome and thermoresilience.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410089</AwardID>
+<Investigator>
+<FirstName>Wil</FirstName>
+<LastName>Prall</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wil Prall</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000960597</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Prall, Wil]]></Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>19146</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Institute of Plant Sciences Paris Saclay University]]></Name>
+<CityName>GIF SUR YVETTE</CityName>
+<StateCode/>
+<ZipCode>91192</ZipCode>
+<StreetAddress/>
+<CountryCode>FR</CountryCode>
+<CountryName>France</CountryName>
+<StateName>RI REQUIRED</StateName>
+<CountryFlag>0</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF>""</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>810500</Code>
+<Text>NPGI PostDoc Rsrch Fellowship</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7174</Code>
+<Text>POSTDOC FELLOW IN SCI, MATH EN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7577</Code>
+<Text>PLANT GENOME RESEARCH RESOURCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9109</Code>
+<Text>AGRICULTURAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~249000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Excellence in Research: A Novel Computational Framework for Groundwater Contamination Forecasting]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>499942.00</AwardTotalIntnAmount>
+<AwardAmount>499942</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Predictive simulations of subsurface flow processes are intrinsically of a probabilistic nature because the subsurface properties that enter in simulation tools are not known, except in a few locations where monitoring wells have been drilled. In addition, water quality predictions for an aquifer requires collection of samples at different locations and times; this process is expensive and cannot be repeated frequently. This project, which aligns well with the Central State University's Land Grant mission, will develop novel and computationally efficient multiscale and statistical strategies for sampling subsurface properties that can be effectively used to predict water quality. In addition, the framework can be used to guide field engineers in determining the location of monitoring wells such that the uncertainty in predictive analysis of contamination is minimized. This project will involve several undergraduate students from the Department of Mathematics and Computer Science at Central State University (CSU), which is the only public Historically Black University in Ohio. The project will provide an outstanding experiential learning environment for CSU students.  During the project period, CSU undergraduate students will work with graduate students at the University of Texas at Dallas (UTD). The synergy developed between CSU and UTD on this project will be a catalyst for CSU students to consider graduate studies at UTD.&lt;br/&gt;&lt;br/&gt;This project builds up on the Multiscale Sampling Method (MSM) for subsurface characterization previously introduced by the investigators. Numerical simulations established that the method is very effective in speeding-up the convergence of Markov Chain Monte Carlo (MCMC) algorithms, a long-standing challenge in science and engineering applications. As a proof-of-concept model problem, second order elliptic equations had been considered to show the effectiveness of MSM. This project will consider inverse problems associated with the transport of contaminants in groundwater (single-phase flow problems). The project will investigate the scalability of MSM for single phase flow problems. In investigating overlapping domain decompositions for MSM, the project will assess convergence of MCMC chains locally at subdomain level. This study can be used to decide the locations for additional monitoring wells that need to be drilled in the field to reduce the overall uncertainty in the predictive simulation of the single-phase problem. This can be considered as a novel contribution to the optimal design of quantifying uncertainty in subsurface properties.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/13/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/13/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401945</AwardID>
+<Investigator>
+<FirstName>luis felipe</FirstName>
+<LastName>pereira</LastName>
+<PI_MID_INIT>f</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>luis felipe f pereira</PI_FULL_NAME>
+<EmailAddress><![CDATA[felipepereira62@gmail.com]]></EmailAddress>
+<NSF_ID>000499257</NSF_ID>
+<StartDate>06/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Arunasalam</FirstName>
+<LastName>Rahunanthan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arunasalam Rahunanthan</PI_FULL_NAME>
+<EmailAddress><![CDATA[arahunanthan@centralstate.edu]]></EmailAddress>
+<NSF_ID>000695339</NSF_ID>
+<StartDate>06/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Central State University]]></Name>
+<CityName>WILBERFORCE</CityName>
+<ZipCode>453845800</ZipCode>
+<PhoneNumber>5133766011</PhoneNumber>
+<StreetAddress><![CDATA[1400 BRUSH ROW RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UZUVJXMDNZY6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CENTRAL STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Central State University]]></Name>
+<CityName>WILBERFORCE</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>453845800</ZipCode>
+<StreetAddress><![CDATA[1400 BRUSH ROW RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>070Y00</Code>
+<Text>HBCU-EiR - HBCU-Excellence in</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>112Z</Code>
+<Text>Racial Equity in STEM</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~499942</FUND_OBLG>
+</Award>
+</rootTag>

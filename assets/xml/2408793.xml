@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Anisotropic Inverse Problems: Nonlocality, Nonlinearity, and High Frequencies]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>270000.00</AwardTotalIntnAmount>
+<AwardAmount>270000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stacey Levine</SignBlockName>
+<PO_EMAI>slevine@nsf.gov</PO_EMAI>
+<PO_PHON>7032922948</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Inverse problems arise when measurements obtained from the exterior or boundary of a medium are employed to unveil the properties of its inaccessible interior. This framework is ubiquitous across various scientific and technological disciplines, encompassing fields such as medical imaging, atmospheric remote sensing, geophysics, and non-destructive evaluation. In many practical scenarios, medium parameters exhibit anisotropy, meaning they depend not only on position but also on direction. Examples include conductivity in muscle tissue in human bodies, electromagnetic parameters in crystals, composite materials like fiber-reinforced polymers, and seismic wave propagation in the Earth. The project aims to develop novel mathematical methods for investigating inverse problems related to the recovery of anisotropic medium parameters from measurements taken at the exterior or boundary. A particular focus of the project is on determining parameters in models involving long-range interactions, prevalent in phenomena from anomalous diffusion to random processes with jumps, with broad applications spanning image processing, fluid dynamics, biophysics, network science, epidemiology, and finance. Additionally, the project places significant emphasis on providing educational training for graduate students.&lt;br/&gt;&lt;br/&gt;The project leverages nonlocality, nonlinearity, and high frequencies as powerful tools to tackle significant and challenging inverse problems in anisotropic media. It is organized around four pivotal research topics. The first topic concerns inverse problems for elliptic partial differential operators at a large but fixed frequency. The goal is to solve important inverse problems for both linear and nonlinear elliptic operators at a large but fixed frequency in a geometric setting where the corresponding inverse problems at zero frequency are wide open and seem difficult to reach. The second topic focuses on inverse problems for nonlocal elliptic operators, with a particular emphasis on the fractional counterpart of the Calderon problem. The aim is to recover the coefficients of nonlocal operators based on measurements taken in exterior regions. The inherent nonlocality of these operators renders inverse problems more tractable than their local counterparts. The third topic deals with inverse problems for significant nonlinear hyperbolic and elliptic partial differential equations, encountered in physical models. The primary objective is to recover the leading terms that govern the underlying geometry. Finally, the fourth topic addresses inverse problems for both linear and nonlinear perturbations of biharmonic operators, with applications ranging from elasticity theory to conformal geometry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2408793</AwardID>
+<Investigator>
+<FirstName>Katya</FirstName>
+<LastName>Krupchyk</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Katya Krupchyk</PI_FULL_NAME>
+<EmailAddress><![CDATA[katya.krupchyk@uci.edu]]></EmailAddress>
+<NSF_ID>000678319</NSF_ID>
+<StartDate>05/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>IRVINE</CityName>
+<ZipCode>926970001</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress><![CDATA[160 ALDRICH HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA47</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MJC5FCYQTPE6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA IRVINE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>IRVINE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>926970001</ZipCode>
+<StreetAddress><![CDATA[419 Rowland Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA47</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~270000</FUND_OBLG>
+</Award>
+</rootTag>

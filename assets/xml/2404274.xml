@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Filamentous Peptide Nanomaterials through Molecular Design]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>451460.00</AwardTotalIntnAmount>
+<AwardAmount>451460</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gang-Yu Liu</SignBlockName>
+<PO_EMAI>galiu@nsf.gov</PO_EMAI>
+<PO_PHON>7032922482</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With the support of the Macromolecular, Supramolecular and Nanochemistry Program in the Division of Chemistry, Vince Conticello of Emory University, and Jose Villegas of the University of Illinois Chicago, will use computational methods to design interactions between peptide chains to promote the formation of organized filament-like nanomaterial structures. Living organisms use biological polymers to guide the processes of life, for example, movement and replication. The exquisite properties of biological polymers provide inspiration for the design of artificial versions that would be useful for the creation of synthetic tissues, for delivering drugs to specific organs, and as vaccines and antibiotics. This project encompasses materials science, chemistry, biology, and nanotechnology. One of the broader impacts of this project will focus on the education of undergraduate and graduate students and postdoctoral researchers in an interdisciplinary research area of fundamental technological interest that will prepare them for future success in this competitive field. Participants in this project will partner with the Atlanta Science Festival to prepare hands-on exhibits that translate the subject matter of the proposed research to the general public.&lt;br/&gt;&lt;br/&gt;This collaborative team aims to develop a general scientific approach to the computation-guided design of peptide-based filaments.  The approach taken is designed to address three critical challenges to the design process: (i) how does one address interfacial structural polymorphism?; (ii) how does one deal with the presence of richly and sparsely designable interfaces? and (iii) how does one overcome the lability of helical symmetry in structural space. The computational approach that will be developed and implemented will systematically sample the energetics of the designability landscape of interfacial interactions derived from different structural classes of protomers to provide insight into the molecular design of peptide-based filamentous nanomaterials. Computational methods will be validated using structurally characterized peptide filaments as initial design templates. Once validated, these methods will be applied to the ab initio design of peptide and peptidomimetic filamentous nanomaterials. The structures of the designed peptide assemblies are to be determined at near-atomic resolution using cryo-EM helical reconstruction. Atomic models derived from experiment will be compared to the computational predictions to provide insight into the intermolecular interactions that stabilize the filaments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404274</AwardID>
+<Investigator>
+<FirstName>Vincent</FirstName>
+<LastName>Conticello</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vincent P Conticello</PI_FULL_NAME>
+<EmailAddress><![CDATA[vcontic@emory.edu]]></EmailAddress>
+<NSF_ID>000237797</NSF_ID>
+<StartDate>05/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Emory University]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303221061</ZipCode>
+<PhoneNumber>4047272503</PhoneNumber>
+<StreetAddress><![CDATA[201 DOWMAN DR NE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>S352L5PJLMP8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EMORY UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Emory University]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303221003</ZipCode>
+<StreetAddress><![CDATA[1515 Dickey Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688500</Code>
+<Text>Macromolec/Supramolec/Nano</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7573</Code>
+<Text>BIO-RELATED MATERIALS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~451460</FUND_OBLG>
+</Award>
+</rootTag>

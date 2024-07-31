@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: Building a robust community: Joint International Conference on Robust Statistics and Conference on Data Science, Statistics, and Data Science]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>20993.00</AwardTotalIntnAmount>
+<AwardAmount>20993</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tapabrata Maiti</SignBlockName>
+<PO_EMAI>tmaiti@nsf.gov</PO_EMAI>
+<PO_PHON>7032925307</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The award will provide travel support for early-career researchers and students in statistics, data science and related fields to attend the International Conference on Robust Statistics (ICORS) and the Conference on Data Science, Statistics and Visualization (DSSV) hosted at George Mason University in Fairfax, VA, from July 29 – August 1, 2024. The organizers will work to recruit under-represented minorities in the above groups to actively participate in the conference by actively reaching out through the Caucus of Women in Statistics, the Washington Statistical Society and other chapters and sections of the American Statistical Association. The joint conference will bring together researchers, students and practitioners interested in the interplay of robust statistics, data analysis, computer science, and visualization and to build bridges between these fields for interdisciplinary research. Creating a forum to discuss recent progress and emerging ideas in these disciplines, the joint conference will facilitate fruitful dissemination and cross-pollination amongst various research groups. Early-career researchers and students will have the opportunity to share their research and ideas through presentations and a poster competition, and build connections with senior experts and practitioners. Building upon the successful history of ICORS and DSSV, the conferences also play an essential role in maintaining a cohesive group of international experts interested in robust statistics and related topics, whose interactions transcend the meetings and endure year-round.&lt;br/&gt;&lt;br/&gt;Artificial Intelligence (AI) is becoming an inherent part of our lives, and several federal and state government agencies, research institutes, and industries are adopting these AI tools for various activities that could potentially improve real-life experiences. While there are several issues to be addressed in AI-based methods, the robustness of the Machine learning (ML) algorithms is a fundamental issue wherein one is concerned with adversarial contamination that can cause ML algorithms to fail. Associated with AI methods are privacy challenges, as modern methods tend to focus on personalized responses to AI responses. This joint conference will create a forum to discuss recent progress and emerging ideas on the interplay of robustness, interpretability and visualization for AI- and ML-methods and encourage informal contacts and discussions among all the participants. The conference plans to achieve this goal through several sessions and keynote addresses in these areas, integrating multiple disciplines, including privacy, Omics, spatial analytics, urban analytics, biostatistics, robustness, and visualization. The conference website can be found at https://icors-dssv2024.statistics.gmu.edu.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/30/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2426029</AwardID>
+<Investigator>
+<FirstName>Anand</FirstName>
+<LastName>Vidyashankar</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anand N Vidyashankar</PI_FULL_NAME>
+<EmailAddress><![CDATA[avidyash@gmu.edu]]></EmailAddress>
+<NSF_ID>000579695</NSF_ID>
+<StartDate>04/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Kepplinger</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Kepplinger</PI_FULL_NAME>
+<EmailAddress><![CDATA[dkepplin@gmu.edu]]></EmailAddress>
+<NSF_ID>000855295</NSF_ID>
+<StartDate>04/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EADLFP7Z72E5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE MASON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>H4NRWLFCDF43</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>220304422</ZipCode>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~20993</FUND_OBLG>
+</Award>
+</rootTag>

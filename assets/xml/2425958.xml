@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The ecological and evolutionary effects of combined stresses in a mutualism]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>1100000.00</AwardTotalIntnAmount>
+<AwardAmount>1100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Herron</SignBlockName>
+<PO_EMAI>mherron@nsf.gov</PO_EMAI>
+<PO_PHON>7032925361</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The global environment is changing in many ways, and organisms often face multiple stresses at the same time. It is hard to predict how these combined stresses will affect a population, because the impact of one stress can change when another is also present. For example, high heat can be more harmful when organisms also lack water. The problem of predicting the impact of combined stresses is even more complicated in mutualistic relationships, where species depend on each other, and stress on one species can indirectly affect the other. However, it is crucial to understand how combined stresses impact mutualisms, because mutualisms are common and essential for everything from crop production to global nutrient cycling. The project will specifically test how mutualistic interactions between bacteria alter their ability to survive and evolve resistance to antibiotic combinations. The project will improve the ability to predict and manage the effects of multiple stresses in microbial systems and mutualisms more broadly. &lt;br/&gt;&lt;br/&gt;The central hypothesis of the project is that mutualism will change the ecological and evolutionary impact of stress combinations, but that these impacts can be predicted. The researchers will test this hypothesis through integrating computational and experimental approaches based on a model obligate mutualism between strains of Escherichia coli and Salmonella enterica that rely on each other for essential metabolites. The researchers will carry out over 3,900 growth experiments to test the impact of drug combinations on the growth of bacteria in monoculture and mutualistic co-culture. The researchers will also do over 150 evolution experiments to test how species interactions alter the rate and mechanisms by which resistance to multiple stresses evolves in monoculture and mutualism. These data will be integrated with genome-scale metabolic models, general steppingstone models, and clustering algorithms to develop tools to quantitatively predict the ecological and evolutionary impact of combined stresses in mutualisms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2425958</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Harcombe</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William R Harcombe</PI_FULL_NAME>
+<EmailAddress><![CDATA[harcombe@umn.edu]]></EmailAddress>
+<NSF_ID>000547222</NSF_ID>
+<StartDate>07/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress><![CDATA[200 OAK ST SE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>St Paul</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>551081041</ZipCode>
+<StreetAddress><![CDATA[1479 Gortner Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>112700</Code>
+<Text>Evolutionary Processes</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1100000</FUND_OBLG>
+</Award>
+</rootTag>

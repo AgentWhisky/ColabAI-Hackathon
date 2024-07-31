@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Molecular mechanism of telomere maintenance in Caenorhabditis elegans]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Manju Hingorani</SignBlockName>
+<PO_EMAI>mhingora@nsf.gov</PO_EMAI>
+<PO_PHON>7032927323</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Higher organisms package genomic DNA in linear chromosomes, which contain ends that pose “end protection” and “end replication” problems. Harmful internal or environmental factors can break chromosomes, requiring DNA repair to join the broken ends. However, if the DNA repair machinery mistakenly recognizes natural chromosome ends as breaks, it could join entire chromosomes to one another and compromise genome stability. This is the end protection problem. The end replication problem occurs because linear chromosomes shorten when they are duplicated in a dividing cell. Without a mechanism to grow the ends back, cells would ultimately stop dividing. A complex of proteins called “shelterin” helps solve both chromosome end problems. The simplicity of shelterin in a well-studied worm model organism will be leveraged to answer fundamental questions about the structure and function of these proteins and their roles in chromosome end protection and replication, with implications for human genome stability and related health issues such as aging and cancer. The project will allow high school, undergraduate, and graduate students to develop experimental and critical thinking skills, and generate research tools for the scientific community. Finally, a display based on the project at the host institution’s Natural History Museum will make this research accessible to the local community and increase the visibility of science.&lt;br/&gt;&lt;br/&gt;Telomeres are nucleoprotein complexes containing telomeric DNA and proteins that protect natural chromosome ends from being recognized as breaks by the DNA damage response machinery. The six-protein shelterin complex protects mammalian chromosome ends by binding telomeric double-stranded (ds) and single-stranded (ss) DNA, and the ds-ss junction. Human shelterin protein POT1 binds telomeric ssDNA, and the PI’s group recently discovered that POT1 also protects the telomeric ds-ss junction. In addition, POT1 plays multiple roles in chromosome end replication by regulating telomerase and replicative polymerases. How POT1 performs these functions is not clear. Moreover, how shelterin DNA-binding activities are coordinated to uphold genome integrity is poorly understood, because of the limitations of existing model systems to study telomere biology. Based on biochemical, structural, and cytological data from the PI’s group and collaborators, C. elegans presents an ideal model to address these gaps in telomere biology. This project will reconstitute C. elegans shelterin protein activities, determine their structural basis, and evaluate their physiological significance in the worm, specifically addressing how POT1 homologs in worms coordinate their DNA binding activities and perform multiple functions at telomeres.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2425568</AwardID>
+<Investigator>
+<FirstName>Jayakrishnan</FirstName>
+<LastName>Nandakumar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jayakrishnan Nandakumar</PI_FULL_NAME>
+<EmailAddress><![CDATA[jknanda@umich.edu]]></EmailAddress>
+<NSF_ID>000705515</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111200</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1000000</FUND_OBLG>
+</Award>
+</rootTag>

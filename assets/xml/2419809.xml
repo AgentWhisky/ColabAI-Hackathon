@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RI: Small: Learning Generalizable Abstractions for Fast and Reliable Planning Under Uncertainty]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>598123.00</AwardTotalIntnAmount>
+<AwardAmount>598123</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erion Plaku</SignBlockName>
+<PO_EMAI>eplaku@nsf.gov</PO_EMAI>
+<PO_PHON>7032924426</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Artificial intelligence (AI) systems such as hospital robots and disaster-recovery support systems need to plan reliably and efficiently to accomplish complex user-desired tasks such as cleaning up a room or creating an effective resource-management strategy. This amounts to models for reasoning over millions of decision points while taking contingencies into account.  Current approaches typically use hierarchical world models, which commands actions from a high-level central source to lesser agents, for making this process feasible. However, creating such models requires extensive hand-engineering by domain experts who have prior knowledge of expected tasks – thus undermining the utility and applicability of autonomous systems. This project will develop a new class of algorithms for enabling AI systems to autonomously learn hierarchical world models and high-level actions. For instance, using the approaches to be developed in this project, a disaster-recovery support system would be able to distill its past experience into relational world models with high-level actions (e.g., ``use truck 17 to deliver trauma medication to survivors at site 3'' and ``deploy search and rescue personnel to site 2'') and to reason over them rather than over what to do at each millisecond. The resulting auto-generated abstraction hierarchy will enable AI systems to compute safe and reliable plans for user-desired objectives in stochastic settings.&lt;br/&gt;&lt;br/&gt;These objectives will be achieved through two broad classes of algorithms for learning abstract world models. Both approaches will address problems involving long-horizons and sparse rewards in stochastic settings where test problems are significantly different from training problems. Bottom-up abstractions will focus on learning abstractions based on unannotated behavior in training scenarios. This thrust will develop algorithms for learning to predict critical regions (sets of salient states) in test problems, and then for inventing high-level actions as moves to and from critical regions. Top-down abstractions will start with an uninformed, coarse abstract representation of the state space and selectively increase the resolution of representation to better explain the ongoing experience. Both paradigms will yield well-defined, interpretable world-models that can be used for scalable and reliable planning in real-world settings. Benchmarks, test scenarios, algorithms and software developed in the project will be made broadly available to the research community in open-source format.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419809</AwardID>
+<Investigator>
+<FirstName>Siddharth</FirstName>
+<LastName>Srivastava</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Siddharth Srivastava</PI_FULL_NAME>
+<EmailAddress><![CDATA[siddharths@asu.edu]]></EmailAddress>
+<NSF_ID>000762398</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852813670</ZipCode>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>749500</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~598123</FUND_OBLG>
+</Award>
+</rootTag>

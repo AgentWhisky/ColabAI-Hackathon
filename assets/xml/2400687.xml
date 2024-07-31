@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Generating New Network Analysis Tools for Elucidating the Functional Logic of 3D Vision Circuits of the Drosophila Brain]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>1140828.00</AwardTotalIntnAmount>
+<AwardAmount>1140828</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jennifer Weller</SignBlockName>
+<PO_EMAI>jweller@nsf.gov</PO_EMAI>
+<PO_PHON>7032922224</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Stereopsis—the ability to perceive depth—is one of the most intriguing mysteries of human perception. Understanding how human 3D vision works would have broad social impacts, affecting a wide variety of fields, ranging from drug testing, psychology, and information sciences to machine vision and autonomous robotics. Scientists suspect that one of the mechanisms that makes 3D vision work is the “microsaccade”—the small-scale motion constantly made by human eyes. But the relationship between microsaccades and 3D vision cannot be explored in humans due to the complexity of the human visual system and the ethical and practical limitations of working with human subjects. However, recent studies of fruit flies—a classic complex organism that has long been the subject of biological experimentation—suggest that microsaccades also contribute to their 3D vision. The proposed project will use novel tools and methods to explore the microsaccade-3D vision in fruit flies with the aim to shed some light on this important aspect of human perception. &lt;br/&gt;&lt;br/&gt;This research aims to generate novel tools to elucidate how Drosophila brain circuits work dynamically at subcellular resolution in the biochemical domain. These tools will be used to integrate activity recordings in the living eye and biological brain circuits with graph analysis, multiscale modelling, active visual sampling, and connectomics/synaptomics models of computation. Building on this integration, the project will investigate how active sampling in the retina supports the encoding of 3-dimensional object information in Drosophila visual networks. The novel multidisciplinary approach advanced here will generate new open-source software tools that will be invaluable for the neuroscience community exploring how stereoscopic perception of 3D objects emerges from the complex synaptic interactions of the eyes’ and brain’s visual circuits. Individually and collectively, these tools will potentially have broad impact well beyond the immediate goal of elucidating the functional logic of 3D vision circuits in the Drosophila.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400687</AwardID>
+<Investigator>
+<FirstName>Aurel</FirstName>
+<LastName>Lazar</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aurel A Lazar</PI_FULL_NAME>
+<EmailAddress><![CDATA[aurel@ee.columbia.edu]]></EmailAddress>
+<NSF_ID>000201098</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100277922</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress><![CDATA[615 W 131ST ST]]></StreetAddress>
+<StreetAddress2><![CDATA[MC 8741]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100277922</ZipCode>
+<StreetAddress><![CDATA[202 LOW LIBRARY 535 W 116 ST MC 4309,]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>164Y00</Code>
+<Text>Innovation: Bioinformatics</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1140828</FUND_OBLG>
+</Award>
+</rootTag>

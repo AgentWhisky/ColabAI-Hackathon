@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: Light-matter-heat interactions with ultrafast thermal-radiation spectroscopy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>249998.00</AwardTotalIntnAmount>
+<AwardAmount>249998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Lane</SignBlockName>
+<PO_EMAI>plane@nsf.gov</PO_EMAI>
+<PO_PHON>7032922453</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Description&lt;br/&gt;&lt;br/&gt;Understanding how light, matter, and heat interact at ultrafast speeds is crucial for a wide array of applications, such as solar cells and heat management. However, ultrafast optical techniques provide only partial insight into these interactions. This project seeks to delve deeper into the dynamics of heat transport and temperature changes by focusing on thermal radiation. All materials above absolute zero emit electromagnetic waves, a process also known as black body radiation. The PI will analyze transient changes in thermal-radiation spectra induced by femtosecond laser pulses on both semiconductors and metals, thereby yielding new insights into ultrafast thermodynamics. Moreover, this research extends to exploring light emission immediately following laser excitation from hot carriers that have not yet reached thermal equilibrium. If this excess heat can be harnessed, there are prospects for more efficient devices such as hot solar cells. Research findings from this project will be integrated into physics courses at the University of North Texas, a minority-serving institution. This will provide invaluable learning and training opportunities for both undergraduate and graduate students, including those from historically underrepresented groups in STEM. The team will also create engaging planetarium shows to communicate their discoveries to a broader audience.&lt;br/&gt;&lt;br/&gt;Technical Description&lt;br/&gt;&lt;br/&gt;The primary research goal of this project is to investigate ultrafast light-matter-heat interactions through the lens of thermal radiation. To achieve this goal, the team intends to develop an innovative system capable of measuring thermal-radiation spectra with femtosecond time resolution, facilitating direct observation of these interactions at unprecedented speeds. Expanding upon this technological advancement, this research delves into a diverse range of materials, including semiconductors such as silicon and gallium arsenide, as well as metals like gold and aluminum. Through systematic experimentation, the team seeks to unravel the complex thermodynamics occurring within these materials after laser excitation. Additionally, the investigation extends to exploring light emission from hot carriers that remain nonthermalized shortly after excitation, shedding light on a phenomenon of significant scientific interest. This project integrates both experimental and theoretical approaches within the principal investigator's laboratory, leveraging a multidisciplinary framework to advance our understanding of ultrafast light-matter-heat interactions. Anticipated outcomes include the achievement of femtosecond-scale measurements of thermal-radiation spectra, the development of robust methodologies for extracting refractive index and temperature profiles from thermal-radiation spectra, and the generation of novel insights into the radiation emitted by nonthermal hot carriers. This research project is poised to represent a substantial leap forward in our fundamental understanding of ultrafast light-matter-heat interactions. By elucidating the energy balance within thermodynamic systems and uncovering the intricacies of radiation from nonthermal hot carriers, this project promises to yield transformative contributions to the field of ultrafast optics, materials science, and thermal physics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418002</AwardID>
+<Investigator>
+<FirstName>Yuzhe</FirstName>
+<LastName>Xiao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yuzhe Xiao</PI_FULL_NAME>
+<EmailAddress><![CDATA[yuzhe.xiao@unt.edu]]></EmailAddress>
+<NSF_ID>000886197</NSF_ID>
+<StartDate>07/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of North Texas]]></Name>
+<CityName>DENTON</CityName>
+<ZipCode>762051132</ZipCode>
+<PhoneNumber>9405653940</PhoneNumber>
+<StreetAddress><![CDATA[1112 DALLAS DR STE 4000]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G47WN1XZNWX9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH TEXAS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Texas]]></Name>
+<CityName>DENTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>762051132</ZipCode>
+<StreetAddress><![CDATA[1112 DALLAS DR STE 4000]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>217Y00</Code>
+<Text>LEAPS-MPS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>106Z</Code>
+<Text>Microelectronics and Semiconductors</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8607</Code>
+<Text>Solar Energy Capture&amp;Conver</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~249998</FUND_OBLG>
+</Award>
+</rootTag>

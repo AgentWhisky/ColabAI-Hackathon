@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: NSF Workshop on BRAID: Bridging the Gap Between Neuroscience and Engineering for Energy-Efficient AI]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>99998.00</AwardTotalIntnAmount>
+<AwardAmount>99998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07040000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EFMA</Abbreviation>
+<LongName>Emerging Frontiers &amp; Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alias Smith</SignBlockName>
+<PO_EMAI>alismith@nsf.gov</PO_EMAI>
+<PO_PHON>7032928367</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>As we navigate the ever-evolving landscape of artificial intelligence, the pursuit of energy-efficient solutions stands as a paramount challenge. The nexus of neuroscience and engineering holds the promise of unlocking groundbreaking advancements in this realm. This NSF one-day workshop aims at creating a collaborative educational and research platform to bridge the gap between these disciplines. The workshop will be held in Santa Barbara, CA in Summer 2024. It will feature two sessions - one dedicated to recent developments in brain-inspired algorithms, and another to innovations in energy efficient hardware. Each session will be comprised of discussion panel and talks from invited experts in the field, and followed by solicited student poster presentations. The award will directly support accommodations for more than 40 participants, including at least 25 students and postdoctoral scholars. A particular focus is on inviting principal investigators and student researchers involved in recently started NSF BRAID projects across the United States.  Supported by the NSF, this initiative aligns with national interests by nurturing a diverse scientific community, bolstering educational frameworks, and fostering interdisciplinary collaborations.&lt;br/&gt;&lt;br/&gt;The technical significance of this workshop is to provide a platform for discussions on identifying the next generation of neuromorphic computing hardware by integrating cutting-edge neuroscience with engineering principles, which aligns with the larger aim of NSF BRAID program. The sessions are divided into two core themes: (a) advanced brain-inspired algorithms (continual, online local learning, spiking neural networks, and compartmental neuron/dendrite models); and (b) the development of energy-efficient hardware (devices, circuits, architectures, and systems). Discussions will focus on the emulation of neural processes and the optimization of power consumption in hardware designs, assessing their integration into existing systems, scalability, and potential impacts on energy use in AI operations. A dedicated student poster session will encourage the exchange of ideas and provide mentorship opportunities, enhancing student engagement with top experts in the field. The workshop will also explore practical applications of these technologies to boost their commercial viability and societal benefits. Concluding the event, a comprehensive report summarizing the current status, challenges, and promising research directions of the BRAID program will be developed. This report will be published in a peer-reviewed, open-access journal and made publicly available, ensuring broad dissemination of the workshop's impactful findings to both the scientific community and the public.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423858</AwardID>
+<Investigator>
+<FirstName>Dmitri</FirstName>
+<LastName>Strukov</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dmitri Strukov</PI_FULL_NAME>
+<EmailAddress><![CDATA[strukov@ece.ucsb.edu]]></EmailAddress>
+<NSF_ID>000539747</NSF_ID>
+<StartDate>07/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName>SANTA BARBARA</CityName>
+<ZipCode>931060001</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress><![CDATA[3227 CHEADLE HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G9QBQDH39DF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SANTA BARBARA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName>SANTA BARBARA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>931060001</ZipCode>
+<StreetAddress><![CDATA[3227 CHEADLE HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>763300</Code>
+<Text>EFRI Research Projects</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~99998</FUND_OBLG>
+</Award>
+</rootTag>

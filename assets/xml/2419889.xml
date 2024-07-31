@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[GOALI: SHF:Small: Energy-Efficient and Real-Time Neural Partial Differential Equation Solvers on 2.5D Photonic Chips]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>599474.00</AwardTotalIntnAmount>
+<AwardAmount>599474</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hu, X. Sharon</SignBlockName>
+<PO_EMAI>xhu@nsf.gov</PO_EMAI>
+<PO_PHON>7032928910</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Partial differential equation (PDE) is one of the most popular mathematical tools used in science and engineering. Representative applications of PDEs include (but are not limited to) aircraft design, semiconductor chip design, medical imaging, autonomous vehicles, and weather prediction. Traditional PDE solvers discretize the spatial and temporal domains into many grid points, resulting in huge memory and computing costs. In recent years, neural networks have been incorporated with physical knowledge to solve PDE problems. The resulting technique, physics-informed neural networks (PINN), has shown superior performance than traditional discretization-based PDE solvers in solving high-dimensional PDEs and PDE-constrained control problems. However, training a PINN can still be very time-consuming in many realistic engineering applications even on powerful graphic processing units. This has prevented the application of PINN from resource-constrained scenarios with strict requirements on the computing platforms' size, weight, and power. This motivates the research team to develop, for the first time, a real-time and real-size PINN training accelerator using photonic chips. The research results can be used to solve vast science and engineering problems with PDE descriptions in real-time and with ultra-low energy costs. The collaboration between the University of California at Santa Barbara (UCSB) and Hewlett Packard Labs will enable effective technology transfer and train next-generation workforces in semiconductor chip design and artificial intelligence via graduate education and industrial research internship.&lt;br/&gt;&lt;br/&gt;Despite the ultra-high speed of photonic computing, training a PINN with a realistic network size (with around 1000 neurons) on a photonic chip is very challenging due to the poor scalability of photonic chips and the hardware-unfriendly nature of backward propagation. This project will leverage the collaboration between UCSB and Hewlett Packard Labs to develop the first real-time and real-size end-to-end PINN training accelerator on a 2.5-dimensional photonic chip. The research team will create a highly compressed and completely backward propagation-free method for training large-size PINN, which only requires forward propagation in the training process. The training algorithms can be easily implemented on a photonic chip without using any photonic memory. A theoretical understanding of the training method will be developed to provide performance insurance. The unfunded industrial co-investigator from Hewlett Packard Labs will develop resonator-based wavelength-parallel photonic tensor cores and charge-trap flash memory to achieve a highly energy-efficient and scalable tensor-compressed inference accelerator with photonic in-memory computing. The co-package of electronic and photonic integrated circuits will be realized via 2.5-dimensional heterogeneous integration.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/13/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/13/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419889</AwardID>
+<Investigator>
+<FirstName>Zheng</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zheng Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[zhengzhang@ece.ucsb.edu]]></EmailAddress>
+<NSF_ID>000753421</NSF_ID>
+<StartDate>06/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xian</FirstName>
+<LastName>Xiao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xian Xiao</PI_FULL_NAME>
+<EmailAddress><![CDATA[xian.xiao@hpe.com]]></EmailAddress>
+<NSF_ID>000994607</NSF_ID>
+<StartDate>06/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName>SANTA BARBARA</CityName>
+<ZipCode>931060001</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress><![CDATA[3227 CHEADLE HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G9QBQDH39DF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SANTA BARBARA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName>SANTA BARBARA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>931060001</ZipCode>
+<StreetAddress><![CDATA[3227 CHEADLE HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~599474</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Statistical Methods and Sensitivity Analyses: How the Choice of Outcome Measures Affects the Conclusions of STEM Education Research Studies]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>478433.00</AwardTotalIntnAmount>
+<AwardAmount>478433</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jessaca Spybrook</SignBlockName>
+<PO_EMAI>jspybroo@nsf.gov</PO_EMAI>
+<PO_PHON>7032922241</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Research studies in Science, Technology, Engineering, and Math (STEM) education often seek to evaluate the impact of educational interventions (e.g., new curricula, new instructional practices) on student outcomes (e.g., STEM learning, persistence in STEM fields). Systematic reviews of the STEM education research literature have repeatedly shown that the results of impact evaluations can vary widely depending on how student outcomes are measured. For example, if student outcomes are measured using assessments developed by the primary researchers involved with the intervention or its evaluation, the results tend to be more favorable (i.e., show bigger impact) than when the outcomes are measured using independently-developed assessments (e.g., standardized tests). This discrepancy between researcher-developed and independently-developed assessments has fueled wider concerns about transparency and replicability in STEM education research, and in the social sciences more generally. The current project addresses this issue by developing statistical procedures for ensuring that the results of impact evaluations are not unduly dependent on the specific outcome measures used. In addition to improving the internal validity of STEM education impact evaluations, the proposed statistical methods can also be used to investigate sources of heterogeneity that may explain the discrepant results, thereby informing STEM education theory.&lt;br/&gt;&lt;br/&gt;In this project, the choice of outcome measure is conceptualized as a pervasive but understudied source of treatment effect heterogeneity. This heterogeneity is quantified in terms of the variability of treatment effects over the individual questions or “items” that make up an assessment. Intuitively, when treatment effects vary over items, this is a clear indication that different assessments of the same construct (i.e., assessments with different items) will lead to different research conclusions. This project builds on this intuitive idea by developing statistical methodology for evaluating the extent to which observed treatment effects are dependent upon item-level treatment effect heterogeneity that would not be expected to generalize to other assessments of the same construct. This is achieved by combining methods from robust statistics with item response theory to develop new procedures for evaluating differential item functioning with respect to treatment status. These new procedures (a) provide treatment effect estimates that are highly robust to item-level heterogeneity, (b) lead to a general-purpose specification test of whether naive estimates of treatment effects are biased by item-level heterogeneity, and (c) can be used to partition the bias in naive estimates into sources explained by item-level covariates and idiosyncratic sources specific to a given outcome measure. The performance of the proposed methodology is studied using sample sizes and research designs typical of STEM education research, and empirical results will be synthesized over a sample of STEM education impact evaluations.&lt;br/&gt;&lt;br/&gt;This project is supported by NSF's EDU Core Research (ECR) program. The ECR program emphasizes fundamental STEM education research that generates foundational knowledge in the field. Investments are made in critical areas that are essential, broad and enduring: STEM learning and STEM learning environments, broadening participation in STEM, and STEM workforce development.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400864</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Halpin</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter F Halpin</PI_FULL_NAME>
+<EmailAddress><![CDATA[peter.halpin@unc.edu]]></EmailAddress>
+<NSF_ID>000788096</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275995023</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress><![CDATA[104 AIRPORT DR STE 2200]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D3LHU66KBLD5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D3LHU66KBLD5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName>CHAPEL HILL</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>275995023</ZipCode>
+<StreetAddress><![CDATA[104 AIRPORT DR STE 2200]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>798000</Code>
+<Text>ECR-EDU Core Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8212</Code>
+<Text>Broaden Particip STEM Resrch</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8816</Code>
+<Text>Workforce Development</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8817</Code>
+<Text>STEM Learning &amp; Learning Environments</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>04002425DB</Code>
+<Name><![CDATA[NSF STEM Education]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~478433</FUND_OBLG>
+</Award>
+</rootTag>

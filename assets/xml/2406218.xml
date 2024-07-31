@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SCH: Multimodal Techniques to Enhance Intra- and Post-operative Learning and Coordination between Attending and Resident Surgeons]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>1200000.00</AwardTotalIntnAmount>
+<AwardAmount>1200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Goli Yamini</SignBlockName>
+<PO_EMAI>gyamini@nsf.gov</PO_EMAI>
+<PO_PHON>7032925367</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Surgical errors have the highest risk of severe patient injury and death. High quality training of surgeons is an important element in reducing these harms, yet there is accumulating data showing that U.S. general surgeons are not adequately trained by the time they graduate from residency. The overarching goal of the project is to improve the training experiences and outcomes in the operating room by computationally modeling attending and resident surgeons' intraoperative behaviors. In particular, by modeling surgeons' individual and interpersonal behaviors, the project aims to enable automated inference and formative assessment of resident surgeons' technical competence, attending surgeons' instruction quality, and the degree to which residents gain operational independence. The project will also develop interactive systems at Michigan Medicine that will enhance resident surgeons' readiness for independent practice and attending surgeons' awareness and quality of teaching. &lt;br/&gt;&lt;br/&gt;The project will focus on four main activities. Thrust 1 will involve collecting and curating a dataset of up to 100 laparoscopic cholecystectomy surgeries. For each procedure, three streams of multimodal data will be collected: surgeons’ gaze, conversations in the operating room, and video feed of the procedure obtained through the laparoscopic camera. Thrust 2 will develop and evaluate a multimodal modeling approach to predict surgeons’ intraoperative behaviors. The approach will first encompass a scene segmentation pipeline to interpret surgery scenes and add semantic meaning to surgeons’ gaze, such as “the resident is looking at the gallbladder.” It will then build a multimodal neural network architecture to process different types of input data to predict two levels of intraoperative behaviors: 1) technical procedures and 2) communication and coordination behaviors. Thrust 3 will develop and evaluate a post-operative debriefing dashboard for surgeons to review critical moments in the surgery. The research team will co-design the dashboard with attending and resident surgeons and explore interaction techniques that enable surgeons to easily review moments of interest. Controlled experiments will be conducted to evaluate the effectiveness of the techniques. Thrust 4 will develop and evaluate augmented reality-based intraoperative visualizations to enhance coordination and instruction.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406218</AwardID>
+<Investigator>
+<FirstName>Vitaliy</FirstName>
+<LastName>Popov</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vitaliy Popov</PI_FULL_NAME>
+<EmailAddress><![CDATA[vipopov@med.umich.edu]]></EmailAddress>
+<NSF_ID>000718441</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anhong</FirstName>
+<LastName>Guo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anhong Guo</PI_FULL_NAME>
+<EmailAddress><![CDATA[anhong@umich.edu]]></EmailAddress>
+<NSF_ID>000839067</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xu</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xu Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[xwanghci@umich.edu]]></EmailAddress>
+<NSF_ID>000839066</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736400</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>801800</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1200000</FUND_OBLG>
+</Award>
+</rootTag>

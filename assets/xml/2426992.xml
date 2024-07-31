@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SCC-PG: Securing Safety: Leveraging Advanced IoT-Enabled AI Technologies for Coordinated Response and Enhanced De-escalation Support of Autistic Individuals]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>149996.00</AwardTotalIntnAmount>
+<AwardAmount>149996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Corman</SignBlockName>
+<PO_EMAI>dcorman@nsf.gov</PO_EMAI>
+<PO_PHON>7032928754</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Autistic individuals often face traumatic encounters with first responders due to a lack of understanding and training on autism-specific behaviors. Research shows that a significant percentage of autistic youth have negative interactions with police, leading to fears among autistic individuals and their caregivers. Current de-escalation protocols based on behavioral science are effective but not widely accessible or integrated into first responder training. This project aims to address these gaps by developing a coordinated, IoT-enabled generative AI platform that enhances real-time response to emergency behavioral events (EBEs) involving autistic individuals. The broader significance of this project lies in its potential to transform emergency response systems by providing first responders with the tools and knowledge needed to handle EBEs effectively. The outcome will improve safety and well-being for autistic individuals and their families in challenging scenarios that may require first responder engagement.&lt;br/&gt;&lt;br/&gt;The project will conduct a feasibility and pilot study to develop a smart, connected community for coordinated EBE response using IoT and generative AI technologies. The research will involve collaboration with community stakeholders, including autistic individuals, caregivers, emergency responders, and community initiatives, to identify current gaps and test trustworthy solutions.  The project will detail the data needed for effective EBE response, current solutions used by stakeholders, barriers to integration, and the potential of AI and IoT technologies in enhancing response efforts. Three main research aims are being pursued:&lt;br/&gt;1. Social Science Study: Identify gaps in current de-escalation approaches and barriers to coordinated response through community-based participatory research (CBPR) involving surveys and focus groups.&lt;br/&gt;2. Identification of IoT and AI Solutions: Survey and evaluate AI models and IoT technologies that support personalized de-escalation strategies and seamless data sharing among first responders.&lt;br/&gt;3. Pilot Study: Test the feasibility and effectiveness of the developed IoT-AI platform in a controlled setting, gathering feedback from participants to refine the system for real-world application.&lt;br/&gt;&lt;br/&gt;Preliminary work by the team has demonstrated the effectiveness of augmented reality for training first responders and highlighted the need for integrated, real-time support during EBEs. This project builds on these findings to develop a comprehensive solution that addresses the unique needs of autistic individuals and enhances community safety through advanced technology and stakeholder collaboration.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2426992</AwardID>
+<Investigator>
+<FirstName>Adel</FirstName>
+<LastName>Alaeddini</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adel Alaeddini</PI_FULL_NAME>
+<EmailAddress><![CDATA[aalaeddini@smu.edu]]></EmailAddress>
+<NSF_ID>000641170</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Leslie</FirstName>
+<LastName>Neely</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leslie Neely</PI_FULL_NAME>
+<EmailAddress><![CDATA[leslie.neely@utsa.edu]]></EmailAddress>
+<NSF_ID>000866534</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at San Antonio]]></Name>
+<CityName>SAN ANTONIO</CityName>
+<ZipCode>782491644</ZipCode>
+<PhoneNumber>2104584340</PhoneNumber>
+<StreetAddress><![CDATA[1 UTSA CIR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U44ZMVYU52U6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF TEXAS AT SAN ANTONIO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at San Antonio]]></Name>
+<CityName>SAN ANTONIO</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>782491644</ZipCode>
+<StreetAddress><![CDATA[1 UTSA CIRCLE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>033Y00</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~149996</FUND_OBLG>
+</Award>
+</rootTag>

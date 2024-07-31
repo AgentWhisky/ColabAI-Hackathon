@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SCIPE: Building a Computational and Data-Intensive Research Workforce & Network in the Mid-Atlantic Region]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>4679886.00</AwardTotalIntnAmount>
+<AwardAmount>4679886</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sharon Geva</SignBlockName>
+<PO_EMAI>sgeva@nsf.gov</PO_EMAI>
+<PO_PHON>7032927058</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With rapid advances in hardware architecture and software ecosystem, there is a crucial need to modernize applications and leverage the advancements in High Performance Computing (HPC), Artificial Intelligence (AI), Machine Learning (ML) and Data Science. These advancements can only be achieved by creating partnerships between domain scientists and computational experts. Such collaborations will help build a trained and skilled workforce capable of harnessing the benefits of modern hardware and software in a manner that aligns with domain science perspectives. This project addresses this need by creating a team of Cyberinfrastructure Professionals (also called Research Software Engineers (RSEs)) to support computational and data-intensive research in the Mid-Atlantic region. This team focuses on improving RSE skills and support to advance (i) social, behavioral, and economic (SBE) sciences and (ii) coastal sciences and infrastructure (CSI). The University of Delaware (UD) will implement the proposed work in close collaboration with Howard University, Delaware State University, and Lincoln University–three Minority Serving Institutions (MSIs). The project addresses the challenge of building and sustaining RSE teams by offering training, education, and certification, as well as career development programs. The goal is to ensure the recognition, recruitment, and retention of RSEs, making the team a role model and a steady source of future RSEs. &lt;br/&gt;&lt;br/&gt;Via an inter-institutional initiative, this project is (a) identifying and creating a sustainable and scalable talent pipeline of RSEs to accelerate and enable domain sciences, especially the SBE and CSI domain areas traditionally underserved by RSEs, (b) connecting RSEs from other initiatives such as ACCESS, SCIPE, and US-RSE to foster a broader network, (c) establishing a graduate level course and RSE pilot certificate, and (d) studying the novel applicability of data-driven ML/AI methods and HPC on the domain science problems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417814</AwardID>
+<Investigator>
+<FirstName>Rudolf</FirstName>
+<LastName>Eigenmann</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rudolf Eigenmann</PI_FULL_NAME>
+<EmailAddress><![CDATA[eigenman@udel.edu]]></EmailAddress>
+<NSF_ID>000315744</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tian-Jian (Tom)</FirstName>
+<LastName>Hsu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tian-Jian (Tom) Hsu</PI_FULL_NAME>
+<EmailAddress><![CDATA[thsu@udel.edu]]></EmailAddress>
+<NSF_ID>000126431</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sunita</FirstName>
+<LastName>Chandrasekaran</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sunita Chandrasekaran</PI_FULL_NAME>
+<EmailAddress><![CDATA[schandra@udel.edu]]></EmailAddress>
+<NSF_ID>000703422</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Bagozzi</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benjamin E Bagozzi</PI_FULL_NAME>
+<EmailAddress><![CDATA[bagozzib@udel.edu]]></EmailAddress>
+<NSF_ID>000741046</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Huffman</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John N Huffman</PI_FULL_NAME>
+<EmailAddress><![CDATA[jnhuffma@udel.edu]]></EmailAddress>
+<NSF_ID>000819423</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName>NEWARK</CityName>
+<ZipCode>197160099</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress><![CDATA[220 HULLIHEN HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DE00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T72NHKM259N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF DELAWARE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName>NEWARK</CityName>
+<StateCode>DE</StateCode>
+<ZipCode>197160099</ZipCode>
+<StreetAddress><![CDATA[220 HULLIHEN HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DE00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>245Y00</Code>
+<Text>Strengthen the CIP Ecosystem</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>122Z</Code>
+<Text>CI Training and Professionals</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~4679886</FUND_OBLG>
+</Award>
+</rootTag>

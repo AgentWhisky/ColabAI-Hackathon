@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[TRAILBLAZER: Constructing photonic quantum systems by deterministic electron-driven atom positioning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>2977640.00</AwardTotalIntnAmount>
+<AwardAmount>2977640</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07040000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EFMA</Abbreviation>
+<LongName>Emerging Frontiers &amp; Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alias Smith</SignBlockName>
+<PO_EMAI>alismith@nsf.gov</PO_EMAI>
+<PO_PHON>7032928367</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The ability to place atoms at chosen locations to reproducibly create millions of identical arrangements would greatly benefit quantum science and engineering. A goal of particular importance is the creation of atomic arrangements that interact with light, since absorbing and emitting photons is a way of performing the operations that take place within quantum computers and other quantum devices. This proposal aims to move precisely chosen groups of atoms within a crystal using a finely focused electron beam in an electron microscope, and measure the effect this has on the interaction of the crystal with light. To ensure flawless positioning of each atom the proposal will develop autonomous operation of the electron microscope, and the response to light will be measured by building a miniature optical laboratory inside the microscope. The outcome of this work will be the construction of complex arrays of perfectly ordered atoms and the demonstration of their promise in quantum photonic devices. The research activities will be integrated with education, outreach, and community engagement by developing a microscopy-based initiative, Extreme Imaging, which aims to achieve societal impact by engaging high school students and their teachers through technical imaging.&lt;br/&gt;&lt;br/&gt;Scalability is a challenge in realizing quantum technologies, due to the lack of reproducibility in engineering identical quantum wave functions. In particular, the deterministic and atomically precise generation, placement, and integration of large numbers of identical quantum defects in solid-state materials is not possible with current techniques, even though this is crucial for the construction of large-scale and highly integrated photonic quantum systems. This proposal aims to overcome this scalability barrier by opening a new pathway towards atomic level design of quantum devices. The proposal will construct an “autonomous quantum microscope” using concepts from quantum photonics, in situ transmission electron microscopy, and artificial intelligence, enabling the engineering of patterns of identical quantum defects in materials while simultaneously measuring their optical properties. Millions of identical quantum defects will be integrated into predefined photonic circuitry with a degree of precision that enables the fabrication of arbitrary arrays. The proposal ultimately aims to develop an autonomous process by which vast entangled photonic states can be created and measured. The researchers trained in this project will address an area of national need in advanced instrumentation development and quantum information science. This research will also be coupled with educational outreach activities, also based on microscopy and imaging, to inspire and prepare the next generation of experts in technical design and microscopy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421694</AwardID>
+<Investigator>
+<FirstName>Frances</FirstName>
+<LastName>Ross</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Frances M Ross</PI_FULL_NAME>
+<EmailAddress><![CDATA[fmross@mit.edu]]></EmailAddress>
+<NSF_ID>000199349</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>763300</Code>
+<Text>EFRI Research Projects</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~2977640</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Space-Time Projection Optical Tomography (SPOT)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>274996.00</AwardTotalIntnAmount>
+<AwardAmount>274996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Benaiah Schrag</SignBlockName>
+<PO_EMAI>bschrag@nsf.gov</PO_EMAI>
+<PO_PHON>7032928323</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to understand how to harness the power of Graphical Processing Unit (GPU)-computing to detect and track small space debris. The last decade has seen rapid growth in satellite launches as well as space explosions which profoundly worsen the space debris environment, particularly in the Low Earth Orbit (LEO). Debris smaller than 5 cm is not detectable by current radar and optical techniques, remains in orbit for many years, travels at 5 miles per second and, therefore, poses serious collisional hazards to operational spacecraft and the inhabitants of the International Space Station (ISS). Ultimately, the concern is that the number of space objects beyond a certain threshold will trigger an unintended exponentially growing avalanche of fragments making LEO unusuable.The only option then is orbit maneuvering and it requires knowing the orbits of each of the debris pieces hours or days ahead of time. The proposed technology is a step toward a comprehensive space surveillance system to ensure sustainable use of the Earth’s orbits.&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to develop an optical solution for space debris detection using a small array of telescopes and algorithms implemented on GPU-based parallel computing platforms. If successful, the proposed technology transforms arrays of inexpensive small, wide field-of-view cameras into powerful computational telescopes with sensitivities enough to potentially detect objects smaller than 1 cm. Also known as synthetic tracking, the technology has been successfully utilized to detect large numbers of near-Earth asteroids for planetary protection. The same method is likely to benefit detection of small objects in LEO. However, it is computationally more challenging because the LEO objects move across the camera view much more rapidly. This requires taking 100x more picture frames per second, requiring the analysis of petabytes of data. More importantly, processing of these many frames is computationally more demanding. On the other hand, the sensitivity gain is significantly more, potentially allowing the detection of sub-cm objects. In contrast to building massive and expensive radar and optical telescopes, this project aims to provide a sustainable and low-cost solution to track millions of particles to provide protection for space assets now and eventually for human inhabitation of space.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404362</AwardID>
+<Investigator>
+<FirstName>Hasan</FirstName>
+<LastName>Bahcivan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hasan Bahcivan</PI_FULL_NAME>
+<EmailAddress><![CDATA[hasan.bahcivan@opticalx.space]]></EmailAddress>
+<NSF_ID>000959831</NSF_ID>
+<StartDate>06/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[OPTICALX, LLC]]></Name>
+<CityName>TRACY</CityName>
+<ZipCode>953048404</ZipCode>
+<PhoneNumber>6508621310</PhoneNumber>
+<StreetAddress><![CDATA[20654 ALDER AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JT2MZF46W8K3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OPTICALX, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[OPTICALX, LLC]]></Name>
+<CityName>TRACY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>953048404</ZipCode>
+<StreetAddress><![CDATA[20654 ALDER AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1218</Code>
+<Text>ADVANCED TECHNOLOGIES &amp; INSTRM</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~274996</FUND_OBLG>
+</Award>
+</rootTag>

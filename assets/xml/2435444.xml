@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: The AI and Menopause Workshop: Understanding Needs and Exploring Innovation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>75000.00</AwardTotalIntnAmount>
+<AwardAmount>75000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Goli Yamini</SignBlockName>
+<PO_EMAI>gyamini@nsf.gov</PO_EMAI>
+<PO_PHON>7032925367</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award supports a workshop on Artificial Intelligence (AI) to advance knowledge of  menopause. Women's health has been historically under-researched, with women excluded from most randomized clinical trials (RCTs) prior to 1993, creating significant gaps in sex-specific clinical data and treatments. This exclusion means women are often treated based on data obtained from men, despite known sex differences in many diseases. As such, critical gaps exist in understanding menstrual health and menopause, with little research on the long-term impact of menopause on the health of women, which treatments are successful for which individuals, and more generally how to support women with their day-to-day management of menopause. Since the timing of menopause is concordant with the timing of the development of many chronic diseases in women, this is critical to understand. AI presents new opportunities to address these gaps by analyzing complex health data like those of electronic health records, wearable devices, and self-tracking apps, and in turn elucidate new knowledge about the health of women that traditional research methods might miss. This could lead to personalized treatments and better management strategies overall. Furthermore, human-centered AI approaches have the potential to help create safe, robust, and equitable solutions to support women and their providers in the management of menopause. &lt;br/&gt;&lt;br/&gt;The workshop will bring researchers and domain experts from multiple disciplines centered around women's health together with AI and human-centered AI researchers. The workshop participants will identify research gaps, explore research opportunities, and develop a strategic roadmap for research at the intersection of AI and women's health, specifically menopause. The workshop will facilitate discussions on state-of-the-art computational approaches and intelligent interactive systems, highlighting both opportunities and challenges in applying these technologies to women's health. Key issues such as scientific data sparsity and biased observational datasets will be addressed, as well as benchmarks and evaluation frameworks that align with current menopause research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2435444</AwardID>
+<Investigator>
+<FirstName>Noemie</FirstName>
+<LastName>Elhadad</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Noemie Elhadad</PI_FULL_NAME>
+<EmailAddress><![CDATA[noemie.elhadad@columbia.edu]]></EmailAddress>
+<NSF_ID>000161576</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100277922</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress><![CDATA[615 W 131ST ST]]></StreetAddress>
+<StreetAddress2><![CDATA[MC 8741]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100323720</ZipCode>
+<StreetAddress><![CDATA[622 West 168th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>801800</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~75000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: IMPRESS-U: Gradient surface nanostructuring with short laser pulses]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>297902.00</AwardTotalIntnAmount>
+<AwardAmount>297902</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maija Kukla</SignBlockName>
+<PO_EMAI>mkukla@nsf.gov</PO_EMAI>
+<PO_PHON>7032924940</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The rapidly growing industrial demand for high-performance materials exhibiting a combination of high strength and hardness, substantial ductility, and fatigue resistance has been driving the development of so called “nanostructured materials,” where a high density of crystal defects (grain boundaries, twins, stacking faults and dislocations) can lead to a striking enhancement of the mechanical properties. The utilization of nanostructured materials, however, is limited by their poor thermal stability against grain coarsening and defect annihilation, as well as difficulties of the scale-up of existing synthesis techniques and their integration into modern manufacturing processes. This EArly-concept Grant for Exploratory Research (EAGER) International Multilateral Partnerships for Resilient Education and Science System in Ukraine (IMPRESS-U) award supports the exploration of a novel non-contact approach to surface nanostructuring based on a simultaneous generation of a high density of crystal defects by short pulse laser processing and stabilization of these defects through the laser-assisted nanoalloying. The goal of this project is to provide a proof of concept for the feasibility of a nimble laser-assisted defect engineering and stabilization, pushing forward the frontiers of the laser processing technologies. The project benefits from the complementary expertise and existing research links between the members of the international research team from the United States, Lithuania, and Ukraine. One of the major goals of the project is to establish a long-term sustainable collaboration fully integrating Ukrainian researchers into the global research community. Mutual visits, exchange of research expertise, and educational activities create a fertile ground for the emergence of a new area of research strength at the Lviv Polytechnic National University. In particular, the best practices of a well-established Center of Laser Technologies in Vilnius, Lithuania are adopted by the research center emerging at Lviv Polytechnic. Leveraging computational expertise at the University of Virginia grounds investigations at the Ukrainian research center on solid fundamental understanding of processes underlying material modifications from short pulse laser processing.&lt;br/&gt;&lt;br/&gt;The challenge of revealing and untangling the intertwined processes responsible for the generation of various crystal defects in laser nanostructuring is addressed in this project by combining large-scale atomistic modeling of laser-induced structural and phase transformations, advanced large-area non-ablative laser processing using a novel setup for nanoalloying, and nanoscale characterization of the laser-modified surfaces. The stabilization of laser-generated highly nonequilibrium defect structures through nanoalloying is achieved by adding alloying elements that preferentially segregate to grain boundaries and other defects, thus reducing the free energy of nanocrystalline structures and acting as obstacles for defect migration. The fundamental mechanisms responsible for the generation of crystal defects at a rapidly advancing crystallization front and their stabilization through nanoalloying is systematically investigated in atomistic simulations. The conditions of the simulations are mapped to those realized in laser processing, and the computational predictions are verified in a detailed experimental characterization of surface regions modified by short pulse laser irradiation. The direct mapping of the computational predictions to the results of nanoscale characterization of laser modified surfaces guides the exploration of the multidimensional space of laser processing parameters and enables the verification and refinement of the model assumptions. Several strategies for expanding the range of irradiation conditions leading to nanocrystallization are explored, including suppression of subsurface cavitation and spallation by performing laser processing in a liquid environment and under confinement by a transparent solid overlayer. The effect of alloying/compositional gradients on the solidification kinetics and final nanostructure are systematically investigated for different target configurations in simulations and experiments.&lt;br/&gt;&lt;br/&gt;This EAGER: IMPRESS-U project is jointly funded by NSF, Research Council of Lithuania, US National Academies of Sciences, and Office of Naval Research Global (DoD). US portion of this collaborative partnership project is supported by NSF Office of International Science and Engineering (Office of the Director), CMMI’s Advanced Manufacturing Program (Engineering Directorate), and DMR’s Metals and Metallic Nanostructures Program (Directorate for Mathematical and Physical Sciences).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.049, 47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406599</AwardID>
+<Investigator>
+<FirstName>Leonid</FirstName>
+<LastName>Zhigilei</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leonid Zhigilei</PI_FULL_NAME>
+<EmailAddress><![CDATA[lz2n@virginia.edu]]></EmailAddress>
+<NSF_ID>000209017</NSF_ID>
+<StartDate>02/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Virginia Main Campus</Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229034833</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress>1001 EMMET ST N</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJG6HU8PA4S5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RECTOR &amp; VISITORS OF THE UNIVERSITY OF VIRGINIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>229034833</ZipCode>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>088Y</Code>
+<Text>AM-Advanced Manufacturing</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1771</Code>
+<Text>METAL &amp; METALLIC NANOSTRUCTURE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7298</Code>
+<Text>International Research Collab</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1444</Code>
+<Text>SURFACE ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1633</Code>
+<Text>MATERIALS AND SURFACE ENG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5915</Code>
+<Text>EASTERN EUROPE, OTHER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5998</Code>
+<Text>UKRAINE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8021</Code>
+<Text>Materials Engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~297902</FUND_OBLG>
+</Award>
+</rootTag>

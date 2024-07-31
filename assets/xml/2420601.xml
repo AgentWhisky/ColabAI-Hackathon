@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Integrating deep learning algorithms for UAS-based infrastructure inspection: Path to fully automated, commercially viable and scalable monitoring]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>274727.00</AwardTotalIntnAmount>
+<AwardAmount>274727</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ela Mirowski</SignBlockName>
+<PO_EMAI>emirowsk@nsf.gov</PO_EMAI>
+<PO_PHON>7032922936</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader/commercial impact of this Small Business Innovation Research Phase I project will be improving the lives of US residents by increasing electric power grid resilience through increased effectiveness and efficiency with automated electric infrastructure monitoring based on imaging with uncrewed autonomous system (UAS) (i.e., drones). Automated UAS monitoring approaches incorporating novel AI algorithms will disrupt conventional approaches, increasing the spatial extent and temporal frequency of infrastructure inspections, and will accelerate identification of all types of defects and reduce operating expenses. Such tools and technology will also support programs for integration of large-scale renewable-based power projects and electric vehicles to help meet sustainability targets. They will also reduce wildfire risks and duration of weather-related power shutoffs. While electric utility infrastructure is the primary focus, inspection and monitoring of myriad infrastructure types such as telecommunication towers, pipelines, and bridges, both in construction and operational phases, will benefit from this technology. Step-change productivity gains through adoption of digital workflow automation will require workforce role evolution and drive new job creation. A diverse and skilled company team will be built by emulating the culture of diversity and inclusion of the co-founders’ university roots.  &lt;br/&gt;&lt;br/&gt;This project will facilitate a major leap towards exploiting highly detailed imagery captured by uncrewed autonomous system (UAS) to achieve greater performance and automation for infrastructure inspection. The goal is to integrate time-sequential UAS imagery captured from the same location in the sky, with multiple AI algorithms to achieve both detection and identification of damage to overhead electric infrastructure (and ultimately many types of infrastructure). The centerpiece of the integrated AI model framework is a model that exploits temporal changes in conditions of electric utility apparatus to detect defects requiring maintenance. Another AI algorithm will simulate apparatus damages in images used to train AI routines, since actual damage is a relatively rare occurrence within the thousands of inspection images captured by UAS. A riskier but transformative research element will involve integrating the novel damage detection model with AI models that identify specific damage types from single-time images. This hybrid modeling approach will restrict the image domain for which damage is identified, to focus the attention of infrastructure inspectors on changes confirmed to be associated with damage. Temporal image sequences will ultimately feed predictive analytic models that forecast the likelihood of damage or failure and prioritize the timing of inspections.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2420601</AwardID>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Stow</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Douglas A Stow</PI_FULL_NAME>
+<EmailAddress><![CDATA[stow@changeaerial.com]]></EmailAddress>
+<NSF_ID>000469883</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[CHANGEAERIAL LLC]]></Name>
+<CityName>SAN DIEGO</CityName>
+<ZipCode>921101552</ZipCode>
+<PhoneNumber>6198077095</PhoneNumber>
+<StreetAddress><![CDATA[5022 ONSTAD ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>51</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA51</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>K1EZDVCZHSN7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CHANGEAERIAL LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CHANGEAERIAL LLC]]></Name>
+<CityName>SAN DIEGO</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>921101552</ZipCode>
+<StreetAddress><![CDATA[5022 ONSTAD ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>51</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA51</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>059P</Code>
+<Text>SCIENCE IN MOTION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~274727</FUND_OBLG>
+</Award>
+</rootTag>

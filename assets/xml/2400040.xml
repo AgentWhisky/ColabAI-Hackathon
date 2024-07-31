@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Approximation properties in von Neumann algebras]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>291569.00</AwardTotalIntnAmount>
+<AwardAmount>291569</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wing Suet Li</SignBlockName>
+<PO_EMAI>winli@nsf.gov</PO_EMAI>
+<PO_PHON>7032924630</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Von Neumann algebras were introduced in the 1930's and 40's to study representation theory of groups, and to use as a tool for developing a mathematical foundation for quantum physics.  They have since developed into a full area of study as a natural noncommutative notion of measure theory. The noncommutative setting of topology (C*-algebras) emerged shortly after, and the two subjects have historically been closely connected. This project explores these connections to develop new ideas, to reach a broad mathematical community and providing engagement and support for new students in the field.  The investigator is actively participating in the training of students and postdocs in von Neumann algebras and the research from this project will directly impact these students and postdocs. &lt;br/&gt;&lt;br/&gt;The project investigator is studying approximation properties (or the lack thereof) in von Neumann algebras and C*-algebras, especially relating to group von Neumann algebras and group measure space constructions. This has historically been a significant area of study in the classification of operator algebras, with amenability/injectivity playing a major role in the development of von Neumann algebras, and nuclearity playing a major corresponding role in the theory of C*-algebras. The emergence of Popa's deformation/rigidity theory has led to numerous breakthroughs in the classification of von Neumann algebras beyond the amenability setting, and approximation properties, such as Ozawa's notion of a biexact group, have created new opportunities to study approximation properties in the setting of von Neumann algebras. The research developed in this project investigates these approximation properties, creating new connections between C* and von Neumann algebras. This allows new C*-algebraic tools to be used in the setting of von Neumann algebras, leading to new structural results for group and group measure space von Neumann algebras, and giving a deeper insight into interactions between operator algebras, ergodic theory, and geometric group theory.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/27/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/27/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400040</AwardID>
+<Investigator>
+<FirstName>Jesse</FirstName>
+<LastName>Peterson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jesse Peterson</PI_FULL_NAME>
+<EmailAddress><![CDATA[jesse.d.peterson@vanderbilt.edu]]></EmailAddress>
+<NSF_ID>000511398</NSF_ID>
+<StartDate>03/27/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Vanderbilt University]]></Name>
+<CityName>NASHVILLE</CityName>
+<ZipCode>372032416</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress><![CDATA[110 21ST AVE S]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GTNBNWXJ12D5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VANDERBILT UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Vanderbilt University]]></Name>
+<CityName>NASHVILLE</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>372032416</ZipCode>
+<StreetAddress><![CDATA[110 21ST AVE S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128100</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~291569</FUND_OBLG>
+</Award>
+</rootTag>

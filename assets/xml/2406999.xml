@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[BSM-PM: Understanding Gravity at the Smallest Scale]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>480000.00</AwardTotalIntnAmount>
+<AwardAmount>160000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Is there a way to reconcile gravity with quantum mechanics?  It is well-known that quantum mechanics, the science of the very small, and gravitation do not integrate properly.  Since the time of Newton, we have known that the force of gravity between two massive objects scales with the inverse of their distance squared.  This law works well at planetary scales and for human scales.  But we generally assume this "inverse-square law" to apply to much smaller distances, down to molecule scale, where quantum mechanics and gravity may work together.  But, of course, this is a tremendous extrapolation that should be tested, at least in part, empirically. Indeed, many theories predict that gravity could deviate from the familiar inverse square law already at sub-millimeter distances. Such deviations are extremely difficult to measure experimentally due to the small strength of gravitation and the presence of residual electromagnetic interactions.  This award funds the continuation of an experimental program in this area using an entirely novel technique. The team will train students in STEM research.&lt;br/&gt;&lt;br/&gt;The traditional technique to explore gravity at the meter to 0.1-millimeter scales relies on ever-improving versions of the classic Cavendish experiment, where the force of gravity is compared to the restoring force of a torsion fiber.  More recent measurements have used devices obtained by photolithography but are still based on mechanical springs.  This award supports an effort based on optical springs, taking advantage of the substantial progress in quantum optics and optomechanics in the last few decades.  This is entirely new and holds the promise to revolutionize the field.  Indeed, in addition to the primary goal, this new technique has already found applications in other fields of fundamental physics, and in technological areas as disparate as inertial guidance and vacuum measurement.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406999</AwardID>
+<Investigator>
+<FirstName>Giorgio</FirstName>
+<LastName>Gratta</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Giorgio Gratta</PI_FULL_NAME>
+<EmailAddress><![CDATA[gratta@stanford.edu]]></EmailAddress>
+<NSF_ID>000443583</NSF_ID>
+<StartDate>07/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>STANFORD</CityName>
+<ZipCode>943052004</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress><![CDATA[450 JANE STANFORD WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJD6G4D6TJY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE LELAND STANFORD JUNIOR UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>STANFORD</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943052004</ZipCode>
+<StreetAddress><![CDATA[450 JANE STANFORD WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124100</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>124300</Code>
+<Text>Gravity Exp. &amp; Data Analysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1289</Code>
+<Text>PRECISION MEASUREMENTS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~160000</FUND_OBLG>
+</Award>
+</rootTag>

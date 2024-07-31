@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Chimeric Ligands for Induced Proximity (CLIPs) for Targeted Proteome Editing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>275000.00</AwardTotalIntnAmount>
+<AwardAmount>275000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erik Pierstorff</SignBlockName>
+<PO_EMAI>epiersto@nsf.gov</PO_EMAI>
+<PO_PHON>7032922165</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Small Business Innovation Research (SBIR) Phase I project will be to foster the economic competitiveness of the United States, advance the health and welfare of the American pubic and enhance partnerships between academia and industry. Drug discovery is hindered by high costs and lengthy development time, with costs often passed onto consumers. To alleviate these burdens, the private sector has invested in new research to discover faster, more cost-effective drug development methods. The platform in this Phase I effort may offer an answer to drug discovery challenges through rapid and inexpensive development of post-translational protein-editing therapeutics. The commercialization of the technology detailed here also may support the drug discovery field and advance America’s influence in the pharmaceutical production space, specifically for the generation of a novel therapy promoting liver regeneration in alcoholic hepatitis. The platform may also advance the health of Americans by offering a method to program the localization and activation of disease-relevant proteins currently considered undruggable and advancing therapeutics for alcoholic hepatitis as an initial focus. Further, the protein-editing platform was developed by members with pharmaceutical industry background as well as academic professions, thus demonstrating the importance of partnerships across these sectors.&lt;br/&gt;&lt;br/&gt;The proposed project will advance a programmable, modular therapeutic platform for the direct modification of proteins of interest (POIs) via artificial intelligence, protein engineering and mRNA as a therapeutic entity. Proteins are a logical avenue for the development of novel therapies, but the current drug discovery pipeline requires targeting proteins with drug binding pockets and involves extensive, time-consuming screening to identify lead candidates. The platform described here leverages engineered enzymes to recognize and edit POIs by removing/installing post-translational modifications rapidly and precisely. The protein editors, chimeric ligands for induced proximity (CLIPs), feature a targeted recognition domain and protein modification enzyme component tailored to the POI. Following successful demonstration of targeted degradation of specific CLIPs in previous studies, the platform has also successfully achieved target POI stabilization, demonstrating platform modularity. This Phase I project seeks to expand the applications of the platform by designing and implementing CLIPs for other post-translational modifications by conjugating computationally derived peptides to various enzymes targeted to the POI. In vivo target engagement studies will also be conducted on CLIPs generated to extend the platform and demonstrate applicability in stabilizing β-catenin and subsequently initiating liver regeneration.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2405853</AwardID>
+<Investigator>
+<FirstName>Mathew</FirstName>
+<LastName>Barnett</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mathew Barnett</PI_FULL_NAME>
+<EmailAddress><![CDATA[mathew@ubiquitx.com]]></EmailAddress>
+<NSF_ID>000852970</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[UBIQUITX, INC.]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100242934</ZipCode>
+<PhoneNumber>3472561445</PhoneNumber>
+<StreetAddress><![CDATA[160 W 87TH ST]]></StreetAddress>
+<StreetAddress2><![CDATA[APT 9D]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LRA7LGJCZP15</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UBIQUITX INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[UBIQUITX, INC.]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100242934</ZipCode>
+<StreetAddress><![CDATA[160 W 87TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1982</Code>
+<Text>BIOLOGICAL CHEMISTRY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~275000</FUND_OBLG>
+</Award>
+</rootTag>

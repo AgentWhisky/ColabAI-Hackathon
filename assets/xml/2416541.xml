@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF: Small: Design Methodologies for Interpretable Differentiable Logic Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hu, X. Sharon</SignBlockName>
+<PO_EMAI>xhu@nsf.gov</PO_EMAI>
+<PO_PHON>7032928910</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Artificial Intelligence (AI) is driving advancements in a multitude of fields.  An important vehicle for implementing AI frameworks is machine learning.  The most popular machine learning model is the artificial neural network.  It takes inspiration from the human brain. Despite the key role neural networks have played in the rapid AI advancements in the last decade, how they make decisions is not easily interpretable by humans.  This is a key shortcoming that prevents its wider use in some application domains, such as medical and legal, where understanding the reasoning behind decisions is very important.  This project offers a novel approach, called differentiable logic networks, to tackle this problem. In addition to being interpretable, these networks are also highly energy- and memory-efficient.  Thus, they can be placed on energy-constrained devices, such as smartwatches and smartphones, bringing AI closer to us. The project results will be transferred to the industry through various active engagements.  It will train a new generation of graduate and undergraduate students in this emerging field. The research outcomes will be included in an undergraduate course on Machine Learning. This project also will provide education in microelectronics to high school students through the Princeton Laboratory Learning Program.  Broad dissemination of research to the academic and industrial communities will be achieved through published papers, posters, and seminars. In addition, various tools and models will be distributed online for the benefit of other researchers. &lt;br/&gt;&lt;br/&gt;Differentiable logic networks consist of layers of logic operators trained through gradient-based optimization.  Their decisions are easily interpretable because of their reliance on logic rules. They primarily consist of a network of two-input neurons that perform binary logic operations. All the connections among neurons are single bit with unit weight. They achieve accuracies competitive with those of traditional neural networks. Differentiable logic networks differ from neural networks in three major ways: (i) they transform inputs into binary values, (ii) instead of matrix multiplications, they perform logic operations, and (iii) connections in network layers are very sparse, primarily because each neuron accepts only two inputs. They have two-fold training objectives: (i) determine which Boolean function each neuron should implement and (ii) establish how the neurons should be connected. Both problems are discrete, making direct use of common neural network training optimizers, like gradient descent, unsuitable for the task. This project will lead to synthesis methodologies that address this problem along various axes:  (i) relaxation of the discrete search space to make the synthesis approach continuous and differentiable, (ii) freeze, discretize, and prune network layers progressively from inputs to outputs to make the network very compact, (iii) tackling of the vanishing gradient problem, (iv) development of a new normalization method for such networks, and (v) efficient exploration of the design space.&lt;br/&gt;&lt;br/&gt;This project is co-funded by the Software and Hardware Foundations (SHF) and Discovery Research PreK-12 (DRK12) programs. DRK12 is an applied research program that supports STEM education PreK-12.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/06/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/06/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070, 47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2416541</AwardID>
+<Investigator>
+<FirstName>Niraj</FirstName>
+<LastName>Jha</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Niraj K Jha</PI_FULL_NAME>
+<EmailAddress><![CDATA[jha@princeton.edu]]></EmailAddress>
+<NSF_ID>000123477</NSF_ID>
+<StartDate>06/06/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085442001</ZipCode>
+<StreetAddress><![CDATA[41 Olden Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>764500</Code>
+<Text>Discovery Research K-12</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>106Z</Code>
+<Text>Microelectronics and Semiconductors</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>04AC2324DB</Code>
+<Name><![CDATA[EDU DRSA DEFC AAB]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~600000</FUND_OBLG>
+</Award>
+</rootTag>

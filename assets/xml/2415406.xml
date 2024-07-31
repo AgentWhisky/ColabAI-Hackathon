@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: A study of the collective dynamics of multiple flagella in a bacterial bundle]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>195656.00</AwardTotalIntnAmount>
+<AwardAmount>195656</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The ability of bacteria to swim in fluid media is critical for their survival and proliferation in diverse environments and plays a crucial role in many important natural, environmental and bioengineering processes. As one of the most common types of bacteria, peritrichous bacteria such as Escherichia coli swim by rotating a single helical bundle, which is formed from multiple flagellar filaments growing all over the bacterial body. This proposal addresses a fundamental question in the fluid dynamics of the swimming of peritrichous bacteria, i.e., how do the multiple flagellar filaments of a bacterium synchronize and rotate collectively to provide a coherent thrust, enabling the swimming of the bacterium? Toward solving this long-standing problem, the project will integrate experiments on macroscopic model flagella with experiments on microscopic living bacteria and state-of-the-art numerical simulations. Through a systematic and iterative approach, the project aims to resolve the underlying fluid-mechanics principles governing the complex dynamics of bacterial flagellar bundles and uncover their effects on bacterial swimming. The project will provide good opportunities for recruiting undergraduate students from a minority-serving college in frontier research and for designing scientific demonstrations on bacterial swimming for outreach activities. &lt;br/&gt;&lt;br/&gt;The goal of this project is to understand the synchronization and collective dynamics of multiple flagella in a bacterial bundle. Particularly, the project aims to reveal how multiple flagella synchronize to form a functioning bundle – an indispensable process for the swimming and chemotaxis of a large class of bacteria – and illustrate the collective dynamics of flagella in the bundle. More specifically, the project will construct the most accurate scale experiments to date with previously unexplored features, which will provide a benchmark to develop an immersed-boundary numerical model for simulating flagellar dynamics at different scales. The predictions of both the scale experiments and numerical simulations will be finally compared with microscopic experiments on real bacteria. More broadly, the work will shed light onto the origin of hydrodynamic synchronization and facilitate the development of engineering techniques for tailoring the synchronized dynamics of micron-sized objects. Beyond the specific scientific and engineering questions, the project will expand the limited toolbox to tackle challenging issues associated with low-Reynolds-number fluid-structure interactions. A versatile experimental platform and a quantitative numerical model will be delivered to the research community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415406</AwardID>
+<Investigator>
+<FirstName>Sookkyung</FirstName>
+<LastName>Lim</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sookkyung Lim</PI_FULL_NAME>
+<EmailAddress><![CDATA[sookkyung.lim@uc.edu]]></EmailAddress>
+<NSF_ID>000174558</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Cincinnati Main Campus]]></Name>
+<CityName>CINCINNATI</CityName>
+<ZipCode>452202872</ZipCode>
+<PhoneNumber>5135564358</PhoneNumber>
+<StreetAddress><![CDATA[2600 CLIFTON AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DZ4YCZ3QSPR5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CINCINNATI UNIV OF</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DZ4YCZ3QSPR5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Cincinnati Main Campus]]></Name>
+<CityName>CINCINNATI</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>452202872</ZipCode>
+<StreetAddress><![CDATA[2600 CLIFTON AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144300</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~195656</FUND_OBLG>
+</Award>
+</rootTag>

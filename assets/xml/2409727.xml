@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Building Trust in Astrophysical Gravitational Wave Inference - Modelling Uncertainties and Tests of General Relativity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project is jointly funded by the Gravitational Physics program and the Established Program to Stimulate Competitive Research (EPSCoR). With the advent of Gravitational Wave astronomy in the last decade, a new means of observing the most extreme processes in the Universe has appeared. From a century of detailed studies into General Relativity as the preferred theory of gravitation, predictive models for what gravitational waves might be observable have been readily available for use in analyses capable of inferring the astrophysical properties of the observed systems, which so far primarily have been binary systems of black holes and/or neutron stars. While these gravitational wave models are accurate enough to not introduce systematic biases in observations made with current observatories, as those observatories improve in sensitivity these models have been shown to fail in recovering the unbiased astrophysics governing the observed gravitational waves. Additionally, if it turns out that General Relativity itself is not the final theory of gravitation, any actual observable deviation away from General Relativity could easily be masked by such a systematic model bias. Being able to both describe and account for model inaccuracies will increase the trustworthiness in both current and future astrophysical gravitational wave observations as well as enable new and robust studies into the validity of theories beyond General Relativity. A major goal of this award is the training of of students in analysis, astrophysics, and project management skills necessary to complete their respective projects, while also immersing them in a collaborative research environment at the leading edge of gravitational-wave science. This award will also focus on increasing the involvement and retention of STEM (focusing on gravitational astrophysics) students from communities local to UNLV that have traditionally been under-represented. This will be achieved by creating a set of bridge programs, to increase the fraction of STEM students from under-represented minorities at the graduate level to match the fraction of undergraduate students from those groups.&lt;br/&gt;&lt;br/&gt;This award supports the development, testing, and implementation of a set of analyses incorporating Bayesian inference to estimate the astrophysical source parameters of compact-object binary coalescences as observed using gravitational waves. These developments will focus on incorporating the capability of accounting for and mitigating uncertainties, inaccuracies, and biases inherent to the assumed gravitational wave signal models, with the explicit goal of increasing the robustness and trustworthiness of the inferred astrophysics. With a more robust understanding of the overall astrophysical analysis, described through General Relativity, it will also be possible to search for beyond-General Relativity signatures. Inferring compact-object binary source parameters is one of the cornerstones of modern gravitational-wave astrophysics, a set of analyses on which nearly all astrophysical statements derived from gravitational-wave observations are based. Hence, as the sensitivity of the current (and future) gravitational-wave detectors increases, the requirements for the fidelity of the models used in the analyses will increase significantly. The combination of methodology and astrophysical deliverables within this award will provide both the necessary breadth and depth necessary for preparing gravitational-wave research for the exciting future to come.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409727</AwardID>
+<Investigator>
+<FirstName>Carl-Johan Olof</FirstName>
+<LastName>Haster</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carl-Johan Olof Haster</PI_FULL_NAME>
+<EmailAddress><![CDATA[carl.haster@unlv.edu]]></EmailAddress>
+<NSF_ID>000915967</NSF_ID>
+<StartDate>07/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Nevada Las Vegas]]></Name>
+<CityName>LAS VEGAS</CityName>
+<ZipCode>891549900</ZipCode>
+<PhoneNumber>7028951357</PhoneNumber>
+<StreetAddress><![CDATA[4505 S MARYLAND PKWY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<StateCode>NV</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NV01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLUTVJJ15U66</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOARD OF REGENTS OF NEVADA SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>F995DBS4SRN3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Nevada Las Vegas]]></Name>
+<CityName>LAS VEGAS</CityName>
+<StateCode>NV</StateCode>
+<ZipCode>891549900</ZipCode>
+<StreetAddress><![CDATA[4505 S MARYLAND PKWY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NV01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124300</Code>
+<Text>Gravity Exp. &amp; Data Analysis</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>069Z</Code>
+<Text>Windows on the Universe (WoU)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~150000</FUND_OBLG>
+</Award>
+</rootTag>

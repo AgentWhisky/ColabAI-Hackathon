@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: Workshop on Translational Research on Data Heterogeneity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>16000.00</AwardTotalIntnAmount>
+<AwardAmount>16000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tapabrata Maiti</SignBlockName>
+<PO_EMAI>tmaiti@nsf.gov</PO_EMAI>
+<PO_PHON>7032925307</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Workshop on Translational Research on Data Heterogeneity is scheduled to take place at the University of Washington at St. Louis, April 6 -- 7, 2024. In this digital age, large-scale data offer many new opportunities, holding great promise for researchers and decision-makers to understand important variations among sub-populations (i.e., data heterogeneity), explore associations between features and rare outcomes (e.g., rare diseases or extreme events), and make optimal personalized recommendations in areas of immediate practical relevance such as precision medicine and social programs. The proposed workshop focuses on data heterogeneity to tap into the true potential of information-rich data.&lt;br/&gt;&lt;br/&gt;There exist formidable computational and statistical challenges in the analysis of heterogenous data. Some of the key barriers include scalability to data size and dimensionality, deep exploration of heterogeneity and structures in the data, need for robustness and replicability, and the ability to make sense of incomplete observations (e.g., due to censoring). The proposed workshop will serve as a platform for bringing some of the leading scholars in statistics and data science together to exchange new research ideas and to train the next-generation data scientists in the analysis of heterogeneous data.  The workshop will convene interdisciplinary researchers to discuss the forefront of heterogeneous data analysis and identify emerging areas for future research, emphasizing both methodology and applications.&lt;br/&gt;&lt;br/&gt;Please visit https://sds.wustl.edu/events/workshop-translational-research-data-heterogeneity for updates.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406154</AwardID>
+<Investigator>
+<FirstName>Lan</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lan Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[lanwang@mbs.miami.edu]]></EmailAddress>
+<NSF_ID>000210683</NSF_ID>
+<StartDate>01/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xuming</FirstName>
+<LastName>He</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xuming He</PI_FULL_NAME>
+<EmailAddress><![CDATA[hex@wustl.edu]]></EmailAddress>
+<NSF_ID>000295346</NSF_ID>
+<StartDate>01/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Washington University]]></Name>
+<CityName>SAINT LOUIS</CityName>
+<ZipCode>63110</ZipCode>
+<PhoneNumber>3147474134</PhoneNumber>
+<StreetAddress><![CDATA[ONE BROOKINGS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L6NFUM28LQM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WASHINGTON UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Washington University]]></Name>
+<CityName>SAINT LOUIS</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>63110</ZipCode>
+<StreetAddress><![CDATA[ONE BROOKINGS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~16000</FUND_OBLG>
+</Award>
+</rootTag>

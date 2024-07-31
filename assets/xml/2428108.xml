@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF: Small: Memory Hiearachy Optimizations Meet Transformers (MITTEN)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anindya Banerjee</SignBlockName>
+<PO_EMAI>abanerje@nsf.gov</PO_EMAI>
+<PO_PHON>7032927885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Today, there is an increasing need for running powerful Artificial Intelligence (AI) models on mobile phones. Many of the latest generation of AI models (including ChatGPT and Gemini) follow what is known as the transformer architecture. Similar to what has been seen in optimizing various workloads on different computing devices, a class of optimizations related to memory hierarchy is extremely important for the efficient execution of transformer-based models on modern mobile devices. This project is based on the premise that features of these workloads and characteristics of mobile devices require not only the application of existing techniques from compiler literature but also the development of new methods. The project’s novelties are in considering such workload and architecture combination and proposing techniques related to choosing new layouts, removing redundant layout changes that slow down execution, performing memory allocation judiciously to improve performance, and dealing with the newest accelerators. The project’s impacts are helping bring the latest advances in Artificial Intelligence (AI) on mobile and edge devices, letting these advances reach more individuals, and contributing to compiler and runtime support literature by developing new methods. &lt;br/&gt;&lt;br/&gt;In targeting memory hierarchy-related optimizations for transformers, we observe that compared to the previous generation of deep learning-based models, transformers have more data flow splits, shuffles, merges, and transpose/reshape(-like) operations. Thus, various compilation systems targeting deep learning developed in the past decade fall short with respect to memory-related transformations, especially with a global view of the problem. This project builds on top of the investigators’ recent work developing a comprehensive framework for removing relayout operations and delivering significantly better performance for transformer models. Building on this work, the following agenda is being undertaken: Performance (Cost) Models -- a detailed performance model for execution on mobile GPUs is being developed, which will especially be novel in capturing the locality behavior of a 2.5D cache; Formal Approaches to Transformations – more formal approaches for the same set of optimizations (e.g., replacing a relayout operator) are undertaken, including both polyhedral formulation and computation-data graph-based approaches; Layout Transformation in View of New Instructions – as newer processors are increasingly offering matrix (or tensor)-based instructions, which have their own specific data layout requirements, memory performance-related problems in view of these requirements are undertaken; and Memory Management for Dynamic Models --focusing on emerging dynamic models, computation ordering, memory allocation, and memory fragmentation problems are investigated. The investigators are working towards creating more synergy between compiler research (especially memory/cache modeling and tuning) and ML-model development communities. The research on large-scale Machine Learning and Deep Learning transformation/implementation techniques is to be incorporated into courses taught by the investigators.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2428108</AwardID>
+<Investigator>
+<FirstName>Wei</FirstName>
+<LastName>Niu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wei Niu</PI_FULL_NAME>
+<EmailAddress><![CDATA[wniu@uga.edu]]></EmailAddress>
+<NSF_ID>000966643</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gagan</FirstName>
+<LastName>Agrawal</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gagan Agrawal</PI_FULL_NAME>
+<EmailAddress><![CDATA[gagrawal@uga.edu]]></EmailAddress>
+<NSF_ID>000230838</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Georgia Research Foundation Inc]]></Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress><![CDATA[310 E CAMPUS RD RM 409]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NMJHD63STRC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia]]></Name>
+<CityName>ATHENS</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306021589</ZipCode>
+<StreetAddress><![CDATA[310 EAST CAMPUS RD.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7943</Code>
+<Text>PROGRAMMING LANGUAGES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~600000</FUND_OBLG>
+</Award>
+</rootTag>

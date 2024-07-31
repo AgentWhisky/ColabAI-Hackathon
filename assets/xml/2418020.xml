@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Effective Equations for Large Systems of Interacting Particles or Waves]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/15/2023</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>153617.00</AwardTotalIntnAmount>
+<AwardAmount>73249</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The project will focus on understanding and predicting the qualitative behavior of large systems of interacting particles or waves. This is a problem of fundamental importance in mathematical physics, with a wide range of applications: from gas and galactic dynamics to social networks, and from solid state physics and plasma theory to water waves and oceanography. With the size of the systems of interacting particles or waves being large, a deterministic description of their behavior is not feasible, and it is necessary to resort, via a branch of mathematics called kinetic theory, to an averaging description. In this context, the investigator aims to develop analytical and computational tools to describe the properties of such systems by means of averaging quantities and provide a statistically accurate prediction of their evolution in time. The project will offer training and mentoring opportunities for undergraduate and graduate students.&lt;br/&gt; &lt;br/&gt;The idea behind kinetic theory is to identify macroscopic properties of a large system and to study their asymptotic behavior as the size of the system tends to infinity, with the intent of finding limiting effective equations, which in turn will reveal properties observed in a system of large but finite size. In the case of interacting particles, this is achieved by the Boltzmann equation, in wave turbulence theory by the wave kinetic equation. This project will expand this program to include: the derivation and analysis of kinetic equations for phenomena not covered by Boltzmann equation, for instance multiple particle interactions in non-ideal gases or mixture of gases, the derivation of wave kinetic equations in the inhomogeneous setting, as well addressing the question of local and global well-posedness in wave turbulence theory.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418020</AwardID>
+<Investigator>
+<FirstName>Ioakeim</FirstName>
+<LastName>Ampatzoglou</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ioakeim Ampatzoglou</PI_FULL_NAME>
+<EmailAddress><![CDATA[ia847@nyu.edu]]></EmailAddress>
+<NSF_ID>000868220</NSF_ID>
+<StartDate>02/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY Baruch College</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100105585</ZipCode>
+<PhoneNumber>6463122211</PhoneNumber>
+<StreetAddress>1 BERNARD BARUCH WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CBKYNSMGNDD5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CUNY Baruch College]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100105585</ZipCode>
+<StreetAddress><![CDATA[1 BERNARD BARUCH WAY # D509]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~73249</FUND_OBLG>
+</Award>
+</rootTag>

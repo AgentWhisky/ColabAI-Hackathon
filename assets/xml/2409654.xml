@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Democratizing Numerical Relativity: Advancing Binary Black Hole Simulations on Consumer-Grade Hardware]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>180000.00</AwardTotalIntnAmount>
+<AwardAmount>180000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project is jointly funded by the Division of Physics Gravitational Physics program and the Established Program to Stimulate Competitive Research (EPSCoR). This award brings high-fidelity binary black hole (BBH) simulations, traditionally the domain of supercomputing, into the realm of consumer-grade hardware, greatly broadening participation in this scientific research. BlackHoles@Home (BH@H) implements innovative computational techniques to reduce memory and computational demands by 40 to 100 times, making it possible to perform these simulations on everyday computers. As a result, this project deepens our understanding of BBH mergers, the most frequently observed sources of gravitational waves. By democratizing access to this technology, BH@H promotes the progress of science, enabling a diverse group of students, educators, and researchers to engage in gravitational wave source modeling irrespective of their resources. Additionally, its integration into a public volunteer computing effort supports the national interest by engaging the public in scientific discovery and providing educational tools that demystify complex astrophysical phenomena, thereby serving as a cost-effective supplement to existing supercomputing facilities.&lt;br/&gt;&lt;br/&gt;Building on the new BlackHoles@Home (BH@H) numerical relativity (NR) code, this award advances the accessibility and utility of NR simulations on consumer-grade hardware. By implementing a highly efficient, dynamic multi-patch numerical grid, the project significantly reduces the memory and computational demands traditionally associated with binary black hole (BBH) simulations. This enables the execution of high-fidelity simulations within the resource constraints of consumer-grade computing hardware, opening up opportunities for widespread participation in this exciting gravitational wave science. The award also supports the development of enhanced NR tools and techniques, including a solver capable of generating extreme-BBH and beyond-general relativity initial data. Through these advances, the project promises to significantly expand the accessibility of NR, providing valuable resources to the scientific community and enhancing the capacity for groundbreaking gravitational wave research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/20/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409654</AwardID>
+<Investigator>
+<FirstName>Zachariah</FirstName>
+<LastName>Etienne</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zachariah B Etienne</PI_FULL_NAME>
+<EmailAddress><![CDATA[zetienne@uidaho.edu]]></EmailAddress>
+<NSF_ID>000544205</NSF_ID>
+<StartDate>05/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Idaho]]></Name>
+<CityName>MOSCOW</CityName>
+<ZipCode>838449803</ZipCode>
+<PhoneNumber>2088856651</PhoneNumber>
+<StreetAddress><![CDATA[875 PERIMETER DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<StateCode>ID</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ID01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QWYKRJH5NNJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF IDAHO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Idaho]]></Name>
+<CityName>MOSCOW</CityName>
+<StateCode>ID</StateCode>
+<ZipCode>838449803</ZipCode>
+<StreetAddress><![CDATA[875 PERIMETER DR MS 3020]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ID01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124400</Code>
+<Text>Gravity Theory</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>069Z</Code>
+<Text>Windows on the Universe (WoU)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~180000</FUND_OBLG>
+</Award>
+</rootTag>

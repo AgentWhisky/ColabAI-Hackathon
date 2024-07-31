@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Synthetic and Mechanistic Studies of Nickel-Catalyzed 1,2-Dicarbofunctionalization of Alkenes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>575000.00</AwardTotalIntnAmount>
+<AwardAmount>200238</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jon Rainier</SignBlockName>
+<PO_EMAI>jrainier@nsf.gov</PO_EMAI>
+<PO_PHON>7032924753</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With the support of the Chemical Synthesis Program in the Division of Chemistry, Professor Keary Engle of The Scripps Research Institute and Professor Peng Liu of the University of Pittsburgh are studying the development of new chemical reactions to streamline the production of valuable compounds, including medicinally relevant molecules, agrochemicals, and functional materials. The reactions that are being studied simultaneously form new bonds among three widely available feedstock chemicals using earth abundant nickel catalysts. This collaborative project will combine insights from experiment, computation, and machine learning to identify optimal catalysts that link alkenes to two additional carbon-centered building blocks to rapidly build molecular complexity. These activities will provide cutting-edge interdisciplinary training for a diverse group of graduate, undergraduate, and high school students who will learn from the two PIs and their research groups. Professor Engle, Professor Liu and their research teams will also lead synergistic outreach activities to promote engagement with science and technology among diverse populations. Planned efforts include implementing virtual reality and other modern computer technologies to teach chemical concepts in the classroom and in the local community, creating open-access online databases and short courses to share know-how in computational organic chemistry, and involving undergraduate and high school interns from historically underrepresented groups in collaborative research experiences. &lt;br/&gt;&lt;br/&gt;Multicomponent coupling reactions promoted by base metal catalysts are important processes that combine the advantages of efficiency, sustainability, and selectivity. Professors Engle and Liu are developing nickel-catalyzed, three-component, cross-coupling reactions to unite alkenes, aromatic and alkyl halides, and organometallic reagents. The products of these transformations are densely functionalized, contain one or more stereocenters, and map onto architectures that are useful in laboratories in academia and industry. This collaborative research project leverages the combined expertise of the Engle lab in experimental organometallic chemistry with the Liu lab in computational organic chemistry to study reaction mechanisms, design chiral ligands for asymmetric induction, and predict catalyst performance from in silico descriptors.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400359</AwardID>
+<Investigator>
+<FirstName>Peng</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peng Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[pengliu@pitt.edu]]></EmailAddress>
+<NSF_ID>000698041</NSF_ID>
+<StartDate>05/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Keary</FirstName>
+<LastName>Engle</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Keary M Engle</PI_FULL_NAME>
+<EmailAddress><![CDATA[keary@scripps.edu]]></EmailAddress>
+<NSF_ID>000753817</NSF_ID>
+<StartDate>05/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[The Scripps Research Institute]]></Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920371000</ZipCode>
+<PhoneNumber>8587848653</PhoneNumber>
+<StreetAddress><![CDATA[10550 N TORREY PINES RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>PHZJFZ32NKH4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SCRIPPS RESEARCH INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Scripps Research Institute]]></Name>
+<CityName>LA JOLLA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920371000</ZipCode>
+<StreetAddress><![CDATA[10550 NORTH TORREY PINES RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>687800</Code>
+<Text>Chemical Synthesis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090Z</Code>
+<Text>CAS-Critical Aspects of Sustainability</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~200238</FUND_OBLG>
+</Award>
+</rootTag>

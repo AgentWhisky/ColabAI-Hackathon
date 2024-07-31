@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II:  4D Flightpath-Based Autonomous Separation Assurance Systems (ASAS)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>999919.00</AwardTotalIntnAmount>
+<AwardAmount>999919</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ela Mirowski</SignBlockName>
+<PO_EMAI>emirowsk@nsf.gov</PO_EMAI>
+<PO_PHON>7032922936</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase II project is enabling efficient, safe, and cost effective deconfliction of dense Uncrewed Aerial Vehicle (UAV) operations. Widespread usage of UAVs is expected to bring significant societal benefits. The UAVs that are anticipated to be utilized for package delivery are estimated to have lower carbon impact than their ground transport counterparts. Delivery drones are currently used for life saving delivery of organs and medications. UAVs currently used for inspection provide safer and more economical alternatives to traditional inspection techniques. To safely get to the flight densities that capture the true societal and economic potential of UAVs, robust autonomous air traffic management solutions are needed. The technology that will be commercialized in this project will fill this need for the emerging UAV market by providing reliable and fast aerial conflict detection and suggestion of conflict avoidance maneuvers. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase II project will focus on improving the autonomous Air Traffic Management (ATM) technology developed in the SBIR Phase I project and extending the system to include a wider range of Uncrewed Aerial Vehicle (UAV) operations. Improvements to the ATM technology will include improved fault tolerance, improved consideration of UAV capabilities when suggesting aerial conflict avoidance maneuvers, adding flight planning tools, and using optimization techniques to avoid compounding aerial conflicts. Common open-source UAV mission descriptions, developing international standards for the sharing of UAV flight intent, and data sources providing updates of UAV positions will be infused into the ATM technology to detect and avoid aerial conflicts with a more diverse set of UAVs. The result of this SBIR Phase II project will be a safe, reliable, and feature rich software product for providing autonomous ATM services to UAV operators.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/20/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404858</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Thompson</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joseph G Thompson</PI_FULL_NAME>
+<EmailAddress><![CDATA[jgt.4DAvSys@gmail.com]]></EmailAddress>
+<NSF_ID>000822946</NSF_ID>
+<StartDate>06/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[4-D AVIONIC SYSTEMS, LLC]]></Name>
+<CityName>MANHATTAN</CityName>
+<ZipCode>665026233</ZipCode>
+<PhoneNumber>7853172131</PhoneNumber>
+<StreetAddress><![CDATA[301 S 4TH ST STE 200]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DXJ1EQ2HBEB5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>4-D AVIONIC SYSTEMS LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[4-D AVIONIC SYSTEMS, LLC]]></Name>
+<CityName>MANHATTAN</CityName>
+<StateCode>KS</StateCode>
+<ZipCode>665026233</ZipCode>
+<StreetAddress><![CDATA[301 S 4TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537300</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>059P</Code>
+<Text>SCIENCE IN MOTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~999919</FUND_OBLG>
+</Award>
+</rootTag>

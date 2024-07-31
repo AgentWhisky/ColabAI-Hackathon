@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CPS: Small: Neuro-Symbolic Bridge: From Perception to Estimation & Control]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>229988.00</AwardTotalIntnAmount>
+<AwardAmount>229988</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pavithra Prabhakar</SignBlockName>
+<PO_EMAI>pprabhak@nsf.gov</PO_EMAI>
+<PO_PHON>7032922585</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Modern cyber-physical systems (CPS) are increasingly neuro-symbolic. A typical CPS control pipeline consists of 1) neural networks (NNs), used to process raw high-dimensional data, such as camera images, and 2) downstream symbolic components, such as state estimation and control, that take the NNs' output in order to close the loop. However, there is a fundamental mismatch between the uncertainty on the NN outputs and the assumptions of the downstream components. NNs are known to be vulnerable to even minor input perturbations and distribution shifts that make it hard to characterize the properties of NN outputs. In turn, such robustness issues violate the symbolic tasks' assumptions and guarantees, thus compromising the overall system safety and predictability. The project’s novelties are neuro-symbolic calibration and training methods that aim to repair the fundamental neuro-symbolic mismatch. The project's impacts are safer and more predictable CPS with NN perception across a variety of CPS domains, including transportation, agriculture, and medicine. The research would enable the application of powerful symbolic tasks (e.g., resilient state estimation and robust control) to modern perception-based CPS where the presence of NNs might otherwise violate the symbolic tasks' assumptions. On the educational front, the investigators will co-develop a graduate course on NN calibration that will expose students to the adverse effects of miscalibration in modern CPS and ways to combat it.&lt;br/&gt;&lt;br/&gt;The main innovation of this project is the formalizing of the connection between calibration, training and neuro-symbolic methods, especially in the CPS domain. There is a need for a CPS calibration framework that: 1) is robust to data artifacts such as temporary sensor faults; 2) provides calibrated outputs that are consistent with system dynamics over time; and 3) considers the assumptions of the downstream symbolic task. We provide a general framework for combining standard (neural) calibration losses with symbolic losses that aims to align the NN outputs with the assumptions of the downstream symbolic tasks. The research agenda consists of two directions: (i) extrinsic neuro-symbolic calibration to align the uncertainty in NNs with the subsequent symbolic tasks without retraining the NNs, and (ii) intrinsic neuro-symbolic training and calibration to simultaneously train and calibrate NNs for the subsequent symbolic tasks. Both directions are being applied to two broad classes of symbolic tasks, namely state estimation and control, for two general types of symbolic assumptions, i.e., probabilistic and bounded inputs. The benefits of neuro-symbolic calibration and training are being demonstrated on a 1/10-scale autonomous racing platform - the F1/10 car. In addition, the PIs will conduct outreach activities within Rensselaer Center for Open Source and Course-Based Undergraduate Research Experience (CURE) with the Center for Undergraduate Research at the University of Florida.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/13/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/13/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403616</AwardID>
+<Investigator>
+<FirstName>Ivan</FirstName>
+<LastName>Ruchkin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ivan Ruchkin</PI_FULL_NAME>
+<EmailAddress><![CDATA[iruchkin@ece.ufl.edu]]></EmailAddress>
+<NSF_ID>000895895</NSF_ID>
+<StartDate>06/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326111941</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress><![CDATA[1523 UNION RD RM 207]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNFQH1JAPEP3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName>GAINESVILLE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>326111941</ZipCode>
+<StreetAddress><![CDATA[1523 UNION RD RM 207]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>791800</Code>
+<Text>CPS-Cyber-Physical Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~229988</FUND_OBLG>
+</Award>
+</rootTag>

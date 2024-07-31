@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Postdoctoral Fellowship: PRFB: A phylogenetic investigation into the genetic basis of life history trait variation across eucalypts]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>249000.00</AwardTotalIntnAmount>
+<AwardAmount>249000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pankaj Jaiswal</SignBlockName>
+<PO_EMAI>pjaiswal@nsf.gov</PO_EMAI>
+<PO_PHON>7032924594</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This action funds an NSF Plant Genome Postdoctoral Research Fellowship in Biology for FY 2024. The fellowship supports a research and training plan in a host laboratory for the Fellow who also presents a plan to broaden participation in biology. The title of the research and training plan for this fellowship to Bruce Stagg Martin is "A phylogenetic investigation into the genetic basis of life history trait variation across eucalypts" The host institution for the fellowship is the University of Georgia and the sponsoring scientist is Dr. James Leebens-Mack.&lt;br/&gt;&lt;br/&gt;Eucalyptus trees are vital components of the global bioeconomy, providing wood and chemicals used to make paper, building materials, fragrances, and insect repellents. Beyond these products, eucalyptus is planted all over the world for both ornamental and practical purposes, acting as windbreaks and helping manage erosion and drainage. To support eucalyptus breeding and improvement, many scientists use modern genetic sequencing and analysis techniques to identify naturally occurring genetic variation associated with desirable traits like rapid growth, wood quality, dense wood, etc., in cultivated eucalyptus populations. Unfortunately, such approaches are impeded by the limited genetic and trait variation in widely cultivated eucalyptus species, which represent a small fraction of the over 700 eucalyptus species found across the deserts and forests of Australia. This project aims to leverage the remarkable diversity of wild eucalyptus species—which range from small, slow-growing shrubs about a meter high to fast-growing, gargantuan trees growing as tall as the length of a football field—to gain novel insights into the genetic basis of overall size, growth, and reproduction in these fascinating and economically important plants. A major focus of the project is developing and sharing new methods for correlating genetic variation with trait data across groups of distantly related species, freeing researchers to investigate the genetic basis of traits that tend to vary across—rather than within—species.&lt;br/&gt;&lt;br/&gt;The project will develop and apply novel phylogenomic comparative (PGC) and phylogenetic genotype-to-phenotype association (PhyloG2P) pipelines to comprehensively analyze the interplay of genomic and life history trait evolution in eucalypts (Myrtaceae: Angophora, Corymbia, Eucalyptus). The research will use genomic data for over 700 representative taxa generated as part of a Joint Genome Institute Community Science Program project led by Dr. Zander Myburg (University of Pretoria) along with modern phylogenomic inference pipelines to construct an updated phylogenetic framework for eucalypts, which will consist of dated phylogenies for both overall species relationships and thousands of eucalypt orthogroups (i.e., “gene” trees). The project’s first aim will leverage existing and novel PGC approaches to model the evolution of size, growth, and reproduction-related life history traits across eucalypts while explicitly incorporating information on patterns of gene tree discordance, identifying evolutionary associations among traits and environmental variables while providing insights into the genetic architecture underlying different traits. The project’s second aim will draw on PhyloG2P methods to design a novel pipeline for efficiently identifying associations between life history traits and gene family size/orthologous sequence divergence across eucalypt species while accounting for phylogenetic relatedness. Additionally, gene tree reconciliation methods will be used to examine whether inferred associations arose independently across unrelated lineages (homoplasy) or reflect discordant inheritance patterns driven by processes like introgression (hemiplasy). The project’s third aim will use these reconciliation analyses to map genotypic histories along the eucalypt species tree and fit state-dependent trait evolution models to explore whether candidate genetic variants are associated with shifts in phenotypic evolutionary dynamics. All computational tools developed for this project will be thoroughly documented and made publicly available through the lead researcher’s GitHub account: https://github.com/bstaggmartin.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410449</AwardID>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Martin</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bruce S Martin</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000987595</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Martin, Bruce Stagg]]></Name>
+<CityName>East Lansing</CityName>
+<ZipCode>48824</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia]]></Name>
+<CityName>Athens</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306025004</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>810500</Code>
+<Text>NPGI PostDoc Rsrch Fellowship</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1112</Code>
+<Text>GENES AND GENOME SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7174</Code>
+<Text>POSTDOC FELLOW IN SCI, MATH EN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7577</Code>
+<Text>PLANT GENOME RESEARCH RESOURCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9109</Code>
+<Text>AGRICULTURAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~249000</FUND_OBLG>
+</Award>
+</rootTag>

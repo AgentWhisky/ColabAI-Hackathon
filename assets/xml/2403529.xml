@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CSR:Small:Sustainable Wearable Sensing System for Continuous Tree Health Monitoring]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniel Andresen</SignBlockName>
+<PO_EMAI>dandrese@nsf.gov</PO_EMAI>
+<PO_PHON>7032922177</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Monitoring the health of living plants holds critical significance across various domains, such as precision agriculture, horticulture, and environmental conservation. Effective plant monitoring aids decision-making in agriculture related to irrigation, fertilization, pest control, and harvesting. In urban settings like parks and gardens, it improves residents’ quality of life as healthy plants improve air quality, provide shade, and contribute to aesthetics and well-being. In forestry, it allows early detection of tree stress or disease, helping prevent large-scale die-offs and promoting forest health. However, existing solutions are bulky and high maintenance and often fail to capture essential health signals like nutrient and water levels. The project’s novelties are the development of zero-maintenance, intelligent, and robust computer systems that use biocompatible sensor arrays implanted in the plant’s xylem to continuously monitor and wirelessly report water and nutrient uptake in real-time, enhancing water management and irrigation practices based on plant needs and environmental conditions. The project's broader significance and importance are demonstrated through its commitment to publicly sharing research materials online via open-source hardware and software libraries, tutorials, talks, publications, and datasets, along with the integration of sustainable computing into curriculum development, mentoring for graduate students, research experiences for undergraduates, and a summer event focused on a wind-based, battery-free coding competition.&lt;br/&gt;&lt;br/&gt;This project seeks to develop a swarm of ultra-long-lasting and zero-maintenance intelligent devices to monitor the full life cycle of a plant and provide insights into critical biological aspects such as timing and coordination of nutrient uptake and metabolism. The developed system provides real-time, highly synchronized data from which robust calibration learning models can be developed to predict water and nutrient levels to guide the water’s application, fertilizers, and chemicals. This project creates a biocompatible, ion-sensitive sensor array and installation method, develops energy-harvesting techniques for remote data transmission, and builds AI-powered calibration models to enhance sensor accuracy. The project involves designing, implementing, and testing these innovations through both in-lab and in-the-field experiments to improve plant health monitoring and inform practical applications in agriculture and environmental management.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403529</AwardID>
+<Investigator>
+<FirstName>Jian</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jian Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[jliu@utk.edu]]></EmailAddress>
+<NSF_ID>000814579</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960001</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress><![CDATA[201 ANDY HOLT TOWER]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FN2YCS2YAUW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TENNESSEE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>LXG4F9K8YZK5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>KNOXVILLE</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>379960001</ZipCode>
+<StreetAddress><![CDATA[201 ANDY HOLT TOWER]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>295Y00</Code>
+<Text>NDCC-Natl Discvry Cloud Climat</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>735400</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>2890</Code>
+<Text>CISE RESEARCH RESOURCES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7354</Code>
+<Text>COMPUTER SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

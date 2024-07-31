@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: RI: Medium: Hard Data to the Model: Personalized, Diverse Preferences for Language Models]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>59782.00</AwardTotalIntnAmount>
+<AwardAmount>59782</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tatiana Korelsky</SignBlockName>
+<PO_EMAI>tkorelsk@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Tens of millions of Americans interact with artificial intelligence (AI) tools to find information, answer questions, or help them solve problems. One key drawback of these systems is lack of personalization: since modern AI systems do not know whom they are talking to, they can only give generic answers to user questions. But the answer to the question “why is the sky blue?” should be different if the person asking the question is a college student or a young child. This project aims to enable an AI model to provide more appropriate responses to users depending on their unique backgrounds, experiences, and needs. It will first gather a diverse dataset in order to characterize what kinds of responses are preferred by different people. The project will then use these data to develop AI systems that can tailor their answers to individual users, as well as evaluate how well the AI systems personalize responses. To achieve this personalization, the AI systems will learn to explicitly represent the kind of person they are talking to, based on their background or previous interactions, and then use this representation to generate an appropriate response. This project will result in AIs that can provide personalized, specific responses based on the person asking the question as well as resources that will help other personalize AIs.  These resources will include datasets of personalized questions and answers, interfaces and visualizations to understand why AI provides specific responses over others; interviews and discussions with community members to understand their needs; and code and models that will allow others to build, train, and deploy personalized AI systems.&lt;br/&gt;&lt;br/&gt;While large language models (LLMs) trained on massive datasets have shown impressive performance on a variety of tasks, they still exhibit biases and struggle to be equally useful for everyone.  While initially pre-trained on a language modeling objective, most LLMs are further fine-tuned to align their outputs with human preferences.  However, existing techniques assume a “one size fits all” approach, ignoring diversity in user needs. This project will first construct probes to detect cases where models fail to adapt to the diverse needs of different users. Then, this project will develop Personalized Feedback for Diverse Populations (PFDP) to identify when models should be sensitive to the unique needs, knowledge, and background of users by examining the training trajectory of models and comparing models' answers to human preferences. PFDP will enable the development of models that can detect examples that are difficult for computers but not for humans, explain why such disparities in difficulty exist, and represent users’ needs and preferences within the model. To correct those shortcomings in the data, we focus on data curation: we propose techniques to automatically create new examples that ask questions about under-represented groups or require targeted responses to create adversarial prompt and response pairs with a human in the loop.  Finally, with these new data, we develop techniques to allow modern architectures to make the most of these difficult (but few) examples.  These techniques will allow for fine-tuning LLMs with a small curated subset of data that is robust to variations in prompts and will lead to the generation of acceptable answers for a diverse population of users.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403439</AwardID>
+<Investigator>
+<FirstName>Alvin</FirstName>
+<LastName>Grissom</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME>II</PI_SUFX_NAME>
+<PI_FULL_NAME>Alvin C Grissom</PI_FULL_NAME>
+<EmailAddress><![CDATA[acgrissom@gmail.com]]></EmailAddress>
+<NSF_ID>000860449</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Haverford College]]></Name>
+<CityName>HAVERFORD</CityName>
+<ZipCode>190411336</ZipCode>
+<PhoneNumber>6108961000</PhoneNumber>
+<StreetAddress><![CDATA[370 W LANCASTER AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QAP9NNDEWGZ8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE CORPORATION OF HAVERFORD COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Haverford College]]></Name>
+<CityName>HAVERFORD</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>190411336</ZipCode>
+<StreetAddress><![CDATA[370 W LANCASTER AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>749500</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~59782</FUND_OBLG>
+</Award>
+</rootTag>

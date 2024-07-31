@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II: Detection of High-Risk Lightning Strikes for Wildland Fire Management]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>955736.00</AwardTotalIntnAmount>
+<AwardAmount>955736</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase II project includes a notable reduction in the area burned by lightning-initiated wildfires. Such wildfires are responsible for over 70% of the area burned in the environmental catastrophes in the western United States. Globally, wildfires are responsible for 6.45 Gigatons of CO2 emissions annually (18% of total emissions). This technology can identify a fire in seconds, unlike the present heat or smoke identification products that can take hours or days.  This would help in significantly reducing loss of life, habitats, property, and forests. The reduction of wildfires would reduce large evacuations and smoke-related health conditions, thereby improving the health and welfare of the American public. Additional benefits could come for businesses and homeowners from lower insurance rates due to the decreased risk of wildfire damage. If such a technology is implemented in California alone, it has the potential to reduce economic losses by an estimated $84B-$112B per year.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The intellectual merit of this project lies in the ground-based characterization of Extremely-Low-Frequency (ELF) lightning emissions through electrostatic field changes to identify Long-Continuing Current (LCC) strikes, with a 95% target detection efficiency with 40 m accuracy. Long-continuing-currents are those that last for 40 ms or longer and are essentially responsible for excessive heating. Wildfires start when a long-continuing-current strikes the ground at a location where the environmental conditions are conducive for fire ignition. The project will use machine learning algorithms to pinpoint High-Risk-Lightning ignitions, by analyzing the environmental conditions at the LCC strike location. While Phase I has successfully demonstrated the technical feasibility of the ELF-based detection of LCC on a relatively flat landscape, Phase II of the project will focus on research for the technology’s deployment in diverse fire-prone terrains, including hilly or mountainous landscapes, with vastly different topographical, connectivity, and forest conditions, with minimal loss of the lightening detection range.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403902</AwardID>
+<Investigator>
+<FirstName>Istvan</FirstName>
+<LastName>Kereszy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Istvan Kereszy</PI_FULL_NAME>
+<EmailAddress><![CDATA[info@fireneuralnetwork.com]]></EmailAddress>
+<NSF_ID>000846472</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[HELIOS POMPANO INC]]></Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326017160</ZipCode>
+<PhoneNumber>9546811770</PhoneNumber>
+<StreetAddress><![CDATA[747 SOUTHWEST 2ND AVENUE]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 169]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RNNJYSF1JBS8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>HELIOS POMPANO INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[HELIOS POMPANO INC]]></Name>
+<CityName>Gainesville</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>326016279</ZipCode>
+<StreetAddress><![CDATA[747 SW 2nd Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537300</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1238</Code>
+<Text>TECH FOR SUSTAINABLE ENVIRONMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~955736</FUND_OBLG>
+</Award>
+</rootTag>

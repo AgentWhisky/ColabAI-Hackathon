@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CNS Core: Medium: Innovating Volumetric Video Streaming with Motion Forecasting, Intelligent Upsampling, and QoE Modeling]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>187115</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jason Hallstrom</SignBlockName>
+<PO_EMAI>jhallstr@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Volumetric video is an emerging type of multimedia content. Unlike traditional videos and 360-degree videos that are two-dimensional (2D), every frame in a volumetric video consists of a three-dimensional (3D) scene or object represented by a 3D model such as a point cloud or a polygon mesh. The 3D nature of volumetric video enables viewers to move with six degrees of freedom, leading to a truly immersive viewing experience. However, compared to conventional videos, streaming volumetric videos over the Internet faces unique challenges: a lack of precise motion tracking, extremely high bandwidth consumption, a lack of quality-of-experience (QoE) models, and complex interactions among network, computation, and motion. This project proposes a holistic research agenda addressing the above challenges through four core approaches: multi-dimension, multi-modality motion sensing and prediction; deep-learning-based content upsampling; comprehensive QoE modeling; and resource/motion adaptation. The project aims at demonstrable systems and networking research with a synergy among multimedia systems, networking, wireless sensing, machine learning, computer vision, and graphics. The research team will develop prototypes and evaluate them in real-world settings. &lt;br/&gt;&lt;br/&gt;Internet video streaming is playing a key role in today's world, especially during the COVID-19 pandemic. As a key enabler of immersive telepresence, volumetric content will become popular in the near future. The techniques developed from this project will significantly reduce network resource usage and improve the user experience for volumetric content delivery over the Internet. This will benefit both producers and consumers of volumetric videos, as well as boost their applications in various domains such as education, telehealth, manufacturing, and entertainment, ultimately leading to a high impact on societies and economies. The project will also offer new education components, and provide a platform for various Broadening Participation in Computing (BPC) activities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/06/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>12/06/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409008</AwardID>
+<Investigator>
+<FirstName>Feng</FirstName>
+<LastName>Qian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Feng Qian</PI_FULL_NAME>
+<EmailAddress><![CDATA[fengqian@usc.edu]]></EmailAddress>
+<NSF_ID>000787087</NSF_ID>
+<StartDate>12/06/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern California</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900890701</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress>3720 S FLOWER ST FL 3</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900894304</ZipCode>
+<StreetAddress><![CDATA[3720 S FLOWER ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7354</Code>
+<Text>COMPUTER SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~187114</FUND_OBLG>
+</Award>
+</rootTag>

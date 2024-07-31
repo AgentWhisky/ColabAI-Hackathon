@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Postdoctoral Fellowship: MPS-Ascend: Randomized Algorithms in Numerical Linear Algebra for Rank-Structured Matrix Compression]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Swatee Naik</SignBlockName>
+<PO_EMAI>snaik@nsf.gov</PO_EMAI>
+<PO_PHON>7032924876</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Dr. Katherine Pearce is awarded a National Science Foundation Mathematical and Physical Sciences Ascending Postdoctoral Research Fellowship (NSF MPS-Ascend) to conduct a program of research, education, and activities related to broadening participation by groups underrepresented in STEM. This fellowship supports the research project entitled "MPS-Ascend: Randomized Algorithms in Numerical Linear Algebra for Rank-Structured Matrix Compression." The project activities will be conducted at the host institution, the Oden Institute for Computational Engineering and Sciences at the University of Texas at Austin, under the mentorship of Dr. Per-Gunnar Martinsson.&lt;br/&gt;&lt;br/&gt;Dr. Pearce will develop and analyze randomized algorithms to compute low-rank factorizations of matrices said to have rank structure, which are ubiquitous in scientific computing. Such matrices can be tessellated into submatrices either well-approximated by low-rank matrices or small enough for dense algorithms. Dr. Pearce will investigate how to compute these factorizations from randomized sketches in black-box problem environments lacking explicit matrix representations, where only fast matrix-matrix multiplication is available. In addition to her research efforts, Dr. Pearce will broaden STEM participation by continuing to teach free, credit-bearing college math courses at a local state prison through the Texas Prison Education Initiative, with a tailored educational plan to lead a cohort of incarcerated students through upper-division UT-Austin mathematics courses.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401889</AwardID>
+<Investigator>
+<FirstName>Katherine</FirstName>
+<LastName>Pearce</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Katherine J Pearce</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000952436</NSF_ID>
+<StartDate>04/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Pearce, Katherine Joyce]]></Name>
+<CityName>Austin</CityName>
+<ZipCode>78712</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Texas at Austin]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121229</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>187Y00</Code>
+<Text>ASCEND - MPS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7487</Code>
+<Text>BROADENING PARTICIPATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7715</Code>
+<Text>BROADENING PARTICIPATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~200000</FUND_OBLG>
+</Award>
+</rootTag>

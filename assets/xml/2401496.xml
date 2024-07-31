@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Proposal: SaTC: Frontiers: Center for Distributed Confidential Computing (CDCC)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>880000.00</AwardTotalIntnAmount>
+<AwardAmount>266735</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Xiaogang (Cliff)  Wang</SignBlockName>
+<PO_EMAI>xiawang@nsf.gov</PO_EMAI>
+<PO_PHON>7032922812</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Advances in AI and big data analytics rely on data sharing, which can be impeded by privacy concerns. Most challenging in privacy protection is protection of data-in-use, since even encrypted data needs to be decrypted before it can be utilized, thereby exposing data content to unauthorized parties. A practical and scalable solution to the challenge will transform computing, enabling unprecedented capabilities such as confidential outsourcing, trusted computing services, and confidential or privacy-preserving collaboration. In quest of such a holy grail of data protection, this frontier project establishes multi-institution and multi-disciplinary Center for Distributed Confidential Computing (CDCC) to create a research, education, knowledge transfer and workforce development environment that enables scalable, practical, verifiable and usable data-in-use protection based upon Trusted Execution Environments (TEE) on cloud and edge systems.&lt;br/&gt; &lt;br/&gt;CDCC focuses on four building block thrusts fundamental to distributed confidential computing (DCC), regardless of specific TEE hardware, including assurance of TEE code, assurance of TEE nodes, assurance of a TEE workflow and assurance for the stakeholder. The first thrust leads to an open ecosystem for TEE code certification, not relying on any trusted party but on a trustworthy application store whose certification operations are public, accountable and verifiable. The second thrust aims to develop novel dynamic data-use policy models and enforcement mechanisms for scalable trust management and data control on the TEE nodes running certified code. The third thrust focuses on ensuring protection of the computational workflow built on TEE nodes and the last thrust studies the stakeholder's preference and expectations to guide the design of DCC technologies and ensure their usability. On top of these building blocks, the center explores various transformative applications (e.g., confidential distributed AI supports for healthcare) to be enabled. CDCC also has a number of efforts for outreach (development of a massive open online course, industry collaboration, etc.) and for broadening participation (security and privacy lab for attracting minority students, joint summer schools and others).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>10/17/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>10/17/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401496</AwardID>
+<Investigator>
+<FirstName>Danfeng</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Danfeng Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[zhang@cse.psu.edu]]></EmailAddress>
+<NSF_ID>000702947</NSF_ID>
+<StartDate>10/17/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8087</Code>
+<Text>Frontiers in SaTC</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~74436</FUND_OBLG>
+<FUND_OBLG>2023~192299</FUND_OBLG>
+</Award>
+</rootTag>

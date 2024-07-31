@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Dynamics of Fluids with Singular Interfaces]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>167711.00</AwardTotalIntnAmount>
+<AwardAmount>167711</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In many problems of physical importance, such as the modeling of hot plasmas, the study of the gravitational collapse of stars, or the motion of waves on the surface of the ocean, one encounters fluids surrounded by an interface which is not prescribed ahead of time but instead is free to move along with the fluid. The main mathematical difficulty in these problems lies in understanding the interplay between the dynamics of the fluid and the geometry of the interface. The aim of this project is to develop tools for the study of these problems and to deepen our knowledge of how these interfaces influence the dynamics of fluid models. This award will also provide opportunities for the involvement of undergraduate students in the research projects.  &lt;br/&gt;&lt;br/&gt;This award will develop new mathematical tools to tackle problems involving free-surface fluid flows. The first project concerns the study of plasmas in the laboratory setting and is connected with the problem of "magnetic confinement fusion", which seeks to control a hot plasma by using powerful magnetic fields for the purposes of harnessing fusion reactions in the core. The mathematical challenge is to identify and construct magnetic fields which are effective at confining hot plasmas. The difficulty is that generic plasma configurations can possess a complicated mixture of invariant surfaces and chaotic regions. The second project concerns the long-time dynamics of self-gravitating fluids. One major obstruction to understanding the long-time behavior of these objects is the existence of a large and complicated family of periodic solutions. The PI will study the stability of these objects as the next step towards understanding the long-time behavior of liquids with free boundary.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406852</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Ginsberg</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel Ginsberg</PI_FULL_NAME>
+<EmailAddress><![CDATA[daniel.ginsberg@brooklyn.cuny.edu]]></EmailAddress>
+<NSF_ID>000950849</NSF_ID>
+<StartDate>05/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[CUNY Brooklyn College]]></Name>
+<CityName>BROOKLYN</CityName>
+<ZipCode>112102850</ZipCode>
+<PhoneNumber>7189515622</PhoneNumber>
+<StreetAddress><![CDATA[2900 BEDFORD AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XNAKYW3FTSE1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CUNY Brooklyn College]]></Name>
+<CityName>BROOKLYN</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>112102850</ZipCode>
+<StreetAddress><![CDATA[2900 BEDFORD AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~167711</FUND_OBLG>
+</Award>
+</rootTag>

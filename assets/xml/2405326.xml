@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Hydrodynamic Theory of Environmental Averaging and Self-organization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>280000.00</AwardTotalIntnAmount>
+<AwardAmount>280000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Many mathematical models of swarming behavior reflect the tendency of every agent to adjust its velocity to an averaged direction of motion of the crowd around.  Such examples are abundant in biology, dynamics of human crowds, social networking, and even in technology (coordinated fight of an escort of UAVs or satellite navigation). Although the laws that describe the average may not be given explicitly, most adhere to a few basic principles. First, agents react more to the closest neighbors, and second, the density of the swarm plays a constructive role in defining particular communication rules. Such rules give rise to what is called "environmental averaging".   Large swarms regulated by environmental averaging are governed by models similar to those we use to study motion of a liquid like water or gas.  Thanks to this connection a new trend emerged in the studies of collective behavior which looks at these phenomena from the point of view of hydrodynamic modeling. This project proposes to analyze hydrodynamic collective models aiming at understanding their fundamental mathematical properties and with a view towards their applications to collective phenomena. In parallel with the research effort, the project will involve students and researchers through a working group seminar on the mathematics of collective behavior at the University of Illinois at Chicago. &lt;br/&gt;&lt;br/&gt;Central to the project will be the development of a general methodology that unifies numerous models. Focus will be placed on justification of a class hydrodynamic models called Euler Alignment System and its kinetic counterpart the Fokker-Planck-Alignment model.  We aim to provide a justification for such systems going from particle dynamics through the mean-field limit and into macroscopic description through various hydrodynamic limits. It will be possible to obtain new barotropic pressure laws which have proved to be useful in real life modeling. Exploiting parallels with the classical theory of fluids we plan to study collective outcomes described by natural thermodynamic equilibria of the system, and to bring the regularity theory of such systems to the level usable in the studies of long-time behavior of the system.  Applications of this research are numerous including opinion mean-field games, segregation modeling, and modeling of turbulent phenomena in 2D inviscid fluids.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2405326</AwardID>
+<Investigator>
+<FirstName>Roman</FirstName>
+<LastName>Shvydkoy</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roman V Shvydkoy</PI_FULL_NAME>
+<EmailAddress><![CDATA[shvydkoy@uic.edu]]></EmailAddress>
+<NSF_ID>000394755</NSF_ID>
+<StartDate>05/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606124305</ZipCode>
+<PhoneNumber>3129962862</PhoneNumber>
+<StreetAddress><![CDATA[809 S MARSHFIELD AVE M/C 551]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>W8XEAJDKMXH3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606124305</ZipCode>
+<StreetAddress><![CDATA[809 S MARSHFIELD AVE M/C 551]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~280000</FUND_OBLG>
+</Award>
+</rootTag>

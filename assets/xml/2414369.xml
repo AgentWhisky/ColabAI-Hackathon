@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Data-Driven Representation, Analysis, and Control of Nonlinear Process Dynamics: A State-Space Framework]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2025</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>330130.00</AwardTotalIntnAmount>
+<AwardAmount>330130</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Catherine Walker</SignBlockName>
+<PO_EMAI>cawalker@nsf.gov</PO_EMAI>
+<PO_PHON>7032927125</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Efficient and high-performance control of chemical processes is critical to the safety, sustainability, and economic interest of industrial sectors. Some processes, called nonlinear processes, are more difficult to control because they exhibit more complex behaviors. Additionally, establishing accurate equations completely from physical and chemical principles is unrealistic in these situations. This project aims to develop direct data-driven, namely model-free, methodology for nonlinear control, based on the principle that control-relevant information underlying the nonlinear dynamics can be statistically learned from process data. The focus of this project is on the combination of learning and control theories underpinning (1) the observation of unmeasured (hidden) states, (2) the analysis of unknown dynamics, as well as (3) the synthesis of optimal controllers, in a generic, physically meaningful, and performance-guaranteed framework. The algorithms and methods of this project will be tested with benchmark systems and finally developed into computer codes for practical implementation. Outcomes of this project are expected to facilitate a “big data” transformation of industrial control technology that features time-flexible workflows and increasing workforce diversity. The research outcomes will also be used in the design of a new graduate-level course on machine learning for chemical engineers and incorporated into the existing undergraduate-level process control course, both aiming to improve the “data literacy” of chemical engineering students. In addition, the project will involve outreach activities, including the PI’s lectures at local high schools and NC State’s Engineering Summer Camp, to motivate younger generations to pursue higher studies and careers in STEM. &lt;br/&gt;&lt;br/&gt;State-space descriptions of nonlinear dynamics should be used for data-driven control to guarantee physical interpretability and achieve optimal control. The goals of this research program include the following aspects: (1) the development of model-free state observers, i.e., dynamical routines that reconstruct the hidden state trajectories based on the input and output measurements, through machine learning over typical nonlinear observer structures, (2) the analysis and prediction of state-space dynamical behaviors, e.g., bifurcation, chaos, and conservation laws, through a global linearization of nonlinear dynamics as Koopman operators defined on function spaces, and (3) the learning of input-output dissipative properties, where physical constraints are used to enforce conformity to first principles and conic optimization methods are leveraged to synthesize stabilizing and rigorously performance-guaranteed controllers. This data-driven framework is end-to-end (i.e., from data processing to the final control) and thus suitable for implementation in real-world processes. To verify the practicality of the proposed technical approaches, three representative systems – a computational fluid dynamics (CFD) reactor simulator, a Belousov-Zhabotinsky reactive system with video data, and a hydrogel manufacturing device with lab measurements – will be used as benchmarks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414369</AwardID>
+<Investigator>
+<FirstName>Wentao</FirstName>
+<LastName>Tang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wentao Tang</PI_FULL_NAME>
+<EmailAddress><![CDATA[wtang23@ncsu.edu]]></EmailAddress>
+<NSF_ID>000881222</NSF_ID>
+<StartDate>07/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276950001</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NVH931QJJ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276950001</ZipCode>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>140300</Code>
+<Text>Proc Sys, Reac Eng &amp; Mol Therm</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~330130</FUND_OBLG>
+</Award>
+</rootTag>

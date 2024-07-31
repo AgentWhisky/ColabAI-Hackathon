@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FRR: Social and Contextual Models of Interaction with Everyday Robots]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>747744.00</AwardTotalIntnAmount>
+<AwardAmount>747744</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cang Ye</SignBlockName>
+<PO_EMAI>cye@nsf.gov</PO_EMAI>
+<PO_PHON>7032924702</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The long-term goal of this project is to enable seamless integration of robots into people’s everyday environments. Robots can assist people in many ways, including guiding tours in museums, escorting travelers to their flight gates in airports, and stocking and delivering supplies for nurses in the hospital. These robots will inevitably commit social norm violations accidently. They might get closer to people than is comfortable, or move in ways that are surprising and unexpected. Such errors, if left unresolved, could have a lasting effect on how people perceive robots. Social understanding can be challenging; context plays an important role in social norms. There is limited prior work focused on the studies related to norms in human robot interaction. Norms, such as appropriate distances between human and robots, are hard-coded into the robot behavior. Behavioral strategies that enable robots to adapt to new circumstances are needed to help the robots adapt to contextually- and culturally-dependent norms. This makes it more possible to use robots in assisting people in everyday scenarios. &lt;br/&gt;&lt;br/&gt;This project enables robot systems to infer when they have committed a social norm violation by observing the social reactions of the people around them. Through field study deployments of physical cart and bin robots developed by the researchers, we collect naturalistic datasets of human-robot interactions in real-world settings, specifically hospitals and cafes. These interactions will be labeled as norm violations or not. This naturalistic dataset will support the development of data-driven approaches that allow robots to infer correct behavior based on bystander reactions. This project builds algorithms to enable robots to recognize when they commit social norm violations and develop strategies for recovering and repairing broken interactions using large language models. The research team will evaluate these algorithms on trashcan and cart robots in cafe and hospital environments by comparing how users respond to robots that attempt to repair social interactions after violations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423127</AwardID>
+<Investigator>
+<FirstName>Wendy</FirstName>
+<LastName>Ju</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wendy Ju</PI_FULL_NAME>
+<EmailAddress><![CDATA[wendyju@cornell.edu]]></EmailAddress>
+<NSF_ID>000746785</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Angelique</FirstName>
+<LastName>Taylor</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Angelique M Taylor</PI_FULL_NAME>
+<EmailAddress><![CDATA[amt298@cornell.edu]]></EmailAddress>
+<NSF_ID>000875282</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress><![CDATA[341 PINE TREE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148502820</ZipCode>
+<StreetAddress><![CDATA[341 PINE TREE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144Y00</Code>
+<Text>FRR-Foundationl Rsrch Robotics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6840</Code>
+<Text>ROBOTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~747744</FUND_OBLG>
+</Award>
+</rootTag>

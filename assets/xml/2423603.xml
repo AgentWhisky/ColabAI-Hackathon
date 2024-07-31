@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Revolutionizing Optical Communications from Ground to Space with Novel ZBLAN Manufacturing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>274999.00</AwardTotalIntnAmount>
+<AwardAmount>274999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vincent Lee</SignBlockName>
+<PO_EMAI>vinlee@nsf.gov</PO_EMAI>
+<PO_PHON>7032925041</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Phase I Small Business Innovation Research (SBIR) project builds upon the unique properties of ZBLAN, short for Zirconium-Barium-Lanthanum-Aluminum-Sodium fluorides, which boast many advantageous properties, including a wide transparency window, superior optical transmission loss, and small phonon energy when compared to state-of-the-art silica. ZBLAN can unlock radical performance improvements for telecommunication products, fiber lasers, and remote sensors. However, commonplace manufacturing techniques cannot develop ZBLAN without light-scattering defects, rendering glass to applications but ineffective for many of the most important ones. Based on modern automation, robotics, and processing techniques, this project builds a path to manufacturing this fiber to limit the growth of light-scattering defects. Moreover, the manufacturing process is further enhanced when performed in space. Due to the exceptional characteristics of microgravity, it is possible to produce a ZBLAN product devoid of scattering defects, offering a transformational leap in optical transmission capabilities. After successful preliminary tests, this project will develop the necessary hardware to develop ZBLAN at scale, both on Earth and in microgravity. This project is expected to catalyze a high growth, high throughput, scalable and profitable in-space production process with meaningful societal impact.&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to develop an instrument capable of rapidly casting molten ZBLAN glass through minute-scale apertures, aiming to streamline manufacturing by eliminating bubbles and restricting defect growth. This project seeks to overcome the challenges historically hindering ZBLAN optical preform production. The approach will produce high-value products that can radically improve optical capabilities by identifying a method to create precise preform core dimensions. Currently, state-of-the-art manufacturing processes lack the accuracy and standardization required to meet ZBLAN's stringent tolerances. This project leverages extensive theoretical calculations to optimize the melting, casting, and annealing of ZBLAN, which is crucial for minimizing crystalline defects and maximizing transparency. By leveraging novel automation techniques, harnessing the unique properties of microgravity, and effectively managing heat loads, this project is pioneering the in-space manufacturing industry, as demonstrated by the company's recent ISS experiment where astronauts pulled ~10km of ZBLAN in space. The project will develop an automated ZBLAN manufacturing technology to enable scalable terrestrial and in-space ZBLAN production. It will allow the company to develop new optical products - starting with free-space mid-wave infrared optical links. This innovative approach is poised to pioneer in-space manufacturing and propel the development of high-value ZBLAN products.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423603</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Vestel</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael J Vestel</PI_FULL_NAME>
+<EmailAddress><![CDATA[michael.vestel@flawlessphotonics.com]]></EmailAddress>
+<NSF_ID>000843644</NSF_ID>
+<StartDate>04/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[FLAWLESS PHOTONICS, INC.]]></Name>
+<CityName>HUNTINGTON BEACH</CityName>
+<ZipCode>926485579</ZipCode>
+<PhoneNumber>4088358545</PhoneNumber>
+<StreetAddress><![CDATA[19345 BROOKTRAIL LN]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA47</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GUT1N1AX8513</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLAWLESS PHOTONICS, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Flawless Photonics Inc.]]></Name>
+<CityName>Reno</CityName>
+<StateCode>NV</StateCode>
+<ZipCode>895112099</ZipCode>
+<StreetAddress><![CDATA[5470 Kietzke Lane, Suite 300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NV02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1218</Code>
+<Text>ADVANCED TECHNOLOGIES &amp; INSTRM</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~274999</FUND_OBLG>
+</Award>
+</rootTag>

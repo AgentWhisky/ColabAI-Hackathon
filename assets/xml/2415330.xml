@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF/FET: 2.5D/3D Heterogeneous Integration of In-Pixel and Near-Pixel Compute Chiplets]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>520000.00</AwardTotalIntnAmount>
+<AwardAmount>520000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+<PO_EMAI>sabasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927843</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Personal computers and mobile phones have been the primary platforms for interaction with the digital world, pervading every corner of the modern society in the past few decades. Augmented Reality/Virtual Reality (AR/VR) is regarded as the general human-oriented computing platform for the next decade. In the smart headset, eye tracking provides crucial information on human perception, and it is a key pillar that supports many AR/VR applications such as displays, user interfaces, and foveated rendering. Hence, real-time processing of eye tracking workloads is critical, but modern eye tracking algorithms are much slower than the desired specifications (over an order of magnitude slower). Eye movements including saccade dynamics are one of the fastest movements in human body. Therefore, to accurately track eye movements, we need to perform image segmentation tasks at a very high frame rate (&gt;1000 frames per second, FPS). However, this involves a large amount of data movement between the image sensor and the processor that performs the segmentation tasks. In the current practice, integration of frontend complementary-metal-oxide-semiconductor (CMOS) image sensor and backend microprocessor is slow and inefficient as they are generally placed in separate packages. To efficiently perform high frame rate processing, in-pixel and near-pixel compute paradigms have been proposed to reduce the latency and energy consumption from the costly data movements to provide &gt;100× reduction in communication latency by placing compute close to the source of data. The outcome of this award will have synergies with other national efforts to revamp domestic semiconductor research and development under the CHIPS and Science Act. Besides the AR/VR applications, tracking fast eye movements could be useful in biomedical applications such as early diagnosis of Alzheimer’s and Parkinson’s diseases. The objective of the research and education integration is to train the next generation of workforce with domain expertise and interdisciplinary skills in the broad area of semiconductor device, integrated circuit and advanced packaging. &lt;br/&gt;&lt;br/&gt;This award aims to advance the software-hardware co-design for in-pixel and near-pixel compute for eye tracking in AR/VR applications. A multi-mode image sensor that supports eye tracking is proposed, featuring a successive frame differencing method for the event map generation with in-pixel compute chiplet. It will be capable of providing both an event map at a higher frame rate as well as a full resolution image at a lower frame rate. Moreover, the near-pixel compute chiplet will run eye tracking inference with dual-mode deep neural networks for both high accuracy and high frame rate. The proposed research activities also include exploring the fundamental device technologies such as characterizing the amorphous oxide semiconductor transistor for pixel read-out circuitry and exploring the advanced packaging techniques for system-level heterogeneous integration. Silicon tape-outs are planned to validate the in-pixel and near-pixel compute chiplets with a pathway for heterogeneous integration on a silicon interposer.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415330</AwardID>
+<Investigator>
+<FirstName>Shimeng</FirstName>
+<LastName>Yu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shimeng Yu</PI_FULL_NAME>
+<EmailAddress><![CDATA[shimeng.yu@ece.gatech.edu]]></EmailAddress>
+<NSF_ID>000656063</NSF_ID>
+<StartDate>06/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303186395</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320415</ZipCode>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>089Y00</Code>
+<Text>FET-Fndtns of Emerging Tech</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>086Z</Code>
+<Text>Neuromorphic Computing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~520000</FUND_OBLG>
+</Award>
+</rootTag>

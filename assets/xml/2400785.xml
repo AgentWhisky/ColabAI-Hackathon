@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Integrating Multi-Omics Biological Networks and Ontologies for lncRNA Function Annotation using Deep Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephanie Gage</SignBlockName>
+<PO_EMAI>sgage@nsf.gov</PO_EMAI>
+<PO_PHON>7032924748</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Long non-coding RNAs (lncRNAs) are a class of ribonucleic acid (RNA) molecules longer than 200 nucleotides that do not encode proteins but play important regulatory roles in various biological and cellular processes such as cancer metastasis, therapeutic targets, immune responses, chromatin remodeling, and embryonic development. Despite exciting findings in recent years, the functions of most lncRNAs remain largely unknown as they are often transcribed from non-coding regions of the genome. Their functions are not always clear and lack conservation across species.  The project aims to develop an efficient graph neural network method called Layer-stacked ATTention Embedding to Gene Ontology (LATTE2GO) to reliably annotate lncRNA functions describing each with various gene ontology features including molecular function, biological process, and cellular component. Research activities will engage minorities, women, and undergraduates performing interdisciplinary research through the Girl Engineering Summer Camp, Louis Stokes Alliances for Minority Participation Summer Research Academy, and the McNair programs at the University of Texas at Arlington. &lt;br/&gt;&lt;br/&gt;The research will aggregate gene ontology structure and multiple interactions between genes, transcripts, and proteins as a knowledge graph containing heterogeneous relationships. The project will (1) extract higher-order multi-omics interrelations from heterogenous interactions as well as multi-relational associations; (2) develop representation learning of lncRNA functions from multiple relationships in the hierarchical gene ontology within the same message-passing framework; and (3) explore attention graph neural networks to effectively aggregate heterogeneous interactions and gene ontology term pertinencies.  By extracting higher-order associations and weighting them via attention, LATTE2GO aims to achieve significant gains over previous graph-based function prediction techniques. In addition, the architecture has the advantage of learning features directly from complete hierarchical ontology and connecting with lncRNA network relations in an end-to-end manner. The novel framework could be extended to integrating multiple heterogeneous data sources for generic computational and data science problems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/28/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>03/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400785</AwardID>
+<Investigator>
+<FirstName>Jean</FirstName>
+<LastName>Gao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jean Gao</PI_FULL_NAME>
+<EmailAddress><![CDATA[gao@uta.edu]]></EmailAddress>
+<NSF_ID>000289614</NSF_ID>
+<StartDate>11/28/2023</StartDate>
+<EndDate>03/12/2024</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Junzhou</FirstName>
+<LastName>Huang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Junzhou Huang</PI_FULL_NAME>
+<EmailAddress><![CDATA[jzhuang@uta.edu]]></EmailAddress>
+<NSF_ID>000608846</NSF_ID>
+<StartDate>03/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Arlington</Name>
+<CityName>ARLINGTON</CityName>
+<ZipCode>760199800</ZipCode>
+<PhoneNumber>8172722105</PhoneNumber>
+<StreetAddress>701 S NEDDERMAN DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMLUKUPJJ9N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT ARLINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Arlington]]></Name>
+<CityName>ARLINGTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>760199800</ZipCode>
+<StreetAddress><![CDATA[701 S. NEDDERMAN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>089Y</Code>
+<Text>FET-Fndtns of Emerging Tech</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7931</Code>
+<Text>COMPUTATIONAL BIOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

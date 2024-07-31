@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[ATD: Multiscale Anomaly Detection in Spatio-Temporal Multilayer Networks Encoding Human Mobility]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/15/2023</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Wilmer</SignBlockName>
+<PO_EMAI>ewilmer@nsf.gov</PO_EMAI>
+<PO_PHON>7032927021</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Human mobility data from anonymized mobile phone devices are becoming increasingly available, enabling the detection of anomalies and potential threats from human movements. Due to the massive scale of data, it is difficult to detect anomalies that occur at different spatial and temporal resolutions. In addition, human movements are often associated with different categories of places (e.g., grocery stores and schools), and anomalies that are evident in one category may be obscure in another. This project will furnish new mathematical models and theories for encoding different categories of human movements as spatial-temporal multilayer networks. It will develop new algorithms to detect movement-pattern anomalies, which can help better forewarn anomalous events concerning national security. It will also advance our understanding of the impacts of anomalous and disastrous events on different categories of human movements. This project will contribute toward education by supporting graduate students and will facilitate interdisciplinary research between mathematics and geography. Open-source software tools will be implemented and publicly shared to help researchers and decision makers better predict, detect, and plan responses to future anomalous events. &lt;br/&gt;&lt;br/&gt;To represent human movements in different categories and effectively detect the associated anomalies, the investigators will pursue three targets in this project. Target 1 will develop spatial-temporal multilayer network models encoding anonymized mobile phone location data of the United States. The network-structural properties associated with both normal and expected anomalous situations (e.g., holidays) will be extensively examined to develop a family of realistic generative models. Target 2 will build algorithms to detect and characterize movement-pattern anomalies based on the multilayer network models using unsupervised spectral algorithms. Random matrix theory will be employed to obtain theoretic guidelines for how to optimally preprocess data to maximize the “detectability” of anomalies at different spatial and temporal resolutions. Target 3 will apply the developed multilayer network models and anomaly detection algorithms to two case studies, to further refine our models and algorithms and to gain new insights into the evolutions and impacts of the two important events.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/19/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>02/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401276</AwardID>
+<Investigator>
+<FirstName>Yingjie</FirstName>
+<LastName>Hu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yingjie Hu</PI_FULL_NAME>
+<EmailAddress><![CDATA[yhu42@buffalo.edu]]></EmailAddress>
+<NSF_ID>000815460</NSF_ID>
+<StartDate>02/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dane</FirstName>
+<LastName>Taylor</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dane R Taylor</PI_FULL_NAME>
+<EmailAddress><![CDATA[dane.taylor@uwyo.edu]]></EmailAddress>
+<NSF_ID>000630934</NSF_ID>
+<StartDate>12/19/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Wyoming]]></Name>
+<CityName>LARAMIE</CityName>
+<ZipCode>820712000</ZipCode>
+<PhoneNumber>3077665320</PhoneNumber>
+<StreetAddress><![CDATA[1000 E UNIVERSITY AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wyoming</StateName>
+<StateCode>WY</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WY00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FDR5YF2K32X5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WYOMING</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FDR5YF2K32X5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wyoming]]></Name>
+<CityName>LARAMIE</CityName>
+<StateCode>WY</StateCode>
+<ZipCode>820712000</ZipCode>
+<StreetAddress><![CDATA[1000 E UNIVERSITY AVE DEPARTMENT 3434]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wyoming</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WY00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>046Y00</Code>
+<Text>ATD-Algorithms for Threat Dete</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>X19300</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>6877</Code>
+<Text>ALGORITHMS IN THREAT DETECTION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324RB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~250000</FUND_OBLG>
+</Award>
+</rootTag>

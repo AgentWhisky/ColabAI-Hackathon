@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: Topological Machine Learning and Cryo-EM]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>249885.00</AwardTotalIntnAmount>
+<AwardAmount>249885</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitry Golovaty</SignBlockName>
+<PO_EMAI>dgolovat@nsf.gov</PO_EMAI>
+<PO_PHON>7032922117</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With AI-powered algorithms like Chat GPT, self-driving cars, and social media recommendation algorithms playing a larger and larger role in our lives, entertainment, health, and industry, understanding them is more important now than ever. Many of these technologies are powered by a tool called deep learning, and knowing how to make deep learning work better is  one of the biggest questions at the heart of modern machine learning. Within this project, the investigator uses tools from the mathematical fields of topology and geometry to further explain how deep learning works. By identifying new symmetries and capabilities of neural networks, the investigator improves our understanding of machine learning and draws connections between modern topics in mathematics and foundational questions. Additionally, the project's theoretical developments are performed with an eye toward an important application area in biology, cryogenic electron microscopy (cryo-EM). Cryo-EM is a technology used to find the structure of proteins, viruses, and drugs. The investigator also partners with Jefferson High School of Sioux Falls, South Dakota, to engage, excite, and enrich the lives of rural, economically disadvantaged, and racially underrepresented students. The investigator gives highly mathematically curious young students an avenue to explore interesting mathematics beyond what they see in class and foster the growth of mathematical talent at a young age. In this way, the investigator develops tripartite scientific efforts, where math, machine learning, and biology work in tandem while engaging local youths to promote mathematical learning and excitement.&lt;br/&gt; &lt;br/&gt;In this project, the investigator focuses on topological machine learning, which studies what kinds of symmetries and geometric structures a neural network may represent, as well as how existing architectures can be tweaked to be made more rigorous. Recent work by the investigator shows that neural networks may represent discrete symmetries in a fairly general setting, but there are gaps, such as the case of continuous symmetries modeled as a fiber bundle of a manifold, quantitative approximation estimates, or the application of these networks for the (infinite-dimensional) operator learning setting. Filling these gaps is the core of this project. The investigator also studies the inverse problem at the heart of heterogeneous cryogenic electron imaging (cryo-EM). Here, particle images of an unknown heterogeneous sample may be modeled as a fiber bundle on a particular base manifold, where the fiber (T) represents a sample's configuration space. By modeling the recovery problem as a map-learning problem where an unknown map with domain the base manifold times T and codomain the image space. The recovery problem is then to learn an embedding that matches the empirical distribution of image data. This perspective is under-explored in the existing literature and is compatible with the efforts to elucidate topological machine learning in this project. In this way, the insights from topological machine learning are used to gain insight into heterogeneous cryo-EM as a specific use case for a deeper understanding of topological machine learning. This project is jointly funded by the Launching Early-Career Academic Pathways in the Mathematical and Physical Sciences Program and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418909</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Puthawala</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael A Puthawala</PI_FULL_NAME>
+<EmailAddress><![CDATA[michael.puthawala@sdstate.edu]]></EmailAddress>
+<NSF_ID>000914641</NSF_ID>
+<StartDate>07/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[South Dakota State University]]></Name>
+<CityName>BROOKINGS</CityName>
+<ZipCode>570070001</ZipCode>
+<PhoneNumber>6056886696</PhoneNumber>
+<StreetAddress><![CDATA[940 ADMINISTRATION LN]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Dakota</StateName>
+<StateCode>SD</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SD00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DNZNC466DGR7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOUTH DAKOTA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[South Dakota State University]]></Name>
+<CityName>BROOKINGS</CityName>
+<StateCode>SD</StateCode>
+<ZipCode>570070001</ZipCode>
+<StreetAddress><![CDATA[1015 Campanile Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Dakota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SD00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>217Y00</Code>
+<Text>LEAPS-MPS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~249885</FUND_OBLG>
+</Award>
+</rootTag>

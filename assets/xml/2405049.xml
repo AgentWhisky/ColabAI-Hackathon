@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHINE: Active Longitudes: Window in the Dynamo?]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>582399.00</AwardTotalIntnAmount>
+<AwardAmount>582399</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Womack</SignBlockName>
+<PO_EMAI>mwomack@nsf.gov</PO_EMAI>
+<PO_PHON>7032922620</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will examine the origin of “active longitudes”, which are regions on the Sun’s surface where magnetic fields tends to emerge. The team will analyze available data from the National Solar Observatory’s Global Oscillation Network Group (GONG) to constrain models of the solar dynamo, which is an electric generator in the Sun’s interior. This project will also produce numerical simulations which will be compared with the GONG data to improve predictions of velocity and magnetic field strength across the Sun. This research will test predictions of solar convection, which is the process by which energy is liberated from the Sun. It will also probe how convection is connected to coronal mass ejections, which are giant magnetic solar storms that can cause significant damage to electrical systems on Earth. The work has potential implications improving predictions for space weather and for understanding how other stars shine. The project will help train an early-career researcher in solar astrophysics and high performance computing techniques. &lt;br/&gt;&lt;br/&gt;The investigators will accomplish this work by using three-dimensional magnetohydrodynamical numerical simulations to investigate the physical conditions under which active magnetic longitudes arise. They will also analyze 17 years of GONG magnetogram data which provides polarized interferometry of the Ni I line at 6768 Angstroms to generate maps of line-of-sight Doppler velocity and magnetic field strength across the solar disk. The maps are produced with a spatial resolution of 5 arc seconds and a 60-second cadence to record changes over time. Finally, they will intercompare the simulations and data to constrain models of the solar dynamo and coronal mass ejections.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2405049</AwardID>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Featherstone</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nicholas A Featherstone</PI_FULL_NAME>
+<EmailAddress><![CDATA[feathern@boulder.swri.edu]]></EmailAddress>
+<NSF_ID>000838574</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Southwest Research Institute]]></Name>
+<CityName>SAN ANTONIO</CityName>
+<ZipCode>782385166</ZipCode>
+<PhoneNumber>2105222231</PhoneNumber>
+<StreetAddress><![CDATA[6220 CULEBRA RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>PB11V1KH3KV4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOUTHWEST RESEARCH INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Southwest Research Institute]]></Name>
+<CityName>SAN ANTONIO</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>782385166</ZipCode>
+<StreetAddress><![CDATA[6220 CULEBRA RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152300</Code>
+<Text>SOLAR-TERRESTRIAL</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~582399</FUND_OBLG>
+</Award>
+</rootTag>

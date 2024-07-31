@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Frameworks: Building a national integrated watershed evaluation framework: A community platform to improve model evaluation and decision making]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>1143430.00</AwardTotalIntnAmount>
+<AwardAmount>1143430</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marlon Pierce</SignBlockName>
+<PO_EMAI>mpierce@nsf.gov</PO_EMAI>
+<PO_PHON>7032927743</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Water is a critical national resource for drinking, growing food, and industry.  Computer simulation, or modeling, is a key way that the amount, movement, and future availability of water is calculated.  The United States has a relative abundance of hydrologic observations, but they are collected and managed in diverse ways that hinder comprehensive understanding. Major components of the hydrologic cycle are observed by different agencies, and the data are stored in different locations and formats. This makes it difficult to take advantage of the observations in a holistic way.  There are a growing number of hydrologic models that need to be compared to these observations. Those without the time or expertise to invest in data gathering and processing are left with an incomplete picture of watershed conditions, and water managers often do not have meaningful ways to evaluate the performance of water models.  This project is developing a national watershed evaluation framework over the United States.  It brings together water managers, experts in modeling and data, and federal agencies to provide a better picture of the state of watersheds and the models used to manage them.  Watersheds are rapidly evolving, and it is more important than ever to have agile ways to explore and diagnose changing conditions considering many variables at once.&lt;br/&gt;&lt;br/&gt;This project will develop the first Integrated Watershed Evaluation Framework for the United States. This cyberinfrastructure framework will bring together a wide array of hydrologic datasets covering everything from point observations such as groundwater depth and streamflow, to remote sensing of all manner of landscape variables, to human operations data such as reservoir releases and diversions. Much more than a data portal, this framework will provide tools for model evaluation and benchmarking, and a web-based user interface for easy watershed exploration by experts and non-experts alike. Both the framework and portal are community-driven, and a diverse community will be engaged throughout every step of the project. This engagement will start early through a user-centered design process and continue with hackathons, modeling residencies, user testing, and outreach events.&lt;br/&gt;&lt;br/&gt;This award by the Office of Advanced Cyberinfrastructure is jointly supported by the National Discovery Cloud for Climate initiative within the Directorate for Computer and Information Science and Engineering.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410993</AwardID>
+<Investigator>
+<FirstName>Hoshin</FirstName>
+<LastName>Gupta</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hoshin V Gupta</PI_FULL_NAME>
+<EmailAddress><![CDATA[hoshin.gupta@hwr.arizona.edu]]></EmailAddress>
+<NSF_ID>000281447</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Laura</FirstName>
+<LastName>Condon</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Laura Condon</PI_FULL_NAME>
+<EmailAddress><![CDATA[lecondon@email.arizona.edu]]></EmailAddress>
+<NSF_ID>000746391</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Arizona]]></Name>
+<CityName>TUCSON</CityName>
+<ZipCode>85721</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress><![CDATA[845 N PARK AVE RM 538]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ED44Y3W6P7B9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ARIZONA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona Board of Regents, University of Arizona]]></Name>
+<CityName>Tucson</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>857210011</ZipCode>
+<StreetAddress><![CDATA[1133 E. James E. Rogers Way]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>295Y00</Code>
+<Text>NDCC-Natl Discvry Cloud Climat</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>800400</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>077Z</Code>
+<Text>CSSI-1: Cyberinfr for Sustained Scientif</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1143430</FUND_OBLG>
+</Award>
+</rootTag>

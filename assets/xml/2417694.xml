@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Similarity of Information in Games]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>286178.00</AwardTotalIntnAmount>
+<AwardAmount>286178</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eric Bahel</SignBlockName>
+<PO_EMAI>ebahel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927858</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Recently, we have seen extraordinary changes in how information is disseminated and consumed. For instance, algorithms steer individuals to different news and video con tent based on personal characteristics, thus affecting informational similarity or diversity across people. Since rational agents make strategic decisions based on what they think others know and what they will do, these changes in the informational environment can significantly influence the outcomes of various socioeconomic events. For example, information similarity may affect whether citizens in different geographies with different information can coordinate a protest against an authoritarian government or whether investors with private information about a bank’s health decide to run on it. This project studies economic environments in which agents share a common goal but not the same information. It builds the tools to formally study changes in information similarity and how they impact incentives in strategic environments. In particular, it addresses the question of whether and when increases in information similarity facilitate achieving a common goal. The research findings will provide a better understanding of the welfare consequences of the recent changes in informational similarity, and can inform the design of policy interventions. The methodological contribution of the project will be of independent interest outside of social science in statistics.&lt;br/&gt;&lt;br/&gt;As a first step, the project develops the methodological tools to answer these questions. This involves developing a new order of information similarity that captures the simple idea that as information becomes more similar, conditional on an individual’s private information, she assigns a higher likelihood that others have observed the same information. The literature so far lacked a general measure of information similarity appropriate for incomplete information games. This new notion of information similarity is applied to study classic collective action problems in which individuals want to achieve a common goal, but also want to free-ride. Examples of collective action include protests, regime changes, or voting in committees. An individual may privately learn that reaching the goal is socially beneficial but may still not take the costly action. Her decision depends on what she believes about the information that others have and thus what they will do. The fundamental observation is that greater similarity of information among agents, even those with identical preferences, can act as a double-edged sword. On the one hand, if people believe that others are more likely to have the same information as them, they may be able to coordinate better to reach the common goal. On the other hand, the temptation to free-ride may be exacerbated: If an agent knows that others have the same information and predicts that they will take action, then she does not need to take a costly action herself. The project characterizes precisely when more similar information across individuals helps participation in collective action problems: In particular, more similar information facilitates (impedes) achieving a common goal when achieving the goal is sufficiently challenging (easy). This insight is applied to show why resilient regimes face larger protests while weak regimes face smaller protests as information becomes more similar, and why diversity in committees is beneficial when each vote carries more weight. Finally, the project studies the effect of increased information similarity on behavior in classic coordination games like a bank run. A key methodological result is an equivalence between increasing the similarity of information and expanding the set of equilibria in a class of coordination games.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417694</AwardID>
+<Investigator>
+<FirstName>Joyee</FirstName>
+<LastName>Deb</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joyee Deb</PI_FULL_NAME>
+<EmailAddress><![CDATA[joyee.deb@nyu.edu]]></EmailAddress>
+<NSF_ID>000945797</NSF_ID>
+<StartDate>06/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>132000</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~286178</FUND_OBLG>
+</Award>
+</rootTag>

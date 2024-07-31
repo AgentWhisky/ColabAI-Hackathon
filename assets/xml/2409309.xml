@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Unraveling the Mechanisms Behind the Workings of the DNA Mismatch Repair Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>900000.00</AwardTotalIntnAmount>
+<AwardAmount>900000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ishita Mukerji</SignBlockName>
+<PO_EMAI>imukerji@nsf.gov</PO_EMAI>
+<PO_PHON>7032922499</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>DNA simple sequence repeats (SSR) within the genome are unstable and tend to expand after sequence-specific thresholds. SSR expansion is a major cause of over fifty neurological and neuromuscular diseases. The trigger for expansion occurs during fundamental cellular processes,such as replication, in which DNA forms structures that are different from the standard Watson-Crick, double-stranded helix. This project seeks to uncover mechanisms that underlie SSR expansion, including the destabilizing role played by nonstandard DNA and RNA structures as well as the role of the DNA mismatch repair (MMR) system that, instead of repairing the mutations, paradoxically enhances their toxic expansions. In addition to its scientific impact, this collaborative research project will train several students. The larger Biophysics community will also benefit through continued development and support of our freely available simulation software as released via the national AMBER simulation package. Additional goals include fostering minority student education and enhancing undergraduate physics education.&lt;br/&gt;&lt;br/&gt;This collaborative project amongst three researchers will combine single-molecule fluorescence resonance energy transfer (smFRET) experiments with atomistic molecular dynamics (MD) investigations focusing on the structural, mechanistic, and dynamical aspects of nucleotide and mismatch repair (MMR) complexes to elucidate their role in SSR expansions, and the role of atypical nucleic acid structures that hijack the MMR system. Surprisingly MMR, which acts after DNA replication to maintain genomic stability, has been associated with mutagenic action related to SSRs. To understand the crucial role played by atypical nucleic acid secondary structures, the combined computational and experimental investigations will focus on DNA three-way junctions and R-loops that form during transcription. The project will map out possible dynamical pathways for R-loop generation through the interplay of negative superhelicity and relative stability of the atypical structures, such as hybrid triplexes that can form during bidirectional transcription. To unravel the workings of the DNA MMR system, the project investigates the structure and function of the complexes formed between MMR proteins and SSR DNA.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409309</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Roland</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher M Roland</PI_FULL_NAME>
+<EmailAddress><![CDATA[cmroland@ncsu.edu]]></EmailAddress>
+<NSF_ID>000203105</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Celeste</FirstName>
+<LastName>Sagui</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Celeste Sagui</PI_FULL_NAME>
+<EmailAddress><![CDATA[sagui@ncsu.edu]]></EmailAddress>
+<NSF_ID>000254584</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Keith</FirstName>
+<LastName>Weninger</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Keith R Weninger</PI_FULL_NAME>
+<EmailAddress><![CDATA[keith_weninger@ncsu.edu]]></EmailAddress>
+<NSF_ID>000346594</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276950001</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NVH931QJJ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276957214</ZipCode>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>114400</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~900000</FUND_OBLG>
+</Award>
+</rootTag>

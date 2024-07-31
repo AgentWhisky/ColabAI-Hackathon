@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Nanostructured materials for tailored magnon-spin qubit interactions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>413851.00</AwardTotalIntnAmount>
+<AwardAmount>413851</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mun Chan</SignBlockName>
+<PO_EMAI>mchan@nsf.gov</PO_EMAI>
+<PO_PHON>7032927104</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical abstract: &lt;br/&gt;&lt;br/&gt;Quantum bits or ‘qubits’ are the building blocks of quantum technologies for sensing, networking, communication, and computing. One promising platform for implementing a qubit is as an individual atomic defect in diamond, known as a nitrogen-vacancy center. The magnetic property of these defects – the spin – has robust quantum coherence, even at room temperature. Already, these defect spin qubits have found application as versatile quantum sensors in a solid-state platform. However, one of the most significant challenges facing this qubit platform is the lack of an efficient, scalable means to address and couple high density arrays of multiple qubits. Most significantly, controlled coupling between qubits is essential to realize the true promise of quantum technology through quantum entanglement. This project is working to forge a path to overcome this challenge, using nanometer-scale magnetic structures to provide strong, local, controllable magnetic fringe fields for addressing and coupling spin qubits. A primary challenge is that the same features that make a magnetic material or structure desirable often also lead to increased magnetic field noise that causes degraded qubit performance. This project is working to understand this trade-off of coupling for enhanced functionality vs. degraded coherence, and how materials and structures can be designed to optimize that trade-off. Success of this work will enable a pathway towards new solid state, room-temperature quantum technology. In doing so, a diverse cohort of students will be trained for the quantum and semiconductor workforce.&lt;br/&gt;&lt;br/&gt;Technical abstract: &lt;br/&gt;&lt;br/&gt;The hypothesis underlying this work is that there exist magnetic nanostructures whose magnetization state and magnetic excitations can be used to address and couple proximal defect spin qubits, without introducing excessive qubit decoherence. To test this hypothesis, we are working to better understand the phenomena by which magnetic nanostructures induce decoherence in a proximal spin qubit. The research team is using nitrogen-vacancy defects in diamond coupled to permalloy magnetic disks, magnetized into a vortex state, as a flexible test-bed system. With knowledge gained from this test-bed system, other materials and structures are being explored to optimize addressability and coupling vs. decoherence. For example, materials with different Gilbert damping coefficient have different magnetic noise characteristics due to the fluctuation dissipation theorem, and different nano-structures allow tuning of magnetic fringe fields and the spectrum of magnetic excitations. In particular, artificial spin ice structures provide a magnetic metamaterial platform with rich opportunities for tailoring fringe fields and magnon dynamics. Addressing the hypothesis above also requires defining the thresholds for necessary qubit addressability and coupling vs. sufficient qubit coherence. To do this, the research team is developing benchmark figures of merit for proposed applications for defect qubit entanglement.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403743</AwardID>
+<Investigator>
+<FirstName>Jesse</FirstName>
+<LastName>Berezovsky</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jesse A Berezovsky</PI_FULL_NAME>
+<EmailAddress><![CDATA[jab298@case.edu]]></EmailAddress>
+<NSF_ID>000624401</NSF_ID>
+<StartDate>06/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Case Western Reserve University]]></Name>
+<CityName>CLEVELAND</CityName>
+<ZipCode>441061712</ZipCode>
+<PhoneNumber>2163684510</PhoneNumber>
+<StreetAddress><![CDATA[10900 EUCLID AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJMKEF7EJW69</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CASE WESTERN RESERVE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Case Western Reserve University]]></Name>
+<CityName>CLEVELAND</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>441061712</ZipCode>
+<StreetAddress><![CDATA[10900 EUCLID AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>171000</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~413851</FUND_OBLG>
+</Award>
+</rootTag>

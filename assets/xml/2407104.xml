@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Coarse Geometry and Rigidity in Coxeter and Hyperbolic Groups]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>295946.00</AwardTotalIntnAmount>
+<AwardAmount>147973</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eriko Hironaka</SignBlockName>
+<PO_EMAI>ehironak@nsf.gov</PO_EMAI>
+<PO_PHON>7032927041</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Groups are algebraic structures that arise naturally not just in mathematics, but also in physics, chemistry, computer science, cryptography, and beyond.  They may arise as collections of functions, in dynamical systems or as symmetries of objects, including real-world objects such as crystals.   A deep understanding of the intrinsic properties of groups is crucial for applications to a wide variety of mathematical sub-fields, and increases the potential for wider applications.  This project seeks to use tools rooted in geometry and topology to glean information about the classification and subgroup structure of two prominent classes of groups. Activities related to the project will include mathematical research training at different levels (undergraduate, graduate and postdoctoral) and several outreach activities (aimed at local middle and high school students as well as regional undergraduate students). &lt;br/&gt;&lt;br/&gt;The objective of this project is to study Coxeter groups and hyperbolic groups from the perspective of geometric group theory. Quasi-isometric classification and rigidity of finitely generated groups are central problems in the field. While Coxeter groups have been extensively studied from algebraic, topological and combinatorial viewpoints, their rigidity properties remain relatively unexplored. This project would augment the landscape of knowledge, by developing new computable quasi-isometry invariants such as hypergraph index, and  by studying these phenomena in two very different subclasses: graphs of pseudomanifold (PM) type Coxeter groups at the hyperbolic end of the spectrum, and thick Coxeter groups on the higher rank side. Graphical discreteness, a form of rigidity of great current interest will also be studied for PM type Coxeter groups.   While the geometry of hyperbolic groups is extremely well-understood, their subgroups remain rather mysterious. This project ameliorates the situation by studying the possible distortion, Dehn functions, and boundary maps of non-quasiconvex subgroups of hyperbolic groups and constructing new examples which would provide a valuable source for testing conjectures.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Topology and Geometric Analysis program and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407104</AwardID>
+<Investigator>
+<FirstName>Pallavi</FirstName>
+<LastName>Dani</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pallavi Dani</PI_FULL_NAME>
+<EmailAddress><![CDATA[pdani@math.lsu.edu]]></EmailAddress>
+<NSF_ID>000513909</NSF_ID>
+<StartDate>05/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Louisiana State University]]></Name>
+<CityName>BATON ROUGE</CityName>
+<ZipCode>708030001</ZipCode>
+<PhoneNumber>2255782760</PhoneNumber>
+<StreetAddress><![CDATA[202 HIMES HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ECQEYCHRNKJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LOUISIANA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Louisiana State University]]></Name>
+<CityName>BATON ROUGE</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>708030001</ZipCode>
+<StreetAddress><![CDATA[202 HIMES HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~147973</FUND_OBLG>
+</Award>
+</rootTag>

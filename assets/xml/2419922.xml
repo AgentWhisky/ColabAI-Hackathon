@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps Teams: Development of Flow Sensors for Fluid Dynamics Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Molly Wasko</SignBlockName>
+<PO_EMAI>mwasko@nsf.gov</PO_EMAI>
+<PO_PHON>7032924749</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is based on the development of an innovative flow sensor system designed to measure fluid flow speed. Currently, most sensors rely on mechanical devices that are large in size and measure via rotation, which can disrupt flow rates in pipes. However, the rising demand for miniaturized and rapidly responsive sensors has resulted in new innovations in flow sensing technology. The sensor system investigated in this project incorporates miniaturization technology, swift detection of minor variations in fluid flow, and automated data collection. With smaller size, greater functionality, and multiplex design, these sensors ensure continuous data collection even in the event of a device malfunction.  The solution is also effective for measuring high-speed performance, such as applications in aerospace, introducing the potential for advanced systems with superior functionalities. These advances not only address current market needs but also open new market opportunities in fluid flow sensing including gas transport systems, aerospace vehicles, and domestic water flow sensing. &lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. The solution is based on the development of an innovative flow sensor technology tailored for fluid dynamics applications. This innovation enables rapid sensing of fluid flow through miniaturized devices. The technology introduces the design and fabrication of a novel thin film-based piezoresistive device capable of detecting fluid flow velocity. The manufacturing process involves coating two-dimensional nanomaterials onto a microfabricated sensor substrate and signal collection, offering advantages such as batch processing capability, array device fabrication, and integration with state-of-the-art integrated circuit manufacturing processes. This sensor system's versatility in a wide temperature range opens up numerous industrial applications, including gas transport systems, aerospace vehicles, and domestic water flow sensing. The ability to function in motionless mechanical environments enhances reliability and durability under hazardous conditions like elevated temperatures and corrosion. The technological novelty lies in the use of two-dimensional nanomaterials, significantly improving sensing properties and providing substantial sensitivity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/06/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/06/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419922</AwardID>
+<Investigator>
+<FirstName>Ahalapitiya</FirstName>
+<LastName>Jayatissa</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ahalapitiya H Jayatissa</PI_FULL_NAME>
+<EmailAddress><![CDATA[ajayati@utnet.utoledo.edu]]></EmailAddress>
+<NSF_ID>000297988</NSF_ID>
+<StartDate>05/06/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Toledo]]></Name>
+<CityName>TOLEDO</CityName>
+<ZipCode>436063328</ZipCode>
+<PhoneNumber>4195302844</PhoneNumber>
+<StreetAddress><![CDATA[2801 W BANCROFT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XA77NAJYELF1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TOLEDO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EWRDP9YCDDH5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Toledo]]></Name>
+<CityName>TOLEDO</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>436063328</ZipCode>
+<StreetAddress><![CDATA[2801 W BANCROFT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1639</Code>
+<Text>SENSORS AND SENSING SYSTEMS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

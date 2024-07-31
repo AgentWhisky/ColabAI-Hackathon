@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Scalable and Generalizable Inference for Network Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>175000.00</AwardTotalIntnAmount>
+<AwardAmount>175000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yulia Gel</SignBlockName>
+<PO_EMAI>ygel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927888</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In an era where digital networks underpin crucial aspects of society and technology, from healthcare systems and social media to environmental monitoring and national security, understanding these complex networks is more important than ever. This project will advance the statistical analysis of complex and massive digital networks by addressing the challenges of accurately reflecting the diverse realities of networks and efficiently managing their vast scales. These advancements are expected to enable more reliable anomaly detection and robust analysis of large-scale networks through the introduction of novel statistical methods and computational tools. Furthermore, the project's educational and interdisciplinary initiatives are designed to equip the next generation of scientists, ensuring sustained impact across disciplines and contributing to the public good through engagement and nonprofit collaborations.&lt;br/&gt;&lt;br/&gt;Addressing the limitations of traditional homogeneous models and computational inefficiencies, this project will contribute new methods to enhance statistical generalizability and scalability in network inference. The introduction of these flexible methodologies aims to improve the detection of anomalous motifs and the analysis of phenomena like the small-world property, core-periphery structures, and co-spectral graphs across diverse and complex network models. To overcome scalability challenges, the project introduces two novel algorithms, Predictive Subsampling (PredSub) and Aggregative Subsampling with Common Overlap (ASCO), designed to augment existing statistical methods for applicability to large datasets. These solutions will undergo thorough theoretical analysis and empirical validation, leveraging collaborations across fields such as epidemiology and digital health. With its potential to advance network data inference through methodological innovations and broad applications, the project promises significant intellectual merit and broader impacts, including educational programs, public engagement, and software development, fostering a multidisciplinary approach to solving contemporary scientific challenges.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413327</AwardID>
+<Investigator>
+<FirstName>Srijan</FirstName>
+<LastName>Sengupta</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Srijan Sengupta</PI_FULL_NAME>
+<EmailAddress><![CDATA[ssengup2@ncsu.edu]]></EmailAddress>
+<NSF_ID>000739902</NSF_ID>
+<StartDate>05/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276950001</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NVH931QJJ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276957214</ZipCode>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~175000</FUND_OBLG>
+</Award>
+</rootTag>

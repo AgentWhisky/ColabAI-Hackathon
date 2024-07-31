@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Next Generation Models of Planet Formation and Evolution]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>521258.00</AwardTotalIntnAmount>
+<AwardAmount>157630</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniel Fabrycky</SignBlockName>
+<PO_EMAI>dfabryck@nsf.gov</PO_EMAI>
+<PO_PHON>7032928490</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>It is thought that protoplanets, the bodies that eventually gave rise to planets, formed by a process known as accretion during the early life of our Solar System. This process cannot, of course, be studied directly. Little is known about how accretion proceeds at different distances from the Sun. The work proposed here will address questions of Solar System development by using sophisticated computer modeling techniques. The investigator will also reassess the development of the giant planets and the Kuiper Belt of the outer Solar System. He will establish astronomy and planetary science education programs at the Sam Noble Museum, Oklahoma's state natural history museum. He will design classroom programs for visiting school groups as well as adding to the museum's catalog of Discovery Kits, which can be loaned free of charge across the state.&lt;br/&gt;&lt;br/&gt;The work proposed here will use a GPU-accelerated N-body code to directly simulate the construction of rocky protoplanets via runaway and oligarchic growth. The same code will be used to build a self-consistent model of the dynamical evolution of the early outer solar system. Finally, he will use a new N-body algorithm to understand the interplay between planetary and triple star dynamics within the Alpha Centauri and other multiple star systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/13/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>12/11/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2405121</AwardID>
+<Investigator>
+<FirstName>Nathan</FirstName>
+<LastName>Kaib</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nathan A Kaib</PI_FULL_NAME>
+<EmailAddress><![CDATA[nkaib@psi.edu]]></EmailAddress>
+<NSF_ID>000657672</NSF_ID>
+<StartDate>11/13/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Planetary Science Institute]]></Name>
+<CityName>TUCSON</CityName>
+<ZipCode>857192395</ZipCode>
+<PhoneNumber>5206226300</PhoneNumber>
+<StreetAddress><![CDATA[1700 E FORT LOWELL RD STE 106]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q7KKMKT2ANN7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PLANETARY SCIENCE INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Q7KKMKT2ANN7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Planetary Science Institute]]></Name>
+<CityName>TUCSON</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>857192395</ZipCode>
+<StreetAddress><![CDATA[1700 E FORT LOWELL RD STE 106]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>104500</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~157630</FUND_OBLG>
+</Award>
+</rootTag>

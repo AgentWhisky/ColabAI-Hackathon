@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Atomically-engineered heterostructures for electronic readout of spin valley quantum states using plasmon decay]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>258887.00</AwardTotalIntnAmount>
+<AwardAmount>258887</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Supriyo Bandyopadhyay</SignBlockName>
+<PO_EMAI>sbandyop@nsf.gov</PO_EMAI>
+<PO_PHON>7032925392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Atomically thin materials, such as transition metal dichalcogenides, exhibit unique optical and electronic properties, making them promising candidates for the development of optical devices and quantum information processing applications. These applications have gained momentum due to the ability to utilize light to generate specific quantum states in such materials and their compatibility with graphene, forming heterostructures for efficient electron capture and transport. While such potential applications paint an exciting picture for quantum-related technologies, several major hurdles impede their progress. These include the ultrafast decay of quantum properties and the challenge of accessing quantum information without distorting the systems. The objective of this project is to address these challenges by developing a transformative approach wherein, instead of attempting to tame the very fast processes that hinder applications of such systems for quantum processing, they will be leveraged to access the quantum states and to encode and encrypt information. This project establishes a novel platform that allows the use of well-established electronic systems, such as field-effect transistors, for gaining access to quantum states via electronic currents, and application of systems consisting of atomically thin semiconductor combined with metallic structures with nanoscale sizes for quantum encryption of optical information and processing. This platform can also enable the development of quantum nanosensors capable of detecting individual biological molecules and even their structural features and promote the application of quantum mechanical processes for the transport of energy and information. Additionally, this project will enhance the research capacities of the University of Alabama in Huntsville and Kansas University, leading to the development of new curricula, research, educational, and outreach programs in the states of Alabama and Kansas.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project develops a transformative approach by harnessing the decay of plasmons to gain electronic access to quantum states and processes within systems composed of transition metal dichalcogenides monolayers and plasmonic nanoantennas. In such systems the non-radiative decay of plasmons into hot electrons will be exploited to convert spin-valley quantum information into currents in field-effect transistors, thus establishing an electronic quantum readout. Therefore, the temporal variations in hot electron generation will bear the signatures of coherent spin-valley processes and quantum information. The proposed field-effect transistor devices will feature atomically-designed super-heterostructures comprising transition metal dichalcogenides monolayers, semiconductor oxide layers with sub-2-nm thicknesses, and Au nanoantennas. These heterostructures will support atomically-tunable ultra-thin high-mobility Schottky barriers capable of efficiently capturing hot electrons and transporting them without scattering. Within these field-effect transistors, quantum information will be encoded into the hot electron current by modulating their generation rates over time through spin valley exciton-plasmon coupling. An in-vacuo Atomic Layer Deposition system integrated with in-situ characterization tools will be developed for fabrication of defect-free sub-2-nm oxide/Au Schottky junctions with ultra-high mobility and atomistically controlled dimensions. These Schottky junctions will efficiently capture hot electrons and transport them without scattering, while being ultrathin allows efficient exciton-plasmon coupling. To encode quantum information into the current, we will utilize spin valley exciton-plasmon coupling to create a set of quantum states in the time domain. Quantum information will then be decoded by analyzing the dynamics of the output circuit current and mapping the evolution of the dynamic states in Bloch space. The outcomes of this project have the potential for multidisciplinary impact, spanning from quantum sensors to optical coherent transistors and coherent energy transfer. Additionally, this research presents a unique opportunity for graduate and undergraduate students to engage in cutting-edge scientific exploration. The associated outreach program aims to provide high school students in North Alabama and Kansas, particularly those from underrepresented groups, with hands-on experiences in nanoscience and quantum information science through experimental and tutorial sessions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412220</AwardID>
+<Investigator>
+<FirstName>Seyed</FirstName>
+<LastName>Sadeghi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Seyed Sadeghi</PI_FULL_NAME>
+<EmailAddress><![CDATA[seyed.sadeghi@uah.edu]]></EmailAddress>
+<NSF_ID>000353358</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Alabama in Huntsville]]></Name>
+<CityName>HUNTSVILLE</CityName>
+<ZipCode>358051911</ZipCode>
+<PhoneNumber>2568242657</PhoneNumber>
+<StreetAddress><![CDATA[301 SPARKMAN DR NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HB6KNGVNJRU1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF ALABAMA IN HUNTSVILLE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama in Huntsville]]></Name>
+<CityName>HUNTSVILLE</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>358051911</ZipCode>
+<StreetAddress><![CDATA[301 SPARKMAN DR NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>151700</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>107E</Code>
+<Text>Magnetics and spin electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~258887</FUND_OBLG>
+</Award>
+</rootTag>

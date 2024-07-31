@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Statistical Learning and Inference for Network Data with Positive and Negative Edges]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>85179</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yulia Gel</SignBlockName>
+<PO_EMAI>ygel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927888</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Networks, representing relationships or interactions between subjects in complex systems, are ubiquitous across diverse engineering and scientific disciplines. However, real-world relationships often go beyond simple presence or absence, which poses challenges and necessitates the development of advanced methods. This project focuses on an important class of heterogeneous networks -- “signed networks”, where relationships can be positive (for example, friendship, alliance, and mutualism) or negative (for example, enmity, disputes, and competition). Such signed relationships are prevalent and exhibit substantially different and unique interaction patterns. This project aims to provide a comprehensive investigation on signed networks through statistical model-based learning and inference, pushing the frontier of our understanding of the role of negative edges in real-world complex systems. The research outcome will stimulate interdisciplinary research and make significant contributions in a broad range of scientific domains, including political science, biochemistry, medicine, genetics, ecology, and business and marketing. The project will support and train STEM workforce members by providing research training opportunities for undergraduate and graduate students.&lt;br/&gt;&lt;br/&gt;This project will develop novel statistical methodologies and theories for analyzing signed networks, focusing on the integration of negative relationships in three core problems: (a) understanding the formation mechanism of signed networks guided by fundamental social theories; (b) detecting communities in signed networks by leveraging unique patterns; and (c) learning informative and interpretable embeddings for signed networks to assist downstream analysis. For the first problem, the investigator will provide a valid statistical inference method under novel nonparametric graphon models for signed networks and study real-world evidence of conceptual theories to understand its formation mechanism. For the second problem, new fast community detection methods will be developed under a novel stochastic block model with a hierarchical structure for signed networks, with associated theory emphasizing the positive impacts of negative relationships. Finally, the project will tackle the problem of embedding learning by developing a general latent space framework. The developed methods, algorithms, and theories in this project will be applicable to various practical problems across different domains.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412853</AwardID>
+<Investigator>
+<FirstName>Weijing</FirstName>
+<LastName>Tang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Weijing Tang</PI_FULL_NAME>
+<EmailAddress><![CDATA[weijingt@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000975840</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7794</Code>
+<Text>NETWORK SCIENCE &amp; ENGINEERING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~85179</FUND_OBLG>
+</Award>
+</rootTag>

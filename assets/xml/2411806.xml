@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Decoherence in Entangled Organic Molecules]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>375000.00</AwardTotalIntnAmount>
+<AwardAmount>375000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Papanikolas</SignBlockName>
+<PO_EMAI>jpapanik@nsf.gov</PO_EMAI>
+<PO_PHON>7032928173</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Structure, Dynamics, and Mechanisms A (CSDM-A) program in the Division of Chemistry, Professor Jonathan Hood of Purdue University is investigating entangled states of organic molecules.   Entanglement is a quantum mechanical property in which the behavior of two molecules is correlated, even when they are well-separated from each other. However, to entangle two molecules, they must have the same energy, which is difficult to achieve in molecular systems. Entanglement is also fragile, and once it is created, it can be lost through decoherence. Professor Hood and his students will employ laser-induced tuning to bring arrays of molecules into resonance (i.e., make their energies equal) and observe the decoherence of entangled states by measuring correlations of the emitted photons. Their discoveries could lead to advancements in quantum-based technologies for computing, encryption, and communication. Additionally, the project will contribute to developing a quantum-enabled workforce by providing research opportunities and outreach programs to a multi-disciplinary group of students.&lt;br/&gt; &lt;br/&gt;Currently, quantum light with many photons is inefficiently generated from single photons. A novel approach to addressing this issue involves utilizing multiple emitters to create many-photon entangled light. However, this strategy faces challenges when working with solid-state emitters, particularly in bringing lifetime-limited solid-state emitters into resonance. This research aims to tackle these challenges through two main objectives. The first goal is to integrate organic molecules into nanophotonic cavities and waveguides, thereby enhancing photon collection efficiency and the zero-phonon line. By doing so, the system's overall performance can be significantly improved. The second goal focuses on bringing multiple coupled molecules into resonance and generating entangled states between the emitters and photons. This step is crucial for creating high-fidelity quantum states of light that are essential for various applications. The outcomes of this work are expected to contribute to a deeper understanding of decoherence in collective quantum states. Furthermore, it aims to provide a scalable method for producing high-fidelity quantum states of light, which have significant potential in fields such as quantum-enhanced sensing, imaging, and secure communication. By advancing the knowledge and techniques in this area, this research paves the way for more efficient and practical quantum light sources.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/07/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/07/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411806</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Hood</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonathan D Hood</PI_FULL_NAME>
+<EmailAddress><![CDATA[hoodjd@purdue.edu]]></EmailAddress>
+<NSF_ID>000842811</NSF_ID>
+<StartDate>06/07/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE STE 1900]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>910100</Code>
+<Text>CSD-Chem Strcture and Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~375000</FUND_OBLG>
+</Award>
+</rootTag>

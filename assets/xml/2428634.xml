@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Understanding Freight Flow Adaptations and Supply Chain Logistics Impacts of the Francis Scott Key Bridge Collapse]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>85000.00</AwardTotalIntnAmount>
+<AwardAmount>85000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daan Liang</SignBlockName>
+<PO_EMAI>dliang@nsf.gov</PO_EMAI>
+<PO_PHON>7032922441</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>On March 26, 2024, an uncontrolled marine vessel leaving the Baltimore Harbor blocked access to and from the Port of Baltimore by water and took out a critical roadway segment (the Francis Scott Key Bridge) that is used to reach the Port by land. The impacts of this disruption are far reaching and arise through complex mechanisms. This grant for Rapid Response Research (RAPID) project aims to investigate the impacts of this disruption to intermodal freight transport services provided through integrated marine, truck, and rail modes via the port. The objective is to collect and analyze time-sensitive and perishable data on disruption-initiated operational changes related to the port and the transportation modes. Insights are expected to answer a set of key questions, namely, (1) how this disruption affects the flow and distribution of freight traffic across the intermodal logistics system; (2) what the immediate and lasting impacts of the disruption are on congestion, port capacity utilization, freight distribution, and intermodal freight network resilience; and (3) how related disruptions propagate spatially and temporally at local, regional, and global scales. Project outcomes help stakeholders to protect national logistics networks from failure propagation and reduce disruption impacts from future similar events, thereby protecting the nation’s infrastructure and economy. Educational activities provide experience for the nation’s future civil engineering workforce.&lt;br/&gt;&lt;br/&gt;Critical, perishable freight data is needed to advance fundamental understanding of complex, interacting multi-modal systems and transient post-disruption behaviors across local, regional, and global scales. Example data types include: the number of vessels waiting offshore, average time-to-berth, gantry crane efficiency, business volume, truck traffic on key corridors, truck delays at ports, ground access travel time, number of rail cars sidelined, and rail hub closures or fill rates. Combined with analytical techniques (e.g., Bayesian networks and other data-driven methods, graph theoretic models, network flow analysis, spatial-temporal analyses, stochastic modeling, systems dynamics, simulation), this project: (1) facilitates a deeper understanding of disruption and recovery dynamics; (2) unravels understanding of complex interactions from immediate consequences and subsequent cascading effects within intermodal transportation networks; (3) expands theoretical frameworks concerning disruption propagation and the formulation of effective prevention strategies; and (4) informs the development of more resilient and adaptive freight transportation systems. These outcomes can play an important role in supporting decision-makers in building back better.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2428634</AwardID>
+<Investigator>
+<FirstName>Elise</FirstName>
+<LastName>Miller-Hooks</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elise D Miller-Hooks</PI_FULL_NAME>
+<EmailAddress><![CDATA[miller@gmu.edu]]></EmailAddress>
+<NSF_ID>000187128</NSF_ID>
+<StartDate>05/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alireza</FirstName>
+<LastName>Ermagun</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alireza Ermagun</PI_FULL_NAME>
+<EmailAddress><![CDATA[aermagun@gmu.edu]]></EmailAddress>
+<NSF_ID>000809109</NSF_ID>
+<StartDate>05/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EADLFP7Z72E5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE MASON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>H4NRWLFCDF43</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>220304422</ZipCode>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>163800</Code>
+<Text>HDBE-Humans, Disasters, and th</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>008Z</Code>
+<Text>Critical Resilient Interdependent Infras</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>041E</Code>
+<Text>HAZARD AND DISASTER REDUCTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>042E</Code>
+<Text>HAZARD AND DISASTER RESPONSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~85000</FUND_OBLG>
+</Award>
+</rootTag>

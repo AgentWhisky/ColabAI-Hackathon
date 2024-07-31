@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: BioMembHub Cyberinfrastructure for Modeling and Analysis of Proteins, Peptides, and Small Molecules in Biomembranes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>488799.00</AwardTotalIntnAmount>
+<AwardAmount>488799</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reed Beaman</SignBlockName>
+<PO_EMAI>rsbeaman@nsf.gov</PO_EMAI>
+<PO_PHON>7032927163</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Biological membranes separate living cells from the environment and create intracellular compartments as a hydrophobic barrier. They are composed of diverse lipids and form dense environments with thousands of transmembrane and peripheral proteins. These proteins are engaged in essential cellular functions, including metabolism, energy generation, signal transduction, solute transport, vesicle trafficking, cellular motility, recognition, adhesion, differentiation, and proliferation. Advances in experimental methodologies and artificial intelligence algorithms have led to a surge in membrane protein three-dimensional structures and in silico models that are available to researchers. Nonetheless, a comprehensive understanding of membrane protein organization, including facilitating the dynamic interactions within and between cells remains elusive. This gap in our understanding impedes our ability to decipher membrane protein functional roles and regulatory mechanisms in the context of the cells, organs, or organisms in which they work. The proposed BioMembHub cyberinfrastructure (https://biomembhub.org) is designed to advance, expand, and unify databases and web servers for structural modeling and analysis of proteins, peptides, and small molecules in lipid membranes of varying molecular compositional complexity. BioMembHub is distinguished by its integration of physics-based methodologies, bioinformatics techniques, and the deep learning capabilities of the widely used AlphaFold system. BioMembHub will be easy-to-use and thus serve not only as a valuable research resource for scientists and educators, but as an educational platform for students and an instrument for public engagement with cutting-edge biomembrane research. &lt;br/&gt;&lt;br/&gt;The goal of the BioMembHub collaborative project is to create an integrated platform consisting of seven web servers and three large databases, which would enable exploration of the structural and dynamic aspects of biomolecules in membranes using both implicit and explicit membrane representations. The suite of web servers, namely TMPfold, FMAP, PPM, OPRLM, and TMDOCK, enables all-atom modeling and analysis of folding, stability, conformational positioning, and molecular interactions of proteins and peptides in membranes. PerMM and CellPM web servers calculate membrane permeability coefficients and translocation pathways across lipid bilayers of small molecules and peptides. The OPM database includes the massive set of experimental structures of membrane proteins and peptides from the RCSB Protein Data Bank (PDB) positioned in membranes by PPM. The Membranome 3.0 database serves as repository for thousands in silico models of single-pass transmembrane proteins from six proteomes. The PerMM database collects experimental and calculated permeabilities data for five hundred small molecules. With execution of the project, the OPM/OPRLM database will be significantly advanced by streamlining its update procedures and broadening the dataset of membrane proteins and peptides with known structures aligned in flat or curved membranes. The Membranome(X) database will be expanded by incorporating single-pass transmembrane proteins from 20 proteomes and a novel collection of protein complexes. These complexes will be modeled using the AlphaFold Multimer methodology and validated by employing TMDOCK. The sustainability and expandability of these resources will be improved to ensure their long-term utility and relevance to the scientific community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403583</AwardID>
+<Investigator>
+<FirstName>Andrei</FirstName>
+<LastName>Lomize</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrei Lomize</PI_FULL_NAME>
+<EmailAddress><![CDATA[almz@umich.edu]]></EmailAddress>
+<NSF_ID>000318468</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>168Y00</Code>
+<Text>Capacity: Cyberinfrastructure</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1165</Code>
+<Text>ADVANCES IN BIO INFORMATICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~488799</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FMSG: Eco: Off-Grid Construction via Sustainable Compression Curing of Vegetable Oil-Impregnated Sediments]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>494685.00</AwardTotalIntnAmount>
+<AwardAmount>247366</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joy Pauschke</SignBlockName>
+<PO_EMAI>jpauschk@nsf.gov</PO_EMAI>
+<PO_PHON>7032927024</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Additive manufacturing (AM) has effectively revolutionized how engineers and architects design and fabricate products due to its layer-by-layer building approach. New levels of product complexity/customization not offered by traditional manufacturing processes are now achievable, resulting in weight reduction, enhanced conformability, joint consolidation, and higher efficiencies through design. This project combines faculty in engineering, chemistry, architecture, and geology to innovate a solar-powered compression/curing technique that additively fabricates building materials made of tung oil and local sands for sustainable, raw-earth construction. This manufacturing method can leverage available natural resources within the U.S., therefore reducing any reliance on international raw materials. It also responds to a growing need to innovate and overcome remote construction constraints exacerbated by urban-to-rural migration driven by the COVID pandemic and climate change. The remote AM of raw earth materials will help reduce the large carbon footprint associated with concrete-based AM construction which relies on heavy gantry-based material extrusion systems that must be transported to worksites. Architecture students will be trained on a commercial binder-jet AM system for integrating new knowledge in sustainable AM processes into their designs. Guest lectures will be provided to engineering and architecture undergraduate students to broaden their perspectives and creativity to ensure future innovation in the U.S. advanced manufacturing industries.&lt;br/&gt;&lt;br/&gt;The goal of this fundamental manufacturing research project is to design and test a new binder/powder-based AM process for the fabrication of earth-sourced composites for structural applications. Through modeling and experimentation, the AM process will be designed for off-grid use while remaining completely sustainable. Tung oil will be employed for binding sands of highly variable sizes, shapes, and chemistry. Employed sands will be characterized using microscopy and flowability measurements. These measurements will be correlated with the sediment’s ability to spread into a thin layer with minimal voids when acted upon by a custom-designed roller. Binder rheological properties will be varied until effective jetting and sediment infiltration are realized. The binder will be cured via free radical polymerization triggered by a combination of heat and ultraviolet (UV) radiation. The latent heat required for uniform binder curing in the presence of unrefined sediments will be related with concentrated solar energy/spectra for aiding the design of a solar power/heating unit. First order energy balances and entropy minimization will guide power/heating unit design. A proof-of-concept manufacturing system will be constructed and instrumented for conducting “brick” building experiments. Thermomechanical tests will be performed to determine the strength of these manufactured composite bricks.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Division of Civil, Mechanical, and Manufacturing Innovation and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423166</AwardID>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Thompson</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott M Thompson</PI_FULL_NAME>
+<EmailAddress><![CDATA[smthompson@missouri.edu]]></EmailAddress>
+<NSF_ID>000631349</NSF_ID>
+<StartDate>04/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Missouri-Columbia</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>652113020</ZipCode>
+<PhoneNumber>5738827560</PhoneNumber>
+<StreetAddress>121 UNIVERSITY HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SZPJL5ZRCLF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Missouri-Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>652113020</ZipCode>
+<StreetAddress><![CDATA[121 UNIVERSITY HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>142Y</Code>
+<Text>FM-Future Manufacturing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025E</Code>
+<Text>INFRASTRUCTURE MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8022</Code>
+<Text>Sustainable Infrastructure Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~247366</FUND_OBLG>
+</Award>
+</rootTag>

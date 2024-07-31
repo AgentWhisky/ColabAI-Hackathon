@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FET: Small: LightRidge: End-to-end Agile Design for Diffractive Optical Neural Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>599360.00</AwardTotalIntnAmount>
+<AwardAmount>584209</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+<PO_EMAI>sabasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927843</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Recently, there have been increasing efforts to advance emerging technologies, which bring significant advantages for machine learning (ML) in terms of power efficiency, computational efficiency, and sustainability. With the considerable benefits in energy efficiency, there are significant interests in leveraging optical computing into applications, such as medical sensing, security screening, drug detection, and autonomous driving. Specifically, optical computing offers unique advantages in power efficiency and extreme computation speed, leading to significant performance improvements compared to digital computing systems for ML tasks. This project aims to develop an end-to-end design infrastructure to advance optical computing for ML, covering from low-level physics to algorithms to full-stack system design. This will generate broader impacts in cross-disciplinary research and real-world application fields from physics to computer science to ML. This project will produce an open-source design infrastructure, LightRidge, and conference tutorials to facilitate technology transfers and fruitful industry-academia interactions in a multidisciplinary community.&lt;br/&gt;&lt;br/&gt;This project aims to develop an open-source, end-to-end design infrastructure, LightRidge, to explore and advance Diffractive Deep Neural Networks (DONNs) in real-world ML tasks. DONNs utilize the free-space light diffraction to form an optical feed-forward network like conventional DNNs architecture, which can host millions of neurons in each layer that are interconnected with those in neighboring layers, offering orders of magnitude energy efficiency improvements over general-purpose processor and domain-specific accelerators. However, there are several critical technical barriers in the design, training, exploration, and hardware deployment of DONNs. Thus, this project will produce an agile end-to-end design and fabrication programming framework LightRidge, consisting of precise, versatile, and differentiable optical physics kernels powered by domain-specific high-performance-computing developments, with novel physics-aware hardware-software codesign methodologies to strengthen the correlations between algorithm modeling and physical hardware. This project will also develop an intelligent and efficient design space exploration (DSE) engine LightRidge-DSE, to enable architectural and fabrication parameters exploration, monolithic on-chip DONNs integration, and demonstrate real-world all-optical ML tasks. Finally, LightRidge will be fully released as an open-source hardware project, which will contribute to multidisciplinary research domains such as physics, electrical engineering, computer science, and can be used as a new education platform.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2428520</AwardID>
+<Investigator>
+<FirstName>Cunxi</FirstName>
+<LastName>Yu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cunxi Yu</PI_FULL_NAME>
+<EmailAddress><![CDATA[cunxiyu@umd.edu]]></EmailAddress>
+<NSF_ID>000815565</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425100</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress><![CDATA[3112 LEE BUILDING]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NPU8ULVAAS23</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>COLLEGE PARK</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207425100</ZipCode>
+<StreetAddress><![CDATA[3112 LEE BUILDING]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>089Y00</Code>
+<Text>FET-Fndtns of Emerging Tech</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>086Z</Code>
+<Text>Neuromorphic Computing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~584209</FUND_OBLG>
+</Award>
+</rootTag>

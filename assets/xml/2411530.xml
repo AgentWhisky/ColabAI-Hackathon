@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Conference: Large Language Models for Biological Discoveries (LLMs4Bio)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>5254.00</AwardTotalIntnAmount>
+<AwardAmount>5254</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sorin Draghici</SignBlockName>
+<PO_EMAI>sdraghic@nsf.gov</PO_EMAI>
+<PO_PHON>7032922232</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Computational research on large language models (LLMs) is advancing rapidly and expanding beyond Natural Language Processing (NLP). In particular, there is great interest in how these models can be leveraged and advanced to enable scientific inquiry across scientific disciplines. This award will support the organization of a workshop focused on the utilization of LLMs for biological discoveries: LLMs4Bio accompanies the 2024 AAAI conference. The AAAI conference series has established itself as the world’s premier research conference in AI. This workshop addresses these challenges and brings together researchers from computer science, information science, and molecular, cellular, and systems biology to address unique challenges in advancing biological discoveries. This workshop activity will increase student participation in the 2024 AAAI Conference on Artificial Intelligence (AAAI) that will take place from Feb 22-28 in Vancouver, Canada, by providing travel grants to U.S.-based students. The AAAI conference series has established itself as the world’s premier research conference in AI. Outcomes include the formulation of new problem spaces, the inclusion of more researchers in the identified intersectional communities, and the catalysis of further innovation on accessible and inclusive LLMs to power the next scientific breakthroughs. A strong representation of US researchers at the conference also helps maintain US competitiveness in this important area.&lt;br/&gt;&lt;br/&gt;This workshop activity will  provide an international forum for presentation of AI technological advancement and applications in societal areas. The conference covers all aspects of AI, including theories, algorithms, software, and systems, and applications. The award will support: i) “LLMs for biology” panel discussions, ii) paper presentation and Q&amp;A interactions, iii) networking across NLP and biological domain experts, and iv) outlook of future opportunities of our communities. These activities will support students and young researchers as they prepare to advance their careers in scientific research, as well as broaden the participation of under-represented groups in computing and, in particular, in AI research. The current pace of research in LLMs makes it challenging for researchers to deeply understand scientific problems, community-acceptable standards, datasets, metrics, and benchmark tasks that truly capture our ability to advance on a problem, and precious knowledge gathered over decades of hard-fought research. The current trend of closed or poorly-described industry models that remain beyond resources typically available to academic researchers, often disseminated through non-peer reviewed platforms is also not conducive to cross-fertilization of research. This workshop addresses these challenges and brings together researchers from computer science, information science, and molecular, cellular, and systems biology to address unique challenges in advancing biological discoveries, such as standardized datasets, community-accepted benchmarks, experimental noise and uncertainty quantification, interpretation, and injection of prior biological knowledge. A Github project, https://github.com/LLMs4Science-Community, that accompanies the workshop activity provides a long-term platform for sharing workshop research articles, datasets, benchmarks, metrics, and other resulting knowledge for the workshop in this debut offering and other planned annual offerings.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/26/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/26/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411530</AwardID>
+<Investigator>
+<FirstName>Yana</FirstName>
+<LastName>Bromberg</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yana Bromberg</PI_FULL_NAME>
+<EmailAddress><![CDATA[yana.bromberg@emory.edu]]></EmailAddress>
+<NSF_ID>000613497</NSF_ID>
+<StartDate>02/26/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Liang</FirstName>
+<LastName>Zhao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Liang Zhao</PI_FULL_NAME>
+<EmailAddress><![CDATA[liang.zhao@emory.edu]]></EmailAddress>
+<NSF_ID>000754958</NSF_ID>
+<StartDate>02/26/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Emory University</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303221061</ZipCode>
+<PhoneNumber>4047272503</PhoneNumber>
+<StreetAddress>201 DOWMAN DR NE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>S352L5PJLMP8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EMORY UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Emory University]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303224250</ZipCode>
+<StreetAddress><![CDATA[400 DOWMAN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~5254</FUND_OBLG>
+</Award>
+</rootTag>

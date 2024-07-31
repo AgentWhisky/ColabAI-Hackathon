@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Integral Equation Methods for the Efficient Simulation of Nonlinear Interface Phenomena]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>417062.00</AwardTotalIntnAmount>
+<AwardAmount>118353</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Simulation technology for nonlinear interface phenomena enabling high, managed accuracy with low cost is an urgent need in many fields of science and technology. This project seeks to develop new numerical methods that address these needs. The methods under consideration belong to the family of integral equation methods, which attain asymptotically optimal cost in the solution of certain ("linear homogeneous exterior elliptic boundary value") problems. The project seeks to extend them to challenging nonlinear settings, while improving their efficiency when modeling boundary layers, and developing new methods for the case where volume contributions are needed. Examples of technical fields in which such methods are needed include the project's motivating applications, which will be used to demonstrate our methods' efficacy: (1) Wetting problems, relevant across chemical engineering and biology. (2) Nonlinear plasmonics, a promising avenue for the construction of optical networks. Accurate computer simulation can help confirm or refute scientific theories by comparison with experiment, can replace experiments, and can be used in engineering design processes. The PhD students trained under the project will add to the nation's scarce expert labor supply, and the methods and open-source software released under the project will enable science and industry users around the world to deploy the newly-developed methods for the advancement of science.&lt;br/&gt;&lt;br/&gt;Since they are based on the superposition principle, integral equation methods (IEMs) are not often used to solve partial differential equation (PDE) problems with nonlinearities. This project removes important obstacles to the adoption of IEMs in such a setting, and it validates the case for them through two ambitious motivating nonlinear model applications involving interfaces. The efficient solution of elliptic (i.e. globally coupled) computational problems remains a major challenge, and IEMs have crucial strengths in this area. While one major strength of IEMs is the use of boundary (i.e. lower-dimensional) unknowns to represent volume solutions, the presence of nonlinearities invariably necessitates the use of volume unknowns. We demonstrate that this use can often be kept localized, particularly in problems modeling interfaces, while maintaining IEM's suitability for problems on unbounded domains. We propose a new method for the evaluation of the resulting volume potentials that retains high-order accuracy in the presence of complex geometry. The project builds on recent advances made by the PI on high-order accurate fast algorithms for the evaluation of layer potentials, the building blocks of IEMs, in the presence of complex geometry in two and three dimensions. We further propose research leading to major efficiency gains in the underlying singular quadrature method and, motivated by empirical observations, a theoretical investigation of the influence of geometry on the accuracy of that method. A final line of proposed research concerns the reduction of resolution demands posed by boundary layers, embodied in IEMs by rapidly-decaying Green's functions, which often result in increases of computational cost that threaten to make certain simulations infeasible.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410943</AwardID>
+<Investigator>
+<FirstName>Andreas</FirstName>
+<LastName>Kloeckner</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andreas Kloeckner</PI_FULL_NAME>
+<EmailAddress><![CDATA[andreask@illinois.edu]]></EmailAddress>
+<NSF_ID>000661715</NSF_ID>
+<StartDate>06/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[352 Henry Administration Building]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~118353</FUND_OBLG>
+</Award>
+</rootTag>

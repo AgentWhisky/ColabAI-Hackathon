@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PFI-TT: Secure, Unmanned, Aerial Vehicle Guidance in Limited Connectivity Environments]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>550000.00</AwardTotalIntnAmount>
+<AwardAmount>550000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samir M. Iqbal</SignBlockName>
+<PO_EMAI>smiqbal@nsf.gov</PO_EMAI>
+<PO_PHON>7032927529</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Partnerships for Innovation - Technology Translation (PFI-TT) project is the development of secure communication protocols for robust and accurate vehicle position, navigation, and timing (PNT) where Global Positioning System (GPS) or Global Navigation Satellite System (GNSS) are not available. This will ensure safe navigation of small airborne, marine, or ground vehicles operated by government and commercial sectors, when GPS signals are compromised or unavailable. With this in mind, the objective of this PFI-TT is to develop and demonstrate a novel system as an alternative to GPS. Non-GPS guidance is achieved using four ground transceiver stations along with a Location Information System (LIS) onboard the drone. Importantly, this system will be highly secure (to interference) and spectrally efficient (as it transmits below the noise floor). The market for such systems is valued at $800 M in 2022, projected to grow at &gt;25%, and expected to be $8B by 2032. Given the need for such technologies, their commercialization into popular product is nearly assured. Even more, this project will prepare next-generation minority students and a diverse workforce with deep technical skills, business opportunities, and commercialization training.  &lt;br/&gt;&lt;br/&gt;The project brings forward innovations developed to enable unspoofable remote guidance of small airborne and ground vehicles, called unspoofable Assured-Position, Navigation, and Timing (A-PNT). The following innovations are introduced: (1) New transceivers that are ultra-wideband and enable reception and transmission in a highly secure manner, (2) Back-end beamforming circuits that will operate across a large bandwidth, for the first time, (3) Low cost and low-weight transceivers to be carried on the palm of a hand, and (4) New technology brought forward by our industry collaborator and new algorithms to carry out geolocation triangulation that provide the vehicle’s location using the signals from the transceivers. Four of these transmitters will send their ground location using below the noise level along with their time stamp. The transceivers and the transmitter’s ground location are used to determine their distance from the transmitters.  The system is based on a new high accuracy MEMS Clock Ensemble as compared to available technology. The vehicle will send the extracted geolocation back to the ground for iterative improvements.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414439</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Barry</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles Barry</PI_FULL_NAME>
+<EmailAddress><![CDATA[charles@luminouscyber.com]]></EmailAddress>
+<NSF_ID>000929313</NSF_ID>
+<StartDate>07/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Volakis</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John L Volakis</PI_FULL_NAME>
+<EmailAddress><![CDATA[jvolakis@fiu.edu]]></EmailAddress>
+<NSF_ID>000272422</NSF_ID>
+<StartDate>07/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Satheesh</FirstName>
+<LastName>Bojja Venkatakrishnan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Satheesh Bojja Venkatakrishnan</PI_FULL_NAME>
+<EmailAddress><![CDATA[sbojjave@fiu.edu]]></EmailAddress>
+<NSF_ID>000795095</NSF_ID>
+<StartDate>07/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Leonardo</FirstName>
+<LastName>Bobadilla</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leonardo Bobadilla</PI_FULL_NAME>
+<EmailAddress><![CDATA[bobadilla@cs.fiu.edu]]></EmailAddress>
+<NSF_ID>000669751</NSF_ID>
+<StartDate>07/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>MIAMI</CityName>
+<ZipCode>331992516</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress><![CDATA[11200 SW 8TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q3KCVK5S9CP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA INTERNATIONAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Q3KCVK5S9CP1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>MIAMI</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331992516</ZipCode>
+<StreetAddress><![CDATA[11200 SW 8TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>166200</Code>
+<Text>PFI-Partnrships for Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>092E</Code>
+<Text>Control systems &amp; applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~550000</FUND_OBLG>
+</Award>
+</rootTag>

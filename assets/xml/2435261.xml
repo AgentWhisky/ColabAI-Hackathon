@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-IITP: START6G -- Sub-THz Augmented Routing and Transmission for 6G]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>380000.00</AwardTotalIntnAmount>
+<AwardAmount>229294</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jenshan Lin</SignBlockName>
+<PO_EMAI>jenlin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927360</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Terabit-per-second data rates will enable next-generation wireless cellular applications, including extended reality, holography, haptic feedback, and wireless cognition. These applications provide, in part, the means to create an immersive experience for work, education, and healthcare which helps to bridge the gap in experience between in-person interaction and video telephony. Achieving the high data rates, though, requires going to higher radio frequency bands than are currently used for cellular communications. In the last five years, cellular communication has embraced the lower millimeter wave spectrum, which refers to radio frequencies from about 25 GHz to 100 GHz. Indeed, millimeter wave communication has become one of the defining features of fifth generation cellular communication systems. Going to terabit-per-second data rates will require higher bandwidths that are available above 100 GHz, in what is known as the sub-THz band. This collaborative project establishes fundamentals that will help realize sub-THz communication and drive the future of wireless technology. It develops new hardware and algorithms that help to create the required high data rate communication links to serve the applications highlighted above. For example, it develops technology that helps sub-THz communication signals better go around obstacles, by instrumenting the environment with smart reflective surfaces and reconfigurable antenna arrays. The results of the project will contribute to the development of new wireless technologies that are beneficial for personal communication, safety applications and industrial deployments. Industry impact and technology transfer will occur through frequent communication with the partners of the sixth generation North Carolina program. The project will lead to more undergraduate and graduate students with expertise on new and important technologies for wireless communications.&lt;br/&gt;&lt;br/&gt;Sub-THz Augmented Routing and Transmission for 6G is a collaboration among experts in wireless communications at North Carolina State University (NC State) and Yonsei University (YSU). It addresses the design of reflective surfaces and reconfigurable arrays for multiple-input multiple-output (MIMO) communication at sub-THz frequencies. It devises methods for configuring the beams formed or reflected from those arrays in a way that routes around obstacles. It creates algorithms that exploit new levels of reconfigurability in the arrays to obtain higher throughput and more robust communications. Finally, it results in the creation of joint real-time hardware (H/W) and software (S/W) testbeds for sub-THz communications. The uniqueness of this project lies in the multi-domain approach for improving sub-THz communications. The intellectual merit will occur in several directions. (a) Intelligent reflective surfaces constructed from state-of-the-art meta-materials / meta-devices. (b) Reconfigurable antenna arrays with adaptable structures that are mechanically and electrically controlled. (c) Directional-beam-based initial access and beam routing algorithms that leverage channel map information. (d) Models of reconfigurable antennas arrays and performance limits of those arrays. (e) Algorithms that leverage true time delays to reconfigure those arrays to support high bandwidths. (f) A suite of evaluation scenarios that test the developed hardware and algorithms. The immediate impact will be to identify the most relevant approaches for enabling large arrays for communication and reflective applications, as well as algorithms that leverage those arrays to enhance communication at sub-THz frequencies. The long-term impact will be in the development and realization of sub-THz communication as part of 6G wireless communications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2435261</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Heath</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert W Heath</PI_FULL_NAME>
+<EmailAddress><![CDATA[rwheathjr@ucsd.edu]]></EmailAddress>
+<NSF_ID>000257959</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress><![CDATA[9500 GILMAN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930021</ZipCode>
+<StreetAddress><![CDATA[9500 GILMAN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>756400</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022Z</Code>
+<Text>International Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>153E</Code>
+<Text>Wireless comm &amp; sig processing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5942</Code>
+<Text>KOREA</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~229294</FUND_OBLG>
+</Award>
+</rootTag>

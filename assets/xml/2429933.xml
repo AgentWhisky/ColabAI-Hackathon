@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: ACM SIGSPATIAL Conference 2024: Student Activities and U.S.-Based Students Support]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>25000.00</AwardTotalIntnAmount>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hector Munoz-Avila</SignBlockName>
+<PO_EMAI>hmunoz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924481</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This grant will fund travel of  United States-based graduate and undergraduate students to participate in the 32nd ACM SIGSPATIAL GIS 2024 Conference, which will be held in Atlanta, Georgia, from October 29 to November 01, 2024. The conference is annually organized by the Association for Computing Machinery (ACM) Special Interest Group on Spatial Information (SIGSPATIAL), which is an association for researchers, students, and professionals interested in research, development, and deployment of solutions to spatial information handling and spatial knowledge extraction problems. The conference started in 1993, has established itself as the world's premier research conference in spatial computing, spatial data, and GIS. It provides a forum for original research contributions covering all conceptual, design, and implementation aspects of GIS ranging from applications, user interfaces, and visualization to storage management and indexing issues. Besides the technical program, the conference features workshops, a student research competition, a data competition, and demos. The importance of spatial information handling continuously increases with new application domains and the availability and ubiquity of large spatial data such as maps, remote-sensing images, 3D medical atlases, and the decennial census. Businesses, industry, academia, and governmental agencies utilize spatial information to improve their daily operations, structure new strategies, and increase overall productivity and US competitiveness.&lt;br/&gt;&lt;br/&gt;Spatial data and applications pose novel research challenges in a wide variety of sub-areas, including (but not limited to) spatial information acquisition, modeling, data structures, and algorithms, analysis, querying and integration, human-computer interaction and visualization, and systems and architectures. From these sub-areas, deep research questions emerge that are motivated by a broad range of applications (e.g., emergency and crisis management, environmental monitoring, global positioning and location detection, geosciences, location-based and mobile services, navigation, and route planning). ACM SIGPATIAL GIS provides a forum for this research, including presentations of accepted technical papers, poster and demo exhibition encouraging lively interaction among all participants, and presentations by leading related industry members. The participation of U.S. graduate and promising undergraduate students will result in the intellectual stimulation of young minds to pursue advanced research and development activities in an area that has a huge technical and societal impact.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2429933</AwardID>
+<Investigator>
+<FirstName>Li</FirstName>
+<LastName>Xiong</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Li Xiong</PI_FULL_NAME>
+<EmailAddress><![CDATA[lxiong@emory.edu]]></EmailAddress>
+<NSF_ID>000236695</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andreas</FirstName>
+<LastName>Zuefle</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andreas Zuefle</PI_FULL_NAME>
+<EmailAddress><![CDATA[azufle@emory.edu]]></EmailAddress>
+<NSF_ID>000718920</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Emory University]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303221061</ZipCode>
+<PhoneNumber>4047272503</PhoneNumber>
+<StreetAddress><![CDATA[201 DOWMAN DR NE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>S352L5PJLMP8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EMORY UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Emory University]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303224250</ZipCode>
+<StreetAddress><![CDATA[201 DOWMAN DR NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736400</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~25000</FUND_OBLG>
+</Award>
+</rootTag>

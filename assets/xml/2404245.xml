@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Quantifying Electrode-Generated Reactive Oxygen Species Using Versatile Redox-Active Spin Traps and Nanoelectrochemistry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>390000.00</AwardTotalIntnAmount>
+<AwardAmount>256608</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jose Almirall</SignBlockName>
+<PO_EMAI>jalmiral@nsf.gov</PO_EMAI>
+<PO_PHON>7032927434</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, Professor Joaquin Rodriguez Lopez at the University of Illinois Urbana-Champaign is exploring new methods to detect highly reactive oxygen species (ROS) that are play a role in manifold technologies such as wastewater remediation, batteries, electrosynthesis, and sensors. The methods being developed in this project will help detect a variety of ROS – including the elusive singlet oxygen, superoxide anion, and hydroxyl radical – with improved versatility, thus providing insight into how these species are formed at electrodes and how to control their reactivity. Emphasis will be placed on the detection of ROS in emerging fuel cell and battery materials. Concepts of spectroscopy and electrocatalysis will be fully integrated into an educational and outreach plan that introduces graduate students, as well as the local undergraduate and K-12 Hispanic population, to learning opportunities in energy and measurement science.&lt;br/&gt;  &lt;br/&gt;This project introduces an in situ, real time, and chemically sensitive approach for the quantification of and measurement of speciation in ROS generated at operating electrodes. The detection scheme uses a novel strategy based on ROS-activated redox-active spin traps capable of differentiating specific forms of ROS, and which are measured via scanning electrochemical microscopy (SECM). SECM enables the high temporal (ms) and high spatial resolution (sub-micron) measurement of these ROS via electrolysis, thus providing a quantitative measurement for elucidating homogeneous and heterogeneous reaction mechanisms of ROS formation at electrodes. The project includes methods to accelerate the characterization of the redox-active spin traps and experiments aimed at resolving ROS mechanisms as a function of potential and other electrolyte conditions on metal, carbon, and Li-oxygen electrodes used in electrocatalysts and Li-air batteries. This project is timely, as the rise of renewable energy and its nexus with water and battery technologies makes understanding ROS chemistries a priority to create highly performing electrochemical energy storage and conversion devices.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404245</AwardID>
+<Investigator>
+<FirstName>Joaquin</FirstName>
+<LastName>Rodriguez Lopez</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joaquin Rodriguez Lopez</PI_FULL_NAME>
+<EmailAddress><![CDATA[joaquinr@illinois.edu]]></EmailAddress>
+<NSF_ID>000645446</NSF_ID>
+<StartDate>05/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>Urbana</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[506 S Wright St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688000</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~256608</FUND_OBLG>
+</Award>
+</rootTag>

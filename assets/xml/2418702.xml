@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation Potential of Gallium Oxide Diodes and Transistors]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is the development of gallium oxide (Ga2O3) diodes and transistors for power electronics applications. In power electronics, semiconductors with larger bandgaps are important since they enable the miniaturization of transistors and diodes, thereby reducing the device’s resistance and improving efficiency. In addition, wide bandgap materials enable efficient, high-frequency operations, which may significantly reduce the size of passive circuit components, such as capacitors and inductors. This technology uses the wide bandgap material, Ga2O3, that may enable the creation of more compact, efficient, and high-performing power conversion circuits at a cost competitive with existing technologies. For the energy sector, the solution may improve efficiencies within the grid, allowing for more efficient green energy conversion and contributing to a reduction in carbon dioxide (CO2) emissions. For electric vehicles, the charging times may be reduced due to increased charging power realized through Ga2O3. In defense and aerospace, the miniaturization of directed-energy systems without compromising power may lead to more agile and longer-rage weapon systems. For drones and satellites, the reduction in size and weight due to Ga2O3-based components may increase capabilities and reduce launch costs.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. The solution is based on the development of gallium oxide (Ga2O3) diodes and transistors. Gallium oxide is a new, ultra-wide bandgap semiconductor material. Its unique properties enable large electric fields, which may facilitate extreme device scaling. The bandgap of a semiconductor, which determines the energy required to free an electron enabling conduction, is critical in the field of power electronics (PE). By replacing silicon (Si) and silicon carbide (SiC) diodes and transistors with Ga2O3 diodes and transistors, size, weight, and cost reductions may be realized while matching or improving performance metrics such as power and reliability. Within the Ga2O3 field, efficient, high-voltage switching has been demonstrated. Moreover, the availability of large-area, high-quality substrates on which Ga2O3 films can be grown enable low-defect, vertical devices to be realized. As such, vertical device topologies are of particular interest. Results have demonstrated diodes with the ability to block ~2.9 kV. Gallium oxide with its large bandgap of approximately 4.8 eV, combined with the availability of affordable, high-quality bulk substrates for film growth, is positioned as an innovative technical solution.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418702</AwardID>
+<Investigator>
+<FirstName>Debdeep</FirstName>
+<LastName>Jena</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Debdeep Jena</PI_FULL_NAME>
+<EmailAddress><![CDATA[djena@cornell.edu]]></EmailAddress>
+<NSF_ID>000487331</NSF_ID>
+<StartDate>04/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress><![CDATA[341 PINE TREE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148502820</ZipCode>
+<StreetAddress><![CDATA[341 PINE TREE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1984</Code>
+<Text>MATERIALS SYNTHESIS &amp; PROCESSN</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

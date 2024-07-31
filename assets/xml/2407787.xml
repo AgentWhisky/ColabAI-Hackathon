@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Experiments, Simulations, Modeling and Analysis of Hydromechanical Sprinklers for Understanding and Controlling Flux-driven Fluid-solid Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>229999.00</AwardTotalIntnAmount>
+<AwardAmount>229999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Many technologies use flowing water or air to generate productive movements of mechanical components. Better understanding how to exploit flowing fluids and flow-structure interactions is necessary in applications that extract energy from clean and sustainable sources such as wind, water currents, and waves. Improvements and optimizations to these systems require deeper knowledge of the physics of fluids, better models of their effects on structures, and more accurate simulations that solve for flow-induced forces and motions. Applied and computational mathematics combined with mathematical modeling can provide the necessary tools to accomplish these goals and to uncover knowledge that will be generally useful for hydromechanical applications. This project will significantly advance the relevant methods and understanding by focusing on an unsolved problem in the physics of fluids. The investigations will also educate students and train researchers, thereby contributing to a workforce that is well prepared to tackle these and related problems.&lt;br/&gt;&lt;br/&gt;This project combines experiments, simulations, mathematical modeling, and analysis to investigate the coupled dynamics of fluid-solid systems with mass and momentum flux. The work will be conducted in the context of auto-rotating devices that respond to the injection or withdrawal of fluid, notably the Feynman sprinkler problem and related applications. The efforts will aim to develop appropriate methods for determining how forces and motions can be generated and controlled for open structures whose complex geometries interact with the flows produced by sources and sinks. The research will progress from targeted investigations of the sprinkler problem to more general inquiries into flux-based forces and the roles played by geometry and the driving strength. Experiments will involve the development and application of laboratory systems capable of sensitively resolving motions, forces, and flow fields. Simulations based on the immersed boundary method will address fluid-structure-interactions driven by source/sink flows. Mathematical analyses based on control volume methods and hydrodynamic modeling will be used to interpret the findings and identify mechanisms. By interactively combining all methods to address a long-standing open problem in flow physics, this work will provide fundamental knowledge and generalizable techniques for motion control and force generation, and which may inform engineering applications. The research and its results will be integrated into graduate and undergraduate teaching and training and new initiatives that promote STEM goals.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407787</AwardID>
+<Investigator>
+<FirstName>Leif</FirstName>
+<LastName>Ristroph</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leif G Ristroph</PI_FULL_NAME>
+<EmailAddress><![CDATA[ristroph@cims.nyu.edu]]></EmailAddress>
+<NSF_ID>000652656</NSF_ID>
+<StartDate>05/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~229999</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Stochastic methods in Dual Brunn-Minkowski Thoery]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>238406.00</AwardTotalIntnAmount>
+<AwardAmount>238406</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Swatee Naik</SignBlockName>
+<PO_EMAI>snaik@nsf.gov</PO_EMAI>
+<PO_PHON>7032924876</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Isoperimetric inequalities are foundational principles in mathematics, explaining numerous phenomena across the sciences. At the core of the theory is the classical inequality, which asserts that the circle has the smallest perimeter among all shapes of fixed area. A novel approach to such inequalities, developed by the PI and collaborators, employs empirical sampling. An empirical form of the classical inequality states that uniformly sampling points from a domain results in the expected perimeter of the convex hull being greater than if the same number of random points were sampled uniformly within a disk of equal area. This innovative approach opens new avenues for applying isoperimetric inequalities to random structures.  The proposal's interplay between geometry and probability leads to applications to various problems in learning theory and algorithmic complexity.  Progress is expected to enhance our grasp of complex structures in machine learning and refine algorithms used in neuroscience, computer vision, and signal processing. The PI will mentor students and early-career researchers in this new direction, presenting the ideas at international conferences and seminars.&lt;br/&gt;&lt;br/&gt;Until recently, this research has been within Brunn-Minkowski's theory, the classical mathematical theory that explains isoperimetric inequalities through properties of projections or shadows. The project suggests a new direction that includes the rapidly growing "dual theory," rooted in domain sections and inspired by Geometric Tomography.  The primary objective is to develop a comprehensive set of techniques that bridge fundamental conjectures in Brunn-Minkowski theory and dual Brunn-Minkowski theory. A key focus will be directed toward intersection bodies and their higher-dimensional generalizations, built on methods in the empirical approach to isoperimetry. New connections to functional and harmonic analysis, as well as tools from matrix analysis, are proposed to transform methods tailored to the classical theory into the dual theory. These connections also offer a novel perspective on several problems on metric embedding and the role of convexity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2405441</AwardID>
+<Investigator>
+<FirstName>Grigoris</FirstName>
+<LastName>Paouris</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Grigoris Paouris</PI_FULL_NAME>
+<EmailAddress><![CDATA[grigoris@math.tamu.edu]]></EmailAddress>
+<NSF_ID>000516282</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas A&M University]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress><![CDATA[400 HARVEY MITCHELL PKY S STE 30]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JF6XLNB4CDJ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A &amp; M UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M University]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778433368</ZipCode>
+<StreetAddress><![CDATA[3368 TAMU]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126500</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~238406</FUND_OBLG>
+</Award>
+</rootTag>

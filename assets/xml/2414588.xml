@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Integrating Remote Sensing and Deep Learning for Predictive Surveillance of Mine Tailings Impoundments]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>399475.00</AwardTotalIntnAmount>
+<AwardAmount>470475</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Giovanna Biscontin</SignBlockName>
+<PO_EMAI>gibiscon@nsf.gov</PO_EMAI>
+<PO_PHON>7032922339</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The impacts of climate change have led to an increase in extreme weather events, posing significant challenges to infrastructure resilience and community well-being. Research supported by this Disaster Resilience Research Grant (DRRG) project addresses the critical need to monitor and maintain existing infrastructure in the face of these challenges. Specifically, it focuses on mine tailings impoundments, massive geotechnical structures that store mining waste. The failure of these structures during extreme weather events can cause environmental damage and loss of life. By leveraging satellite imagery analysis, weather data, and deep learning techniques, this project aims to establish a standard monitoring approach for mine tailings impoundments and revolutionize infrastructure monitoring and hazard management. The outcomes will enable the identification of movements within these structures and provide a predictive understanding of failure probability, allowing us to act proactively and prevent disasters. This monitoring approach will enhance community resilience, support hazard management, and establish critical risk profiles for surrounding areas.&lt;br/&gt;&lt;br/&gt;The research aims to develop standards for monitoring mine tailings impoundments following their exposure to extreme weather events. The project's research objectives include: (i) analyzing the utility of satellite-based radar stacking techniques and moisture estimates to characterize the temporal performance of mine tailings impoundments; (ii) utilizing geotechnical engineering concepts and satellite observations to characterize the life-cycle of the mine tailings impoundments; (iii) developing standards for monitoring the failure risk profile of mine tailings impoundments utilizing deep learning models applied to satellite observations, environmental data, and extreme event information. By advancing our knowledge in this area, the project has interdisciplinary implications for remote sensing, geoengineering, computer science, and natural hazards engineering. Fusing these disciplines will result in a cost-effective and nonintrusive monitoring methodology that can reduce the consequences of infrastructure failures and provide timely warnings to mitigate hazards. The project's broader impacts include fostering the development of a diverse STEM workforce, improving community safety, and ensuring accessibility to potential end-users through conferences, journals, and online platforms. The ultimate goal is to prevent future disasters and enhance the well-being of both humans and anthropogenic infrastructure.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414588</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Oommen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas Oommen</PI_FULL_NAME>
+<EmailAddress><![CDATA[toommen@olemiss.edu]]></EmailAddress>
+<NSF_ID>000573263</NSF_ID>
+<StartDate>01/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Mississippi]]></Name>
+<CityName>UNIVERSITY</CityName>
+<ZipCode>386779704</ZipCode>
+<PhoneNumber>6629157482</PhoneNumber>
+<StreetAddress><![CDATA[113 FALKNER]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G1THVER8BNL4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF MISSISSIPPI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Mississippi]]></Name>
+<CityName>UNIVERSITY</CityName>
+<StateCode>MS</StateCode>
+<ZipCode>386779704</ZipCode>
+<StreetAddress><![CDATA[113 FALKNER]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>150400</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>198Y00</Code>
+<Text>DRRG-Disaster Resilience Res G</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>019Z</Code>
+<Text>Grad Prep APG:Enhan. Experience</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>037E</Code>
+<Text>GEOTECHNICAL ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>041E</Code>
+<Text>HAZARD AND DISASTER REDUCTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>068P</Code>
+<Text>INTERNSHIPS PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~399475</FUND_OBLG>
+<FUND_OBLG>2024~71000</FUND_OBLG>
+</Award>
+</rootTag>

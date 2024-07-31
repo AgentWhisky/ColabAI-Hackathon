@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Polynomial Interpolation, Symmetric Ideals, and Lefschetz Properties]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>332070.00</AwardTotalIntnAmount>
+<AwardAmount>155000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tim Hodges</SignBlockName>
+<PO_EMAI>thodges@nsf.gov</PO_EMAI>
+<PO_PHON>7032925359</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award provides support for research in commutative algebra, with connections to algebraic geometry. Within this framework, commutative algebra investigates systems of polynomial equations whose solutions form geometric objects, such as curves and surfaces. The process of finding a curve or surface passing through a given set of points is commonly referred to as interpolation. Polynomial interpolation finds widespread applications in scientific disciplines such as data analysis, numerical analysis, computer graphics, and mathematical modeling. This project specifically focuses on higher order polynomial interpolation in situations when the underlying data exhibits symmetry. More broadly, it aims to analyze systems of polynomial equations equipped with symmetry using tools from commutative algebra.  In addition to these contributions, the principal investigator will lead groups of undergraduate students in summer research, coordinate an undergraduate research hub at their institution, mentor graduate students and postdoctoral scholars, and organize events that support mathematicians from diverse groups.&lt;br/&gt;&lt;br/&gt;The PI will investigate three topics in commutative algebra generating current excitement: symbolic powers of ideals with applications to higher order polynomial interpolation, homological properties of symmetric ideals, and the algebraic Lefschetz property strengthened by the Hodge-Riemann relations. Symbolic powers of ideals encompass polynomials vanishing to a higher order on a given algebraic variety. The project will explore algebraic properties of symbolic power ideals endowed with additional structure encoding either symmetries of the underlying variety or other combinatorial information. Homological and enumerative properties for further classes of symmetric ideals will also be elucidated. Furthermore, the investigation will turn to graded Artinian Gorenstein algebras, serving as algebraic analogues for the cohomology rings of smooth projective algebraic varieties. While every cohomology ring of a smooth complex projective variety satisfies the Lefschetz theorems and Hodge-Riemann relations, the project aims to identify which Artinian Gorenstein algebras satisfy analogous algebraic properties.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Algebra and Number Theory program and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401482</AwardID>
+<Investigator>
+<FirstName>Alexandra</FirstName>
+<LastName>Seceleanu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexandra Seceleanu</PI_FULL_NAME>
+<EmailAddress><![CDATA[aseceleanu@unl.edu]]></EmailAddress>
+<NSF_ID>000701850</NSF_ID>
+<StartDate>04/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Nebraska-Lincoln]]></Name>
+<CityName>LINCOLN</CityName>
+<ZipCode>685032427</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress><![CDATA[2200 VINE ST # 830861]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NE01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HTQ6K6NJFHA6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Nebraska-Lincoln]]></Name>
+<CityName>LINCOLN</CityName>
+<StateCode>NE</StateCode>
+<ZipCode>685032427</ZipCode>
+<StreetAddress><![CDATA[2200 VINE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NE01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~155000</FUND_OBLG>
+</Award>
+</rootTag>

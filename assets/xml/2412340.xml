@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRII: III: Towards Effective and Efficient City-scale Traffic Reconstruction]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>174789.00</AwardTotalIntnAmount>
+<AwardAmount>113069</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded in whole or in part under the American Rescue Plan Act of 2021 (Public Law 117-2).&lt;br/&gt;&lt;br/&gt;Automobiles have facilitated socio-economic development and connected nearly all social sectors. However, rapid urbanization and expansion of the traffic system have caused many issues worldwide including congestion and accidents. As urbanization and vehicle production are projected to further increase in coming decades, better planning and management of traffic become imperative. Traffic is a dynamical system that propagates from one area to another in a city. So, in order to optimize it for various purposes, a holistic and systematic viewpoint of city-scale traffic dynamics is inevitable and necessary. Nevertheless, studies of this topic are currently lacking due to the limitation of traffic data and the multi-scale interpretation of the traffic system. This proposal focuses on leveraging mobile data to effectively and efficiently reconstruct city-scale traffic. The reconstructed traffic can be used to not only plan and manage urban traffic but also to predict traffic patterns by leveraging advanced traffic simulation. This project is expected to innovate in transportation and traffic research, and thus benefit people from various disciplines, including computer science, civil engineering, urban planning, earth science, and supply chain management. The accompanying educational and outreach activities include curriculum development at the intersection of Computer Science and Intelligent Transporation Systems, and research opportunities for students in underrepresented groups as well as high school students. &lt;br/&gt;&lt;br/&gt;The overall goal of this project is developing effective and efficient reconstruction methods of city-scale traffic using mobile data. First of all, the travel time of individual road segments will be estimated using the time information embedded in mobile data. With the estimated travel time, other macroscopic traffic states such as speed, flow, and density will be subsequently estimated. Second, a novel map-matching technique for generating vehicle trajectories will be developed in case of low-sampling rate mobile data. Third, simulation-based optimization will be adopted to reconstruct microscopic traffic dynamics while ensuring consistent traffic flows at the boundaries of data-sufficient and data-lacking areas. Lastly, a hybrid simulation will be explored with the aim to achieve highly-efficient traffic reconstruction through studying various ITS applications' requirements on efficiency and reconstruction fidelity, and an effective conversion method between macroscopic and microscopic traffic simulation. The proposed methods will be evaluated using both publicly available and proprietary data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/14/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>12/14/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412340</AwardID>
+<Investigator>
+<FirstName>Weizi</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Weizi Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[weizili@utk.edu]]></EmailAddress>
+<NSF_ID>000829160</NSF_ID>
+<StartDate>12/14/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960001</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress><![CDATA[201 ANDY HOLT TOWER]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FN2YCS2YAUW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TENNESSEE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>LXG4F9K8YZK5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>KNOXVILLE</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>379960001</ZipCode>
+<StreetAddress><![CDATA[201 ANDY HOLT TOWER]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736400</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~113069</FUND_OBLG>
+</Award>
+</rootTag>

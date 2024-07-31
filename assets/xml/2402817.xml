@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CIF-Medium: Privacy-preserving Machine Learning on Graphs]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alfred Hero</SignBlockName>
+<PO_EMAI>ahero@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Graph-structured data captures intricate interactions between diverse agents, and is widespread in various scientific and engineering applications such as communication theory and computer science, medical research, computational biology, and social sciences. In many scenarios, graph information is sensitive and has to be kept private. Additionally, it often necessitates updates to accommodate changes in permissions, leading to the need to retrain sophisticated large-scale machine learning models from the ground up. To simultaneously ensure that the data is kept private and easily removable without complete relearning, and that its utility for making inference and predictions remains uncompromised, innovative, and efficient privacy-preserving machine learning algorithms for graph data are essential. In addition to establishing a framework for novel graph-learning method development, the project will also provide unique cross-disciplinary training opportunities for students in biological, physics, and financial graph data analysis; broaden the participation of women and other under-represented groups in STEM research via targeted recruiting and specialized student exchange programs; and, in the process, establish new collaborations among various machine learning, data acquisition and modeling centers/institutes housed at the participating institutions.&lt;br/&gt;&lt;br/&gt;This project aims to address fundamental challenges in designing privacy-preserving and efficiently updatable graph neural network models by leveraging interdisciplinary techniques from machine learning, data security, information theory, theoretical computer science and statistics. The main difficulties encountered are that (i) the graph attributes and topology are heterogeneous, yet highly correlated data types; (ii) privatization reduces utility; (iii) inference attacks that aim to determine how much information is leaking for sub-optimally privatized graph learners are generally unreliable. To resolve these issues, the team will devise novel non-uniform privatization protocols that trade accuracy for varied degrees of privacy protection; implement provably efficient methods to remove graph information from graph neural network models without retraining; and in, the process, implement a new cohort of membership inference approaches that can accurately measure information retention and leakage of machine learning models.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402817</AwardID>
+<Investigator>
+<FirstName>Kamalika</FirstName>
+<LastName>Chaudhuri</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kamalika Chaudhuri</PI_FULL_NAME>
+<EmailAddress><![CDATA[kamalika@cs.ucsd.edu]]></EmailAddress>
+<NSF_ID>000573596</NSF_ID>
+<StartDate>03/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>9500 GILMAN DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930934</ZipCode>
+<StreetAddress><![CDATA[9500 GILMAN DRIVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~400000</FUND_OBLG>
+</Award>
+</rootTag>

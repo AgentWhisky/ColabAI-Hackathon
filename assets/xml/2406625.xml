@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Nonlinear Electrohydrodynamics of Motile Particles in Confinement]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>430000.00</AwardTotalIntnAmount>
+<AwardAmount>308031</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitry Golovaty</SignBlockName>
+<PO_EMAI>dgolovat@nsf.gov</PO_EMAI>
+<PO_PHON>7032922117</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Tiny, micron-sized particles called colloids are widely used in engineering and biomedical applications, e.g, microfluidics, drug delivery, consumer products such as paint, and advanced materials such as optical metamaterials and structural color. In recent years, there has been great effort to assemble colloids into new functional materials with designer architecture using electric and magnetic fields. Of particular interest are colloids that spin (rotors), because in such systems the flows stirred by the rotating particles add to the electrostatic interactions, thereby vastly expanding the possible structures. This project will theoretically study the dynamics of colloids placed between two planar electrodes in order to understand the mechanisms of the field-driven particle assembly. The project integrates knowledge across the fields of applied mathematics, fluid mechanics and soft matter, which will be very beneficial for the training of the students associated with the project. Visually appealing experiments will help educate the public about mathematics and fluid dynamics. &lt;br/&gt; &lt;br/&gt;This project is concerned with a theoretical investigation of motile particles in confinement. The focus is on particles driven to either roll or rotate by the Quincke instability in a uniform electric field between two electrodes. Quincke-driven particles are a popular model of active matter, which are systems composed of entities harvesting energy from the environment and converting it into motion. A fascinating feature of active matter is the emergence of macroscopic structures or coherent motions on scales much larger than the individual unit. Agent-based models are often employed to describe the collective dynamics of motile individuals. A key challenge is the choice of rules for the interaction between the agents. In the case of Quincke-driven particles, demonstrating the importance of physics-informed mathematical models has been a major thrust in the research conducted by the investigators. Current models of the particle dynamics are unable to explain the experiments due to inadequate description of the boundary effects. To fill this void, the investigators develop mathematical models, analytical solutions, and accurate and efficient computational solutions of the electrohydrodynamics of many particles between two walls, which are mathematically challenging multiphase and multibody problems. The mathematical advances are many and include analytical solutions of single particle dynamics between electrodes, detailed analysis of the pair-wise particle interactions in confinement, and integration of these analytical results into an algorithm based on multipole expansions for many particles. Experiments integrated with the mathematical research inform and test the mathematical models and to ensure that the research has impact both in and beyond the applied mathematics community. Educational impact includes bringing direct experimental experience in fluid dynamics and soft matter research to applied mathematics undergraduate and graduate students at Northwestern University. The emergent behavior of the Quincke rotors will likely open new research directions across various fields, e.g., non-equilibrium soft matter, materials engineering, and fluid dynamics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406625</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Miksis</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael J Miksis</PI_FULL_NAME>
+<EmailAddress><![CDATA[miksis@northwestern.edu]]></EmailAddress>
+<NSF_ID>000221842</NSF_ID>
+<StartDate>05/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Petia</FirstName>
+<LastName>Vlahovska</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Petia M Vlahovska</PI_FULL_NAME>
+<EmailAddress><![CDATA[petia.vlahovska@northwestern.edu]]></EmailAddress>
+<NSF_ID>000115882</NSF_ID>
+<StartDate>05/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress><![CDATA[633 CLARK ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>Evanston</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602083125</ZipCode>
+<StreetAddress><![CDATA[2145 Sheridan Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~308031</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A1-Homotopy Theory and Applications to Enumerative Geometry and Number Theory]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>405500.00</AwardTotalIntnAmount>
+<AwardAmount>405500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eriko Hironaka</SignBlockName>
+<PO_EMAI>ehironak@nsf.gov</PO_EMAI>
+<PO_PHON>7032927041</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award supports a research program involving an enriched form of counting to study the solutions of equations and the spaces they form. It matters if the solution to a set of equations can be expressed using the usual counting numbers, or if real numbers are required, or if one must use imaginary numbers. The enriched count detects such differences. In some cases, it is closely connected to the number of holes of dimension d in the shape of a space of real solutions to the equations. This project exploits the power of the enriched count, exposing potential applications in number theory and algebraic geometry. The award will also support a pipeline for a strong and diverse mathematical workforce.  This will involve a continuing program of week-long summer math jobs for gifted high school students from diverse backgrounds. During this program, the PI will facilitate collaborative projects with high school student and teachers, providing background material as necessary. Graduates from the summer program will be encouraged to continue on to a Research Experience for Undergraduates that will provide further mathematical training and research mentorship.  &lt;br/&gt;&lt;br/&gt;The proposed research studies number-theoretic and algebro-geometric questions using cohomology theories and homotopical methods in the framework of Morel and Voevodsky's A1-homotopy theory. The project uses stable A1-homotopy theory to produce results in enumerative geometry over non-algebraically closed fields and rings of integers. New Gromov--Witten invariants defined over general fields have the potential to satisfy wall-crossing formulas, surgery formulas, and WDVV equations. For this, the project studies notions of spin over general fields. The Weil conjectures connect the number of solutions to equations over finite fields to the topology of their complex points: The zeta function of a variety over a finite field is simultaneously a generating function for the number of solutions to its defining equations and a product of characteristic polynomials of endomorphisms of cohomology groups. The ranks of these cohomology groups are the Betti numbers of the associated complex manifold. The logarithmic derivative of the zeta function is enriched to a power series with coefficients in the Grothendieck--Witt group, producing a connection with the associated real manifold. This project aims to increase our control over this logarithmic derivative of the zeta function and its applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/26/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/26/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2405191</AwardID>
+<Investigator>
+<FirstName>Kirsten</FirstName>
+<LastName>Wickelgren</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kirsten Wickelgren</PI_FULL_NAME>
+<EmailAddress><![CDATA[kirsten.wickelgren@duke.edu]]></EmailAddress>
+<NSF_ID>000653357</NSF_ID>
+<StartDate>02/26/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126700</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~405500</FUND_OBLG>
+</Award>
+</rootTag>

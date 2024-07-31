@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Understanding electronic transport and dynamics of quantum-dot-doped-semiconductor solids for infrared optoelectronics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>417058.00</AwardTotalIntnAmount>
+<AwardAmount>134955</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Lane</SignBlockName>
+<PO_EMAI>plane@nsf.gov</PO_EMAI>
+<PO_PHON>7032922453</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Description&lt;br/&gt;&lt;br/&gt;Quantum dots (QDs) are nanocrystals with optical properties that depend on their size and composition. This makes it possible to tune their absorption and emission spectra from the visible to the infrared region for desired applications. For example, quantum dots emitting precise colored light have been used as emissive layers in displays with high definition and saturated colors. However, their implementation in electronic devices is limited by poor charge transport properties. This research focuses on developing and understanding a novel hybrid system that integrates QDs into high-mobility crystalline semiconductor matrices to take advantage of their properties and create new structures with new properties for optoelectronic applications. The research team investigates the structure-property relationship of the hybrid structure to gain insight into how the two distinct components interact and what governs the spatial distribution and flow of charge carriers. Building on these insights, the goal is to develop strategies for efficient light-emitting structures in the short-wave infrared spectrum. Additionally, the project trains graduate and undergraduate students and actively engages students from underrepresented groups in STEM, offering research opportunities through the New Haven Promise Program and the Yale STARS Summer Research Program.&lt;br/&gt; &lt;br/&gt;Technical Description&lt;br/&gt;&lt;br/&gt;Optical light sources in the short-wave infrared region are essential for bioimaging, medical diagnosis, machine vision, and communication. However, their integration into portable and wearable electronics is currently limited due to the complex fabrication processes required for epitaxially grown semiconductors. This study explores the potential of a novel solution-processed heterostructure—by exploiting QDs as substitutional dopants for bulk crystalline semiconductors—to manipulate the dynamics and transport of energy carriers and thereby modify the electronic and optical properties of the host material. A variety of techniques, including photoemission spectroscopy, pump-probe optical spectroscopy, and synchrotron X-ray scattering, are employed to characterize the judiciously chosen material compositions. The project aims to extend the structural versatility of the hybrid structure, elucidate the mechanisms and efficiency of carrier transfer between localized and delocalized states, and correlate the fundamental physics with the structural properties. This understanding is expected to establish the knowledge base needed for using these materials as both non-coherent and coherent light sources.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415101</AwardID>
+<Investigator>
+<FirstName>Mengxia</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mengxia Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[mengxia.liu@yale.edu]]></EmailAddress>
+<NSF_ID>000880896</NSF_ID>
+<StartDate>07/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<ZipCode>065113572</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress><![CDATA[150 MUNSON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FL6GV84CKN57</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>YALE UNIV</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FL6GV84CKN57</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>065160972</ZipCode>
+<StreetAddress><![CDATA[520 West Campus Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177500</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>106Z</Code>
+<Text>Microelectronics and Semiconductors</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8607</Code>
+<Text>Solar Energy Capture&amp;Conver</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~134955</FUND_OBLG>
+</Award>
+</rootTag>

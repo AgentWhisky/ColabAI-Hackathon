@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: AF: Fast Algorithms for Riemannian Optimization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>550316.00</AwardTotalIntnAmount>
+<AwardAmount>172064</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karl Wimmer</SignBlockName>
+<PO_EMAI>kwimmer@nsf.gov</PO_EMAI>
+<PO_PHON>7032922095</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Riemannian optimization, the study of minimizing a cost function over a Riemannian manifold, is surging in prominence due to its many applications in modern statistics and machine learning.  A small sample of these popular applications includes metric learning, mixture model parameter estimation, covariance estimation and subspace recovery, and matrix completion. In the non-statistical realm, Riemannian optimization is becoming an important toolset for diffusion tensor imaging, a novel technology for using magnetic resonance imaging to profile the human brain, as well as for solving synchronization of rotation problems that support 3-D imaging of real-world objects. This award's overarching goal is to construct new methods for solving Riemannian optimization problems with the fastest possible computational speed. Tangible benefits of this award will include new software packages for easily solving Riemannian optimization problems, new educational materials that introduce this exciting field to undergraduate and graduate students, and funding for graduate students in a research group predominantly comprised of underrepresented minorities.&lt;br/&gt; &lt;br/&gt;Explained on a more granular level, the award aims to construct optimal rate methods, where such rates are quantified in calls to oracles that produce differential information for minimizing a cost function over a Riemannian manifold. Each of the award's constituent projects will lead to the development of algorithms whose complexity matches their analogs for optimization over a subset of a Euclidean space, such as gradient descent and Newton's method. To this end, the award focuses on two broad classes of problems: geodesically convex optimization problems and geodesically non-convex optimization problems. Naturally, geodesically convex optimization is the generalization of convex optimization to the manifold setting. Inspired by Nesterov's famous work on accelerated gradient descent, the award pays particular attention to the incorporation of Nesterov-style momentum in existing Riemannian optimization methods based on first- and second-order differential information. To benefit the real-world practice of Riemannian optimization, the award will further fund the development of deployable software packages that include the optimal rate algorithms built during this research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/18/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>12/18/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410328</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Gutman</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David H Gutman</PI_FULL_NAME>
+<EmailAddress><![CDATA[dhgutman@tamu.edu]]></EmailAddress>
+<NSF_ID>000829784</NSF_ID>
+<StartDate>12/18/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress><![CDATA[3124 TAMU]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778433124</ZipCode>
+<StreetAddress><![CDATA[3124 TAMU]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779600</Code>
+<Text>Algorithmic Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~172064</FUND_OBLG>
+</Award>
+</rootTag>

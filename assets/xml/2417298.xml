@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Understanding the Role of Residual Stress Gradients on Plastic Strain Recovery in Nanocrystalline Thin Films]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>482511.00</AwardTotalIntnAmount>
+<AwardAmount>413161</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Siddiq Qidwai</SignBlockName>
+<PO_EMAI>sqidwai@nsf.gov</PO_EMAI>
+<PO_PHON>7032922211</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award supports research to identify the microscopic mechanisms governing plastic strain recovery in pure nanocrystalline metal thin films. This project will implement an integrated experimental and modeling strategy to address this objective. The identification of the mechanisms governing plastic strain recovery will raise the possibility of designing metal components that may recover after being deformed or dented. This fundamental knowledge will be used to develop predictive tools, which will facilitate the accurate prognosis of life to mitigate premature failures. There is a wide range of applications such as gas turbines and tribological coatings among others that can benefit from these developments. In addition, the project will provide an integrated training platform for the future and diverse workforce via the education of graduate and undergraduate students in the areas of computational mechanics and microscopy. A particularly interesting ativity in this regard is the partnership with a local community college, whose students will be able to apply for 8-week long research internships.&lt;br/&gt;&lt;br/&gt;The deformation behavior of nanocrystalline metals substantially differs from that of coarse-grained metals. One such unique behavior is the ability of nanocrystalline metals to recover plastic strain. This phenomenon is quite unusual since plastic deformation in metals is considered permanent after unloading. The critical micromechanical driving forces are not clear however and remain a subject of conjecture. As a result, a microstructure-sensitive predictive modeling framework also remains elusive. Specific objectives of this work are to: (1) identify the influence of mismatch in elastic response of nano-sized grains on plastic strain recovery; (2) elucidate the influence of texture on the residual stresses; (3) identify the connection between grain boundary sliding and strain compatibility; and (4) identify the influence of grain boundary sliding on the residual stress gradients. An integrated experimental-modeling plan is put in place to achieve these objectives that includes extensive in-situ testing and characterization using advanced microscopy techniques, such as the scanning transmission electron microscopy, and sophisticated elastoplastic phase field modeling method.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/20/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417298</AwardID>
+<Investigator>
+<FirstName>Leslie</FirstName>
+<LastName>Mushongera</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leslie T Mushongera</PI_FULL_NAME>
+<EmailAddress><![CDATA[lmushongera@unr.edu]]></EmailAddress>
+<NSF_ID>000791520</NSF_ID>
+<StartDate>02/20/2024</StartDate>
+<EndDate>03/18/2024</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yufeng</FirstName>
+<LastName>Zheng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yufeng Zheng</PI_FULL_NAME>
+<EmailAddress><![CDATA[Yufeng.Zheng@unt.edu]]></EmailAddress>
+<NSF_ID>000812906</NSF_ID>
+<StartDate>03/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of North Texas]]></Name>
+<CityName>DENTON</CityName>
+<ZipCode>762051132</ZipCode>
+<PhoneNumber>9405653940</PhoneNumber>
+<StreetAddress><![CDATA[1112 DALLAS DR STE 4000]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G47WN1XZNWX9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH TEXAS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Texas]]></Name>
+<CityName>DENTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>762051132</ZipCode>
+<StreetAddress><![CDATA[1112 DALLAS DR STE 4000]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>163000</Code>
+<Text>Mechanics of Materials and Str</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>013E</Code>
+<Text>MULTI-SCALE MODELING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>022E</Code>
+<Text>SOLID MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>024E</Code>
+<Text>MATERIALS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>027E</Code>
+<Text>NANOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~413161</FUND_OBLG>
+</Award>
+</rootTag>

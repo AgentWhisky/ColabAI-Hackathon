@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: Examination of Transition Metal Sulfides as Catalysts for S2-Assisted Oxidative Coupling of Methane]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>249993.00</AwardTotalIntnAmount>
+<AwardAmount>249993</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samy El-Shall</SignBlockName>
+<PO_EMAI>selshall@nsf.gov</PO_EMAI>
+<PO_PHON>7032927416</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In this project, funded by the MPS-LEAPS (Launching Early-Career Academic Pathways) Program and managed by the Broadening Participation (CHE-BP) Program in the Division of Chemistry, Professor Obioma Uche and her students at the Rochester Institute of Technology will perform studies that aim to evaluate the performance of transition metal sulfide catalysts for the production of ethylene. Although the oxidative transformation of methane with oxygen is an attractive route, it is limited by severe over-oxidation pathways. Previous research has demonstrated that sulfur can serve as a milder oxidant for the conversion of methane to ethylene over transition metal sulfide (TMS) catalysts. Professor Uche and her students will employ a combination of theoretical calculations and atomistic simulation techniques to screen for TMS catalysts which are highly effective for sulfur-assisted oxidative coupling of methane (SOCM) as well as determine the underlying mechanism. Their studies could provide new insights on the mechanistic behavior and kinetics of the SOCM reaction with the added potential for yielding increased economic advantages for the chemical industry in the United States. The project will also serve as a vehicle to introduce students from underrepresented backgrounds to computational catalysis research by utilizing student conference workshops and established K-12 partnerships.&lt;br/&gt;&lt;br/&gt;Professor Uche and her students will use key structural descriptors to identify TMS catalysts which display high activity for methane conversion and high selectivity for ethylene formation. In particular, exposed facets of the corresponding equilibrium structures for the transition metal sulfides under consideration will be examined to determine SOCM catalytic efficacy. Insights on the kinetics for sulfur-assisted oxidative coupling of methane will also be obtained from analyses of the reaction on a palladium-based sulfide catalyst. Taken together, these aims will provide a comprehensive examination of SOCM over transition metal sulfide catalysts as an alternative approach to ethylene production. Density functional theory calculations as well as molecular dynamics simulations (both ab-initio and reactive) will be used during the course of the investigation. Specific strategies for broadening participation among students from underrepresented groups will include integration of the research outcomes in the development of an interactive workshop for undergraduates and delivery of a capstone experience for high school seniors.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418947</AwardID>
+<Investigator>
+<FirstName>Obioma</FirstName>
+<LastName>Uche</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Obioma Uche</PI_FULL_NAME>
+<EmailAddress><![CDATA[oxuche@rit.edu]]></EmailAddress>
+<NSF_ID>000872091</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Rochester Institute of Tech]]></Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146235603</ZipCode>
+<PhoneNumber>5854757987</PhoneNumber>
+<StreetAddress><![CDATA[1 LOMB MEMORIAL DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J6TWTRKC1X14</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ROCHESTER INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rochester Institute of Tech]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146235603</ZipCode>
+<StreetAddress><![CDATA[1 LOMB MEMORIAL DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>217Y00</Code>
+<Text>LEAPS-MPS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7487</Code>
+<Text>BROADENING PARTICIPATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8398</Code>
+<Text>Hydrocarbon Conversion</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~249993</FUND_OBLG>
+</Award>
+</rootTag>

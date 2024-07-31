@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: Power of Diversity in Uncertainty Quantification (PoD UQ)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>23500.00</AwardTotalIntnAmount>
+<AwardAmount>23500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Troy D. Butler</SignBlockName>
+<PO_EMAI>tdbutler@nsf.gov</PO_EMAI>
+<PO_PHON>7032922084</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Power of Diversity in Uncertainty Quantification (PoD UQ) workshop will be a one-day meeting hosted by the International School for Advanced Studies in Trieste, Italy, on February 26, 2024. This is the day prior to the beginning of the next SIAM Conference on Uncertainty Quantification (SIAM UQ24), which will be held in Trieste from February 27 to March 1, 2024. SIAM UQ24 is dedicated to recognizing the natural synergy between computational models and statistical methods, strengthened by the emergence of machine learning as a practical tool. Thus, for the first time there will be a large international meeting on the whole UQ ecosystem viewed through a unifying lens. For graduate students and young researchers entering the field of UQ, SIAM UQ24 offers a unique opportunity to learn from and exchange ideas with diverse groups of UQ professionals from academia, industry, and government laboratories. As attractive as this opportunity is, the size and breadth of the conference could be daunting. PoD UQ is targeted to graduate students and young researchers to ease their approach to SIAM UQ24 and ensure they make the most out of it.&lt;br/&gt;&lt;br/&gt;The name of the event highlights the central role played by diversity in UQ, a field whose advancement requires the integration of mathematics and statistics, theory and computations. Diversity refers also to the community of under-represented groups that the event targets for greater inclusivity. The goals of PoD UQ are to: (i) Introduce students and early-career researchers to the state-of-the-art and current trends in modeling, sampling, and analyzing uncertainties. The meeting will feature three talks meant to give an overview of the different areas in UQ and two introductory talks on current hot topics. All the talks will be delivered by internationally renowned leaders in the field. In addition, a panel of established UQ researchers will discuss the opportunities and challenges of working in an application-driven and inherently interdisciplinary field that relies on a broad range of mathematical and statistical foundations, domain knowledge, and algorithmic and computational tools. (ii) Offer an excellent chance for networking with both peers and more established researchers. Recognizing the importance of a supportive network in building a career, especially for people from minority groups, the schedule of PoD UQ includes ample time to connect and interact. The participants will have two coffee breaks and a generous lunch break to interact among themselves. A poster sessions and seated dinner with assigned seats will ensure that the participants get to interact with the speakers and the panelists. More details can be found at: http://go.sissa.it/siamuq24satelliteevent&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/30/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403506</AwardID>
+<Investigator>
+<FirstName>Annalisa</FirstName>
+<LastName>Quaini</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Annalisa Quaini</PI_FULL_NAME>
+<EmailAddress><![CDATA[quaini@math.uh.edu]]></EmailAddress>
+<NSF_ID>000579602</NSF_ID>
+<StartDate>01/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Houston]]></Name>
+<CityName>HOUSTON</CityName>
+<ZipCode>772043067</ZipCode>
+<PhoneNumber>7137435773</PhoneNumber>
+<StreetAddress><![CDATA[4300 MARTIN LUTHER KING BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QKWEF8XLMTT3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF HOUSTON SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Houston]]></Name>
+<CityName>HOUSTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>772043067</ZipCode>
+<StreetAddress><![CDATA[4300 MARTIN LUTHER KING BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~23500</FUND_OBLG>
+</Award>
+</rootTag>

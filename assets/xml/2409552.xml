@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: DMREF: Organic Materials Architectured for Researching Vibronic Excitations with Light in the Infrared (MARVEL-IR)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>346256.00</AwardTotalIntnAmount>
+<AwardAmount>196256</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Schlueter</SignBlockName>
+<PO_EMAI>jschluet@nsf.gov</PO_EMAI>
+<PO_PHON>7032927766</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Non-technical Description: &lt;br/&gt;The detection of infrared (IR) light underpins modern science, technology, and society in profound ways, permitting the observation of objects and information that are invisible to conventional detectors, imagers, and cameras. However, despite decades of development, current IR semiconductors possess numerous drawbacks that limit their widespread use and the development of critical emerging technologies. This project will investigate completely new light-matter interactions, theoretical and computational approaches, novel polymer semiconductors with tailored electronic structures, and devices to enable optical to electrical transduction of IR light, a fundamentally new capability for organic materials. These materials and devices will satisfy the functional and economic requirements for technologies that can address critical national needs with global societal impacts in climate change, manufacturing, energy, healthcare, information science, consumer applications, future aerospace and defense-wide applications, and many others. New theoretical, synthetic, characterization, and device advances will coalesce with Air Force Research Labs and industry partnerships to produce new materials and devices for technology transfer. Workforce development efforts will focus on multidisciplinary education through co-mentorship, industry and Department of Defense interactions, outreach to underrepresented high school and undergraduate students, and professional development actives for research and leadership training.&lt;br/&gt;&lt;br/&gt;Technical Description: &lt;br/&gt;This project will address grand challenges to revolutionize our understanding of charge photogeneration and emerging solid-state transport phenomena in order to enable optical to electrical transduction of IR light from organic materials. To achieve this, the research team will establish a closed loop between theory, computation, synthesis, spectroscopy, and device fabrication, engineering, and physics. Revolutionary ab initio and time-dependent quantum chemical calculations that incorporate non-adiabatic dynamics will for the first-time provide detailed insight into IR excitations in correlated organic materials with complex excitonic, vibrational, polaronic, and spin properties. Systematic theory-synthesis-spectroscopic approaches will be developed and applied to benchmark these new theoretical approaches and correlate molecular design with emerging functionality and coherent quasiparticle dynamics across multiple spatiotemporal timescales. This will be related to the fundamental electro-optical physics and device performance, enabling new functionality. These new, foundational design principles will be combined with experimentally validated physical structure-property models and data-driven machine learning methods to simulate new polymer structures, rapidly screen materials candidates, improve performance, and create new material libraries. This will create a comprehensive materials genome for conjugated polymers that operate throughout the IR. Thus, this project will enable fundamentally new scientific capabilities and revolutionary performance in organic electronic devices, acting as a core enabler of transformative technologies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/06/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/06/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409552</AwardID>
+<Investigator>
+<FirstName>Guoxiang</FirstName>
+<LastName>Hu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Guoxiang Hu</PI_FULL_NAME>
+<EmailAddress><![CDATA[emma.hu@mse.gatech.edu]]></EmailAddress>
+<NSF_ID>000846136</NSF_ID>
+<StartDate>02/06/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303186395</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>30332</ZipCode>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>829200</Code>
+<Text>DMREF</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>094Z</Code>
+<Text>Materials Data</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>095Z</Code>
+<Text>Materials AI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>106Z</Code>
+<Text>Microelectronics and Semiconductors</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7234</Code>
+<Text>SENSORS NON-SOLICITATION RESEA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8400</Code>
+<Text>DMREF</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~196256</FUND_OBLG>
+</Award>
+</rootTag>

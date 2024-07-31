@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Problems in Harmonic Analysis: interplay between non-zero and zero curvature]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>276250.00</AwardTotalIntnAmount>
+<AwardAmount>276250</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wing Suet Li</SignBlockName>
+<PO_EMAI>winli@nsf.gov</PO_EMAI>
+<PO_PHON>7032924630</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project in classical harmonic analysis focuses on time-frequency analysis and its connections with other fields such as combinatorics, ergodic theory and fluid dynamics. Time-frequency analysis originates in signal processing and considers the properties of a signal in both the time and frequency domains simultaneously. Historically, the development of time-frequency analysis was motivated in quantum mechanics (e.g. the celebrated Heisenberg uncertainty principle and related work of Wigner and Gabor) and radar detection. Modern applications relying on time-frequency techniques include areas such as image sampling, satellite transmission/GPS location and biomedicine. The PI will continue the development of powerful analytical methods to advance time-frequency analysis from a theoretical perspective. The PI will organize a series of educational activities that include outreach and mentoring for high school and undergraduate students, Putnam exam preparation, reading-course offerings, supervision of graduate students and postdoctoral researchers, and co-organization of seminars, conferences, and summer schools. &lt;br/&gt;&lt;br/&gt;This project involves important problems in harmonic analysis with connections to additive combinatorics, ergodic theory and PDE. Relying on time-frequency analysis, the main focus is on the interplay between non-zero and zero curvature settings, with special attention paid to hybrid situations that encapsulate features from both extremes of the scale. The main themes include: (I) Multilinear maximal/singular/oscillatory operators: Building on a natural hierarchical structure that includes the Carleson operator and the bilinear Hilbert transform, this topic studies several relevant model problems in connection to two celebrated open questions: (a) the behavior of the pointwise convergence of bilinear Fourier series, and (b) the boundedness properties of the trilinear Hilbert transform. (II) Multidimensional maximal/singular/oscillatory operators along variable curves: This theme focuses on Carleson-Radon type behavior as well as on an array of problems related to Zygmund's differentiation conjecture. The crucial difficulty here lies in the multivariable dependence of the curves involved in the representation of the operators under study. This creates a series of new difficulties in part due to the existence of Kakeya/Besicovitch type phenomena. (III) Pointwise convergence of Fourier Series, end-point behavior: This topic revolves around the century-old problem regarding the behavior of Fourier Series and discusses some long-standing conjectures on which the investigator has made relevant progress. The main interest in this study relies on the new methods to be developed in order to exploit subtle connections with additive combinatorics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/20/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400238</AwardID>
+<Investigator>
+<FirstName>Victor</FirstName>
+<LastName>Lie</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Victor D Lie</PI_FULL_NAME>
+<EmailAddress><![CDATA[vlie@math.purdue.edu]]></EmailAddress>
+<NSF_ID>000600983</NSF_ID>
+<StartDate>06/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE STE 1900]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128100</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~276250</FUND_OBLG>
+</Award>
+</rootTag>

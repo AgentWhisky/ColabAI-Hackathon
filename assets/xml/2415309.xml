@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I: AAV QC using SANE Sensor]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>275000.00</AwardTotalIntnAmount>
+<AwardAmount>275000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+<PO_EMAI>hahn@nsf.gov</PO_EMAI>
+<PO_PHON>7032927069</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project is it will demonstrate a plasmonic nanopore sensor device for all-in-one DNA loading characterization of adeno-associated viruses (AAVs) used for gene therapy. In the longer-term, the company anticipates that it will extend uses of this device to accurately test the drug or DNA/RNA loading consistency of soft nanoparticles such as exosomes, other viruses, and liposomes, to make this quality control (QC) technology applicable to all nanoparticles with biological applications and beyond. This project has inextricable interests in biochemistry, nanoengineering, photonics, and resistive pulse sensing which would be beneficial to encourage more students to pursue STEM degree through its outreach program. The PI will lead the company’s outreach in the Dallas County Community College District, whose mission is to build up the local workforce to today’s market needs, with nanosensor demonstrations and discussion of broad applications. The proposed technology also has the potential to drastically reduce the time and resource demands of AAV QC processes and increase success rates in early-phase gene therapy trials, accelerating FDA approvals for desperately needed treatments. &lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project will demonstrate a plasmonic nanopore sensor device that will outperform existing analytical techniques by capturing multiple optical-electrical data types per AAV particle to enable, for the first time, unambiguous payload classification (single-stranded DNA versus double-stranded DNA, or empty) at low, pre-scale-up concentrations to optimize formulations in small batches, enabling significant savings in subsequent large-volume production. The proposed work will show feasibility of the proposed device to be nanofabricated in a scalable manner by electron beam lithography, namely optimize sensor nanofabrication protocol for accuracy and production reproducibility of the 3D plasmonic trap, and ensure accurate laser source alignment with bonded optics, and a photodetector collecting optical signals transmitted through the sensor. In addition, this work will optimize machine learning-based sensor discrimination between empty versus partly and fully loaded AAVs by optimizing the spectrum of AC pulse frequencies that scan each particle during trapping. Once successfully tested, the prototype’s nanofabrication and machine-learning workflows will be ready for further development into the company’s first commercial device after a subsequent Phase II.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415309</AwardID>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Renkes</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott Renkes</PI_FULL_NAME>
+<EmailAddress><![CDATA[renkessa@gmail.com]]></EmailAddress>
+<NSF_ID>000980969</NSF_ID>
+<StartDate>06/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Georgios</FirstName>
+<LastName>Alexandrakis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Georgios Alexandrakis</PI_FULL_NAME>
+<EmailAddress><![CDATA[galex@uta.edu]]></EmailAddress>
+<NSF_ID>000553083</NSF_ID>
+<StartDate>06/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[ADAVANCE NANOLYTICS INC]]></Name>
+<CityName>DALLAS</CityName>
+<ZipCode>752482201</ZipCode>
+<PhoneNumber>7402726710</PhoneNumber>
+<StreetAddress><![CDATA[7223 ARBOR OAKS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GVL5CSKS4EW5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ADAVANCE NANOLYTICS INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Adavance Nanolytics Inc]]></Name>
+<CityName>Arlington</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>760101511</ZipCode>
+<StreetAddress><![CDATA[500 UTA Blvd, ERB 182A]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>33</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX33</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>150500</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>004E</Code>
+<Text>BIOMEDICAL ENG AND DIAGNOSTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~275000</FUND_OBLG>
+</Award>
+</rootTag>

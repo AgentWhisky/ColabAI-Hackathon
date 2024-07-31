@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: First-principles Predictive Understanding of Chemical Order in Complex Concentrated Alloys: Structures, Dynamics, and Defect Characteristics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>417237</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Serdar Ogut</SignBlockName>
+<PO_EMAI>sogut@nsf.gov</PO_EMAI>
+<PO_PHON>7032924429</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>NONTECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This CAREER award supports research and educational activities to develop quantum mechanical and machine learning methods to understand and design complex multi-element alloys at the atomic level. The project focuses on complex concentrated alloys (CCAs), a class of novel alloys that mix atoms of different species at nearly equal ratios. The scientific drive for studying CCAs is to understand and utilize the vast chemical and structural design space associated with multiple elements in search of new materials properties. Current understanding about the stability, structures, and properties of alloys is limited to the corners and edges of the multi-element space, such as binary or dilute alloys. The information for CCAs close to the center of the composition space is virtually non-existent for systems with four or more elements. The project intends to fill this knowledge gap in alloy theory for these complex alloy systems by (i) establishing an accurate predictive understanding of the atomic structures in CCAs through a combination of quantum mechanical calculations and statistical mechanics methods, and (ii) integrating quantum mechanical calculations, empirical models and close-loop machine learning methods to predict the structural and defect features in CCAs for accelerated design of CCAs for structural or functional applications.  The multidisciplinary nature of the project brings perspectives from multiple academic fields into the forefront of materials research. The focus of the technologically relevant CCAs will strengthen the U.S. leadership in fundamental alloy research. &lt;br/&gt;&lt;br/&gt;The education and outreach activities of the project includes five integrated parts that address learning tool innovation, broadening participation, youth material education, summer research exposure, and research career development. The project brings together national and local partners to create a multidisciplinary team with complementary expertise to strengthen Science, Technology, Engineering, and Mathematics education and raise the awareness of materials science. In collaboration with Amazon, a cloud-based learning app will be developed to transplant the PI’s research and introduce materials and data science to the general public. The PI will collaborate with SMASH Illinois to offer academic and social programs to underrepresented students to broaden participation in materials education. In parallel, summer camps with North Central College and Questek, as well as high school research programs with Adlai E. Stevenson High School will be expanded to expose the younger generation to materials science. The PI will also work closely with undergraduate and graduate students to foster multidisciplinary career development via project-based research programs.&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This CAREER award supports research and educational activities to develop first-principles and data-driven methods to understand the atomic nature of short range order (SRO) in complex concentrated alloys (CCAs) and how such chemical order influences lattice distortion, dynamics, and defect structures, thus creating opportunities for designing new advanced alloys. Severe lattice distortion is an important phenomenon that is correlated to a variety of physical and chemical properties in CCAs. However, the nature of severe lattice distortions in CCAs is poorly understood, especially with the coupling of SRO. The PI will study SRO and related lattice distortions in CCAs with a unique synergy of mechanism investigation, predictive modeling, and methodology development. The research will elucidate SRO on the structures of lattice distortions in CCAs, which will be utilized to quantify the impact of the distorted lattices on the phonon characteristics of CCAs. Results and methodology from bulk CCAs will be applied to establish a predictive mapping linking defect characteristics with local environments in CCAs, providing the foundation for computational design of CCAs for superior mechanical properties. The project will be driven by the parallel research on a hierarchical data-driven computational framework that enables efficient predictions of structure-property relationships for CCAs. &lt;br/&gt;&lt;br/&gt;The education and outreach activities of the project includes five integrated parts that address learning tool innovation, broadening participation, youth material education, summer research exposure, and research career development. The project brings together national and local partners to create a multidisciplinary team with complementary expertise to strengthen Science, Technology, Engineering, and Mathematics education and raise the awareness of materials science. In collaboration with Amazon, a cloud-based learning app will be developed to transplant the PI’s research and introduce materials and data science to the general public. The PI will collaborate with SMASH Illinois to offer academic and social programs to underrepresented students to broaden participation in materials education. In parallel, summer camps with North Central College and Questek, as well as high school research programs with Adlai E. Stevenson High School will be expanded to expose the younger generation to materials science. The PI will also work closely with undergraduate and graduate students to foster multidisciplinary career development via project-based research programs.&lt;br/&gt;&lt;br/&gt;This award is jointly supported by the Division of Materials Research and the NSF Office of Advanced Cyberinfrastructure.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415119</AwardID>
+<Investigator>
+<FirstName>Wei</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wei Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[wchen226@buffalo.edu]]></EmailAddress>
+<NSF_ID>000705021</NSF_ID>
+<StartDate>03/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SUNY at Buffalo]]></Name>
+<CityName>AMHERST</CityName>
+<ZipCode>142282577</ZipCode>
+<PhoneNumber>7166452634</PhoneNumber>
+<StreetAddress><![CDATA[520 LEE ENTRANCE STE 211]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMCJKRFW5R81</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GMZUKXFDJMA9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Buffalo]]></Name>
+<CityName>AMHERST</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>142282577</ZipCode>
+<StreetAddress><![CDATA[520 LEE ENTRANCE STE 211]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>176500</Code>
+<Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>689200</Code>
+<Text>CI REUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~114324</FUND_OBLG>
+<FUND_OBLG>2022~102216</FUND_OBLG>
+<FUND_OBLG>2023~100293</FUND_OBLG>
+<FUND_OBLG>2024~100403</FUND_OBLG>
+</Award>
+</rootTag>

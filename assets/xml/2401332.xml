@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Identification, characterization and engineering of plasmid-encoded modulators of natural plasmid transformation in Vibrio natriegens]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>325751.00</AwardTotalIntnAmount>
+<AwardAmount>325751</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Clifford Weil</SignBlockName>
+<PO_EMAI>cweil@nsf.gov</PO_EMAI>
+<PO_PHON>7032924668</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Many bacteria are able to take up genetic material from their neighbors or their environment. This affects how bacteria evolve, their roles in the ecosystem, and their interactions with humans and other organisms. The most readily transferable genes come from plasmid DNA, which replicates separately from the bacterial genome and is therefore more portable. Current understanding of how bacteria actively take up plasmids, a process called plasmid natural transformation (PNT), is limited. This project will investigate plasmid natural transformation in the bacterium Vibrio natriegens, the fastest growing microbe known and a promising model for synthetic biology, and help establish that organism as a model system for such studies. The research will examine whether plasmids with particular sequences or genes transfer more efficiently. This will illuminate how plasmids spread in the natural world and how they could be adapted for bioengineering purposes. Work will be carried out exclusively by undergraduate students, supporting their scientific development. To build the many necessary test plasmids, the investigator’s group will use and develop their “CloneCoordinate” software platform. This tracks and manages the many steps of DNA construction so they can be done collectively and at scale by participants with varying experience levels. CloneCoordinate will be shared broadly as an open-source resource to promote DNA building across diverse settings.&lt;br/&gt;&lt;br/&gt;PNT is unique among horizontal gene transfer (HGT) mechanisms in that it operates on naked DNA, is conducted by the recipient cell, and is not constrained by genome homology. Because the mechanism of plasmid establishment remains uncertain, PNT’s plasmid and organismal scope are not known and its potentially important contributions to overall HGT must be clarified. This work will investigate the effects on PNT efficiency of plasmid sequence parameters such as size, genetic cargo, origin of replication, and presence of single-strand origin sequences that may promote double-stranded DNA synthesis during establishment. Systematic study of PNT has been inhibited by the difficulty of preparing plasmid multimers and the limited plasmid repertoire for well-characterized Gram positive model organisms. The research will establish quantitatively reproducible and convenient procedures for measuring PNT efficiency using the tractable, Gram negative V. natriegens, using multimers generated through in vitro rolling circle amplification. It will support leveraging of PNT for in vivo library generation and directed evolution of highly transformable plasmids through serial passage through PNT.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401332</AwardID>
+<Investigator>
+<FirstName>B</FirstName>
+<LastName>Thuronyi</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>B W Thuronyi</PI_FULL_NAME>
+<EmailAddress><![CDATA[bwt2@williams.edu]]></EmailAddress>
+<NSF_ID>000924413</NSF_ID>
+<StartDate>06/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Williams College]]></Name>
+<CityName>WILLIAMSTOWN</CityName>
+<ZipCode>012672600</ZipCode>
+<PhoneNumber>4135974352</PhoneNumber>
+<StreetAddress><![CDATA[880 MAIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JVZEJJ6N5EM8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PRESIDENT &amp; TRUSTEES OF WILLIAMS COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Williams College]]></Name>
+<CityName>WILLIAMSTOWN</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>012672600</ZipCode>
+<StreetAddress><![CDATA[880 MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111200</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~325751</FUND_OBLG>
+</Award>
+</rootTag>

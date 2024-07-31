@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[22BBSRC-NSF/BIO:  A synthetic pyrenoid to guide the engineering of enhanced crops]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>788825</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Rockcliffe</SignBlockName>
+<PO_EMAI>drockcli@nsf.gov</PO_EMAI>
+<PO_PHON>7032927123</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Meeting future global food demands will require novel approaches for creating higher-yielding crops that are robust in the face of climate change. Synthetic and engineering biology approaches have huge potential to deliver on this challenge. A major opportunity for increasing the yields and resilience of major global crops such as rice and wheat lies in enhancing their ability to assimilate carbon dioxide, from which plants make sugars and starch for growth. This project enhances carbon dioxide assimilation in crops by endowing them with a specialized cellular compartment called the pyrenoid that has naturally evolved in eukaryotic algae and some lower land plants but is not present in crops. Here, as a key step towards this goal, this project advances the basic understanding of the principles that underlie the assembly and architecture of pyrenoids and leverages this understanding to build a functional synthetic pyrenoid-based carbon dioxide-concentrating mechanism into the model land plant Arabidopsis. The basic knowledge gained from this project has the potential to enable crops with greater yields, nitrogen-use efficiency, water-use efficiency and climate resilience. Additionally, the project is providing learning experiences for trainees and serves as a stepping stone toward the next stage of their careers. Trainees from the laboratories are participating in multiple outreach efforts.&lt;br/&gt;&lt;br/&gt;The project is focused on dissecting key aspects of the pyrenoid-based CO2-concentrating mechanisms in vitro and in silico. Specifically, this project combines cutting-edge synthetic biology approaches using proteoliposome assemblies, liquid-like phase separated condensates, plant engineering, and modelling to advance the mechanistic understanding of CO2 uptake in organisms with pyrenoid-based CO2-concentrating mechanisms. These approaches are also used to enhance the capacity to modify plants to improve photosynthesis. Aim 1 is focused on reconstituting and characterizing tubule biogenesis in vitro and in silico. Aim 2 is focused on reconstituting a functional pyrenoid-based CO2-concentrating mechanism in vitro. Aim 3 is focused on developing synthetic approaches for establishing a CO2-leakage barrier.&lt;br/&gt;&lt;br/&gt;This collaborative US/UK project is supported by the US National Science Foundation (NSF) and the UK Biotechnology and Biological Sciences Research Council (BBSRC), where NSF funds the US investigator and BBSRC funds the partners in the UK.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410354</AwardID>
+<Investigator>
+<FirstName>Ned</FirstName>
+<LastName>Wingreen</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ned S Wingreen</PI_FULL_NAME>
+<EmailAddress><![CDATA[wingreen@princeton.edu]]></EmailAddress>
+<NSF_ID>000515281</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Jonikas</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Martin C Jonikas</PI_FULL_NAME>
+<EmailAddress><![CDATA[mjonikas@princeton.edu]]></EmailAddress>
+<NSF_ID>000565867</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085442001</ZipCode>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>801100</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5946</Code>
+<Text>UNITED KINGDOM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~788825</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Propulsion of synthetic cells driven by biochemical catalysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>595829.00</AwardTotalIntnAmount>
+<AwardAmount>595829</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniel Savin</SignBlockName>
+<PO_EMAI>dsavin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924644</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL SUMMARY:&lt;br/&gt; &lt;br/&gt;Enzymes are important molecules in biology. Enzymes are catalysts that convert substrates to products and are essential for driving processes that allow cells to function and respond rapidly to environmental conditions. There are a wide variety of enzymes in Nature corresponding to the diverse array of chemical reactions that a cell must execute for proper physiological function. It has been found that enzymes can exert forces when they convert substrates, and in this project, these forces will be harnessed to drive the motion of cell-sized capsules in response to substrates. The capsules will be made from biocompatible polymers, so they can be used to deliver drugs and communicate with cells by secreting bioactive compounds. Microfluidics will be used to assemble biocompatible capsules of defined chemistry, size, and composition. It has been found that asymmetry – either in the chemistry or the geometry of the capsule, or both – is required for robust motion. Asymmetry can be systematically built into the capsules using capsule chemistry and microfluidic design. A wide variety of enzymes will be tested to understand how the mechanism of action of each enzyme relates to its ability to support the propulsion of capsules. Capsules of tailored asymmetry with two faces – Janus capsules – will be used to understand how geometrical asymmetry can drive capsule motion via enzyme turnover. Systems in which capsules can communicate by secreting substrates to activate the motion of nearby enzyme-laden capsules or real biological cells will be developed, and furthermore, the motion of capsules in gradients of substrate will be measured. The project will train two graduate research assistants and two undergraduates, and the investigators will communicate their ideas to the broader research community through demonstration lectures to middle school and high school students and faculty.&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY:&lt;br/&gt;&lt;br/&gt;Enzymes are a diverse set of molecules that catalyze a host of biochemical reactions throughout biology. Enzymes are known exert forces during enzymatic turnover, and previously catalase and urease were used to drive the motion of biocompatible cell-sized capsules. Based on the hypothesis that propulsion is due to osmotic influx at the catalytic binding site (osmophoresis), a wide array of enzymes will be tested to relate fundamental features of enzyme activity (reaction rates, Michaelis constants, and reaction schemes) to capsule propulsion. Of particular interest are cleaving enzymes, such as amylase and nucleases, which are hypothesized to generate augmented osmotic forces and hence avid propulsion. Furthermore, higher order cell behavior, such as chemotaxis and multicellular organization, will be recapitulated with enzyme-functionalized microcapsules. The microcapsules are made by microfluidics using biocompatible polymers (poly-lactic-co-glycolic acid), allowing the control the size, composition, porosity and asymmetry of the capsules. Asymmetry in capsules chemistry and geometry has been demonstrated to enhance capsule motion. The aims of this project will be to measure the motility of single capsules across a range of enzyme-substrate systems and measure the dynamics of motion of asymmetric (Janus) capsules; to quantify the directional motion of capsules in gradients of substrates, analogous to the chemotactic motion of cells; and to determine the ensemble motion of capsules, both with different volume fractions of active particles, as well as mixtures of active and passive particles, to understand how motility can be used to separate and organize multi-particle assemblies. Another goal is to build communication systems in which one capsule can secrete a substrate and drive the motion of a neighboring capsule. Finally, we will understand how motile, synthetic capsules can communicate chemically and physically with biological cells. The capsules can be thought of as synthetic cells (protocells) inspired by and designed to mimic biology. Since the capsules are biocompatible, a host of applications, such as targeted drug delivery and tissue assembly, can be envisioned in which these motile protocells can interface with real biological cells and tissues.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419566</AwardID>
+<Investigator>
+<FirstName>Daeyeon</FirstName>
+<LastName>Lee</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daeyeon Lee</PI_FULL_NAME>
+<EmailAddress><![CDATA[daeyeon@seas.upenn.edu]]></EmailAddress>
+<NSF_ID>000544771</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Hammer</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel A Hammer</PI_FULL_NAME>
+<EmailAddress><![CDATA[hammer@seas.upenn.edu]]></EmailAddress>
+<NSF_ID>000187747</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress><![CDATA[3451 WALNUT ST STE 440A]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GM1XX56LEP58</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GM1XX56LEP58</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191044300</ZipCode>
+<StreetAddress><![CDATA[210 S 33rd Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>762300</Code>
+<Text>BIOMATERIALS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7573</Code>
+<Text>BIO-RELATED MATERIALS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~595829</FUND_OBLG>
+</Award>
+</rootTag>

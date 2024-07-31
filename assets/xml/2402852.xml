@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: AF: Medium: Foundations of Oblivious Reconfigurable Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>252350</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Brass</SignBlockName>
+<PO_EMAI>pbrass@nsf.gov</PO_EMAI>
+<PO_PHON>7032922182</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Reconfigurable networks are emerging as one of the most promising technologies to confront a pressing need: demand for network bandwidth in datacenters, which is growing at a rate that outpaces the ability of traditional network switching fabrics to keep up. These network architectures offer a dynamically changing connectivity pattern to enable efficient routing of messages. Recent hardware advances enable network reconfiguration within microseconds or even nanoseconds. At time scales such as these, networking becomes an intricately choreographed dance, with data traveling along paths whose links come into being while network packets are in flight. The design space of network architectures that take advantage of this capability is ripe for foundational theoretical exploration and prototype systems. This project will seize the opportunity, developing new foundations and systems for reconfigurable networking.  The project will also have direct educational outcomes. The investigators will run related summer schools, workshops, and outreach activities that aim to increase the diversity of researchers participating in these areas. The code and systems developed during the project will be open-sourced for scientists, researchers in the community and/or practitioners in the industry for experimentation and evaluation.&lt;br/&gt;&lt;br/&gt;The research will involve a close coupling of theory and systems development, leading to contributions to both sub-disciplines of computer science.  On the theory side, the research will shed light on fundamental tradeoffs in reconfigurable network design. In particular, the research will focus on an emerging paradigm in reconfigurable datacenter networking, namely oblivious reconfigurable networking (ORN), where both the connection reconfiguration and routing happen in a network-demand-oblivious manner. The research will add to the understanding of how to design oblivious routing schemes with very low path stretch and how to design semi-oblivious routing schemes superior to oblivious ones, with likely implications beyond the setting of reconfigurable networks to the theory of oblivious routing in general. The research will also expand the emerging “algorithms with predictions” paradigm to incorporate reconfigurable networking. On the systems side, the research will use the findings from theory to build practical and scalable reconfigurable datacenter networks. In that regard, the research will design an all-optical reconfigurable network architecture that could scale to an entire datacenter. Further, the research will resolve two practical network design problems, namely congestion control and quality-of-service, in the novel context of oblivious reconfigurable networks. Finally, the research will develop a full network stack for oblivious reconfigurable networks, and propose novel hardware designs for a fast and scalable implementation of the network stack.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402852</AwardID>
+<Investigator>
+<FirstName>Vishal</FirstName>
+<LastName>Shrivastav</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vishal Shrivastav</PI_FULL_NAME>
+<EmailAddress><![CDATA[vshriva@purdue.edu]]></EmailAddress>
+<NSF_ID>000862164</NSF_ID>
+<StartDate>04/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE STE 1900]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736300</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>779600</Code>
+<Text>Algorithmic Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~252350</FUND_OBLG>
+</Award>
+</rootTag>

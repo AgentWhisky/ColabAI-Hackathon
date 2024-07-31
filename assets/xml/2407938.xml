@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Ultrasound driven microbubble clusters for biomedical applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>266856.00</AwardTotalIntnAmount>
+<AwardAmount>266856</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The ability to directly access complex regions of the human body with microscale synthetic devices (or "microswimmers") can revolutionize bioengineering and healthcare. The use of acoustically-controlled microbubble clusters to navigate blood vessels has recently been investigated experimentally as one such possibility. Complex acoustic-fluid-structure interactions occur as microbubble clusters move within deformable blood vessels. The exact relationship between acoustically generated flow and force fields, deformable vessel wall mechanics, and bubble oscillation dynamics remains unclear. Hence, the principal goal of this research is to understand how microbubble clusters move in blood vessels actuated by acoustics. Moreover, the project provides significant opportunities for training and research for undergraduate and graduate students from underrepresented groups, as well as for curriculum enhancement, the development of open-source computational codes, and outreach activities.  &lt;br/&gt;&lt;br/&gt;This project will investigate the relationship between acoustically generated force fields, deformable vessel wall mechanics, and bubble oscillation dynamics. The central hypothesis is that acoustically generated streaming flow fields facilitate the motion of microbubble clusters within narrow blood vessels by lubricating the vessels walls. The research team will leverage advanced computer simulations that incorporate realistic models of vessel mechanics, acoustic phenomena, and bubble interfacial dynamics. This will enable them to assess the feasibility of microbubble navigation in blood vessels under physiological conditions and biocompatible acoustic power levels. As a result, this project will provide a comprehensive understanding of the physical mechanisms and parameters that govern microbubble cluster motion in blood vessels. It will also relate this motion to external acoustic fields. The computational developments enabled by this project will facilitate further research in microscale propulsion and biomedical acoustics. In addition to enabling underrepresented students to participate in computational research, this project will also create outreach learning opportunities through the University of Nebraska-Lincoln's Osher Lifelong Learning Institute that engages the general public through basic science classes. This project is jointly funded by Fluid Dynamics program and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407938</AwardID>
+<Investigator>
+<FirstName>Amneet Pal</FirstName>
+<LastName>Bhalla</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amneet Pal S Bhalla</PI_FULL_NAME>
+<EmailAddress><![CDATA[asbhalla@sdsu.edu]]></EmailAddress>
+<NSF_ID>000776411</NSF_ID>
+<StartDate>05/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[San Diego State University Foundation]]></Name>
+<CityName>SAN DIEGO</CityName>
+<ZipCode>921821901</ZipCode>
+<PhoneNumber>6195945731</PhoneNumber>
+<StreetAddress><![CDATA[5250 CAMPANILE DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>51</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA51</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H59JKGFZKHL7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SAN DIEGO STATE UNIVERSITY FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>H59JKGFZKHL7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[San Diego State University]]></Name>
+<CityName>SAN DIEGO</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>921820001</ZipCode>
+<StreetAddress><![CDATA[5500 CAMPANILE DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>51</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA51</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144300</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~266856</FUND_OBLG>
+</Award>
+</rootTag>

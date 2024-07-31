@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Mechanics of Elastogranular Metamaterials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>651674.00</AwardTotalIntnAmount>
+<AwardAmount>651674</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy C. Crone</SignBlockName>
+<PO_EMAI>wcrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In many natural and engineered environments, slender elastic structures (beams and shells) often interact and compete for space with granular matter (sand, dirt, rocks). Examples include the growth of plant roots, the packing of cells in an embryo, and the stabilization of erosion-prone soil with geotextile fabrics.  Slender structures respond to these complex “elastogranular” interactions by bending and buckling, while grains may abruptly transition between flowing like a fluid and jamming like a solid.  These structures exhibit unprecedented reconfigurability and a range of complex mechanical behaviors.  This award supports fundamental research to answer the question as to how localized confinement - like cohesion, adhesion, and packing geometry - dictates the fundamental mechanics of elastogranular structures. This work will directly impact a wide range of engineering problems, including recyclable and sustainable architecture, engineered living materials, morphogenesis and organogenesis, and mechanical metamaterials. In addition to impacting education at the university level, the researchers will distribute a monthly newsletter to communicate ideas and advances in mechanics to the broader public using video, podcasts, news, and current events, and will include graduate students, postdocs, and professors as guest writers.&lt;br/&gt;&lt;br/&gt;Slender structures commonly exhibit large deformations due to their geometry, and therefore to accomplish the goal of this work, the researchers will consider grains bound to or confined by beams, plates, and shells. The work will target the following specific objectives, through a combination of computation, theory, and experiments. (1) Understanding and controlling the postbuckling response of beams with grains bound to their surface as a function of their spatial distribution. (2) Determining the mechanical response of a 2D elastogranular foam composed of an array of beams surrounded by grains which form a composite system with tunable mechanical properties. (3) Determining the bending and stretching rigidity of plates embedded with patterns of grains, enabling the design of plates that are stiff in response to loading in one or more directions, yet compliant in response to loading in other directions. (4) Creating and characterizing elastogranular shells whose compliance can be tuned in situ from soft to stiff. Each objective relies on understanding how the interplay between local confinement and elastic instabilities enables structures with advanced functionality.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414101</AwardID>
+<Investigator>
+<FirstName>Harold</FirstName>
+<LastName>Park</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Harold Park</PI_FULL_NAME>
+<EmailAddress><![CDATA[parkhs@bu.edu]]></EmailAddress>
+<NSF_ID>000416619</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Holmes</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Douglas P Holmes</PI_FULL_NAME>
+<EmailAddress><![CDATA[dpholmes@bu.edu]]></EmailAddress>
+<NSF_ID>000601320</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151703</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>THL6A6JLE1S7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF BOSTON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>022151300</ZipCode>
+<StreetAddress><![CDATA[801 Commonwealth Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>163000</Code>
+<Text>Mechanics of Materials and Str</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022E</Code>
+<Text>SOLID MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>026E</Code>
+<Text>STRUCTURAL MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~651674</FUND_OBLG>
+</Award>
+</rootTag>

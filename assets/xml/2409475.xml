@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EMBRACE-AGS-Growth: Diagnosing Kinematic Processes Responsible for Precipitation Distributions in Tropical Cyclones]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>374070.00</AwardTotalIntnAmount>
+<AwardAmount>374070</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yu Gu</SignBlockName>
+<PO_EMAI>ygu@nsf.gov</PO_EMAI>
+<PO_PHON>7032928796</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Tropical cyclones, also called hurricanes or typhoons, pose a significant threat to coastal communities through high winds, storm surge, and heavy rainfall. Poor predictions of tropical cyclones can lead to underprepared communities, exacerbating the impacts of these powerful storms. This project aims to understand how different types of precipitation, or rainfall, impact tropical cyclone maximum sustained wind speed. Precipitation is divided into four categories based on how fast the air is rising in clouds. Clouds that have faster rising air are called convection, with the tallest clouds called deep convection and the shallower clouds called moderate convection and shallow convection. The lightest precipitation is called stratiform rain and has the least amount of rising air. The type of precipitation can be identified based on its appearance on radar measurements. This project addresses how each type of precipitation influences the maximum sustained wind speed of the storm through their impact on storm structure. Since different types of precipitation can be identified on radar, this project may offer new insights into forecasting of tropical cyclone maximum sustained wind speed. In addition, this project will support undergraduate student research, an undergraduate mentorship program, a scholarship for a high achieving student, and outreach activities that will help communities susceptible to tropical cyclones understand and prepare for their impacts. &lt;br/&gt;&lt;br/&gt;The project will use a comprehensive airborne Doppler radar dataset to examine how precipitation modes perturb kinematic fields such as the three-dimensional velocity, vertical vorticity, divergence, and absolute angular momentum. Since airborne radar data does not contain thermodynamic measurements, the project will use a full physics numerical weather prediction model to further explore if precipitation modes are more closely associated with kinematic perturbations or thermodynamic perturbations such as in humidity. Furthermore, the project will show how precipitation modes lead to differing diabatic heating profiles and will use a linear model to examine how the diabatic heating profiles lead to changes in mean vortex structure. The impacts of precipitation will be evaluated in environments with differing vertical wind shear magnitudes, which can impact the distribution of the precipitation modes. The results of this project will lead to a new holistic model about the role of different precipitation modes in tropical cyclones and how that role is controlled by different vertical wind shear environments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409475</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Halperin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel Halperin</PI_FULL_NAME>
+<EmailAddress><![CDATA[halpea17@erau.edu]]></EmailAddress>
+<NSF_ID>000838377</NSF_ID>
+<StartDate>04/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Wadler</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joshua B Wadler</PI_FULL_NAME>
+<EmailAddress><![CDATA[wadlerj@erau.edu]]></EmailAddress>
+<NSF_ID>000874470</NSF_ID>
+<StartDate>04/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Embry-Riddle Aeronautical University]]></Name>
+<CityName>DAYTONA BEACH</CityName>
+<ZipCode>321143910</ZipCode>
+<PhoneNumber>3862267695</PhoneNumber>
+<StreetAddress><![CDATA[1 AEROSPACE BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U5MMBAC9XAM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EMBRY-RIDDLE AERONAUTICAL UNIVERSITY, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Embry-Riddle Aeronautical University]]></Name>
+<CityName>DAYTONA BEACH</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>321143910</ZipCode>
+<StreetAddress><![CDATA[1 AEROSPACE BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152500</Code>
+<Text>Physical &amp; Dynamic Meteorology</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>164200</Code>
+<Text>Special Initiatives</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>133Z</Code>
+<Text>EMBRACE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~374070</FUND_OBLG>
+</Award>
+</rootTag>

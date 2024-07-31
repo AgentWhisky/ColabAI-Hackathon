@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Investigation of Mass and Energy Transfer Mechanisms in Stimuli-Responsive Smart Sorbents for Direct Air Capture]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>339822.00</AwardTotalIntnAmount>
+<AwardAmount>339822</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christina Payne</SignBlockName>
+<PO_EMAI>cpayne@nsf.gov</PO_EMAI>
+<PO_PHON>7032922895</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Mitigating and removing greenhouse gas emissions such as carbon dioxide (CO2) from the atmosphere is one of today's most pressing grand challenges. One possible approach to address this challenge is through direct air capture technologies (DAC). DAC technologies can extract CO2 directly from the atmosphere to be stored permanently. Traditional methods for separating gaseous mixtures involve either adsorbing high-pressure gases onto a solid surface and releasing (desorbing) them when the pressure is reduced (known as pressure swing adsorption) or using temperature changes to achieve separation (known as temperature swing adsorption). However, these methods are unsuitable for DAC systems because the concentration gradient, which drives the mass transfer of CO2, is very small. As a result, these methods are highly inefficient in terms of energy usage. Additionally, the current state-of-the-art sorbent materials based on amines or ionic liquids require a lot of energy to desorb the CO2 and regenerate the sorbents. Furthermore, since most sorbent materials have low thermal conductivity, externally heating them for regeneration is inefficient and leads to additional heat losses. It is crucial to develop new materials and technologies that can address these drawbacks and enable the successful implementation of large-scale DAC systems. This project will investigate a class of CO2 sorbent materials that can be induced to release the adsorbed CO2 by applying an external magnetic field. The magnetic field generates local heat within the material, so external energy input is not required. The research will yield new insights into the fundamental energy and mass transfer mechanisms in these magnetic field-responsive sorbents (MF-RSs). The project will also provide opportunities for undergraduate student research experiences, curriculum development, and K-12 STEM outreach at the Missouri University of Science &amp; Technology and the University of Southern California.&lt;br/&gt;&lt;br/&gt;The purpose of this work is to gain a fundamental understanding of energy and mass transfer mechanisms in MF-RSs for use in DAC systems, namely, composites of F3O4 magnetic nanoparticles and microporous metal-organic frameworks (F3O4/MOF-amine) or mesoporous aminosilicates (Fe3O4/SiO2-amine). The external magnetic field generates local heat due to the static hysteresis and dynamic core losses of the magnetic nanoparticles. The adsorbed CO2 is desorbed without external heating, overcoming the issue of low thermal conductivity of most sorbent materials and avoiding the heat losses accompanying externally heated methods. Computational and experimental investigations will be conducted to understand the factors affecting CO2 release and system regeneration in MF-RSs. The intermolecular attractions that result in the low-energy release of CO2 from magnetic sorbents upon exposure to an external magnetic field will be characterized. Specifically, the research will probe the extent of electron transfer perturbation upon magnetic field induction. The study will also elucidate the effects of heat capacity-magnetization tradeoffs on diffusive thermal and molecular transfers. Finally, the magnetic field-triggered CO2 transport mechanisms during sorbent regeneration in the presence of oxygen, nitrogen, and water will be investigated. A host of experimental and computational techniques will be applied to reveal the energy and mass transfer mechanisms of CO2 adsorption and desorption from MF-RSs in the presence of an external magnetic field. These techniques include molecular-level in-situ spectroscopic measurements and transient desorption tests such as electron paramagnetic resonance (EPR) spectroscopy, frequency-domain thermoreflectance (FDTR), zero-length column (ZLC), and magnetic induction swing adsorption (MISA), which will be combined with density-functional theory (DFT) and nanoscale molecular dynamics simulations. The investigation will open new avenues for developing low-energy sorbent regeneration systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/20/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2431601</AwardID>
+<Investigator>
+<FirstName>Fateme</FirstName>
+<LastName>Rezaei</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Fateme Rezaei</PI_FULL_NAME>
+<EmailAddress><![CDATA[rezaeif@miami.edu]]></EmailAddress>
+<NSF_ID>000680092</NSF_ID>
+<StartDate>06/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Miami]]></Name>
+<CityName>CORAL GABLES</CityName>
+<ZipCode>331462919</ZipCode>
+<PhoneNumber>3052843924</PhoneNumber>
+<StreetAddress><![CDATA[1320 SOUTH DIXIE HIGHWAY STE 650]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>27</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL27</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RQMFJGDTQ5V3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MIAMI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name/>
+<CityName/>
+<StateCode/>
+<ZipCode/>
+<StreetAddress/>
+<CountryCode/>
+<CountryName>RI REQUIRED</CountryName>
+<StateName>RI REQUIRED</StateName>
+<CountryFlag>0</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF>""</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>141700</Code>
+<Text>Interfacial Engineering Progra</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~339822</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CNS Core: Small: NSF-MeitY: A Unified Framework for Video Analytics Optimization and Adaptation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>496895.00</AwardTotalIntnAmount>
+<AwardAmount>496895</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jason Hallstrom</SignBlockName>
+<PO_EMAI>jhallstr@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Edge-cloud video analytics systems, also known as video analytics pipelines (VAPs), are being deployed in major cities around the world to support diverse applications, spanning public safety, transportation, healthcare, retail, and more. Unfortunately, the status quo of developing and deploying a VAP for a new application is largely manual and labor-intensive. (1) A VAP developer must implement end-to-end pipelines on heterogeneous hardware by writing low-level software for each component. (2) The developer must pick and choose the right set of machine learning models and their placements pre-deployment to minimize the cloud computing bill while providing acceptable latency and accuracy. (3) The developer must adapt the pipeline post-deployment in response to changes in the environment (e.g., network bandwidth, light conditions, traffic density). Each step is challenging to perform, presenting significant hurdles to the development and deployment of new VAP applications. This project aims to develop a unified framework to simplify and automate video analytics pipeline development, optimization, and adaptation by streamlining all three steps in developing and deploying a new VAP application. Under such a framework, application domain experts specify high-level analytics tasks (logical operators) to be performed on the camera frames  and all candidate physical implementations for each logical operator (physical operators). Pipeline authors describe the pipelines via graphs, and the framework will automatically generate an optimal physical implementation for initial deployment and deploy an adaptation engine that monitors changes in environmental conditions and automates adaptation to new physical plans that satisfy application latency and accuracy constraints. &lt;br/&gt;&lt;br/&gt;The project will have direct, practical implications to the video analytics industry and is poised for substantial societal impacts. (1) Impact on industry: The proposed VAP framework will advance the state-of-the-art by providing a much-needed solution that significantly eases the development effort of VAP vendors and shortens the time-to-deployment of new and increasingly diverse VAP applications. (2) Impact on society: The technologies developed for enabling the framework will foster wide adoption of important societal VAP applications, spanning transportation, healthcare, retail, public safety, and more. (3) Impact on other research fields: The work will have far-reaching impacts outside the area of video analytics systems by developing general query optimization techniques, which will also be applicable to traditional database management. The technologies developed in the project will be disseminated and transferred to the broader research community and the IT industry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415216</AwardID>
+<Investigator>
+<FirstName>Charlie</FirstName>
+<LastName>Hu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charlie Hu</PI_FULL_NAME>
+<EmailAddress><![CDATA[ychu@purdue.edu]]></EmailAddress>
+<NSF_ID>000118830</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE STE 1900]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>735400</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~496895</FUND_OBLG>
+</Award>
+</rootTag>

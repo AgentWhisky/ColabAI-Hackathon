@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The many-body problem in the age of quantum machine learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>420000.00</AwardTotalIntnAmount>
+<AwardAmount>420000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexios Klironomos</SignBlockName>
+<PO_EMAI>aklirono@nsf.gov</PO_EMAI>
+<PO_PHON>7032924920</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL SUMMARY&lt;br/&gt;The study of exotic phases of matter of quantum origin is one of the cornerstones of modern condensed matter physics, motivating a quest for materials and models that could exhibit novel unconventional properties that can find application beyond the semiconductor paradigm. However, understanding correlated quantum systems requires dealing with a large configuration space: datasets are comprised of all possible electronic configurations and cannot be stored in the memory of the largest supercomputer. Hence, the many-body problem can be interpreted as an “extreme data science'' problem from an information processing perspective. Since the advent of high-temperature superconductivity, progress has been marked by ingenuity to overcome the computational limitations of the time. A game-changing idea consists of identifying patterns and compressing datasets in a spirit very similar to algorithms to compress images and videos. Since 2018, we have witnessed the emergence of a novel line of research now referred-to as “quantum machine learning” that uses neural networks and machine-learning algorithms to extract insightful information and represent the complex entanglement structure encoded in quantum wave-functions.&lt;br/&gt;&lt;br/&gt;Due to their underlying complexity, these problems are theoretically very challenging, but amenable to numerical methods. Therefore, the focus of the research will be computational in nature and will also involve the development of new innovative algorithms based on quantum information and machine learning ideas. As a result, new tools for scientific discovery will be developed that may be applicable to other disciplines beyond condensed matter physics, including nuclear physics and quantum chemistry.&lt;br/&gt;&lt;br/&gt;Beyond training and mentoring of undergraduate and graduate students, the PI will partner with institutional outreach programs to provide courses and lectures to middle- and high-school teachers, and will participate in the Bridge to Physics program that aims to empower children from Boston’s underserved communities to succeed in advanced math classes.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;Since the advent of high-temperature superconductivity, progress has been marked by ingenuity to overcome the computational limitations imposed by hardware. This led to major developments such as quantum Monte Carlo and tensor network methods that compress data in a spirit very similar to algorithms to compress images and videos. Very recently, we have witnessed the emergence of a novel line of research now referred-to as “quantum machine learning” that uses neural networks and machine-learning algorithms to extract insightful information and represent the complex entanglement structure encoded in quantum wavefunctions. &lt;br/&gt;&lt;br/&gt;This award will fund research focused on the development of novel machine-learning inspired computational methods and advancing the understanding of variational states. In particular the project involves: i) the study of ground-states of quantum many-body problems using neural networks models based on “quantum attention” inspired by those used in large language models such as ChatGPT; ii) combining ideas from quantum many-body physics, machine learning and coupled cluster theory, to develop physics inspired machine learning models; iii) using variational wave functions described in terms of bosonic degrees of freedom (Schwinger bosons) and methods developed by the PI during the previous funding cycle to study the spectra of spin liquids using variational Monte Carlo.&lt;br/&gt;&lt;br/&gt;Beyond training and mentoring of undergraduate and graduate students, the PI will partner with institutional outreach programs to provide courses and lectures to middle- and high-school teachers, and will participate in the Bridge to Physics program that aims to empower children from Boston’s underserved communities to succeed in advanced math classes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/30/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419109</AwardID>
+<Investigator>
+<FirstName>Adrian</FirstName>
+<LastName>Feiguin</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adrian E Feiguin</PI_FULL_NAME>
+<EmailAddress><![CDATA[adrianfeiguin@gmail.com]]></EmailAddress>
+<NSF_ID>000532793</NSF_ID>
+<StartDate>05/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northeastern University]]></Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress><![CDATA[360 HUNTINGTON AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HLTMVS2JZBS6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHEASTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northeastern University]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021155005</ZipCode>
+<StreetAddress><![CDATA[360 HUNTINGTON AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>176500</Code>
+<Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>095Z</Code>
+<Text>Materials AI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~420000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: Organizing the Fourth High-Performance Computing Security Workshop]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>99900.00</AwardTotalIntnAmount>
+<AwardAmount>99900</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rob Beverly</SignBlockName>
+<PO_EMAI>rbeverly@nsf.gov</PO_EMAI>
+<PO_PHON>7032927068</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Keeping the nation’s Cyberinfrastructure and HPC installations safe from security threats depends on ongoing sharing of knowledge and technical know-how by community members. This workshop will bring together national, regional and local experts from government agencies, academic and research institutions, and the private sector. The inclusion of students and young professionals in the workshop will allow for the next generation of HPC experts to be cultivated and introduced to our community. It is expected that this workshop will bring together over 100 attendees in-person, and up to 500 virtual attendees. The continued discussion by the community will allow the HPC centers and national cyberinfrastructure to stay ahead of the threats.&lt;br/&gt;&lt;br/&gt;This workshop will be held in Wichita, Kansas, and is being organized as a part of the Oklahoma- Arkansas-Kansas (OAK) Supercomputing Consortium activities. The OAK region has been traditionally under-served and under-represented in the HPC activities. The inclusion of emerging institutions (R2 and smaller institutions) from this region would allow the local staff and researchers to benefit from interaction with the national HPC experts. This would be the first workshop of its kind to be held in the OAK region, therefore, would help the regional institutions to benefit from the national expertise. Participation from students, women, and members of the under-represented groups will be encouraged through a financial support program. This will help the regional and national community to benefit by preparing a wide variety of individual for the present and future threats in the cyberspace.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2422562</AwardID>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Doll</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ryan Doll</PI_FULL_NAME>
+<EmailAddress><![CDATA[ryan.doll@wichita.edu]]></EmailAddress>
+<NSF_ID>000952466</NSF_ID>
+<StartDate>04/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Pratul</FirstName>
+<LastName>Agarwal</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pratul K Agarwal</PI_FULL_NAME>
+<EmailAddress><![CDATA[pratul.agarwal@okstate.edu]]></EmailAddress>
+<NSF_ID>000289643</NSF_ID>
+<StartDate>04/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Henry</FirstName>
+<LastName>Neeman</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Henry J Neeman</PI_FULL_NAME>
+<EmailAddress><![CDATA[hneeman@ou.edu]]></EmailAddress>
+<NSF_ID>000184133</NSF_ID>
+<StartDate>04/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oklahoma State University</Name>
+<CityName>STILLWATER</CityName>
+<ZipCode>740781031</ZipCode>
+<PhoneNumber>4057449995</PhoneNumber>
+<StreetAddress>401 WHITEHURST HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OK03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNYDFK5FTSX9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OKLAHOMA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Oklahoma State University]]></Name>
+<CityName>STILLWATER</CityName>
+<StateCode>OK</StateCode>
+<ZipCode>740781031</ZipCode>
+<StreetAddress><![CDATA[401 WHITEHURST HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OK03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8027</Code>
+<Text>Cybersecurity Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8027</Code>
+<Text>Cyber Secur - Cyberinfrastruc</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~99900</FUND_OBLG>
+</Award>
+</rootTag>

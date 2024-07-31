@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Enhancing the Protection of Electric Grids Amidst the Rise of Renewable Energy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>295149.00</AwardTotalIntnAmount>
+<AwardAmount>295149</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aranya Chakrabortty</SignBlockName>
+<PO_EMAI>achakrab@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This NSF project aims to address unprecedented protection challenges arising from the increasing penetration of renewable energy in modern electric grids. The global transition to clean energy sources is accelerating, but it introduces unique protection challenges that threaten the security and reliability of power grids. Renewable resources like solar and wind energy differ significantly from traditional rotating synchronous machines during short-circuit conditions. As a result, legacy protection relays struggle to function effectively with high levels of renewable energy integration. The project will bring transformative changes in the protective relaying domain by providing reliable protection for modern electrical grids with substantial renewable energy penetration. This will be achieved by exploring novel model-driven and data-driven solutions to ensure dependable fault detection and secure relay operation. The intellectual merits of the project include deepening our understanding of the behavior of renewable resources under short-circuit conditions, uncovering the inherent limitations of existing legacy relays in safeguarding power grids with inverter-based generation, and developing novel protection strategies to address current and future challenges brought by renewable energy. The broader impacts of the project include enhanced electric grid safety through more reliable protection, dedicated workforce development to address the urgent shortage of protection engineers, and promoting diversity and K-12 engagement in the engineering field. Research outcomes will be presented to technical committees to support the development of standards, guidance, and practices in protection areas.&lt;br/&gt;&lt;br/&gt;The proposed model-driven approaches will incorporate dynamic protection schemes and Gaussian mixture model-based ensemble Kalman filters to address uncertainties from renewable generation. The data-driven approaches will emphasize incremental quantity-based protection functions and intelligent adaptive protection functions. Both the model-driven and data-driven strategies will be designed to withstand specific protection challenges posed by renewable energy, such as varying power flow, the loss of negative and zero sequence components, and minor changes in fault currents. Furthermore, by leveraging and optimizing existing protection infrastructure and relays, the project will develop learning-based algorithms to adaptively adjust relay settings, enhancing the protection of power grids with high levels of renewable energy penetration.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2429138</AwardID>
+<Investigator>
+<FirstName>Rui</FirstName>
+<LastName>Fan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rui Fan</PI_FULL_NAME>
+<EmailAddress><![CDATA[rui.fan@du.edu]]></EmailAddress>
+<NSF_ID>000859472</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Denver]]></Name>
+<CityName>DENVER</CityName>
+<ZipCode>802104711</ZipCode>
+<PhoneNumber>3038712000</PhoneNumber>
+<StreetAddress><![CDATA[2199 S UNIVERSITY BLVD RM 222]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WCUGNQQ8DZU1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF DENVER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>WCUGNQQ8DZU1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Denver]]></Name>
+<CityName>DENVER</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>802104711</ZipCode>
+<StreetAddress><![CDATA[2199 S UNIVERSITY BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>760700</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~295149</FUND_OBLG>
+</Award>
+</rootTag>

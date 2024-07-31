@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[OPUS: SYNTHESIZING THEORY AND DATA IN THE ECOLOGY OF ZOONOTIC DISEASES: A MULTI-SYSTEM PERSPECTIVE]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2025</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>298354.00</AwardTotalIntnAmount>
+<AwardAmount>298354</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrea Porras-Alfaro</SignBlockName>
+<PO_EMAI>aporrasa@nsf.gov</PO_EMAI>
+<PO_PHON>7032922944</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Emerging infectious diseases, driven by globalization, societal and economic activities, land use changes, and climate change, pose a significant threat to public health. This project addresses these threats by synthesizing data from NSF-funded studies on pathogens like West Nile virus, avian influenza, and MERS-coronavirus. By integrating these data with recent community initiatives, the project will create a comprehensive and interoperable database accessible through an online portal. By leveraging a data-driven approach combining ecology, data science, and mathematical modeling, the project will generate actionable knowledge for public health strategies and policy-making. Emphasizing interdisciplinary collaboration and cultural exchange between the US and UK, it will enhance global pandemic preparedness. The study will lead to new understanding of how diseases emerge and spread, which is crucial for predicting, preventing, and managing future outbreaks. The findings will be made available through user-friendly web dashboards, ensuring accessibility for scientists, policymakers, and the public, ultimately contributing to improved health and welfare for human and animal populations.&lt;br/&gt;&lt;br/&gt;The goal of the study is to integrate knowledge from two decades of research, advancing understanding of pathogen dynamics, generating actionable knowledge for disease prediction, prevention, and management, and fostering interdisciplinary collaboration. Published data will be reviewed for consistency in format, variable names, and metadata, and then harmonized for interoperability with repositories such as EID239, GLOBI40, and the Verena dataverse. The harmonized data will be archived in Dryad and Figshare, ensuring long-term preservation and accessibility. Additionally, a sophisticated web interface will be developed to enable interactive exploration and analysis of the datasets, providing tools for visualization, filtering, and cross-referencing data points. A conceptual framework will be introduced to guide future research in the macroecology of emerging diseases and pandemics, enabling statistical methods and machine learning algorithms to identify patterns and predict disease emergence. This framework will serve as a foundation for interdisciplinary research, facilitating collaboration across fields such as epidemiology, ecology, data science, and public health.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2426740</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Drake</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John M Drake</PI_FULL_NAME>
+<EmailAddress><![CDATA[jdrake@uga.edu]]></EmailAddress>
+<NSF_ID>000231870</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Georgia Research Foundation Inc]]></Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress><![CDATA[310 E CAMPUS RD RM 409]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NMJHD63STRC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia Research Foundation Inc]]></Name>
+<CityName>ATHENS</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306021589</ZipCode>
+<StreetAddress><![CDATA[310 E CAMPUS RD RM 409]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>112800</Code>
+<Text>Population &amp; Community Ecology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7565</Code>
+<Text>OPUS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~298354</FUND_OBLG>
+</Award>
+</rootTag>

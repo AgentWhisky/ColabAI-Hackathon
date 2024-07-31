@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Sea-state-dependent drag parameterization through experiments and data-driven modeling]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>299614.00</AwardTotalIntnAmount>
+<AwardAmount>305614</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The ocean covers nearly 70% of the Earth’s surface and plays a dominant role in the global climate. At the ocean interface, surface waves and their resulting dynamics regulate the transfers of momentum and scalars between the atmosphere and ocean and are thus fundamental in shaping the sea states and weather patterns, exerting a direct impact on many aspects of human life. Although we know surface waves must be fully integrated into weather and climate forecast models, we do not yet fully understand the fundamental processes that couple the surface waves with turbulent flows above and below the ocean surface. A better understanding of wind stress modulations by surface waves is required to reduce uncertainties and develop accurate predictive models. This project aims at advancing the current understanding of wind stress over ocean waves using combined high-resolution imaging and numerical simulations. The outcome of this work will result in tangible broader impacts and societal benefits beyond the scientific community. It will incorporate findings into educational materials for a comprehensive three-day air-sea interaction workshop.&lt;br/&gt;&lt;br/&gt;This collaborative project will integrate laboratory measurements of wind-wave interactions with a high-fidelity digital twin model of the laboratory system to develop a data-driven model for sea-surface drag. The specific objectives of the project are to (1) understand skin friction modulations induced by surface waves, (2) evaluate pressure drag through a high-fidelity digital twin model, and (3) develop a sea-state-dependent total surface drag parameterization. Laboratory measurements will provide an accurate description of surface skin friction drag but fall short when it comes to pressure forces. The digital twin model will augment the experimental setup by providing pressure forces. This integrated approach will provide unique insight into wave-induced modulations of the total wind stress (sum of tangential and pressure stresses at the air-water interface) under a range of wind-wave conditions. A data-driven sea-state-dependent surface flux parameterization will be developed by examining these modulations, leveraging recent advancements in machine learning technology. The model will be tailored for large-eddy simulations of wind over ocean wavefields in strongly forced conditions. This approach is expected to significantly advance the fundamental understanding of air-sea fluxes and lead to improved parameterizations of wind stress over the ocean.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404369</AwardID>
+<Investigator>
+<FirstName>Marco</FirstName>
+<LastName>Giometto</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marco G Giometto</PI_FULL_NAME>
+<EmailAddress><![CDATA[mg3929@columbia.edu]]></EmailAddress>
+<NSF_ID>000818879</NSF_ID>
+<StartDate>01/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100277922</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress><![CDATA[615 W 131ST ST]]></StreetAddress>
+<StreetAddress2><![CDATA[MC 8741]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100276623</ZipCode>
+<StreetAddress><![CDATA[500 West 120th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144300</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~305614</FUND_OBLG>
+</Award>
+</rootTag>

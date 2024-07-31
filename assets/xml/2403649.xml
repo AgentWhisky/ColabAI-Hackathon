@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Unidata Reimagined: New Approaches to Community Data Services]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>22500000.00</AwardTotalIntnAmount>
+<AwardAmount>4500000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bernard Grant</SignBlockName>
+<PO_EMAI>bgrant@nsf.gov</PO_EMAI>
+<PO_PHON>7032928521</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>NSF Unidata engages and serves researchers and educators who are advancing the frontiers of their fields; it supports their efforts by creating opportunities for community members from many backgrounds and disciplines to share data, knowledge, methods, and expertise. As part of this effort, Unidata provides well-integrated data services and software tools that address the entire geoscientific data lifecycle, from locating and retrieving useful data, through the process of analyzing and visualizing data either locally or remotely, to curating and sharing the results. NSF Unidata serves more than 1,500 universities and colleges worldwide, which forms the core of a member community spanning thousands of government and research institutions worldwide that rely on Unidata products and services.&lt;br/&gt;&lt;br/&gt;Dramatic changes in the technological, scientific, educational, and public policy landscape are transforming the ways our community members conduct their research and educate new generations of scientists. To meet these challenges, Unidata is reimagining how the program can best fulfill its mission. Below is a description of how Unidata plans to serve its community going forward by focusing on four types of activities:&lt;br/&gt;&lt;br/&gt;●Providing Data and Tools: ensuring fair and equitable access to ESS and other data from a variety of sources, along with cutting-edge tools to analyze and visualize that data.&lt;br/&gt;●Reducing Barriers to Participation: building partnerships with minority-serving institutions and under-resourced groups to increase engagement and collaboration; helping to build a broader, more inclusive community of ESS practitioners.&lt;br/&gt;●Fostering Community Action: engaging community members to advance adoption of initiatives like FAIR and CARE data principles to promote Open Science concepts.&lt;br/&gt;●Providing Innovative Technical Solutions: guiding the ESS community toward technical solutions that leverage innovations in AI/ML, modern open-source software, and cloud-centric tools.&lt;br/&gt;&lt;br/&gt;Within these broad categories, NSF Unidata proposes a variety of actions guided by concepts like convergence science, community hubs, eLearning, and science gateway that bring together varied data, software tools for analysis and visualization, and learning resources. In advancing the aforementioned goals, the program will continue to expand its partnerships with underserved communities, collaborating with Tribal Colleges and Universities, Historical Black Colleges and Universities, and other minority-serving institutions across the U.S. to provide training and scientific opportunities for students alongside data services and technical support for researchers and educators.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403649</AwardID>
+<Investigator>
+<FirstName>Mohan</FirstName>
+<LastName>Ramamurthy</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mohan K Ramamurthy</PI_FULL_NAME>
+<EmailAddress><![CDATA[mohan@ucar.edu]]></EmailAddress>
+<NSF_ID>000362575</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>May</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ryan May</PI_FULL_NAME>
+<EmailAddress><![CDATA[rmay@ucar.edu]]></EmailAddress>
+<NSF_ID>000694155</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University Corporation For Atmospheric Res]]></Name>
+<CityName>BOULDER</CityName>
+<ZipCode>803012252</ZipCode>
+<PhoneNumber>3034971000</PhoneNumber>
+<StreetAddress><![CDATA[3090 CENTER GREEN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YEZEE8W5JKA3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University Corporation For Atmospheric Res]]></Name>
+<CityName>BOULDER</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803012252</ZipCode>
+<StreetAddress><![CDATA[3090 CENTER GREEN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152000</Code>
+<Text>Community Programs</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~4500000</FUND_OBLG>
+</Award>
+</rootTag>

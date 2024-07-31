@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SCC-IRG Track 1: Community-Responsive Electrified and Adaptive Transit Ecosystem (CREATE): Planning, Operations, and Management]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>1500000.00</AwardTotalIntnAmount>
+<AwardAmount>1500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Siqian Shen</SignBlockName>
+<PO_EMAI>siqshen@nsf.gov</PO_EMAI>
+<PO_PHON>7032927048</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Smart and Connected Community (S&amp;CC) project supports research that aims to foster a Community-Responsive Electrified and Adaptive Transit Ecosystem (CREATE) to tackle interrelated challenges that arise in the planning, operations, and management of public bus fleet electrification. Public bus fleets, including transit and school buses, represent a prime opportunity for transportation electrification, and associated improvements in environmental quality and health benefits in impacted communities. Widespread adoption of electric buses has been hindered by an array of complex and interrelated planning, operational, and managerial challenges. Some major ones are range limits, long charging time, high capital expenses, low bus utilization ratios, equipment downtime, underdeveloped workforce, and diverse stakeholder interests and priorities. To overcome these hurdles, this project adopts a holistic approach by integrating intelligent technology development with community needs, while prioritizing environmental justice (EJ) and transportation justice (TJ) in research and solution design. A suite of intelligent decision support tools will be developed and deployed to support a scalable, transferable, and sustainable path for electric bus transition. This project will also assess collaborative governance in public bus fleet electrification planning and policymaking. An advisory council consisting of key stakeholders in public bus fleet electrification will be established to guide all stages of the project. In collaboration with industry and community partners, this project will further contribute to the development of the workforce to facilitate a sustainable future for electrified public bus transportation. Outputs from this project will include a report and clearinghouse on lessons learned, resources and best practices to guide other public transit agencies and school systems in their fleet electrification efforts, thereby accelerating the nationwide transition to electric buses. The project outcomes will advance EJ and TJ, benefiting marginalized communities that have long been harmed by diesel-exhaust pollution. &lt;br/&gt;&lt;br/&gt;The overarching research goal of this award is to tackle interrelated challenges that arise in the planning, operations, and management of public bus fleet electrification. The project will be conducted in close collaboration with local transit agencies, public schools, local municipalities, utility companies, electric bus distributor and maintenance service providers, and national laboratories. The multidisciplinary team will devise innovative technologies to support analytical and practical needs of community partners. Strategic planning for electric bus fleets differs fundamentally from conventional fleet planning because decisions such as charging capacity and charger locations profoundly influence fleet performance due to the much-reduced range and longer refueling time. A holistic approach is thus devised to integrate operations into the strategic planning for bus fleet electrification. It will develop an integrated strategic and operational planning framework guided by EJ and TJ. Innovations in graph machine learning and learning-enabled stochastic optimization will enable stakeholders to address the complexity, nonlinearity, uncertainty, and data scarcity challenges associated with bus electrification. Daily operations of electric bus fleets present hurdles to achieving high utilization of electric buses and chargers while maintaining optimal state of charge ranges, all without compromising the reliability of bus services. Adaptive operations decision support capabilities will be developed to address those operational challenges. Those include new smart predict-then-optimize, digital twin-based real-time decision making, and transfer learning algorithms to dynamically optimize fleet charging, incident response, and maintenance, thereby achieving the overarching goal of high vehicle utilization and competitive total ownership cost. The project will culminate in a pilot program to deploy CREATE Suite, a set of intelligent decision support tools, to facilitate public bus fleet electrification efforts at the project’s public transit systems and school districts partners. At the conclusion of this project, an electric bus clearinghouse will be established as a centralized platform to support bus electrification.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/20/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411248</AwardID>
+<Investigator>
+<FirstName>Jie</FirstName>
+<LastName>Xu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jie Xu</PI_FULL_NAME>
+<EmailAddress><![CDATA[jxu13@gmu.edu]]></EmailAddress>
+<NSF_ID>000616410</NSF_ID>
+<StartDate>06/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wenying</FirstName>
+<LastName>Ji</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wenying Ji</PI_FULL_NAME>
+<EmailAddress><![CDATA[wji2@gmu.edu]]></EmailAddress>
+<NSF_ID>000801045</NSF_ID>
+<StartDate>06/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jundong</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jundong Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[jl6qk@virginia.edu]]></EmailAddress>
+<NSF_ID>000806678</NSF_ID>
+<StartDate>06/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ran</FirstName>
+<LastName>Ji</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ran Ji</PI_FULL_NAME>
+<EmailAddress><![CDATA[rji2@gmu.edu]]></EmailAddress>
+<NSF_ID>000810717</NSF_ID>
+<StartDate>06/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Fengxiu</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Fengxiu Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[fzhang22@gmu.edu]]></EmailAddress>
+<NSF_ID>000857075</NSF_ID>
+<StartDate>06/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EADLFP7Z72E5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE MASON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>H4NRWLFCDF43</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>220304422</ZipCode>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>033Y00</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>029E</Code>
+<Text>INFRASTRUCTURE SYSTEMS MGT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1500000</FUND_OBLG>
+</Award>
+</rootTag>

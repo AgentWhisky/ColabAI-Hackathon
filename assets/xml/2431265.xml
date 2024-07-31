@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Formal reasoning with SPIRAL program generation and automatic hardware-centric optimization to achieve guarantees in high performance math kernels produced by generative AI]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>295169.00</AwardTotalIntnAmount>
+<AwardAmount>295169</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In recent years, artificial intelligence (AI) has made major progress. Generative AI and, in particular, large language models (LLMs) have revolutionized how we think of AI. These methods are used broadly and are now also applied to program development. Before LLMs, human contributors, commenters and curators would ensure at least some minimum level of correctness when looking up such code fragments on programming-related internet sites. These guard rails are gone when using LLMs, as the system cannot provide any guarantees and insights to ensure the correctness of the produced examples. This LLM hallucination becomes a huge issue when LLMs are asked to provide examples for algorithms with complex and hard-to-understand behavior and where correctness is not obvious. In the worst-case scenario, generative AI provides incorrect and outdated code snippets from undocumented sources that are strung together into a “reasonably looking” example that may well be wrong in a subtle way, but only experts could spot the problem. Any effort that helps guard AI from acting outside its bounds and that ensures that one can trust in AI has a major scientific and societal impact. This project focuses on enabling trust when using AI as an aid to programmers. &lt;br/&gt;&lt;br/&gt;This project develops an experimental approach to the above-described problem for a class of important core numerical algorithms. The team of researchers takes their inspiration from a well-understood insight in mathematics and computer science that proving a solution correct is easier than finding a solution. In the context of LLMs, they investigate how to utilize LLMs to guess an implementation of an algorithm, within clear implementation constraints. Then, they develop an extension to the SPIRAL system (www.spiral.net) that implements symbolic execution and theorem-proving capabilities to derive the semantics of the LLM-generated code using SPIRAL’s formal framework and engine. For the problems addressed by this project, the researchers aim to demonstrate how rule-based symbolic AI can bring guarantees to generative AI. While the problem of deriving the formal semantics of a piece of numerical code, in general, may well be unsolvable, for the class of algorithms that the SPIRAL system understands, the problem becomes tractable. The approach is a variant of lifting that leverages the detailed knowledge of numerical algorithms encoded in the rule-based AI components of the SPIRAL system.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2431265</AwardID>
+<Investigator>
+<FirstName>Franz</FirstName>
+<LastName>Franchetti</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Franz Franchetti</PI_FULL_NAME>
+<EmailAddress><![CDATA[franzf@ece.cmu.edu]]></EmailAddress>
+<NSF_ID>000209896</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133890</ZipCode>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7942</Code>
+<Text>HIGH-PERFORMANCE COMPUTING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~295169</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Non-Hermitian Topological Light Sensors]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>402134.00</AwardTotalIntnAmount>
+<AwardAmount>402134</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Margaret Kim</SignBlockName>
+<PO_EMAI>sekim@nsf.gov</PO_EMAI>
+<PO_PHON>7032922967</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical description:&lt;br/&gt;This project will investigate the fundamental optical properties and optoelectronic device applications of a novel class of semiconductor nanostructures (non-Hermitian topological photonics crystals), consisting of periodically patterned silicon films where light can be strongly absorbed through the generation of photocurrent. These structures offer extreme design flexibility to engineer the flow of light in the presence of dissipation (i.e., non-Hermiticity) using ideas borrowed from the mathematical theory of topology. As a result, they provide an ideally suited platform to validate recent theoretical predictions on the unusual behavior of non-Hermitian topological wave systems, with wide ranging implications in multiple areas of science and engineering. At the same time, the proposed photonic crystal structures can enable the development of photodetectors with unconventional and useful characteristics in a highly compact footprint. These devices are promising for a broad technological impact in the emerging field of computational light sensing, for applications of high practical significance such as computer vision, biomedical microscopy, and autonomous navigation. The proposed activities will also promote multidisciplinary education in optical physics, semiconductor optoelectronics, and image sensing technologies through the involvement of graduate and undergraduate students, related curriculum development efforts, and a targeted training program for high-school teachers.&lt;br/&gt;&lt;br/&gt;Technical description:&lt;br/&gt;The proposed research includes the design, fabrication, and characterization of photonic crystal slabs operating at wavelengths within the absorption band of their constituent material (silicon). These systems can support custom-designed non-Hermitian topological modes confined at the sample edges or at domain boundaries between adjacent sections of different lattices. The spatial field-intensity distribution and spectral dispersion of these guided resonances will be probed by wavelength-, angle-, and polarization-resolved photocurrent measurements, with the contribution from each line of unit cells measured independently. This arrangement will provide a unique vantage point to demonstrate novel physical phenomena such as the reciprocal-space Su-Schrieffer-Heeger model, the non-Hermitian skin effect, and the breakdown of conventional bulk-boundary correspondence beyond traditional Bloch band theory. Furthermore, by leveraging the same topological effects, this project will also create new design opportunities for the development of highly miniaturized photodetectors featuring a broad diversity of complex angular and spectral responses, and therefore capable of extracting a far richer amount of information from the incident light besides its intensity. These novel device characteristics will be exploited in the proposed research to demonstrate advanced light sensing capabilities, including triangulation and ranging, multi-spectral imaging, and wavefront sensing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414221</AwardID>
+<Investigator>
+<FirstName>Roberto</FirstName>
+<LastName>Paiella</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roberto Paiella</PI_FULL_NAME>
+<EmailAddress><![CDATA[rpaiella@bu.edu]]></EmailAddress>
+<NSF_ID>000118107</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151703</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>THL6A6JLE1S7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF BOSTON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>022151703</ZipCode>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>151700</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~402134</FUND_OBLG>
+</Award>
+</rootTag>

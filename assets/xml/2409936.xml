@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Microstructured Re-Entrant Interface Superomniphobic Porous Cathodes for High-Performance Non-Aqueous CO2 Flow Electrolysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>454577.00</AwardTotalIntnAmount>
+<AwardAmount>454577</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carole Read</SignBlockName>
+<PO_EMAI>cread@nsf.gov</PO_EMAI>
+<PO_PHON>7032922418</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Reducing carbon dioxide levels in the atmosphere is essential for mitigating climate change, protecting human health, and ensuring a sustainable future with a healthy planet. Therefore, state-of-the-art technologies are needed that can maintain practical performance while efficiently decreasing atmospheric carbon dioxide levels. One such promising method is electrochemical carbon dioxide reduction in which CO2 electrolyzer instruments use electricity to facilitate a chemical reaction with carbon dioxide to convert it into chemical by-products that can be an alternative to fossil fuels. The coupling of eliminating CO2 by converting it to beneficial products is immensely promising as an economically viable strategy to mitigate climate change. However, several challenges prevent CO2 conversion by CO2 electrolyzers from being a practical large-scale option, including limitations in usable CO2 sources and the reaction being inefficient. This project aims to improve electrolyzer design to make CO2 conversion more efficient, which leads to electrolyzers being able to use commercially practical CO2 sources and enables new technological applications for converting CO2 to useful products, helping to decarbonize the chemical industry. The educational objectives of this project are to enhance the diversity in the STEM workforce by engaging students of historically underserved backgrounds from the partner HBCU institution in research internships, to advance research entrepreneurial education through product innovation boot camps and subsequent mentoring of a senior undergrad engineering design team, and to develop hands-on electrochemistry module targeting high school students.&lt;br/&gt;&lt;br/&gt;The vast majority of CO2 reduction (CO2R) research has utilized aqueous media and has had a small number of low-carbon products that can be synthesized with reasonable selectivity. The proposed research seeks to advance the field by designing a gas diffusion electrode (GDE) that is super-repellent to even low surface tension fluids to enable a generalizable porous cathode platform for gaseous reactant flow electrolysis without flooding that is applicable in nearly any non-aqueous solvent. Via the careful design of microstructures with high aspect ratio and overhanging tip geometry (i.e., re-entrant) features, electrode interfaces will be rendered superomniphobic by leveraging surface tension to maximize the energy barrier to transition between a suspended liquid droplet state (i.e., Cassie-Baxter) and a wetted surface state (i.e., Wenzel). Methods will be developed to incorporate the re-entrant microstructures on a porous electrode surface. The interfacial and applied potential parameters that affect charge transfer and control electrowetting of the surface will be unraveled as a function of microstructure geometry and solvent properties to determine critical threshold parameters for successful non-aqueous CO2R operation. Studies of the triple-phase interface under active flow electrolysis with in-situ high-speed fluorescence imaging of the GDE will elucidate the effects of pressure, flow regime, and potential on the cathode. Lastly, superomniphobic porous cathodes will be leveraged for high-performance non-aqueous electrolysis in CO2R tandem cathodic reactions for ester production and ionic-liquid mediated CO2R in an aprotic solvent.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409936</AwardID>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Spurgeon</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joshua M Spurgeon</PI_FULL_NAME>
+<EmailAddress><![CDATA[joshua.spurgeon@louisville.edu]]></EmailAddress>
+<NSF_ID>000664697</NSF_ID>
+<StartDate>07/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Louisville Research Foundation Inc]]></Name>
+<CityName>LOUISVILLE</CityName>
+<ZipCode>402081838</ZipCode>
+<PhoneNumber>5028523788</PhoneNumber>
+<StreetAddress><![CDATA[2301 S 3RD ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<StateCode>KY</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KY03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E1KJM4T54MK6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF LOUISVILLE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Louisville Research Foundation Inc]]></Name>
+<CityName>LOUISVILLE</CityName>
+<StateCode>KY</StateCode>
+<ZipCode>402081838</ZipCode>
+<StreetAddress><![CDATA[2301 S 3RD ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KY03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>764400</Code>
+<Text>EchemS-Electrochemical Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~454577</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-BSF: Elucidating RNA-RNA interaction networks during interbacterial interactions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>849713.00</AwardTotalIntnAmount>
+<AwardAmount>849713</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Clifford Weil</SignBlockName>
+<PO_EMAI>cweil@nsf.gov</PO_EMAI>
+<PO_PHON>7032924668</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Bacteria often reside in communities with other species of bacteria. These communities are commonplace in the soil, in water, on plants and inside animals including humans. Interactions between different species of bacteria in these communities are widespread, are typically antagonistic and can have important consequences for the growth and survival of bacterial cells, as well as the health of any organism that hosts them. Bacteria therefore produce regulatory factors in their cells to carefully control the expression of those genes that are beneficial to them during these interactions and, in some cases, that negatively impact the expression of genes in other species that benefit those other species. The project seeks to determine the extent to which an increasingly important class of regulatory factors called small RNAs (sRNAs) controls the interactions between one bacterium called Pseudomonas aeruginosa and two other species of bacteria. The work with these model systems will (i) illuminate how RNA-based regulatory factors govern the behavior of bacteria in communities, (ii) provide training opportunities for postdoctoral and undergraduate researchers—including individuals that are typically underrepresented in the scientific workforce, (iii) provide undergraduate-level teaching opportunities for a postdoctoral research fellow, and (iv) help establish a new research program for a junior investigator. &lt;br/&gt;&lt;br/&gt;There is a growing appreciation that sRNA species between 50 and 300 nucleotides in length play important regulatory roles in bacteria and form extensive regulatory networks. The sRNAs that form these networks act by base-pairing with target messenger RNA (mRNA) species to regulate their translation and/or stability. Such base-pairing is facilitated by the RNA chaperone Hfq that makes simultaneous contact with the sRNA and its mRNA target. Until now, studies of the regulatory roles played by sRNAs have been limited to bacteria growing in isolation as monocultures. The main objectives of the project are to define the sRNA interaction network that occurs in the model gram-negative bacterium P. aeruginosa during its interaction with other bacteria and to begin to decode the regulatory roles played by sRNAs during these interactions. The research team will leverage a state-of-the-art transcriptomic approach that captures sRNAs together with their target RNA species on Hfq. The work is expected to generate rich datasets of sRNA-mRNA interactions that will serve as an important resource for many in the field and significantly advance understanding of how interbacterial relationships are modulated by RNA-based control mechanisms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409820</AwardID>
+<Investigator>
+<FirstName>Simon</FirstName>
+<LastName>Dove</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Simon Dove</PI_FULL_NAME>
+<EmailAddress><![CDATA[simon.dove@childrens.harvard.edu]]></EmailAddress>
+<NSF_ID>000061132</NSF_ID>
+<StartDate>07/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Children's Hospital Corporation]]></Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155724</ZipCode>
+<PhoneNumber>6179192729</PhoneNumber>
+<StreetAddress><![CDATA[300 LONGWOOD AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z1L9F1MM1RY3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CHILDREN'S HOSPITAL CORPORATION, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Children's Hospital Corporation]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021155724</ZipCode>
+<StreetAddress><![CDATA[300 LONGWOOD AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111200</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>014Z</Code>
+<Text>NSF and US-Israel Binational Science Fou</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5905</Code>
+<Text>ISRAEL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~849713</FUND_OBLG>
+</Award>
+</rootTag>

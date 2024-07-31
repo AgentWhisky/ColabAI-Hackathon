@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CIF: Medium: Snapshot Computational Imaging with Metaoptics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>800000.00</AwardTotalIntnAmount>
+<AwardAmount>800000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Fowler</SignBlockName>
+<PO_EMAI>jafowler@nsf.gov</PO_EMAI>
+<PO_PHON>7032928910</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Light interacts richly with materials in the world along its many axes, including spatial, temporal, angular, spectral, and polarization. Measuring these interactions at a fine-grained scale is a key enabling technology in numerous scientific endeavors, including life sciences, remote sensing, security and forensics, and augmented and virtual reality. Yet, traditional image sensors capture only two-dimensional spatial variations. Therefore, other properties of light are measured by either embedding them within the spatial dimensions (e.g., Bayer-color or polarization-filter mosaics spatially spread over the sensor) or capturing them sequentially (e.g., acquiring consecutive video frames in the time dimension or consecutive hyperspectral components in the spectral dimension). However, snapshot approaches that use spatial tiling, while simple, lead to aliasing artifacts and invariably require expensive manufacturing techniques (bonding color/polarization filters to the sensor array). On the other hand, sequential measurements entail motion artifacts and lower frame rates. In contrast, this project develops snapshot computational cameras for capturing information along light's various dimensions by leveraging recent advances in metaoptics, i.e., optical devices that use sub-wavelength nano-structures to manipulate light characteristics - such as phase, wavelength, amplitude, or polarization - with a degree of control not feasible in traditional refractive optics. The project focuses on developing metaoptics-based imaging systems with frequency-domain multiplexing instead of spatial tiling or sequential imaging. Such frequency-multiplexed techniques require minimal changes to existing imaging systems while enabling snapshot measurements of multiple dimensions with minimal aliasing artifacts.&lt;br/&gt; &lt;br/&gt;The project will focus on three main objectives to achieve snapshot computational-imaging systems. The first objective is to build simulators based on rendering algorithms for computational cameras, as well as combinations and differentiable versions of such cameras, to efficiently simulate the various dimensions of light, including time-of-flight, spectrum, and polarization. In tandem, a scalable, differentiable metaoptics simulator will be built that can handle wave effects as light interacts with the metaoptical nano-structures which are smaller than the wavelength of the light. The second objective is to design frequency-multiplexed snapshot cameras by leveraging the simulators developed in the first objective, leading to metaoptics-based cameras that enable capturing intensity over large depths of field with high numerical aperture, thereby achieving compact imaging systems with low operational power. The third objective is to demonstrate the advantages of snapshot cameras by designing and building lab prototypes and comparing them against current state-of-the-art imagers. The outcomes of this project will impact various disciplines, including computer graphics, optics, computational imaging, and biomedical imaging.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403122</AwardID>
+<Investigator>
+<FirstName>Wojciech</FirstName>
+<LastName>Jarosz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wojciech Jarosz</PI_FULL_NAME>
+<EmailAddress><![CDATA[wojciech.k.jarosz@dartmouth.edu]]></EmailAddress>
+<NSF_ID>000703281</NSF_ID>
+<StartDate>03/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adithya</FirstName>
+<LastName>Pediredla</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adithya K Pediredla</PI_FULL_NAME>
+<EmailAddress><![CDATA[adithya.k.pediredla@dartmouth.edu]]></EmailAddress>
+<NSF_ID>000887159</NSF_ID>
+<StartDate>03/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Dartmouth College</Name>
+<CityName>HANOVER</CityName>
+<ZipCode>037552170</ZipCode>
+<PhoneNumber>6036463007</PhoneNumber>
+<StreetAddress>7 LEBANON ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<StateCode>NH</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NH02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EB8ASJBCFER9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF DARTMOUTH COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>T4MWFG59C6R3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Dartmouth College]]></Name>
+<CityName>HANOVER</CityName>
+<StateCode>NH</StateCode>
+<ZipCode>037552170</ZipCode>
+<StreetAddress><![CDATA[7 LEBANON ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NH02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7936</Code>
+<Text>SIGNAL PROCESSING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~800000</FUND_OBLG>
+</Award>
+</rootTag>

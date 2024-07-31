@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Euler Systems, Iwasawa Theory, and the Arithmetic of Elliptic Curves]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>223063.00</AwardTotalIntnAmount>
+<AwardAmount>74832</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Adriana Salerno</SignBlockName>
+<PO_EMAI>asalerno@nsf.gov</PO_EMAI>
+<PO_PHON>7032922271</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Elliptic curves are a class of polynomial equations (of degree three in two variables) that have been studied for centuries, yet for which many basic questions remain open. For instance, at present there is no proven algorithm to decide whether or not a given elliptic curve has finite or infinitely many rational solutions. Over the past century, mathematicians conjectured that an answer to these questions could be extracted from certain functions of a complex variable, namely the L-function of the elliptic curve. Euler systems and Iwasawa theory are two of the most powerful tools available to date for the study of these and related conjectured links between arithmetic and analysis. This award will advance our understanding of the arithmetic of elliptic curves by developing new results and techniques in Euler systems and Iwasawa theory. The award will also support several mentoring, training, dissemination, and outreach activities.&lt;br/&gt;&lt;br/&gt;More specifically, the research to be pursued by the PI and his collaborators will largely focus on problems whose solutions will significantly advance our understanding of issues at the core of the Birch and Swinnerton-Dyer conjecture and related questions in situations of analytic rank 1, and shed new light on the much more mysterious cases of analytic rank 2 and higher. In rank 1, they will prove the first p-converse to the celebrated theorem of Gross-Zagier and Kolyvagin in the case of elliptic curves defined over totally real fields. In rank 2, they will continue their investigations of the generalized Kato classes introduced a few years ago by Darmon-Rotger, establishing new nonvanishing results in the supersingular case. They will also study a systematic p-adic construction of Selmer bases for elliptic curves over Q of rank 2 in connection with the sign conjecture of Mazur-Rubin. For elliptic curves of arbitrary rank, they will establish various non-triviality results of associated Euler systems and Kolyvagin systems, as first conjectured by Kolyvagin and Mazur-Tate.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401321</AwardID>
+<Investigator>
+<FirstName>Francesc</FirstName>
+<LastName>Castella</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Francesc Castella</PI_FULL_NAME>
+<EmailAddress><![CDATA[castella@ucsb.edu]]></EmailAddress>
+<NSF_ID>000654381</NSF_ID>
+<StartDate>04/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName>SANTA BARBARA</CityName>
+<ZipCode>931060001</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress><![CDATA[3227 CHEADLE HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G9QBQDH39DF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SANTA BARBARA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName>SANTA BARBARA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>931060001</ZipCode>
+<StreetAddress><![CDATA[3227 CHEADLE HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~74832</FUND_OBLG>
+</Award>
+</rootTag>

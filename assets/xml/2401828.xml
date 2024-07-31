@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRII: RI: TRUST—TRustworthy Uncertainty Propagation for Sequential Time-Series Analysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>174922.00</AwardTotalIntnAmount>
+<AwardAmount>159159</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vladimir Pavlovic</SignBlockName>
+<PO_EMAI>vpavlovi@nsf.gov</PO_EMAI>
+<PO_PHON>7032928318</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded in whole or in part under the American Rescue Plan Act of 2021 (Public Law 117-2). &lt;br/&gt;&lt;br/&gt;The massive production of time-series data through the internet of things, the digitalization of healthcare, and the rise of smart cities have surged the need for competent time-series modeling, analysis, and forecasting. Many critical applications rely on time-series analysis, including video analytics, stock market analysis, earthquake prediction, economic forecasting, healthcare monitoring and disease prognoses. Recent sequence machine learning (ML) models have achieved remarkable success in processing entire sequences of data (such as speech or video) and learning long-term dependencies of time-series. However, these sequence models are unable to understand or assess their uncertainty, particularly critical when predicting in heterogeneous and noisy environments or in the presence of an adversary. For example, missing a prediction of heart failure due to artifacts in the electrocardiogram (ECG) physiological signal or failing to detect a security vulnerability in a software product could cause tragic health, financial and societal damage to people and industries. This project will develop significant theoretical and algorithmic foundations for uncertainty quantification, self-assessment, and adversarial detection in modern ML sequence models towards safe and reliable time-series intelligent machines. The project will develop pioneering algorithms that are universally robust under noisy conditions and adversarial susceptions. The main focus is on sequential ML algorithms with quantified uncertainty for the provided solutions. Open-source implementations of the proposed algorithms will be publicly available for rapid dissemination and contribution to the ML community. Furthermore, the proposed research will support the cross-disciplinary development of a diverse cohort of graduate and undergraduate students at the University of Texas Rio Grande Valley and develop new courses, certificates, and research projects in trustworthy and robust ML.&lt;br/&gt;&lt;br/&gt;The primary technical aim of the project advocates a novel Bayesian estimation framework that propagates distributions across models’ non-linear layers inspired by powerful statistical frameworks for optimal tracking in non-linear and non-Gaussian systems. A comprehensive analysis of models’ performance and uncertainty measures under noisy conditions and adversarial attacks will pave the way for deploying sequential ML algorithms in a wide range of real-world applications. Applications of this research include industry and healthcare partners in the areas of security of industrial systems (in collaboration with Lockheed Martin Inc.) and brain tumor detection and surveillance from magnetic resonance imaging (in collaboration with MRIMath, LLC).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/14/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401828</AwardID>
+<Investigator>
+<FirstName>Dimah</FirstName>
+<LastName>Dera</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dimah Dera</PI_FULL_NAME>
+<EmailAddress><![CDATA[dimah.dera@rit.edu]]></EmailAddress>
+<NSF_ID>000864525</NSF_ID>
+<StartDate>11/14/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Rochester Institute of Tech]]></Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146235603</ZipCode>
+<PhoneNumber>5854757987</PhoneNumber>
+<StreetAddress><![CDATA[1 LOMB MEMORIAL DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J6TWTRKC1X14</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ROCHESTER INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rochester Institute of Tech]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146235603</ZipCode>
+<StreetAddress><![CDATA[1 LOMB MEMORIAL DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>749500</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~139159</FUND_OBLG>
+<FUND_OBLG>2024~20000</FUND_OBLG>
+</Award>
+</rootTag>

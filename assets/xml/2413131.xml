@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[IUCRC Phase III University at Buffalo: Center for Identification Technology Research (CITeR)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>40000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mohan Kumar</SignBlockName>
+<PO_EMAI>mokumar@nsf.gov</PO_EMAI>
+<PO_PHON>7032927408</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Abstract&lt;br/&gt;&lt;br/&gt;The ability to establish, confirm and protect an individual’s identity is essential to the functioning of our society. Biometrics uses physical measurements of the body to identify an individual. A secure biometric identity and secure processes that use identities allow individuals to function in our growing on-line society with reduced risk of identity theft and fraud. Establishing identity is critical for preventing and detecting crime, terrorism, fraud and human trafficking. Challenges facing the arena of identification include the use of Artificial Intelligence (AI) to create fake images, videos and recordings as a means to intentionally deceive, and the potential existence of bias within the identity systems.&lt;br/&gt;&lt;br/&gt;In Phase III, the Center for Identification Technology Research (CITeR) expands its research in generative AI, advanced computing, and digital identity management, along with fair, transparent and explainable biometrics to address challenges that both commercial and government sectors face in today's society. CITeR will conduct research to measure bias, including statistical metrics and single frame methods to measure skin color, as well as approaches to mitigate bias based on specialized loss functions in neural network models. Additionally, projects to ensure identity systems are not fooled by deepfake attacks through comprehensive evaluation of challenge response and liveness methods to prevent replay attacks, as well as methods to recognize deepfakes based on signatures, either natural or synthetically added will be explored. The University at Buffalo (UB) site will explore additional novel topics such as applications of quantum computing in secure transmission of identity information.&lt;br/&gt;&lt;br/&gt;CITeR plays a critical role in addressing the challenges to establish, confirm and protect an individual’s identity in today’s modern society. A new Presidential Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence, states that irresponsible use of AI could ‘exacerbate societal harms such as fraud, discrimination, bias, and disinformation’. CITeR will support opportunities for sharing and learning through the development of educational videos, STEM outreach efforts for public schools and the continued development and hosting of Challenge Problem workshops for industry and government organizations to address challenges in the problem space.  The UB site will collaborate with the REU Site in Biometrics and the National AI Institute for Exceptional Education at UB in expanding its broader impact activities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413131</AwardID>
+<Investigator>
+<FirstName>Venugopal</FirstName>
+<LastName>Govindaraju</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Venugopal Govindaraju</PI_FULL_NAME>
+<EmailAddress><![CDATA[govind@buffalo.edu]]></EmailAddress>
+<NSF_ID>000180231</NSF_ID>
+<StartDate>07/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Srirangaraj</FirstName>
+<LastName>Setlur</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Srirangaraj Setlur</PI_FULL_NAME>
+<EmailAddress><![CDATA[setlur@buffalo.edu]]></EmailAddress>
+<NSF_ID>000179628</NSF_ID>
+<StartDate>07/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SUNY at Buffalo]]></Name>
+<CityName>AMHERST</CityName>
+<ZipCode>142282577</ZipCode>
+<PhoneNumber>7166452634</PhoneNumber>
+<StreetAddress><![CDATA[520 LEE ENTRANCE STE 211]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMCJKRFW5R81</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GMZUKXFDJMA9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Buffalo]]></Name>
+<CityName>AMHERST</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>142282577</ZipCode>
+<StreetAddress><![CDATA[520 LEE ENTRANCE STE 211]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>576100</Code>
+<Text>IUCRC-Indust-Univ Coop Res Ctr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~40000</FUND_OBLG>
+</Award>
+</rootTag>

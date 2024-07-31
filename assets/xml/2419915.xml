@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation Potential of Real-time, Ultrasensitive Electrical Transduction of Biological Binding Events for Pathogen and Disease Detection]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Molly Wasko</SignBlockName>
+<PO_EMAI>mwasko@nsf.gov</PO_EMAI>
+<PO_PHON>7032924749</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is the development of epitaxial graphene based diagnostic and screening devices to address the current lack of rapid, selective, and sensitive screening tools for pathogens, like severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), necessary to contain this and future pandemics. There is also a lack of point-of-care detection technologies that could help mitigate the spread of pathogens, ideally before a person becomes infectious. The potential advantage of our biosensor is it is reusable, with greater speed and sensitivity compared to existing commercial products and also technology found in recent literature. It can also detect pathogens in human breath, enabling rapid, non-invasive screening not possible by conventional technology. Applying this technology to pathogen detection, where rapid deployment and immediate results are critical to pandemic mitigation, endemic pathogens, where outbreaks can threaten vulnerable members of the population, and pathogens and ailments where detection is difficult due to few circulating biomarkers such as cancer and bacteria. Overall, the broad applicability of these biosensors in non-invasive medical screening has the potential to significantly impact human health and public safety.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with first-hand investigation of the industry ecosystem to assess the translation potential of the proposed technology. It is based on the prior development of rapid, selective, and ultrasensitive electrical-based screening and diagnostic tools for detecting viruses and bacteria without the need for sample preparation, expensive laboratory equipment, or specialized personnel. This innovative approach focuses on harnessing the properties of quasi-freestanding epitaxial graphene (QEG) on silicon carbide (SiC) in conjunction with immobilized biomarkers, enabling pathogen detection. This device aims to overcome the limitations of current diagnostic technologies, particularly in terms of speed, selectivity, sensitivity, and cost-effectiveness, through a novel polarization-induced strain mechanism unique to QEG. This platform enables the transduction of antibody/antigen systems and protease/peptide, enabling ultrasensitive and rapid screening of pathogens and diseases.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419915</AwardID>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Daniels</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kevin M Daniels</PI_FULL_NAME>
+<EmailAddress><![CDATA[danielkm@umd.edu]]></EmailAddress>
+<NSF_ID>000768936</NSF_ID>
+<StartDate>04/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425100</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress><![CDATA[3112 LEE BUILDING]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NPU8ULVAAS23</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>COLLEGE PARK</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207425100</ZipCode>
+<StreetAddress><![CDATA[3112 LEE BUILDING]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>066E</Code>
+<Text>INSTRUMENTATION &amp; DIAGNOSTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

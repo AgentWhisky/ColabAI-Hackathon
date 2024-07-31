@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Intervention Optimization under Uncertainty of Locks in Inland Waterway Networks Informed by Asset Health Prognostics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>454085.00</AwardTotalIntnAmount>
+<AwardAmount>454085</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Siqian Shen</SignBlockName>
+<PO_EMAI>siqshen@nsf.gov</PO_EMAI>
+<PO_PHON>7032927048</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award funds research that explores developing a new intervention optimization framework for navigation locks within inland waterway networks, which are critical civil infrastructure systems that are considered vital to the security and national economic security of the United States. Currently, lock maintenance and intervention scheduling decisions are made based on expert opinions and experiences, often leading to unnecessary closures and non-optimal solutions. The goal of this research is to create a systematic framework that uses advanced mathematical models and machine learning techniques to predict when lock failures are likely to occur. By using this information, repair, and maintenance scheduling decisions will be made at the system level for the entire waterway network to ensure that shipping routes remain operational and the long-term disruption costs are minimized. By extending the service life of these critical civil infrastructures, reducing disruptions to waterway transportation, and optimizing intervention scheduling, this project is expected to increase economic productivity, promote sustainability, and benefit the whole society. Moreover, this project will support STEM education through the development of educational materials and engagement with undergraduate and graduate students.&lt;br/&gt;&lt;br/&gt;The research will create a framework for intervention optimization under uncertainty for locks in inland waterway networks. This framework bridges the gap between model-based asset health prognostics and system-level operational optimization. It achieves a paradigm shift from experience-based intervention scheduling to risk-informed, network-level intervention optimization for assets in inland waterway networks. The research is composed of three thrusts: (1) developing population-based health prognostics using privacy-preserving federated learning, enabling information sharing among assets while maintaining data privacy; (2) analyzing the impacts of lock disruptions on system-level network operational costs; and (3) implementing bi-level optimization for intervention scheduling, which optimizes both short-term operational decisions and long-term intervention policies. The framework will be validated by using locks on the Ohio River system. This project will introduce new methods for degradation modeling of civil infrastructures, combining physics-based and data-driven approaches, and integrate probabilistic degradation modeling with disruption analysis and intervention scheduling optimization. The outcomes will minimize long-term operational costs and modernize the management of inland waterway networks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423521</AwardID>
+<Investigator>
+<FirstName>Zhen</FirstName>
+<LastName>Hu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhen Hu</PI_FULL_NAME>
+<EmailAddress><![CDATA[zhennhu@umich.edu]]></EmailAddress>
+<NSF_ID>000756200</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Armagan</FirstName>
+<LastName>Bayram</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Armagan Bayram</PI_FULL_NAME>
+<EmailAddress><![CDATA[armagan@umich.edu]]></EmailAddress>
+<NSF_ID>000796837</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Dearborn]]></Name>
+<CityName>Dearborn</CityName>
+<ZipCode>481282406</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[4901 EVERGREEN RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RY78VSF6P4G3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Dearborn]]></Name>
+<CityName>Dearborn</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481282406</ZipCode>
+<StreetAddress><![CDATA[4901 EVERGREEN RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>163100</Code>
+<Text>CIS-Civil Infrastructure Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>029E</Code>
+<Text>INFRASTRUCTURE SYSTEMS MGT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~454085</FUND_OBLG>
+</Award>
+</rootTag>

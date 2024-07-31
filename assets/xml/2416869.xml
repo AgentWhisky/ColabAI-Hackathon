@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Jumping-Bubble-Enhanced Pool Boiling on Rationally Microstructured Surfaces]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>506419.00</AwardTotalIntnAmount>
+<AwardAmount>506419</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sumanta Acharya</SignBlockName>
+<PO_EMAI>sacharya@nsf.gov</PO_EMAI>
+<PO_PHON>7032924509</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Boiling is a highly effective form of heat transfer used for power plants, thermal desalination, electronics cooling, and many other applications. However, the effectiveness of boiling breaks down beyond a critical heat load, due to the growing surface bubbles forming a continuous and insulating vapor film. The principal aim of this project is to fabricate arrays of microstructures that promote the spontaneous ejection of ultra-small micro-bubbles during boiling by leveraging surface tension. For example, bubbles inflating from closely packed micro-cavities will dramatically jump from the surface as they coalesce together. By rapidly ejecting surface bubbles at unusually small sizes, boiling heat transfer should be enhanced while also delaying the breakdown in boiling due to film formation. The heat transfer of a jumping-bubble boiler will be measured across a wide range of surface architectures, surface temperatures, and working fluids. The project will also encompass significant educational activities, including an intensive undergraduate research mentoring program, a picture gallery of jumping bubbles exhibited at Virginia Tech’s Moss Arts Center to communicate boiling concepts to a broader audience, summer camps for high-school students, and the production of general-audience YouTube videos on the physics of making bubbles or droplets jump by surface tension.       &lt;br/&gt;&lt;br/&gt;The goal of this project is to enhance pool boiling by designing microstructures that serve as tailored nucleation sites to spontaneously eject micro-bubbles by leveraging surface tension.  Preliminary results identified two frameworks for jumping-bubble-enhanced boiling: close-packed micro-cavities for coalescence-induced jumping or a micro-groove for Laplace-pressure-induced single-bubble jumping. Alternately using water or an electronic fluid, three specific research tasks will greatly mature the fundamental and practical impact of jumping-bubble-enhanced pool boiling: (i) Widely vary the micro-cavity geometry to minimize the departure diameter of coalescence-induced jumping bubbles, (ii) Vary the micro-groove geometry to minimize the departure diameter of Laplace-pressure-induced jumping bubbles, and (iii) Using optimized microstructures from the first two tasks, measure the boiling curves and compare to a smooth control surface. The intellectual significance of this project is achieving rapid and wickless (i.e., above-surface only) liquid rewetting by jointly leveraging surface tension and the spatial control of nucleation sites to continually detach inflating bubbles from their impaled vapor necks. The broader impact is the dramatic increase in both the heat transfer coefficient and critical heat flux that is expected by virtue of the ultra-small bubble departure size, using uncoated and relatively large microstructures to maximize surface manufacturability and durability.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/28/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/28/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2416869</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Boreyko</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonathan B Boreyko</PI_FULL_NAME>
+<EmailAddress><![CDATA[boreyko@vt.edu]]></EmailAddress>
+<NSF_ID>000667681</NSF_ID>
+<StartDate>05/28/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M515A1DKXAN8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240603359</ZipCode>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>140600</Code>
+<Text>TTP-Thermal Transport Process</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1406</Code>
+<Text>THERMAL TRANSPORT PROCESSES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~506419</FUND_OBLG>
+</Award>
+</rootTag>

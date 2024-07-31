@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Constructing and Classifying Pre-Tannakian Categories]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>155000.00</AwardTotalIntnAmount>
+<AwardAmount>155000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tim Hodges</SignBlockName>
+<PO_EMAI>thodges@nsf.gov</PO_EMAI>
+<PO_PHON>7032925359</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award funds research related to the representation theory of groups, which is the study of symmetry and the different ways symmetry can manifest itself and influence mathematical objects. It is an area of classical interest which has numerous applications to number theory, mathematical physics, algebraic geometry, topology, functional analysis, and many more areas of math. Classically, it is about representing collections of symmetries via matrices, but as a modern subject, it involves a number of more sophisticated algebraic structures.  Broader impacts of this project include research training opportunities for undergraduate and graduate students, as well as the PI’s continued involvement in mathematical enrichment programs aimed at middle and high school students.&lt;br/&gt;&lt;br/&gt;The specific algebraic structures this project aims to study are Tannakian and Pre-Tannakian categories, which are axiomatizations and generalizations of what is meant by “the representation theory of a group.”  Recently, the PI and his collaborator, Andrew Snowden, found a new connection between pre-Tannakian categories and model theory, a branch of mathematical logic. They were able to associate a pre-Tannakian category to an oligomorphic group, along with some additional numerical data known as a measure.   This construction has since led to a slew of new examples as well as new insights into previously known examples. Moreover, they have shown that, in fact, these oligomorphic groups are, in a sense, unavoidable when trying to study and classify pre-Tannakian categories and need to be a part of any classification story.  This project aims to continue these investigations to construct new and interesting examples of pre-Tannakian categories with exotic properties, to develop a theory for pre-Tannakian categories associated with a wider class of linear-oligomorphic groups, and to develop tools that are better suited for constructing positive characteristic versions of the categories previously constructed.  All of these should be considered steps toward a long-term eventual goal of constructing and classifying all pre-Tannakian categories.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401515</AwardID>
+<Investigator>
+<FirstName>Nate</FirstName>
+<LastName>Harman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nate Harman</PI_FULL_NAME>
+<EmailAddress><![CDATA[nharman@uga.edu]]></EmailAddress>
+<NSF_ID>000732269</NSF_ID>
+<StartDate>04/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Georgia Research Foundation Inc]]></Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress><![CDATA[310 E CAMPUS RD RM 409]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NMJHD63STRC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia]]></Name>
+<CityName>ATHENS</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306021589</ZipCode>
+<StreetAddress><![CDATA[310 E CAMPUS RD RM 409]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~155000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Translation potential of spatial barcoding of individual cells]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is the development of a technology to label individual cells to characterize the biological process of tissues at the single-cell level.  Current techniques utilize RNA sequencing or microscopy. However, these methods lack single cell resolution of RNA transcripts and/or unbiased transcript detection.  The proposed technology addresses these deficiencies by developing a spatial single cell sequencing assay that generates next generation sequencing (NGS) libraries without the need for a complex instrument. This reduces the time required to process a single tissue section as compared with imaging-based platforms.  This technology may provide a new tool to assist scientists in the study of the role of cellular organization and communication in medical research and therapeutic development.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with first-hand investigation of the industry ecosystem to assess the translation potential of the proposed technology. It is based on the previous development of a spatial sequencing assay.  In this assay, called the XYZeq assay, tissue slices are deposited on top of microwell arrays. Each well in the array contains a unique spatial label that encodes each cell with a unique sequence that encodes their initial spatial location. After dissociation, single cells are extracted from the array and processed for single cell sequencing using next generation sequencing (NGS). This method is an unbiased sequencing assay that can detect any transcript and generates single cell sequencing data.  In addition, the assay is not restricted by pre-designed panels and generates additional information such as cell genotype, presence of mutations, and potentially immune repertoire information.  With a focus on localizing cells and easy integration with existing single-cell NGS workflows, high-quality, multi-modal data (including RNA and protein profiles and chromatin accessibility) are generated while providing cell locations for the same cells in a single assay, enabling the research community to utilize spatial genomics to its full potential.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/30/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421223</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Chow</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric D Chow</PI_FULL_NAME>
+<EmailAddress><![CDATA[ERIC.CHOW@ucsf.edu]]></EmailAddress>
+<NSF_ID>000944949</NSF_ID>
+<StartDate>04/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-San Francisco]]></Name>
+<CityName>SAN FRANCISCO</CityName>
+<ZipCode>941034249</ZipCode>
+<PhoneNumber>4154762977</PhoneNumber>
+<StreetAddress><![CDATA[1855 FOLSOM ST STE 425]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KMH5K9V7S518</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMH5K9V7S518</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Francisco]]></Name>
+<CityName>SAN FRANCISCO</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>941034249</ZipCode>
+<StreetAddress><![CDATA[1855 FOLSOM ST STE 425]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7573</Code>
+<Text>BIO-RELATED MATERIALS RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

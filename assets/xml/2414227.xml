@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CPS:MEDIUM: Radar-based Perception and Control for Small Autonomous Robots]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>1200000.00</AwardTotalIntnAmount>
+<AwardAmount>1200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ralph Wachter</SignBlockName>
+<PO_EMAI>rwachter@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project aims to establish millimeter wave (mmWave) radar as a first-class perception and control tool for small-sized robots and drones. Small-sized robots and drones are key enablers for many emerging applications – precision agriculture, inventory management in smart warehouses, drone-based delivery of goods, and search &amp; rescue operations. Perception and control of such robots and drones is fundamentally challenged by their over-reliance on optical sensors, low power budgets, and limited computational capabilities. Optical sensors such as cameras and lidars cannot see through smoke, dust, and fog and miss transparent surfaces like glass. In contrast, mmWave radar sensors can see through smoke, dust, and dark conditions, and can detect glass and low-texture surfaces. Due to their small wavelengths, these sensors can be packaged in small form factor devices and are being increasingly commoditized, with each sensor costing less than a hundred dollars. Despite these advantages, mmWave radars have seen limited use in robotic perception and control. This project aims to build new perception and control pipelines for radar sensors that are performant on the small onboard compute of robots and accessible to the robotics community. The project will demonstrate these pipelines on robots in real-world scenarios such as agriculture and create new educational and outreach materials including open-source software, a research workshop, and student-training modules.&lt;br/&gt;&lt;br/&gt;The project outlines a new approach that bridges signal processing techniques with modern machine learning methods and tightly integrates perception and control. Specifically, the project will utilize this approach to enable four new capabilities: a new radar-based localization and mapping pipeline that uses neural networks and antenna array processing to create high-fidelity maps of the environment; a new passive mmWave markers that can seamlessly interact with off-the-shelf radars and use these markers to identify unseen objects in environments to obtain semantic scene understanding; neural fields to generate a realistic 3D model of the environment and enable realistic simulations of radar signals in this environment; and, build on these techniques for active perception strategies wherein the robot or drone seeks optimal viewpoints or modifies hardware parameters for enhanced perception. These components form a new approach for small robots and drones to sense and react to the environment, even in visually degraded conditions, improving robustness of robot operation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414227</AwardID>
+<Investigator>
+<FirstName>Shenlong</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shenlong Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[shenlong@illinois.edu]]></EmailAddress>
+<NSF_ID>000855321</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Deepak</FirstName>
+<LastName>Vasisht</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Deepak Vasisht</PI_FULL_NAME>
+<EmailAddress><![CDATA[deepakv@illinois.edu]]></EmailAddress>
+<NSF_ID>000858853</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elahe</FirstName>
+<LastName>Soltanaghai</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elahe Soltanaghai</PI_FULL_NAME>
+<EmailAddress><![CDATA[elahe@illinois.edu]]></EmailAddress>
+<NSF_ID>000860439</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>791800</Code>
+<Text>CPS-Cyber-Physical Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1200000</FUND_OBLG>
+</Award>
+</rootTag>

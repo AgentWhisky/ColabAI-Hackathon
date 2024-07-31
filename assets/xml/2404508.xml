@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MPS/DMS-EPSRC: Stabilization Using Feedback Controls, Numerical Methods for Stochastic Systems, and Systems with Mean-Field Interactions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>166110.00</AwardTotalIntnAmount>
+<AwardAmount>166110</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Many dynamical systems encountered in natural and engineered environments consist of networks made of numerous interacting agents. Examples can be found in power grids, the internet, social and financial networks, and host-pathogen networks in human-biological systems. Many of these systems have large size and complex network structure, and understanding and controlling those systems requires consideration of sudden effects at random times, and cope with the fact that only partial observations of the entire system are available. The research team, consisting of one US-based and one UK-based investigator, will carry out a theoretical and computational program for the design, analysis, and numerical implementation of controls for complex stochastic dynamical systems. The project will contribute to enhancing the collaboration of US and UK scientists and to provide students and postdocs with the opportunity to participate in this international collaborative research effort. &lt;br/&gt;&lt;br/&gt;The US-UK team will work on the following tasks: (1) to design feedback controls for stabilization of random dynamic systems running in continuous time with additional random switching but with only discrete-time observations, where the focus will be on the design of control over suitable sampling interval to overcome the challenges posed by having to work with infinite dimensional dynamical systems with time delay, (2) To construct feedback strategies for stabilization using discrete-time-state-feedback control, where the focus is to investigate whether a discrete-time-state-feedback control can stabilize a regime-switching stochastic differential system in the sense of asymptotic stability in distribution. In addition, efficient numerical algorithms for approximating the desired stationary distributions will be developed. (3) To develop novel computational methods when the underlying systems can only be observed partially. Traditional approaches based on nonlinear filtering suffer the curse of dimensionality. Based on our recent work of computational nonlinear filtering using a deep neural network, a new computational approach will be developed. The asymptotic properties of the algorithms will be examined along with extensive numerical experiments. (4) To investigate mean-field control and game problems for complex dynamic systems with mean-field interactions and switching diffusions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/30/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404508</AwardID>
+<Investigator>
+<FirstName>Gang George</FirstName>
+<LastName>Yin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gang George Yin</PI_FULL_NAME>
+<EmailAddress><![CDATA[gyin@uconn.edu]]></EmailAddress>
+<NSF_ID>000229578</NSF_ID>
+<StartDate>05/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Connecticut]]></Name>
+<CityName>STORRS</CityName>
+<ZipCode>062699018</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress><![CDATA[438 WHITNEY RD EXTENSION UNIT 11]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WNTPS995QBM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CONNECTICUT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Connecticut]]></Name>
+<CityName>STORRS</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>062691133</ZipCode>
+<StreetAddress><![CDATA[438 WHITNEY RD EXTENSION UNIT 1133]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~166110</FUND_OBLG>
+</Award>
+</rootTag>

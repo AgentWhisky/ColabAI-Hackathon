@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: III: Medium: Graph Neural Networks for Heterophilous Data: Advancing the Theory, Models, and Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/15/2023</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>380762</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hector Munoz-Avila</SignBlockName>
+<PO_EMAI>hmunoz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924481</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Graph neural networks (GNNs), which translate the success of deep learning to graph-structured data, have numerous applications spanning from recommendation systems and fraud detection to medicine to finance. In such applications, the extent to which similar entities connect with each other---known as homophily---is unknown and cannot be computed empirically due to limited labeled data. Though homophily is common, it is not universal; there are important real-world settings where "opposites attract", leading to heterophily (low homophily). By moving beyond a reliance on graph homophily and introducing new GNN models, this project will generalize GNNs to work effectively in a wider range of domains. It will also help rectify some negative consequences of GNNs that are tailored to homophilous graphs, including biased, unfair, or erroneous predictions when applied to heterophilous data. Focusing on robustness, fairness, and explainability will help support accountable algorithmic decision-making in the domains where GNN models are employed. In addition to research, this project will support the training of a diverse cohort of undergraduate and graduate students at the University of Michigan, the New Jersey Institute of Technology, and Michigan State University via integration of this research in advanced courses, capstone projects, and other opportunities to directly contribute to this research program.&lt;br/&gt;&lt;br/&gt;The inability of GNNs to generalize their strong performance on homophilous or assortative graphs to many heterophilous graphs has attracted significant attention, and has led to empirical demonstration of the existence of "good heterophily", where GNNs can perform well. However, there is still limited understanding about the types of heterophily that are easy or difficult to handle with GNNs, especially beyond the limited, typically-studied settings (i.e., node classification on small homogeneous graphs). This project will advance the theoretical underpinnings of the interplay between different types of heterophily and GNNs, considering properties beyond just accuracy, which are necessary for deployment. Specifically, it will contribute: (a) New Theory: It will formally characterize the heterophily-related challenges of GNNs to provide a deeper understanding into "good" and "bad" heterophily, and enhance our understanding of "good" types of heterophily, which some architectures can model effectively, but have been vastly ignored until now. (b) New Models: Based on the new theory, it will introduce new GNN designs and architectures that not only have strong performance across different levels and types of heterophily, but are also robust, fair, and transparent, which are crucial for algorithmic decision-making. (c) New Applications: The project will also go beyond the traditional tasks and heterophilous network types investigated in the literature, and will include exploration of high-impact applications along with collaborators in academia and industry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/05/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>12/05/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406648</AwardID>
+<Investigator>
+<FirstName>Yao</FirstName>
+<LastName>Ma</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yao Ma</PI_FULL_NAME>
+<EmailAddress><![CDATA[may13@rpi.edu]]></EmailAddress>
+<NSF_ID>000862829</NSF_ID>
+<StartDate>12/05/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rensselaer Polytechnic Institute</Name>
+<CityName>TROY</CityName>
+<ZipCode>121803590</ZipCode>
+<PhoneNumber>5182766000</PhoneNumber>
+<StreetAddress>110 8TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U5WBFKEBLMX3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RENSSELAER POLYTECHNIC INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rensselaer Polytechnic Institute]]></Name>
+<CityName>Troy</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>121803522</ZipCode>
+<StreetAddress><![CDATA[110 8TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~380762</FUND_OBLG>
+</Award>
+</rootTag>

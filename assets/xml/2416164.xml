@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: BoCP-Implementation: BioFI- Biodiversity Forecasting Initiative to Understand Population, Community and Ecosystem Function Under Global Change]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>499511.00</AwardTotalIntnAmount>
+<AwardAmount>412053</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kendra McLauchlan</SignBlockName>
+<PO_EMAI>kmclauch@nsf.gov</PO_EMAI>
+<PO_PHON>7032922217</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>There is an urgent need to understand how biodiversity on the planet will change. This requires predicting which plant species are at risk of extinction. It also requires understanding the responses of as many species as possible to future climate conditions. This knowledge is essential to ensure the continuation of ecosystem services that contribute to human well-being. This project- the Biodiversity Forecasting Initiative (BioFI)- increases our knowledge of Earth's biodiversity and advances our ability to forecast biodiversity and biosphere functioning almost anywhere on the planet. In light of emerging environmental challenges and the rise of big data, demand for programming skills and data literacy will continue to increase. This project enhances the future of biodiversity science by training the next generation of scientists in tools for analyzing global biodiversity data sources. One education and training outcome is the development and delivery of an open-source, multi-modal, multi-level curriculum in the emerging field of Biodiversity Data Science. Additionally, this project provides direct training and mentoring for several graduate students and postdoctoral researchers. &lt;br/&gt;&lt;br/&gt;BioFI focuses on changes in plant species' abundance, traits, and geographic distribution which impact ecosystem function. This project brings together ecologists, environmental engineers, data scientists, and conservation stakeholders to integrate a variety of biodiversity data sources. BioFI provides the data and computational scaffolding to integrate biological and environmental disciplines to produce accurate predictions of future biodiversity trajectories. BioFI enables scientists to plan how to respond to disasters such as droughts and fires. BioFI leverages immense biodiversity and Earth observation data that provide global coverage and wide taxonomic scope. BioFI allows scientists to: (i) forecast the short-term and long-term consequences of biodiversity change; (ii) understand how potential changes in biodiversity will impact human well-being (ecosystem services that impact forestry, water supply, flood prevention, agriculture, and disease risk) and (iii) expedite our ability to plan for effective management.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2416164</AwardID>
+<Investigator>
+<FirstName>Amy</FirstName>
+<LastName>Frazier</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amy Frazier</PI_FULL_NAME>
+<EmailAddress><![CDATA[afrazier@ucsb.edu]]></EmailAddress>
+<NSF_ID>000630843</NSF_ID>
+<StartDate>04/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName>SANTA BARBARA</CityName>
+<ZipCode>931060001</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress><![CDATA[3227 CHEADLE HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G9QBQDH39DF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SANTA BARBARA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName>SANTA BARBARA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>931060001</ZipCode>
+<StreetAddress><![CDATA[3227 CHEADLE HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>199Y00</Code>
+<Text>BOCP-Biodiv on Changing Planet</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~412053</FUND_OBLG>
+</Award>
+</rootTag>

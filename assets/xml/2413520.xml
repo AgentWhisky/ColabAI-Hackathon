@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF: Small: Exploring and Enhancing Capabilities of Emerging Hybrid/Convertible Solid-State Drives]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>583947.00</AwardTotalIntnAmount>
+<AwardAmount>377158</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+<PO_EMAI>sabasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927843</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The world’s digital data has increased immensely with the tremendous development of technology. By 2025, the total amount of digital data will reach 175 Zettabytes. It becomes a critical and increasing challenge to manage this huge amount of data. The demand for high-performance and large-capacity storage systems is rapidly increased to cover this big data environment; still, it is a critical challenge to satisfy both high performance and large capacity in a single storage device with a low cost. To achieve this goal, an emerging storage device named hybrid/convertible Solid-State Drive (SSD) provides unique properties compared to traditional storage devices and can satisfy the requirement in such an environment. However, the emerging device has not been fully investigated and cannot reach its full potential. This project aims to fully explore the abilities of hybrid/convertible SSDs. The completion of this project will initialize a paradigm shift in today’s storage systems to handle massive amounts of data more efficiently with high capacity and high-speed access. The research will also impact the burgeoning storage market, implement outreach to K-12, undergraduate, and minority students, and incorporate research results into courses, thus enhancing the student experience.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project intends to develop and enhance the capabilities of the emerging hybrid/convertible SSD through the following three thrusts: 1) A novel management scheme for hybrid/convertible SSDs is developed to balance the performance and capacity of the storage system. In particular, this thrust focuses on device management and advanced the zone named space technique. 2) A high-performance Redundant Array of Inexpensive Disks system is built inside hybrid/convertible SSDs to efficiently protect data stored in these drives while retaining the same reliability. 3) An efficient key-value store system in the emerging storage devices is investigated to solve big data issues. In particular, this thrust develops a high-performance log-structured merge tree-based key-value system based on the unique properties of the emerging storage device.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project is jointly funded by the SHF program cluster of the CISE/CCF directorate and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413520</AwardID>
+<Investigator>
+<FirstName>Bingzhe</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bingzhe Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[bingzhe.li@utdallas.edu]]></EmailAddress>
+<NSF_ID>000835435</NSF_ID>
+<StartDate>02/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Dallas]]></Name>
+<CityName>RICHARDSON</CityName>
+<ZipCode>750803021</ZipCode>
+<PhoneNumber>9728832313</PhoneNumber>
+<StreetAddress><![CDATA[800 WEST CAMPBELL RD.]]></StreetAddress>
+<StreetAddress2><![CDATA[SP2.25]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EJCVPNN1WFS5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT DALLAS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Dallas]]></Name>
+<CityName>RICHARDSON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>750803021</ZipCode>
+<StreetAddress><![CDATA[800 WEST CAMPBELL RD.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~377158</FUND_OBLG>
+</Award>
+</rootTag>

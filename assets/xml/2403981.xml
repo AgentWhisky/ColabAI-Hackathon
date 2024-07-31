@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Scalar Curvature, Optimal Transport, and Geometric Inequalities]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>254266.00</AwardTotalIntnAmount>
+<AwardAmount>254266</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Qun Li</SignBlockName>
+<PO_EMAI>qli@nsf.gov</PO_EMAI>
+<PO_PHON>7032927465</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project focuses on questions at the intersection of differential geometry and the theory of partial differential equations. Differential geometry uses techniques from calculus to understand the shape and curvature of surfaces. These ideas can be generalized to higher-dimensional manifolds. In particular, they provide the mathematical framework for the Einstein equations in general relativity, which link the matter density to the curvature of space-time. A major theme in differential geometry has been to study the interplay between the curvature and the large-scale properties of a manifold. To study these questions, various techniques have been developed, many of them based on partial differential equations. Examples include the minimal surface equation and the partial differential equations governing optimal mass transport. This project is aimed at understanding these partial differential equations. This is of significance within mathematics. There are also connections with general relativity. Moreover, ideas from optimal transport have found important applications in statistics and computer science. The project also includes a variety of mentoring and outreach activities. &lt;br/&gt;&lt;br/&gt;An important topic in geometry is to understand the geometric meaning of the scalar curvature. The PI recently obtained a new rigidity theorem for metrics with nonnegative scalar curvature on polytopes. The PI plans to extend that result to the more general setting of initial data sets satisfying the dominant energy condition. In another direction, the PI plans to work on geometric inequalities and optimal mass transport. On the one hand, the PI plans to use ideas from differential geometry and partial differential equations to study the behavior of optimal maps. On the other hand, the PI hopes to use ideas from optimal transport to prove new geometric inequalities. Ideas from optimal transport can be used to give elegant proofs of many classical inequalities, including the isoperimetric inequality and the sharp version of the Sobolev inequality. Moreover, the recent proof of the sharp isoperimetric inequality for minimal surfaces is inspired by optimal transport.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403981</AwardID>
+<Investigator>
+<FirstName>Simon</FirstName>
+<LastName>Brendle</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Simon Brendle</PI_FULL_NAME>
+<EmailAddress><![CDATA[sab2280@columbia.edu]]></EmailAddress>
+<NSF_ID>000092351</NSF_ID>
+<StartDate>05/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100277922</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress><![CDATA[615 W 131ST ST]]></StreetAddress>
+<StreetAddress2><![CDATA[MC 8741]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100276902</ZipCode>
+<StreetAddress><![CDATA[2990 BROADWAY, RM 513, MC 4444]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126500</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~254266</FUND_OBLG>
+</Award>
+</rootTag>

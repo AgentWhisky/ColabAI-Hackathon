@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Automatic Sorting of Prominent and Contaminant Fibers in Textile Wastes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>274955.00</AwardTotalIntnAmount>
+<AwardAmount>274955</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase I project is in enabling textile circularity. Today, over 92 million tons of textile waste are generated each year, and less than 1% is recycled into new clothing. While textile recycling technologies have been slowly scaling over the last decade, recyclers are facing a large challenge with a lack of recycling infrastructure. Specifically, recyclers are missing a method to accurately sort textile waste by material. All recyclers need to have access to well-sorted feedstock for the input of their process, but textile waste is notoriously difficult to sort due to the numerous blends, dyes, and contaminants present in each garment. This project is focused on developing an artificial intelligence-based material detection system that will accurately detect the presence of key materials for recyclers, as well as any contaminant materials that could interfere with recycling. If the proposed technology development is successful, textile recyclers could begin to recycle post-consumer waste at scale, which comprises &gt;85% of the global textile waste stream.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The proposed activity involves using hyperspectral cameras and artificial intelligence to develop a methodology for contaminant detection in textile waste. A lack of accurate sorting capabilities is primarily the reason less than 1% of the textile waste is recycled into new textile. This project will focus on developing a textile waste detection system that can detect the presence of common fiber recycling contaminants, specifically a) elastane fibers, b) nylon 6 and nylon 6,6 fibers, and c) man-made cellulosic fibers (MMCFs). The biggest technical hurdle that this proposed project involves is the development of a regression-based machine learning algorithm which will provide a quantitative estimate of each potential contaminant and material present in each textile sample. The methodology for developing this system will involve 1) compiling a dataset of textile samples that represent the target contaminants and performing a complete spectral analysis of each sample, 2) experimenting with different machine learning algorithms and model refinement to optimize for contaminant detection, and 3) validate contaminant model accuracy on customer-provided textile samples.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423377</AwardID>
+<Investigator>
+<FirstName>Sarika</FirstName>
+<LastName>Bajaj</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sarika Bajaj</PI_FULL_NAME>
+<EmailAddress><![CDATA[14sarikabajaj@gmail.com]]></EmailAddress>
+<NSF_ID>000847069</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[REFIBERED, INC.]]></Name>
+<CityName>CUPERTINO</CityName>
+<ZipCode>950142809</ZipCode>
+<PhoneNumber>4085100821</PhoneNumber>
+<StreetAddress><![CDATA[10235 BYRNE AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA17</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J1CLCHUB7VH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REFIBERED INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[REFIBERED, INC.]]></Name>
+<CityName>CUPERTINO</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950142809</ZipCode>
+<StreetAddress><![CDATA[10235 BYRNE AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090Z</Code>
+<Text>CAS-Critical Aspects of Sustainability</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1238</Code>
+<Text>TECH FOR SUSTAINABLE ENVIRONMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~274955</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Unfolding Earth history back to the Mesozoic by incorporating seismic tomography into Pacific realm plate tectonic reconstructions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>568310.00</AwardTotalIntnAmount>
+<AwardAmount>107278</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Colin A. Shaw</SignBlockName>
+<PO_EMAI>cshaw@nsf.gov</PO_EMAI>
+<PO_PHON>7032927944</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Current plate tectonic theory permits less than half of the Earth surface to be reconstructed with adequate detail by the early Cretaceous, which is only the most recent ~3% of Earth history.  The largest unknowns lie within the Panthalassa-Pacific realm, a now-vanished oceanic domain that once covered ~70% of the Earth.  This project will build a new Panthalassa-Pacific plate reconstruction back to Mesozoic times from the novel constraints of seismic tomography - seismological images of the Earth?s mantle.  The research is combined with an educational plan that focuses on using Earth interior imaging to help develop the essential but underutilized STEM skill of 3D spatial analysis, an identified core geoscience skill.  Outreach efforts prioritize reaching groups historically underrepresented in the sciences via undergraduate curriculum development, a collaborative partnership with a local inner-city STEM magnet high school, and through summer undergraduate experiences.  &lt;br/&gt;&lt;br/&gt;This project will build a tomography-led, full plate reconstruction for the Pacific-Panthalassa realm back to the Mesozoic era that will contribute time-dependent kinematic and tectonic boundary conditions for global models and regional studies.  An unconventional tomographic plate reconstruction workflow is used that involves 3D mapping of slabs from tomography, slab unfolding (retro-deformation), and assigning plate motions to the unfolded slabs in a hierarchical fashion using available kinematic constraints.  The tomographic plate reconstruction model is systematically compared to relevant circum-Pacific geological datasets, and further tested as input boundary conditions for two distinct geodynamic forward modeling approaches using established workflows for the mature codes CitcomS and TERRA.  The resulting plate model will provide an alternative subduction history for more than half of the Earth that can be simulated within other global models.  In addition, the project explores the capabilities and limitations of seismic tomography for linking the deep mantle to the Earth surface for 4D Earth evolution, which supports an identified key research frontier for NSF Tectonics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2422671</AwardID>
+<Investigator>
+<FirstName>Jonny</FirstName>
+<LastName>Wu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonny Wu</PI_FULL_NAME>
+<EmailAddress><![CDATA[jonnywu@arizona.edu]]></EmailAddress>
+<NSF_ID>000741576</NSF_ID>
+<StartDate>04/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Arizona]]></Name>
+<CityName>TUCSON</CityName>
+<ZipCode>85721</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress><![CDATA[845 N PARK AVE RM 538]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ED44Y3W6P7B9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ARIZONA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Arizona]]></Name>
+<CityName>TUCSON</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>85721</ZipCode>
+<StreetAddress><![CDATA[1040 E 4th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>157200</Code>
+<Text>Tectonics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~107278</FUND_OBLG>
+</Award>
+</rootTag>

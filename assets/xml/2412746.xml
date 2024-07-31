@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[New nonparametric theory and methods for censored data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jun Zhu</SignBlockName>
+<PO_EMAI>jzhu@nsf.gov</PO_EMAI>
+<PO_PHON>7032924551</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Estimating the survival time distribution given a set of predictors is of great importance in biomedical research and epidemiological studies, where the survival time is often censored, thus unobserved, due to dropouts or limited follow-up time. To obtain robust results, making weak model assumptions is desirable. This project focuses on two sets of tools without making assumptions about the functional form of any effect of a predictor on the survival time: one is a classical approach based on spline basis expansion, and the other is a modern approach based on deep neural networks. For the spline method, the project aims to develop a generally applicable distributional theory for the estimates of unknown functions in several widely used survival models, which is needed for making proper statistical inference but still lacking in the current literature. Furthermore, the deep neural network approach makes the weakest possible assumption and is the most flexible estimating method for an unknown multivariate function. The project considers deep neural networks with a full likelihood-based loss function for censored survival data and more general types of predictors that can randomly vary with time. The project aims to investigate both the numerical implementation and the theory for the estimation precision. This work will foster interdisciplinary research with epidemiologists, nephrologists, neurologists, and other scientists working on real scientific studies, and contribute to the well-being of human beings and the scientific community in a significant way through its versatile real-life applications, thus create an impact in and beyond statistical periphery. &lt;br/&gt;&lt;br/&gt;Spline basis expansion is a commonly used approach for approximating an unknown smooth function, hence widely applied in estimating functional parameters. It is too often, however, that the approximation is treated as “exact” in practice so to treat a nonparametric estimation problem as a parametric one because the asymptotic distributional theory for the spline estimation is lacking for models beyond the nonparametric linear model. The project takes advantages of recent developments in the random matrix theory to tackle the distributional theoretical problem of spline estimates in a broad range of commonly used statistical models in censored data analysis. The most general nonparametric problem is to estimate the conditional distribution other than, for example, the conditional mean or median. With the conditional distribution at hand, prediction becomes a choice of a particular characteristic of the conditional distribution and a prediction interval can be easily obtained. The project focuses on full likelihood-based loss functions characterized by the conditional hazard function and applies either deep neural networks or deep operator networks for the estimation of the conditional distribution function given functional covariates. In survival analysis, the functional covariates can be time-varying covariates that affect the hazard function in an arbitrarily way, for which no estimating method exists in the literature. Convergence rates of considered neural network methods with functional inputs will be established.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412746</AwardID>
+<Investigator>
+<FirstName>Bin</FirstName>
+<LastName>Nan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bin Nan</PI_FULL_NAME>
+<EmailAddress><![CDATA[nanb@uci.edu]]></EmailAddress>
+<NSF_ID>000244901</NSF_ID>
+<StartDate>04/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>IRVINE</CityName>
+<ZipCode>926970001</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress><![CDATA[160 ALDRICH HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA47</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MJC5FCYQTPE6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA IRVINE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>IRVINE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>926973425</ZipCode>
+<StreetAddress><![CDATA[2066 Bren Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA47</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

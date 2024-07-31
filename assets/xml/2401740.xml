@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Postdoctoral Fellowship: AAPF: Exploring the Impact of Protostellar Jets in Star Cluster Formation and Evolution]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>330000.00</AwardTotalIntnAmount>
+<AwardAmount>110000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hans Krimm</SignBlockName>
+<PO_EMAI>hkrimm@nsf.gov</PO_EMAI>
+<PO_PHON>7032922761</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Sabrina Marbut Appel is awarded an NSF Astronomy and Astrophysics Fellowship to carry out a program of research and education at the American Museum of Natural History. This project will study how stars form from dense clouds of interstellar gas and will deepen our understanding of the origins of stars, such as our own Sun. Newly forming stars are surrounded by disks of gas, which produce jets of high-velocity gas perpendicular to the disks that can stir and even drive away nearby dense gas, slowing down or halting the formation of subsequent stars. To study this process, Appel will run numerical simulations, which will include jets from young stars, of star clusters at a range of mass and time scales.  Appel will also work with the Gottesman Center for Teaching and Learning at the American Museum of Natural History on developing curriculum modules for teaching computational astrophysics as part of high school science curricula.&lt;br/&gt;&lt;br/&gt;This research project will use a newly implemented simulation module, developed by Appel, for including jets from young stars within Torch, a state-of-the-art simulation framework that combines magnetohydrodynamical simulation programs with N-body gravitational dynamics and stellar evolution models. Appel will use Torch and this new jets simulation module to study the role of jets from young stars in star formation by testing four key hypotheses: 1) that jets from young stars impact star formation even in high mass clouds; 2) that such jets have a significant impact on star cluster properties even long after they have cleared away their natal gas cloud; 3) that these jets contribute to the disruption of star clusters and the formation of well-observed nearby groups of stars moving in the same direction; and 4) that the cumulative effect of jets from many low mass stars is comparable to the effect of jets from fewer high mass stars.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401740</AwardID>
+<Investigator>
+<FirstName>Sabrina</FirstName>
+<LastName>Appel</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sabrina M Appel</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000966194</NSF_ID>
+<StartDate>04/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Appel, Sabrina Marbut]]></Name>
+<CityName>Piscataway</CityName>
+<ZipCode>08854</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[American Museum of Natural History]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100245102</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>160900</Code>
+<Text>NSF ASTRON &amp; ASTROPHY PSTDC FE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~110000</FUND_OBLG>
+</Award>
+</rootTag>

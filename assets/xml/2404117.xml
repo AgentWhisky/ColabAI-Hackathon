@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Tools4Cells: RNA-based biosensors for imaging metabolism in live cells]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Cyr</SignBlockName>
+<PO_EMAI>rcyr@nsf.gov</PO_EMAI>
+<PO_PHON>7032928440</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Fluorescent biosensors are powerful tools for visualizing and quantifying metabolites and their chemistry in living cells in real time. Such tools have revolutionized the study of biochemistry and signaling in live mammalian cells, providing new insights into when and where cellular reactions occur. The biggest limitation of the existing toolkit is that most biosensors are made out of the same fluorescent proteins so multiple biosensors can’t be used simultaneously to different metabolites. This project will develop a new class of biosensors based on RNA. The biosensors will be comprised of a series of RNA modules that are like building blocks that can be mixed and matched to create different structures. Biosensors will be built for the two main metabolites in the methionine cycle of one-carbon metabolism. One-carbon metabolism is the main biochemical cycle that drives cellular growth. In this cycle, different nutrient inputs are used to power the synthesis of cellular building blocks, including DNA, polyamines, and amino acids. Biosensors for the two central metabolites of this cycle will enable researchers to study their dynamics and flux through the cycle in rapidly growing cells. Broader impacts of this project include the creation of a toolkit of fluorescent RNA biosensors available to the scientific community, recruitment of multiple undergraduate students and graduate students from diverse backgrounds and diverse disciplines, and the development of a research-based undergraduate class.  Additionally, the work has potential to reveal metabolic alterations in various disease states.&lt;br/&gt; &lt;br/&gt;This project will build a suite of fluorescent RNA-based biosensors for metabolites in the methionine cycle of one-carbon metabolism. One-carbon metabolism is a major pathway that regulates anabolic processes that drive growth of cells and organisms. The ability to monitor metabolic flux over time in live cells has the potential to transform understanding of fundamental biology. Over the past decade a handful of studies have established the proof-of-concept of monitoring metabolites in live cells using RNA-based sensors, however these biosensors have focused upon observing only a few metabolites and do not take advantage of the best fluorescent dyes in current use. This project will take this class of biosensors to the next level by designing and implementing a set of “plug-and-play” modules, systematically defining design principles, standardizing the approach for generating biosensors and establishing a pipeline for validating and benchmarking sensors in mammalian cells. The project will leverage naturally occurring RNA riboswitches as the metabolite sensing domain and couple this domain to a fluorogenic RNA-aptamer that binds and turns on a fluorophore in the presence of the metabolite of interest. The project will generate sensors for the primary carbon donor in cells, S-adenosylmethionine, and its product form resulting from methyl group transfer, S-adenosylhomocysteine. The project will also develop a robust pipeline of design-test-validate in mammalian cells that can be used to expand the RNA biosensor toolkit in the future.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404117</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Batey</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert T Batey</PI_FULL_NAME>
+<EmailAddress><![CDATA[robert.batey@colorado.edu]]></EmailAddress>
+<NSF_ID>000442029</NSF_ID>
+<StartDate>06/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Amy</FirstName>
+<LastName>Palmer</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amy E Palmer</PI_FULL_NAME>
+<EmailAddress><![CDATA[amy.palmer@colorado.edu]]></EmailAddress>
+<NSF_ID>000085518</NSF_ID>
+<StartDate>06/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress><![CDATA[3100 MARINE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 481 572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803031904</ZipCode>
+<StreetAddress><![CDATA[3415 Colorado Avenue, 596 UCB]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111400</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~500000</FUND_OBLG>
+</Award>
+</rootTag>

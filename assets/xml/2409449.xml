@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Observational Investigations of the Scaling of Ion Heating by Magnetic Reconnection in Earth's Magnetotail]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>566157.00</AwardTotalIntnAmount>
+<AwardAmount>566157</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vyacheslav (Slava) Lukin</SignBlockName>
+<PO_EMAI>vlukin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927382</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>As the Earth orbits the Sun in our vast solar system, it is immersed in the solar wind plasma, a fast flow of charged particles continuously streaming away from the Sun. The solar wind compresses the Earth’s dipole magnetic field on the dayside and pulls it into a magnetic tail on the nightside, just like the tail of a comet. In this long and stretched magnetic tail, an explosive process called magnetic reconnection is prevalent. This process converts the magnetic energy in the stretched magnetic tail into particle jets and heating of the ambient plasma. Sometimes the heating is low, and sometimes it is very high. In this project, hundreds of reconnection jets in the Earth’s magnetotail will be studied using in-situ spacecraft observations to find out what controls the degree of the plasma heating. The results will contribute to understanding how particles are energized and the plasma is heated during magnetic reconnection in other astrophysical and laboratory environments, and will help to understand and predict the drivers of the space weather on Earth. &lt;br/&gt;&lt;br/&gt;Magnetic reconnection is a universal plasma process which converts stored magnetic energy into particle energies. One of the key unresolved questions in reconnection research is what controls the degree of ion heating in reconnection. Past observational studies of ion and electron heating scaling in reconnection have focused on the low heating regimes of the magnetopause and the solar wind. These studies have found that both ion and electron heating in reconnection are linearly proportional to the available magnetic energy per particle. However, independent observational and theoretical studies have suggested that the linear dependence of ion heating may not be universal. To test the universality of the linear scaling of ion heating, observations of reconnection in the high heating regime are required. The Earth’s magnetotail provides a natural laboratory in the high heating regime where in-situ spacecraft can observe reconnection in action. This project will conduct a comprehensive study using spacecraft observations of reconnection in the Earth’s magnetotail to establish the characteristics and controlling factors of ion heating.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409449</AwardID>
+<Investigator>
+<FirstName>Marit</FirstName>
+<LastName>Oieroset</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marit Oieroset</PI_FULL_NAME>
+<EmailAddress><![CDATA[oieroset@berkeley.edu]]></EmailAddress>
+<NSF_ID>000487751</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124200</Code>
+<Text>PLASMA PHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>575000</Code>
+<Text>MAGNETOSPHERIC PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1242</Code>
+<Text>PLASMA PHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8092</Code>
+<Text>Space Weather Research</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~566157</FUND_OBLG>
+</Award>
+</rootTag>

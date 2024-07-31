@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Beyond Mean-Field Physics in Dynamical Bose-Einstein Condensates]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>298494.00</AwardTotalIntnAmount>
+<AwardAmount>298494</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Julio Gea-Banacloche</SignBlockName>
+<PO_EMAI>jgeabana@nsf.gov</PO_EMAI>
+<PO_PHON>7032927924</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nonequilibrium phenomena, where the state of a physical system changes (as, for instance, when water freezes or boils), are found everywhere in Nature. As such, their study is important not only in physics but also in many other disciplines. With the development of quantum technologies, it has become possible to precisely engineer and measure these processes in quantum systems. Ultracold quantum gases, which consist of millions of particles cooled down to almost zero temperature, are one of the most powerful systems to study dynamical quantum effects due to their high controllability. This project aims to explore a variety of nonequilibrium processes in ultracold quantum gases. It is expected that the outcomes of the project will not only increase our understanding of these systems, but also contribute to other areas of quantum research, including quantum optics, nonlinear optics, and quantum information science. Moreover, the project involves the training of undergraduate and graduate students, contributing to the development of the next-generation workforce in quantum science and economy. The project will be tailored and expanded for potential REU students and local high school students. The PI will actively collaborate with students from under-represented groups, such as women and minority students.&lt;br/&gt;&lt;br/&gt;The project aims to investigate a range of beyond-mean-field physics including scattering, dynamical instabilities, critical behavior near quantum phase transitions, and quantum fluctuations near resonances in dynamical Bose-Einstein condensates (BECs). Focusing on the dynamics of BECs, three scenarios will be studied: (a) the dynamics of BECs with multiple momentum components; (b) the quench dynamics of synthetic spin-orbit coupled BECs across quantum phase transitions; and (c) the dynamics near spin-spatial resonances in spinor BECs. The PI and graduate students will develop theoretical frameworks and numerical tools to characterize the quantum and thermal fluctuation effects on the collision and thermalization of cold atoms, quantum phase transitions like the Kibble-Zurek mechanism, and the performance of the spinor quantum simulator and sensor. The project will provide a comprehensive description of recent pertinent experimental results in the literature. The outcomes of the research project will directly stimulate potential collaboration with the in-house cold atom experimental group.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/27/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409600</AwardID>
+<Investigator>
+<FirstName>Qingze</FirstName>
+<LastName>Guan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Qingze Guan</PI_FULL_NAME>
+<EmailAddress><![CDATA[qingze.guan@wsu.edu]]></EmailAddress>
+<NSF_ID>000871582</NSF_ID>
+<StartDate>06/27/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Washington State University]]></Name>
+<CityName>PULLMAN</CityName>
+<ZipCode>991640001</ZipCode>
+<PhoneNumber>5093359661</PhoneNumber>
+<StreetAddress><![CDATA[240 FRENCH ADMINISTRATION BLDG]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XRJSGX384TD6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WASHINGTON STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Washington State University]]></Name>
+<CityName>PULLMAN</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>991642814</ZipCode>
+<StreetAddress><![CDATA[1405 NE College Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128400</Code>
+<Text>AMO Theory/Atomic, Molecular &amp;</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1284</Code>
+<Text>ATOMIC THEORY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~298494</FUND_OBLG>
+</Award>
+</rootTag>

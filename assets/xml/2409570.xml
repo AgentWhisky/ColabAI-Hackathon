@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Non-Adiabatic Photonic Processes in Molecular Plasma]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>277897.00</AwardTotalIntnAmount>
+<AwardAmount>277897</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Julio Gea-Banacloche</SignBlockName>
+<PO_EMAI>jgeabana@nsf.gov</PO_EMAI>
+<PO_PHON>7032927924</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>For various applications in science and industry, there is a growing need for large amounts of data on molecular processes. Such data can partially be produced experimentally; however, the experimental approach is typically very laborious and expensive. This project is focused on the development of theoretical approaches to model the behavior of air molecules (mainly, oxygen - O2, nitrogen-N2, water-H2O, and to a lesser extent, carbon dioxide - CO2) in the presence of ionizing radiation. Among technological applications of the data to be produced are intense and/or ultraviolet laser propagation, semiconductor industry (plasma assisted etching and lithography), and remote sensing. The project will also contribute to training graduate and undergraduate students, with a focus on the development of critical analysis capabilities and preparation of future researchers in atomic, molecular, and optical physics. As a Hispanic Serving Institution, UCF automatically provides a diverse pool of students. It is expected that about half of the students involved in the research will be from under-represented groups. Also, as another educational impact, the development of digital learning environments to teach undergraduate and graduate-level courses related to quantum technology will be continued, in collaboration with a colleague from Ecole CentraleSupelec (Orsay, France). The previously developed environment was a success and is being routinely used in the courses on quantum mechanics.&lt;br/&gt;&lt;br/&gt;The project is focused on the development of several theoretical and numerical methods to compute cross sections and branching ratios in photoionization of diatomic and triatomic molecules, accounting for electronic, vibrational, and -- if needed – the rotational structure of the molecules. The coupling between the ground and one or two excited electronic states of the molecular ion and the departing photoelectron will also be accounted for. The developed methods will be applied to study photoionization of air molecules: N2, O2, and H2O. The results will be benchmarked on available data on photoionization of O2 and N2. Photoionization spectra and branching ratios will be produced to help modelers to develop applications as well as to experimentalists and astronomers to interpret observed spectra. A theoretical first-principles approach able to describe photoionization of small molecules, accounting for vibronic coupling of the photoelectron with the molecular ion will be developed. The approach will combine several elements: the molecular multi-channel quantum defect theory, the UK R-matrix codes for electron-molecule scattering calculations and geometry-fixed transition dipole moments, the vibrational frame transformation, hyperspherical and normal mode coordinates for the triatomic molecule (H2O). As a continuation of the previous grant, the obtained results will be used to consider cavity-free lasing in the diatomic molecular ions. A time-dependent quantum defect approach, currently being developed in the group, will be implemented to study pump-probe schemes for O2 and N2.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/27/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409570</AwardID>
+<Investigator>
+<FirstName>Viatcheslav</FirstName>
+<LastName>Kokoouline</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Viatcheslav Kokoouline</PI_FULL_NAME>
+<EmailAddress><![CDATA[slavako@ucf.edu]]></EmailAddress>
+<NSF_ID>000493802</NSF_ID>
+<StartDate>06/27/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[The University of Central Florida Board of Trustees]]></Name>
+<CityName>ORLANDO</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress><![CDATA[4000 CENTRAL FLORIDA BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RD7MXJV7DKT9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Central Florida Board of Trustees]]></Name>
+<CityName>ORLANDO</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>328168005</ZipCode>
+<StreetAddress><![CDATA[4000 CENTRAL FLORIDA BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128400</Code>
+<Text>AMO Theory/Atomic, Molecular &amp;</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~277897</FUND_OBLG>
+</Award>
+</rootTag>

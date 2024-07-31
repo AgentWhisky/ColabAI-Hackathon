@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Electron transport in topological conductors and superconducting systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>390000.00</AwardTotalIntnAmount>
+<AwardAmount>390000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexios Klironomos</SignBlockName>
+<PO_EMAI>aklirono@nsf.gov</PO_EMAI>
+<PO_PHON>7032924920</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>NONTECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;Rapid progress in nanofabrication of quantum electronic devices enables unprecedented control and tunability as well as experimental realization of new collective states of electrons. The quantum motion of electrons in these states is correlated. In other words, electrons move not independently of each other but in a cohesive correlated fashion. Understanding the character of these correlations is crucial for characterizing charge transport in quantum electronic devices. Some correlations result in ordering of the electrons and thus change the symmetry of the system; an example is a formation of a charge density wave, in which the electron density in the system develops a wave-like periodic spatial modulation. There are more subtle quantum correlations of the electron liquid, which are called topological. These topological correlations cannot be changed by small changes of the system, and thus distinguish qualitatively different classes of electron systems. Importantly, they are immune to material imperfections and disorder, which are critically important for useful device creation.&lt;br/&gt;&lt;br/&gt;This award supports theoretical studies of charge transport and of the physical mechanisms of energy relaxation in correlated electron systems. A particular focus will be placed on studying charge density wave ordering in metals with topological correlations. Another part of research will be devoted to the study of current rectification in conductors the crystal structures of which lack inversion symmetry. Part of the research will be devoted to investigating the influence of energy relaxation on the charge transport in superconducting devices. The latter may prove useful for applications of superconducting devices to quantum computing, and also to quantum sensing (e.g. for superconductor-based photon detectors).&lt;br/&gt;&lt;br/&gt;The research program will be integrated with an education component. It will provide training to graduate students and enable engaging undergraduate students in research projects in quantum condensed matter theory. The PI will create and lead a problem-solving seminar in quantum mechanics that will help physics majors master advanced methods of quantum mechanics.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;The project is stimulated by recent advances in the nanofabrication of quantum electronic devices, which enable unprecedented control and tunability of the electron systems and realization of new electronic phases and physical regimes. The proposed work is organized around three themes:&lt;br/&gt;&lt;br/&gt;1) Topological surface and bulk effects in the excitonic insulator phase of Weyl semimetals: At low temperatures, Weyl semimetals (WSM) may become unstable towards the formation of an excitonic insulating phase. The project will investigate the nontrivial band topology of the parent WSM and distinct features in the bulk and surface electron response of this insulating phase, as well as the influence of topology on the bulk properties of the excitonic phase.&lt;br/&gt;&lt;br/&gt;2) Theory of nonreciprocal electron transport in the hydrodynamic regime: Nonlinear electron response need not obey the Onsager reciprocity relations. Part of the project is devoted to the study of nonreciprocal transport in the nonlinear hydrodynamic regime, specifically the role of absence of Galilean invariance plays in the physical mechanism behind nonreciprocal hydrodynamic transport.&lt;br/&gt;&lt;br/&gt;3) The third research direction is devoted to the study of dissipation mechanisms in superconducting systems. Although charge transport in normal conductors is not significantly affected by energy relaxation, in superconducting systems this is not the case. Part of the project will investigate the influence of energy relaxation on the charge transport in superconducting devices. The recently developed theory of Debye dissipation in superconductors will be extended to hybrid superconductor/semiconductors Josephson arrays.&lt;br/&gt;&lt;br/&gt;The research program will be integrated with an education component. It will provide training to graduate students and enable engaging undergraduate students in research projects in quantum condensed matter theory. The PI will create and lead a problem-solving seminar in quantum mechanics that will help physics majors master advanced methods of quantum mechanics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/28/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2424364</AwardID>
+<Investigator>
+<FirstName>Anton</FirstName>
+<LastName>Andreev</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anton V Andreev</PI_FULL_NAME>
+<EmailAddress><![CDATA[aandreev@u.washington.edu]]></EmailAddress>
+<NSF_ID>000233041</NSF_ID>
+<StartDate>06/28/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981951016</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress><![CDATA[4333 BROOKLYN AVE NE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WASHINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>SEATTLE</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981951016</ZipCode>
+<StreetAddress><![CDATA[3910 15th Ave NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>176500</Code>
+<Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>106Z</Code>
+<Text>Microelectronics and Semiconductors</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6863</Code>
+<Text>SEBML-MOORE'S LAW</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~390000</FUND_OBLG>
+</Award>
+</rootTag>

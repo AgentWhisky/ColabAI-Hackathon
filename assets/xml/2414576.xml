@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Studies in the Climate Dynamics of Moist Process Variability and Change]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>1389411.00</AwardTotalIntnAmount>
+<AwardAmount>1389411</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eric DeWeaver</SignBlockName>
+<PO_EMAI>edeweave@nsf.gov</PO_EMAI>
+<PO_PHON>7032928527</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In many regions an inch of rain in a day is enough to cause flooding but the heaviest downpours can produce an inch of rain in an hour or less.  The probability distribution of rainfall intensity, meaning the relative likelihood of rainfall intensities ranging from gentle to heavy to catastrophic, is thus a topic of great practical as well as scientific interest.  A primary concern here is the potential for heavy rain to become more common or more intense as climate warms because warmer air typically holds more water vapor.  But while the temperature dependence of water vapor is clearly important it does not by itself provide a full accounting of the probability distribution of rainfall intensity.&lt;br/&gt;&lt;br/&gt;This award supports the continuing effort of the Principal Investigator (PI) to understand the rainfall intensity distribution in terms of the statistical mechanics of processes that control convective precipitation, in particular the thermodynamics that relate moisture to temperature and the atmospheric dynamics that converge moisture into clouds and generate the cloud updrafts that produce rain. One goal is to explain why the increase in precipitation intensity in a warming climate exceeds expectations based on the increase of water vapor with temperature.  Another is to extend the work on the rainfall distribution to address periods in which no rain occurs, in particular periods in which convection is inhibited by the subsaturation of air in the lower troposphere.  The PI's work has shown an onset threshold for convective precipitation in a bulk measure of atmospheric stability that includes suppression of convection by entrainment of subsaturated air into clouds.  Work performed here considers the extent to which this suppression of convection increases the likelihood of heat waves, particularly moist heat waves.  A further line of research explores the representation of convection using Anelastic Convective Elements (ACEs), models which simulate the rising motion in a convecting cloud together with the overturning motion created around the cloud as air rises within it.  The PI has shown that ACEs can represent important aspects of convection including deep inflow into convecting clouds, the insensitivity of entrainment to the width of the clouds, and the ability of convection to occur at night despite near surface layers of stable air that discourage convection.&lt;br/&gt;&lt;br/&gt;The work is of societal as well as scientific interest given the destructive potential of extreme rainfall as noted above. In particular the PI's analysis of probability distributions enables the calculation of risk ratios which show how the risk of extreme precipitation events is likely to change as climate warms.  The risk ratio calculations are quite effective in reducing the uncertainty in climate model projections of extreme precipitation increase.  Similar risk ratios can be obtained for the change in the frequency and intensity of moist heat waves.  The project also develops materials for undergraduate classes on the statistical mechanics of extreme precipitation, in part through hands-on projects using Python.  In addition, the project provides support and training to a graduate student and a postdoc, thereby contributing to the future workforce in this research area.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414576</AwardID>
+<Investigator>
+<FirstName>J David</FirstName>
+<LastName>Neelin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>J David Neelin</PI_FULL_NAME>
+<EmailAddress><![CDATA[neelin@atmos.ucla.edu]]></EmailAddress>
+<NSF_ID>000190717</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900244200</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress><![CDATA[10889 WILSHIRE BLVD STE 700]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA36</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RN64EPNH8JC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900951565</ZipCode>
+<StreetAddress><![CDATA[520 Portola Plaza]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>574000</Code>
+<Text>Climate &amp; Large-Scale Dynamics</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1389411</FUND_OBLG>
+</Award>
+</rootTag>

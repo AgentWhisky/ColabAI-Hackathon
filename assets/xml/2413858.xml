@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Analysis of Non-Gaussian Tensor Time Series]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>300001.00</AwardTotalIntnAmount>
+<AwardAmount>300001</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jun Zhu</SignBlockName>
+<PO_EMAI>jzhu@nsf.gov</PO_EMAI>
+<PO_PHON>7032924551</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The project is motivated by problems such as geo-political event prediction, crime data analysis, and modeling transportation and trading networks. Many data from these applications share three common and salient features: (i) they can be represented as tensors (multi-dimensional arrays), (ii) they are generated over time and exhibit dynamic relationship, and (iii) the values of the data are binary, counts, proportions etc. Such diverse data types, which are referred to as the non-Gaussian tensor time series, call urgently for the development of more adaptable analytical tools. The investigators introduce a general, flexible and efficient framework for the modeling, interpretation and prediction for such non-Gaussian tensor time series through dynamic factor models. The dynamic factor models contain an observation layer specified for the generation of the non-Gaussian observations, and a latent layer to account for the dynamic and concurrent dependence. They are capable of extracting dynamic information, enhancing comprehension of underlying mechanisms, and generating reliable forecasts, and are therefore poised to assist organizations and policymakers in making well-informed decisions. The project advances education through the research training of both undergraduate and graduate students, as well as its incorporation into special topic courses. The project is also committed to promoting diversity and inclusion in STEM fields, and actively seeks to recruit students from groups that are historically under-represented in science and engineering.&lt;br/&gt;&lt;br/&gt;A novel dynamic matrix factor model for non-Gaussian data marks a significant advancement in modeling large and complex dependent data. These models effectively tackle challenges arising from the size, complexity, and discreteness of the data. More specifically, the dynamic is introduced in the hidden layer through the factor structure with tensor Tucker or CP decompositions, and a nonlinear or generalized linear model (Poisson, negative binomial, Gamma, zero-inflated, etc) is employed in the observation layer for the generation of the observations. An autocovariance-based approach is used for the estimation of the loading matrices and vectors, which takes advantage of the temporal dependence to reduce the bias. A tensor autoregressive model is imposed on the factors to enable the forecasting. For the estimation of the autoregressive model, again an autocovariance-based procedure is used to mitigate the impact of the estimation error of factors. This approach's computational efficiency is particularly well suited for handling big and complex data. The methodology and theoretical analysis lay the groundwork for applying the moment method in broader models and applications. Furthermore, the methodology underscores the significance of the "blessing of dependence" phenomenon, demonstrating how the temporal dependence can be utilized to enhance/reduce the signal/noise to achieve more accurate estimation, compared to the corresponding works under the IID setting. It is noteworthy that the framework accommodates extensions to more general distributions, and the developed methodology has broad applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413858</AwardID>
+<Investigator>
+<FirstName>Rong</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rong Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[rongchen@stat.rutgers.edu]]></EmailAddress>
+<NSF_ID>000215930</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Han</FirstName>
+<LastName>Xiao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Han Xiao</PI_FULL_NAME>
+<EmailAddress><![CDATA[hxiao@stat.rutgers.edu]]></EmailAddress>
+<NSF_ID>000606048</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>NEW BRUNSWICK</CityName>
+<ZipCode>089018559</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress><![CDATA[3 RUTGERS PLZ]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1LVPE5GLSD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>Piscataway</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>088548019</ZipCode>
+<StreetAddress><![CDATA[110 Frelinghuysen Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300001</FUND_OBLG>
+</Award>
+</rootTag>

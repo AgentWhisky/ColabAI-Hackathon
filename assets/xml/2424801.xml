@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Neural Networks for Stationary and Evolutionary Variational Problems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>209593.00</AwardTotalIntnAmount>
+<AwardAmount>12683</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stacey Levine</SignBlockName>
+<PO_EMAI>slevine@nsf.gov</PO_EMAI>
+<PO_PHON>7032922948</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Artificial neural networks have become one of the dominant models in data science, used in applications from image classification to natural language processing. Their empirical success in these diverse fields has sparked interest in further applying such models in new directions, such as numerical analysis and scientific computing. This project is aimed at developing a deeper understanding of the capabilities and limitations of the role of neural network models used for numerical analysis and scientific computing, particularly when compared with more classic tools. This is essential in enabling neural network models to be widely deployed in sensitive fields across engineering domains. Graduate students will be trained as part of this project, modern tools from data science and deep learning will be incorporated into graduate curricula, and outreach activities are planned to attract undergraduates as well as underrepresented groups in STEM into this research area.&lt;br/&gt;&lt;br/&gt;The focus of this work is on the use of neural network models in numerical algorithms used in models based on the calculus of variations, targeting two case studies. The first is related to functionals that exhibit the Lavrentiev gap phenomena, where an energy gap between the lowest energy achievable by shallow neural networks and more general functions is considered. The second is the Allen-Cahn equation, where the solution strategy of physics-inspired neural networks is analyzed. In the second problem, the adaptivity of neural networks to low-dimensional moving interfaces plays a key role when comparing to e.g. fixed mesh finite element methods. The theoretical results are intended to better understand two fundamental challenges. The first is whether the adaptivity of neural networks can be harnessed for the numerical approximation of spatially very inhomogeneous variational problems. The second seeks to understand the precise situations in which neural network solvers are not expected to outperform traditional solvers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2424801</AwardID>
+<Investigator>
+<FirstName>Stephan</FirstName>
+<LastName>Wojtowytsch</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephan Wojtowytsch</PI_FULL_NAME>
+<EmailAddress><![CDATA[s.woj@pitt.edu]]></EmailAddress>
+<NSF_ID>000868314</NSF_ID>
+<StartDate>03/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Pittsburgh]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152600001</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress><![CDATA[4200 FIFTH AVENUE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MKAGLD59JRL1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF PITTSBURGH - OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pittsburgh]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152600001</ZipCode>
+<StreetAddress><![CDATA[4200 FIFTH AVENUE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~12683</FUND_OBLG>
+</Award>
+</rootTag>

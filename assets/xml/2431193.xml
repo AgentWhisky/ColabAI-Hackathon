@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CIVIC-PG Track A: From Vulnerability to Resilience: Advancing Multi-Hazard Risk Mapping for Disaster-Resilient Communities in Mississippi]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>74999.00</AwardTotalIntnAmount>
+<AwardAmount>74999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daan Liang</SignBlockName>
+<PO_EMAI>dliang@nsf.gov</PO_EMAI>
+<PO_PHON>7032922441</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The objective of this Civic Innovation Challenge Planning Grant (CIVIC-PG) is to support research on multi-hazard risk analysis, which involves the examination of multiple hazards in a specific geographic area and time, their magnitude, their interactions, and the interpretation of their combined effects on the local communities. Many parts of the United States have seen an increasing number of weather and climate disasters, from severe storms and floods to heat waves and droughts. The Mississippi Delta is particularly vulnerable to such disasters, which significantly impact the natural environment and anthropogenic resources. Vulnerability is driven by a combination of factors, including economically disadvantaged and marginalized populations, systemic issues, limited resources, and lack of understanding of risk. This project envisions building disaster-resilient communities by developing advanced, community-driven, open-source multi-hazard risk assessment tools. These tools are critical to developing effective strategies for disaster risk reduction, infrastructure design, urban planning, climate change adaptation, and sustainable economic development. &lt;br/&gt;&lt;br/&gt;The project establishes a robust partnership between the university and the community to identify social, economic, political, and governance factors that hinder the resilience of the Mississippi Delta communities. Researchers and stakeholders co-develop methods to incorporate local knowledge and contextual understanding of multi-hazard risk into research, policy, and practice. Using web interactive mapping applications, the project harnesses the potential and capabilities of remote sensing and open geospatial data, machine learning algorithms, and cloud computing for risk identification and visualization. The project also addresses the effect of spatial scale on the quantification of multi-hazard risk and researches a fractal-based modeling framework for multi-scale risk assessment.&lt;br/&gt;&lt;br/&gt;This project is in response to the Civic Innovation Challenge program’s Track A. Climate and Environmental Instability - Building Resilient Communities through Co-Design, Adaption, and Mitigation and is a collaboration between NSF, the Department of Homeland Security, and the Department of Energy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2431193</AwardID>
+<Investigator>
+<FirstName>Gregg</FirstName>
+<LastName>Davidson</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gregg R Davidson</PI_FULL_NAME>
+<EmailAddress><![CDATA[davidson@olemiss.edu]]></EmailAddress>
+<NSF_ID>000187769</NSF_ID>
+<StartDate>07/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Oommen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas Oommen</PI_FULL_NAME>
+<EmailAddress><![CDATA[toommen@olemiss.edu]]></EmailAddress>
+<NSF_ID>000573263</NSF_ID>
+<StartDate>07/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lance</FirstName>
+<LastName>Yarbrough</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lance D Yarbrough</PI_FULL_NAME>
+<EmailAddress><![CDATA[ldyarbro@olemiss.edu]]></EmailAddress>
+<NSF_ID>000793742</NSF_ID>
+<StartDate>07/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Meagen</FirstName>
+<LastName>Rosenthal</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Meagen Rosenthal</PI_FULL_NAME>
+<EmailAddress><![CDATA[mmrosent@olemiss.edu]]></EmailAddress>
+<NSF_ID>000831595</NSF_ID>
+<StartDate>07/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Mississippi]]></Name>
+<CityName>UNIVERSITY</CityName>
+<ZipCode>386779704</ZipCode>
+<PhoneNumber>6629157482</PhoneNumber>
+<StreetAddress><![CDATA[113 FALKNER]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G1THVER8BNL4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF MISSISSIPPI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Mississippi]]></Name>
+<CityName>UNIVERSITY</CityName>
+<StateCode>MS</StateCode>
+<ZipCode>386779704</ZipCode>
+<StreetAddress><![CDATA[100 Barr Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>033Y00</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>138500</Code>
+<Text>SSA-Special Studies &amp; Analysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>041E</Code>
+<Text>HAZARD AND DISASTER REDUCTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>042E</Code>
+<Text>HAZARD AND DISASTER RESPONSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>090Z</Code>
+<Text>CAS-Critical Aspects of Sustainability</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~74999</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Advanced biochemical sensing in the quantum vibrational strong coupling regime]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>437819.00</AwardTotalIntnAmount>
+<AwardAmount>287941</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aleksandr Simonian</SignBlockName>
+<PO_EMAI>asimonia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922191</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Synthetic chemical contaminants, which are found everywhere in our water and food ecosystems, are harmful to human health and well-being. For example, plastic particles have been detected in various human tissues and biofluids. However, the effects of these particles on human health have not been thoroughly assessed because the biomedical community lacks sensitive analytical methods to detect plastic particles from complex biological samples. This highlights the critical need for advanced sensor technologies to assess human exposure to potentially toxic particles. This research project aims to develop a new biochemical sensor that enables the quantification of small plastic particles from human blood serum samples. This sensitive and accurate sensor technology will rely on the strong interactions of light and matter on engineered substrates. Beyond detecting plastic particle contaminants, this biosensor technology has the potential to be used in medical diagnostics, biomanufacturing, and environmental monitoring applications. The proposed project will also facilitate workforce development by introducing new hands-on educational activities into the curriculum and providing tailored research experiences to students across the K12, undergraduate, and graduate levels at the junctions of photonics, quantum information sciences, and biotechnology.&lt;br/&gt;&lt;br/&gt;Mid-infrared absorption spectroscopy (MIRAS) can non-destructively probe the vibrational states of molecules and rapidly measure the chemical composition and structure of matter; thus, its applications pervade fundamental and applied sciences. However, spectral congestion, inherently low molecular absorption cross-sections, and the entanglement of physical and chemical parameters hinder the accurate analysis of real-world specimens using MIRAS. The goal of this project is to develop a novel biochemical sensing mechanism using a new class of optical metasurfaces with powerful light localization capabilities in the mid-infrared spectral range. To advance the analytical performance of MIRAS, the quantum-coherent light-matter interactions enabled by the high-finesse photonic metasurfaces will be leveraged. The scientific goals are to demonstrate a novel biochemical sensing mechanism by i) developing new engineered sensor chips, ii) identifying the analytical performance of the new sensor technology in detecting plastic particles of numerous dimensions and compositions, and iii) implementing machine learning models for automated particle detection and classification. The resulting biochemical sensor technology has the potential to significantly expand the utility of infrared spectrometry methods to address real-world challenges in biomedical research and beyond.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401616</AwardID>
+<Investigator>
+<FirstName>Filiz</FirstName>
+<LastName>Yesilkoy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Filiz Yesilkoy</PI_FULL_NAME>
+<EmailAddress><![CDATA[filiz.yesilkoy@wisc.edu]]></EmailAddress>
+<NSF_ID>000810411</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LCLSJAGTNZQ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>723600</Code>
+<Text>BioP-Biophotonics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>756400</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>790900</Code>
+<Text>BIOSENS-Biosensing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1639</Code>
+<Text>SENSORS AND SENSING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~287941</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Translation potential of prehabilitation, a pre-surgery intervention to improve postsurgery outcomes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is the development of software technology to prepare older adults (65+) for surgery.  The aim is to improve surgery outcomes through pre-surgery intervention also known as prehabilitation.  Annually, over 19 million older Americans undergo surgery, with frail individuals facing high complication risk, and this number is growing.  Research indicates that for older adults, pre-surgery intervention to improve post-surgery outcomes can reduce financial burdens on the healthcare system. Studies have demonstrated that prehabilitation programs for older adults reduce hospital costs by 28% and length of stay by 31%.  Further, the Geriatric Verification Program, supported by the American College of Surgeons, mandates screening and optimization of frailty traits before surgery.  Currently, most clinics and hospitals do not have the expertise or resources to provide this service for older surgical patients.  The proposed web-based software may provide a solution to meet this requirement, reduce healthcare costs, and address the challenge of providing optimum surgical care for older Americans.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with first-hand investigation of the industry ecosystem to assess the translation potential of the proposed technology. It is based on the previous development of a web-based software application that provides prehabilitation, pre-surgery intervention, to improve post-surgery outcomes for older (65+) adults.  The technology is designed to evaluate vulnerabilities and create a personalized home-based plan to guide older adults as they prepare for surgery. Patients are supported by a health coach as needed. In addition to standard prehabilitation domains such as diet and exercise, the software includes wrap-around support that targets common geriatric challenges such as home safety, anxiety, and polypharmacy.  In addition, it can be tailored to specific surgery types.  The prehabilitation software incorporates clinical expertise in geriatric surgery developed at the University of California - San Francisco Surgery Wellness Program as well as information gathered from healthcare provider teams, surgeons, and older adult patients.  Clinical trials are currently in progress that may lead to a product that increases access to a prehabilitation solution to improve surgical outcomes in older adults.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2425993</AwardID>
+<Investigator>
+<FirstName>Emily</FirstName>
+<LastName>Finlayson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Emily Finlayson</PI_FULL_NAME>
+<EmailAddress><![CDATA[Emily.finlayson@ucsf.edu]]></EmailAddress>
+<NSF_ID>0000A01QK</NSF_ID>
+<StartDate>04/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-San Francisco]]></Name>
+<CityName>SAN FRANCISCO</CityName>
+<ZipCode>941034249</ZipCode>
+<PhoneNumber>4154762977</PhoneNumber>
+<StreetAddress><![CDATA[1855 FOLSOM ST STE 425]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KMH5K9V7S518</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMH5K9V7S518</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Francisco]]></Name>
+<CityName>SAN FRANCISCO</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>941034249</ZipCode>
+<StreetAddress><![CDATA[1855 FOLSOM ST STE 425]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

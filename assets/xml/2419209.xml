@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: RUI: Characterizing borehole breakouts in anisotropic materials in the laboratory and in nature]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>206119.00</AwardTotalIntnAmount>
+<AwardAmount>206119</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Colin A. Shaw</SignBlockName>
+<PO_EMAI>cshaw@nsf.gov</PO_EMAI>
+<PO_PHON>7032927944</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project uses two different methods to study borehole breakouts, which are features formed in wells drilled to obtain oil, gas, and water. These features can be detected as distortions in the shape of the well’s circumference. These distorted shapes are used to understand stresses within the Earth’s crust, including in California near the San Andreas fault, which is important for estimating earthquake hazards. However, the inference of stress from breakouts is challenging when the well goes through strongly layered rocks. The first method for this project is a laboratory approach, where breakouts are created in analog materials such as sand, gelatin, and wax and the layering conditions can be controlled. The second method is a study of information collected at the time wells were drilled to look how breakouts across an area relate to rock layering. The team will develop new statistical tools to compare datasets from the project, which may prove useful in many other situations. The project will involve the training of one graduate student and multiple undergraduate students as well as curricular materials for high school students.&lt;br/&gt;&lt;br/&gt;Borehole breakouts are used to infer stress directions in the shallow crust. By assuming rocks are homogeneous and isotropic, breakout directions are inferred to form parallel to the minimum horizontal stress. However, the rocks in which breakouts are commonly found are often layered mudstones, shales, and sandstones in sedimentary basins, all of which are anisotropic. This proposal uses two research methods to study how anisotropy, due to rock layering, impacts stress inferences from breakouts. The first approach relies on physical experiments to investigate how and when anisotropy—in the form of layer orientation, layer thickness, and material strength—may impact breakout directions. The advantage of an analogue modeling approach is that the problem can be simplified to isolate a variable of interest, namely, the orientation of layering versus the applied stresses. The second approach relies on the analysis of well logs, seeking to amass a rich dataset of breakout azimuths, local bedding directions, and lithologic information from a natural system—in central California—to look for patterns between these datasets. Breakout data from this region provided critical support for the “weak-fault hypothesis” for the San Andreas fault, reflecting the importance of studying this region. Preliminary re-analysis of published data shows it is not straightforward to replicate the prior results. Further, breakouts are often parallel to bedding strike or dip direction, suggesting that local anisotropy may play a larger role than previously recognized. Statistical tools will be developed to analyze data from both projects because the data types are not straightforward to compare. The experimental results will be leveraged to better understand the conditions in which anisotropy might impact breakout directions from the natural dataset from California, which may help identify breakouts that reflect local conditions like layering rather than regional stresses.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419209</AwardID>
+<Investigator>
+<FirstName>Jacqueline</FirstName>
+<LastName>Reber</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jacqueline E Reber</PI_FULL_NAME>
+<EmailAddress><![CDATA[jreber@iastate.edu]]></EmailAddress>
+<NSF_ID>000671227</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<ZipCode>500112103</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress><![CDATA[1350 BEARDSHEAR HALL]]></StreetAddress>
+<StreetAddress2><![CDATA[515 MORRILL ROAD]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DQDBM7FGJPC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DQDBM7FGJPC5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>500112103</ZipCode>
+<StreetAddress><![CDATA[1350 BEARDSHEAR HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>157200</Code>
+<Text>Tectonics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~206119</FUND_OBLG>
+</Award>
+</rootTag>

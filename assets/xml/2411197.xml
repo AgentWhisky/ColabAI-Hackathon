@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Randomized algorithms for dynamic and hierarchical Bayesian inverse problems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>170000.00</AwardTotalIntnAmount>
+<AwardAmount>170000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Troy D. Butler</SignBlockName>
+<PO_EMAI>tdbutler@nsf.gov</PO_EMAI>
+<PO_PHON>7032922084</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Inverse problems appear in a diverse array of applications - in medical imaging, for X-ray computerized tomography, ultrasound, and magnetic resonance imaging; in geophysics, for atmospheric tomography, electrical resistivity tomography, seismic tomography, and weather prediction; in material sciences, for X-ray ptychography; in homeland security applications, for luggage scanning; in astrophysics, to image black holes and cosmic background estimation. The main goal of solving inverse problems is to use measurements to estimate the parameters of physical models. Being able to solve inverse problems efficiently, accurately, and with quantifiable certainty remains an open challenge. Randomized algorithms have made several advances in numerical linear algebra due to their ability to dramatically reduce computational costs without significantly compromising the accuracy of the computations. However, there is a rich and relatively unexplored field of research that lies between randomized numerical linear algebra and inverse problems, in particular for dynamic and hierarchical problems, where randomization can and should be exploited in unique ways. This project will address fundamental issues in the development of computationally efficient solvers for inverse problems and uncertainty quantification. The project will also train graduate students on start-of-the-art randomized algorithms. &lt;br/&gt;&lt;br/&gt;The project will develop new and efficient randomized algorithms for mitigating the computational burdens of two types of inverse problems: hierarchical Bayesian inverse problems and dynamical inverse problems. The two main thrusts of this project are (i) to develop efficient algorithms to quantify the uncertainty of the hyperparameters that govern Bayesian inverse problems, and (ii) to develop new iterative methods that leverage randomization to efficiently approximate solutions and enable uncertainty quantification for large-scale inverse problems. This project will advance knowledge in the field of randomized algorithms for computational inverse problems and uncertainty quantification. It will also create numerical methods that are expected to be broadly applicable to many areas of science and engineering.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/30/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411197</AwardID>
+<Investigator>
+<FirstName>Julianne</FirstName>
+<LastName>Chung</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Julianne M Chung</PI_FULL_NAME>
+<EmailAddress><![CDATA[jmchung@emory.edu]]></EmailAddress>
+<NSF_ID>000512415</NSF_ID>
+<StartDate>05/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Emory University]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303221061</ZipCode>
+<PhoneNumber>4047272503</PhoneNumber>
+<StreetAddress><![CDATA[201 DOWMAN DR NE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>S352L5PJLMP8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EMORY UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Emory University]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303224250</ZipCode>
+<StreetAddress><![CDATA[400 DOWMAN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~170000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[ECCS-EPSRC: Overcoming the Endurance Challenge in Energy-Efficient Atomic Memristors for AI and 6G Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>370000.00</AwardTotalIntnAmount>
+<AwardAmount>370000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Usha Varshney</SignBlockName>
+<PO_EMAI>uvarshne@nsf.gov</PO_EMAI>
+<PO_PHON>7032925385</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The project focuses on researching atomic memristors, a type of memory device critical for artificial intelligence and emerging communication systems, The research objective is to significantly advance scientific understanding of their physical operation and improving their reliability. These devices, made from ultra-thin atomic materials, promise a significant advancement in computing power and efficiency, overcoming current limitations in memory technology. The primary contemporary challenge is the durability of the memristor devices. The research aims to understand and improve the durability of these memristors by collaborative effort involving US and UK investigators with complementary expertise. The US investigator will lead the research on device engineering and circuit applications while the UK investigators will focus on advanced electrical characterization and reliability engineering. The successful completion of this research can substantially benefit artificial intelligence, computing, and communication systems. In addition, the research project will train several students in advanced electronic devices as part of workforce development, in line with the national goal to advance semiconductor chips. The research activity and outcomes are planned to be broadly disseminated to the public via publications in journals, presentations at conferences, and podcasts on media platforms.  &lt;br/&gt; &lt;br/&gt;The objective of the project is to realize advanced memristors by researching atomically-thin materials with improved device endurance and reliability, which are the contemporary issues preventing practical applications. The research involves collaboration between US and UK researchers with complimentary expertise in electronic devices and device reliability. The proposed research employs a multi-disciplinary approach, combining device science, advanced materials characterization, and reliability engineering, to investigate the mechanisms of atomic memristor performance degradation and identify strategies for their mitigation. The US investigator will lead the research on material-device co-design, characterization, and circuit applications. The UK investigators will focus on research on electrical testing protocol, and reliability engineering. The research aims include understanding of ageing, fatigue and reliability issues, exploring the use of interfacial layers and optimized electrodes, and demonstrating high-performance computing and communication switching devices. The collaborative research intends to produce an engineered device structure and associated programming protocol for high endurance atomic memristors. The successful fulfilment of this research will lead to atomic resistive switching devices with orders of magnitude enhanced durability, suitable for applications in artificial intelligence and sixth-generation communication systems. This endeavor could significantly advance resistive switching devices based on atomic materials and enable practical applications in computing and communication technology, offering a path towards more energy-efficient and reliable electronic systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2422934</AwardID>
+<Investigator>
+<FirstName>Deji</FirstName>
+<LastName>Akinwande</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Deji Akinwande</PI_FULL_NAME>
+<EmailAddress><![CDATA[deji@ece.utexas.edu]]></EmailAddress>
+<NSF_ID>000559739</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>135Y00</Code>
+<Text>NSF/ENG-UKRI EPSRC Opportunity</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022Z</Code>
+<Text>International Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5946</Code>
+<Text>UNITED KINGDOM</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~370000</FUND_OBLG>
+</Award>
+</rootTag>

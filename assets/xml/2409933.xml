@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[IRES Track I: US-Finnish research on sustainable evolution and technical debt management in cloud-native systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/15/2023</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>299993.00</AwardTotalIntnAmount>
+<AwardAmount>249224</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kristin Kuyuk</SignBlockName>
+<PO_EMAI>kkuyuk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924904</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Cloud-native software design aims to fully utilize the benefits of cloud infrastructure. The development of cloud-native systems is complex and requires the interaction of many teams, often responsible for individual subsets of such a system or different perspectives (i.e., operations). However, the evolution management of these systems is challenged by their decentralized nature and possibly separately managed codebases. Understanding the holistic perspective of such systems with many moving parts involved takes herculean efforts for developers to analyze the system as a whole. This research project advances knowledge in cloud-native system analysis. It introduces evolution safeguards to cloud-native systems to reduce maintenance efforts. &lt;br/&gt;&lt;br/&gt;This project combines dynamic and static system analysis perspectives into a comprehensive system intermediate representation leading to holistic reasoning. Such a representation will enable comprehensive system assessment and automated reasoning about potential design anomalies. It will include interactive visualization of various system aspects to help practitioners better observe their systems holistically and educate practitioners and students about typical design pitfalls specific to these systems. This project considers human-centered and technical perspectives to enable automation and expert knowledge for more sustainable system evolution.  &lt;br/&gt;&lt;br/&gt;Throughout the lifespan of this project, 18 US students will be engaged in international research experience taking place at Oulu University in Finland, under the supervision of Professors Davide Taibi and Valentina Lenarduzzi, who will work in concert with the US Principal Investigator. Project results will also be used to engage prospective students with STEM and promote university research and coursework in software engineering.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/14/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>12/14/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409933</AwardID>
+<Investigator>
+<FirstName>Tomas</FirstName>
+<LastName>Cerny</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tomas Cerny</PI_FULL_NAME>
+<EmailAddress><![CDATA[tcerny@arizona.edu]]></EmailAddress>
+<NSF_ID>000756139</NSF_ID>
+<StartDate>12/14/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Arizona</Name>
+<CityName>TUCSON</CityName>
+<ZipCode>85721</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress>845 N PARK AVE RM 538</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ED44Y3W6P7B9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ARIZONA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Arizona]]></Name>
+<CityName>TUCSON</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>85721</ZipCode>
+<StreetAddress><![CDATA[845 N PARK AVE RM 538]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7727</Code>
+<Text>IRES Track I: IRES Sites (IS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5935</Code>
+<Text>FINLAND</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5980</Code>
+<Text>WESTERN EUROPE PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~249224</FUND_OBLG>
+</Award>
+</rootTag>

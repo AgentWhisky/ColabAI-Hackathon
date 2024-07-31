@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Learning and Engineering Quantum Many-Body Dynamics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>425000.00</AwardTotalIntnAmount>
+<AwardAmount>425000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mark S. Byrd</SignBlockName>
+<PO_EMAI>msbyrd@nsf.gov</PO_EMAI>
+<PO_PHON>7032927421</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Emerging quantum technologies require us to control large many-body systems and to maintain their quantum coherence during the dynamics. This would enable achieving quantum advantage in computation and simulation, opening the possibility to tackle complex computational problems of broad practical importance that are out of reach today. Despite rapid progress, there are still limits to the size and coherence time of quantum systems.  A fundamental question with broad practical implications is then how to find robust control protocols that can protect the quantum systems, preserving its coherence and entanglement that enable quantum advantage, while also implementing desired dynamics for quantum computation and simulation. Understanding these limits also requires a precise characterization of many-body quantum systems, which is itself a challenging task.  This project aims to tackle these two intertwined challenges by developing and studying experimentally novel control and learning protocols.&lt;br/&gt;&lt;br/&gt;This team will exploit Floquet Hamiltonian engineering to develop novel protocols both analytically and numerically and introduce robust error correction in Hamiltonian engineering.  They will further exploit their large-scale, solid-state nuclear spin platforms to experimentally assess the methods and the quantum simulation performance, beyond the regime where classical numerical computation can validate quantum simulations. To evaluate both the control performance and the engineered Hamiltonian, the team will devise experimentally accessible metrics that can characterize the many-body dynamics and the properties of out-of-equilibrium many-body quantum states. In particular, the team will combine novel ideas in quantum system learning with the team's recently demonstrated single-spin correlation  measurements and out-of-time ordered commutators to efficiently extract information from the quantum many-body system, even in the presence of a limited number of observables.  The results are expected  provide novel insight into thermalization and information scrambling – or their absence due to localization or prethermalization, a key question in the quest to exploit many-body systems for quantum applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412796</AwardID>
+<Investigator>
+<FirstName>Paola</FirstName>
+<LastName>Cappellaro</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paola Cappellaro</PI_FULL_NAME>
+<EmailAddress><![CDATA[pcappell@mit.edu]]></EmailAddress>
+<NSF_ID>000545694</NSF_ID>
+<StartDate>07/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125300</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>728100</Code>
+<Text>QIS - Quantum Information Scie</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~425000</FUND_OBLG>
+</Award>
+</rootTag>

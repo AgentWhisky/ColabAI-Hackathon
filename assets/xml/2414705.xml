@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Mathematical Modeling from Data to Insights and Beyond]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>400213.00</AwardTotalIntnAmount>
+<AwardAmount>141540</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will develop both analytical and computational tools for data-driven applications. In particular, analytical tools will hold great promise to provide theoretical guidance on how to acquire data more efficiently than current practices. To retrieve useful information from data, numerical methods will be investigated with emphasis on guaranteed convergence and algorithmic acceleration. Thanks to close interactions with collaborators in data science and information technology, the investigator will ensure the practicability of the proposed research, leading to a real impact. The investigator will also devote herself to various outreach activities in the field of data science. For example, she will initiate a local network of students, faculty members, and domain experts to develop close ties between mathematics and industry as well as to broaden career opportunities for mathematics students. This initiative will have a positive impact on the entire mathematical sciences community. In addition, she will advocate for the integration of mathematical modeling into K-16 education by collaborating with The University of Texas at Dallas Diversity Scholarship Program to reach out to mathematics/sciences teachers.&lt;br/&gt;&lt;br/&gt;This project addresses important issues in extracting insights from data and training the next generation in the "big data" era. The research focuses on signal/image recovery from a limited number of measurements, in which "limited" refers to the fact that the amount of data that can be taken or transmitted is limited by technical or economic constraints. When data is insufficient, one often requires additional information from the application domain to build a mathematical model, followed by numerical methods. Questions to be explored in this project include: (1) how difficult is the process of extracting insights from data? (2) how should reasonable assumptions be taken into account to build a mathematical model? (3) how should an efficient algorithm be designed to find a model solution? More importantly, a feedback loop from insights to data will be introduced, i.e., (4) how to improve upon data acquisition so that information becomes easier to retrieve? As these questions mimic the standard procedure in mathematical modeling, the proposed research provides a plethora of illustrative examples to enrich the education of mathematical modeling. In fact, one of this CAREER award's educational objectives is to advocate the integration of mathematical modeling into K-16 education so that students will develop problem-solving skills in early ages. In addition, the proposed research requires close interactions with domain experts in business, industry, and government (BIG), where real-world problems come from. This requirement helps to fulfill another educational objective, that is, to promote BIG employment by providing adequate training for students in successful approaches to BIG problems together with BIG workforce skills.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414705</AwardID>
+<Investigator>
+<FirstName>Yifei</FirstName>
+<LastName>Lou</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yifei Lou</PI_FULL_NAME>
+<EmailAddress><![CDATA[yflou@unc.edu]]></EmailAddress>
+<NSF_ID>000680509</NSF_ID>
+<StartDate>01/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275995023</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress><![CDATA[104 AIRPORT DR STE 2200]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D3LHU66KBLD5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D3LHU66KBLD5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName>CHAPEL HILL</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>275995023</ZipCode>
+<StreetAddress><![CDATA[104 AIRPORT DR STE 2200]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~59310</FUND_OBLG>
+<FUND_OBLG>2023~82230</FUND_OBLG>
+</Award>
+</rootTag>

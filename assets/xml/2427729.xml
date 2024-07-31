@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Defining the mechanism of N6-methyladenosine site selection in plant transcriptomes and its effect on response to bacterial pathogens]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>810001.00</AwardTotalIntnAmount>
+<AwardAmount>810001</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Clifford Weil</SignBlockName>
+<PO_EMAI>cweil@nsf.gov</PO_EMAI>
+<PO_PHON>7032924668</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Pathogens are a devastating stressor that result in hundreds of billions of dollars in lost crops every year. Thus, plants have evolved mechanisms to recognize and respond to these pests by turning specific sets of genes on and off in response to infectiontion. Part of this gene regulation includes regulating RNA, which are intermediary molecules made from reading the DNA of genes. Traditionally, scientists believed that the activity of RNA was dictated only by the sequence of the DNA from which it is transcribed, but recent discoveries have shown that regulation of RNA molecules is also highly controlled after it is transcribed. Recently, it was discovered that RNA stability can be controlled through the addition or removal of small molecules, such as methyl groups, to individual bases in RNA molecules. This new form of regulation, called epitranscriptomics, is still largely understudied in plants and has the potential to be used to help crops better deal with their pathogens. This project aims to characterize the addition and removal of one of these modifications (N6-methyladenosine, or m6A) to RNA at a global level and identify how these processes may improve plant tolerance to various pathogens. To accomplish this goal, the project will leverage and pioneer advances in RNA isolation and sequencing as well as new computational tools to analyze large amounts of sequencing data. These methods and tools will be made available for other science groups to rapidly apply the same techniques to their research questions. Overall, these findings will produce important new mechanistic insights and new resources for further studies focusing on functions of covalent RNA modifications, as well as studies developing more pathogen resistant crops. In addition to the broader impacts that our new findings will have on the fields of epitranscriptomics and crop improvement, we will also apply a novel training program that will prepare the next generation of epitranscriptomics researchers for the future of biology as a data-driven science.&lt;br/&gt;&lt;br/&gt;Plants have developed numerous regulatory mechanisms to recognize and, subsequently, direct precise transcriptome regulation in response to pathogen infection. However, the mechanisms responsible for directing transcriptome reprogramming during eukaryotic pathogen response are still quite unclear. Significant recent attention has revealed that post-transcriptional processes are just as important to regulating plant gene expression as transcriptional regulation. One feature of RNA molecules found to have significant post-transcriptional regulatory effects are covalent chemical modifications (e.g. methylation) of nucleotides; these are both widespread and physiologically relevant. This is especially true of m6A, currently the most abundant known internal messenger RNA (mRNA) modification. However, little is understood about the addition and removal of m6A or the role of these processes in post-transcriptional regulation of the plant transcriptome, either in normal development or during pathogen response. The project will address this significant knowledge gap using a combination of genomic, proteomic, and bioinformatics approaches, together with analytic software packages and web-based tools developed in our laboratory.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2427729</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Gregory</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian D Gregory</PI_FULL_NAME>
+<EmailAddress><![CDATA[bdgregor@sas.upenn.edu]]></EmailAddress>
+<NSF_ID>000532825</NSF_ID>
+<StartDate>07/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress><![CDATA[3451 WALNUT ST STE 440A]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GM1XX56LEP58</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GM1XX56LEP58</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191046018</ZipCode>
+<StreetAddress><![CDATA[433 S University Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111200</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~810001</FUND_OBLG>
+</Award>
+</rootTag>

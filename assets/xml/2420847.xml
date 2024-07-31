@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CPS: NSF-JST: Enabling Human-Centered Digital Twins for Community Resilience]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>200199.00</AwardTotalIntnAmount>
+<AwardAmount>200199</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Fahmida Chowdhury</SignBlockName>
+<PO_EMAI>fchowdhu@nsf.gov</PO_EMAI>
+<PO_PHON>7032924672</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This US-Japan joint research project aims to apply and expand the concept of “digital twins” into disaster science and build a “Disaster Digital Twin” (DDT) which utilizes human-centered data to improve community resilience. The DDT will capture the evolution of a disaster and its impacts to humans, creating an approximate replica in the cyberworld through sensing, computing, and communication. Given that disasters have a disproportionate impact on older adults (across disasters in Japan and the US, nearly 75% of mortality and morbidity burdens are among those over the age of 65), this project will focus on older adults as the key population with personalized care needs in a disaster. The US-Japan team will design tools to create “Virtual Disaster City” (VDC) with the aim to provide transformative improvements to disaster science by integrating model-driven methods with data driven techniques. As data are continuously updated, so are the models executing within the VDC – as changes occur, new predictions and recommendations will help drive disaster management decisions.&lt;br/&gt;&lt;br/&gt;Specific research tasks of this collaborative US-Japan project include: 1) stakeholder workshops to understand the older adult disaster resilience landscape; 2) integrate diverse data sources (geospatial and human-centric) into a novel data architecture, that supports enrichment and harmonization/alignment of multiresolution spatiotemporal data; 3) execute physics-driven hazard simulations developed by experts in the US/Japan team using the integrated data; and 4) simulate disaster processes and consequences in VDC with target older adult population and relevant hazards on the US West Coast and Tohoku region in Japan to explore optimality of response decisions/policies. The disaster digital twin framework and tools developed will build upon existing, tested technologies by PIs at both countries: multi-agent disaster simulation framework developed in Japan, and he CAREDEX data exchange platform for older adults in the US.&lt;br/&gt;&lt;br/&gt;While the project focuses on disaster preparedness for senior populations during hazard events such as tsunamis and earthquakes, the proposed technology has the potential for widespread usage for vulnerable populations in multihazard settings. The project will offer opportunities for PhD and postdoctoral researchers to contribute, as well as involve undergraduates, graduates and minorities to develop and ruggedize systems related to disaster resilience for our vulnerable populations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2420847</AwardID>
+<Investigator>
+<FirstName>Magaly</FirstName>
+<LastName>Koch</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Magaly Koch</PI_FULL_NAME>
+<EmailAddress><![CDATA[mkoch@bu.edu]]></EmailAddress>
+<NSF_ID>000092901</NSF_ID>
+<StartDate>02/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Trustees of Boston University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151703</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress>1 SILBER WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>THL6A6JLE1S7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF BOSTON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>022151703</ZipCode>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7918</Code>
+<Text>CPS-Cyber-Physical Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5921</Code>
+<Text>JAPAN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~200199</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Electrowetting Bursting: Electric Field-Induced Contact Line Instability for Massive and Controllable Droplets Generation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>455251.00</AwardTotalIntnAmount>
+<AwardAmount>455251</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Reproducible, adjustable, and massive liquid droplet generation techniques are pivotal in wide applications, such as emulsion production, digital chemical and biological assay, single cell analysis, drug delivery, and nanoparticle synthesis. However, the state-of-the-art droplet generation systems heavily rely on mechanical components, including pumps, centrifuges, or mixers, which is bulky and difficult to control the droplet uniformity. In this project, a novel electrical method, electrowetting bursting, will be studied to generate controllable droplets with significantly reduced system volume and weight, potentially applicable in point-of-care scenarios for disease diagnostics, drug synthesis, and vaccine manufacturing. The success of this integrated analytical, experimental, and numerical study will enhance our understanding, surpassing the long-standing limit of electrowetting set since its discovery in 1875. Education components such as undergraduate and graduate education and class teaching are integrated in this project. Demonstration of electrowetting and electrowetting bursting is included in outreach events to promote public interests in STEM.  &lt;br/&gt;&lt;br/&gt;The goal of this project is to delineate electrowetting bursting into three fluid conformation stages, namely fingering, shedding, and propagating, and thoroughly investigate these three stages using analytical models (Objective 1), experiments (Objective 2), and numerical simulations (Objective 3). Through the exploration of electrowetting with parallel electrodes sandwiching a water mother drop surrounded by a surfactant-supplemented oil environment, the electrowetting instability is anticipated to occur consistently without causing damages to the device. This crucial improvement will ensure reliable and reproducible droplet ejection, achieving the novel phenomenon of electrowetting bursting. In addition to robust experimental design, for the first time, electrowetting instability and bursting will be comprehensively studied by incorporating the effects of shear stress with electrostatic pressure and surface tension in the modeling and simulation. The accomplishment of this study will not only advance the understanding of electrowetting, electrowetting bursting, and droplet generation but also lay the foundation for future investigations into droplet electrokinetics influenced by the interplay among shear stress, electrostatic pressure, and surface tension.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2422678</AwardID>
+<Investigator>
+<FirstName>Mingjun</FirstName>
+<LastName>Wei</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mingjun Wei</PI_FULL_NAME>
+<EmailAddress><![CDATA[mjwei@ksu.edu]]></EmailAddress>
+<NSF_ID>000487103</NSF_ID>
+<StartDate>07/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shih-Kang</FirstName>
+<LastName>Fan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shih-Kang Fan</PI_FULL_NAME>
+<EmailAddress><![CDATA[skfan@ksu.edu]]></EmailAddress>
+<NSF_ID>000822350</NSF_ID>
+<StartDate>07/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Kansas State University]]></Name>
+<CityName>MANHATTAN</CityName>
+<ZipCode>665062504</ZipCode>
+<PhoneNumber>7855326804</PhoneNumber>
+<StreetAddress><![CDATA[1601 VATTIER STREET]]></StreetAddress>
+<StreetAddress2><![CDATA[103 FAIRCHILD HALL]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CFMMM5JM7HJ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>KANSAS STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Kansas State University]]></Name>
+<CityName>MANHATTAN</CityName>
+<StateCode>KS</StateCode>
+<ZipCode>665062504</ZipCode>
+<StreetAddress><![CDATA[1601 VATTIER STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>141500</Code>
+<Text>PMP-Particul&amp;MultiphaseProcess</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>144300</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~455251</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: GEM--How Upstream Solar Wind Conditions Determine the Properties of the Foreshock Backstreaming Ions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>271096.00</AwardTotalIntnAmount>
+<AwardAmount>271096</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chia-Lin Huang</SignBlockName>
+<PO_EMAI>chihuang@nsf.gov</PO_EMAI>
+<PO_PHON>7032927544</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The interaction of the solar wind and the Earth's magnetic field created a collisionless shock called a bow shock in front of the Earth's magnetosphere.  The incident particles can be accelerated and reflected at the bow shock, resulting in their counter-streaming along field lines and interacting with the local plasma.  Earth's bow shock is a natural laboratory to study the complex interactions between the incident solar wind and the counter-streaming foreshock populations.   This study aims to build a predictive model of the foreshock backstreaming ions, which can be integrated into a space weather prediction model to help accurately forecast and mitigate space weather hazards.  An early-career female scientist leads this project and involves the participation of multiple early-career scientists.  The related science materials will be presented to k-12 students, parents, and the general public audience through various outreach events to promote STEM education.&lt;br/&gt;&lt;br/&gt;This study focuses on the foreshock ion properties and addresses the following questions: (1) What are the properties of the freshly reflected ions near the bow shock, including reflection rate, velocity, perpendicular and parallel temperatures and Velocity Distribution Function (VDF) types (e.g., field-aligned beam, ring distributions, etc), as a function of upstream solar wind conditions (e.g., speed, interplanetary magnetic field (IMF), Mach number, beta, etc) and shock normal angles?  (2) How do the properties of the freshly reflected ions evolve spatially and temporally as they travel away from the bow shock as suggested by global simulations?  (3) Can the obtained properties be explained by existing acceleration and reflection theories, such as adiabatic and specular reflections?  The project combines analysis of satellite measurements and numerical simulations to reveal how the ion distributions are determined by the upstream solar wind conditions.  This project will improve our understanding of the properties of the bow shock reflected ions and the related reflection, acceleration, and scattering processes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2420710</AwardID>
+<Investigator>
+<FirstName>Kun</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kun Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[kzhang@spacescience.org]]></EmailAddress>
+<NSF_ID>000900829</NSF_ID>
+<StartDate>03/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900244200</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 WILSHIRE BLVD STE 700</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA36</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RN64EPNH8JC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900244200</ZipCode>
+<StreetAddress><![CDATA[10889 WILSHIRE BLVD STE 700]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5750</Code>
+<Text>MAGNETOSPHERIC PHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8089</Code>
+<Text>Space Weather Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5750</Code>
+<Text>MAGNETOSPHERIC PHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8092</Code>
+<Text>Space Weather Research</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~271096</FUND_OBLG>
+</Award>
+</rootTag>

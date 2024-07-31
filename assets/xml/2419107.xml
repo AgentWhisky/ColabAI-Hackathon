@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Direct Calculation of Activation Energies and Entropies for Chemical Dynamics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>470465.00</AwardTotalIntnAmount>
+<AwardAmount>470465</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ryan Jorn</SignBlockName>
+<PO_EMAI>rjorn@nsf.gov</PO_EMAI>
+<PO_PHON>7032924514</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Theory, Models and Computational Methods program in the Division of Chemistry, Professor Ward Thompson of the University of Kansas is supported by an award to develop and apply methods for determining how changes in temperature and pressure affect the rates of dynamical processes important in chemistry. These studies are working toward improved approaches to gaining mechanistic insight into chemical transformations by probing the effects of pressure and temperature. These methods will be applied to better understand diverse systems, including liquid water from its boiling point down to supercooled conditions, aqueous solutions of electrolytes and osmolytes, and hydrogen-bonded supramolecular assemblies. The goal is to provide new insight into the driving forces of the dynamical processes in these systems by revealing the energetic and entropic barriers and enabling more intuitive and global descriptions of their behavior.  The Thompson group will generate computer codes, to be made publicly available, that will make it easier for other researchers to use these methods.&lt;br/&gt;&lt;br/&gt;Under this award, the Thompson group will develop and apply theoretical methods for directly calculating activation energies and entropies for dynamical processes important in chemistry. These approaches seek to enable (i) global descriptions of dynamical timescales as a function of temperature and pressure; (ii) accelerated calculations by exploiting the connection between activation energies and timescales as a function of system energy; and (iii) rigorous, direct calculation of the activation entropy with new molecular-level insight. These approaches are based on evaluating derivatives with respect to temperature (or pressure) of the time correlation functions from which dynamical timescales, such as rate constants or diffusion coefficients, can be obtained. These derivatives are themselves time correlation functions and can be evaluated straightforwardly from the same molecular dynamics simulations. In this way, an activation energy, volume, or entropy that is normally obtained from calculations at multiple temperatures through an Arrhenius analysis can be determined from simulations at a single temperature or pressure. A key advantage is that this approach enables a rigorous decomposition of the activation energy or entropy into contributions from the interactions and motions present in the system, providing otherwise unavailable physical insight.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419107</AwardID>
+<Investigator>
+<FirstName>Ward</FirstName>
+<LastName>Thompson</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ward H Thompson</PI_FULL_NAME>
+<EmailAddress><![CDATA[wthompson@ku.edu]]></EmailAddress>
+<NSF_ID>000362603</NSF_ID>
+<StartDate>05/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Kansas Center for Research Inc]]></Name>
+<CityName>LAWRENCE</CityName>
+<ZipCode>660457563</ZipCode>
+<PhoneNumber>7858643441</PhoneNumber>
+<StreetAddress><![CDATA[2385 IRVING HILL RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SSUJB3GSH8A5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF KANSAS CENTER FOR RESEARCH INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SSUJB3GSH8A5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Kansas Center for Research Inc]]></Name>
+<CityName>LAWRENCE</CityName>
+<StateCode>KS</StateCode>
+<ZipCode>660457552</ZipCode>
+<StreetAddress><![CDATA[2385 IRVING HILL RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688100</Code>
+<Text>Chem Thry, Mdls &amp; Cmptnl Mthds</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~470465</FUND_OBLG>
+</Award>
+</rootTag>

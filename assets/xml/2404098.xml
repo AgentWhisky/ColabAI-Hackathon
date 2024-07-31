@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Proteomic Characterization of EV RNA-Binding Proteome Landscape in Cell-Cell Communication]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>280000.00</AwardTotalIntnAmount>
+<AwardAmount>280000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jose Almirall</SignBlockName>
+<PO_EMAI>jalmiral@nsf.gov</PO_EMAI>
+<PO_PHON>7032927434</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program and the Chemistry of Life Processes Program in the Division of Chemistry, Professor W. Andy Tao's group at Purdue University is developing a new mass spectrometry-based strategy to enable the analysis of RNA-binding proteins that play important roles when cells communicate with each other. Extracellular vesicles (EVs) are nano- or micro-size particles released by all kinds of cells. Their importance has been increasingly realized through the discovery of transferring biological molecules such as proteins and RNAs from one cell to another by EVs. The goal of this research is to develop chemical tools that introduce a tag on RNAs in EVs so that when RNAs are transferred from one to another by EVs, proteins interacting with RNAs from EVs can be isolated using the tag and then analyzed by mass spectrometry. This interdisciplinary project incorporates elements of chemical biology, instrumentation, and bioinformatics. Education-outreach activities are integrated with the research effort and are designed to directly impact undergraduate students through their educational and research experience. The research will engage early year students in a research project that emphasizes the use of modern analytical methods for the isolation and analysis of biological molecules and encourage undergraduate students enrolled in the new chemical biology major at Purdue University, to think of science in a broad, discovery-based manner.&lt;br/&gt;&lt;br/&gt;EVs have emerged as important messengers in cell-cell communication by transferring biological molecules such as nucleic acids, proteins, and metabolites to recipient cells, affecting the function and activity of recipient cells. EV RNAs have been discovered to play key roles in intercellular communications by regulating gene expression and other cellular processes in recipient cells. A systematic analysis of EV RNA-binding proteomes in recipient cells could provide dynamic insights into the molecular mechanisms that are responsible for EV functions. This NSF project will introduce a systemic strategy based on chemical proteomics to profile the landscape of EV RNA interactomes in recipient cells. RNAs will be labeled using non-nature uridine (U) and transferred from cells to EVs, which allows for the full characterization of RNA-binding proteome in cells and in EVs, and most importantly, EV RNA-binding proteome in recipient cells. The novel chemical proteomic strategy will be fully examined with HEK 293 cells Jurket T cells, and CD8+ T cells.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404098</AwardID>
+<Investigator>
+<FirstName>Weiguo</FirstName>
+<LastName>Tao</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Weiguo A Tao</PI_FULL_NAME>
+<EmailAddress><![CDATA[watao@purdue.edu]]></EmailAddress>
+<NSF_ID>000274899</NSF_ID>
+<StartDate>07/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kyle</FirstName>
+<LastName>Cottrell</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kyle A Cottrell</PI_FULL_NAME>
+<EmailAddress><![CDATA[kacottre@purdue.edu]]></EmailAddress>
+<NSF_ID>000979583</NSF_ID>
+<StartDate>07/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE STE 1900]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688000</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>688300</Code>
+<Text>Chemistry of Life Processes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~280000</FUND_OBLG>
+</Award>
+</rootTag>

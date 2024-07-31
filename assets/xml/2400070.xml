@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Understanding the Mechanism and Selectivity of Oxidative Addition of Aryl (Pseudo)halides at Palladium(0)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>595000.00</AwardTotalIntnAmount>
+<AwardAmount>190820</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kenneth Moloy</SignBlockName>
+<PO_EMAI>kmoloy@nsf.gov</PO_EMAI>
+<PO_PHON>7032928441</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With the support of the Chemical Catalysis program in the Division of Chemistry, Sharon Neufeldt of Montana State University is studying how palladium catalysts break carbon–halogen and related carbon pseudohalogen bonds in organic molecules to activate them for the synthesis of new molecules. This elementary reaction between palladium and organohalides is a key step in cross-coupling reactions. Cross-coupling reactions are a mainstay of organic synthesis. However, controlling the selectivity of cross-couplings can be problematic when organic molecules contain multiple halogens. This work will enable understanding of how conditions influence the exact pathway by which palladium reacts, and this new understanding will have implications for controlling the reaction site when multiple carbon-halogen bonds are present on a molecule. In turn, this work will facilitate development of more efficient and selective methods for organic synthesis. As part of this project, an educational program will also be developed that focuses on facilitating visualization of organic reaction mechanisms in 3D space while also providing students with practical training in molecular modeling using computational tools.&lt;br/&gt;&lt;br/&gt;Sharon Neufeldt and her research team at the Montana State University are studying the mechanism of oxidative addition of (hetero)aryl (pseudo)halides to molecular Pd(0) species. At least two pathways are known to be relevant, and a central hypothesis of this work is that the dominant mechanism can be predicted based on palladium coordination number, ligand sterics and electronics, the structure of the organic electrophile, and other factors such as solvent polarity. Understanding these factors is expected to enable control of the mechanism, and the ability to predispose Pd toward one mechanism over the other can have broad implications for controlling chemo- and site-selectivity of cross-coupling reactions. The overall objective is divided into the following specific aims: (1) to develop a model for the influence of coordination number, substrate, ligand class, and solvent on the mechanism of oxidative addition; (2) to investigate the influence of nucleophilic coupling partner on oxidative addition; and (3) to develop new palladium(0) sources. This work will be accomplished through experimental and computational techniques including carbon kinetic isotope effect studies, reaction rate and selectivity studies, organometallic synthesis, and density functional theory calculations. This work is anticipated to improve understanding of how oxidative addition takes place in such Pd(0)/ArX systems. It will also provide a starting point for rationally engineering selectivity in cross-coupling reactions, thereby streamlining reaction optimization and improving synthesis design principles.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400070</AwardID>
+<Investigator>
+<FirstName>Sharon</FirstName>
+<LastName>Neufeldt</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sharon R Neufeldt</PI_FULL_NAME>
+<EmailAddress><![CDATA[sharon.neufeldt@montana.edu]]></EmailAddress>
+<NSF_ID>000784193</NSF_ID>
+<StartDate>03/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Montana State University]]></Name>
+<CityName>BOZEMAN</CityName>
+<ZipCode>59717</ZipCode>
+<PhoneNumber>4069942381</PhoneNumber>
+<StreetAddress><![CDATA[216 MONTANA HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EJ3UF7TK8RT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MONTANA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Montana State University]]></Name>
+<CityName>BOZEMAN</CityName>
+<StateCode>MT</StateCode>
+<ZipCode>597172470</ZipCode>
+<StreetAddress><![CDATA[328 MONTANA HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688400</Code>
+<Text>Chemical Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~190820</FUND_OBLG>
+</Award>
+</rootTag>

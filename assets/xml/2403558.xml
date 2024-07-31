@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Spectrification of Homology Theories in Low Dimensional Topology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>195118.00</AwardTotalIntnAmount>
+<AwardAmount>65040</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Swatee Naik</SignBlockName>
+<PO_EMAI>snaik@nsf.gov</PO_EMAI>
+<PO_PHON>7032924876</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Topology is the branch of mathematics that studies shapes of spaces. Knot theory is an important sub-field of topology where one studies one-dimensional objects inside three-dimensional spaces, for example, knotted pieces of strings inside the three-dimensional space that we live in. Knot theory is useful for a variety of applications, such as for studying DNA knotting, analyzing orbits in magnetic fields, or creating new data encryption schemes. One of the fundamental problems in knot theory is to study if a knot can be transformed into another without tearing or crossing itself; knot invariants are mathematical objects (such as numbers or groups) which one associates to knots which remain unchanged during such a transformation, and are therefore, widely used in knot theory. Occasionally, one imposes additional restrictions on the knots---if one imagines a knot to be a path traced out by a particle moving in the three-dimensional space, then these restrict the velocity of the particle depending on its position. Knots with such restrictions are called Legendrian knots, and these have many real-world applications as well, such as motion planning for robotics. The current topology project will focus on knot theory, and will create new knot and Legendrian knot invariants based on existing ones. Broader impacts of the project are through workshop organization, graduate student mentoring, undergraduate research, high school outreach, and the writing of a textbook for Directed Reading Programs.&lt;br/&gt;&lt;br/&gt;This project will concentrate on three families of modern knot and Legendrian knot invariants: Khovanov homology, knot Floer homology, and Legendrian contact homology. These invariants are all of the homological type, that is, they take the form of chain complexes whose chain homotopy types are (Legendrian) knot invariants. The project will construct and study spectrifications of these theories, which are cellular spaces whose cellular chain complex is the original chain complex, and whose stable homotopy type is also a (Legendrian) knot invariant. For the three families of invariants, three specific goals of the project are: to study the behavior of the odd Khovanov spectrum invariant under disjoint union, to prove that the knot Floer spectrum is a knot invariant, and to construct new Legendrian contact spectrum generalizing Legendrian contact homology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403558</AwardID>
+<Investigator>
+<FirstName>Sucharit</FirstName>
+<LastName>Sarkar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sucharit Sarkar</PI_FULL_NAME>
+<EmailAddress><![CDATA[sucharit@math.ucla.edu]]></EmailAddress>
+<NSF_ID>000648712</NSF_ID>
+<StartDate>05/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900244200</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress><![CDATA[10889 WILSHIRE BLVD STE 700]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA36</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RN64EPNH8JC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900951555</ZipCode>
+<StreetAddress><![CDATA[520 Portola Plaza]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126700</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~65040</FUND_OBLG>
+</Award>
+</rootTag>

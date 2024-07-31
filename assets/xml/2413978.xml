@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Research Coordination Network (RCN) for Privacy Preserving Data Sharing and Analytics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>490133.00</AwardTotalIntnAmount>
+<AwardAmount>490133</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Squicciarini</SignBlockName>
+<PO_EMAI>asquicci@nsf.gov</PO_EMAI>
+<PO_PHON>7032925177</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The advance of information technology, including artificial intelligence, has made the collection, analysis, and use of data central to research and economic activity. However, when those data are about people and what they do, there are risks to privacy that can grow with the sophistication of the analysis.  In response, the Future of Privacy Forum Education and Innovation Foundation (FPF) is convening a Research Coordination Network (RCN) for Privacy Preserving Data Sharing and Analytics.  The RCN is bringing together experts from academia, industry, and government to support the development, deployment, and scaling of Privacy Enhancing Technologies (PETs)—tools that allow for data analysis without sacrificing privacy.   While PETsthey can mitigate risk, there are many factors holding back these technologies’ widespread use.  One of the biggest stumbling blocks to the broader adoption of PETs in research is the current lack of clarity regarding how regulators will interpret and enforce privacy rules when organizations use them. The RCN is working to resolve this issue by bringing stakeholders together to discuss the use of PETs and explore how rules and standards can promote their appropriate use. &lt;br/&gt;&lt;br/&gt;The project team is convening a multidisciplinary, cross-sector, and international expert group of scholars and practitioners who focus on PETs development and use to understand the risks of data sharing and analytics for marginalized and vulnerable groups, along with civil rights and civil liberties writ large. This work is in direct response to recommendations from the National Strategy to Advance Privacy Preserving Data Sharing and Analytics. Further, the team is convening a secondary sub-network of high-level regulators from around the world that will inform and respond to the primary network, addressing the legal frameworks relevant to PETs adoption. With input from both groups, the project team is developing and disseminating new guidance to accelerate progress toward a privacy-preserving data-sharing and analytics ecosystem that advances democratic values and will foster convergence, characterize and strive to narrow persistent differences, and illuminate options to support broad deployment of PETs. The team is examining multiple mechanisms for this deployment, including via new technology, law and regulation, and/or standards and certifications. The team is particularly focused on use cases for PETs that support privacy-preserving machine learning and PETs that U.S. federal agencies may need to support the equitable use of AI.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413978</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Verdi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John Verdi</PI_FULL_NAME>
+<EmailAddress><![CDATA[jverdi@fpf.org]]></EmailAddress>
+<NSF_ID>000988703</NSF_ID>
+<StartDate>02/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>FPF Education and Innovation Foundation</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200054860</ZipCode>
+<PhoneNumber>2026429142</PhoneNumber>
+<StreetAddress>1350 EYE ST NW STE 350</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QB24LJLXJXM3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FPF EDUCATION AND INNOVATION FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QB24LJLXJXM3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[FPF Education and Innovation Foundation]]></Name>
+<CityName>WASHINGTON</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200056503</ZipCode>
+<StreetAddress><![CDATA[1400 I ST NW STE 450]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1640</Code>
+<Text>Information Technology Researc</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~490133</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation Potential of a Multimodal, Human-Robot Teaching-Learning-Collaboration Framework to Advance Manufacturing Flexibility and Productivity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Molly Wasko</SignBlockName>
+<PO_EMAI>mwasko@nsf.gov</PO_EMAI>
+<PO_PHON>7032924749</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is based on the development of innovative human teaching and robot learning methods aimed at advancing robot-assisted manufacturing systems to enhance manufacturing flexibility and productivity for stakeholders. The technology could mitigate the limitations of traditional robot programming and control approaches by developing an easy-to-use, teaching-learning-collaboration framework, in which the robot can be efficiently programmed by human demonstrations. This solution enables the human-robot dyad to act in a sociable partnership to facilitate semi-automation of customized, collaborative, industrial tasks, such as manufacturing and food processing. The solution is human-compatible and quickly transferable, allowing industry sectors to rapidly expand automation of their operations without long periods of implementation. &lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. The solution is based on the development of a multimodal, teaching-learning-collaboration framework for a robot to actively learn from human demonstrations and participate with humans in collaborative tasks. In this framework, the human worker can intuitively teach the robot to perform tasks using natural, multimodal information such as natural language, natural gesture information, gaze information, and vision sensing information. The manufacturing task operations can then be characterized through this multimodal information. The robot learns parameterized human demonstrations and builds task strategies using artificial intelligence-driven algorithms. The robot is then able to assist its human partner in shared tasks through its learned knowledge and the developed human-robot collaboration model. The solution could improve robot programming efficiency and collaboration quality for human-robot teams in smart manufacturing and other robot-assisted collaborative contexts.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2432565</AwardID>
+<Investigator>
+<FirstName>Weitian</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Weitian Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[wangw@montclair.edu]]></EmailAddress>
+<NSF_ID>000824745</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Montclair State University]]></Name>
+<CityName>MONTCLAIR</CityName>
+<ZipCode>070431624</ZipCode>
+<PhoneNumber>9736556923</PhoneNumber>
+<StreetAddress><![CDATA[1 NORMAL AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CM4TTRKFCLF9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MONTCLAIR STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Montclair State University]]></Name>
+<CityName>MONTCLAIR</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>070431624</ZipCode>
+<StreetAddress><![CDATA[1 NORMAL AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7632</Code>
+<Text>HUMAN-ROBOT INTERACTION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

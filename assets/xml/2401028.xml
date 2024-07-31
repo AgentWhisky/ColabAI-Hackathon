@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Integrated Wearable System for Management of Substance Use Disorder]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Molly Wasko</SignBlockName>
+<PO_EMAI>mwasko@nsf.gov</PO_EMAI>
+<PO_PHON>7032924749</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is the development of a neurotechnology that could improve the quality of life for individuals with substance use disorder (SUD) and other mental illnesses (e.g. post-traumatic stress disorder and major depression). This neurotechnology system could help individuals manage multiple mental illnesses, as well as the severity of the illness and provide continuous monitoring of mental health. The technology aims to help individuals with SUD manage their mental health in a personal manner, and simultaneously help clinicians by providing neurophysiological and psychophysical data to assist tele-prognosis and telediagnosis. Such devices can be used in-home and in medical centers, and as a wearable device for digital health, could inform clinicians about the management of SUD and optimal treatment options in real-time, real-world conditions. &lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of an integrated portable neurotechnology that is capable of management of substance use disorder (SUD) using wearable biosensors, including electrodermal activity (EDA) and electroencephalography (EEG) sensors. The system detects and modulates stress, a key trigger in substance abuse. This system will have four major components: (1) based on well documented negative effects of stress in SUD, detection of stress and emotional states recorded using EEG and EDA sensors; (2) machine-learning (ML) and artificial intelligence (AI) algorithms for improving the detection of stress, emotion and behavior; (3) neurofeedback using EEG sensors to measure, manage and modify brain activity and thus, associated behavior; and (4) a smartphone app that can provide a user-friendly and personalized graphical user interface for providing neurofeedback. The proposed technology could help individuals with SUD in an immediate and personal manner.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/25/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/25/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401028</AwardID>
+<Investigator>
+<FirstName>Ramana</FirstName>
+<LastName>Vinjamuri</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ramana Vinjamuri</PI_FULL_NAME>
+<EmailAddress><![CDATA[rvinjam1@umbc.edu]]></EmailAddress>
+<NSF_ID>000706893</NSF_ID>
+<StartDate>01/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Maryland Baltimore County]]></Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212500001</ZipCode>
+<PhoneNumber>4104553140</PhoneNumber>
+<StreetAddress><![CDATA[1000 HILLTOP CIR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RNKYWXURFRL5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND BALTIMORE COUNTY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland Baltimore County]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212500001</ZipCode>
+<StreetAddress><![CDATA[1000 HILLTOP CIR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Heavy Quarks: A Window Beyond the Standard Model at the LHC]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Shank</SignBlockName>
+<PO_EMAI>jshank@nsf.gov</PO_EMAI>
+<PO_PHON>7032924516</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Large Hadron Collider (LHC) probes unprecedented energy scales. Its primary mission, to push the frontier of high energy physics, has had enormous success with ATLAS and CMS’s discovery of the Higgs boson in 2012. The collaborations have amassed considerable data ten years after the Higgs discovery and are starting a new era of data collection. This award will support a new research group at Northern Illinois University working on the ATLAS experiment. The group will extend the current ATLAS search program for physics Beyond the Standard Model (BSM) with a novel Vector-Like Quark (VLQ) search and improve a classic analysis (with several top and bottom quarks in the final state) dedicated to heavy vector resonances predicted by a wide array of BSM theories. Both searches aim to tackle theories that, if confirmed, would be crucial to explaining the Standard Model’s known limitations. It also includes a significant participation in improving one of the trigger systems of ATLAS for the High-Luminosity LHC (HL-LHC), the global trigger. The global trigger is a vital part of the ATLAS detector that needs to be upgraded to maintain or improve the excellent trigger performance at the challenging HL-LC conditions. The global trigger is based on Field Programmable Gate Arrays (FPGAs) technology, which presents unique challenges. Implementing complex algorithms in FPGA is a fascinating problem with applications beyond HEP.&lt;br/&gt;&lt;br/&gt;The activities described in this proposal will be performed in the context of the ATLAS Collaboration, an international effort comprised of over 5000 members, physicists, engineers, technicians, and support staff. More than 183 institutions from 39 countries work together with a common goal. The research component is supported by a program of outreach activities focused on increasing particle physics (and STEM in general) exposure to non-physicists, with a dual Spanish-English approach that should be especially useful in approaching the Latino and Hispanic communities that&lt;br/&gt;remain underrepresented in physics research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411840</AwardID>
+<Investigator>
+<FirstName>Hector</FirstName>
+<LastName>de la Torre Perez</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hector de la Torre Perez</PI_FULL_NAME>
+<EmailAddress><![CDATA[hector.de.la.torre.perez@cern.ch]]></EmailAddress>
+<NSF_ID>000917162</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northern Illinois University]]></Name>
+<CityName>DEKALB</CityName>
+<ZipCode>601152828</ZipCode>
+<PhoneNumber>8157531581</PhoneNumber>
+<StreetAddress><![CDATA[1425 W LINCOLN HWY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>14</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL14</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M2EEE68GGCY9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHERN ILLINOIS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northern Illinois University]]></Name>
+<CityName>DEKALB</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>601152828</ZipCode>
+<StreetAddress><![CDATA[1425 W LINCOLN HWY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>14</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL14</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>122100</Code>
+<Text>HEP-High Energy Physics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~150000</FUND_OBLG>
+</Award>
+</rootTag>

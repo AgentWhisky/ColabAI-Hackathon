@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation potential of using machine learning to predict oxaliplatin chemotherapy benefit in early colon cancer]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is the development of a machine learning model to predict the efficacy of one type of chemotherapy, oxaliplatin, for colon cancer patients. Colorectal cancer is the third most common cancer and ranks second in cancer death. In 2020, the estimated incidences of colorectal cancer were 1.9 million, and these are expected to increase 60% by 2030. Most colon cancer patients receive post-surgery chemotherapy (adjuvant therapy) to prevent cancer recurrence. Oxaliplatin is the most widely used chemotherapy agent in colorectal cancers to prevent recurrence, accounting for around 10% of all cancer patients. However, more than half of the patients do not benefit from oxaliplatin. Instead, oxaliplatin leads to disabling and lasting neuropathy that deteriorates the patient's quality of life and results in substantial financial burdens ($18,000 per patient per year) due to treatments for unnecessary side effects. Accurately predicting oxaliplatin benefits may enable oncologists to choose among Food and Drug Administration-approved regimens to maximize efficacy and minimize adverse effects by limiting oxaliplatin to patients who likely will benefit. This solution may improve the outcomes for colon cancer patients receiving post-surgery adjuvant therapy worldwide.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. The solution is based on the development of a machine learning model using the colon cancer transcriptome as an input feature to predict the efficacy of oxaliplatin-based chemotherapy regimens for the treatment of colon cancer. Patients with resected high-risk stage II/III colon cancer usually receive a curative adjuvant chemotherapy to prevent recurrence. However, the chemotherapy, oxaliplatin, may lead to acute and chronic disabling peripheral neurotoxicity. The machine learning model was developed to predict the cancer cells’ drug sensitivity based on patient’s individualized transcriptomic data. In an effort to de-escalate chemotherapy and avoid unnecessary side effects, clinical trials were conducted to examine whether a shorter duration can maintain efficacy and yet reduce oxaliplatin-induced neurotoxicity. The model, referred to as the colon oxaliplatin signature model, was shown to be predictive of oxaliplatin benefits in the colon cancer adjuvant setting in a double-blinded clinical trial of 1,065 colon cancer patients with both transcriptomic data and survival outcomes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2425300</AwardID>
+<Investigator>
+<FirstName>Lujia</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lujia Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[luc17@pitt.edu]]></EmailAddress>
+<NSF_ID>000996422</NSF_ID>
+<StartDate>04/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Pittsburgh]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152600001</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress><![CDATA[4200 FIFTH AVENUE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MKAGLD59JRL1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF PITTSBURGH - OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pittsburgh]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152600001</ZipCode>
+<StreetAddress><![CDATA[4200 FIFTH AVENUE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6883</Code>
+<Text>CHEMISTRY OF LIFE PROCESSES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

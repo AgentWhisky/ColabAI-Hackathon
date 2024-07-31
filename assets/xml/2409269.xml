@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SaTC: CORE: Medium: Audacity of Exploration: Toward Automated Discovery of Security Flaws in Networked Systems through Intelligent Documentation Analysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>253352</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen Karavanic</SignBlockName>
+<PO_EMAI>kkaravan@nsf.gov</PO_EMAI>
+<PO_PHON>7032922594</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Specifications, developer guides and other documentations of networked systems (e.g., Internet applications, carrier networks) describe how these systems are designed, used and operate.  These documentations are important sources for understanding security weaknesses in these systems and have not been fully leveraged due to the difficulty in analyzing their imprecise, convoluted and ambiguous content. Project Audacity (AUtomated Documentation Analysis for seCurITY) aims at addressing the challenge for security weakness discovery and remedy. Its novelties are the development of innovative technologies to enable automated document analysis for security protection.  The project’s broader significance and importance include transferring the technologies to industry, involving members from under-represented groups in the project and disseminating outcomes through K9-12 outreach and community services. &lt;br/&gt;&lt;br/&gt;The project focuses on mitigating security risks of both design flaws and implementation vulnerabilities in networked systems, through automatically recovering security-related information (e.g., models, security properties) and confusing descriptions (e.g., inconsistent statements) from documentations to evaluate their security implications (e.g., verification of system designs, validation of predicted weaknesses on system implementations). This purpose is served by novel techniques based upon machine learning and natural language processing for analyzing different types of documentations, such as those for payment, single-sign-on, and for the 3rd Generation Partnership Project or 3GPP. Examples of such techniques include sentiment analysis for finding the statements related to security requirements and a similarity and differential analysis that compares different statements about similar security-critical operations to capture inconsistency.  Furthermore, the project studies emerging techniques such as service syndication through comparing the documentations of different services and the 3GPP ecosystem from analyzing its public text data for risk measurement, identification and mitigation.  This work complements program analysis to help enhance the security quality of networked systems, contributing to a better procedure and ecosystem that make security-critical documentations more precise, more consistent and less error-prone.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409269</AwardID>
+<Investigator>
+<FirstName>Feng</FirstName>
+<LastName>Qian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Feng Qian</PI_FULL_NAME>
+<EmailAddress><![CDATA[fengqian@usc.edu]]></EmailAddress>
+<NSF_ID>000787087</NSF_ID>
+<StartDate>04/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900890701</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress><![CDATA[3720 S FLOWER ST FL 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900894304</ZipCode>
+<StreetAddress><![CDATA[3720 S FLOWER ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>806000</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~253352</FUND_OBLG>
+</Award>
+</rootTag>

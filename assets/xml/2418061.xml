@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Study of the Optical Properties of Dielectric Particles with Surface Roughness and Inhomogeneous Inclusions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>699314.00</AwardTotalIntnAmount>
+<AwardAmount>699314</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicholas Anderson</SignBlockName>
+<PO_EMAI>nanderso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924715</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The scattering of light by particles in the atmosphere has a significant impact on remote sensing and numerical modeling.  While there has been significant progress made in the understanding of light scattering by particles of different sizes and shapes, there is still significant uncertainty introduced when those particles are inhomogeneous or roughened, such as in cases with coated dust particles.  This award will advance a methodology that will improve light-scattering modeling capabilities through new approaches that will allow for the consideration of the effect of non-sphericity and inhomogeneity on particle optical properties.  The results of the research will not only be important for atmospheric applications, but potentially for bio-optics, planetary science, astrophysics, and ocean sciences.  The project will include training of an early-career researcher and graduate student in light scattering research.&lt;br/&gt;&lt;br/&gt;Prior studies have found that the surface roughness and inhomogeneity of particles have a non-negligible impact on particle optical properties and will inevitably introduce large uncertainties to downstream applications such as remote sensing and radiative transfer simulations in climate studies. However, the current light-scattering modeling approaches are far less accurate and far more inefficient than they need to be for obtaining realistic optical properties. The primary goal of this award is to develop light-scattering modeling capabilities for inhomogeneous and roughened particles with small-to-large sizes and arbitrary shapes. The first major objective is to develop an analytical solution for two-layer spheroids. The second major objective is to modify/improve the invariant imbedding T-matrix method (IITM) – physical-geometric optics model (PGOM) approach and make it more accurate and efficient for particles with roughened surfaces and other inhomogeneities. The new model will be used to study the hypothesis that particle microscopic surface roughness and ensemble-averaged macroscopic shape irregularity, if appropriately defined, have the same effect on optical properties.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/30/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418061</AwardID>
+<Investigator>
+<FirstName>Ping</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ping Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[pyang@tamu.edu]]></EmailAddress>
+<NSF_ID>000493298</NSF_ID>
+<StartDate>05/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas A&M University]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress><![CDATA[400 HARVEY MITCHELL PKY S STE 30]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JF6XLNB4CDJ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A &amp; M UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M University]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778433150</ZipCode>
+<StreetAddress><![CDATA[3150 TAMU]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152500</Code>
+<Text>Physical &amp; Dynamic Meteorology</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~699314</FUND_OBLG>
+</Award>
+</rootTag>

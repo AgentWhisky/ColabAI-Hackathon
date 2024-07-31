@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Impulse Response Analysis for Nonlinear Structural VARs]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>188548.00</AwardTotalIntnAmount>
+<AwardAmount>188548</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kwabena Gyimah-Brempong</SignBlockName>
+<PO_EMAI>kgyimahb@nsf.gov</PO_EMAI>
+<PO_PHON>7032927466</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Understanding the dynamic response of economic outcomes to a variety of changes is crucial for studying fluctuations in economic activity and designing fiscal or monetary actions aimed at reducing these fluctuations. This Award funds a research project that will develop econometric methods to estimate the impulse response function that are central to the study of how the economy responds to various changes in nonlinear environments.  The research project will also illustrate the performance of the estimators in large and small samples. The results of this research  will provide empirical researchers with a general framework for the estimation of dynamic responses in many environments. The research will also develop a statistical software to implement the new estimation method. In addition to its contribution to econometric methods, the results of this research will improve macroeconomic decision making, which will reduce economic fluctuations, increase economic growth, and improve the living standards of citizens. &lt;br/&gt; &lt;br/&gt;&lt;br/&gt;This award funds a research project that will contribute to the literature on impulse response functions in a large class of nonlinear structural VARs (SVARs). This study will discuss different notions of impulse response functions, study the validity and performance of local projections, and propose new estimation methods for the average impulse response function and the conditional average response function. The project will develop nonparametric estimation methods that allow researchers to be agnostic about the functional form in models with nonlinear regressors, the process driving the switch between states in state-dependent models and the form of interactions between shocks and initial economic conditions in models with interactions. It will also develop estimation methods for time-varying SVAR models and state-dependent FAVAR models.  The project will also develop an econometric software to implement the new method. Besides improving estimation of structural VAR models, the results of this research will improve macroeconomic decision making, which will reduce economic fluctuations, increase economic growth, and improve the living standards of citizens.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/27/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417535</AwardID>
+<Investigator>
+<FirstName>Elena</FirstName>
+<LastName>Pesavento</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elena Pesavento</PI_FULL_NAME>
+<EmailAddress><![CDATA[epesave@emory.edu]]></EmailAddress>
+<NSF_ID>000490375</NSF_ID>
+<StartDate>06/27/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Emory University]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303221061</ZipCode>
+<PhoneNumber>4047272503</PhoneNumber>
+<StreetAddress><![CDATA[201 DOWMAN DR NE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>S352L5PJLMP8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EMORY UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Emory University]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303221061</ZipCode>
+<StreetAddress><![CDATA[1602 Fishburne drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>132000</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~188548</FUND_OBLG>
+</Award>
+</rootTag>

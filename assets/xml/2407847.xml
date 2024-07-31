@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Bifurcation and Stability in Rotating Fluids and Galactic Structures]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>189689.00</AwardTotalIntnAmount>
+<AwardAmount>189689</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitry Golovaty</SignBlockName>
+<PO_EMAI>dgolovat@nsf.gov</PO_EMAI>
+<PO_PHON>7032922117</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Many galaxies in the universe are elliptical in shape or have spiral arms. The density distribution of stars in these galaxies breaks the circular symmetry. However, the fundamental mechanism for symmetry breaking in galactic dynamics is not well understood mathematically. One does not know why a symmetry breaking density distribution of stars can persist, nor how they can emerge out of a circular distribution via instabilities of the dynamics. These questions were studied by astrophysicists via numerical simulations and analysis of toy models. The PI advances the knowledge on these problems by carrying out general mathematical analysis of the basic governing equations. On a related front, the principal investigator (PI) focuses on the more compact object of a rotating neutron star or a rotating binary star system. He studies these systems by constructing new solutions to fluid models coupled with Einstein’s general theory of relativity. During the course of these investigations, the PI actively creates questions and mini projects accessible to graduate students at the University of Oklahoma (OU). He also develops lecture series, topics courses, and student seminar talks at OU to disseminate new ideas as well as background knowledge related to the project and mathematical astrophysics in general. The PI works with the OU Association for Women in Mathematics, OU Math Day, Norman Math Circle and other local organizations to further the impact of the project, and to generate interest for math and science in the next generation of students in the Norman and southern Oklahoma area.&lt;br/&gt; &lt;br/&gt;The current project aims at studying the existence and stability of steady state solutions to various models of rotating stars and galaxies. These include the Euler-Poisson and Vlasov-Poisson equations, which are fluid and kinetic models of a self-gravitating gas under Newtonian gravity, and the Euler-Einstein equations, which is a fluid model of rotating stars in general relativity. In order to provide descriptions for disc galaxies, the PI studies 2D solutions to the Newtonian models. In comparison with the well-studied 3D solutions, the 2D equations involve non-local operators and their theory is completely missing in the mathematical literature. The PI uses calculus of variations and continuation methods to construct steady 2D solutions, and study their stability using the theory of separable Hamiltonian PDEs as well as equivalent higher order scalar equations. In the process, the emphasis is placed on finding solutions that break axisymmetry, providing models of elliptical and spiral galaxies. This is another feature that is completely lacking in the available mathematical literature. In a different direction, the PI constructs steady solutions of the Euler-Einstein equations that model rotating neutron stars. Previous results treat the solutions as a small perturbation of a non-rotating Newtonian star, and is only valid in the near Newtonian limit of the Einstein equations. The PI solves the full relativistic problem by perturbing a non-rotating relativistic star. Moreover, the PI constructs solutions modeling binary star systems to both the Newtonian and relativistic equations. He aims at creating initial data sets satisfying the constraint equations, which provides basis for future development of binary stars in general relativity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407847</AwardID>
+<Investigator>
+<FirstName>Yilun</FirstName>
+<LastName>Wu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yilun Wu</PI_FULL_NAME>
+<EmailAddress><![CDATA[allenwu@ou.edu]]></EmailAddress>
+<NSF_ID>000735743</NSF_ID>
+<StartDate>07/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Oklahoma Norman Campus]]></Name>
+<CityName>NORMAN</CityName>
+<ZipCode>730193003</ZipCode>
+<PhoneNumber>4053254757</PhoneNumber>
+<StreetAddress><![CDATA[660 PARRINGTON OVAL RM 301]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OK04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EVTSTTLCEWS5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF OKLAHOMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Oklahoma Norman Campus]]></Name>
+<CityName>NORMAN</CityName>
+<StateCode>OK</StateCode>
+<ZipCode>730193003</ZipCode>
+<StreetAddress><![CDATA[660 PARRINGTON OVAL RM 301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OK04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125300</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~189689</FUND_OBLG>
+</Award>
+</rootTag>

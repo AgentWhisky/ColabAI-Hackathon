@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: PBI: Collaboration Patterns and Socio-Economic Impacts Analysis in Emerging Science and Technology with Machine Learning Algorithms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rebecca Shearman</SignBlockName>
+<PO_EMAI>rshearma@nsf.gov</PO_EMAI>
+<PO_PHON>7032927403</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Scientific and Technological (S&amp;T) advancements often originate and are propelled by a select group of Leading Organizations (LO) and their Contributing Partners (CP). The success of these advancements hinges on collaborations at regional, national, and international levels. The NSF Regional Innovation Engines (NSF Engines) program underscores the importance of understanding the historical context of such S&amp;T developments. It is essential to identify key collaboration patterns during the emergence of new primary technological areas. Additionally, using these insights to proactively assess and forecast the future societal and economic impacts of S&amp;T advancements is a critical and urgent research challenge. This project is suitable for EAGER funding because it: 1) Provides early estimates of the effort and investment required to transition emerging technology areas from research and development to productive stages at various LOs and CPs. 2) Proposes an effective Machine Learning (ML) approach to evaluate societal and economic effects, taking into account the locations of the LOs and CPs and their historical collaborations. 3) Introduces interdisciplinary, data-driven solutions to monitor Workforce Development (WFD) in technology sectors, utilizing a combination of traditional data collection methods and crowdsourcing.&lt;br/&gt;&lt;br/&gt;The objective of this project is to collect and analyze extensive academic data from various heterogeneous sources to derive more representative embeddings of collaboration patterns between the NSF Engines' Leading Organizations (LOs) and their Contributing Partners (CPs). This analysis aims to forecast the potential economic and societal impacts on regional areas. The goal is to develop a range of graph mining and machine learning techniques to enhance the understanding of these collaboration patterns and predict future trends in Workforce Development. This project encompasses three primary initiatives: 1) Forecasting Emergence in Science and Technology (S&amp;T) Areas Using Multimodal Machine Learning: This initiative involves leveraging machine learning to evaluate the potential of various technology areas, transforming early-stage experimental concepts into transformative research products with wide-ranging applications. 2) Evaluating the Societal and Economic Impact of Leading Research Organizations Regionally with Deep Graph Neural Networks: By utilizing geolocation data and historical research collaboration records, this objective introduces an innovative approach using graph neural networks. This method aims to model the science and technology trends of leading organizations and assess their societal and economic impacts at regional and national levels. 3) A Data-Driven Hybrid Approach to Monitor Workforce Development Demographics: This project suggests combining interactive, data-driven methods with traditional data collection techniques to track the career development of individuals involved in these technology areas. The research goals outlined in this project are inherently interdisciplinary, requiring seamless collaboration among computer scientists, sociologists, and economists. The developed technical approaches will make significant research contributions to the fields of spatial data mining, graph neural networks, and S&amp;T trends and impact predictions. These efforts will be particularly beneficial in light of the recent NSF Engines initiative.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2431845</AwardID>
+<Investigator>
+<FirstName>Weiwei</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Weiwei Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[Weiwei.Zhang@sdstate.edu]]></EmailAddress>
+<NSF_ID>000712158</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kaiqun</FirstName>
+<LastName>Fu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kaiqun Fu</PI_FULL_NAME>
+<EmailAddress><![CDATA[kaiqun.fu@sdstate.edu]]></EmailAddress>
+<NSF_ID>000854645</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Evert</FirstName>
+<LastName>Van der Sluis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Evert Van der Sluis</PI_FULL_NAME>
+<EmailAddress><![CDATA[evert.vandersluis@sdstate.edu]]></EmailAddress>
+<NSF_ID>000993152</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Taoran</FirstName>
+<LastName>Ji</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Taoran Ji</PI_FULL_NAME>
+<EmailAddress><![CDATA[taoran.ji@tamucc.edu]]></EmailAddress>
+<NSF_ID>000996192</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[South Dakota State University]]></Name>
+<CityName>BROOKINGS</CityName>
+<ZipCode>570070001</ZipCode>
+<PhoneNumber>6056886696</PhoneNumber>
+<StreetAddress><![CDATA[940 ADMINISTRATION LN]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Dakota</StateName>
+<StateCode>SD</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SD00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DNZNC466DGR7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOUTH DAKOTA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[South Dakota State University]]></Name>
+<CityName>BROOKINGS</CityName>
+<StateCode>SD</StateCode>
+<ZipCode>570070001</ZipCode>
+<StreetAddress><![CDATA[940 ADMINISTRATION LN]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Dakota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SD00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>301Y00</Code>
+<Text>NSF Engines - Type 2</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01AC2324DB</Code>
+<Name><![CDATA[R&RA DRSA DEFC AAB]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

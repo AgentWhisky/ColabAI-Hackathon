@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Enhancing Energy Efficiency in Mobile Augmented Reality Apps]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>576099.00</AwardTotalIntnAmount>
+<AwardAmount>123918</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniel Andresen</SignBlockName>
+<PO_EMAI>dandrese@nsf.gov</PO_EMAI>
+<PO_PHON>7032922177</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Mobile Augmented Reality (MAR) apps leverage the camera of mobile devices to augment the real user environment with a set of virtual objects. Users can thus achieve a high level of engagement by interacting with the augmented environment through the mobile user interface. Typical MAR apps require executing several compute-intensive tasks to render virtual objects and, using Artificial Intelligence (AI), analyze the environment. However, due to their relatively small form factor, mobile devices only have limited computing resources and energy available for the MAR app execution, which may lead to short battery life and poor user experience. To ensure the future success of MAR, it is thus important not only to conduct novel research on how to enable high energy efficiency in MAR apps but also to educate the future workforce in the best practices for energy efficient mobile software design. To achieve these goals, this project will propose an edge-assisted and energy-efficient framework for MAR apps. Specifically, the project designs runtime algorithms that (1), on each mobile device, control user-perceived performance and energy consumption by manipulating virtual object quality, AI-model complexity, and AI-task allocation on the heterogeneous computing resources, (2), on the supporting edge servers, ensure scalability by grouping similar virtual object decimation requests for minimized cross-user performance cost under limited edge computing and storage resources, and (3) will be implemented and tested on a physical testbed.&lt;br/&gt;&lt;br/&gt;By providing a framework that makes MAR apps more energy-efficient, this project will help speed up the adoption of augmented reality in many different key sectors of modern society, such as education and workforce training, and will unlock the full potential of new technologies such as augmented remote meetings and augmented experiences in public places. The project will also result in the creation of new graduate-level courses to educate the future workforce on energy-efficient mobile resource management, new research opportunities for undergraduate students, and new summer camps for K12 students. The course material will be made available to other universities interested to introduce similar courses, projects, and summer camps. The results of this project will be disseminated through publications in top-tier conferences and journals. Similarly, all the source code of the proposed algorithms will be made available as open source.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421244</AwardID>
+<Investigator>
+<FirstName>Marco</FirstName>
+<LastName>Brocanelli</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marco Brocanelli</PI_FULL_NAME>
+<EmailAddress><![CDATA[brocanelli.1@osu.edu]]></EmailAddress>
+<NSF_ID>000787628</NSF_ID>
+<StartDate>02/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University</Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress>1960 KENNY RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~123918</FUND_OBLG>
+</Award>
+</rootTag>

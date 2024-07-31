@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: Superfluid investigation of topological superconductor candidates at low millikelvin with controlled disorders]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>246390.00</AwardTotalIntnAmount>
+<AwardAmount>246390</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mun Chan</SignBlockName>
+<PO_EMAI>mchan@nsf.gov</PO_EMAI>
+<PO_PHON>7032927104</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Non-technical description:&lt;br/&gt;Fault-tolerant topological quantum information technology promises a breakthrough in the fidelity issue in various nano-scale quantum devices, and the Majorana fluid plays a central role in this research effort. While the Majorana fluid emerging in the nanodevices can be used to realize topological quantum technology, the nature of observed signatures in such devices remains controversial. This LEAPS-MPS project focuses on (i) investigating the single-crystal topological superconductor that intrinsically harbors the Majorana surface fluid and (ii) incorporating relevant quantum materials research into various education activities. In particular, the project team is investigating the fundamental properties of topological superconductor candidates by measurements of London penetration depth and the superfluid density down to near absolute zero, which provides key information for the mechanism of topological superconductivity. The research topics are directly incorporated into education by offering research opportunities to undergraduate students and various outreach activities for K-12 students. The PI collaborates with Missouri S&amp;T’s Kummer Center for STEM Education to host summer STEM events for area students in underrepresented groups. The PI also promotes quantum materials research to undergraduate students in the historically minority-serving Lincoln University of Missouri. The PI expands the existing partnership with minority-serving institutions and organizations in Missouri by incorporating quantum materials research and quantum computing science into various education activities. The LEAPS-MPS project grows the Missouri S&amp;T's influence on underrepresented groups to encourage their entry into STEM education and careers.&lt;br/&gt;&lt;br/&gt;Technical description:&lt;br/&gt;The elusive Majorana fluid emerges on certain surfaces of a bulk topological superconductor, and the symmetry of its superconducting energy gap determines the Majorana-harboring surface. While there are a number of topological superconductor candidates, the gap symmetry in the proposed topological superconductors remains controversial. In this project, the research team will synthesize single crystals of various topological superconductor candidates and employ a low-millikelvin radio-frequency self-oscillator technique to investigate the superconducting energy gap in proposed topological superconductor candidates. The ultimate goal of this project is to confirm and identify the topological superconducting phase in the proposed materials. The rf-technique is implemented in a commercial dilution refrigerator and determines the temperature- and field-dependent London penetration depth at low-millikelvin temperature ranges, from which the superfluid density is subsequently determined. The possible symmetry of the superconducting energy gap is deduced from the measured penetration depth. Potential ambiguity in the gap symmetry due to the presence of disorder in as-grown single crystal samples is eliminated by introducing controlled disorders with various irradiation methods including gamma-ray and neutron. The irradiation is performed at the research reactor at Missouri S&amp;T. Successful completion of this project enables highly efficient and focused investigation of the Majorana fluid.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418630</AwardID>
+<Investigator>
+<FirstName>Hyunsoo</FirstName>
+<LastName>Kim</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hyunsoo Kim</PI_FULL_NAME>
+<EmailAddress><![CDATA[hyunsoo.kim@mst.edu]]></EmailAddress>
+<NSF_ID>000859461</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Missouri University of Science and Technology]]></Name>
+<CityName>ROLLA</CityName>
+<ZipCode>654091330</ZipCode>
+<PhoneNumber>5733414134</PhoneNumber>
+<StreetAddress><![CDATA[300 W. 12TH STREET]]></StreetAddress>
+<StreetAddress2><![CDATA[202 CENTENNIAL HALL]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y6MGH342N169</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Missouri University of Science and Technology]]></Name>
+<CityName>ROLLA</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>654091330</ZipCode>
+<StreetAddress><![CDATA[300 W. 12TH STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>217Y00</Code>
+<Text>LEAPS-MPS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~246390</FUND_OBLG>
+</Award>
+</rootTag>

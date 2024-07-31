@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: DESC: Type III: A Holistic AI Computing Framework: Incorporating the Water and Biodiversity Dimensions of Sustainability]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>99992.00</AwardTotalIntnAmount>
+<AwardAmount>99992</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Fowler</SignBlockName>
+<PO_EMAI>jafowler@nsf.gov</PO_EMAI>
+<PO_PHON>7032928910</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Artificial intelligence (AI) promises to enable scientific understanding of environmental-sustainability issues and can aid in developing strategies that reduce environmental impacts of computing. However, the rapid expansion of AI comes with risks as the potential environmental-sustainability benefits are countered by the impacts from the computing of the AI solutions themselves; these include increased energy, materials, and water consumption due to substantial computing demands. Meanwhile, environmental sustainability is multi-dimensional and current challenges include climate change, water scarcity, and multiple threats to biodiversity. Recognizing this complexity, this project comprises a workshop focused on a holistic AI computing framework composed of two aspects: (1) assessing environmental impact globally, encompassing water, biodiversity, and climate (carbon emissions); and (2) examining both the positive and negative impacts of AI on these outcomes. Broader-impacts aspects of the the workshop include the further developing of research capacity through cross-institutional collaborations seeded among the participants as well as student training in environmentally-sustainable AI computing.&lt;br/&gt;&lt;br/&gt;The workshop aims to empower participants to address the grand challenges in sustainable AI computing, including new metrics and models for sustainability, integrating sustainability as an optimization criterion, hardware architectural design for sustainability, and sustainability-aware software-systems design. As tackling these challenges necessitates a quantitative methodology for environmental impacts, discussions will focus on applying life-cycle assessment (LCA), with an emphasis on anticipatory LCA, to AI computing. Anticipatory LCA models earlier stage technologies, enhancing the ability to make modifications that benefit environmental sustainability. The outcomes of this workshop will develop actional strategies to mitigate water scarcity, threats to biodiversity, and climate change for AI computing, with a global impact on human well-being.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413870</AwardID>
+<Investigator>
+<FirstName>Yi</FirstName>
+<LastName>Ding</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yi Ding</PI_FULL_NAME>
+<EmailAddress><![CDATA[yiding@purdue.edu]]></EmailAddress>
+<NSF_ID>000942080</NSF_ID>
+<StartDate>04/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Inez</FirstName>
+<LastName>Hua</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Inez Hua</PI_FULL_NAME>
+<EmailAddress><![CDATA[hua@ecn.purdue.edu]]></EmailAddress>
+<NSF_ID>000458091</NSF_ID>
+<StartDate>04/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE STE 1900]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>242Y00</Code>
+<Text>Sustainability in Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~99992</FUND_OBLG>
+</Award>
+</rootTag>

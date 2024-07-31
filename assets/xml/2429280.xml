@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: In-plane Epitaxial Two-Dimensional Chalcogenide Quantum Dots for Tunable Quantum Photonics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>310520.00</AwardTotalIntnAmount>
+<AwardAmount>310520</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yaroslav Koshka</SignBlockName>
+<PO_EMAI>ykoshka@nsf.gov</PO_EMAI>
+<PO_PHON>7032924986</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical description&lt;br/&gt;Quantum confined structures such as quantum wells and quantum dots (QDs) are a key element in a majority of modern electronic and opto-electronic devices ranging from lasers to high-speed photodetectors, and more recently in quantum information sciences where quantum dots form the basis for spin-qubits or quantum light sources. While III-V and II-VI semiconductors have been researched extensively over the years and offer promise to applications, their widespread utility is limited by challenges associated with light extraction from the material and ability to integrate with a silicon platform. The emergence of two-dimensional (2D) materials has revolutionized the conception and design of electronic heterostructures from that of buried interfaces within lattice matched III-V multi-layer structures to atomically thin van der Waals stacks with arbitrary control over stacking. The project takes this concept further to develop 2D analogues of QD structures via the fabrication of compositionally modulated dots with deep-subwavelength (&lt; 20 nm) dimensions embedded within atomically thin monolayer transition metal dichalcogenide sheets that can be easily integrated into device structures. The research investigates controlled synthesis of the 2D QD structures with varying composition; atomic-scale analysis of structure, chemistry, and defects; and exploration of their electronic and nanophotonic properties. The project forms the thesis research of two Ph.D. students who are co-advised by the principal investigators (PIs). Undergraduate students from the PIs and partner institutions participate in the research during the academic year or through summer research programs. Graduate and undergraduate students are exposed to a rich collaborative research environment through interactions and internships with researchers at government lab facilities. &lt;br/&gt;&lt;br/&gt;Technical description&lt;br/&gt;The development of bright, tunable, easy to scale and integrate quantum light courses stands as a paramount objective for applications ranging from quantum information processing to quantum sensing and metrology. Quantum dots (QDs) and defect emitters are particularly promising candidates for scalable quantum systems since they are based on a semiconductor platform which leverages existing infrastructure. Quantum emitters based on 2D transition metal dichalcogenides (TMDs) are of particular interest due to their ultra-thin nature and van der Waals bonding, which enables high light extraction efficiency and hetero-integration via layer stacking. Approaches pursued thus far to achieve quantum emission from 2D TMDs include controlled defect/impurity introduction, strained nanostructured surfaces and twisted bilayers. This project focuses on the development of a new class of 2D quantum emitters based on in-plane 2D TMD quantum dots embedded within wafer-scale continuous monolayer sheets. The research focuses on two dot/matrix combinations: MoSe2/WSe2 and MoS2/WS2 (Type II band alignment) and MoSe2/WS2 and ReS2/MoS2 (possible Type I alignment). The work encompasses studies of TMD epitaxy on single crystal substrates focused on tuning the size, shape, density and uniformity of dots and the dot/matrix interface providing insights into the fundamental mechanisms of TMD nucleation, lateral growth and heterointerface structure. Comprehensive exploration of the electronic and optical properties of the samples enables new insights into exciton confinement and charge transfer in in-plane heterostructures. A combination of scanning probe based near-field electronic (surface potential and conductance mapping) and optical techniques (Raman and photoluminescence (PL)) are used in conjunction with far-field spectroscopy (reflectance, ellipsometry and PL) and gated measurements to determine the nature of band alignment and exciton confinement in these heterostructures. The project provides fundamental insights into quantum confinement in in-plane TMD heterostructures and lays the groundwork for future development of TMD QDs monolayers for quantum light emission.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2429280</AwardID>
+<Investigator>
+<FirstName>Joan</FirstName>
+<LastName>Redwing</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joan Redwing</PI_FULL_NAME>
+<EmailAddress><![CDATA[jmr31@psu.edu]]></EmailAddress>
+<NSF_ID>000214798</NSF_ID>
+<StartDate>07/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168021503</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPM2J7MSCF61</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE PENNSYLVANIA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>168021503</ZipCode>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177500</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~310520</FUND_OBLG>
+</Award>
+</rootTag>

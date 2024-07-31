@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Robot-induced personalized ground stiffness perturbations for long-term gait adaptation and rehabilitation after stroke]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>486830.00</AwardTotalIntnAmount>
+<AwardAmount>486830</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steve Zehnder</SignBlockName>
+<PO_EMAI>szehnder@nsf.gov</PO_EMAI>
+<PO_PHON>7032927014</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project addresses the critical challenge of improving gait rehabilitation for stroke survivors, who often face long-term disabilities that significantly impact their quality of life. Current rehabilitation methods, which are typically repetitive and generic, offer limited effectiveness. This research introduces an innovative robotic intervention using the Variable Stiffness Treadmill 2 (VST 2), which can adjust the walking surface's stiffness to enhance balance, propulsion, and symmetry in gait. By developing a comprehensive and personalized gait model, the project aims to tailor rehabilitation strategies to individual characteristics, potentially revolutionizing gait therapy with long-lasting benefits. The project's broader impacts include advancing our understanding of motor adaptation and learning in human gait, which can be applied to various fields such as orthotics, prosthetics, and robotic walkers. Additionally, the research will establish practical guidelines for clinical settings to improve stroke rehabilitation outcomes. The project also emphasizes education and training for underrepresented high school and college students through annual design competitions and summer internships, fostering diversity in the field. All generated materials and models will be openly shared with the scientific community, promoting reproducibility and further research. &lt;br/&gt;&lt;br/&gt;The primary goal of this project is to enhance post-stroke gait recovery by improving balance, propulsion, and symmetry. The scope of the project includes utilizing the Variable Stiffness Treadmill 2 (VST 2), which introduces unilateral and bilateral perturbations to the walking surface's vertical stiffness. Using a Nonlinear Model Predictive Control (NR-MPC) approach, a multi-layer neuromuscular model that captures long-term motor adaptations in human gait will be developed. This model will guide the creation of personalized intervention protocols tailored to individual patient characteristics. Methodologically, the project will involve testing the VST 2 and the neuromuscular model on both healthy subjects and hemiplegic stroke survivors. For stroke patients, the model will be customized to generate optimized perturbations aimed at promoting specific long-term rehabilitation outcomes. These interventions will be evaluated on stroke subjects, focusing on metrics such as increased propulsion, improved balance, and enhanced gait symmetry. The potential contributions of this project to science and engineering include a deeper understanding of motor adaptation and learning in human gait, advancements in personalized rehabilitation techniques, and the development of innovative technologies applicable to orthotics, prosthetics, and robotic assistance devices. This research has the potential to significantly impact clinical practices and improve the quality of life for individuals with gait impairments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415093</AwardID>
+<Investigator>
+<FirstName>Panagiotis</FirstName>
+<LastName>Artemiadis</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Panagiotis K Artemiadis</PI_FULL_NAME>
+<EmailAddress><![CDATA[partem@udel.edu]]></EmailAddress>
+<NSF_ID>000610322</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName>NEWARK</CityName>
+<ZipCode>197160099</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress><![CDATA[220 HULLIHEN HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DE00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T72NHKM259N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF DELAWARE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName>NEWARK</CityName>
+<StateCode>DE</StateCode>
+<ZipCode>197160099</ZipCode>
+<StreetAddress><![CDATA[220 HULLIHEN HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DE00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>534200</Code>
+<Text>Disability &amp; Rehab Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~486830</FUND_OBLG>
+</Award>
+</rootTag>

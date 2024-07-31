@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Fundamental Study and Modeling of Pressure-Tolerant Power Electronics Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>399680.00</AwardTotalIntnAmount>
+<AwardAmount>399680</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mahesh Krishnamurthy</SignBlockName>
+<PO_EMAI>mkrishna@nsf.gov</PO_EMAI>
+<PO_PHON>7032928359</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Proliferating blue technology systems, such as offshore subsea energy systems, remotely-operated and autonomous underwater vehicles, ocean exploration systems, and subsea oil extraction, greatly benefit from electric power processing units positioned underwater close to electrical loads. The use of thick metal Pressure-Tolerant Cylinders (PTCs) is the prevailing method to enclose electronic circuits and shield them from hundreds of bars of surrounding hydrostatic pressure while maintaining one bar inside. This approach has numerous weaknesses, including high cost, buoyancy problems, complicated cooling, frequent maintenance, and implosion or leaks due to penetrators and connectors. Exposing bulky power electronic components and systems to the surrounding pressure would solve these drawbacks, but the present knowledge of electronic components and systems operating under extreme hydrostatic pressure is insufficient and unsystematic. Moreover, pressure-instigated high failure rates and parameter drifting of critical filtering devices (electrolytic/film capacitors and inductors) require rethinking the traditional power converter topologies for pressure-tolerant operation.&lt;br/&gt;This research proposes a systematic fundamental study of electrical components and system behavior at high hydrostatic pressure. Researchers will focus on developing a test methodology, understanding fundamental electrical, thermal, and pressure relationships, and establishing critical models to describe the impact of pressure and pressure-compensated environments on power components and systems. The study will jointly treat electrical, thermal, and pressure-related factors and utilize derived models to design, build, and test three exemplary power conversion units in a pressure-compensated environment. The research focuses on critical passive power components (inductors and capacitors) and switches, particularly emerging high-power Wide Bandgap semiconductors. This will reduce the cost of underwater energy systems, improve reliability and efficiency, and simplify cooling and maintenance, simultaneously benefiting marine exploration by accelerating the deployment of reliable and lower-cost underwater test stations, habitats, vehicles, and microgrids. Four critical research questions will be addressed: i) identifying hardware resources and critical electric test procedures for component parameter evaluation at hydrostatic pressure up to 10,000 psi (1 psi = 6895 Pa), ii) deriving analytical and empirical electro-thermal-pressure models of selected power electronic components, iii) understanding pressure-induced deterioration and fault mechanisms, and iv) setting guidance for component packaging, material selection, and converter topologies with a practical demonstration on selected power conversion systems. Experimental validation will be at pressures up to 10,000 psi, effectively covering the operating conditions of ~99% of all Earth's oceans, seas, and lakes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402467</AwardID>
+<Investigator>
+<FirstName>Gracious</FirstName>
+<LastName>Ngaile</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gracious E Ngaile</PI_FULL_NAME>
+<EmailAddress><![CDATA[gngaile@unity.ncsu.edu]]></EmailAddress>
+<NSF_ID>000274445</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Hopkins</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Douglas C Hopkins</PI_FULL_NAME>
+<EmailAddress><![CDATA[dchopkins@ncsu.edu]]></EmailAddress>
+<NSF_ID>000665175</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zeljko</FirstName>
+<LastName>Pantic</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zeljko Pantic</PI_FULL_NAME>
+<EmailAddress><![CDATA[zpantic@ncsu.edu]]></EmailAddress>
+<NSF_ID>000684141</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276950001</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NVH931QJJ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276070001</ZipCode>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>760700</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>103E</Code>
+<Text>Energy efficient electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5560</Code>
+<Text>ENERGY CONVERSION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~399680</FUND_OBLG>
+</Award>
+</rootTag>

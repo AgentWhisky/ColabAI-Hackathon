@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Tools4Cells: Integrating Chemical Biology and Genomics to Globally Interrogate Mechanisms of RNA Localization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>299529.00</AwardTotalIntnAmount>
+<AwardAmount>299529</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070100</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephen DiFazio</SignBlockName>
+<PO_EMAI>sdifazio@nsf.gov</PO_EMAI>
+<PO_PHON>7032924517</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>RNA localization is a fundamental process that enables cells to compartmentalize gene expression, allowing for precise control of protein production in specific subcellular regions where they are needed. For instance, many messenger RNA transcripts encoding mitochondrial proteins are localized to the mitochondrial membrane through mechanisms that remain poorly understood. This project will develop novel technologies to identify key determinants influencing RNA subcellular localization on a genome-wide scale. By merging chemical biology and genomics approaches to create a novel tool for studying cellular function, the research aims to bridge the growing knowledge gap between the identification of spatially localized RNAs and the mechanisms directing their localization. The research will not only accelerate understanding of RNA localization to diverse cellular compartments but also provide opportunities for interdisciplinary scientific training for undergraduate students, graduate students and postdoctoral fellows in RNA chemical biology, biochemistry, and genomics. Furthermore, the project will promote RNA research and scientific communication through participation in the Center for RNA Technologies and Therapeutics at University of California San Diego. Connections made through this work will foster collaboration and provide career development opportunities for students from diverse backgrounds.&lt;br/&gt;&lt;br/&gt;The proposed Localization (Loc)-Seq technology developed in this project will enable high-throughput screening of factors affecting mRNA localization, initially focusing on mitochondrial localization in yeast and later adapting to mammalian cells. The project will establish the feasibility of Loc-Seq technology in yeast by combining pooled barcoded expression libraries with mRNA reporters and a mitochondria-localized polyuridylation enzyme. For mammalian cells, novel RNA modification strategies using genetically encoded enzymes targeted to specific subcellular locations will be implemented to identify and enrich localized RNAs. These approaches will overcome limitations of current genome-wide screening methods for RNA localization mediators, offering a more accessible and cost-effective alternative that expands the pool of targetable genes. This research has the potential to significantly advance our understanding of RNA localization mechanisms, which play crucial roles in various cellular functions including embryonic development, cell differentiation, and protein synthesis regulation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419893</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Zid</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian M Zid</PI_FULL_NAME>
+<EmailAddress><![CDATA[zid@ucsd.edu]]></EmailAddress>
+<NSF_ID>000700229</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Colleen</FirstName>
+<LastName>McHugh</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Colleen A McHugh</PI_FULL_NAME>
+<EmailAddress><![CDATA[c1mchugh@ucsd.edu]]></EmailAddress>
+<NSF_ID>000859516</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress><![CDATA[9500 GILMAN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Regents of the Univ. of Calif., U.C. San Diego]]></Name>
+<CityName>La Jolla</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930332</ZipCode>
+<StreetAddress><![CDATA[9500 Gilman Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111200</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>727500</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~299529</FUND_OBLG>
+</Award>
+</rootTag>

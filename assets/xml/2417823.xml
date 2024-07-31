@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CyberTraining: Implementation: Medium: CyberTraining on Accelerating Infrastructure Workloads using Next-Generation SmartNICs/DPUs]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>790000.00</AwardTotalIntnAmount>
+<AwardAmount>790000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marlon Pierce</SignBlockName>
+<PO_EMAI>mpierce@nsf.gov</PO_EMAI>
+<PO_PHON>7032927743</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In today's world, most data arrive at compute locations as packets from the network through a Network Interface Card (NIC). Traditional NICs are simple devices attached to a server, used to receive packets from the network and place them in the server's memory. Packets then wait for processing time by the general-purpose processor, or CPU, at the server. Recently, a new generation of NICs, known as SmartNICs, has emerged. SmartNICs allow programmers to offload certain tasks, such as network and security tasks, from the server's CPU to the SmartNIC. They also enable programmers to write customized applications running on the SmartNIC’s domain-specific processors at speeds that may be orders of magnitude faster than those running on the server's CPUs. These capabilities improve data processing performance, enhance security, and reduce the processing load on the server's CPUs. While large cloud providers are now using SmartNICs, campus networks and small- and medium-sized enterprises have yet to fully benefit from their advantages. An important barrier preventing the adoption of SmartNICs is the lack of engaging training materials for cyberinfrastructure contributors and professionals. This project aims to bridge that gap by developing hands-on virtual labs for instruction that are hosted on web-based platforms for easy and broad access. By providing accessible and practical training, the project will lower the barrier to innovation and promote progress on areas such as scientific applications requiring massive data transfers, machine learning relying on high processing speeds, and cybersecurity applications requiring massive traffic inspection.&lt;br/&gt;&lt;br/&gt;The project has two overarching goals. The first project goal, contributing to the project’s intellectual merit, is to advance the state of the art in SmartNIC training within the research community in order to promote and facilitate the broader adoption of SmartNICs among cyberinfrastructure professionals, contributors, and network owners. The project will develop training material in the form of virtual labs and companion material, including guided experiments and interactive electronic booklets, on technologies related to SmartNICs. The virtual labs will be used for workshops and self-paced training. These labs will enable cyberinfrastructure contributors (including developers and researchers) to learn how to implement offloaded applications on various SmartNICs. The virtual labs will also permit cyberinfrastructure professionals (including system administrators, research support staff, and facilitators) to learn how to deploy those applications, how to manage SmartNICs, and how to provide effective support. The virtual labs will be deployed on the NSF-funded FABRIC platform (NSF award #1935966) and on the Academic Cloud at the University of South Carolina, which will serve as training platforms. The virtual labs will cover open-source technologies that are compatible with commercial SmartNICs. The second project goal, contributing to its broader impact, is to incorporate virtual labs into educational curricula and instructional resources. The project will target associate, bachelor, and graduate programs. Two-year community colleges will use the virtual labs to train students on SmartNICs administration and operation, including the deployment of pre-developed applications. Four-year bachelor and graduate-level programs will use the virtual labs to provide in-depth training on SmartNIC programming, starting from the foundational principles to the development of advanced applications that accelerate data processing and analytics. Training activities for the two project goals include organizing workshops with cyberinfrastructure communities, including national and regional Research and Education Networks; professional development events with the NSF-funded Minority-Serving Cyberinfrastructure Consortium, a collaborative consortium that provides professional development and training opportunities to minority serving institutions; and train-the-trainer tutorials with centers supporting college instructors and students.  Best practices and technical specifications produced by this project are incorporated into NSF's ACCESS Knowledge Base, to disseminate them to the broader community of researchers.&lt;br/&gt;&lt;br/&gt;This award by the Office of Advanced Cyberinfrastructure is jointly supported by the Division of Computer and Network Systems within the Directorate for Computer and Information Science and Engineering.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417823</AwardID>
+<Investigator>
+<FirstName>Ana</FirstName>
+<LastName>Hunsinger</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ana Hunsinger</PI_FULL_NAME>
+<EmailAddress><![CDATA[ana@internet2.edu]]></EmailAddress>
+<NSF_ID>000145007</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jorge</FirstName>
+<LastName>Crichigno</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jorge Crichigno</PI_FULL_NAME>
+<EmailAddress><![CDATA[jcrichigno@cec.sc.edu]]></EmailAddress>
+<NSF_ID>000571570</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elie</FirstName>
+<LastName>Kfoury</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elie Kfoury</PI_FULL_NAME>
+<EmailAddress><![CDATA[ekfoury@email.sc.edu]]></EmailAddress>
+<NSF_ID>000953075</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of South Carolina at Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>292083403</ZipCode>
+<PhoneNumber>8037777093</PhoneNumber>
+<StreetAddress><![CDATA[1600 HAMPTON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J22LNTMEDP73</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTH CAROLINA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>J22LNTMEDP73</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of South Carolina at Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>292083403</ZipCode>
+<StreetAddress><![CDATA[1600 HAMPTON ST # 414]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>044Y00</Code>
+<Text>CyberTraining - Training-based</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>122Z</Code>
+<Text>CI Training and Professionals</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7361</Code>
+<Text>EDUCATION AND WORKFORCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~790000</FUND_OBLG>
+</Award>
+</rootTag>

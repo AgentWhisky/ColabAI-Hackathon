@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Integrated Computational and Mechanistic Investigation on New Reactivity and Selectivity in Emerging Enzymatic Reactions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>599999.00</AwardTotalIntnAmount>
+<AwardAmount>599999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Johnson</SignBlockName>
+<PO_EMAI>ricjohns@nsf.gov</PO_EMAI>
+<PO_PHON>7032928840</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Structure, Dynamics and Mechanisms-B (CSDM-B) Program, Yang Yang at the University of California-Santa Barbara and Peng Liu at the University of Pittsburgh are working to integrate state-of-the-art computational and experimental tools to investigate the mechanisms and origins of chemo-, regio-, and stereoselectivities in recently developed new-to nature enzymatic reactions. As the products of millions of years of natural evolution, enzymes are capable of facilitating otherwise challenging reactions and exerting exquisite control over these processes under sustainable and environmentally friendly conditions. Over the past several years, biocatalysis researchers have capitalized on unnatural electron transfer mechanisms and developed a range of biocatalytic reactions which were not known in natural enzymology. Despite these recent advances, the detailed mechanisms and the origins of selectivity in these recently developed enzymatic reactions remain to be elucidated. Combining physical organic chemistry and the state-of-the-art computational chemistry tools, this research is expected to shed light on the mechanisms, reactivities, and selectivity patterns emerging from these new enzymatic reactions.  The lessons learned from these studies will likely lead to new design principles for retooled biocatalyst development. By promoting ideas exchange between experimental and computational chemists with a biotechnology focus and engaging a diverse research team, PIs Yang and Liu are targeting synergy. At the same time, they are building a strong cross-disciplinary research environment to train skilled members of the future workforce in mechanistic, molecular biocatalysis with important implications for biomanufacturing.&lt;br/&gt;&lt;br/&gt;This award supports a collaborative effort between the Yang group at UC-Santa Barbara and the Liu group at U Pittsburgh.  The team aims to further fundamental understanding of recently developed stereoselective biocatalytic radical reactions. Using a combination of density functional theory (DFT), molecular dynamics simulation (MDS), and hybrid quantum mechanics/molecular mechanics (QM/MM) methods, this research will investigate the protein-regulated electron and atom transfer mechanisms in recently developed reactions using cofactor-dependent enzymes. This project will develop computational models to rationalize enzyme-controlled chemoselective cyclizations with recently evolved biocatalysts. By integrating mechanistic enzymology and computation, the two research groups seek to elucidate how bifunctional biocatalysis can serve as a general means to facilitate unnatural enzymatic reactions. If successful, this study will provide  mechanistic insight at the forefront of biocatalytic research that is directed at new-to-nature transformations for synthetic application.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400087</AwardID>
+<Investigator>
+<FirstName>Yang</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yang Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[yang@chem.ucsb.edu]]></EmailAddress>
+<NSF_ID>000854889</NSF_ID>
+<StartDate>04/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peng</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peng Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[pengliu@pitt.edu]]></EmailAddress>
+<NSF_ID>000698041</NSF_ID>
+<StartDate>04/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName>SANTA BARBARA</CityName>
+<ZipCode>931060001</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress><![CDATA[3227 CHEADLE HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G9QBQDH39DF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SANTA BARBARA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName>SANTA BARBARA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>931060001</ZipCode>
+<StreetAddress><![CDATA[3227 CHEADLE HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>910200</Code>
+<Text>CMFP-Chem Mech Funct, and Prop</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~599999</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Statistical Modeling and Inference for Object-valued Time Series]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>175000.00</AwardTotalIntnAmount>
+<AwardAmount>56755</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jun Zhu</SignBlockName>
+<PO_EMAI>jzhu@nsf.gov</PO_EMAI>
+<PO_PHON>7032924551</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Random objects in general metric spaces have become increasingly common in many fields. For example, the intraday return path of a financial asset, the age-at-death distributions, the annual composition of energy sources, social networks, phylogenetic trees, and EEG scans or MRI fiber tracts of patients can all be viewed as random objects in certain metric spaces. For many endeavors in this area, the data being analyzed is collected with a natural ordering, i.e., the data can be viewed as an object-valued time series. Despite its prevalence in many applied problems, statistical analysis for such time series is still in its early development. A fundamental difficulty of developing statistical techniques is that the spaces where these objects live are nonlinear and commonly used algebraic operations are not applicable. This research project aims to develop new models, methodology and theory for the analysis of object-valued time series. Research results from the project will be disseminated to the relevant scientific communities via publications, conference and seminar presentations. The investigators will jointly mentor a Ph.D. student and involve undergraduate students in the research, as well as offering advanced topic courses to introduce the state-of-the-art techniques in object-valued time series analysis.&lt;br/&gt;&lt;br/&gt;The project will develop a systematic body of methods and theory on modeling and inference for object-valued time series. Specifically, the investigators propose to (1) develop a new autoregressive model for distributional time series in Wasserstein geometry and a suite of tools for model estimation, selection and diagnostic checking; (2) develop new specification testing procedures for distributional time series in the one-dimensional Euclidean space; and (3) develop new change-point detection methods to detect distribution shifts in a sequence of object-valued time series. The above three projects tackle several important modeling and inference issues in the analysis of object-valued time series, the investigation of which will lead to innovative methodological and theoretical developments, and lay groundwork for this emerging field.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412832</AwardID>
+<Investigator>
+<FirstName>Changbo</FirstName>
+<LastName>Zhu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Changbo Zhu</PI_FULL_NAME>
+<EmailAddress><![CDATA[czhu4@nd.edu]]></EmailAddress>
+<NSF_ID>000986054</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Notre Dame]]></Name>
+<CityName>NOTRE DAME</CityName>
+<ZipCode>465566031</ZipCode>
+<PhoneNumber>5746317432</PhoneNumber>
+<StreetAddress><![CDATA[836 GRACE HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FPU6XGFXMBE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NOTRE DAME DU LAC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FPU6XGFXMBE9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Notre Dame]]></Name>
+<CityName>NOTRE DAME</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>465565708</ZipCode>
+<StreetAddress><![CDATA[940 Grace Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~56755</FUND_OBLG>
+</Award>
+</rootTag>

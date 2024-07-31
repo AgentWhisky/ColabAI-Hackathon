@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Highly sensitive magnetoelectric CFO-BTO nanostructures as minimally invasive  bioelectronic agents for neural recording and stimulation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>100001.00</AwardTotalIntnAmount>
+<AwardAmount>100001</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Svetlana Tatic-Lucic</SignBlockName>
+<PO_EMAI>staticlu@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project advances science and technology by addressing a societal need for developing fundamentally new techniques for better detecting brain activity. A multitude of biomedical technologies enable direct brain recording and stimulation and are central to brain research and for diagnosing and treating neurological disorders. However, current techniques are either highly invasive, require bulky transmission circuitry, or provide spatially constrained nonspecific readouts from limited regions in the brain. This hinders the ability of neurologists and neuroscientists to uncover the inner working of the brain during normal cognition and to elucidate neuropathological processes governing debilitating brain dysfunction. Discovering improved architectures for realizing extremely small and yet highly responsive electronic agents that can relay signals wirelessly and be injected safely with minimal injury across large regions of the brain can address these difficulties and transform the way we access the nervous system. This project investigates a new and effective sensing architecture that can greatly empower brain imaging by using extremely small particles composed of specialized magnetoelectric materials that respond to electric fields in tissue and used in conjunction with whole brain imaging for unprecedented detection of physiology. The project relies on state-of-the-art engineering methods to enable the optimization of synthesis and biological compatibility of the particles and verify healthy cellular activity towards configuring a new sensing technique. By interfacing between novel magnetoelectric materials and living brain cells, the project will constitute a fundamental scientific advance by elucidating the principles underlying the interface between responsive nanomaterials and biology towards realizing a new minimally invasive technology for direct imaging of neural activity with high relevance to human health.&lt;br/&gt;To meet these goals, the project builds on recent advances for synthesizing highly responsive nanofabricated magnetoelectric structures comprising cobalt ferrite (CFO) cores enveloped by piezoelectric barium titanate (BTO) shells for neural sensing and stimulation. The research trajectory consists of simulation, fabrication, and validation of responsive magnetoelectric nanostructures, and verification of growth and healthy function of living brain cells interfaced with these structures towards application of the technology for direct detection of biophysical events in tissue. The primary aims of the project include: (1) establishing new computational modeling and finite-element simulations to test optimal designs of CFO-BTO nanostructures interfaced with neurons; (2) nanofabrication of devices using novel nanometer scale electron-beam lithography and deposition technologies; (3) in vitro investigation of cell-device interface and signal transduction by combining state-of-the-art magnetic force microscopy methodologies, optical imaging and electrophysiology techniques. Specialized data acquisition routines and high-speed optical imaging techniques will be developed to quantify cell activity on optimized devices and relate it to magnetic and electrophysiological readouts.  The development of injectable nanoscale agents for direct access to the brain at cellular scale is expected to transform the way we acquire brain signals and can help forge extraordinary advances in neuroscience and neurology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2427177</AwardID>
+<Investigator>
+<FirstName>Aviad</FirstName>
+<LastName>Hai</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aviad Hai</PI_FULL_NAME>
+<EmailAddress><![CDATA[ahai@wisc.edu]]></EmailAddress>
+<NSF_ID>000758733</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LCLSJAGTNZQ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>756400</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~100001</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Learning by Doing in the Global Electric Vehicle Battery Industry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>357720.00</AwardTotalIntnAmount>
+<AwardAmount>357720</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eric Bahel</SignBlockName>
+<PO_EMAI>ebahel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927858</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The global battery industry has seen remarkable cost reductions, with electric vehicle (EV) battery costs dropping by over 90% in the past decade. This study examines the extent to which this dramatic decline in battery prices is due to learning-by-doing in battery production. It also evaluates the impact of two types of government actions—EV consumer subsidies and preferential treatments for domestic battery suppliers—on learning in battery production, EV industry dynamics, and the spillover of subsidy effects across countries. China implemented these preferential treatments through an action known as the "whitelist," and more recently, the US has adopted similar measures with local content requirements in battery production. The outcomes of this research are crucial for understanding the broader impacts of consumer subsidies and other actions in the global EV industry, thereby informing future decisions to foster sustainable transportation solutions and energy transition.&lt;br/&gt;&lt;br/&gt;This study compiles the most comprehensive data encompassing model-level sales, prices, and attributes of EV models from the 13 leading EV markets, which collectively account for over 90% of global sales. It also integrates detailed information on battery suppliers and battery characteristics. The empirical framework develops a structural model of the global EV industry, which characterizes consumer vehicle choices, pricing decisions by EV manufacturers, and bilateral bargaining between EV manufacturers and battery suppliers over battery prices. By estimating the model-implied battery costs, the project assesses how these costs evolve with the accumulated production experience of battery suppliers. The identification strategy for learning-by-doing leverages variations in EV subsidies across vehicle models and differences in battery supply networks caused by preferential treatments for domestic battery suppliers. With the model parameter estimates, including the magnitude of learning-by-doing, counterfactual simulations are conducted to examine the impacts of consumer subsidies and local content requirements, as well as how learning-by-doing interacts with these actions. The research makes two important contributions. First, it provides the first causal estimate on the size and scope of learning-by-doing in the global EV battery industry. Second, the study contributes to our understanding of the impacts of two classes of government actions in the EV industry—subsidies for EV purchases and preferential treatment of domestic production—on global EV diffusion, firm market share dynamics, and social welfare while taking learning-by-doing into account. Learning-by-doing can have important implications for the impacts and ultimately the advisability of these actions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/20/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417173</AwardID>
+<Investigator>
+<FirstName>Shanjun</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shanjun Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[SL2448@cornell.edu]]></EmailAddress>
+<NSF_ID>000326950</NSF_ID>
+<StartDate>06/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Panle</FirstName>
+<LastName>Barwick</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Panle Barwick</PI_FULL_NAME>
+<EmailAddress><![CDATA[pbarwick@wisc.edu]]></EmailAddress>
+<NSF_ID>000992651</NSF_ID>
+<StartDate>06/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[National Bureau of Economic Research Inc]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021385359</ZipCode>
+<PhoneNumber>6178683900</PhoneNumber>
+<StreetAddress><![CDATA[1050 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GT28BRBA2Q49</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NATIONAL BUREAU OF ECONOMIC RESEARCH INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[National Bureau of Economic Research Inc]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021385359</ZipCode>
+<StreetAddress><![CDATA[1050 MASSACHUSETTS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>132000</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~357720</FUND_OBLG>
+</Award>
+</rootTag>

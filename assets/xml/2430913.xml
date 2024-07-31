@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: PBI: Assessing Societal and Economic Impacts of Place-Based Innovation with Small Area Innovation Rate Estimation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>299998.00</AwardTotalIntnAmount>
+<AwardAmount>299998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rebecca Shearman</SignBlockName>
+<PO_EMAI>rshearma@nsf.gov</PO_EMAI>
+<PO_PHON>7032927403</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Place-based innovation—the policy interest in developing the local endowments, institutions, and interactions required of dynamic innovation ecosystems—places new demands on data that federal collections were never designed to satisfy. To date, local measures of innovation incidence have relied on patent data that is available at the county level. However, patents are a weak innovation indicator as not all innovations are patentable; firms may prefer other means of intellectual property protection even for patentable inventions; and distinctions between product, process, and business practice innovation are usually unavailable. Innovation data collected in the Annual Business Survey (ABS) address all these weaknesses but are too sparse to provide accurate estimates of innovation incidence for all but the largest metropolitan areas. This project will investigate the feasibility of using the much larger Economic Census (EC) that contains no innovation data to substantially increase the number of firms in a small area to produce more accurate innovation rate estimates. This is done by predicting innovation behavior of firms in the EC from variables that are also included in the ABS, using a technique called small area estimation. This method “borrows strength” from a much larger general dataset (EC) to enhance the predictive power of a smaller, more detailed dataset (ABS). It is regularly used to produce local estimates of phenomena of policy interest that would be prohibitively expensive to collect, such as disease incidence or childhood poverty rates. This project is the first time these techniques have been applied to innovation data.&lt;br/&gt;&lt;br/&gt;The goal of this project is to generate the Small Area Innovation Rate Estimation (SAIRE). Preliminary analysis using the ABS has found that commonly used control variables such as industry sector, firm size category, or state where the firm is located are predictive of innovation behavior and would be an improvement over naïve local area estimates. The project will investigate possible increases in efficiency by replacing the fixed effects used in the preliminary analysis with random effects in a generative Bayesian multilevel model. In addition to expected increases in efficiency from aspatial pooling provided by a random effects specification, estimation of innovation phenomena may be improved by modeling spatial dependence across proximate small areas. More precise innovation rate estimates may be possible by adding other firm or local characteristics into the predictive model such as cloud computing or local human capital endowments. The two major methodological challenges presented by the research are 1) incorporating complex sample design in the small area estimation as the probability of selection and innovation may be dependent on the same variables such as firm size; and 2) assessing the extent to which firm-level variables in ABS are predictive of establishment-level innovation in EC for multi-unit firms. Accurate meso-level measures of SAIRE would inform the targeting and evaluation of place-based innovation initiatives such as the Regional Innovation Engines program as well as addressing questions such as the role of innovation in reallocation growth that cannot be analyzed using current microdata.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2430913</AwardID>
+<Investigator>
+<FirstName>Zheng</FirstName>
+<LastName>Tian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zheng Tian</PI_FULL_NAME>
+<EmailAddress><![CDATA[zzt36@psu.edu]]></EmailAddress>
+<NSF_ID>0000A05KK</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephan</FirstName>
+<LastName>Goetz</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephan J Goetz</PI_FULL_NAME>
+<EmailAddress><![CDATA[sgoetz@psu.edu]]></EmailAddress>
+<NSF_ID>000332572</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168021503</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPM2J7MSCF61</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE PENNSYLVANIA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>168021503</ZipCode>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>301Y00</Code>
+<Text>NSF Engines - Type 2</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01AC2324DB</Code>
+<Name><![CDATA[R&RA DRSA DEFC AAB]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~299998</FUND_OBLG>
+</Award>
+</rootTag>

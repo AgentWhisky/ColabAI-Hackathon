@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-SNSF: Lithium niobate based terahertz systems: fundamentals and applications.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dominique Dagenais</SignBlockName>
+<PO_EMAI>ddagenai@nsf.gov</PO_EMAI>
+<PO_PHON>7032922980</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The research program proposed by scientists from the Harvard University (HU) and École Polytechnique Fédérale de Lausanne (EPFL) is expected to provide completely new insights into the physics and feasibility of photonics-enabled communication systems from one single platform. The program will explore and leverage the rich physics of nonlinear dynamics of highly nonlinear and resonant systems, and will result in novel types of miniaturized detectors, receivers and systems.  The individual blocks will have a significant impact in sensing since the system can be used equally well for broadband spectroscopy. This may find applications in quality control, e.g. in food and pharma, but also in security scanners or environmental monitoring. This  interdisciplinary program that combines theory, computational electro-magnetism, material science, photonics, microwave, and THz technologies, has very strong technological components, and requires mastery of nanofabrication techniques. Therefore, it  will provide a unique training ground for involved undergraduate, graduate, and post-graduate students alike, and help train a new generation of engineers and scientists who are better prepared to address interdisciplinary challenges that they will face in the future.&lt;br/&gt;Technical description:&lt;br/&gt;The proposed project aims to research thin film lithium niobate (TFLN) for terahertz wireless both at chip scale and at the system level to address the need for efficient communication networks operational in the so far little allocated terahertz frequency range. It is intended to analyze the efficiency, speed, and versatility of high-Q resonators to generate, shape, collect and detect terahertz radiation coherently. Using frequency mixing with carriers in the telecom range research teams will also develop strategies to modulate the generated terahertz carriers in phase and amplitude. Their work will largely leverage on this platform's unique ability to tolerate large optical powers, have negligible insertion losses and large nonlinearity, which no other platform provides as a package today. &lt;br/&gt;Researchers’ goal is to demonstrate attractive solutions for all building blocks of a wireless link in TFLN. They will study, by theory and experiment, the physics of nonlinear effects with the following objectives: &lt;br/&gt;1. Demonstration of terahertz generators for continuous-wave carriers and strategies to modulate them in amplitude and phase.&lt;br/&gt;2. Demonstration of large-area electro-optic receivers (up to 5~mm).&lt;br/&gt;3. Proof-of-concept of all-TFLN terahertz transmitter-receiver system and testing at 3 m distance.&lt;br/&gt;Scientists will use numerical solvers of coupled modes in the resonant regime in tandem with simulation tools CST and Lumerical and analytical models to distill fundamental limits in crosstalk, efficiency, and speed of the proposed devices in the presence of competing effects. They will build specialized optical setups capable of operating at ultra-high speeds. The project, if successful, will provide efficient, ultrafast sources, detectors and signal processing units that will significantly impact related fields in computing, sensing, imaging, or spectroscopy, besides communications.  The proposed interdisciplinary program that combines theory, electromagnetism, material science, nanofabrication, photonics, microwave, and THz technologies, will provide invaluable training for students at all levels. Although it takes a fundamental approach to the addressed questions, commercialization will be considered. &lt;br/&gt;The project is designed to leverage on combined expertise in nanophotonics, microwave and fabrication of Lončar group at HU and in terahertz spectroscopy and metrology of Benea-Chelmus group at EPFL.&lt;br/&gt;&lt;br/&gt;This collaborative U.S.-Swiss project is supported by the U.S. National Science Foundation (NSF) and the Swiss National Science Foundation (SNSF), where NSF funds the U.S. investigator and SNSF funds the partners in Switzerland.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/13/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407727</AwardID>
+<Investigator>
+<FirstName>Marko</FirstName>
+<LastName>Loncar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marko Loncar</PI_FULL_NAME>
+<EmailAddress><![CDATA[loncar@seas.harvard.edu]]></EmailAddress>
+<NSF_ID>000486637</NSF_ID>
+<StartDate>06/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021385366</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress><![CDATA[1033 MASSACHUSETTS AVE STE 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LN53LCFJFL45</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021382933</ZipCode>
+<StreetAddress><![CDATA[29 Oxford Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>151700</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022Z</Code>
+<Text>International Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>091E</Code>
+<Text>Light generation &amp; detection</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>095E</Code>
+<Text>Photonic integration</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>129Z</Code>
+<Text>U.S. NSF-Swiss Resrch Corp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5950</Code>
+<Text>SWITZERLAND</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~450000</FUND_OBLG>
+</Award>
+</rootTag>

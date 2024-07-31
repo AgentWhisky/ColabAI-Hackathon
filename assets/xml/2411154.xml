@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Elements: WfCommons Tools for Workflow Research, Development, and Education on the CyberInfrastructure]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>335093.00</AwardTotalIntnAmount>
+<AwardAmount>335093</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Varun Chandola</SignBlockName>
+<PO_EMAI>vchandol@nsf.gov</PO_EMAI>
+<PO_PHON>7032922656</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Many scientific and societal breakthroughs can only be achieved by performing complex processing of vast amounts of data efficiently.  In domains as crucial to our society as climate modeling or health (and in fact in most fields of physics, chemistry, and biology today), as well as more recently in the overarching field of artificial intelligence, practitioners define "scientific workflows" to describe complex computational scientific processes as data and inter-dependent computations on these data. Scientific workflows have already supported many ground-breaking discoveries and have now become mainstays in today's science.  Due to constantly evolving scientific needs and technological landscapes, it should come as no surprise that scientific workflows themselves, as well as the software and hardware systems used to support them, are the target of countless research, development, and education activities. These activities are key to advancing the state of the art of scientific workflows, but to do so they must be driven by the use of realistic and accurate scientific workflow datasets. These datasets contain "workflow instances" that describe the structure, the compute and data demands, and the past executions of real-world scientific workflows.  The goals of the WfCommons project are the generation and curation of such workflow instances, and the development of software tools by which the curated workflow instances can be explored and selected by scientific workflow researchers, developers, and educators.  The project will provide realistic, accurate, and usable data that is fundamental to advancing the state of the art of the scientific workflows that arise in virtually all fields of science.&lt;br/&gt;   &lt;br/&gt;A schema will be defined for the precise description of workflow instances, both in terms of the workflow's specification (as static or dynamic sets of tasks with control- and/or data-dependencies) and of its past execution (on Cyberinfrastructure resources using a production workflow runtime system).  Standalone software tools will be developed to construct workflow instances based on real-world executions using popular workflow runtime systems. These tools will parse and analyze the input provided to and the output and log files produced by these runtime systems, so as to extract the relevant information as defined by the above schema. A suite of integrated tools will be developed for browsing, visualizing, editing, and simulating the curated workflow instances. These tools will allow WfCommons users to easily select the workflow instances that are appropriate for their specific goals. These users include researchers who wish to perform evaluation of their algorithms for specific kinds of workflow configurations, workflow runtime system developers who wish to augment and strengthen the testing and evaluation of their systems, or educators who wish to achieve new learning objectives by exposing students to compelling and real-world workflow scenarios. These integrated tools will be made available directly in-the-browser on the WfCommons site. New data items (workflow instances) and software tools will be released continuously throughout the project. The impact of the project will be continuously assessed throughout the project's timeframe and beyond via several metrics, many of which will be automatically computed and reported on the project's Web site daily.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411154</AwardID>
+<Investigator>
+<FirstName>Henri</FirstName>
+<LastName>Casanova</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Henri Casanova</PI_FULL_NAME>
+<EmailAddress><![CDATA[henric@hawaii.edu]]></EmailAddress>
+<NSF_ID>000063463</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Hawaii]]></Name>
+<CityName>HONOLULU</CityName>
+<ZipCode>968222247</ZipCode>
+<PhoneNumber>8089567800</PhoneNumber>
+<StreetAddress><![CDATA[2425 CAMPUS RD SINCLAIR RM 1]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<StateCode>HI</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>HI01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NSCKLFSSABF2</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF HAWAII</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Hawaii]]></Name>
+<CityName>HONOLULU</CityName>
+<StateCode>HI</StateCode>
+<ZipCode>968222327</ZipCode>
+<StreetAddress><![CDATA[1680 East-West Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>HI01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>800400</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~335093</FUND_OBLG>
+</Award>
+</rootTag>

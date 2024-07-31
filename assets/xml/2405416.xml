@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A New Machine Learning Framework for Single-Cell Multi-Omics Bioinformatics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>788711.00</AwardTotalIntnAmount>
+<AwardAmount>741002</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Liberles</SignBlockName>
+<PO_EMAI>dliberle@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Recent developments of single-cell omics technologies enable multi-modality measurements at genome, transcriptome, epigenome, or proteome scale, which will lead to unprecedented insight and resolution to fundamental biological processes. The project will construct a novel bioinformatics framework with advanced machine learning models, efficient computational tools, and user-friendly software for single-cell multi-omics data analysis. The outputs will be available online to the public and are expected to impact biological research community and empower scientists working on single-cell data to effectively test biological hypothesis, especially knowledge extraction from massive high-dimensional and complex datasets. The project will facilitate the development of novel educational tools to enhance curriculum design. Minority students and under-served populations will be engaged in cutting-edge research activities.&lt;br/&gt; &lt;br/&gt;The project focuses on designing principled machine learning and bioinformatics algorithms for analyzing large-scale single-cell multi-omics data to create toolkits to facilitate biological research. Specially, the research team will investigate 1) new cross-modal deep canonical correlation self-supervised autoencoder for multi-modal single-cell data integration, 2) new computational methods to study the associations of single-cell RNA-seq data and protein markers via semi-supervised deep neural networks, 3) interpretation algorithms to enhance predictive model via utilizing structure semantic information and identified biomarkers, 4) statistical inference framework for identifying and inferring conditional dependence from single-cell data, 5) novel transformer based variational autoencoder model for super-resolution spatial transcriptomics, 6) tool portal development for single-cell data analysis to advance biology research, and 7) validations of the proposed methods and system using real large-scale single-cell data. The project is innovative in integrating large-scale machine learning and data-intensive computing for single-cell bioinformatics and will hold great promise for biological mechanism understanding and biomedicine development. The results of the project can be found at: https://sites.pitt.edu/~heh45/NSF2225775.html&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/11/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>11/11/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2405416</AwardID>
+<Investigator>
+<FirstName>Heng</FirstName>
+<LastName>Huang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Heng Huang</PI_FULL_NAME>
+<EmailAddress><![CDATA[heng@umd.edu]]></EmailAddress>
+<NSF_ID>000086248</NSF_ID>
+<StartDate>11/11/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425100</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress><![CDATA[3112 LEE BUILDING]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NPU8ULVAAS23</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>College Park</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207420001</ZipCode>
+<StreetAddress><![CDATA[3112 LEE BLDG 7809 REGENTS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>164Y00</Code>
+<Text>Innovation: Bioinformatics</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~741002</FUND_OBLG>
+</Award>
+</rootTag>

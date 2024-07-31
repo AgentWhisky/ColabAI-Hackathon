@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: Enhancing Undergraduate Experiences in Data and Mobile Cloud Security]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>469999.00</AwardTotalIntnAmount>
+<AwardAmount>469999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ralph Wachter</SignBlockName>
+<PO_EMAI>rwachter@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Indiana University-Purdue University Indianapolis aims to continue the exceptional work of this Research Experiences for Undergraduates (REU) Site at Indianapolis, Indiana. It is dedicated to enrolling talented undergraduates from across the nation who are keen on delving into research themes concerning cybersecurity, data security and privacy, and mobile cloud security. The research focus revolves around investigating issues pertaining to the security and privacy of mobile data, encompassing the secure utilization of mobile devices like smartphones and ensuring the safety of digital assets within mobile clouds. The domain of data and mobile cloud security is both pertinent and promising for undergraduate research productivity. Students will engage in controlled and competitive test environments to explore cyber-attack and defense techniques necessary for safeguarding the ubiquitous mobile devices in our society. This program aims to cultivate a cohort of computing professionals capable of designing future systems that profoundly influence society and elevate our quality of life. Through the REU experience, students gain essential foundations and inspiration to pursue computing careers and research in rapidly evolving fields that significantly impact our community.&lt;br/&gt;&lt;br/&gt;Led by an exceptional team, this project boasts state-of-the-art facilities and seasoned mentors who will guide undergraduates in tackling cutting-edge challenges related to data and mobile cloud security. Students will acquire hands-on experience in utilizing contemporary tools and techniques to address issues directly impacting individuals. Employing effective strategies, the team aims to recruit undergraduate students from demographic groups traditionally underrepresented in computer science, such as African American, Hispanic, and female students. Participants will engage in research and professional development activities meticulously designed to accomplish several goals: retaining and graduating undergraduate students in computer science and engineering, attracting students from underrepresented groups in computing fields, and bolstering enrollment in graduate programs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2431725</AwardID>
+<Investigator>
+<FirstName>Feng</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Feng Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[fengli@iupui.edu]]></EmailAddress>
+<NSF_ID>000550358</NSF_ID>
+<StartDate>05/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>113900</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~469999</FUND_OBLG>
+</Award>
+</rootTag>

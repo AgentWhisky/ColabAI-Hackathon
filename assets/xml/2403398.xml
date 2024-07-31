@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: OAC: Core: Harvesting Idle Resources Safely and Timely for Large-scale AI Applications in High-Performance Computing Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Juan Li</SignBlockName>
+<PO_EMAI>jjli@nsf.gov</PO_EMAI>
+<PO_PHON>7032922625</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Supercomputers, or high-performance computing (HPC) clusters, are instrumental in propelling scientific and engineering research by offering vast computational resources. These systems are increasingly crucial as artificial intelligence (AI) techniques become pervasive across various fields, including climate modeling, drug discovery, and physics simulations, significantly expanding the need for computational power and data management. However, the existing HPC infrastructures face challenges with extended job wait times and suboptimal resource use, primarily due to the escalating complexity of computations and the burgeoning demands for resources. Unlike traditional HPC tasks, AI algorithms and models exhibit distinct resource requirements, often resulting in either excess or insufficient resource allocation for AI tasks. This project aims to bridge the gap between HPC resource provisioning and AI application demands through an in-depth analysis of resource allocation and utilization within HPC environments running AI workloads. The goal is to identify strategies for minimizing resource waste and reducing the length of job queues by efficiently reallocating idle resources to accommodate large-scale AI tasks. By creating and disseminating datasets, models, algorithms, and system source code, this initiative will contribute valuable tools and insights to the research community. The findings will be broadly shared through research papers, technical reports, book chapters, course materials, and tutorials, enhancing the knowledge base in both HPC and AI fields and supporting the broader objectives of promoting scientific progress, improving national health, prosperity, and welfare, and contributing to national defense. &lt;br/&gt;&lt;br/&gt;This project centers on advancing the efficiency and productivity of HPC systems by innovatively leveraging idle resources to expedite AI job processing and diminish waiting periods. The research is structured around three interconnected themes, each addressing critical aspects of resource utilization and AI performance enhancement within HPC environments. The initial theme undertakes a comprehensive analysis of idle resources in HPC systems, aiming to identify patterns and opportunities for resource optimization. Building on the insights gained, the second theme explores methodologies for the safe and timely harvesting of idle resources across various categories, ensuring that these resources can be reallocated without compromising system stability or performance. The third theme is dedicated to developing strategies that utilize these harvested resources to boost AI application outcomes significantly and, by extension, enhance the overall productivity of HPC operations. The project will implement a tangible HPC testbed equipped with real-world benchmarks and workloads alongside these thematic investigations. This testbed will serve as a platform for empirically validating developed algorithms and systems, facilitating a rigorous assessment of their effectiveness in improving HPC resource allocation and utilization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403398</AwardID>
+<Investigator>
+<FirstName>Hao</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hao Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[haowang@lsu.edu]]></EmailAddress>
+<NSF_ID>000851568</NSF_ID>
+<StartDate>04/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Louisiana State University]]></Name>
+<CityName>BATON ROUGE</CityName>
+<ZipCode>708030001</ZipCode>
+<PhoneNumber>2255782760</PhoneNumber>
+<StreetAddress><![CDATA[202 HIMES HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ECQEYCHRNKJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LOUISIANA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Louisiana State University]]></Name>
+<CityName>BATON ROUGE</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>708030001</ZipCode>
+<StreetAddress><![CDATA[202 HIMES HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>090Y00</Code>
+<Text>OAC-Advanced Cyberinfrast Core</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

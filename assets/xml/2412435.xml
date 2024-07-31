@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Provably Correct Reconstruction of Dynamical Networks from Finite, Non-Ideal Data Streams]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>522014.00</AwardTotalIntnAmount>
+<AwardAmount>522014</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eyad Abed</SignBlockName>
+<PO_EMAI>eabed@nsf.gov</PO_EMAI>
+<PO_PHON>7032922303</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Many complex phenomena, such as neural interactions in the brain, weather patterns, heat flow in computing systems, and price fluctuations in financial markets, can be viewed as networks of interacting systems. The behavior of these systems is determined by the individual components and how they interact with each other. Often, the interactions are complex enough to preclude reconstruction of the interaction structure from first-principles. In this proposal we propose to develop data-driven approaches to unravel the interaction structure. However, identification of interaction structure from data poses many challenges that include data collected irregularly in time, unmeasured components, temporal patterns (for example, in the weather) that make data correlated across time, and common physical processes driving the behavior of multiple components. The scientific goal of this project is to devise methods that can correctly identify the links in networks in these challenging, real-world scenarios. &lt;br/&gt;&lt;br/&gt;This project will transform the methodology and understanding of network reconstruction by showing how to discover network structures with  realistic data and model conditions, with provable guarantees. Toward reconstruction of interaction structure,  this project will provide results on quantitatively characterizing the accuracy of estimating  power spectral densities with respect to the data-size,  quantitative end-to-end error bounds on the estimation of mutual information rates between time-series, and methods to provably recover exact low-rank/block-sparse decompositions from temporally correlated data, which are of independent interest. The specific innovations for network reconstruction will result in  algorithms with rigorous provable correctness guarantees that are applicable in scenarios with finite data size, linear or nonlinear dynamics, data sampled irregularly in time, unmeasured components, spatial dependencies in driving processes, and statistical non-stationarity. The performance of these methods will be examined in simulations and  on real-world time-series data instantiated with  computational, power, and weather systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412435</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Lamperski</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew Lamperski</PI_FULL_NAME>
+<EmailAddress><![CDATA[alampers@umn.edu]]></EmailAddress>
+<NSF_ID>000690426</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Murti</FirstName>
+<LastName>Salapaka</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Murti Salapaka</PI_FULL_NAME>
+<EmailAddress><![CDATA[murtis@umn.edu]]></EmailAddress>
+<NSF_ID>000487201</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress><![CDATA[200 OAK ST SE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554550169</ZipCode>
+<StreetAddress><![CDATA[200 Union ST SE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>760700</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>092E</Code>
+<Text>Control systems &amp; applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1632</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8888</Code>
+<Text>LEARNING &amp; INTELLIGENT SYSTEMS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~522014</FUND_OBLG>
+</Award>
+</rootTag>

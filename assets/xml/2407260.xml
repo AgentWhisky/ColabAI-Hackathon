@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: In-situ spectral phonon recycling in LED for improved thermal, power and performance efficiency]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>125183.00</AwardTotalIntnAmount>
+<AwardAmount>125183</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sumanta Acharya</SignBlockName>
+<PO_EMAI>sacharya@nsf.gov</PO_EMAI>
+<PO_PHON>7032924509</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Lighting consumes equivalent to 5% of total US electricity use according to US Energy Information Administration. The use of light emitting diodes (LEDs) has improved the lighting efficiency, but still more than 50% of the electrical energy is dissipated as heat (emitted phonons). Improving energy conversion and demonstrating timely and significant impact of phonon engineering using gallium-nitride GaN LED is the goal of this proposed EAGER. This will be done by adding a heterobarrier (HB) layer to the LED structure for a net absorption and recycling of phonon emissions that will provide improved power efficiency. The objectives are to theoretically predict the improvements and to fabricate and test the optimal design, aiming to demonstrate the proof-of-concept and make it available for technological implementations. Through collaboration with an GaN LED and display expert, the proposed improvement verifications can be implemented at commercial level resulting in significant national energy savings and enhanced device thermal management. Fundamental understanding and insightful use of the phonon-electron-photon interactions advance the heat transfer physics and engineering.  &lt;br/&gt;&lt;br/&gt;The proposed research would be the first attempt at in-situ spectral-phonon recycling in LED using a graded HB. The research combines simulations of the phonon transport and recycling behavior to understand and advance the novel idea of phonon recycling, and also includes an experimental verification of the new concept. The one-year EAGER effort is therefore focused on demonstrating the new concept of phonon-recycling for LEDs, and if successful can provide significant paybacks in terms of energy savings. The proposed research advances the premise that the benefits of phonon-recycling via the HB is achieved through three distinct pathways: (a) reduced heat load resulting in a temperature decrease for LEDs (b) increased power efficiency, where the electric current in the LED harvests phonon energy, creating a net potential gain, and (c) enhanced photon emission spectra due to the net potential gain in the HB layer. The predictions in the proposed research use mesoscale (Boltzmann transport) interactions, which involves phonons, electrons and holes, and photons. The fabrication and testing/characterization of the optimal HB GaN LED will provide the first ever experimental demonstration of improvements in LED performance and energy savings via the use of a HB. The proposed research aligns with the Department of Energy solid-state lighting R&amp;D goals for 2035 which would enable national energy savings equivalent to 3% of US energy consumption in 2022.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407260</AwardID>
+<Investigator>
+<FirstName>Massoud</FirstName>
+<LastName>Kaviany</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>MALE</PI_SUFX_NAME>
+<PI_FULL_NAME>Massoud Kaviany</PI_FULL_NAME>
+<EmailAddress><![CDATA[kaviany@umich.edu]]></EmailAddress>
+<NSF_ID>000305221</NSF_ID>
+<StartDate>01/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1406</Code>
+<Text>TTP-Thermal Transport Process</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1406</Code>
+<Text>THERMAL TRANSPORT PROCESSES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~125183</FUND_OBLG>
+</Award>
+</rootTag>

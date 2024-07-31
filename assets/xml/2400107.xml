@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Workshop: Collaborative Strategies for Predicting and Measuring Uncertainty in Rare Occurrences in Civil and Environmental Systems; Golden, Colorado; 6-8 November 2024]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>49620.00</AwardTotalIntnAmount>
+<AwardAmount>49620</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Siqian Shen</SignBlockName>
+<PO_EMAI>siqshen@nsf.gov</PO_EMAI>
+<PO_PHON>7032927048</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award will support a workshop to establish a platform for collaboration between statistical science and civil and environmental engineering in interpreting numerical models and simulations for risks and hazards to the built environment. The recent incidences of extreme weather events, such as the 2020 fires in California, the 2021 Pacific Northwest heatwave, and the 2022 Midwest flooding, underscore the critical necessity to comprehend and mitigate future risks. The collaboration between engineers and statisticians, specializing in the field of extreme value analysis, presents a practical and focused opportunity to find novel approaches to these risks. Statisticians possess the capacity to construct predictive models for these extreme events, thereby providing valuable insights for decisions regarding risk mitigation. Engineers, in turn, can use these predictive models to formulate designs for more resilient infrastructure and devise strategies for effective response in such situations. Therefore, the goal of this workshop is to facilitate a two-way exchange of knowledge and ideas, where statisticians can share emerging methods for data analysis and models for quantifying uncertainty, and civil and environmental engineers can discuss challenging problems in their fields and their traditional approaches. In this manner, data scientists will be motivated in their research by substantial problems in engineering. Conversely, civil and environmental engineers can consider new ways of addressing issues based on recent developments in statistical science. By creating opportunities for collaboration and knowledge sharing between different fields, the workshop will aim to foster new ideas and solutions that can address the challenges facing the civil and environmental engineering industry today.&lt;br/&gt; &lt;br/&gt;The workshop will bring together leading experts from these disciplines to develop new collaborations, delineate mathematical and statistical challenges, and advance the state-of-the-art in the modeling and inference for high-dimensional spatio-temporal, compound extreme events. NSF support will prioritize participation by underrepresented groups. The workshop will offer short courses and hands-on tutorials using R software, focusing on methods for modeling the tail (extreme) probabilities of a distribution. Research talks, panel discussions, and presentations will involve statisticians and experts in civil engineering and environmental science. A poster session for graduate students and post-docs will include 3-minute speed talks and traditional posters. Overall, the workshop will foster collaboration, knowledge sharing, and skill development in extreme value analysis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400107</AwardID>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Nychka</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Douglas W Nychka</PI_FULL_NAME>
+<EmailAddress><![CDATA[nychka@mines.edu]]></EmailAddress>
+<NSF_ID>000191118</NSF_ID>
+<StartDate>03/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Soutir</FirstName>
+<LastName>Bandyopadhyay</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Soutir Bandyopadhyay</PI_FULL_NAME>
+<EmailAddress><![CDATA[sbandyopadhyay@mines.edu]]></EmailAddress>
+<NSF_ID>000600782</NSF_ID>
+<StartDate>03/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Colorado School of Mines]]></Name>
+<CityName>GOLDEN</CityName>
+<ZipCode>804011887</ZipCode>
+<PhoneNumber>3032733000</PhoneNumber>
+<StreetAddress><![CDATA[1500 ILLINOIS ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JW2NGMP4NMA3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF THE COLORADO SCHOOL OF MINES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JW2NGMP4NMA3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Colorado School of Mines]]></Name>
+<CityName>GOLDEN</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>804011887</ZipCode>
+<StreetAddress><![CDATA[1500 ILLINOIS ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>163100</Code>
+<Text>CIS-Civil Infrastructure Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>029E</Code>
+<Text>INFRASTRUCTURE SYSTEMS MGT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~49620</FUND_OBLG>
+</Award>
+</rootTag>

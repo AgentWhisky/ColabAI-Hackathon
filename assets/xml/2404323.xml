@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Category II: Democratizing the Accelerator Ecosystem for Science and Discovery]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>5000000.00</AwardTotalIntnAmount>
+<AwardAmount>5999999</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Chadduck</SignBlockName>
+<PO_EMAI>rchadduc@nsf.gov</PO_EMAI>
+<PO_PHON>7032922247</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Accelerated computing has become an essential capability for advancing science and engineering. The growth of artificial intelligence (AI) and machine learning, and the performance benefits afforded by graphics processing units (GPUs) are driving researchers across nearly every domain to adopt GPUs. The National Science Foundation has made substantial investments in providing the community with GPU resources, expertise, training, and other programs in support of this transition. The innovative Cosmos system at the San Diego Supercomputer Center (SDSC) features AMD’s MI300A accelerated processing unit (APU), which contains both a CPU and a GPU accelerator in a single chip together with high-bandwidth, unified memory. The unified memory facilitates an incremental programming approach, lowering the barrier to the adoption of GPUs by many communities, easing the process of porting and optimizing applications. Cosmos enables researchers to exploit this innovative and powerful accelerator technology in an open software environment to expand the range of applications that can effectively use accelerators. The benefits of accelerating the applications described in the proposal will aid discoveries in materials science, genomics, astrophysics, large language models, artificial intelligence, and many other domains. Cosmos nodes contain AMD MI300A APUs, each with high-bandwidth, unified memory, integrated into 4-socket nodes with all-to-all connectivity using AMD’s high-speed interconnect, which provides a socket-to-socket global memory interface. The system architecture is based on HPE’s EX2500, which provides a dense, energy-efficient, liquid-cooled system. A high-performance, flash-based storage system provides the high IOPS and bandwidth needed for the anticipated mixed-application workload. The system can be cross-mounted to other SDSC systems to facilitate data sharing, software development, and benchmarking. Capacity storage is provided via a Ceph filesystem.&lt;br/&gt;&lt;br/&gt;The project is structured as a three-year testbed phase, followed by a two-year allocations phase. During the testbed phase Cosmos project staff will collaborate with research teams covering several exemplar science and engineering applications including those from astronomy, neuroscience, molecular biology, structural engineering, machine learning and others. Included are applications that have yet to be ported and those that can already run on GPUs but would benefit from the flexible and open architecture of the APU and its software ecosystem. Collaborations specifically target community codes, science gateways, and enabling middleware, where success in porting a single application brings along many users and institutions. Integration with the Open Science Grid aims to further extend the benefits of the APU to thousands of users in the high-throughput computing community. Lessons learned and best practices developed from the research collaborations will be shared with the wider user community through project workshops, user training events, and participation in the AMD User Forum. The allocations phase will incorporate lessons learned from the testbed phase regarding application porting to the APU, leading to software development resources, training materials, and publications that allow others to migrate their applications to realize the benefits of accelerated computing. During the allocations phase, Cosmos will be available to researchers through an NSF-approved allocation process.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404323</AwardID>
+<Investigator>
+<FirstName>Igor</FirstName>
+<LastName>Sfiligoi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Igor Sfiligoi</PI_FULL_NAME>
+<EmailAddress><![CDATA[isfiligoi@ucsd.edu]]></EmailAddress>
+<NSF_ID>000657975</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andreas</FirstName>
+<LastName>Goetz</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andreas W Goetz</PI_FULL_NAME>
+<EmailAddress><![CDATA[agoetz@sdsc.edu]]></EmailAddress>
+<NSF_ID>000604387</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mahidhar</FirstName>
+<LastName>Tatineni</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mahidhar Tatineni</PI_FULL_NAME>
+<EmailAddress><![CDATA[Mahidhar@sdsc.edu]]></EmailAddress>
+<NSF_ID>000643983</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Irving</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher Irving</PI_FULL_NAME>
+<EmailAddress><![CDATA[cirving@ucsd.edu]]></EmailAddress>
+<NSF_ID>000958797</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Subhashini</FirstName>
+<LastName>Sivagnanam</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Subhashini Sivagnanam</PI_FULL_NAME>
+<EmailAddress><![CDATA[sivagnan@sdsc.edu]]></EmailAddress>
+<NSF_ID>000567368</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress><![CDATA[9500 GILMAN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930934</ZipCode>
+<StreetAddress><![CDATA[9500 GILMAN DRIVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>761900</Code>
+<Text>Innovative HPC</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~5999999</FUND_OBLG>
+</Award>
+</rootTag>

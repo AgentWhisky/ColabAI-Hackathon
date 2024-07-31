@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Research Initiation: Understanding the Opportunities and Impacts of Undergraduate Engineering Students' Adoption of Software Engineering Practices and Tools]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>61770.00</AwardTotalIntnAmount>
+<AwardAmount>61770</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew A. Verleger</SignBlockName>
+<PO_EMAI>mverlege@nsf.gov</PO_EMAI>
+<PO_PHON>7032922961</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Developing software, that is, writing code that can be executed to accomplish a desired task, is becoming increasingly intertwined with engineering practice. The process of developing software involves not only writing code, but designing and maintaining code over longer time scales as its users, developers, stakeholders, requirements, and underlying technologies change. Thus, in the professional practice of engineering, there is a need to not only learn programming (writing code), but software engineering practices and tools (SEPTs), which include concepts such as writing software tests to maintain code correctness across updates, or using tools to manage the installation and update of a project's software dependencies. This project will study the use of these SEPTs among undergraduate students and industry practitioners in three different engineering disciplines (mechanical, electrical, and civil), with the aim of understanding (1) what SEPTs are currently being used in the teaching and practice of these disciplines, (2) the factors that lead students to adopt these SEPTs, and (3) the extent to which students and practitioners agree on how they value these SEPTs in their work. The insights from this project will shed light on how students develop their professional skills and identities as engineers, particularly how they view software engineering within the context of their own disciplines. Comparing the ways in which students and practitioners value these skills will also illuminate the shifts that occur as students develop in their disciplines and careers. Finally, the understanding from this project may help us identify opportunities to improve the way we teach SEPTs in engineering, and better articulate the impact that these improvements will have in the professional formation of engineering students.&lt;br/&gt;&lt;br/&gt;Specifically, in this project, we will conduct an explanatory mixed methods study to answer the following research questions: (1) What software engineering practices and tools do undergraduate engineering students and practitioners currently use in their work? (2) What factors influence undergraduate engineering students' adoption of SEPTs, and to what extent? (3) In what ways do student perceptions of the value of software engineering practices and tools align with those of practitioners in their field? To answer Q1, we will develop a survey to assess the SEPTs currently used by students and practitioners, identifying differences in SEPT use by factors such as student/practitioner status, discipline, or previous computing experience. Our survey will adapt instruments from prior research, and will be grounded in professional and educational standards in software engineering, namely, the Software Engineering Book of Knowledge (SWEBOK) Guide and the SE2014 Curricular Guidelines. To answer Q2 and Q3, we will then select SEPTs of particular interest identified in the survey (e.g., those widely used by practitioners but rarely used by students within a discipline), and conduct follow-up interviews with students and practitioners. Specifically, our interview protocol will be grounded in Expectancy-Value Theory and the Unified Theory of Acceptance and Use of Technology frameworks (UTAUT/UTAUT2). In answering Q2, we will focus on the factors motivating students to adopt (or not adopt) certain SEPTs, while in answering Q3, we will focus on value perceptions of a SEPT and how these differ among students and practitioners. We expect our findings to result in a list of SEPTs that can be assessed across different engineering disciplines, as well as a revised model of factors (e.g., usefulness for engineering tasks, contribution to professional engineering identity) affecting the adoption of SEPTs. In addition to laying groundwork for further research in the above topics, our project will also inform the development of new interventions to better teach SEPTs in their relevant engineering contexts at the undergraduate level, shaping the software development skills of future professional engineers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/27/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407417</AwardID>
+<Investigator>
+<FirstName>Michelle</FirstName>
+<LastName>Jarvie-Eggart</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michelle E Jarvie-Eggart</PI_FULL_NAME>
+<EmailAddress><![CDATA[mejarvie@mtu.edu]]></EmailAddress>
+<NSF_ID>000786114</NSF_ID>
+<StartDate>06/27/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Michigan Technological University]]></Name>
+<CityName>HOUGHTON</CityName>
+<ZipCode>499311200</ZipCode>
+<PhoneNumber>9064871885</PhoneNumber>
+<StreetAddress><![CDATA[1400 TOWNSEND DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GKMSN3DA6P91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN TECHNOLOGICAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GKMSN3DA6P91</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan Technological University]]></Name>
+<CityName>HOUGHTON</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>499311200</ZipCode>
+<StreetAddress><![CDATA[1400 TOWNSEND DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>134000</Code>
+<Text>EngEd-Engineering Education</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>110E</Code>
+<Text>EDUCATION RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1340</Code>
+<Text>ENGINEERING EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~61770</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Generalizing Monin-Obukhov Similarity Theory (MOST)-based Surface Layer Parameterizations for Turbulence Resolving Earth System Models (ESMs)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>236421.00</AwardTotalIntnAmount>
+<AwardAmount>236421</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chungu Lu</SignBlockName>
+<PO_EMAI>clu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927110</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Today, weather forecasts are an integral part of our daily lives and a pillar of the world’s economy and safety through, for example, timely forecasts for energy production, agricultural planning, and severe storm readiness, to name a few. The accuracy of the model outputs has progressively increased with time as a result of several important factors, such as the availability of more powerful computers, and the continuous ingestion of experimental data during runtime. Nonetheless, there remain significant weaknesses in the representation of some of the characteristic physical processes. One of these is the representation of land-atmosphere interactions, which capture the way the air exchanges heat, moisture, and drag with the Earth’s surface. Traditionally, these processes have been represented using a formulation that was originally developed for canonical flow and surface conditions, and which is known to not perform well under realistic surface configurations (e.g. mountainous terrain, over forests, heterogeneous surfaces, etc.). Nonetheless it remains the workhorse in all numerical weather prediction and climate models given the lack of better alternatives. In this research project a new approach will be developed that facilitate the extension of the existing land-atmosphere interaction formulation to be applicable to all realistic flow and surface configurations. Results from this work will represent a paradigm change in the way near surface processes are represented in numerical weather prediction and climate models, leading to the next leap forward in weather and climate prediction accuracy. This research has the potential to impact everyone, from the local farmer in rural U.S.A, to investors planning for the next offshore wind farm, as well as the regular family that is just checking the weather forecast to plan for the upcoming weekend.&lt;br/&gt;&lt;br/&gt;Specifically, this project will leverage the generalized Monin-Obukhov Similarity Theory (MOST) that includes the metric of turbulence anisotropy as an additional non-dimensional term. As the first step, a Lagrangian averaging scheme will be implemented in a turbulence resolving Earth System Model such that it is possible to compute turbulence anisotropy on the fly, with the goal of instantaneously correcting MOST scaling relations. As the second step, the robustness of this new framework will be tested by running different Large-Eddy Simulations of different realistic complex flow configurations and comparing the results with existing experimental datasets. In addition, this new framework will also be tested with respect to its dependence with spatial resolution. The goal here is to understand how spatial resolution affects the computation of turbulence anisotropy and its corresponding effect in correcting the momentum, mass, and energy exchanges near the surface. This project represents a very much needed first step, before the anisotropy-based generalized Monin-Obukhov Similarity Theory (MOST) can be implemented in non-resolving turbulence Earth System Models.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/26/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/26/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414424</AwardID>
+<Investigator>
+<FirstName>Marc</FirstName>
+<LastName>Calaf</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marc Calaf</PI_FULL_NAME>
+<EmailAddress><![CDATA[marc.calaf@utah.edu]]></EmailAddress>
+<NSF_ID>000644310</NSF_ID>
+<StartDate>01/26/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841129049</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL8GLEVH6MG3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF UTAH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841129049</ZipCode>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152500</Code>
+<Text>Physical &amp; Dynamic Meteorology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~236421</FUND_OBLG>
+</Award>
+</rootTag>

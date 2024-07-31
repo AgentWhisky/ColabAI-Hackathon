@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Waves in Random Media: from Asymptotics to Imaging]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>269914.00</AwardTotalIntnAmount>
+<AwardAmount>174239</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stacey Levine</SignBlockName>
+<PO_EMAI>slevine@nsf.gov</PO_EMAI>
+<PO_PHON>7032922948</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The goal of the project is to use mathematical analyses to advance noninvasive imaging capabilities of biological tissues. This is a fundamental challenge for medical applications, not only for diagnostics but also for research in biology and medicine, with potential daily benefits to our society. Image quality is hindered by complex physical effects arising when light propagates in the sample, however, high resolution is achievable by combining subtle techniques involving state-of-the-art experimental systems, mathematical modeling, and computations. This project will introduce new methods for imaging that both improve on existing strategies and are successful in regimes where current approaches fail. In addition, interdisciplinary training at the intersection of mathematics, physics, engineering, and computational sciences will be offered to the next generation of scientists.&lt;br/&gt;&lt;br/&gt;The project consists of four related research directions. The first concerns the asymptotic characterization of the speckle, which is the fully randomized part of the wavefield, and of the aberrations, which are random phases distorting the wavefront. Both are essential for the design of efficient imaging methods, and the approach will be based on asymptotics of random partial differential equations and probabilistic techniques. The second project is related to the field of adaptive optics, consisting in estimating the aberrations for wavefront correction. The goal is to develop new correction algorithms based on the so-called distortion operator method, which is an original approach recently developed by physicists. The objectives of the third project are to investigate novel ideas for speckle imaging for which standard methods break down. Blind source separation techniques which only require a minimal number of measurements will be used to address this challenge. The fourth project will leverage the potential of machine learning to develop new imaging algorithms and test them against state-of-the-art methods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404785</AwardID>
+<Investigator>
+<FirstName>Olivier</FirstName>
+<LastName>Pinaud</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Olivier Pinaud</PI_FULL_NAME>
+<EmailAddress><![CDATA[pinaud@math.colostate.edu]]></EmailAddress>
+<NSF_ID>000629951</NSF_ID>
+<StartDate>05/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Colorado State University]]></Name>
+<CityName>FORT COLLINS</CityName>
+<ZipCode>805212807</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress><![CDATA[601 S HOWES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LT9CXX8L19G1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLORADO STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Colorado State University]]></Name>
+<CityName>FORT COLLINS</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>805214593</ZipCode>
+<StreetAddress><![CDATA[200 W. Lake St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~174239</FUND_OBLG>
+</Award>
+</rootTag>

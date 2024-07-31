@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Free boundary and homogenization problems in active matter]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>240000.00</AwardTotalIntnAmount>
+<AwardAmount>240000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The project is aimed at the development and analysis of mathematical models of active matter (a.k.a. active materials), which is a rapidly growing research area. The key feature of active matter is the presence of "active agents" that convert energy from the environment into mechanical motion, e.g., a bacterium "eats" and converts chemical energy into mechanical motion. The research on active matter addresses the complex behavior of both biological systems and bio-inspired manufactured materials. Two areas of active matter will be studied: active gels and suspensions of active swimmers in fluids. In the first area, the focus will be on active gels such as the cytoskeleton gel that drives the motion of a living cell. Understanding this motion is important because of its role in wound healing, immune response, and cancer metastasis. The key challenge of the proposed mathematical models is the presence of a moving deformable boundary ("free boundary") of the domain where the equations of motion of the active gel are defined. The project will address fundamental mathematical questions concerning the stability of solutions to differential equations in domains with a free boundary. In the second area, the focus will be on the collective motion of bacteria in anisotropic biofluids. The aim here is to provide a theoretical basis for understanding the behavior of complex biological systems such as dense bacterial colonies. The proposed work in both areas will result in the development of novel mathematical techniques that can be applied to various problems in biophysics and materials science. This award will provide opportunities for involvement of students in the research projects.&lt;br/&gt;&lt;br/&gt;The proposed work is aimed at the rigorous analysis of recently developed free boundary and homogenization PDE models of active matter. The project will investigate two areas of active matter: (A) crawling cell motion on a substrate and (B) collective motion of microswimmers in anisotropic fluids. The goal of the proposed work is two-fold: to develop novel mathematical techniques for the analysis of active systems that are out of thermodynamic equilibrium, and to provide a better understanding of the biophysical phenomena in areas (A) and (B). In area (A), novel asymptotic techniques for spectral analysis of non-self-adjoint operators will be developed to rigorously prove bistability, i.e., the coexistence of two stable states of the cell: motile and sessile states. Due to the nonlinearity and non-self-adjointness of the free boundary problem that models cell motion, new techniques for both linear and nonlinear stability analysis will need to be developed. In area (B), the PI will develop novel stochastic homogenization techniques to obtain explicit asymptotic formulas for the effective rheological properties.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/13/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/13/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404546</AwardID>
+<Investigator>
+<FirstName>Leonid</FirstName>
+<LastName>Berlyand</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leonid V Berlyand</PI_FULL_NAME>
+<EmailAddress><![CDATA[lvb2@psu.edu]]></EmailAddress>
+<NSF_ID>000379505</NSF_ID>
+<StartDate>05/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168021503</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPM2J7MSCF61</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE PENNSYLVANIA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>168021503</ZipCode>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~240000</FUND_OBLG>
+</Award>
+</rootTag>

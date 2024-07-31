@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Expanding the Genetic Lexicon with Designer Genetic Alphabets]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>1120000.00</AwardTotalIntnAmount>
+<AwardAmount>1120000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David J. Klinke</SignBlockName>
+<PO_EMAI>dklinke@nsf.gov</PO_EMAI>
+<PO_PHON>7032922890</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The project aims to explore how the rules of life’s genetic alphabet (A, T, G, C) can be generalized beyond four letters. Rather than the natural 4-letter alphabet, this project will develop model systems to study the biomolecular properties of a 6-letter alphabet. The research seeks to provide a deeper understanding of the relationship between the chemical structures of the genetic molecules of life and their biological functions. The broader implications of this research include potential advancements in biotechnology and synthetic biology, which could lead to the discovery of novel types of therapeutics and biocatalysts. An integrated ethicist in the project team will examine the conceptual, ethical, and societal implications emerging from research on expanded genetic alphabets.&lt;br/&gt;&lt;br/&gt;From a technical perspective, the project will focus on mapping critical transfer RNA and messenger RNA interactions necessary for ribosomal translation of a 216-codon genetic code (6-letter alphabet ATGCPZ). The project will use both synthetic biology and chemical biology strategies to precisely measure these interactions in model systems. Research will begin with measuring translation efficiency from codon-anticodon pairs that contain P or Z nucleotides using in vitro transcription/translation. In parallel, this work will develop new methods in next-generation sequencing to measure the fidelity of transcription of 6-letter RNA alphabets, both in vitro and in vivo. Findings from this project will then be applied to study the effectiveness of translation in an engineered synthetic biology host (E. coli). The goal of this latter aim is to establish which tRNAs and which 6-letter codon pairs should be used for expanded genetic code research. Technical development of expanding genetic alphabets will integrate ethical evaluations, ensuring that innovations in synthetic biology are responsibly aligned with societal values and public trust. Collectively, this project will explore biological diversity beyond that which currently exists in nature and is supported by the Systems and Synthetic Biology Cluster of the Division of Molecular and Cellular Biosciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419300</AwardID>
+<Investigator>
+<FirstName>Shuichi</FirstName>
+<LastName>Hoshika</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shuichi Hoshika</PI_FULL_NAME>
+<EmailAddress><![CDATA[shoshika@ffame.org]]></EmailAddress>
+<NSF_ID>000764759</NSF_ID>
+<StartDate>07/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeantine</FirstName>
+<LastName>Lunshof</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeantine E Lunshof</PI_FULL_NAME>
+<EmailAddress><![CDATA[jeantine.lunshof@wyss.harvard.edu]]></EmailAddress>
+<NSF_ID>000870579</NSF_ID>
+<StartDate>07/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jorge</FirstName>
+<LastName>Marchand</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jorge A Marchand</PI_FULL_NAME>
+<EmailAddress><![CDATA[jmarcha@uw.edu]]></EmailAddress>
+<NSF_ID>000928324</NSF_ID>
+<StartDate>07/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981951016</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress><![CDATA[4333 BROOKLYN AVE NE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WASHINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>SEATTLE</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981951016</ZipCode>
+<StreetAddress><![CDATA[4333 BROOKLYN AVE NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>801100</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1120000</FUND_OBLG>
+</Award>
+</rootTag>

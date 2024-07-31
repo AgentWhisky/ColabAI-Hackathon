@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: Dynamic Models of Disturbance and Resilience]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>196032.00</AwardTotalIntnAmount>
+<AwardAmount>196032</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitry Golovaty</SignBlockName>
+<PO_EMAI>dgolovat@nsf.gov</PO_EMAI>
+<PO_PHON>7032922117</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>As human impacts on ecosystems and climate intensify, promoting resilience of natural and social communities has emerged as a critical goal. But despite the widespread use of resilience language in the environmental literature, its definition is often omitted or disputed. The mathematical field of dynamical systems is recognized as a common language in which to formalize and reconcile sometimes disparate notions of resilience. Using this lens, one finds that a majority of resilience metrics are based on equilibria (steady states) of a system and the like, despite the fact that repeated disturbances such as fires and hurricanes can drive a system far away from these states. This project addresses this gap in the dynamical theory of disturbance and resilience. The two research threads described below advance our understanding of non-equilibrium dynamics and the interactions between ongoing disturbance and recovery. In addition to connecting the PI to research collaborators at other institutions, the project broadens undergraduate research opportunities at Carleton, the liberal arts college where the PI teaches. Seniors engage with the PI's research through capstone projects, while summer research students are recruited earlier in their college careers from campus programs that serve groups historically minoritized in STEM. To enhance student research experiences and build community among local applied mathematicians, the project also supports a pilot series of vertically integrated summer workshops themed on communication.&lt;br/&gt;&lt;br/&gt;Characterizing the outcome of ongoing disturbances in dynamical models of ecosystems leads to novel mathematical questions addressed in two research threads of this project. The first thread generalizes the concept of "intensity" from attractors to Morse sets in order to measure vulnerability of a broader class of dynamic structures to disturbance. Prior intensity theory describes resilience of attractors to unknown time-varying perturbations and/or modeling errors. In collaboration with experts in Conley theory, the PI extends intensity first to repellers and then to general Morse sets. The second research thread, flow-kick models, investigates the dynamics induced when periodic, discrete disturbances ("kicks") punctuate continuous recovery modeled by a flow. To inform scientists' model selection, the PI and collaborators investigate the conditions under which ordinary differential equations (ODEs) capture the rough dynamics of a flow-kick system. Based on existing results for hyperbolic fixed points and saddle-node bifurcations, it is conjectured that periodic orbits and Hopf bifurcations continue from an ODE model to "nearby" flow-kick models with the same average disturbance rate.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418973</AwardID>
+<Investigator>
+<FirstName>Katherine</FirstName>
+<LastName>Meyer</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Katherine J Meyer</PI_FULL_NAME>
+<EmailAddress><![CDATA[kjmeyer@carleton.edu]]></EmailAddress>
+<NSF_ID>000786801</NSF_ID>
+<StartDate>07/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Carleton College]]></Name>
+<CityName>NORTHFIELD</CityName>
+<ZipCode>550574001</ZipCode>
+<PhoneNumber>5072224303</PhoneNumber>
+<StreetAddress><![CDATA[1 N COLLEGE ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KALKKJL418Q7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARLETON COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carleton College]]></Name>
+<CityName>NORTHFIELD</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>550574001</ZipCode>
+<StreetAddress><![CDATA[1 N COLLEGE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>217Y00</Code>
+<Text>LEAPS-MPS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~196032</FUND_OBLG>
+</Award>
+</rootTag>

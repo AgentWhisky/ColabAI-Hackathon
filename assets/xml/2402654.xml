@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Minimally-invasive Patient-specific Intracardiac Implants]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaime A. Camelio</SignBlockName>
+<PO_EMAI>jcamelio@nsf.gov</PO_EMAI>
+<PO_PHON>7032922061</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is the development of a transcatheter manufacturing platform. Mass-produced, off-the-shelf medical implants often fail to match the geometric, mechanical, and biological characteristics of human anatomy. Traditional manufacturing techniques typically involve hard materials and are restricted to producing pre-defined devices in a limited range of sizes and shapes. However, human anatomy is composed of soft and delicate tissues displaying a virtually-limitless range of sizes and shapes with complex convexities, concavities, lobes, and trabeculations. This profound patient-device mismatch leads to poorly-fitting implants, sub-optimal treatment outcomes, local tissue damage, impaired healing responses, lengthy pre-procedural workflows, and elevated risk for peri- and post-procedural complications. Successful realization of this vision would represent a paradigm shift in medical manufacturing technology and open the door for better outcomes for patients, providers, and the overall healthcare system. &lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of a manufacturing technology for point-of-care, minimally-invasive, patient-specific implant generation directly inside the human body. The envisioned toolkit leverages technical and conceptual advancements in materials science, additive manufacturing, catheter-based technologies, and implantable devices.  The proposed solution will allow clinicians to deliver, assemble, and stabilize soft biomaterials at the target tissue site. Densely-compacted biopolymeric building blocks are fluidized and delivered via catheter into a distensible biopolymeric encapsulation layer. At the target tissue, the soft building blocks are additively-layered into user-defined 3D shapes that self-heal to match the size and shape of the host anatomy. Finally, the outer encapsulation mesh provides additional stability to support long-term structural integrity and rapid tissue healing and bio-integration. Together, this system could enable bottom-up fabrication of atraumatic, personalized 3D medical implants in deep anatomic locations without any need for invasive surgery or pre-procedural planning and device selection.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402654</AwardID>
+<Investigator>
+<FirstName>Ellen</FirstName>
+<LastName>Roche</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ellen Roche</PI_FULL_NAME>
+<EmailAddress><![CDATA[eroche@seas.harvard.edu]]></EmailAddress>
+<NSF_ID>000782720</NSF_ID>
+<StartDate>01/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>004E</Code>
+<Text>BIOMEDICAL ENG AND DIAGNOSTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

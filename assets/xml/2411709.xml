@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Particle Astrophysics with The Super-Kamiokande Detector]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Wester</SignBlockName>
+<PO_EMAI>wwester@nsf.gov</PO_EMAI>
+<PO_PHON>7032924677</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Super-Kamiokande (SK) is a world leading particle physics experiment studying neutrinos, which are subatomic particles that are produced naturally (e.g. in stellar cores and cosmic ray interactions with the earth atmosphere) as well as artificially (e.g. in nuclear reactors and dedicated neutrino beams using particle accelerators). This project focuses on neutrinos from non-accelerator sources, in particular solar neutrinos, neutrinos from supernova explosions, other possible sources of cosmic neutrino neutrinos, and reactor neutrinos. The research impacts particle physics as well as astrophysics. The research will involve and be used in the education and training of graduate, undergraduate and K-12 students. It is also of interest to a next-generation neutrino detector called Hyper-Kamiokande which is currently under construction in Japan. The research uses new methods of identifying neutrino interactions from unfiltered detector data such as machine learning and high data volume processing thereby training students in this important emerging field of computer science.&lt;br/&gt; &lt;br/&gt;A previous NSF grant supported the design, construction, and installation of a new trigger system, the Wideband Intelligent Trigger (WIT) in the Super-Kamiokande detector as well as analysis of its data. WIT completely processes all off the data in the un-triggered, raw stream and extracts electrons with high efficiency down to 2.49 MeV, the limit of stable and reliable event reconstruction at Super-Kamiokande: the group searches and reconstructs potential candidates in each data block independently to reduce background, processing time and final data size to a manageable level. Using WIT, UCI has identified solar neutrino interactions at lower energies than before in SK (below 3.49 MeV). Such neutrinos are less susceptible to the “MSW effect” than higher energy solar neutrinos. UCI is studying the validity and details (such as energy dependence) of the MSW effect. SK has now been upgraded by dissolving Gd2(SO4)3, to enhance its neutrino detection capabilities. Previously, neutrons in SK were observed by the 2.2 MeV gamma emitted from capture on Hydrogen after about 200 micro-seconds. On average there were only seven detected photons, and the detection efficiency was quite low. Now, after the upgrade, about 50% of the neutrinos will capture on Gd which makes an 8 MeV gamma cascade and produces about 22 detected photons per capture after about 35 micro-seconds. UCI created a data sample below 100 MeV with the most sensitivity to search for neutrinos coincident with supernovae in nearby galaxies, gravitation wave detections, gamma ray bursts, and high-energy neutrinos. We expect large improvements in the sensitivity of such searches from our current program to further reduce the background from cosmic ray muon-induced spallation. This data sample also searches for the “diffuse sea” of neutrinos emitted by all supernovae up to a red shift of about 1. The improved neutron detection efficiency improves the separation from supernova anti-neutrino interactions from background.&lt;br/&gt;&lt;br/&gt;The award is aligned with the NSF Big Idea of Windows on the Universe: the Era of Multi-messenger Astrophysics as it coordinates the use of multi-messengers observations utilizing cosmic neutrinos and providing alerts to the larger community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411709</AwardID>
+<Investigator>
+<FirstName>Henry</FirstName>
+<LastName>Sobel</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Henry W Sobel</PI_FULL_NAME>
+<EmailAddress><![CDATA[hsobel@uci.edu]]></EmailAddress>
+<NSF_ID>000148445</NSF_ID>
+<StartDate>07/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>IRVINE</CityName>
+<ZipCode>926970001</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress><![CDATA[160 ALDRICH HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA47</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MJC5FCYQTPE6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA IRVINE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MJC5FCYQTPE6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Super-Kamiokande Neutrino Observatory]]></Name>
+<CityName>Hida, Gifu, Japan</CityName>
+<StateCode/>
+<ZipCode>5061205</ZipCode>
+<StreetAddress><![CDATA[456 Kamiokacho Higashimozumi]]></StreetAddress>
+<CountryCode>JA</CountryCode>
+<CountryName>Japan</CountryName>
+<StateName>RI REQUIRED</StateName>
+<CountryFlag>0</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF>""</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>107Y00</Code>
+<Text>WoU-Windows on the Universe: T</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>723500</Code>
+<Text>Particle Astrophysics/Undergro</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>069Z</Code>
+<Text>Windows on the Universe (WoU)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7235</Code>
+<Text>UNDERGROUND PHYSICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~500000</FUND_OBLG>
+</Award>
+</rootTag>

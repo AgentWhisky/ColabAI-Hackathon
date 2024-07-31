@@ -3,6 +3,7 @@
 .vscode
 node_modules/
 .env
+.venv
 
 # Client Files
 client/.angular/

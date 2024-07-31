@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Engineering drugs that sense and respond to disease]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>275000.00</AwardTotalIntnAmount>
+<AwardAmount>275000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erik Pierstorff</SignBlockName>
+<PO_EMAI>epiersto@nsf.gov</PO_EMAI>
+<PO_PHON>7032922165</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to create cancer medicines that turn on only at the site of disease and remain inactive in healthy tissues. An estimated 90% of drugs fail to gain FDA approval, in large part due to off-target side effects and dose-limiting toxicities. This is because drugs are typically active all throughout the body, where the drug can act on disease tissue and healthy tissue. This is especially problematic when deploying potent cancer immunotherapies. Cancer immunotherapies are designed to stimulate the immune system to fight cancer and have been a revolutionary approach in the last decade. The discovery of immune checkpoint inhibitors garnered the Nobel Prize in Chemistry, and now many patients are commonly prescribed treatments such as Keytruda and Yervoy. However, indiscriminate immune activation can be lethal to patients, cause long-term complications, and limit the full potential these treatments. This project aims to develop a method to turn on these drugs only at the site of disease to create drugs that are safer and more effective to treat cancer.&lt;br/&gt;&lt;br/&gt;The proposed project focuses on creation of protein switches that “turn on” when they see a pre-defined disease signal at the site of disease. Specifically, this project aims to control the activity of a previously approved immunotherapy. This immunotherapy increases immune responses toward many types of cancer, but it is underutilized due to off-target side-effects and toxicity. To overcome this issue, a new version must be engineered to act locally at the site of disease, akin to how the body naturally mounts an immune response. This problem is being addressed by engineering protein therapeutics that sense-and-respond to disease. This protein therapeutic will be modified to only turn on when it sees a disease signal associated with many cancers. Locally acting therapeutics remain a long-standing goal in medicine, but current technologies used to locally deliver protein therapeutics lack versatility and truly local activity. In contrast, the proposed approach uses a versatile mechanism to control a protein’s activity following engineering principles. This phase I proposal may create proof of concept data to show that this novel technology can conditionally trigger a therapeutic response by a pre-defined disease signal. This platform technology may also be adapted to extend to other protein-based drugs and impact many other areas of therapeutic development.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404668</AwardID>
+<Investigator>
+<FirstName>Elliot</FirstName>
+<LastName>Tague</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elliot P Tague</PI_FULL_NAME>
+<EmailAddress><![CDATA[elliot.tague@gmail.com]]></EmailAddress>
+<NSF_ID>000964669</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SYNSORYBIO, INC.]]></Name>
+<CityName>SOMERVILLE</CityName>
+<ZipCode>021431803</ZipCode>
+<PhoneNumber>6306893922</PhoneNumber>
+<StreetAddress><![CDATA[24 WESLEY PARK APT 1]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E5NUDLZ5FKQ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SYNSORYBIO, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SYNSORYBIO, INC.]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394980</ZipCode>
+<StreetAddress><![CDATA[325 Vassar St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1982</Code>
+<Text>BIOLOGICAL CHEMISTRY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~275000</FUND_OBLG>
+</Award>
+</rootTag>

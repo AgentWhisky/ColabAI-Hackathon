@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Frameworks: hpcGPT: Enhancing Computing Center User Support with HPC-enriched Generative AI]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>360000.00</AwardTotalIntnAmount>
+<AwardAmount>360000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Varun Chandola</SignBlockName>
+<PO_EMAI>vchandol@nsf.gov</PO_EMAI>
+<PO_PHON>7032922656</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[hpcGPT is a question answering service for academic computing centers such as the National Center for Supercomputing Applications, Ohio Supercomputer Center, San Diego Supercomputer Center, and Texas Advanced Computing Center. These Centers provide high-performance computing (HPC) platforms to tens of thousands of users for science and engineering research. In collaboration with Princeton University and Rutgers University, hpcGPT uses generative artificial intelligence (AI) and integrates heterogeneous data sources with different update frequencies to enhance the user support service quality and efficiency, decrease the response time, and improve precision of the support. With hpcGPT, user support teams can leverage the historical knowledge, real-time system status, and external technical expertise to better support the HPC users. With the high-quality and timely answers from hpcGPT, HPC users can resolve many technical issues, thus reducing the workload of the user support teams. This will allow the support teams to focus more on new and novel support issues. hpcGPT will significantly enhance the user support service quality, capacity, and efficiency without increasing the human effort.&lt;br/&gt;&lt;br/&gt;hpcGPT combines the fine-tuning and Retrieval Augmented Generation (RAG) techniques to incorporate recent knowledge, past experience, domain expertise, documentations, and real-time system status of versatile computing. By building upon existing and recognized capabilities in large language model fine-tuning and hosting, retrieval augmentation generation, and external data source integration, hpcGPT reduces the complexity and effort required to align information and identify dependencies between questions, answers, and the supporting information. This is particularly beneficial for research groups and computing centers with diverse application requirements and limited staff. hpcGPT extends and translates a suite of Cyberinfrastructure building blocks and technologies such as large language model training and inference service hosting.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411295</AwardID>
+<Investigator>
+<FirstName>Volodymyr</FirstName>
+<LastName>Kindratenko</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Volodymyr V Kindratenko</PI_FULL_NAME>
+<EmailAddress><![CDATA[kindrtnk@illinois.edu]]></EmailAddress>
+<NSF_ID>000316832</NSF_ID>
+<StartDate>04/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>506 S WRIGHT ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>077Z</Code>
+<Text>CSSI-1: Cyberinfr for Sustained Scientif</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~360000</FUND_OBLG>
+</Award>
+</rootTag>

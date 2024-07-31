@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PFI-TT: Development of Electric Motors that Create Magnetic Forces to Eliminate Bearings]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>550000.00</AwardTotalIntnAmount>
+<AwardAmount>550000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samir M. Iqbal</SignBlockName>
+<PO_EMAI>smiqbal@nsf.gov</PO_EMAI>
+<PO_PHON>7032927529</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Partnerships for Innovation – Technology Translation (PFI-TT) project is to transform the reliability, lifetime, efficiency, and overall utility of electric motors and generators. Motors are everywhere across our societal infrastructure — from transportation and logistics to medical and manufacturing. Uptime, reliability, and energy efficiency are critical concerns. The bearings used in today’s motors limit the performance of the systems and the deployment of more energy efficient technologies. It is estimated that up to 75% of all motor failures are due to bearings. Concerns about further exacerbating bearing lifetime issues often limit the use of variable speed motor drives.  Additionally, current bearing lubrication processes pose contamination hazards for many systems. Decarbonization and electrification efforts have elevated these concerns across many industries, leading to product development of oil-free and contact-free bearings, such as magnetic and gas bearings. However, the commercial success of these products has been limited by cost and/or low performance. This PFI project provides a cost-effective solution by using electromagnetism within the electric motor to create shaft forces. The project initially targets industrial compressor systems but promises to revolutionize the entire motor industry. Successful adaptation will enable a 9% reduction in U.S. electric energy consumption.&lt;br/&gt;&lt;br/&gt;The project addresses challenges that must be overcome to realize cost-effective, oil-free machinery through the use of force-capable electric motors. This technology will be demonstrated at a power scale necessary to justify commercial development. To achieve these objectives, the research plan targets (1) scaling design aspects and assumptions of bearingless motors to the high-power levels required of industrial compressors and (2) creating a low-cost, bolt-on set of electronics that can transform a standard electric motor system into a system that will be capable of creating and controlling shaft forces. A key challenge limiting commercialization of this technology is that all available test data has been conducted at low power levels with inadequate energy efficiency for the markets in greatest need of this technology. The project will leverage recent research advancements in combined winding design and control techniques to improve efficiency and enable the use of standard motor system components. The project will use a professional-grade dynamometer to measure the torque-speed-efficiency characteristics of a 100 kW bearingless motor system composed of a standard motor drive, standard motor with a custom winding, and newly developed control electronics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414861</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Severson</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric L Severson</PI_FULL_NAME>
+<EmailAddress><![CDATA[sever@umn.edu]]></EmailAddress>
+<NSF_ID>000760020</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress><![CDATA[200 OAK ST SE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota]]></Name>
+<CityName>Minneapolis</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554552070</ZipCode>
+<StreetAddress><![CDATA[111 Church Street SE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>166200</Code>
+<Text>PFI-Partnrships for Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8616</Code>
+<Text>Instr Rsrch,Metro&amp;Std NanTech</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~550000</FUND_OBLG>
+</Award>
+</rootTag>

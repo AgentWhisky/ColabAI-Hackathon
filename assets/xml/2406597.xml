@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Studies of Dislocation Drag at High Strain Rates with Laser-Induced Micro-projectile Impact]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy C. Crone</SignBlockName>
+<PO_EMAI>wcrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The plastic deformation of metals and alloys is controlled by the motion of imperfections in the material, called dislocations. At low deformation rates, dislocations overcome barriers through thermal fluctuations. At high strain rates, on the other hand, they interact with lattice vibrations (phonons) as they move at high speeds. Understanding the transition from thermal activation to dislocation-phonon interaction is critical for designing alloys that can withstand extreme conditions, such as impact loading. However, experimental approaches to study the high deformation rate regime are typically resource-intensive and low throughput. This award supports research in developing a novel, small-scale, high-throughput approach to study the characteristics of dislocation-phonon interactions in metals and alloys at extremely high deformation rates. The approach will also be used to systematically study the effect of alloying elements and grain size. The research will enable the design of new alloys that can suppress catastrophic failures at high deformation rates, with the potential to benefit the defense, automotive, and aerospace industries. A range of training, education, outreach, and dissemination activities will be carried out to promote diversity, equity, and inclusion among K-12 students and undergraduate students from underrepresented groups. The team will create a lab module and utilize it extensively for local outreach efforts. Additionally, education and workforce development initiatives will inform students about exciting new opportunities in the field of mechanics of metallic materials.&lt;br/&gt;&lt;br/&gt;As the strain rate increases, the dominant deformation mechanism in metals and alloys shifts from the thermally activated motion of dislocations to significant dislocation-phonon drag. The overall goal of this project is to systematically understand the dislocation-phonon drag regime in metallic materials across a wide range of strain rates. The mechanistic differences in similar deformation geometries from laser-induced microprojectile impact testing and spherical nanoindentation will be leveraged to isolate and study the characteristics of the dislocation-phonon drag regime. A physically based constitutive framework will be developed that, when coupled with the experimental measurements of microprojectile impact and nanoindentation, can precisely quantify the dislocation-phonon drag regime. The integrated experimental-computational framework will be used to study the effect of alloying elements, their concentration, and grain size on the characteristics of the dislocation-phonon drag regime. The understanding provided by this work can open new alloy design guidelines and accelerate the development of structural alloys for applications involving high strain rates.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406597</AwardID>
+<Investigator>
+<FirstName>Mostafa</FirstName>
+<LastName>Hassani</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mostafa Hassani</PI_FULL_NAME>
+<EmailAddress><![CDATA[hassani@cornell.edu]]></EmailAddress>
+<NSF_ID>000790012</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress><![CDATA[341 PINE TREE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148502820</ZipCode>
+<StreetAddress><![CDATA[341 PINE TREE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>163000</Code>
+<Text>Mechanics of Materials and Str</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022E</Code>
+<Text>SOLID MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>024E</Code>
+<Text>MATERIALS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~400000</FUND_OBLG>
+</Award>
+</rootTag>

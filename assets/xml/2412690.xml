@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Exploring and Harnessing the Collective Motion of the Nematode Turbatrix Aceti]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>374371.00</AwardTotalIntnAmount>
+<AwardAmount>132716</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Krastan Blagoev</SignBlockName>
+<PO_EMAI>kblagoev@nsf.gov</PO_EMAI>
+<PO_PHON>7032924666</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>We can be mesmerized by the sight of flocks of hundreds of birds flying together in unison or a school of fish collectively escaping a predator. Understanding this phenomenon of collective motion is of fundamental importance for science. The moving individuals comprising such groups, called active particles, do not have any leader that they follow and are able to synchronize their motion through simple visual or tactic interactions. This award will experimentally study the collective behavior of the nematode Turbatrix Aceti, a millimeter sized worms living in vinegar, that not only sync their directions of motion but also oscillate their bodies in unison. This additional complication in the cooperation between the individuals will allow the investigators to advance further the understanding of this fascinating field of study. By studying the physical rules that allow this collaborative motion, the investigators will be able in the future to make progress in synthetic active particles, for example in robotic applications. The project will specifically study the possibility of harnessing the collaborative motion of the nematodes to displace objects and produce on demand fluid flows.  This project will support several undergraduate and graduate students from underrepresented backgrounds, at a Hispanic-serving institution, allowing them to work on cutting-edge scientific research.&lt;br/&gt;&lt;br/&gt;The Principal Investigator (PI) of this award discovered that the nematode T. Aceti can synchronize their beating frequency and direction of motion to form striking, collectively beating, and moving metachronal waves. Therefore, the collective motion of this nematode is an example of a new kind of active matter: “swarmalators,” particles that can synchronize both their direction of motion and their oscillations. This gives rise to new active states absent in classical active matter, such as the above-mentioned collective metachronal waves and the recently discovered collectively oscillating filaments. The nematodes in these collective states can produce a strong pushing force and fluid flows that the PI expects to harness in the laboratory. This award has three goals. 1) To explore the properties of the collective states: understand the synchronization mechanism, the nature of the synchronization phase transition, and the reasons for symmetry breaking. 2) To study the motion of these nematodes in viscous and complex fluids, where the formation of oscillating filaments has been observed. 3) To explore the possibility of harnessing the collective motion of nematodes to push micro-boats or produce on-demand fluid flows. Several advanced techniques will be employed to collect and analyze the produced data: machine learning for the tracking of individual nematodes, real-time Optical Flow for the characterization of flows, and 3D printing for the fabrication of channels and micro-boats used in the project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412690</AwardID>
+<Investigator>
+<FirstName>Anton</FirstName>
+<LastName>Peshkov</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anton Peshkov</PI_FULL_NAME>
+<EmailAddress><![CDATA[apeshkov@fullerton.edu]]></EmailAddress>
+<NSF_ID>000839681</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[CSU Fullerton Auxiliary Services Corporation]]></Name>
+<CityName>FULLERTON</CityName>
+<ZipCode>928313014</ZipCode>
+<PhoneNumber>6572782106</PhoneNumber>
+<StreetAddress><![CDATA[1121 N STATE COLLEGE BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>45</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA45</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VQ5WK498QDC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CSU FULLERTON AUXILIARY SERVICES CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California State University, Fullerton]]></Name>
+<CityName>FULLERTON</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>928313599</ZipCode>
+<StreetAddress><![CDATA[800 N STATE COLLEGE BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>45</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA45</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>724600</Code>
+<Text>PHYSICS OF LIVING SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~132716</FUND_OBLG>
+</Award>
+</rootTag>

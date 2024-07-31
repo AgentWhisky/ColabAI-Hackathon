@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Spectral Asymptotics of Laplace Eigenfunctions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>83668.00</AwardTotalIntnAmount>
+<AwardAmount>61364</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanna Kania-Bartoszynska</SignBlockName>
+<PO_EMAI>jkaniaba@nsf.gov</PO_EMAI>
+<PO_PHON>7032924881</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The research project falls within the field of spectral asymptotics, which studies the behavior of high-frequency Laplace eigenfunctions on manifolds (surfaces and spaces with curvature). The physical analogues of eigenfunctions are standing waves, and the eigenvalues may be thought of as their corresponding frequencies. The interdependence between high-frequency eigenfunctions and the geometry of the manifold on which they live is central to a broad range of fields from quantum physics to number theory. Indeed, eigenfunctions are steady-state solutions to the Schrödinger equation, and their eigenvalues are the corresponding energies. To illustrate the connection to number theory, the task of accurately counting the number of eigenfunctions of a given frequency on the flat torus is equivalent to counting the number of ways an integer can be expressed as the sum of, say, two squares. This project aims to develop new tools to advance understanding in spectral asymptotics, whose interconnectedness to seemingly disparate areas of mathematics and science make its study particularly valuable. &lt;br/&gt;&lt;br/&gt;As part of the research project, the PI intends to develop and use tools from microlocal analysis and the theory of Fourier integral operators to refine a variety of formulas describing the behavior of high-frequency eigenfunctions, and in particular describing what effect the underlying geometry has on these formulas. The PI intends to make advancements towards a conjecture on the remainder term of the Weyl law for products of manifolds, to develop a general multilinear theory of Fourier integral operators for use in both spectral asymptotics and geometric measure theory, and to further explore the connection between spectral quantities and the presence of corresponding geometric configurations in the manifold.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2422900</AwardID>
+<Investigator>
+<FirstName>Emmett</FirstName>
+<LastName>Wyman</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Emmett L Wyman</PI_FULL_NAME>
+<EmailAddress><![CDATA[emmett.wyman@rochester.edu]]></EmailAddress>
+<NSF_ID>000758631</NSF_ID>
+<StartDate>03/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SUNY at Binghamton]]></Name>
+<CityName>BINGHAMTON</CityName>
+<ZipCode>139024400</ZipCode>
+<PhoneNumber>6077776136</PhoneNumber>
+<StreetAddress><![CDATA[4400 VESTAL PKWY E]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NQMVAAQUFU53</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GMZUKXFDJMA9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Binghamton]]></Name>
+<CityName>BINGHAMTON</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>139024400</ZipCode>
+<StreetAddress><![CDATA[4400 VESTAL PKWY E]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126500</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~61364</FUND_OBLG>
+</Award>
+</rootTag>

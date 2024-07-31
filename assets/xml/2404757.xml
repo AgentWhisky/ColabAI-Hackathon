@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Tools4Cells: Bimolecular proximity tagging]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>299772.00</AwardTotalIntnAmount>
+<AwardAmount>299772</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Cyr</SignBlockName>
+<PO_EMAI>rcyr@nsf.gov</PO_EMAI>
+<PO_PHON>7032928440</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Plant cells contain several compartments, each with unique functions. These compartments are connected by proteins that act as bridges by interacting with each other, resulting in complex "protein interaction networks." These protein interactions are dynamic and constantly fine tune cellular function. Even minor disruptions in protein interactions can substantially impact a cell’s function and its ability to adapt to changing environmental conditions. Therefore, mapping protein interaction networks can enrich our knowledge of cellular responses and help us develop strategies to enhance plant resilience to environmental changes. However, the available methods for identifying and analyzing protein interactions have limitations, particularly when the protein of interest is found in different cellular compartments. This project aims to close this gap by developing new molecular tools to identify protein-protein interactions within specific cellular compartments. This tool will be tested in plant cells and can be applied to study in numerous organisms. The Broader Impact of the work includes its intrinsic merit as all cells contain a myriad of interacting proteins.  Additional activities include the training of undergraduate students and postdoctoral researchers.&lt;br/&gt;&lt;br/&gt;When characterizing the biological roles of proteins in different cellular processes, it is crucial to map their interaction networks, known as "interactomes," and determine the timing and location of these interactions. Traditional methods often detect binary interactions but fail to identify complex interactions via multiple proteins. Furthermore, building an interactome becomes challenging when bait proteins have various subcellular locations. For example, the plant protein RAB-GTPase 7 (RAB7) localizes to endosomes and autophagosomes, where it performs different functions by interacting with different proteins in each location. Yet, only a few RAB7 interactors have been identified in endosomes, and only one in autophagosomes, severely limiting our ability to investigate the diverse biological pathways controlled by this protein. The location-specific interactions can be discovered by split proximity tagging approaches, which fuse a target and a known target interactor in a specific compartment with inactive halves of a biotin tagging enzyme. Once activated, the enzyme will biotinylate nearby proteins in that compartment. However, when expressed alone, the C-terminal enzyme half produces a significant background activity, hindering the analysis and severely limiting the tool's utility. This project aims to develop new split enzyme versions by combining bioinformatics, modular cloning, and in-planta activity assays. The research program will enable the selection of split proximity tagging tools with no background when expressed alone and which are efficient and specific once the enzyme activity is reconstructed. The project focuses on developing tools for plant systems, but given their versatility, these tools are useful across biological systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/28/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/28/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404757</AwardID>
+<Investigator>
+<FirstName>Cecilia</FirstName>
+<LastName>Rodriguez-Furlan</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cecilia I Rodriguez-Furlan</PI_FULL_NAME>
+<EmailAddress><![CDATA[c.rodriguezfurlan@wsu.edu]]></EmailAddress>
+<NSF_ID>000764840</NSF_ID>
+<StartDate>05/28/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Washington State University]]></Name>
+<CityName>PULLMAN</CityName>
+<ZipCode>991640001</ZipCode>
+<PhoneNumber>5093359661</PhoneNumber>
+<StreetAddress><![CDATA[240 FRENCH ADMINISTRATION BLDG]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XRJSGX384TD6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WASHINGTON STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Washington State University]]></Name>
+<CityName>PULLMAN</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>991644236</ZipCode>
+<StreetAddress><![CDATA[338 Abelson Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111400</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~299772</FUND_OBLG>
+</Award>
+</rootTag>

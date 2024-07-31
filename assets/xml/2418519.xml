@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: Multipole-Engineered Mie-Resonance Metasurfaces]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>249980.00</AwardTotalIntnAmount>
+<AwardAmount>249980</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Lane</SignBlockName>
+<PO_EMAI>plane@nsf.gov</PO_EMAI>
+<PO_PHON>7032922453</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Description&lt;br/&gt;&lt;br/&gt;Optics, the study of light, dates back millennia. From lenses in the ancient world to modern photonics, the control and manipulation of light has long fascinated humanity. Exploiting structures with dimensions on the order of the wavelength of light has been a long-held scientific aspiration. Nanoscale control of light will be crucial for developing next generation nanophotonic technologies. This project focuses on the composition and design of nanostructures of two-dimensional (2D) materials with complex geometries. The project will advance our fundamental understanding of light and lay the foundation for new ways to manipulate light at the nanoscale. The ultimate aim is to impact the development of the next generation of nanophotonic technologies. This project will contribute train graduate and undergraduate students in the intersection of materials science, nanotechnology, and physics. The project will engage students from underrepresented minority groups in New Mexico to broaden participation and attract individuals to STEM careers. Students undergo comprehensive training covering modeling, design, nanofabrication, and experimental characterization of photonic components. The computational aspect of the work will introduce students to advanced computational methods, thereby expanding their future career opportunities.&lt;br/&gt;&lt;br/&gt;Technical Description&lt;br/&gt;&lt;br/&gt;This research focuses on developing novel metasurfaces based on two-dimensional and layered materials and their heterostructures held together by van der Waals bonding forces. Leveraging these metasurfaces allows for the exciting possibility of scaling down the device significantly. This size reduction can be accomplished by incorporating resonant nanostructures, and these nanostructures facilitate the formation of highly localized optical fields, effectively enhancing the interactions between incident light and the nanostructure. Consequently, this enhancement significantly improves the device's sensitivity in detecting and responding to light signals. In this project, optical nanoantennas are designed out of nanostructured layered materials, and these nanoantennas are arranged into arrays to function as metasurface. This project seeks to explore the optical properties of van der Waals nanoantennas, specifically focusing on their nanoscale resonances, which are localized electromagnetic modes arising from the scattering of incident light by these nanostructures. Nanoantenna resonant responses, arising from electric and magnetic multipolar oscillations, are ideal for wave manipulation due to their diverse nanoscale modes and simple properties. The key novelty is to engineer multipolar resonances in nanoantennas based on layered materials to achieve desirable responses, control the directionality of scattered light, and narrow the linewidth of the resonances.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by Office of Strategic Initiatives of the Directorate for Mathematical and Physical sciences (MPS/OSI) and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418519</AwardID>
+<Investigator>
+<FirstName>Viktoriia</FirstName>
+<LastName>Babicheva</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Viktoriia Babicheva</PI_FULL_NAME>
+<EmailAddress><![CDATA[vbb@unm.edu]]></EmailAddress>
+<NSF_ID>000812972</NSF_ID>
+<StartDate>07/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of New Mexico]]></Name>
+<CityName>ALBUQUERQUE</CityName>
+<ZipCode>87131</ZipCode>
+<PhoneNumber>5052774186</PhoneNumber>
+<StreetAddress><![CDATA[1700 LOMAS BLVD NE STE 2200]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F6XLTRUQJEN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NEW MEXICO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of New Mexico]]></Name>
+<CityName>ALBUQUERQUE</CityName>
+<StateCode>NM</StateCode>
+<ZipCode>871063837</ZipCode>
+<StreetAddress><![CDATA[1700 LOMAS BLVD NE STE 2200]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177500</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~249980</FUND_OBLG>
+</Award>
+</rootTag>

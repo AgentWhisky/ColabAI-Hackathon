@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Quantum Hall Fractions and Frames]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>184720.00</AwardTotalIntnAmount>
+<AwardAmount>119723</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitry Golovaty</SignBlockName>
+<PO_EMAI>dgolovat@nsf.gov</PO_EMAI>
+<PO_PHON>7032922117</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project continues an interdisciplinary endeavor in physics, mathematics, and engineering to deepen our understanding of the quantum Hall effect (QHE) - a phenomenon in which conductance of an electron gas at low temperatures and strong magnetic fields exhibits a unique, staircase-like behavior. The precision of this effect is so remarkable (accurate to one part in a billion) that it underpins the modern metrological definitions of the kilogram and the ampere. The project aims to bridge a crucial gap in the current understanding of the QHE, specifically the lack of microscopic mathematical theory explaining 'anyons' in the fractional quantum Hall effect. Developing such a theory could advance efforts to construct and operate topological quantum computers. Furthermore, the investigator commits to training a new generation of scientists by involving graduate and undergraduate students in cutting-edge research in quantum information and engineering, promoting educational advancement and diversity in STEM fields. Through these efforts, the project not only advances scientific knowledge but also helps maintain a skilled workforce. &lt;br/&gt;&lt;br/&gt;The project focuses on the theory of integer and fractional QHE. While our understanding of integer QHE is quite robust, there remain several profound mathematical problems that have yet to be answered. Conversely, our comprehension of fractional QHE is limited, and there is no microscopic theory of anyons in the fractional quantum Hall effect - such a theory is highly relevant for applications in topological quantum computation. This project aims to advance our understanding of the fractional case and address open problems in the integer case. The project comprises two parts: (A) fractions in QHE and (B) frustration-free models of QHE. A significant problem in the theory of fractional QHE is explaining which fractions are admissible. Notably, a fractional Hall conductance of one half is not experimentally observed (is not admissible), while one third is. Numerous competing theories attempt to explain admissible fractions, but even within the realm of theoretical physics, there is no definitive answer to this problem. At a mathematical level of rigor, nothing is known. The investigator will study a new, symmetry-based explanation and further aims to make this explanation mathematically rigorous. The idea is to relate admissible fractions to symmetry constraints on a modular tensor category that describes anyonic excitations of the system. All exactly solvable models of anyons are frustration-free; however, none of these models describe the QHE. In (B), the goal is to demonstrate that this is not a coincidence and that all frustration-free models have zero Hall conductance. The investigator aims to establish a connection to the theory of frames and use this connection to prove the conjecture. The investigator will employ a diverse combination of mentoring activities to guide mentees' individual research processes and provide them with opportunities to participate in more advanced work. The project also includes sub-projects for undergraduate students aimed at filling a gap in research experience opportunities for undergraduate students at UC Davis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407290</AwardID>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Fraas</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Martin Fraas</PI_FULL_NAME>
+<EmailAddress><![CDATA[mfraas@ucdavis.edu]]></EmailAddress>
+<NSF_ID>000759598</NSF_ID>
+<StartDate>05/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Davis]]></Name>
+<CityName>DAVIS</CityName>
+<ZipCode>956186153</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress><![CDATA[1850 RESEARCH PARK DR STE 300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TX2DAGQPENZ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, DAVIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Davis]]></Name>
+<CityName>DAVIS</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>956186153</ZipCode>
+<StreetAddress><![CDATA[1850 RESEARCH PARK DR, STE 300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~119723</FUND_OBLG>
+</Award>
+</rootTag>

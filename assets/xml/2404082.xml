@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[APTO: Problem-Focused Analysis for Predicting Technology Outcomes and Leverage Points]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>1168047.00</AwardTotalIntnAmount>
+<AwardAmount>1168047</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15010000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TF</Abbreviation>
+<LongName>Technology Frontiers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tess DeBlanc-Knowles</SignBlockName>
+<PO_EMAI>tdeblanc@nsf.gov</PO_EMAI>
+<PO_PHON>7032924647</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Virtually every individual engaged in technical innovation, whether a university/industry researcher, investor, or policymaker, is seeking to 1) understand how the world of technology is likely to evolve and 2) identify opportunities where they can uniquely make an impact. Most approaches to predict technology outcomes and identify opportunities focus primarily on analyzing the existing “solution space”, i.e., cutting-edge technologies, recent inventions, and innovative startups claiming to offer a new and brighter future. While uncovering and systematically tracking such technology solutions is important and has become increasingly feasible given modern data-driven tools and approaches, it misses a critical piece of the equation: a deep understanding of the underlying problems and needs that such technologies aim to address and overcome. Ultimately, the value and readiness of any individual technology or technical ecosystem is a function of the problems/needs that it addresses, as well as the complicating problems/challenges that it creates. In practice, a failure to understand the presence, status, and importance of problems associated with technology can lead to serious blind-spots, including poor investment decisions driven by inaccurate predictions of technology trajectory, poor assessments of technology value, and missed opportunities for innovation and partnership. &lt;br/&gt;&lt;br/&gt;This project aims to equip technology innovators and investors with a more holistic view of the technology landscape by building a deeper understanding of not only the relevant technologies and organizations involved, but also the complex network of problems that drive such innovation forward. Leveraging cutting-edge data mining and AI/machine learning, comprehensive datasets of the current and historical problems-to-be-solved in various technical domains, along with a range of diverse metrics for each will be created. These data will be compared against historical outcomes to isolate potential statistical factors that may be predictive of both technology capability outcomes, as well as high-leverage problems on which to focus technical research and investment. The intended outcome is for innovators to be able to better understand how to spot hidden opportunities for high-value research/innovation, assess the value/breadth of impact of individual technologies, identify ideal partners working on complementary problems/technologies, highlight high-leverage organizations/efforts where additional investment dollars could make the biggest impact on technology/market outcomes, and better monitor and predict how broader technical ecosystems are likely to evolve over the long-term. &lt;br/&gt;&lt;br/&gt;Specifically, the project involves 1) collecting a massive set of technical, industry, and other data sources, including global patents, scientific journals, trade publications, industry news, etc. across three selected technical domains; 2) applying a range of proprietary and open-source AI/NLP models and techniques to identify, cluster, structure, label, and summarize problems, technologies, and organizations; 3) analyzing the set of aggregated problems, technologies, and organizations according to various statistical metrics, e.g., publishing activity, language patterns, network statistics, etc; 4) building “ground-truth” datasets for comparison based on SME surveys and historical datasets; and 5) identifying potential predictive factors, and making recommendations for integrating such problem-oriented datasets into broader, downstream modeling efforts. In addition to providing immediate insights on the chosen technical domains, resulting datasets and learnings from this project could serve as a proof-of-concept for systematically integrating problem-based analyses into future technology forecasting efforts, as well as R&amp;D and policy investment planning, technology/company valuation, partner identification for collaborative R&amp;D and technology transfer/licensing, and much more.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/20/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404082</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Fegely</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonathan Fegely</PI_FULL_NAME>
+<EmailAddress><![CDATA[jon@aperture.ai]]></EmailAddress>
+<NSF_ID>000947912</NSF_ID>
+<StartDate>06/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[ARTEMIS INTELLIGENCE LLC]]></Name>
+<CityName>ROCKY RIVER</CityName>
+<ZipCode>441161143</ZipCode>
+<PhoneNumber>4404624509</PhoneNumber>
+<StreetAddress><![CDATA[22 HIDDEN VLY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QHPTP89SJAA6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARTEMIS INTELLIGENCE, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[ARTEMIS INTELLIGENCE LLC]]></Name>
+<CityName>LAKEWOOD</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>441074124</ZipCode>
+<StreetAddress><![CDATA[14725 DETROIT AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>267Y00</Code>
+<Text>APTO-Assess-Predict Tech Outcm</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1168047</FUND_OBLG>
+</Award>
+</rootTag>

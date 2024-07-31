@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EDGE FGT: Functional genomics tools for the filamentous cyanobacterium Nostoc punctiforme]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>701884.00</AwardTotalIntnAmount>
+<AwardAmount>701884</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Theodore Morgan</SignBlockName>
+<PO_EMAI>tmorgan@nsf.gov</PO_EMAI>
+<PO_PHON>7032927868</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Cyanobacteria have major ecological impacts on the planet and are a valuable resource for biotechnology applications. These applications include production of biofuels, biofertilizers, and novel compounds with potential benefits to humans, such as natural sunscreens. Current research has focused on a small subset of these organisms that are relatively easy to manipulate but lack important traits of value to society. This project focuses on developing new tools to manipulate a filamentous cyanobacterium, Nostoc punctiforme, that exhibits many traits with potential utility, such as the ability to form symbiotic associations with plants that could reduce the use of nitrogen fertilizers, and the production of a naturally occurring sunscreen. The project will develop new genetic tools for the manipulation of this organism that will facilitate a better understanding of its natural biology and its genetic manipulation for various applications. The development of these tools will be accompanied by generation and dissemination of training materials that will allow other labs to adopt these tools and leverage them to understand the natural biology of this organism and manipulate it for purposes beneficial to society. Additionally, the project will support the training of undergraduate and graduate students, as well as the integration of research into college courses and an exhibition at the Colorado Springs Cool Science Festival.&lt;br/&gt;&lt;br/&gt;Compared to other model bacteria, much less is known about how cyanobacterial genomes dictate their phenomes, especially for the developmentally complex filamentous species. Moreover, widely adopted unicellular and filamentous model cyanobacteria have undergone laboratory domestication, leading to the loss of phenotypes observed in field isolates. As a result, these organisms cannot provide a complete understanding of the genome-phenome relationship in filamentous cyanobacteria. This limits our ability to understand how cyanobacterial genomes dictate their ecological roles in the field and how best to leverage cyanobacteria for potential applications. Nostoc punctiforme is a genetically tractable filamentous cyanobacteria that retains the phenotypic complexity of field isolates and is therefore an excellent model system for the development and application of functional genomics tools. The objective of this proposal is to develop a functional genomics tool kit for the model filamentous cyanobacterium N. punctiforme, including construction of a random bar code transposon-site sequencing (RB-TnSeq) library, generation of Cpf1-based CRISPR tools for gene deletion, allelic replacement, and integration of cargo DNA at neutral sites, and implementation of TurboID-based proximity labelling to define protein-protein interactomes. Development of these tools will be accompanied by training materials allowing other research groups to easily implement them. This will advance the communities’ ability to associate genotypes with phenotypes in filamentous cyanobacteria, furthering one of NSF’s 10 big ideas – Understanding the Rules of Life, and has the potential to advance various applications of filamentous cyanobacteria that could benefit society.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2420339</AwardID>
+<Investigator>
+<FirstName>Doug</FirstName>
+<LastName>Risser</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Doug Risser</PI_FULL_NAME>
+<EmailAddress><![CDATA[drisser@uccs.edu]]></EmailAddress>
+<NSF_ID>000675833</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Colorado at Colorado Springs]]></Name>
+<CityName>COLORADO SPRINGS</CityName>
+<ZipCode>809183733</ZipCode>
+<PhoneNumber>7192553153</PhoneNumber>
+<StreetAddress><![CDATA[1420 AUSTIN BLUFFS PKWY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RH87YDXC1AY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado Colorado Springs]]></Name>
+<CityName>COLORADO SPRINGS</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>809183733</ZipCode>
+<StreetAddress><![CDATA[1420 AUSTIN BLUFFS PKWY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>137Y00</Code>
+<Text>EDGE Tools</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>050Z</Code>
+<Text>EDGE Enabling Discovery through Genomic</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~701884</FUND_OBLG>
+</Award>
+</rootTag>

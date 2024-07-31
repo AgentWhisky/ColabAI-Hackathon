@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[APTO: Measuring, Understanding, Predicting, and Accelerating Technology Outcomes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>19979400.00</AwardTotalIntnAmount>
+<AwardAmount>3994747</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15010000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TF</Abbreviation>
+<LongName>Technology Frontiers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeff Alstott</SignBlockName>
+<PO_EMAI>jalstott@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Scientific and technological (S&amp;T) advances are key drivers of economic growth and rising standards of living and are central to improving health, maintaining a competitive workforce, and ensuring robust national security. Yet, despite gains in our quantitative understanding of S&amp;T progress, our ability to assess and predict how, when, and which research ideas and investments lead to successful applications remains elusive.  The primary challenge stems from longstanding empirical blind spots along the research-to-market pipeline.  As a result, many crucial questions remain open. For example, which specific research insights will actually penetrate the market and propel downstream technological capability, production, and use?  What are the characteristics of specific grants, ideas, researchers, and organizations that best predict tangible advances?  What specific hurdles obstruct progress, and where and how can these hurdles and slowdowns be overcome?  To address these challenges, Northwestern University, together with its partners, will pursue two lines of effort (LOE):  data and models.  The Data LOE creates a data pipeline linking research funding in science and technology to marketplace uses in wide-ranging application areas. The Model LOE builds on the Data LOE as well as prior work on the science of science to develop predictive and causal models of technology outcomes. Together, these datasets and models will provide the research community with tools to broaden the impact of federal R&amp;D investment, accelerate applications and social impact, and direct attention to diverse sources of breakthrough ideas. The ability to predict technological progress and pinpoint untapped opportunities for advancing targeted technology outcomes is expected to open new doorways to national progress. In addition to informing how investments in people, ideas, and organizations predict and promote advances in specific application areas, our models will leverage wide-ranging sources of valuable research ideas, remove barriers for underrepresented groups, and help less research-intensive institutions engage in successful commercialization.  &lt;br/&gt;&lt;br/&gt;The goal of this five-year research program is to establish a systematic, quantitative foundation for measuring, understanding, predicting, and accelerating technology outcomes. Despite rapid advances in our understanding of scientific and technological progress, quantifying and predicting what, when, and how we realize advances in specific application areas remains elusive. Key constraints involve data. This research program fills longstanding gaps through five interconnected research thrusts, building an integrated research-to-market data pipeline and creating new models that transform our ability to assess, predict, and accelerate technological progress. Thrust 1 unlocks the research-to-market pathway via Tech Bridge, a bold initiative to aggregate, integrate, and analyze university datasets, including technology transfer, human resources, and research offices. Linking data across a network of over 20 research institutions will create unparalleled opportunities for insight, bridging major gaps in the research-to-market pathway. Thrust 2 illuminates the journey from R&amp;D to market impact. A data lake will be constructed that leverages the power of licensing and startup data from Thrust 1 and builds machine learning models to predict the market impact of upstream R&amp;D investments. Thrust 3 integrates the data in Thrust 2 with deep dives into five technology areas -- additive manufacturing, synthetic biology, advanced materials, artificial intelligence algorithms, and therapeutics. Technology-specific outcomes will be traced to enable downstream predictions of technology capabilities, production, and use.  Thrust 4 builds models for technology outcomes.  The research team will first explore mechanisms governing the evolution of technological frontiers, then leverage machine learning models to train and test a series of inter-related modules along the research-to-market pipeline. Finally, Thrust 5 accelerates key technology outcomes through two frameworks:  A predictive framework identifies ideas, people, and organizations that have the potential to accelerate outcomes, and an intervention framework pinpoints untapped opportunities for federal R&amp;D to have a wider and faster impact.  The research team will link outcomes and their predictors upstream to all phases of research and development and estimate the market impact of specific ideas, investments, individuals, teams, and organizations. Partners include 21 public and private universities across 13 states, 1 national lab, 2 private organizations, and 1 association.   Overall, this integrated research-to-market data pipeline and new models aims to transform the ability to assess, predict, and accelerate technological progress.  New knowledge of how upstream R&amp;D and investments advance downstream technology outcomes will be realized alongside new abilities to identify bottlenecks and opportunities to multiply and accelerate the societal impact of R&amp;D and investments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404035</AwardID>
+<Investigator>
+<FirstName>Alicia</FirstName>
+<LastName>Loffler</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alicia I Loffler</PI_FULL_NAME>
+<EmailAddress><![CDATA[a-loffler@kellogg.northwestern.edu]]></EmailAddress>
+<NSF_ID>000380795</NSF_ID>
+<StartDate>06/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jian</FirstName>
+<LastName>Cao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jian Cao</PI_FULL_NAME>
+<EmailAddress><![CDATA[jcao@northwestern.edu]]></EmailAddress>
+<NSF_ID>000085589</NSF_ID>
+<StartDate>06/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Jones</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benjamin Jones</PI_FULL_NAME>
+<EmailAddress><![CDATA[bjones@kellogg.northwestern.edu]]></EmailAddress>
+<NSF_ID>000502404</NSF_ID>
+<StartDate>06/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dashun</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dashun Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[dashun.wang@kellogg.northwestern.edu]]></EmailAddress>
+<NSF_ID>000703307</NSF_ID>
+<StartDate>06/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yian</FirstName>
+<LastName>Yin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yian Yin</PI_FULL_NAME>
+<EmailAddress><![CDATA[yy994@cornell.edu]]></EmailAddress>
+<NSF_ID>000946061</NSF_ID>
+<StartDate>06/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress><![CDATA[633 CLARK ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602080898</ZipCode>
+<StreetAddress><![CDATA[2211 Campus Dr]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>267Y00</Code>
+<Text>APTO-Assess-Predict Tech Outcm</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~3994747</FUND_OBLG>
+</Award>
+</rootTag>

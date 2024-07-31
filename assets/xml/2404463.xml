@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Development of High-Field NV-detected NMR Spectroscopy for Nanoscale Chemical Sensing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>480000.00</AwardTotalIntnAmount>
+<AwardAmount>480000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelsey Cook</SignBlockName>
+<PO_EMAI>kcook@nsf.gov</PO_EMAI>
+<PO_PHON>7032927490</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, Susumu Takahashi and his group at the University of Southern California (USC) are devising novel means of improving the capability of nuclear magnetic resonance (NMR) spectroscopy and nuclear magnetic resonance imaging (MRI) – two important and widely used approaches to characterizing chemical systems. Their approach is based on quantum sensing, a physical measurement technique utilizing principles of quantum information science and technology. Specifically, the USC team is devising new approaches to quantum sensing-assisted NMR at high magnetic fields. Parallel educational efforts will focus on professional development to benefit graduate and undergraduate students as well as high school and elementary school students in USC’s neighborhood community, which has a high population of historically underrepresented minorities.&lt;br/&gt;&lt;br/&gt;Nuclear Magnetic Resonance (NMR) spectroscopy is a powerful technique for the investigation of structures and structural dynamics at the atomic and molecular levels. However, because of intrinsically low sensitivity, NMR often requires samples of relatively large volume.  By exploiting the nitrogen-vacancy (NV) center in diamond, NMR sensitivity can be improved dramatically, down to the level of a single spin. NV-Detected NMR spectroscopy at high magnetic fields can provide significant advantages in investigations that benefit from fine spectral resolution, high signal sensitivity, and detection of nuclear spins with small gyromagnetic ratios. Under this award, the Takahashi group will use high-field NV-NMR to probe surface chemistry and nanoscale spin dynamics.  If successful, this approach will provide a new way for analytical chemists to enhance sensitivity in NMR experiments, with potential broad long term scientific impacts on focused molecular experiments and on magnetic resonance imaging methods, as well.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404463</AwardID>
+<Investigator>
+<FirstName>Susumu</FirstName>
+<LastName>Takahashi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Susumu Takahashi</PI_FULL_NAME>
+<EmailAddress><![CDATA[susumuta@usc.edu]]></EmailAddress>
+<NSF_ID>000576021</NSF_ID>
+<StartDate>06/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900890701</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress><![CDATA[3720 S FLOWER ST FL 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900890744</ZipCode>
+<StreetAddress><![CDATA[840 Downey Way, LJS 152]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688000</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~480000</FUND_OBLG>
+</Award>
+</rootTag>

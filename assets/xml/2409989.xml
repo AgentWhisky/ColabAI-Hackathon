@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Design and Analysis of Structure Preserving Discretizations to Simulate Pattern Formation in Liquid Crystals and Ferrofluids]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>199915.00</AwardTotalIntnAmount>
+<AwardAmount>22159</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Complex fluids are mixtures that have a coexistence between two phases. Some examples include shaving cream, blood, and the liquid crystals used in displays (LCD displays) like the one you are probably using right now to read this abstract. On a microscopic scale, the molecules of complex fluids have a special structure, which at a macroscopic scale affects the mechanical response to stress and strain. For instance, the molecules of liquid crystals react to electric fields on a microscopic scale, which on a macroscopic scale changes the polarization of the light passing through the material. Monitors take advantage of this property to allow a certain amount of red, green, or blue light through each pixel. We have barely scratched the surface of what is possible to achieve with complex fluids. Medical researchers hope to exploit the microscopic properties of ferrofluids for magnetic drug targeting, to control with precision the parts of the human body the drug is able to interact with. Materials engineers hope to use complex fluids to assemble nano-structures such as the silicon circuits in CPUs. Mathematical models and computer simulations can be used to describe the dynamics of these fluids. The goal of this research project is to design and analyze new computational algorithms that simulate the behavior of liquid crystals and ferrofluids. The algorithms will be used in simulations which may complement and ultimately replace expensive physical experiments. This research activity may also contribute to our general understanding of pattern formation in complex materials.&lt;br/&gt;&lt;br/&gt;Mathematical models for ferrofluids and liquid crystals consist of systems of partial differential equations. Due to the inherent fine scale structure of the fluids under consideration, these partial differential equations are highly nonlinear and coupled. Preserving discrete versions of energy balances, length and other constraints of the solutions of these nonlinear partial differential equations is crucial for obtaining fast and stable numerical schemes that capture realistic scenarios of their dynamics. The aim of this research project is to develop efficient and convergent finite volume and discontinuous Galerkin methods for the Rosensweig model of ferrohydrodynamics, multi-phase flow models of ferrofluids, and models of liquid crystal flows, that mimic the intrinsic structure of the underlying partial differential equations at the discrete level. The resulting algorithms will be implemented and used for extensive simulations to compare to physical observations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409989</AwardID>
+<Investigator>
+<FirstName>Franziska</FirstName>
+<LastName>Weber</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Franziska Weber</PI_FULL_NAME>
+<EmailAddress><![CDATA[fweber@berkeley.edu]]></EmailAddress>
+<NSF_ID>000791999</NSF_ID>
+<StartDate>01/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~22159</FUND_OBLG>
+</Award>
+</rootTag>

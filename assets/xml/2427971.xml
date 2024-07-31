@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Biomaterials for manufacturing of patient-derived organoids and assembloids]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>587740.00</AwardTotalIntnAmount>
+<AwardAmount>191514</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nitsa Rosenzweig</SignBlockName>
+<PO_EMAI>nirosenz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927256</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Non-technical description&lt;br/&gt;Biologists have recently discovered how to grow patient cells into little spheres that resemble human tissue. These engineered tissues can be used to safely study how different drugs might interact with our cells, without exposing the patient to any drug treatments might be potentially harmful. Unfortunately, these new biological methods have three big challenges: they are not very reproducible, it is hard to control how the cells grow over time, and the spheres cannot be easily attached together to make larger tissues that more accurately model real patients. In this work, we develop new gel materials that will help to overcome all three of these challenges. Our gels are designed to resemble the materials that surround the cells in our body. These materials will provide biochemical signals to the cells and also provide physical support as the cells grow, divide and move around to form larger tissues. To demonstrate that our gels are reproducible and versatile, we will grow models of three different types of patient tissue: intestines, brain, and glioma (i.e. brain cancer). The research team will also lead an outreach program at a local elementary school to showcase how scientific exploration can be fun and exciting. The research will also include interns from local community colleges to provide hands-on scientific training.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Technical description&lt;br/&gt;Organoids (i.e. stem cell-derived, multicellular structures with emergent self-organization into tissue-like structures) hold great potential for engineering 3D tissues in vitro, whether for the purposes of regenerative medicine, fundamental studies of human development, or personalized disease models. However, several key challenges currently hinder the formation of these complex, engineered tissues, including (i) reproducibility in organoid formation, (ii) controllable morphogenesis (i.e. organization of cell types within the organoid), and (iii) spatial control over multi-organoid patterning. Here, we take a biomaterials approach to address these three challenges by designing a new class of biopolymeric gels. We call this new family of biomaterials liposome network crosslinked (LINC) hydrogels. LINC hydrogels are networks of biocompatible polymers crosslinked through self-assembled lipid vesicles, or liposomes. Within each liposome, the individual lipids are in constant motion, and their motion can be controlled through tuning lipid design parameters. In Aim 1, we will design and characterize LINC hydrogels with tunable biochemical and mechanical properties to demonstrate modularity. In Aim 2, we will customize LINC hydrogels for the production of three different types of organoid building blocks. In Aim 3, we will customize LINC hydrogels for the bioprinting of organoid building blocks into complex tissue structures called assembloids. To demonstrate versatility of our biomaterials, we will focus on three biological case studies: human intestinal organoids from intestinal stem cells, human neural organoids from induced pluripotent stem cells, and pediatric glioma organoids from patients, as these are prototypical cultures for the three key application areas of organoids: regenerative medicine, models of human development, and precision medicine, respectively.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2427971</AwardID>
+<Investigator>
+<FirstName>Sarah</FirstName>
+<LastName>Heilshorn</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sarah C Heilshorn</PI_FULL_NAME>
+<EmailAddress><![CDATA[heilshorn@stanford.edu]]></EmailAddress>
+<NSF_ID>000272554</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>STANFORD</CityName>
+<ZipCode>943052004</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress><![CDATA[450 JANE STANFORD WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJD6G4D6TJY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE LELAND STANFORD JUNIOR UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>STANFORD</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943052004</ZipCode>
+<StreetAddress><![CDATA[450 JANE STANFORD WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>762300</Code>
+<Text>BIOMATERIALS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7573</Code>
+<Text>BIO-RELATED MATERIALS RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~191514</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RI: Small: Collective Decision-Making for Improving Accessibility to Public Facilities]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erion Plaku</SignBlockName>
+<PO_EMAI>eplaku@nsf.gov</PO_EMAI>
+<PO_PHON>7032924426</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project aims to develop artificial Intelligence (AI)-powered approaches to address the real-world challenge of improving accessibility to public facilities (e.g., hospitals, schools, transit stations). The 2022 U.S. Bipartisan Infrastructure Law called for the construction of new roads, bridges, multi-use paths, and mass transit to improve transportation accessibility to public facilities for underserved communities to provide an equitable future. These improvements translate to access to services such as lighting/heating/cooling, education, human connection, healthcare, and jobs. These initiatives pose an inherently challenging question on equitable access and services: how to maximize services for underserved populations to critical public facilities. This problem is known in the literature as the facility accessibility improvement problem (FAIP) which aims to structurally modify a given region (e.g., adding new links) to improve the accessibility of targeted populations to a facility. Existing FAIP models and approaches have several limitations, preventing their direct applications to address these societal challenges on a large scale. Current modeling limitations include: (1) the inability to consider more than one facility in the analysis; (2) not explicitly considering underserved communities’ preferences on the facilities; and, (3) not accounting for disruptions to the region (e.g., transportation network) due to natural disasters or planned construction. The overarching goal of this project is to establish theoretical and algorithmic foundations for the development of scalable and efficient AI-powered approaches to tackle large-scale FAIPs. In the long term, this project will contribute to the well-being of individuals and increase the vitality of communities due to improved access to resources and services. &lt;br/&gt; &lt;br/&gt;This project will develop AI-powered frameworks and approaches to address the aforementioned societal challenges and overcome current modeling limitations. The project will be carried out through three interconnected thrusts. Thrust 1 will provide collective decision-making FAIP frameworks that consider agent preferences for multiple facilities and efficient and scalable AI-powered approaches based on well-studied accessibility/agent preference models and algorithmic approaches in operations research and AI. Thrust 2 will provide efficient and scalable AI-powered mechanisms based on the Nobel-winning game theory/mechanism design theories for modeling strategic aspects of agents in related problems. Thrust 3 will investigate collective decision-making for FAIPs with disruptions (e.g., partially functional infrastructures) to develop new modeling and AI-powered approaches to maintain existing or improve accessibility, building on Thrusts 1-2, taking into account population priorities and maintaining network properties. To ensure the research products are useful and practical, in the application part of the project, the research team will conduct tabletop exercises with decision-makers (transportation planners and emergency management personnel) and stakeholders (community leaders, including those of underserved communities) to elicit their preferences on various scenarios.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414554</AwardID>
+<Investigator>
+<FirstName>Hau</FirstName>
+<LastName>Chan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hau Chan</PI_FULL_NAME>
+<EmailAddress><![CDATA[hchan3@unl.edu]]></EmailAddress>
+<NSF_ID>000605988</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nathan</FirstName>
+<LastName>Huynh</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nathan N Huynh</PI_FULL_NAME>
+<EmailAddress><![CDATA[nathan.huynh@unl.edu]]></EmailAddress>
+<NSF_ID>000919002</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Nebraska-Lincoln]]></Name>
+<CityName>LINCOLN</CityName>
+<ZipCode>685032427</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress><![CDATA[2200 VINE ST # 830861]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NE01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HTQ6K6NJFHA6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Nebraska-Lincoln]]></Name>
+<CityName>LINCOLN</CityName>
+<StateCode>NE</StateCode>
+<ZipCode>685032427</ZipCode>
+<StreetAddress><![CDATA[2200 VINE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NE01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>749500</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~600000</FUND_OBLG>
+</Award>
+</rootTag>

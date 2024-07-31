@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Programmable Assembly of Nanocrystals: Many Body Effects, Dynamics and Multifunctional Materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>434833.00</AwardTotalIntnAmount>
+<AwardAmount>288229</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Hoy</SignBlockName>
+<PO_EMAI>rhoy@nsf.gov</PO_EMAI>
+<PO_PHON>7032922340</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This award supports theory and computation, as well as education to advance the engineering of nanoparticle based materials. Nanoparticles are solids consisting of a small number of atoms, in such a way that at least one of the three dimensions is of the order of a few nanometers (1nm=10-9 m). Quantum dots, for example, are a type of nanoparticle that emits light in different colors depending on their size. Over the last decade a new paradigm for materials engineering has emerged, where instead of directly assembling atoms or molecules into materials, first nanoparticles are made, and then, the nanoparticles themselves are assembled into functional materials. This allows an unprecedented level of control, but also, the ability to design materials with new functions, with potential for game changing applications in energy harvesting technologies, quantum information, new display devices, as well as medical imaging, just to name a few.&lt;br/&gt;&lt;br/&gt;This project aims at providing a robust platform for designing nanoparticle based materials. Driven by the ability to synthesize large numbers of nanoparticles with diverse sizes, composition and the implementation of a broad range of strategies to assemble them in actual materials, the field has had an extraordinary experimental progress over the last decade. What is needed to accelerate this process of discovery is a comprehensive computational/theoretical framework that will identify what combination of design parameters will lead to materials with new functions. The project aims to fill this gap by developing a general framework (mean-field model), complemented with numerical simulations that will enable the prediction of structure and in this way, a rational exploration of the optimal parameters for designing new materials. The developed framework will be made available through a software package for the benefit of the entire community.&lt;br/&gt;&lt;br/&gt;Broader impacts of the proposed research will continue and strengthen a collaboration with the SUCCESS program in the Des Moines school district, which identifies kids transitioning into middle school that are at risk of dropping out of school. It also includes developing material for teaching nanoscience with a strong emphasis involving undergraduates in research, as well as engagement by the project personnel in graduate and undergraduate training in theoretical and computational nanoscience. Theoretically-oriented students will be exposed to broader soft materials disciplines through a close coupling with experimental groups at Indiana University and ETH-Zurich in Switzerland, as well as with the University of Buenos Aires in Argentina.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This award supports theory and computation, and education to advance structure prediction in functional nanomaterials. The project aims to develop a comprehensive mean field model, complemented with simulations that will provide a first principles prediction of structure. Preliminary results have shown that the proposed approach successfully predicts the known phenomenology in single component systems consisting of spherical-like nanocrystals functionalized with simple alkane ligands, so the framework will be extended to other nanoparticle shapes, multicomponent systems and more general ligands, and will be made available to the broader community, with the expectation that it will become a routine tool for structure prediction similarly as density functional has become for atom based materials. Collaboration with the group of Mario Tagliazucchi at University of Buenos Aires in Argentina will enhance the capabilities of the mean field model. Experimental work in the group of Xingchen Ye at Indiana and Maksym Kovalenko at ETH Zurich will be specifically developed to rigorously verify the theory. &lt;br/&gt;&lt;br/&gt;The main broader impact activity of the proposed research will consist in developing activities for the SUCCESS program of the Des Moines School district transitioning from 5th grade into middle school. The students will make regular visits to the Iowa State Campus, and attend hands-on lectures on nanoscience through the year, thus making them familiar with the subject and equally important, get to experience a college campus. The program also includes extensive participation of undergrads in research, an area where the PI has had major success over the last decade. The PI will also develop course materials to enhance the knowledge and potential of nanotechnology. All participants will contribute to the vibrant education and outreach programs at Iowa State and the national and international collaborations that will result from this project.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;STATEMENT OF MERIT REVIEW&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/27/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402548</AwardID>
+<Investigator>
+<FirstName>Alex</FirstName>
+<LastName>Travesset</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alex Travesset</PI_FULL_NAME>
+<EmailAddress><![CDATA[trvsst@ameslab.gov]]></EmailAddress>
+<NSF_ID>000175154</NSF_ID>
+<StartDate>06/27/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<ZipCode>500112103</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress><![CDATA[1350 BEARDSHEAR HALL]]></StreetAddress>
+<StreetAddress2><![CDATA[515 MORRILL ROAD]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DQDBM7FGJPC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DQDBM7FGJPC5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>500112103</ZipCode>
+<StreetAddress><![CDATA[1350 BEARDSHEAR HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>176500</Code>
+<Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~288229</FUND_OBLG>
+</Award>
+</rootTag>

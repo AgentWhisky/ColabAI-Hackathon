@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Translation potential of an Artificial Intelligence (AI) approach to quantify and diagnose spinal cord diseases]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>0</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is the development of an artificial intelligence (AI)-based tool to quantify and diagnose spinal cord diseases. One such disease is cervical myelopathy (CM), a condition in which the spinal cord is compressed within the neck. Cervical myelopathy is estimated to affect up to 2% of adults globally, but is often underdiagnosed due to subtle complexities in imaging and presentation. Cervical myelopathy has an insidious and irreversible progression of neurological symptoms that may require surgical intervention, and the current path to diagnosis may take up to 2 years from symptom onset to diagnosis/treatment with an average of 5 consults. This technology is designed to automate and standardize analysis of the spinal cord using medical imaging. Early detection of spinal cord disease, quantification of degenerative pathology, and identification of surgical candidates are all unmet needs that may improve patient outcomes, decrease cost, and reduce medical burden for CM patients.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. The technology is based on the prior development of a machine learning-based software solution that uses spinal magnetic resonance imaging (MRI) and clinical findings to identify patients at high risk for particular degenerative spinal diseases. The technology uses deep learning and image registration models to annotate anatomical structures and enable extraction of clinical metrics. In addition, an automated image analysis pipeline has been developed that generates novel clinical metrics designed in collaboration with surgeons and radiologists that aid in the characterization of spinal disease pathology. Next steps include developing models on larger-scale clinical imaging datasets for further model training, validation, and statistical analysis, in addition to incorporating additional machine learning techniques to improve the robustness of model performance on different MRI acquisition techniques. In the future, the results may be used to directly refer patients for surgical consultations or to other appropriate management options.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/20/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2416075</AwardID>
+<Investigator>
+<FirstName>Turner</FirstName>
+<LastName>Baker</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Turner S Baker</PI_FULL_NAME>
+<EmailAddress><![CDATA[turner.baker@icahn.mssm.edu]]></EmailAddress>
+<NSF_ID>000909506</NSF_ID>
+<StartDate>02/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Icahn School of Medicine at Mount Sinai]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100296504</ZipCode>
+<PhoneNumber>2128248300</PhoneNumber>
+<StreetAddress><![CDATA[1 GUSTAVE L LEVY PL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C8H9CNG1VBD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>C8H9CNG1VBD9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Icahn School of Medicine at Mount Sinai]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100296504</ZipCode>
+<StreetAddress><![CDATA[1 GUSTAVE L LEVY PL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7453</Code>
+<Text>GRAPHICS &amp; VISUALIZATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

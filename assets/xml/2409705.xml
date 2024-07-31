@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[ERI: A New Spatial Image Analysis of the Tumor Microenvironment for Cancer Immunotherapy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>199198.00</AwardTotalIntnAmount>
+<AwardAmount>125731</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steve Zehnder</SignBlockName>
+<PO_EMAI>szehnder@nsf.gov</PO_EMAI>
+<PO_PHON>7032927014</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Cancer immunotherapy uses the power of the body’s immune system against cancer cells. Recent progress has shed light on cancer initiation and response, with key therapies showing significant effectiveness in cancer patients. However, response to cancer immunotherapy is highly dependent on interaction between cancer cells and their microenvironment. This Engineering Research Initiation (ERI) award will tackle an important challenge — exploring, analyzing, and interpreting the complex interactions in the tumor microenvironment with AI-based approaches. As part of this project, K-12, undergraduate, and graduate students will be introduced to biomedical engineering concepts through synergistic research and educational activities. &lt;br/&gt;&lt;br/&gt;The long-term research goal of this project is to discover statistically significant cancer biomarkers that will aid researchers in determining the prognosis of cancer patients. Towards this goal, this project aims to uncover the quantitative spatial relationship between heterogeneous cancer-associated populations using a two-pass pipeline design to achieve two objectives: (i) to characterize different cell types such as tumor, tumor-infiltrating lymphocytes, and stroma with deep-learned features extracted from whole slide images and (ii) to investigate spatial correlations between heterogeneous cancer-associated populations with statistically significant immune cells. Unlike conventional histopathological spatial image analysis methods that classify image regions into two or more categories, the proposed method overlays the results of the classification from heterogeneous cancer-associated populations to proactively determine the spatial correlations of different cancer-associated populations cells in both the high level of infiltrating immune cells and the low level of infiltrating immune cells. The proposed research will broadly benefit AI-based biomarker development, investigation of multiple types of cancer, and interpretation of spatial variation in other research fields. The outcomes of this project are expected to yield new knowledge to help predict response to cancer immunotherapy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/28/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>11/28/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409705</AwardID>
+<Investigator>
+<FirstName>Sanghoon</FirstName>
+<LastName>Lee</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sanghoon Lee</PI_FULL_NAME>
+<EmailAddress><![CDATA[slee297@kennesaw.edu]]></EmailAddress>
+<NSF_ID>000818974</NSF_ID>
+<StartDate>11/28/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Kennesaw State University Research and Service Foundation]]></Name>
+<CityName>KENNESAW</CityName>
+<ZipCode>301445588</ZipCode>
+<PhoneNumber>4705786381</PhoneNumber>
+<StreetAddress><![CDATA[1000 CHASTAIN RD NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G8DZHNRKWTN3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>KENNESAW STATE UNIVERSITY RESEARCH AND SERVICE FOUNDATION, INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Kennesaw State University Research and Service Foundation]]></Name>
+<CityName>KENNESAW</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>301445588</ZipCode>
+<StreetAddress><![CDATA[1000 CHASTAIN RD MAILSTOP 0111]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>534500</Code>
+<Text>Engineering of Biomed Systems</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>723600</Code>
+<Text>BioP-Biophotonics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>790900</Code>
+<Text>BIOSENS-Biosensing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~125731</FUND_OBLG>
+</Award>
+</rootTag>
