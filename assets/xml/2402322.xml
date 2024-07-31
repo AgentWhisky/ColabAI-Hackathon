@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  High-Throughput Direct Ratiometric Calorimeter for Drug Discovery]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>275000.00</AwardTotalIntnAmount>
+<AwardAmount>275000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+<PO_EMAI>hahn@nsf.gov</PO_EMAI>
+<PO_PHON>7032927069</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the production of the first high-throughput and low-cost Differential Scanning Calorimetry (DSC) instrument. DSC is an extremely powerful tool for drug discovery that has low adoption due to high costs and low throughput of only one sample every two hours. The power of DSC is the thermodynamic measurements, which do not require any prior specific knowledge of the molecules being studied and do not require any labels. By not requiring any specific knowledge, it is possible to screen a wider variety and a higher quantity of compounds in the search for new drug molecules. The instrument to be developed from this project will be capable of processing 24 to 96 samples every two hours, thereby making DSC-based drug discovery commercially viable. Innovations from this project will also reduce the cost of producing DSC instruments, making them widely accessible for research and educational purposes. An added benefit of the reduced costs is the potential also to be utilized as a teaching tool. The combination of unique drug discovery knowledge and low costs will serve to reduce the costs associated with discovering and analyzing potential new drug molecules.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project comprises the research and development activities required to produce a high-throughput differential scanning calorimeter. A unique feature of the proposed instrument is the utilization of single-use, sterile sample cartridges that can hold 24 to 96 samples. These cartridges will enable high-throughput sample processing compared to currently available instruments. Current instruments use sensors and heaters that are permanently attached to the sample cells. This project will address the technical challenges associated with using non-permanently attached sensors and heaters to enable a sample cartridge that can be inserted and removed from the instrument. Activities of this project will identify optimal materials and components and determine the layout of sample cells to maximize the number of sample cells in each cartridge. These activities will minimize risks associated with producing a production-ready instrument and deliver maximum customer benefit.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402322</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Eskew</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew W Eskew</PI_FULL_NAME>
+<EmailAddress><![CDATA[meskew@thermocaplabs.com]]></EmailAddress>
+<NSF_ID>000947302</NSF_ID>
+<StartDate>02/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[THERMOCAP LABORATORIES INC]]></Name>
+<CityName>PORTLAND</CityName>
+<ZipCode>972102788</ZipCode>
+<PhoneNumber>9713352877</PhoneNumber>
+<StreetAddress><![CDATA[2350 NW SAVIER ST UNIT 108]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>THX7KH767NT3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THERMOCAP LABORATORIES INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[THERMOCAP LABORATORIES INC]]></Name>
+<CityName>PORTLAND</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>972102788</ZipCode>
+<StreetAddress><![CDATA[2350 NW SAVIER ST UNIT 108]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>004E</Code>
+<Text>BIOMEDICAL ENG AND DIAGNOSTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~275000</FUND_OBLG>
+</Award>
+</rootTag>

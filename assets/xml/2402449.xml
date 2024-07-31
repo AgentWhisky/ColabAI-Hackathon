@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF: Medium: Usable Property-Based Testing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anindya Banerjee</SignBlockName>
+<PO_EMAI>abanerje@nsf.gov</PO_EMAI>
+<PO_PHON>7032927885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Property-based testing (PBT) is a contemporary software engineering methodology in which users write executable formal specifications of system components and an automated test harness checks these specifications against many automatically generated inputs. PBT has become the testing method of choice across much of the functional programming community, and it is making inroads into industrial practice at companies such as Amazon, Volvo, Strip, Galois, and IOG.  However, one thing remains a significant concern:  A recent need-finding study of professional software developers who use PBT revealed great enthusiasm about the usefulness of PBT but frustration with its usability.  This project’s impacts are accelerating the adoption of PBT by amplifying its power and solving key usability issues. To achieve these impacts, the project advances, in parallel, the tools developers use to write specifications, generate random inputs, and assess the strength of their test suites. The project’s novelties are the development of more configurable (“reflective”) generators, specification languages, and in-editor interfaces for visualizing and tuning distributions of generated inputs. In addition, this project launches new curricula for teaching mature and powerful PBT practices in the undergraduate and master’s classrooms.&lt;br/&gt;&lt;br/&gt;The project is developing novel techniques for PBT by bringing together methods from programming languages and human-computer interaction (HCI). First, it is working to establish an understanding of user needs with HCI studies of PBT in industry and real-time observations of developers interacting with PBT tools. Second, it is developing new abstractions for random input generation that enable a range of novel use cases—generating inputs satisfying validity conditions and tuning distributions based on examples or coverage—alongside benchmarks for evaluating PBT tools. Third, it is developing more usable specification tools, including a language for temporal properties over program traces and a programming assistant that helps programmers imagine and implement properties. And fourth, it is contributing new tools for effective interaction between developers on their tests, and in particular tools for visualizing and manipulating generated data distributions. The ultimate goal is to advance the state of the art in PBT and put it on every software developer’s toolbelt.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402449</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Pierce</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benjamin C Pierce</PI_FULL_NAME>
+<EmailAddress><![CDATA[bcpierce@cis.upenn.edu]]></EmailAddress>
+<NSF_ID>000452070</NSF_ID>
+<StartDate>04/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Head</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew Head</PI_FULL_NAME>
+<EmailAddress><![CDATA[head@seas.upenn.edu]]></EmailAddress>
+<NSF_ID>000920520</NSF_ID>
+<StartDate>04/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress><![CDATA[3451 WALNUT ST STE 440A]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GM1XX56LEP58</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GM1XX56LEP58</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191046389</ZipCode>
+<StreetAddress><![CDATA[3330 Walnut Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7943</Code>
+<Text>PROGRAMMING LANGUAGES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7944</Code>
+<Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1000000</FUND_OBLG>
+</Award>
+</rootTag>

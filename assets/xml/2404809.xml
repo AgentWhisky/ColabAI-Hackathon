@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Mixed Quantum-Classical Semiclassical Theory: Finding Reaction Paths in Open Quantum Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>545000.00</AwardTotalIntnAmount>
+<AwardAmount>545000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Dawes</SignBlockName>
+<PO_EMAI>rdawes@nsf.gov</PO_EMAI>
+<PO_PHON>7032927486</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Theory, Models and Computational Methods (CTMC) program in the Division of Chemistry, Nandini Ananth of Cornell University is developing a rigorous semiclassical framework for the simulation of open quantum systems. Understanding, at the levels of atoms and electrons, the way enzymes work, or the way energy and charge move through a solar energy harvesting device remain important scientific challenges. Ananth and her research group will work to develop new theories and computational methods that can describe these inherently quantum mechanical processes accurately and predictively. Successfully completion of this research has the  potential for broad significant impact in areas ranging from drug design, to the development of energy-efficient materials, to designing quantum computers. The Ananth group will also continue their outreach efforts to ensure that middle-high school students as well as undergraduate and graduate students in chemistry are equipped with the computational skills that are necessary for a modern career in science, technology, engineering and mathematics (STEM) fields.&lt;br/&gt;&lt;br/&gt;Under this award, Nandini Ananth and her research team will build on the strengths of semiclassical theory as a rigorous and predictive theory, while systematically addressing the facets of the theory that make it computationally intractable. This will be achieved using an innovative approach to mixed quantization in the semiclassical framework that does not rely on spatial fragmentation schemes, but rather on sensitive control of that each degree of freedom contributes to the overall phase. Ananth and her research group will develop controlled approximations to this theory to enable large scale atomistic simulations and on-the-fly simulations of both adiabatic and nonadiabatic processes within a semiclassical framework. These methods will then be used to perform a detailed study of enzyme catalysis, a model for biological open quantum systems. The tools for atomistic simulations developed in the context of this enzyme study are expected to find broad applicability in areas ranging from spintronics and quantum information science to heterogeneous catalysis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404809</AwardID>
+<Investigator>
+<FirstName>Nandini</FirstName>
+<LastName>Ananth</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nandini Ananth</PI_FULL_NAME>
+<EmailAddress><![CDATA[ananth@cornell.edu]]></EmailAddress>
+<NSF_ID>000626964</NSF_ID>
+<StartDate>03/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress><![CDATA[341 PINE TREE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148531301</ZipCode>
+<StreetAddress><![CDATA[224 Baker Lab]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688100</Code>
+<Text>Chem Thry, Mdls &amp; Cmptnl Mthds</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~545000</FUND_OBLG>
+</Award>
+</rootTag>

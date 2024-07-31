@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation Potential of Artificial Intelligence to Enhance Knowledge Graphs]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Molly Wasko</SignBlockName>
+<PO_EMAI>mwasko@nsf.gov</PO_EMAI>
+<PO_PHON>7032924749</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is based on the development of a cutting-edge solution for information management challenges that could have far-reaching implications across various commercial applications. By significantly reducing the time and effort required to organize and retrieve information from complex unstructured data, this solution provides a transformative approach to data management, especially for organizations dealing with large volumes of unstructured data. The benefit of this solution over current technologies is the ability to streamline decision-making processes, reduce work duplication, and enhance overall knowledge-worker productivity. This solution also has potential applications in academic settings, for example by assisting students in accessing information from multiple data sources and synthesizing conclusions. By adopting this new solution, large organizations and educational institutions can not only save time but could also unlock new insights from their vast amounts of stored, unstructured data.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. The solution utilizes the power of artificial intelligence (AI) to transform unstructured data, such as complex documents, emails and PDFs, into organized, easily accessible information. The technology is a multi-layered knowledge graph, a data model that allows users to explore relationships and identify relevant datasets by combining characteristics of databases, graphs, and knowledge bases. This system links user-stored information and generates meta data for efficient organization and retrieval. The synthesis engine, powered by artificial generative intelligence and large language models, dynamically updates the knowledge graph, to synthesize summaries and connect related information. This innovative approach ensures that information systems stay current with the latest data inputs and user modifications, offering a cutting-edge solution for information management challenges.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/13/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/13/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415544</AwardID>
+<Investigator>
+<FirstName>Niloufar</FirstName>
+<LastName>Salehi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Niloufar Salehi</PI_FULL_NAME>
+<EmailAddress><![CDATA[nsalehi@berkeley.edu]]></EmailAddress>
+<NSF_ID>000807010</NSF_ID>
+<StartDate>05/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

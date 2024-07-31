@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EMBRACE-AGS-Growth: Quantification of Biophysical, Physiological, and Phenological Vegetation Contributions to Future Climate]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>398984.00</AwardTotalIntnAmount>
+<AwardAmount>398984</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eric DeWeaver</SignBlockName>
+<PO_EMAI>edeweave@nsf.gov</PO_EMAI>
+<PO_PHON>7032928527</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The effects of carbon dioxide (CO2) increase on vegetation could have important consequences for climate change and its human impacts.  Plants contribute to surface humidity through transpiration, the process through which plants draw moisture from the soil and return it to the air through stomates, tiny openings on their leaves.  Transpiration accounts for perhaps 60% of evapotranspiration (ET), the sum of transpiration and surface evaporation, thus vegetation changes that affect transpiration can have a variety of effects linked to surface humidity.  For instance less transpiration means less evaporative cooling of the surface, leading to higher temperatures combined with drier air and thus greater fire risk.  Less transpiration can also mean that more water is retained in the soil, causing greater runoff and flood risk.  There can also be long-range effects, as much of the moisture that falls as rain over continental interiors comes from land-based transpiration.&lt;br/&gt;&lt;br/&gt;CO2-induced transpiration change is a challenging topic because CO2 has both direct and indirect effects on plants. Plants grow through photosynthesis, combining CO2 from the air with water from the soil, thus more CO2 leads directly to more plant growth.  This effect, known as CO2 fertilization, increases transpiration by increasing the land fraction covered by leaves.  A second direct effect is that plants typically close their stomates when they have absorbed enough CO2 for photosynthesis, thus more CO2 means less transpiration because fewer stomates are open at any time.  The stomatal closure effect opposes the fertilization effect so that the net effect is a delicate imbalance of two effects which are both hard to quantify. As for indirect effects, increasing CO2 warms the atmosphere through the greenhouse effect and the warming climate has a variety of consequences for vegetation.  Among these is a longer growing season, as spring onset comes earlier and plants lose their leaves later in the year in the middle latitudes.  This change in phenology has various consequences, for instance if transpiration begins earlier in the year the soil could dry out by summer, leading to a greater likelihood of drought.&lt;br/&gt;&lt;br/&gt;Research conducted here examines the direct effects of CO2 fertilization and stomatal closure along with the indirect effect of the longer growing season given the CO2 increase expected over the 21st century.  The work is performed using the Community Earth System Model (CESM), in which vegetation is simulated by the Community Land Model (CLM) and the atmosphere is simulated by the Community Atmosphere Model (CAM).  The simulations are performed in specialized configurations in which the CO2 increase is only applied in CLM or only applied in CAM. A moisture tagging procedure is used in CAM to trace moisture that falls as rain back to the location where it evaporated or transpired from the land surface in CLM.  Impacts of transpiration change on flooding are further explored using the Catchment-based Macro-scale Floodplain (CaMa-Flood) model, and the influence on fire weather is addressed through calculation of the Canadian Forest Fire Weather Index (FWI).&lt;br/&gt;&lt;br/&gt;The work is of societal as well as scientific interest given the potentially disruptive effects of transpiration change noted above.  Current climate and earth system models all show a decrease in ET with increasing CO2 but there is no consensus on the magnitude of the decrease, thus models cannot produce quantitative guidance for stakeholders. The project has educational value through the development of resources to teach students to run CESM and analyze the output on the supercomputer at the NSF National Center for Atmospheric Research (NCAR). The project also develops online tools to help instructors at other universities to set up and effectively use NCAR's Classroom Allocations of supercomputing resources.  In addition, the project creates Python-based Jupyter notebooks for teaching undergraduate classes in weather and climate. Finally, the project provides support and training for a graduate student.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409315</AwardID>
+<Investigator>
+<FirstName>Mathew</FirstName>
+<LastName>Barlow</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mathew Barlow</PI_FULL_NAME>
+<EmailAddress><![CDATA[Mathew_Barlow@uml.edu]]></EmailAddress>
+<NSF_ID>000242610</NSF_ID>
+<StartDate>07/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Skinner</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher Skinner</PI_FULL_NAME>
+<EmailAddress><![CDATA[christopher.skinner4@gmail.com]]></EmailAddress>
+<NSF_ID>000786643</NSF_ID>
+<StartDate>07/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Massachusetts Lowell]]></Name>
+<CityName>LOWELL</CityName>
+<ZipCode>018543629</ZipCode>
+<PhoneNumber>9789344170</PhoneNumber>
+<StreetAddress><![CDATA[600 SUFFOLK ST STE 450]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LTNVSTJ3R6D5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS LOWELL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Lowell]]></Name>
+<CityName>LOWELL</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>018543624</ZipCode>
+<StreetAddress><![CDATA[600 SUFFOLK ST STE 212]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>164200</Code>
+<Text>Special Initiatives</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>574000</Code>
+<Text>Climate &amp; Large-Scale Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>133Z</Code>
+<Text>EMBRACE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5740</Code>
+<Text>CLIMATE &amp; LARGE-SCALE DYNAMICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~398984</FUND_OBLG>
+</Award>
+</rootTag>

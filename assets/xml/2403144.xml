@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF: Medium: Provably Correct, Energy-Efficient Edge Computing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>1139000.00</AwardTotalIntnAmount>
+<AwardAmount>1139000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Danella Zhao</SignBlockName>
+<PO_EMAI>dzhao@nsf.gov</PO_EMAI>
+<PO_PHON>7032924434</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Today’s general-purpose processors follow the von Neumann model, where programs execute as a sequence of instructions. However, this serial execution proves to be too slow. Processors thus seek instructions that can safely execute in parallel to enhance performance. Yet, implementing parallelism in hardware is extremely complicated. The complexity renders processors inefficient and insecure, leading the industry's shift toward specialized hardware accelerators tailored to run specific programs exceptionally well. Unfortunately, these accelerators are costly and restrictive. To address these issues, this project proposes post-von Neumann, dataflow processors, that explicitly expose program parallelism to dramatically simplify hardware. Through new compilation software and simplified parallel hardware, the project aims to significantly improve energy efficiency and system correctness. These advancements will transcend von Neumann model limitations, fostering innovation while enhancing performance, efficiency, and security. The research will be conducted by a diverse team, including undergraduates through the NSF Research Experiences for Undergraduates program. Moreover, the investigators will develop an outreach program to educate K-12 teachers and the public on various computing models.&lt;br/&gt;&lt;br/&gt;The key technical innovation of this award is the innately parallel dataflow representation of programs and a simple, spatial implementation of a dataflow processor. Moreover, the spatial architecture adopts a hierarchical, modular approach that enables scalability in multiple dimensions. Simplicity and modularity admit tractable formal models of the compiler, architecture, and hardware implementation, allowing investigators to prove correctness and security. The proposed architecture builds in security from the beginning, rather than trying to prove security after the fact, as researchers currently struggle to do for von Neumann architectures. Modularity further enables scalable compilation by breaking programs into smaller, independent units with a well-defined interface, each of which can be efficiently compiled onto the proposed architecture, and also enables near-data computation by co-locating data with its corresponding computation to overcome the rising cost of data movement. The resulting processor design promises to be the first a scalable, general-purpose architecture with provable correctness and security.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403144</AwardID>
+<Investigator>
+<FirstName>Brandon</FirstName>
+<LastName>Lucia</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brandon Lucia</PI_FULL_NAME>
+<EmailAddress><![CDATA[blucia@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000688970</NSF_ID>
+<StartDate>04/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bryan</FirstName>
+<LastName>Parno</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bryan Parno</PI_FULL_NAME>
+<EmailAddress><![CDATA[bparno@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000731949</NSF_ID>
+<StartDate>04/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nathan</FirstName>
+<LastName>Beckmann</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nathan Beckmann</PI_FULL_NAME>
+<EmailAddress><![CDATA[beckmann@cmu.edu]]></EmailAddress>
+<NSF_ID>000733999</NSF_ID>
+<StartDate>04/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7941</Code>
+<Text>COMPUTER ARCHITECTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1139000</FUND_OBLG>
+</Award>
+</rootTag>

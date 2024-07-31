@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:   Materials Science Digital Experts and AI-Powered Data Platform]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>275000.00</AwardTotalIntnAmount>
+<AwardAmount>275000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lindsay Portnoy</SignBlockName>
+<PO_EMAI>lportnoy@nsf.gov</PO_EMAI>
+<PO_PHON>7032928848</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader/commercial impact of this SBIR Phase I project lies in its potential to significantly streamline the process of discovering and utilizing novel materials, vital for advancements in sectors like healthcare, energy, and national defense. A large portion of essential materials data is currently inaccessible, hidden within complex documents or known only to a handful of experts. This project aims to develop a technology that transforms this inaccessible data into useful information, drastically reducing the time needed for material selection from weeks to minutes, thereby accelerating scientific and technological advancement and enhancing national prosperity and security. The market for advanced materials is projected to grow to $2.1 trillion by 2025, and the business model for this initiative focuses on providing technological services to materials suppliers, ensuring a sustainable competitive advantage by improving access to and usability of critical data. Initially targeting the semiconductor industry and industries reliant on polymers, the strategy is to achieve significant market penetration, with anticipated substantial annual revenues by the third year of production, underlining its impact across multiple high-value industries. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project addresses the critical challenge of "dark" data in materials science—valuable data that is unutilized because it is trapped in diverse formats or accessible only to a few experts. The primary research objective is to develop an artificial intelligence-driven platform capable of extracting and synthesizing this data into an accessible and interpretable format. The proposed research involves the creation of a customizable, conversational digital expert system that leverages advanced Large Language Models (LLMs) to interact with and learn from heterogeneous data sources, including natural language texts and inconsistent file formats. This system will enable the transformation of complex datasets into structured, actionable insights, facilitating rapid and accurate materials selection and application. The anticipated technical results include the successful demonstration of the platform's ability to interpret and organize large volumes of dark data, significantly reducing the time and expertise required to access this information. This breakthrough has the potential to catalyze discoveries and innovations in materials science by making decades of accumulated data readily available for research and commercial use.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423569</AwardID>
+<Investigator>
+<FirstName>Calvin</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Calvin Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[likoucalvinhao@gmail.com]]></EmailAddress>
+<NSF_ID>000997441</NSF_ID>
+<StartDate>06/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[FUM TECHNOLOGIES, INC]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021392723</ZipCode>
+<PhoneNumber>5712457258</PhoneNumber>
+<StreetAddress><![CDATA[178 HARVARD ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>W5HBG2REYJP3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FUM TECHNOLOGIES, INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[FUM TECHNOLOGIES, INC]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021392723</ZipCode>
+<StreetAddress><![CDATA[178 HARVARD ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1654</Code>
+<Text>HUMAN COMPUTER INTERFACE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~275000</FUND_OBLG>
+</Award>
+</rootTag>

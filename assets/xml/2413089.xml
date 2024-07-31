@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Learning Operators Between Infinite-Dimensional Hilbert Spaces]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yulia Gel</SignBlockName>
+<PO_EMAI>ygel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927888</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The use of differential equations is widespread in various fields of science and engineering. Differential equations are used to model and understand natural phenomena and to design engineered systems. However, differential equations can be quite challenging to solve numerically on a computer. Recently, there has been substantial interest in using statistical machine learning to develop fast approximations that can give answers with the accuracy of classical solvers and also run much faster. This emerging area leads to novel statistical questions about the limits and possibilities of statistical learning where the inputs and outputs are both functions. In mathematics, a mapping that takes functions as inputs and also produces functions as outputs is called an operator. This project aims to develop new theoretical tools and algorithm design techniques for this emerging area of operator learning. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project has several interrelated themes. First, it will develop a deep understanding of learning linear operators. Second, the project will consider specific classes of nonlinear operators that are most likely to lead to practical successes: classes defined by operator-valued kernels and neural operators. Third, this research project will consider natural families of estimators such as empirical risk minimization and its regularized versions. Fourth, the investigator will extend the results in previous themes to more general models of learning particularly adversarial online learning which views learning as a sequential game between Nature and Learner. The project will offer multiple training and mentoring opportunities for a future generation of statisticians.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413089</AwardID>
+<Investigator>
+<FirstName>Ambuj</FirstName>
+<LastName>Tewari</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ambuj Tewari</PI_FULL_NAME>
+<EmailAddress><![CDATA[tewaria@umich.edu]]></EmailAddress>
+<NSF_ID>000635311</NSF_ID>
+<StartDate>06/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~250000</FUND_OBLG>
+</Award>
+</rootTag>

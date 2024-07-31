@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: A Scalable Ocean Carbon Sensing Grid]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>274916.00</AwardTotalIntnAmount>
+<AwardAmount>274916</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Parvathi Chundi</SignBlockName>
+<PO_EMAI>pchundi@nsf.gov</PO_EMAI>
+<PO_PHON>7032925198</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase I project is to enhance the capabilities for precise measurement, reporting, and verification (MRV) of ocean carbon dioxide removal (CDR). By developing an innovative volumetric carbon flux approach, this technology aims to provide a scalable and accurate method for quantifying the effectiveness of various ocean-based CDR strategies. Ocean carbon dioxide removal, capable of extracting up to 5 gigatons of CO2 annually from the atmosphere, is crucial for achieving the global imperative of removing 10 gigatons of atmospheric CO2 annually to limit warming to 1.5-2°C. By introducing an accurate, scalable solution for measuring ocean carbon removals, the proposed technology has the potential to accelerate the expansion of the ocean CDR market to $25 billion by 2030 and up to $500 billion annually by mid-century. The successful implementation of this technology would significantly advance our scientific and technological understanding of carbon cycles, support environmental sustainability, and foster substantial economic growth in a sector critical for global climate mitigation strategies.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project aims to tackles the critical challenge inhibiting the ocean carbon dioxide removal (CDR) industry from achieving its potential to remove up to 5 gigatons of CO2 annually: the absence of precise measurement tools to accurately quantify ocean CO2 removal. The research objectives for this phase include developing and validating a mooring-based sensing grid capable of delivering three-dimensional carbonate chemistry data with the sensitivity necessary for continuous and direct measurement of net carbon removal in various ocean CDR projects. The proposed research entails designing, implementing, and testing the sensing grid to ensure it meets the stringent requirements necessary for effective deployment in ocean carbon dioxide removal environments. Anticipated technical results include achieving measurement sensitivity, accuracy, and reliability, necessary to continuously measure net carbon removals for a wide variety of ocean CDR methods. Successful completion of this phase will lay the groundwork for subsequent phases aimed at piloting and refining this technology with ocean CDR developers, potentially establishing the first direct measurement system for carbon removal efficacy in the ocean CDR sector.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404712</AwardID>
+<Investigator>
+<FirstName>Casey</FirstName>
+<LastName>Wilson</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Casey L Wilson</PI_FULL_NAME>
+<EmailAddress><![CDATA[casey@subtidal.com]]></EmailAddress>
+<NSF_ID>000969700</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SUBTIDAL, INC.]]></Name>
+<CityName>EAST FALMOUTH</CityName>
+<ZipCode>025365406</ZipCode>
+<PhoneNumber>5104595144</PhoneNumber>
+<StreetAddress><![CDATA[62 TERRENCE AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E36QB8LNE9Y3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SUBTIDAL, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUBTIDAL, INC.]]></Name>
+<CityName>EAST FALMOUTH</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>025365406</ZipCode>
+<StreetAddress><![CDATA[62 TERRENCE AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~274916</FUND_OBLG>
+</Award>
+</rootTag>

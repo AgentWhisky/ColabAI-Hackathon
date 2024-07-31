@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[BSM-PM: Precision Measurements on Ions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>374564.00</AwardTotalIntnAmount>
+<AwardAmount>129851</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mark K. Beck</SignBlockName>
+<PO_EMAI>mkbeck@nsf.gov</PO_EMAI>
+<PO_PHON>7032922983</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>One goal of this project is to measure the mass of the electron with an uncertainty of 10 parts-per-trillion, that is, with a factor of three less uncertainty than the previous best measurements. As one of the fundamental physical constants, the mass of the electron is a necessary input for many theoretical predictions in the physical sciences. For most of these the current most accurate value for the electron mass is sufficiently precise. However, there are some applications where this is not the case. In particular, predictions for the frequencies of rotation and vibration of molecular hydrogen ions (MHI, the simplest and most fundamental molecules, just two protons or deuterons bound by a single electron) require a more precise electron mass than is currently available. This is important because any discrepancy between theoretical predictions and measurements on MHI may indicate, besides the need for more precise calculations, that there is an extra force between the nuclei that is not accounted for by currently known physics (the “Standard Model” of physics). A second goal of the project is to make measurements on MHI themselves (of hyperfine structure and magnetic moments) that will complement the precise measurements of rotational and vibrational frequencies that have been made by other researchers. The measurements use devices called cryogenic Penning ion traps, in which single charged particles are suspended in a vacuum by a combination of electric and magnetic fields, and at the temperature of liquid helium. Graduate and undergraduate students will participate in developing this system, then they will make the measurements and analyze the data. Students will gain research experience in a variety of technologies, some of which are used in quantum information science, preparing them for a wide range of careers in advanced STEM, &lt;br/&gt;&lt;br/&gt;The mass of the electron will be obtained using an indirect technique that combines measurements on a singly charged helium ion in a strong magnetic field, of the ratio of electron-spin-flip frequency and cyclotron frequency, with the mass of the helium ion and a theoretical value for its electronic magnetic moment. In the case of helium-4 the ion’s magnetic moment has been calculated to 0.3 parts per-trillion, so the necessary measurements are of the helium ion’s electron-spin-flip to cyclotron-frequency ratio, and its mass. The measurement of helium-4 mass will use the Penning trap system and single-ion techniques that have previously been used for many measurements of atomic mass at Florida State University. The measurements of spin-flip frequencies and hyperfine structure on helium and MHIs will use the same superconducting magnet, but will incorporate a newly-developed double Penning trap system. This will consist of a “precision trap” where the measurements of the spin-flip and cyclotron frequencies take place, and an adjacent “analysis trap”, to which the ion is transferred for detection of an electron spin-flip, together with the necessary microwave and radio-frequency feeds.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409083</AwardID>
+<Investigator>
+<FirstName>Edmund</FirstName>
+<LastName>Myers</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Edmund G Myers</PI_FULL_NAME>
+<EmailAddress><![CDATA[myers@nucmar.physics.fsu.edu]]></EmailAddress>
+<NSF_ID>000193763</NSF_ID>
+<StartDate>07/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Florida State University]]></Name>
+<CityName>TALLAHASSEE</CityName>
+<ZipCode>323060001</ZipCode>
+<PhoneNumber>8506445260</PhoneNumber>
+<StreetAddress><![CDATA[874 TRADITIONS WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JF2BLNN4PJC3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida State University]]></Name>
+<CityName>TALLAHASSEE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>323060001</ZipCode>
+<StreetAddress><![CDATA[874 TRADITIONS WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124100</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1289</Code>
+<Text>PRECISION MEASUREMENTS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~129851</FUND_OBLG>
+</Award>
+</rootTag>

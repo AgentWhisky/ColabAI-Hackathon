@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Nanoscale Hybrid Optical Interconnect Platform]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>275000.00</AwardTotalIntnAmount>
+<AwardAmount>275000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samir M. Iqbal</SignBlockName>
+<PO_EMAI>smiqbal@nsf.gov</PO_EMAI>
+<PO_PHON>7032927529</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial impacts of this Small Business Innovation Research (SBIR) Phase I project will involve revolutionizing internal computer chip connections, called interconnects, by replacing materials like copper with light-based connections.  The high-speed interconnects are the information highways of modern-day computing systems, and, unfortunately, these highways are hitting fundamental peak capacities and interconnects are now a critical limiter to computer system performance.  This project will advance photonic integrated circuits and computer interconnects by researching commercialization pathways for a new photonic approach, called coupled hybrid plasmonics (CHP), that uses the interaction of light and metals to squeeze light and devices down to nanometer-scale sizes.  Commercialized CHP will potentially enable durable interconnect product advantages in bandwidth, power, area, and cost.  The ultimate go-to-market motivation for commercializing CHP is to enable short-distance (meters down to millimeters), all-optical interconnects and replace electronic interconnects in computer systems (e.g., in the multi-trillion-dollar Information Technology and Telecommunications markets).  The first commercialization challenge for CHP is to develop a manufacturing flow that uses mainstream processing.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will bridge the gap between CHP principles and industrial manufacturing.  The primary challenge this project faces is that the CHP effect requires a new multi-layer stack – metals, dielectrics, and semiconductors – that does not exist today in mainstream silicon-photonics/semiconductor chip manufacturing facilities.  Industrial CHP manufacturing recipes and device architectures are the gateway to future proof-of-concept prototypes and then products.  The project will employ industry-standard simulation and modeling tools to rapidly design and evaluate candidate CHP recipes, devices, and circuits.  It will quantitatively benchmark CHP devices and transceivers against today’s state-of-the-art silicon photonic circuits (e.g., ring-resonator based) and assess candidates based on the bandwidth, area, and energy consumption they achieve.  The overall project goal is to create preliminary industrial manufacturing recipes and a design-library of CHP-based devices and transceiver circuits.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423362</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Cline</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian T Cline</PI_FULL_NAME>
+<EmailAddress><![CDATA[Brian.Cline@lumoniq.com]]></EmailAddress>
+<NSF_ID>000938965</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[LUMONIQ INC]]></Name>
+<CityName>PALO ALTO</CityName>
+<ZipCode>943041130</ZipCode>
+<PhoneNumber>5125229424</PhoneNumber>
+<StreetAddress><![CDATA[3175 HANOVER ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GY2LVJBEBBF2</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LUMONIQ INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[LUMONIQ INC]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787013258</ZipCode>
+<StreetAddress><![CDATA[701 Brazos St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1084</Code>
+<Text>NANOTECHNOLOGY INITIATIVE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~275000</FUND_OBLG>
+</Award>
+</rootTag>

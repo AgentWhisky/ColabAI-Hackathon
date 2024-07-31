@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: OAC Core: CropDL - Scheduling and Checkpoint/Restart Support for Deep Learning Applications on HPC Clusters]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Varun Chandola</SignBlockName>
+<PO_EMAI>vchandol@nsf.gov</PO_EMAI>
+<PO_PHON>7032922656</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Machine Learning (ML) and Deep Learning (DL) (more specifically, Deep Neural Network (DNN)) workloads are beginning to dominate the High-Performance Computing (HPC) arena. Today, massive computational resources are required to train even a single state-of-the-art deep learning model (e.g., large language models or LLMs). As the need for training massive DNN models continues and expands from the private sector to NSF-supported scientists and engineers (who are more likely to use shared computing resources), efficient checkpointing is emerging as a critical need. Checkpointing not only helps deal with failures but also provides more scheduling flexibility on shared HPC resources, as a very long-running job can be broken into several shorter ones. The premise of the CropDL project is that efficient and automated application-level checkpoint and restart will be critical to facilitating the use of shared HPC clusters for long-running ML training tasks, drastically increasing the number of researchers that can successfully train large ML models for various applications. This project also contributes to education and diversity in multiple aspects, for example, 1) introducing courses (or course material) to bring attention to ML-related workloads in computer systems undergraduate and graduate education; 2) integrating research tasks from this project with synergistic research programs at universities to increase the participation of women and underrepresented minority groups; and 3) supporting and training PhD students in their research, creating momentum on systems and cyberinfrastructure research related to emerging ML workloads and popularizing integrative research that combines the properties of these workloads with the complexities of modern HPC hardware.&lt;br/&gt;&lt;br/&gt;The overarching goal of CropDL is to support application-level checkpoints/restarts of deep learning applications for better resiliency, faster average completion time, and higher resource utilization. Particularly, several properties of DL workloads (as compared to scientific computations) create distinct sets of opportunities and challenges for checkpointing: 1) limited communication patterns during parallel execution, which can enable efficient coordinated checkpoints, 2) many unique opportunities for compression of checkpoints, and possibly taking uncoordinated checkpoints, and 3) malleable execution, where restarting from a different number of nodes is possible. Based on this observation, the first direction of this project is to exploit the properties of the DNN model(s) to be trained during checkpointing. This includes asynchronous versioned checkpointing for DL applications under a wide variety of parallelism models as well as content-based data reduction (compression and sparsification) techniques to reduce checkpoint volumes. The second direction of research focuses on using current and upcoming HPC systems' resources efficiently while checkpointing. It formulates tasks, data, and I/O requirements from DL applications into DAG representations and develops methods to schedule them. It also supports efficient I/O for deep learning applications with emerging I/O platforms. The last direction is to automate checkpointing through a compilation system based on the computational graph of DL workloads. All these efforts consider a variety of parallelization schemes for DNNs, i.e., data, model, and/or pipelined parallelism.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403089</AwardID>
+<Investigator>
+<FirstName>Weikuan</FirstName>
+<LastName>Yu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Weikuan Yu</PI_FULL_NAME>
+<EmailAddress><![CDATA[yuw@cs.fsu.edu]]></EmailAddress>
+<NSF_ID>000492930</NSF_ID>
+<StartDate>04/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Florida State University]]></Name>
+<CityName>TALLAHASSEE</CityName>
+<ZipCode>323060001</ZipCode>
+<PhoneNumber>8506445260</PhoneNumber>
+<StreetAddress><![CDATA[874 TRADITIONS WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JF2BLNN4PJC3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida State University]]></Name>
+<CityName>TALLAHASSEE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>323060001</ZipCode>
+<StreetAddress><![CDATA[874 TRADITIONS WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>090Y00</Code>
+<Text>OAC-Advanced Cyberinfrast Core</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~225000</FUND_OBLG>
+</Award>
+</rootTag>

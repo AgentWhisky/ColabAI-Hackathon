@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Active Violin Mode Dampers for Gravitational-Wave Detector Suspension Fibers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>63598</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The groundbreaking discovery by the NSF’s Advanced Laser Interferometer Gravitational-Wave Observatory (LIGO) provided a first glimpse of the profound potential that the rapidly growing field of Gravitational-Wave Astrophysics holds for the rest of the century. This year, advanced LIGO reached its design sensitivity of 160+ Mpc, resulting in multiple observed black hole mergers per week. Reducing the time the LIGO detectors must spend acquiring an observation-ready state directly translates to additional observation time and astrophysical detections. This award supports the development of a sensor and actuator subsystem that will improve the duty cycle and sensitivity of LIGO detectors by mitigating the suspension resonant modes. The award will also support graduate students working on gravitational-wave detector instrumentation.&lt;br/&gt;&lt;br/&gt;The violin modes of the LIGO test mass suspensions cause operational issues when they are excited and limit the detector sensitivity in the narrow bands of their resonances. The modes can be excited by external events like earthquakes and can prolong interferometer downtime after lock losses. This award will support the design, construction, and characterization of an active suspension fiber damping system suitable for LIGO and future ground-based gravitational-wave detectors.  A dedicated shadow sensor for measuring fiber displacement and an accompanying electrostatic actuator will be prototyped and developed at Syracuse University. In parallel, a compact sensor and actuator will be developed for integration into the test mass fiber guards. This project will also inform the suspension design for future gravitational-wave detectors.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/28/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409519</AwardID>
+<Investigator>
+<FirstName>Georgia</FirstName>
+<LastName>Mansell</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Georgia L Mansell</PI_FULL_NAME>
+<EmailAddress><![CDATA[glmansel@syr.edu]]></EmailAddress>
+<NSF_ID>000873300</NSF_ID>
+<StartDate>06/28/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Syracuse University]]></Name>
+<CityName>SYRACUSE</CityName>
+<ZipCode>13244</ZipCode>
+<PhoneNumber>3154432807</PhoneNumber>
+<StreetAddress><![CDATA[900 S CROUSE AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY22</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C4BXLBC11LC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SYRACUSE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Syracuse University]]></Name>
+<CityName>SYRACUSE</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>132440001</ZipCode>
+<StreetAddress><![CDATA[900 S CROUSE AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY22</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125200</Code>
+<Text>LIGO RESEARCH SUPPORT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>069Z</Code>
+<Text>Windows on the Universe (WoU)</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~63598</FUND_OBLG>
+</Award>
+</rootTag>

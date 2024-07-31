@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CPS: Medium: Artificial-intelligence-enabled Atomic Force Microscopy (AI-AFM)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vishal Sharma</SignBlockName>
+<PO_EMAI>vsharma@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Mechanical forces have long been implicated in regulating basic cellular and molecular processes such as cell proliferation, differentiation and DNA-protein bonding. Understanding the basic working mechanism of these processes can lead to breakthrough improvements in biochemical and biomedical sciences and engineering. Atomic force microscopy (AFM), by far, is the most suitable platform for nanomechanical characterization of biological materials owing to its capability to exert precisely controlled force at desired locations and sense the sample response. However, such a technique is subject to substantial workload and biases of human experimentalists. It heavily relies on constant human supervision and human insight for execution and analysis of problems such as AFM probe breakage after prolonged functionalization, and sample damage due to lack of optimization of the loading forces. To address these challenges, this project will build a transformative new cyber physical system (CPS) by leveraging recent advances in artificial intelligence (AI) and machine learning (ML) towards high-throughput, scalable, and ultra-precise AFM. This will lead to a key enabling tool to create new knowledge of life science materials.&lt;br/&gt;&lt;br/&gt;This project will develop and validate a novel closed-loop framework with AI-based sensing &amp; characterization, modeling interactions between the AFM probe and soft biological samples via physics-aware neural surrogates, and AFM navigation &amp; control algorithms via real-time learning that will lead to a next-generation AI-enabled AFM (namely, AI-AFM). The key intellectual merits extend beyond conventional AFM applications in biomechanical and biomaterial studies. Specific innovations will include: (i) large multimodal models for bioimaging and AFM data characterization; (ii) generative models for enhancing AFM images (iii) AFM probe–sample contact dynamics modeling using physics-aware ML for optimizing the AFM mechanical stimuli design; (iv) ML-based closed-loop+feedforward predictive control in an adaptive manner for the AFM material mapping; and (v) software and hardware implementation and demonstration of the sensing, modeling and control modules in a commercial AFM setup. The research outcomes will go beyond live cell AFM studies and impact other CPS sectors such as biomedical devices, materials, and manufacturing. This project will incorporate the research outcomes at all educational levels by enriching the graduate/undergraduate curriculum, providing undergraduate research experience and K-12 outreach activities, and broadening the participation of women and underrepresented minorities in computing and engineering.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409359</AwardID>
+<Investigator>
+<FirstName>Adarsh</FirstName>
+<LastName>Krishnamurthy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adarsh Krishnamurthy</PI_FULL_NAME>
+<EmailAddress><![CDATA[adarsh@iastate.edu]]></EmailAddress>
+<NSF_ID>000689528</NSF_ID>
+<StartDate>06/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Juan</FirstName>
+<LastName>Ren</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Juan Ren</PI_FULL_NAME>
+<EmailAddress><![CDATA[juanren@iastate.edu]]></EmailAddress>
+<NSF_ID>000717932</NSF_ID>
+<StartDate>06/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rizia</FirstName>
+<LastName>Bardhan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rizia Bardhan</PI_FULL_NAME>
+<EmailAddress><![CDATA[rbardhan@iastate.edu]]></EmailAddress>
+<NSF_ID>000819755</NSF_ID>
+<StartDate>06/23/2024</StartDate>
+<EndDate>07/11/2024</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anwesha</FirstName>
+<LastName>Sarkar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anwesha Sarkar</PI_FULL_NAME>
+<EmailAddress><![CDATA[anweshas@iastate.edu]]></EmailAddress>
+<NSF_ID>000840803</NSF_ID>
+<StartDate>06/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Aditya</FirstName>
+<LastName>Balu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aditya Balu</PI_FULL_NAME>
+<EmailAddress><![CDATA[baditya@iastate.edu]]></EmailAddress>
+<NSF_ID>000918954</NSF_ID>
+<StartDate>06/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<ZipCode>500112103</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress><![CDATA[1350 BEARDSHEAR HALL]]></StreetAddress>
+<StreetAddress2><![CDATA[515 MORRILL ROAD]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DQDBM7FGJPC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DQDBM7FGJPC5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>500112103</ZipCode>
+<StreetAddress><![CDATA[1350 BEARDSHEAR HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>791800</Code>
+<Text>CPS-Cyber-Physical Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1000000</FUND_OBLG>
+</Award>
+</rootTag>

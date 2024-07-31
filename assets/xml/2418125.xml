@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: New horizons in language science: large language models, language structure, and the neural basis of language]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>49923.00</AwardTotalIntnAmount>
+<AwardAmount>49923</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eleni Miltsakaki</SignBlockName>
+<PO_EMAI>emiltsak@nsf.gov</PO_EMAI>
+<PO_PHON>7032922972</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Workshop Title: New Horizons in Language Science: Large Language Models, Language Structure, and Language Processing in the Human Mind and Brain. &lt;br/&gt;&lt;br/&gt;This workshop is dedicated to interdisciplinary connections between today’s large language models, language structure, and language processing in the human mind and brain. We will convene a group of experts spanning computer science, linguistics, cognitive science, and neuroscience to discuss recent progress in deep learning based natural language technology, which have captured not only scientific but also general commercial and public attention under the name "Large Language Models” (LLMs), and the implications of this progress for our scientific understanding of language structure and the basis of language acquisition and processing in the human mind and brain. The workshop will foster collaboration and encourage innovative research directions, with the intent of producing a white paper to inform future research and policymaking.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/27/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/27/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070, 47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418125</AwardID>
+<Investigator>
+<FirstName>Roger</FirstName>
+<LastName>Levy</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roger P Levy</PI_FULL_NAME>
+<EmailAddress><![CDATA[rplevy@mit.edu]]></EmailAddress>
+<NSF_ID>000508659</NSF_ID>
+<StartDate>02/27/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127Y</Code>
+<Text>Sci of Lrng &amp; Augmented Intel</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1311</Code>
+<Text>Linguistics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1311</Code>
+<Text>LINGUISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~49923</FUND_OBLG>
+</Award>
+</rootTag>

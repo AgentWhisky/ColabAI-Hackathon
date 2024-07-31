@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Automated Digital Accessibility Testing and Remediation Compliance Platform for Web Content Accessibility Guidelines]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>274990.00</AwardTotalIntnAmount>
+<AwardAmount>274990</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lindsay Portnoy</SignBlockName>
+<PO_EMAI>lportnoy@nsf.gov</PO_EMAI>
+<PO_PHON>7032928848</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader/commercial impact of this SBIR Phase I project is to make the Internet more accessible for those with physical, mental, or cognitive disabilities. Over the last three decades every sector has experienced a digital transformation. Despite federal regulation requiring digital assets such as websites, kiosks, or mobile apps to be compliant with the Americans with Disabilities Act (ADA), over 96% of the million most-visited websites are not ADA compliant. For the 17% of Americans with a disability the Internet is unusable. This innovation applies novel breakthroughs in generative artificial intelligence to automatically identify and remediate ADA violations in digital assets. Thus, ensuring that any platform from healthcare to public transportation to voting platforms are universally accessible. Consider the implications: an elderly citizen with deteriorating vision can seamlessly navigate an online prescription platform; a veteran with motor disabilities can effortlessly book transportation to a voting center; a K-12 STEM student with auditory challenges can access vital educational information or public service announcements without impediments. Automation of accessibility testing, and remediation leads to significant cost savings for companies, governments, and small- to medium-sized businesses that want to access the $17 trillion of spending power that disabled Americans and their families hold.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project replaces the manual testing, manual remediation, manual training, and manual auditing that software engineers or consultants use to make digital assets compliant with the Americans with Disabilities Act (ADA). The aim is to leverage artificial intelligence, computer vision, and novel production code reassociation techniques to accurately identify 65% of Web Content Accessibility Guidelines (WCAG) compliance issues, significantly higher than industry leaders, and provide solutions that are both context-aware and developer-friendly directly within Integrated Development Environments (IDEs), something no industry-leader today does. The research will refine a novel approach which allows frontend software to be retraceable for automated testing and fixing at the source code level, enabling engineers to pinpoint exactly where an accessibility violation is located. Existing solutions completely lose track of the relationship between production software and the original source code that generated it. Instead, resorting to screenshots or inaccurate approximations to give developers context. The core technical innovation not only detects non-compliant elements, but also provides real-time contextual developer solutions in the immediate line of code or component where the error occurs. This research pushes the digital accessibility industry to full automation, resulting in a more usable Internet.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2408875</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Bervell</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Bervell</PI_FULL_NAME>
+<EmailAddress><![CDATA[MichaelBervell@testparty.co]]></EmailAddress>
+<NSF_ID>000948810</NSF_ID>
+<StartDate>04/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[URL TO IRL INC.]]></Name>
+<CityName>SNOHOMISH</CityName>
+<ZipCode>982964646</ZipCode>
+<PhoneNumber>4255860478</PhoneNumber>
+<StreetAddress><![CDATA[15932 60TH AVE SE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JY76MZU9RTE7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>URL TO IRL INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[URL TO IRL INC.]]></Name>
+<CityName>SNOHOMISH</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>982964646</ZipCode>
+<StreetAddress><![CDATA[15932 60TH AVE SE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~274990</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Higher Representation Theory and Subfactors]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>172165.00</AwardTotalIntnAmount>
+<AwardAmount>172165</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tim Hodges</SignBlockName>
+<PO_EMAI>thodges@nsf.gov</PO_EMAI>
+<PO_PHON>7032925359</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will involve research into quantum symmetry. The notion of symmetry is fundamental in classical physics. A famed result of Emmy Noether shows that for each symmetry of the laws of nature, there is a resulting conserved physical quantity. For example, the time invariance of the laws of physics results in the law of conservation of energy. In the setting of quantum physics, the more general notion of quantum symmetries is required to understand the behavior of the system. This project concerns the study of how quantum symmetries act on certain systems, with the end goal being to fully understand and classify these actions. We refer to these actions of quantum symmetries as `higher representation theory’. Particular emphasis will be placed on the examples which are relevant to topological quantum computation. This project will involve research opportunities for undergraduate students at the University of New Hampshire.&lt;br/&gt;&lt;br/&gt;More technically, the notion of quantum symmetry is characterized mathematically by a tensor category, and the actions of quantum symmetries are characterized by module categories over these tensor categories. This project will study fundamental problems on the construction and classification of module categories. The following research problems will be addressed: 1) construct and classify the module categories over the tensor categories coming from the Wess-Zumino-Witten conformal field theories, 2) construct new continuous families of tensor categories which interpolate between the categories coming from conformal field theories, 3) use Jones’s graph planar algebra techniques to study Izumi’s near-group tensor categories, and 4) investigate the higher categorical objects related to the module categories in 1).&lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Algebra and Number Theory program and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400089</AwardID>
+<Investigator>
+<FirstName>Cain</FirstName>
+<LastName>Edie-Michell</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cain Edie-Michell</PI_FULL_NAME>
+<EmailAddress><![CDATA[cain.edie-michell@unh.edu]]></EmailAddress>
+<NSF_ID>000810232</NSF_ID>
+<StartDate>04/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of New Hampshire]]></Name>
+<CityName>DURHAM</CityName>
+<ZipCode>038242620</ZipCode>
+<PhoneNumber>6038622172</PhoneNumber>
+<StreetAddress><![CDATA[51 COLLEGE RD]]></StreetAddress>
+<StreetAddress2><![CDATA[BLDG 107]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<StateCode>NH</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NH01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GBNGC495XA67</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY SYSTEM OF NEW HAMPSHIRE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of New Hampshire]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NH</StateCode>
+<ZipCode>038242620</ZipCode>
+<StreetAddress><![CDATA[51 COLLEGE RD SERVICE BLDG 107]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NH01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>128100</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~172165</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-GACR: Coherent Radiation of Electrons Interacting with Intense Laser Pulses]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>440000.00</AwardTotalIntnAmount>
+<AwardAmount>440000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vyacheslav (Slava) Lukin</SignBlockName>
+<PO_EMAI>vlukin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927382</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The amount of radiation emitted by a large number of elementary sources, like atoms or accelerated electrons, is substantially increased by ``coherence,'' which arises when the sources are closer to each other than the wavelength of the emitted radiation. The most intense light and x-ray sources are characterized by a high degree of coherence and have made tremendous contributions to the progress in science and technology.  This project investigates the coherence properties of radiation emitted in a collision of a strong laser field with a high-energy electron bunch, with the ultimate goal of producing coherent gamma rays, where a single photon has an energy higher than that of an electron at rest. Gamma-ray radiation can be used for producing matter-antimatter, for investigating nuclear material and handling nuclear waste, as well as for studying medical isotopes.  The project combines the theoretical expertise at the University of Rochester with the numerical and unique experimental capabilities at ELI Beamlines in the Czech Republic, strengthening ties between the US and Europe in the field of high-intensity lasers. The project will also contribute to maturing the science case for a potential future NSF OPAL high power laser user facility at the University of Rochester.&lt;br/&gt; &lt;br/&gt;This project will employ methods from strong-field Quantum Electrodynamics to investigate the radiation emission spectrum from an ultra-relativistic electron bunch colliding with a strong laser field. First, the emission of one and two photons by two electrons will be considered, where it is expected that analytical and numerical results can be obtained. Then, the more general case of several electrons emitting multiple photons will be treated. Methods to enhance coherence effects beyond x-ray frequencies will be developed by working in the full quantum realm and by manipulating the incoming electron beam at the microscopic level. The ultimate goal is to ascertain the feasibility of realizing a gamma-ray free electron laser (FEL), which is one of the most ambitious unrealized goals of the scientific community. The experimental validation of the theoretical predictions will be performed at the ELI Beamlines laser user facility in the Czech Republic using the unique synchronized petawatt-scale laser and electron beam capabilities available at the facility.&lt;br/&gt;&lt;br/&gt;This collaborative U.S.-Czech project is supported by the U.S. National Science Foundation (NSF) and the Czech Science Foundation (GACR), where NSF funds the U.S. investigator and GACR funds the partners in the Czech Republic.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409460</AwardID>
+<Investigator>
+<FirstName>Antonino</FirstName>
+<LastName>Di Piazza</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Antonino Di Piazza</PI_FULL_NAME>
+<EmailAddress><![CDATA[a.dipiazza@rochester.edu]]></EmailAddress>
+<NSF_ID>000854936</NSF_ID>
+<StartDate>06/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146113847</ZipCode>
+<PhoneNumber>5852754031</PhoneNumber>
+<StreetAddress><![CDATA[910 GENESEE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F27KDXZMF9Y8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ROCHESTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146113847</ZipCode>
+<StreetAddress><![CDATA[910 GENESEE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124200</Code>
+<Text>PLASMA PHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>128400</Code>
+<Text>AMO Theory/Atomic, Molecular &amp;</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>126Z</Code>
+<Text>NSF - Czech Science Foundation Collab</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5936</Code>
+<Text>GERMANY (F.R.G.)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~440000</FUND_OBLG>
+</Award>
+</rootTag>

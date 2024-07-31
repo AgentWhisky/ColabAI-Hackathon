@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Metabolic Homeostasis Drives Regulatory Oscillations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>900000.00</AwardTotalIntnAmount>
+<AwardAmount>218393</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Krastan Blagoev</SignBlockName>
+<PO_EMAI>kblagoev@nsf.gov</PO_EMAI>
+<PO_PHON>7032924666</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Metabolism is the set of essential chemical reactions in all organisms, including humans, which sustain life. The reactants are called metabolites and represent thousands of distinct compounds, many of which are essential to biological function. Metabolic homeostasis describes the processes that maintain the concentrations and control the rates of the constitutive metabolic reactions. Although much is already known about specific reactions in this process, recent experiments demonstrate an unexpected behavior: the periodic oscillations of central metabolites, including ATP, the molecular unit of cellular energy, as well as other nucleotides (NTPs and dNTPs). The focus of this proposal is understanding both how (the mechanism by which these oscillations are generated) and well as why (the biological rationale) these oscillations occur. Learning what attributes of regulatory control are optimized by the cell is a challenge of central importance to understanding the emergent principles that describe the function of living systems. The widespread detection of regulatory oscillations would change our fundamental mechanistic understanding of cellular regulation, and characterizing their dynamics could become a novel tool for the discovery of regulatory interactions. &lt;br/&gt;&lt;br/&gt;The project will pursue four aims that will help understand the mechanism by which these oscillations are generated, as well as the biological rationale for these oscillations to occur.&lt;br/&gt;Aim 1: Model regulatory oscillations. The team of investigators will model nucleotide homeostasis to explore the phenomenology of these regulatory networks and determine under what conditions oscillatory behavior is expected. We will analyze the tradeoffs between regulatory precision, rapidity, and overshoot.&lt;br/&gt;Aim 2: Characterize fork-velocity oscillations. Key evidence for metabolic oscillations comes from the PI’s recent observation of replication-fork-velocity oscillations. We will test the proposed regulatory mechanism for these oscillations by measuring their response to regulatory perturbations.&lt;br/&gt;Aim 3: Measure cell-cycle-dependent transcription of metabolic enzymes. The PI predicts that metabolic oscillations should result in the cell-cycle-dependent expression of many metabolic enzymes in nearly all bacterial systems. The team of investigators will test this hypothesis using RT-qPCR, RNA-Seq, and fluorescence microscopy.&lt;br/&gt;Aim 4: Measure cell-cycle dependent metabolite levels. The team of investigators will directly test for the existence of metabolic oscillations using two independent approaches:  NTP and dNTP levels will be measured in synchronized cells using Liquid Chromatography Mass Spectroscopy (LC-MS) and ATP levels will be measured using a biosensor in single cells using fluorescence microscopy.&lt;br/&gt;&lt;br/&gt;In addition to these scientific aims, this award will support a number of educational activities. It will support the training of graduate and undergraduate students working in an interdisciplinary environment that combines physics, chemistry, engineering, and biology. It will also support two undergraduate researchers as part of the University of Washington Louis Stokes Alliance for Minority Participation (LSAMP) which provides research opportunities for students from underrepresented groups.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412326</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Wiggins</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paul A Wiggins</PI_FULL_NAME>
+<EmailAddress><![CDATA[pwiggins@uw.edu]]></EmailAddress>
+<NSF_ID>000509323</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981951016</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress><![CDATA[4333 BROOKLYN AVE NE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WASHINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>SEATTLE</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981951016</ZipCode>
+<StreetAddress><![CDATA[3910 15th Ave NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>724600</Code>
+<Text>PHYSICS OF LIVING SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~218393</FUND_OBLG>
+</Award>
+</rootTag>

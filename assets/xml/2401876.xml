@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Enhancing WUI Fire Assessment through Comprehensive Data and High-Fidelity Simulation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>196639.00</AwardTotalIntnAmount>
+<AwardAmount>196639</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harsha Chelliah</SignBlockName>
+<PO_EMAI>hchellia@nsf.gov</PO_EMAI>
+<PO_PHON>7032927281</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Maui wildfire has claimed 97 lives and decimated the historic Lahaina town, with thousands of acres burned and over 2,200 structures damaged or destroyed. However, some structures on the fire path remained unscathed. Current models designed for wildfire spread in wildland-urban-interface (WUI) communities predominantly function at community or larger scales. They fall short in capturing the observations from the Lahaina wildfires, such as specific buildings remaining undamaged amidst extensively destroyed structures. Notably, there exists a group of tools that, in principle, have the capability to simulate fire spread on and between individual structures with high fidelity Computational-Fluid-Dynamics-based (CFD-based) fire models, e.g., the Fire Dynamics Simulator (FDS) developed by NIST and FireFoam developed by FM Global. These tools can potentially be used to both analyze and predict fire spread inside WUI communities and provide deep insights into the resilience of particular structures. However, to date, their application to model fire spread on and between structures in a wildfire has been limited primarily due to the lack of data necessary to correctly set up and validate these high-fidelity models. This project aims to overcome these challenges, enabling more accurate modeling of structure burning and fire spread in WUI settings in the future. This project will also help in training a new generation of researchers in wildfire and WUI fire resilience. &lt;br/&gt;&lt;br/&gt;The goal of this project is to enhance the WUI fire assessment through compiling a comprehensive dataset that accurately documents how the wildfire spread and impacted the community of Lahaina. It will also assess the feasibility of using high-fidelity CFD-based models to simulate the burning of individual structures in a WUI fire scenario. The comprehensive dataset, pulling from diverse data sources and formats, will be systematically organized, offering a wealth of detailed information in an easily understandable manner. This dataset is crucial for refining WUI fire spread models across all scales, from community-wide fire spread to individual structure response. After the dataset is compiled, high-fidelity CFD models will be set up for two Lahaina structures, one damaged by fire and one undamaged despite being in the path of fire. The aim is to determine if these models can accurately simulate the damage that was observed. By doing so, the project can identify areas where our current understanding and modeling approaches may be lacking or incomplete, guiding the future development of modeling techniques. The dataset and the model feasibility study ultimately will enhance WUI fire risk assessment, driving more informed decision-making in wildfire mitigation strategies. Additionally, both the dataset and the model feasibility study are valuable for broader WUI fire research and practice, including the performance-based design of structures against wildfires using high-fidelity CFD-based models.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401876</AwardID>
+<Investigator>
+<FirstName>Arnaud</FirstName>
+<LastName>Trouve</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arnaud C Trouve</PI_FULL_NAME>
+<EmailAddress><![CDATA[atrouve@umd.edu]]></EmailAddress>
+<NSF_ID>000463989</NSF_ID>
+<StartDate>01/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stanislav</FirstName>
+<LastName>Stoliarov</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stanislav Stoliarov</PI_FULL_NAME>
+<EmailAddress><![CDATA[stolia@umd.edu]]></EmailAddress>
+<NSF_ID>000597249</NSF_ID>
+<StartDate>01/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shuna</FirstName>
+<LastName>Ni</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shuna Ni</PI_FULL_NAME>
+<EmailAddress><![CDATA[shunani@umd.edu]]></EmailAddress>
+<NSF_ID>000867876</NSF_ID>
+<StartDate>01/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425100</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress><![CDATA[3112 LEE BUILDING]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NPU8ULVAAS23</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>College Park</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207425001</ZipCode>
+<StreetAddress><![CDATA[4356 Stadium Drive, J.M. Patterson Building]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>140700</Code>
+<Text>CFS-Combustion &amp; Fire Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>132Z</Code>
+<Text>FIRE-Wildland Fire</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~196639</FUND_OBLG>
+</Award>
+</rootTag>

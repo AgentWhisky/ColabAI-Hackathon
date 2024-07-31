@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Oscillatory Integrals and the Geometry of Projections]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>554752.00</AwardTotalIntnAmount>
+<AwardAmount>163054</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeremy Tyson</SignBlockName>
+<PO_EMAI>jtyson@nsf.gov</PO_EMAI>
+<PO_PHON>7032927210</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project involves research at the interface of Fourier analysis and geometric measure theory. Fourier analysis studies the relation between a function and its Fourier transform. The Fourier transform of a function, in rough terms, represents the function via a superposition of frequencies. Geometric measure theory studies the geometric properties of sets and measures under transformations. Fractal sets, or sets with highly irregular geometry, are of particular interest in this regard. Recently, the connection between Fourier analysis and geometric measure theory has led to substantial progress in both fields. This project explores the interaction between these two fields, along with possible applications to other fields such as dynamics and number theory. The project also supports workshops for graduate students and early-career mathematicians: these events will promote mathematical expertise within the indicated research areas, will contribute to the professional training of participants, and will foster new research collaborations.&lt;br/&gt;&lt;br/&gt;The project combines work in restriction theory (within Fourier analysis) and the theory of projections (within geometric measure theory). One component of the planned research involves the study of the mass of a function, with Fourier transform supported on the sphere, on a fractal set.  Another component investigates the dimensions of fractal sets under certain linear or nonlinear maps parametrized by curved manifolds. A final component concerns the Kakeya conjecture, which asks how large must a set be if it contains a unit line segment in every direction. These three components, while distinct, are highly interrelated, and progress in each area is anticipated to inform ongoing work in all of these areas.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2424018</AwardID>
+<Investigator>
+<FirstName>Hong</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hong Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[hongwang@math.ucla.edu]]></EmailAddress>
+<NSF_ID>000837296</NSF_ID>
+<StartDate>04/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128100</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~163054</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Tiered multi-satellite observation scheme for methane quantification and attribution]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>275000.00</AwardTotalIntnAmount>
+<AwardAmount>275000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase I project is in being able to assess and mitigate company-level methane emissions from oil &amp; gas operations across the globe. Methane, with its global warming potential 85 times that of carbon dioxide over a 20-year period, represents a critical target in meeting the climate change goals. Specifically, the proposed intervention could help flatten the methane emissions curve – cutting emissions of US oil &amp; gas producers by 75% over five years. This 75% reduction in emissions from fossil fuels aligns with the International Energy Agency’s goal for 2030 that would enable limiting global warming to 1.5°C. Additionally, decreased global warming mitigates the frequency and severity of climate-related disasters such as wildfires, floods, and heatwaves. These changes have profound implications for biodiversity, ecosystems, and human livelihoods, particularly in vulnerable regions which includes much of the U.S. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The proposed technical innovation is a computationally efficient, tiered multi-satellite monitoring system that tracks daily-to-weekly methane emissions from oil &amp; gas assets across the globe. These are then used to assess company-level emission performance and benchmark companies amongst their peers. The technology integrates satellite observations from multiple sensors, deep learning models, and statistical data aggregation. A crucial component is a deep learning model which automatically detects methane plumes in high-resolution imagery from satellites not designed to detect methane, like the Landsat suite and Sentinel-2. These plumes are used to refine TROPOMI baseline observations. Most quantification methods, and deep learning models in particular, are too computationally expensive to use at a global scale. Thus innovative, computationally efficient methods for emission quantification and statistical data aggregation must be developed. A significant technical risk is that these new computationally efficient methods may sacrifice some accuracy in methane quantification. Larger uncertainties using these methods could result in a data product that lacks meaningful insights. The intellectual merit of the proposed project is in developing computationally efficient new methods which strike the appropriate balance between efficiency and accuracy that meet real-world information needs of key stakeholders.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2405214</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Kriss</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark R Kriss</PI_FULL_NAME>
+<EmailAddress><![CDATA[mkriss@geofinancial.com]]></EmailAddress>
+<NSF_ID>000794195</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[GEOFINANCIAL ANALYTICS, INC.]]></Name>
+<CityName>SAUSALITO</CityName>
+<ZipCode>949652231</ZipCode>
+<PhoneNumber>6122229195</PhoneNumber>
+<StreetAddress><![CDATA[141 BULKLEY AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>W513L93SHXL7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEOFINANCIAL ANALYTICS INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[GEOFINANCIAL ANALYTICS, INC.]]></Name>
+<CityName>SAUSALITO</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>949652231</ZipCode>
+<StreetAddress><![CDATA[141 BULKLEY AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090Z</Code>
+<Text>CAS-Critical Aspects of Sustainability</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1238</Code>
+<Text>TECH FOR SUSTAINABLE ENVIRONMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~275000</FUND_OBLG>
+</Award>
+</rootTag>

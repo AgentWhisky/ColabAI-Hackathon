@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Multiscale Simulations of Iron Oxide Nanoparticle-Protein Electron Transfer]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>549997.00</AwardTotalIntnAmount>
+<AwardAmount>325164</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nora Savage</SignBlockName>
+<PO_EMAI>nosavage@nsf.gov</PO_EMAI>
+<PO_PHON>7032927949</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Metal oxide nanoparticles coupled with metal-reducing bacteria can generate reaction processes for applications in bio-remediation of contaminated soil and water. The challenge is to increase the currently low efficiency of these reactions, which critically depend on how nanoparticles interact with the outer membrane proteins. This CAREER project will investigate iron oxide nanoparticle-protein electron transfer reaction for the purpose of developing more efficient technologies for environmental applications. The knowledge obtained from this project is also highly desirable and applicable to technology development in bioenergy, biocompatible materials and biosensors. This research will greatly impact the scientific exploration in many disciplines, including chemical and biomedical engineering, material science, chemistry and biology. Through targeted efforts that integrate research and education, this project will provide cutting-edge research opportunities to promote STEM education for undergraduate and graduate students, particularly those from underrepresented communities, and will offer education activities to broaden STEM experiences for K-12 teachers and students as well as for the general public.&lt;br/&gt;&lt;br/&gt;The overall research goal of this project is to elucidate the mechanism of iron oxide nanoparticle-protein electron transfer and redox, which is greatly needed for environmental applications utilizing coupled iron oxide nanoparticle-dissimilatory metal-reducing bacteria. Due to the lack of a proper simulation approach and parameters for nano-bio systems, there are few synergistic theoretical studies in this area. To tackle computational challenges at multiscale levels, involving protein conformation changes, chemical reactions and electron transfer, this project will incorporate multiscale simulations at the quantum, atomistic and molecular levels, complemented by experiments of cyclic voltammogram and linear and nonlinear vibrational spectroscopies as well as virtual visualization. Simulation parameters of electron transfer and nanoparticle-protein interactions and reactions will be developed based on theory and quantum computations. The underlying mechanism of the abiotic-biotic interfacial electron transfer and the associated molecular details of nanoparticle-protein's physical interactions and chemical reactions at multiscales will be investigated. The effects of lipopolysaccharide, phospholipids, outer membrane and properties of nanoparticles on protein interfacial behavior and the interfacial electron transfer will be studied. The simulation results of nanoparticle properties, protein secondary structure, orientation on nanoparticle surfaces and electron transfer properties will be verified by experimental measurements. Simulations will also help interpret experimental cyclic voltammogram signals and linear and nonlinear vibrational spectra. This work will provide valuable insights into physics and chemistry regarding nano-bio interfacial phenomena and will promote the development of efficient bio-nano technologies. The educational goal of this project is to enhance STEM education for underrepresented minority students at university and K-12 levels by providing world-class engineering education and research opportunities. The research activities and results of this project will be incorporated into new courses and student research opportunities to recruit and retain minority students in STEM fields. This project will also offer STEM teacher workshops, introduce high school students to research projects, and promote the scientific literacy of the general public.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>10/20/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400531</AwardID>
+<Investigator>
+<FirstName>Tao</FirstName>
+<LastName>Wei</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tao Wei</PI_FULL_NAME>
+<EmailAddress><![CDATA[TAOW@mailbox.sc.edu]]></EmailAddress>
+<NSF_ID>000758197</NSF_ID>
+<StartDate>10/20/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of South Carolina at Columbia</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>292083403</ZipCode>
+<PhoneNumber>8037777093</PhoneNumber>
+<StreetAddress>1600 HAMPTON ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J22LNTMEDP73</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTH CAROLINA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>J22LNTMEDP73</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of South Carolina at Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>292083403</ZipCode>
+<StreetAddress><![CDATA[1600 HAMPTON ST # 414]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1179</Code>
+<Text>Nanoscale Interactions Program</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1385</Code>
+<Text>SSA-Special Studies &amp; Analysis</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7681</Code>
+<Text>ENG NNI Special Studies</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~325164</FUND_OBLG>
+</Award>
+</rootTag>

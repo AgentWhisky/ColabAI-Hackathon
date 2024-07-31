@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHINE: Measuring the Coronal Magnetic Field through the Spectropolarimetric Signatures of the Unsaturated Hanle Effect in the Neutral Helium (He I) 1083.0 nm Line]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>394601.00</AwardTotalIntnAmount>
+<AwardAmount>394601</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Womack</SignBlockName>
+<PO_EMAI>mwomack@nsf.gov</PO_EMAI>
+<PO_PHON>7032922620</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This is a combined modeling and observing project to estimate the magnetic field strength in the Sun’s corona using new computational techniques. The investigators will accomplish this by measuring a helium emission line that has been studied extensively in other solar regions but only rarely in the corona and is sensitive to the Sun’s magnetic field. They will determine the full magnetic field of the Sun on a routine basis, which will be used to improve predictions of extremely large outbursts of plasma from the Sun, known as coronal mass ejections (CME). When these explosions are directed toward the Earth they can significantly impacts electrical infrastructure. Two undergraduate students will participate in this research by learning how to write computer code and then apply their knowledge to analyzing the solar corona data. &lt;br/&gt;&lt;br/&gt;The team claims that the neutral atomic line of helium (He I) at 1083 nanometers is a key diagnostic of the coronal magnetic field and they will develop a machine learning method based on the Hanle effect to measure the full vector magnetic field of the solar corona. They will make the measurements using polarized light and magnetohydrodynamic modeling with radiative transfer incorporating the Zeeman and Hanle effects. Observational goals will also improve the analysis of existing UCoMP, DKIST Cryo-NIRSP, and DUNN Solar Telescope observations. The students will write and use Python code to identify the best observed CME events in the datasets and measuring the polarization signatures in the He I 1083 nm line.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401069</AwardID>
+<Investigator>
+<FirstName>Momchil</FirstName>
+<LastName>Molnar</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Momchil E Molnar</PI_FULL_NAME>
+<EmailAddress><![CDATA[mmolnar@ucar.edu]]></EmailAddress>
+<NSF_ID>000955442</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University Corporation For Atmospheric Res]]></Name>
+<CityName>BOULDER</CityName>
+<ZipCode>803012252</ZipCode>
+<PhoneNumber>3034971000</PhoneNumber>
+<StreetAddress><![CDATA[3090 CENTER GREEN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YEZEE8W5JKA3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[National Center for Atmospheric Research]]></Name>
+<CityName>BOULDER</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803012252</ZipCode>
+<StreetAddress><![CDATA[3090 CENTER GREEN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152300</Code>
+<Text>SOLAR-TERRESTRIAL</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~394601</FUND_OBLG>
+</Award>
+</rootTag>

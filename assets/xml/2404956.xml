@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Multiplicative Number Theory and L-functions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>280000.00</AwardTotalIntnAmount>
+<AwardAmount>59556</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The first main objective of this project is to develop further our understanding of the way in which integers and especially consecutive integers factorize. This is a fundamental mathematical problem which finds wide ranging application in fields as distant as cryptography (e.g RSA) and mathematical physics (e.g the study of gaps between energy levels of particles on generic tori). The second main objective of this project is to apply the progress on this question to further develop certain areas of pure mathematics, in particular the analytic theory of L-functions. The project includes training of graduate students and postdocs.&lt;br/&gt;&lt;br/&gt;Towards the first goal the PI aims to make progress on Chowla's conjecture and in particular on the ``local Fourier uniformity conjecture for multiplicative functions''. A full resolution of the latter will imply Chowla's conjecture in logarithmic form for an arbitrary number of shifts and in particular Sarnak's conjecture in logarithmic form. Towards the second goal the PI aims to build on analogies between the analytic theory of L-functions and multiplicative number theory to make progress on questions related to the non-vanishing, value distribution and moments of L-functions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/08/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>11/08/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404956</AwardID>
+<Investigator>
+<FirstName>Maksym</FirstName>
+<LastName>Radziwill</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maksym Radziwill</PI_FULL_NAME>
+<EmailAddress><![CDATA[maksym.radziwill@northwestern.edu]]></EmailAddress>
+<NSF_ID>000788790</NSF_ID>
+<StartDate>11/08/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress>633 CLARK ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602080001</ZipCode>
+<StreetAddress><![CDATA[633 CLARK STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~5106</FUND_OBLG>
+<FUND_OBLG>2021~54450</FUND_OBLG>
+</Award>
+</rootTag>

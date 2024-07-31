@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation potential of using generative models for automatic test question generation and evaluation for educational assessment applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaime A. Camelio</SignBlockName>
+<PO_EMAI>jcamelio@nsf.gov</PO_EMAI>
+<PO_PHON>7032922061</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is the development of an intelligent test question development assistant, which could potentially support K-12 test developers by automatically generating high-quality questions and responses. This solution would benefit the testing and educational support industry, including but not limited to K-12 testing companies, language testing agencies, online education platforms, professional certifiers and licensure groups, and classroom teachers. The time and cost of test development would be significantly reduced. The technology will help advance the development and adoption of generative artificial intelligence techniques in educational measurement and assessment, contributing to the next generation of artificial intelligence tools for education. &lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of a generative artificial intelligence tool for test question development and evaluation for educational assessment applications. Test question development has been recognized as an extremely time-consuming, labor intensive, and expensive process in traditional paper-and-pencil testing and computerized adaptive testing. Automatic generation and evaluation of test questions presents a promising solution and has attracted considerable attention in the past decade. This automatic question generation and evaluation system leverages customized large foundation models to generate question for various educational assessment tasks, such as K-12 standardized tests and language tests. In addition, the system is able to generate high-quality test questions that are well aligned with user specifications, such as test blueprints, fairness, and difficulty levels.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2430387</AwardID>
+<Investigator>
+<FirstName>Sheng</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sheng Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[vga8uf@virginia.edu]]></EmailAddress>
+<NSF_ID>000785205</NSF_ID>
+<StartDate>05/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229034833</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJG6HU8PA4S5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RECTOR &amp; VISITORS OF THE UNIVERSITY OF VIRGINIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>229034833</ZipCode>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1707</Code>
+<Text>ADVANCED LEARNING TECHNOLOGIES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[OP: Enhancing detectivity of avalanche photodiodes by engineering correlated noise]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>479925.00</AwardTotalIntnAmount>
+<AwardAmount>479925</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Margaret Kim</SignBlockName>
+<PO_EMAI>sekim@nsf.gov</PO_EMAI>
+<PO_PHON>7032922967</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>A nontechnical description of the project:&lt;br/&gt;&lt;br/&gt;Avalanche Photodiodes (APDs) are widely used for optical communications, environmental monitoring, imaging, and night vision. They operate by employing a large electric field to crash photogenerated carriers into each other, causing an avalanche of free carriers by impact ionization, leading to a large gain in photocurrent that can increase the sensitivity of optical receivers to the extreme of single photon detection. However, since these impact ionization events are random, they also amplify shot noise arising from the granularity of charges. A key goal in APD research is to lower the noise arising from this gain mechanism to near-silicon values, albeit at small material bandgaps sensitive to longer infrared wavelengths. The goal of this proposal is to examine if the random noise can be reduced deterministically by correlating the charges. Recent experiments in mercury and antimony-containing APDs show dramatic noise reduction. This proposal will explore a possible origin due to ‘dead spaces’, over which the mobile charges build up adequate energy and momentum to tear away other bound charges from their parent atoms. In heavy element-based materials with relativistic spin-charge interactions and well-separated bands, the high internal fields can localize the charges to the start of these dead spaces, which will periodically correlate the charges and reduce the noise. A thorough understanding of the impact of correlated noise – both theoretically with high-power computational models as well as experimentally with material growth, fabrication, and characterization, will provide insight into fundamental device physics and enable design of ultralow noise APDs. The result will be a significant breakthrough in optical receiver sensitivity across a broad range of commercial, military, and research applications, including imaging arrays, optical communications, chemical and biological sensing, astronomical observations, and quantum optics. Educational tools, training videos, and outreach measures will bring the research and the underlying science to the mainstream scientific community and the next generation of student practitioners in this area.  &lt;br/&gt;&lt;br/&gt; A technical description of the project:&lt;br/&gt;Avalanche Photodiodes (APDs) use impact ionization under high-bias fields to amplify the current from a few photogenerated carriers. However, the stochastic nature of the underlying gain mechanism inevitably amplifies shot noise owing to the granularity of charges. McIntyre’s local field model has been used successfully for 60+ years to characterize this noise in APDs, using the excess-noise-factor figure of merit. The excess noise is primarily controlled by the average gain and the ratio of the minority to majority carrier ionization rates (i.e., how bipolar the chain reactions are). The aim of this proposal is to explore, explain and exploit a series of persistent observations in homojunction APDs containing antimony and mercury, and impact ionization engineered (I2E) heterojunctions with negative band-offsets, where the measured excess noise consistently lies below the fundamental noise limit predicted by McIntyre’s model, especially for lower gain values. In particular, the homojunction APDs exhibit this sub-McIntyre noise characteristic up to high gains. Viewed through the conventional lens of uncorrelated noise, this observation suggests that one of the two ionization rates is unphysically negative. In the proposed program, we will combine state-of-the-art material and transport modeling with digital and random quarternary and ternary alloy growth, APD fabrication, and characterization of current gain and excess noise, to demonstrate that a likely origin of sub-McIntyre noise is the spatial correlation between individual impact ionization events imposed by high field non-local effects (‘dead space’) in homojunction APDs, and the abrupt threshold reduction and charge heating in heterojunction I2E APDs. Educational tools, training videos and outreach measures will bring the research and the underlying science to the mainstream scientific community and next generation of student practitioners in this area.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2430629</AwardID>
+<Investigator>
+<FirstName>Avik</FirstName>
+<LastName>Ghosh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Avik Ghosh</PI_FULL_NAME>
+<EmailAddress><![CDATA[ag7rq@virginia.edu]]></EmailAddress>
+<NSF_ID>000284714</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joe</FirstName>
+<LastName>Campbell</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joe C Campbell</PI_FULL_NAME>
+<EmailAddress><![CDATA[jcc7s@virginia.edu]]></EmailAddress>
+<NSF_ID>000366852</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229034833</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJG6HU8PA4S5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RECTOR &amp; VISITORS OF THE UNIVERSITY OF VIRGINIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>229034833</ZipCode>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>151700</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~479925</FUND_OBLG>
+</Award>
+</rootTag>

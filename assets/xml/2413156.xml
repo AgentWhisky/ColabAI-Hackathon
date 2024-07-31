@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Uniformization of Surfaces and Mapping Problems in Metric Spaces]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/15/2023</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>148072.00</AwardTotalIntnAmount>
+<AwardAmount>112949</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jan Cameron</SignBlockName>
+<PO_EMAI>jcameron@nsf.gov</PO_EMAI>
+<PO_PHON>7032924544</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Classical geometry and calculus largely concern functions and spaces that change smoothly. However, objects in the real world are usually not smooth. One of the insights of modern mathematics is that many non-smooth objects can be studied and understood just as thoroughly as their smooth counterparts. Even more, such study tends to clarify and simplify previously known classical theory. Research in geometry, in both the smooth and non-smooth settings, typically involves curvature—a measure of the “bending” of a space—as a fundamental notion. The aim of this project is to understand the structure of geometric spaces in maximum generality, without relying on curvature and other standard assumptions. Such an undertaking has intrinsic interest and is also motivated by neighboring subjects such as complex dynamics and geometric group theory where these spaces naturally arise. Non-smooth geometry also arises in a variety of applied fields, including theoretical computer science and data science.  This project also incorporates a range of questions that will provide opportunities for undergraduate research.&lt;br/&gt;&lt;br/&gt;This project is rooted in the classical uniformization theorem developed by Klein, Poincaré and Koebe, among others, which states that any smooth surface can be mapped conformally onto a surface of constant curvature. This theorem gives a simple yet comprehensive picture of the geometry of surfaces and is the culmination of a large portion of 19th century mathematics. The project has two main goals: first is to develop versions of the uniformization theorem for potentially non-smooth metric spaces: to determine when one space can be mapped to another under a map with good geometric properties, such as a quasiconformal, quasisymmetric or bi-Lipschitz map. This continues earlier work of the principal investigator using a novel polyhedral approximation scheme as the main method. This approximation scheme has further potential applications which will be explored. The second goal is to investigate a variety of additional problems related to the different geometric classes of maps. These include the factorization of bi-Lipschitz maps and extensions of Lipschitz and quasisymmetric maps. These questions capture fundamental aspects of metric spaces and maps between them.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/21/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413156</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Romney</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew D Romney</PI_FULL_NAME>
+<EmailAddress><![CDATA[matthew.romney@stonybrook.edu]]></EmailAddress>
+<NSF_ID>000788191</NSF_ID>
+<StartDate>12/21/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Stevens Institute of Technology]]></Name>
+<CityName>HOBOKEN</CityName>
+<ZipCode>07030</ZipCode>
+<PhoneNumber>2012168762</PhoneNumber>
+<StreetAddress><![CDATA[1 CASTLEPOINT ON HUDSON]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJ6CN5Y5A2R5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stevens Institute of Technology]]></Name>
+<CityName>HOBOKEN</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>07030</ZipCode>
+<StreetAddress><![CDATA[1 CASTLEPOINT ON HUDSON]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128100</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5935</Code>
+<Text>FINLAND</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5936</Code>
+<Text>GERMANY (F.R.G.)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5950</Code>
+<Text>SWITZERLAND</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~112949</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CSR: RI: Small: Sustainable Large Scale Machine Learning via Multi-Level Optimization on Algorithm, System, and Meta Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>599995.00</AwardTotalIntnAmount>
+<AwardAmount>599995</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniela Oliveira</SignBlockName>
+<PO_EMAI>doliveir@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Environmental sustainability has become a critical global concern in both technological and economic spheres. Artificial Intelligence (AI), while addressing the environmental consequences of human activities, also contributes to environmental degradation due to its reliance on energy-intensive hardware like GPUs, which are used in diverse applications, ranging from chatbots (e.g., ChatGPT) to AI for Science applications (e.g., AlphaFold3). The project’s novelties are the introduction of a holistic approach combining system architecture, machine learning (ML), and software engineering to boost energy-efficiency, sustainable, and collaborative AI development. The project's broader significance and importance are its offering (i) easy-to-use, low-cost, scalable, and standardized open-source software to promote environmental sustainability in AI development; and (ii) multi-disciplinary education and research training opportunities across various educational levels.&lt;br/&gt;&lt;br/&gt;This project takes a holistic view of all levels of the AI development pipeline and seeks to harness recent progress in ML Systems, AutoML, and Collaborative Learning (CL) techniques to foster an environmentally sustainable approach to AI and LPM development across natural language processing, computer vision, and AI4Science domains. The project’s goal is to enhance training efficiency, reduce power consumption, improve hardware utilization, and expedite model development explorations. The project introduces a suite of measures, including efficient parallelization strategies, well-tuned hyperparameters with minimal trial rounds, and optimized hardware utilization. By aligning all aspects of the computing process with sustainability, a comprehensive approach to AI computing can be adopted, fostering a more responsible and environmentally mindful practice. The project’s objectives include (i) sustainable hardware utilization through optimized distributed ML strategies; (ii) efficient collaboration via cognitive scheduling and CL; (iii) learning to develop AI models and hyperparameters faster; and (iv) developing software toolkits for sustainable ML at all levels through multi-level optimization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414087</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Xing</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric P Xing</PI_FULL_NAME>
+<EmailAddress><![CDATA[epxing@cs.cmu.edu]]></EmailAddress>
+<NSF_ID>000195787</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>735400</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~599995</FUND_OBLG>
+</Award>
+</rootTag>

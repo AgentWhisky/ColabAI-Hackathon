@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Robust Algorithms Based on Domain Decomposition and Microlocal-Analysis for Wave propagation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ludmil T. Zikatanov</SignBlockName>
+<PO_EMAI>lzikatan@nsf.gov</PO_EMAI>
+<PO_PHON>7032922175</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>More than ever, technological advances  in industries such as aerospace, microchips, telecommunications, and renewable energy rely on advanced numerical solvers for wave propagation. The aim of this project is  the development of efficient and accurate algorithms for acoustic and electromagnetic wave propagation in complex domains containing, for example, inlets, cavities, or a multilayer structure. These geometrical features continue to pose challenges for numerical computation. The numerical methods developed in this project  will have  application to radar, communications, remote sensing, stealth technology, satellites, and many others. Fundamental theoretical and computational issues as well as realistic complex geometries such as those occurring in aircraft and  submarines  will be addressed in this project.  The obtained algorithms will facilitate the use of powerful computers when simulating industrial high-frequency wave problems.  The numerical solvers obtained through this research  will be made readily available to scientists in aerospace and other industries, which will contribute to enhancing the U.S leadership in this field. Several aspects in this project will benefit the education of both undergraduate and graduate students. Graduate students will gain expertise in both scientific computing and mathematical analysis. This will reinforce their preparation to face future challenges in science and technology. &lt;br/&gt;&lt;br/&gt;The aim of this project is  the development of efficient and accurate algorithms for acoustic and electromagnetic wave propagation  in complex domains. One of the main goals of this project resides in the design of robust algorithms  based on high-frequency integral equations, microlocal and numerical analysis, asymptotic methods, and finite element techniques.  The investigator plans to derive rigorous asymptotic expansions for incidences more general than plane waves in order to support the high-frequency integral equation multiple scattering iterative procedure. The investigator will introduce Ray-stabilized Galerkin boundary element methods, based on a new theoretical development on ray tracing, to significantly reduce the computational cost at each iteration and limit the exponentially increasing cost of multiple scattering iterations to a fixed number. Using the theoretical findings in conjunction with the stationary phase lemma, frequency-independent quadratures for approximating the multiple scattering amplitude will also be designed. These new methods will be beneficial for  industrial applications involving multi-component radar and antenna design.  In addition,  this project includes development of  new  non-overlapping domain decomposition methods with considerably enhanced convergence  characteristics. The main idea resides in a novel treatment  of  the continuity conditions in the neighborhood of the so called cross-points. Analysis of the convergence and stability  will be included in parallel to numerical simulations in the two and three dimensional cases using  high performance computing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410671</AwardID>
+<Investigator>
+<FirstName>Yassine</FirstName>
+<LastName>Boubendir</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yassine Boubendir</PI_FULL_NAME>
+<EmailAddress><![CDATA[boubendi@njit.edu]]></EmailAddress>
+<NSF_ID>000385980</NSF_ID>
+<StartDate>06/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New Jersey Institute of Technology]]></Name>
+<CityName>NEWARK</CityName>
+<ZipCode>071021824</ZipCode>
+<PhoneNumber>9735965275</PhoneNumber>
+<StreetAddress><![CDATA[323 DR MARTIN LUTHER KING JR BLV]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SGBMHQ7VXNH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW JERSEY INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New Jersey Institute of Technology]]></Name>
+<CityName>NEWARK</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>071021824</ZipCode>
+<StreetAddress><![CDATA[323 DR MARTIN LUTHER KING JR BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~200000</FUND_OBLG>
+</Award>
+</rootTag>

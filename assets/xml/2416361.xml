@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: NSF-BSF: CIF: Small: Error-Correcting Codes for Next-Generation Artificial Intelligence]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+<PO_EMAI>pregalia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922981</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>While artificial intelligence (AI) is making fast progress and impacting society, the cost of running AI systems is also becoming prohibitively high. To be sustainable, next-generation AI needs to be much more efficient in power consumption and speed. In-memory computing is a highly promising solution to this challenge; however, its many noise mechanisms require effective error correction schemes to make its computing reliable. This project will explore new error-correcting codes for in-memory computing in next-generation AI systems. The codes can be integrated with AI systems that directly use analog values for computing, which will help AI achieve much higher efficiency. The codes will focus on the correction of significant errors in computing that are most likely to affect the performance of AI, thus help AI systems achieve an optimal tradeoff between efficiency and reliability. By making in-memory computing more reliable, the project can help AI systems overcome the "von Neumann bottleneck" and become more scalable. The project will also develop on-line course materials related to the research topic, and organize workshops to bring together researchers and practitioners in the field.&lt;br/&gt;  &lt;br/&gt;This project proposes Quantized-Analog Error-Correcting Code (QA-ECC), a new type of code for reliable in-memory computing. It focuses on the dominant operation in deep neural networks---the vector-matrix multiplication---and accommodates various practical constraints of analog AI systems. The project will conduct a comprehensive study of QA-ECCs, including their theoretical foundations, practical constructions, and efficient integration with AI systems. It will explore a new paradigm for error correction codes, where redundancy is initially added to the input data for computing, while error correction is performed on the result of computing, making it different from conventional error-correcting codes used in data storage and communications. It will consider multiple resolutions for analog data, and focus on the correction of the most significant errors in computing, making it practical for in-memory computing. The project will develop new theoretical foundations for the new error-correcting codes, including maximum code rates, analytical tools for measuring their error-correction capabilities, and the impact of various parameter settings on the codes' performance. The project will develops new techniques for building error correction codes for analog computing, new algorithms for code searching and error correction, and new methodologies for integrating the codes closely with various aspects of AI systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/28/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2416361</AwardID>
+<Investigator>
+<FirstName>Anxiao</FirstName>
+<LastName>Jiang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anxiao Jiang</PI_FULL_NAME>
+<EmailAddress><![CDATA[ajiang@cs.tamu.edu]]></EmailAddress>
+<NSF_ID>000488181</NSF_ID>
+<StartDate>06/28/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress><![CDATA[3124 TAMU]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778433124</ZipCode>
+<StreetAddress><![CDATA[3124 TAMU]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779700</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>014Z</Code>
+<Text>NSF and US-Israel Binational Science Fou</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5905</Code>
+<Text>ISRAEL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

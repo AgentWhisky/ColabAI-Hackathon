@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Characterizing Gravitational Wave signals in O4 and beyond]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>210000.00</AwardTotalIntnAmount>
+<AwardAmount>70000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The field of gravitational wave astrophysics is experiencing rapid growth, propelled by advances in detector sensitivity and analysis tools. The ongoing fourth observing (O4) run of NSF's Laser Interferometric Gravitational-wave Observatory (LIGO), Virgo, and KAGRA detectors has brought a significant increase in the detection rate of compact binary coalescences, reaching approximately 0.5/day, compared to 1.5/week in the previous run. This award responds to the data analysis needs of O4 with two projects: ensuring that our measurements are robust against contamination from detector artifacts known as glitches and studying the spins of black holes detected with gravitational waves. The award will support the training of students in STEM areas.&lt;br/&gt;&lt;br/&gt;The award targets two areas of study under gravitational wave data analysis. The first area concerns the spins of black holes in binaries. Black hole spins carry important information about the astrophysical properties of compact binaries, including the question of whether binaries form through dynamical processes in dense environments or through isolated evolution in the field. The project will constrain the astrophysical distribution of black hole spins in binaries using the few hundreds of events expected from O4. The second area addresses challenges in obtaining robust estimates of the binary parameters in the presence of data quality issues. Previous work led to a method for mitigating detector glitches (non-Gaussian detector noise) that coincide with signals by simultaneously modeling the signal and the glitch and subtracting the latter. The project will apply this method to O4 candidates to obtain robust estimates for the binary properties.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/26/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409001</AwardID>
+<Investigator>
+<FirstName>Katerina</FirstName>
+<LastName>Chatziioannou</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Katerina Chatziioannou</PI_FULL_NAME>
+<EmailAddress><![CDATA[kchatziioannou@caltech.edu]]></EmailAddress>
+<NSF_ID>000841042</NSF_ID>
+<StartDate>06/26/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250001</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress><![CDATA[1200 E CALIFORNIA BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA28</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U2JMKHNS5TG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CALIFORNIA INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>PASADENA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>911250001</ZipCode>
+<StreetAddress><![CDATA[1200 E CALIFORNIA BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA28</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125200</Code>
+<Text>LIGO RESEARCH SUPPORT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>069Z</Code>
+<Text>Windows on the Universe (WoU)</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~70000</FUND_OBLG>
+</Award>
+</rootTag>

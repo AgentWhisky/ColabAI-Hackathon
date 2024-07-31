@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NeTS: Medium: An End-to-End Framework for Network Transport Design and Implementation for Emerging Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>1080000.00</AwardTotalIntnAmount>
+<AwardAmount>263039</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+<PO_EMAI>dmedhi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Data center networks rapidly evolve with higher speeds and increased programmability, accommodating communication between various elements in the data center such as central processing units, graphics processing units, and other accelerators. Emerging applications, particularly in artificial intelligence and high-performance computing, require efficient data transport across networks. Traditional transport stacks struggle to meet these demands, necessitating redesign and adaptability. This project plans to develop an end-to-end framework called Transcraft to streamline the design and implementation of network transport stacks. Transcraft aims to reduce development time and costs by providing an intuitive interface for developers to quickly create and verify transport design and implementation.&lt;br/&gt;&lt;br/&gt;The project addresses key challenges in computer networking, systems, and formal methods. It introduces techniques for specifying and verifying infrastructure constraints, workload requirements, and objectives, enabling automatic design synthesis based on formal specifications. To assist developers, Transcraft offers an intuitive interface for specifying properties and encoding pseudocode, which is iteratively refined through formal verification techniques. Additionally, the project will develop reusable templates for transport blocks, ensuring efficient integration and performance optimization across various platforms. Transcraft also includes benchmarks for performance tuning and validation tailored to workloads, properties, and configurations.&lt;br/&gt;&lt;br/&gt;This project has strong potential for broader impacts. The project will benefit practitioners and students by releasing open-source tools, models, implementations, and benchmarks, fostering innovation and learning. Research findings will be integrated into courses spanning networking, computer systems, and formal methods, enhancing educational programs. Collaboration with industry partners will ensure the effectiveness of Transcraft in diverse settings and promote its adoption. Additionally, the project will organize workshops and tutorials to share insights with practitioners and continue to mentor undergraduates and underrepresented communities, supporting educational and diversity initiatives.&lt;br/&gt;&lt;br/&gt;The open-source software, hardware, data, and results will be available for public use under a permissive open-source license on the project website: https://transcraft.io.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403026</AwardID>
+<Investigator>
+<FirstName>Aditya</FirstName>
+<LastName>Akella</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aditya Akella</PI_FULL_NAME>
+<EmailAddress><![CDATA[akella@cs.utexas.edu]]></EmailAddress>
+<NSF_ID>000204197</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daehyeok</FirstName>
+<LastName>Kim</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daehyeok Kim</PI_FULL_NAME>
+<EmailAddress><![CDATA[daehyeok@utexas.edu]]></EmailAddress>
+<NSF_ID>000929170</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Venkat</FirstName>
+<LastName>Arun</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Venkat Arun</PI_FULL_NAME>
+<EmailAddress><![CDATA[venkat@utexas.edu]]></EmailAddress>
+<NSF_ID>000960978</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736300</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~263039</FUND_OBLG>
+</Award>
+</rootTag>

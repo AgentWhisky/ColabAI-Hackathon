@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Architectural design of active adhesives]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>495000.00</AwardTotalIntnAmount>
+<AwardAmount>495000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Lovinger</SignBlockName>
+<PO_EMAI>alovinge@nsf.gov</PO_EMAI>
+<PO_PHON>7032924933</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>PART 1: NON-TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;Adhesives are ubiquitous materials not only in our daily lives but also for advanced and specialized applications such as wearable electronics, biomedical adhesives, and soft robotics. Current approaches to meet such a diverse scope of functions rely on exploratively blending assorted polymers with large quantities of tackifiers, plasticizers and other additives as needed. This mixing-based approach toward property control is ineffective and imprecise. Furthermore, loose additives are prone to leaching and migration, which leads to property variation over time along with inevitable surface contamination, thus prohibiting their use in sensitive applications such as art restoration, biomedical devices, and microelectronics. The proposed adhesion-by-architecture platform will empower the design of additive-free adhesives with tailored property combinations that can be switched on demand. The platform is based on brush-like polymer networks with dynamic molecular linkers, which provide various pathways for molecular-scaffold reconfiguration without losing material integrity. The abundance of structural parameters in molecular brush networks allows for the programmable variation of distinct physical characteristics independent of chemical composition and one another. Developing structurally programmable adhesives with actively modulated performance will offer a breakthrough in soft matter engineering, yielding active adhesives with exceptional property combinations and switching on-demand capability. The design of advanced materials will provide ample opportunities for interdisciplinary training of graduate students with diverse backgrounds through integration of precision chemistry, soft-matter physics, and emerging technologies.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;PART 2: TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;Adhesive performance results from an interplay of bulk and interfacial deformation mechanisms, both viscoelastic in nature. Understanding how molecular brush architecture controls this interplay represents the intellectual focus of this proposal. The proposed research will address the following fundamental problems. The first is the hierarchical relationship between adhesion and molecular network architecture, spanning different length and time scales. Understanding how an individual element of the brush structure contributes to the viscoelastic response is a crucial milestone towards programmable control of the performance of pressure-sensitive adhesives (PSAs). The second is the inherent reliance of adhesion on chemical composition and the interdependence of distinct adhesive characteristics such as tack, stretch, and work of adhesion. The design-by-architecture approach will allow breaking these conventional rules to allow for the variation of physical characteristics independent of chemistry and one another. The third is the current inability to switch the adhesion strength of pressure-sensitive adhesive materials on demand without perturbing the integrity and shape of a device. This challenge will be addressed by strategically incorporating dormant functionalities that can be activated by an external stimulus to trigger internal rearrangement of the network topology.&lt;br/&gt;.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403716</AwardID>
+<Investigator>
+<FirstName>Sergei</FirstName>
+<LastName>Sheiko</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sergei S Sheiko</PI_FULL_NAME>
+<EmailAddress><![CDATA[sergei@email.unc.edu]]></EmailAddress>
+<NSF_ID>000001111</NSF_ID>
+<StartDate>02/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275995023</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress><![CDATA[104 AIRPORT DR STE 2200]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D3LHU66KBLD5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName>CHAPEL HILL</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>275995023</ZipCode>
+<StreetAddress><![CDATA[104 AIRPORT DR STE 2200]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177300</Code>
+<Text>POLYMERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~495000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Quantum Stereodynamics of Cold Molecular Collisions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>350546.00</AwardTotalIntnAmount>
+<AwardAmount>350546</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Julio Gea-Banacloche</SignBlockName>
+<PO_EMAI>jgeabana@nsf.gov</PO_EMAI>
+<PO_PHON>7032927924</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The transformation from reactants to products in a chemical reaction is the result of billions of collisions between the reactant molecules. At normal temperatures, these collisions occur randomly in arbitrary orientations, and as such, one cannot exert any control over this process. However, as the temperature is reduced, quantum effects begin to emerge and a quantum mechanical treatment is necessary to understand the collisions. In this regime, small perturbations introduced by external electric or magnetic fields can alter the reactants’ interactions and the reaction outcome. This is an emerging field of research in Physics and Chemistry, and quantum science in general, to gain fundamental understanding of atomic and molecular collisions and control their outcome. The collision outcome can also be influenced by controlling the orientation or alignment of the reactant molecules, which is a topic of this award. One can also control the collision outcome through quantum mechanical interference effects, with constructive interference along the reaction path enhancing the reaction and destructive interference suppressing it.  Such quantum interference effects are important when the transformation from reactant to products involves multiple pathways. The methodologies developed as part of this award will result in computational algorithms for quantum control of chemical reactions as well as improved understanding of molecular processes in the earth’s atmosphere and astrophysical environments.&lt;br/&gt;&lt;br/&gt;The Stark-induced adiabatic Raman passage (SARP) technique has become a powerful tool to prepare molecules in well-defined ro-vibrational levels and magnetic projection quantum numbers. Such SARP-prepared molecules have become a testbed for the study of aligned molecular collisions allowing quantum-controlled collisions of diatomic molecules such as HD and D2 though the approach can be applied to any molecular system, including those lacking a permanent dipole-moment.  The PI will undertake a detailed quantum mechanical investigation of HD+D2 collisions in light of recent experimental study of this system as well as chemical reaction between electronically excites sulfur atoms and D2 molecules. In both systems, the effect of alignment of the HD and D2 molecules will be investigated on the collision outcome. For the latter case, the effect of coupling to the lower electronic state will be investigated. Additionally, the effect of isotope substitution and quantum interference effects originating from non-adiabatic dynamics in Li+Li2 chemical reaction will be studied. The NSF award will support a postdoc and provide opportunities for undergraduate students from traditionally underrepresented communities to engage in leading-edge research, contributing to future workforce development in emerging areas of quantum science. This project is jointly supported by the NSF Physics and Chemistry Divisions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409497</AwardID>
+<Investigator>
+<FirstName>Balakrishnan</FirstName>
+<LastName>Naduvalath</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Balakrishnan Naduvalath</PI_FULL_NAME>
+<EmailAddress><![CDATA[naduvala@unlv.nevada.edu]]></EmailAddress>
+<NSF_ID>000094489</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Nevada Las Vegas]]></Name>
+<CityName>LAS VEGAS</CityName>
+<ZipCode>891549900</ZipCode>
+<PhoneNumber>7028951357</PhoneNumber>
+<StreetAddress><![CDATA[4505 S MARYLAND PKWY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<StateCode>NV</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NV01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLUTVJJ15U66</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOARD OF REGENTS OF NEVADA SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>F995DBS4SRN3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Nevada Las Vegas]]></Name>
+<CityName>LAS VEGAS</CityName>
+<StateCode>NV</StateCode>
+<ZipCode>891549900</ZipCode>
+<StreetAddress><![CDATA[4505 S MARYLAND PKWY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NV01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128400</Code>
+<Text>AMO Theory/Atomic, Molecular &amp;</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>688100</Code>
+<Text>Chem Thry, Mdls &amp; Cmptnl Mthds</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1284</Code>
+<Text>ATOMIC THEORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~350546</FUND_OBLG>
+</Award>
+</rootTag>

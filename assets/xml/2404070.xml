@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Quantitative Multiparameter Super-resolution Imaging of Electrochemical Phenomena at the Nanoscale]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>382000.00</AwardTotalIntnAmount>
+<AwardAmount>382000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelsey Cook</SignBlockName>
+<PO_EMAI>kcook@nsf.gov</PO_EMAI>
+<PO_PHON>7032927490</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, and partial co-funding from the Macromolecular, Supramolecular, and Nanochemistry Program and the Established Program to Stimulate Competitive Research (EPSCoR), Vignesh Sundaresan and his research group from the Department of Chemistry &amp; Biochemistry at the University of Mississippi are developing a quantitative microscopy technique called calcite-assisted localization and kinetics microscopy, or CLocK. This innovative microscopy approach is designed to observe structural changes in nanoparticles during electrochemical reactions. Nanoparticles are crucial catalysts in important energy-conversion reactions, such as hydrogen production and carbon dioxide reduction to chemical feedstocks. The structure of nanoparticles is known to change during these reactions, affecting efficiency, but until now no quantitative correlation has been established to understand how these structural changes impact reaction efficiency. To tackle this issue, the research team is using a calcite crystal, known as the Vikings’ sunstone, as a polarizer to track the morphological transformations of the nanoparticles and correlate these observed changes with measured efficiencies. The development of CLocK microscopy has the potential to accelerate materials characterization, thereby fostering the discovery and development of functional materials that positively impact and benefit society. The project offers training opportunities that will help build a diverse workforce, including outreach activities for high school students from groups underrepresented in science, particularly in the field of microscopy — a field with a broad range of applications from medicine to materials science.&lt;br/&gt;&lt;br/&gt;The CLocK microscopy technique being developed by the Sundaresan research team at U. Mississippi utilizes a rotating calcite crystal positioned in the infinity space of the optical microscope. This configuration splits the scattered light from single nanoparticles (NPs) based on two orthogonal polarizations to generate a unique point-spread function resembling a "clock." CLocK images provide not only the spatial position of the NP, similar to traditional super-localization imaging, but also additional quantitative details such as anisotropy, orientation, and temporal information of the single-NP emitter. Using in situ CLocK microscopy, the team aims to quantify changes in anisotropy and orientation of individual NPs during electrochemical/catalytic reactions and understand their effects on electrochemical activity by integrating CLocK with scanning electrochemical cell microscopy at the single-particle level. This approach is expected to enhance understanding of how NP morphological changes influence the activity and selectivity of electrochemical systems. The technique is to be extended to NP transport at the electrode-electrolyte interface by correlating it with the NP collision electrochemistry technique. Overall, CLocK microscopy has the potential to offer the materials chemistry community valuable insights into dynamic morphological changes during electrochemical reactions, and enhance understanding of structure-property relationships for optimized electrochemical system design.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404070</AwardID>
+<Investigator>
+<FirstName>Vignesh</FirstName>
+<LastName>Sundaresan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vignesh Sundaresan</PI_FULL_NAME>
+<EmailAddress><![CDATA[vsundare@olemiss.edu]]></EmailAddress>
+<NSF_ID>000925897</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Mississippi]]></Name>
+<CityName>UNIVERSITY</CityName>
+<ZipCode>386779704</ZipCode>
+<PhoneNumber>6629157482</PhoneNumber>
+<StreetAddress><![CDATA[113 FALKNER]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G1THVER8BNL4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF MISSISSIPPI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Mississippi]]></Name>
+<CityName>UNIVERSITY</CityName>
+<StateCode>MS</StateCode>
+<ZipCode>386779704</ZipCode>
+<StreetAddress><![CDATA[113 FALKNER]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688000</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>688500</Code>
+<Text>Macromolec/Supramolec/Nano</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~382000</FUND_OBLG>
+</Award>
+</rootTag>

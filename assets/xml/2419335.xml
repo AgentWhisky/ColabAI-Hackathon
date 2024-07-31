@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: HNDS-I: Building Long-term, National-scale Spatiotemporal Data Collections from Historical Map Archives]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2025</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>499999.00</AwardTotalIntnAmount>
+<AwardAmount>499999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>May Yuan</SignBlockName>
+<PO_EMAI>mayuan@nsf.gov</PO_EMAI>
+<PO_PHON>7032922206</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Imola (Intelligent Map recOgnition LAb) project develops advanced computational methods and scientific approaches to extract historical geographic information from scanned maps originally published by the US Geological Survey between 1884 and 2006.  The project transforms historical road networks in these maps into a database that allows scientists to study the evolution of transportation networks and how humans interact with their environment over extended time periods and geographical regions prior to the era of satellite imagery.&lt;br/&gt;&lt;br/&gt;Extracting detailed geographic information from historical USGS topographic maps is a difficult task. The Imola project uses a new intelligent system called DaVinci to automate the extraction process and produce a large spatiotemporal database of historical road networks called US1884+.  DaVinci reads maps like humans by automatically exploring geographic features in maps and in other datasets to generate more information related to historical road networks to then extract them. The DaVinci method eliminates the need for large, manually created training data and provides a way to measure uncertainty in the features extracted from the maps, which is important for conducting research with the data. The project provides a case study and creates tutorials to demonstrate how the US1884+ platform can be used in scientific research and how it advances knowledge of how humans interact with their environment.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419335</AwardID>
+<Investigator>
+<FirstName>Stefan</FirstName>
+<LastName>Leyk</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stefan Leyk</PI_FULL_NAME>
+<EmailAddress><![CDATA[stefan.leyk@colorado.edu]]></EmailAddress>
+<NSF_ID>000510661</NSF_ID>
+<StartDate>07/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress><![CDATA[3100 MARINE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 481 572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803090001</ZipCode>
+<StreetAddress><![CDATA[3100 MARINE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>130Y00</Code>
+<Text>Human Networks &amp; Data Sci Infr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>107Z</Code>
+<Text>Human Networks &amp; Data Sci Infrastructure</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~499999</FUND_OBLG>
+</Award>
+</rootTag>

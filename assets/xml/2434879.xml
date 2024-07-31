@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-SNSF: AN INTEGRATIVE STRUCTURAL AND FUNCTIONAL STUDY TO DISSECT THE REGULATORY MECHANISMS OF CILIARY MOTILITY]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>1199870.00</AwardTotalIntnAmount>
+<AwardAmount>291710</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Loretta Jackson-Hayes</SignBlockName>
+<PO_EMAI>lojackso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924286</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project aims to enhance our understanding of motile cilia and flagella, cellular structures responsible for the locomotion of many single-celled eukaryotes, including the swimming of sperm cells and the movement of fluids such as mucus and cerebrospinal fluid in multi-cellular organisms. Despite the highly conserved internal machineries of cilia and flagella, each exhibits a unique waveform and behavior, tailored for a specific function or environmental niche. The study of ciliary structures is essential to identify the proteins involved in this process and determine how they function together to generate a sustained beat. By comparing ciliary structures across different organisms, we can gain information about the evolution of cilia and their adaptation to different environments and functions. The knowledge gained from this study can be used to help develop sophisticated computational models of ciliary motility and improve predictions of the effect of genetic perturbations and evolutionary adaptations. &lt;br/&gt;&lt;br/&gt;This project focuses on the axoneme, the highly conserved functional unit of motile cilia. Despite its significance for how cells move and behave, our understanding of this molecular machine is incomplete. The investigators plan to bridge this gap by studying flagellated organisms from the trypanosomatid family, which are particularly suitable for structural investigations, genetic manipulation, and waveform analysis. The first goal is to use high-resolution electron cryomicroscopy to determine the structure of the axoneme from Leishmania tarentolae flagella. The high-resolution information will allow us to identify every protein within a motile flagellum and understand their interactions. The investigators will then systematically analyze the contribution of each identified protein to flagellar movement, using a gene knockout screen and video microscopy. Lastly, they will explore the mechanisms that regulate flagellar beating using targeted CRISPR-based gene editing, quantitative mass spectrometry and electron cryotomography. This comprehensive, integrated approach will enhance the understanding of axoneme structures and the molecular mechanisms regulating flagellar motility.&lt;br/&gt;&lt;br/&gt;This collaborative U.S.-Swiss project is supported by the U.S. National Science Foundation (NSF) and the Swiss National Science Foundation (SNSF), where NSF funds the U.S. investigator and SNSF funds the partners in Switzerland.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2434879</AwardID>
+<Investigator>
+<FirstName>Alan</FirstName>
+<LastName>Brown</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alan Brown</PI_FULL_NAME>
+<EmailAddress><![CDATA[alan_brown@hms.harvard.edu]]></EmailAddress>
+<NSF_ID>000920619</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021385366</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress><![CDATA[1033 MASSACHUSETTS AVE STE 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LN53LCFJFL45</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021385366</ZipCode>
+<StreetAddress><![CDATA[1033 MASSACHUSETTS AVE STE 3]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111400</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022Z</Code>
+<Text>International Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>129Z</Code>
+<Text>U.S. NSF-Swiss Resrch Corp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5950</Code>
+<Text>SWITZERLAND</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~291710</FUND_OBLG>
+</Award>
+</rootTag>

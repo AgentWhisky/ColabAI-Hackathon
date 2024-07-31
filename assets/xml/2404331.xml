@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Development of Native-Like Peptoid Macrodiscs and Multidimensional Solid-State NMR Methods for Structural Studies of Membrane Proteins]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>534974.00</AwardTotalIntnAmount>
+<AwardAmount>534974</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelsey Cook</SignBlockName>
+<PO_EMAI>kcook@nsf.gov</PO_EMAI>
+<PO_PHON>7032927490</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program and partial co-funding from the Chemistry of Life Processes Program in the Division of Chemistry, Professor Alexander Nevzorov and his research group at North Carolina State University (NCSU) are devising new approaches to the characterization of the structure of proteins in cell membranes. These proteins regulate a wide variety of cell processes including signaling, energy conversion, and molecular recognition. Moreover, they are implicated in numerous diseases. However, the ability to study their structure and function at atomic resolution level in vitro depends on creating an environment closely resembling that of living cells. The Nevzorov group is designing membrane systems for use with nuclear magnetic resonance (NMR) spectroscopy, the technology behind well-known magnetic resonance imaging (MRI) tools.    In the course of developing both experimental and computational probes, the group will provide research opportunities for teachers and laboratory modules suitable for undergraduate and advanced high school courses illuminating the underlying principles.&lt;br/&gt;&lt;br/&gt;The Nevzorov research team is developing synthetic techniques for the rational design and characterization of novel peptoid-based lipid macrodiscs by a combination of dynamic light scattering (DLS), transmission electron microscopy (TEM), and solid-state NMR. It is expected that the high uniformity of the detergent-free discs will greatly enhance NMR spectroscopic resolution. Enabled by the discoidal lipid mimetics, new solid-state NMR experiments are expected to provide previously inaccessible spectroscopic information advancing determination of the structure of membrane proteins. This will entail new triple-resonance NMR pulse sequences applied to doubly labeled protein samples. Inclusion of lipid constituents such as cholesterol and sphingolipids will be done so as to create a membrane environment closely mimicking that encountered in the living cells. Macrodiscs of variable lipid composition will be used to study lipid-induced conformational changes for various membrane proteins.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404331</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Nevzorov</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander Nevzorov</PI_FULL_NAME>
+<EmailAddress><![CDATA[alex_nevzorov@ncsu.edu]]></EmailAddress>
+<NSF_ID>000507027</NSF_ID>
+<StartDate>05/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276950001</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NVH931QJJ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276957214</ZipCode>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688000</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>688300</Code>
+<Text>Chemistry of Life Processes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7218</Code>
+<Text>RET SUPP-Res Exp for Tchr Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~534974</FUND_OBLG>
+</Award>
+</rootTag>

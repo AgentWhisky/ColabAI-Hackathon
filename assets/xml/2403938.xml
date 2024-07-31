@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Live-Cell Applications of Chiral Plasmon-Dye Interactions with Single-Molecule Super-Resolution Polarimetry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>126656.00</AwardTotalIntnAmount>
+<AwardAmount>40978</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelsey Cook</SignBlockName>
+<PO_EMAI>kcook@nsf.gov</PO_EMAI>
+<PO_PHON>7032927490</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program in the Division of Chemistry and co-funding from the Biosensors program in the Division of Chemical, Bioengineering, Environmental, and Transport Systems, Professor Julie Biteen of the University of Michigan and Professor David Masiello of the University of Washington are sensing the chirality—or handedness—of molecules in biology. Most biological molecules are chiral, from the basic building blocks such as proteins and DNA to larger structures including biofilms. However, current approaches are limited to sensing large, ordered samples. Yet, more sensitive measurements are essential to measure heterogeneous mixtures or subtle changes. Toward the overarching goal of sensing chiral signals at the single-molecule level; the Biteen research group is developing a polarimetric microscope that leverages the precision of advanced microscopy and the signal enhancement of plasmonic antennas. The work is enabled through collaboration with the Masiello research group; this team is building the theoretical framework needed to interpret the measurements. Furthermore, the proposed activities emphasize to broad audiences how exciting science can be when teams work across disciplines—for instance, using advanced optics to investigate biological questions. Moreover, through class lectures, hands-on demos for middle school girls, and broad inclusion in laboratory research, this project will promote an image of science as an exciting field with a particular focus on increasing the diversity in STEM (science, technology, engineering &amp; mathematics) fields.&lt;br/&gt;&lt;br/&gt;This project is developing a multifunctional, high-sensitivity instrument to measure plasmon-enhanced chirality and to enable sensing of subtle, heterogeneous changes in chirality. Ultimately, this collaborative project seeks to make unprecedented measurements by leveraging single-particle plasmonics experimental methods, theoretical and numerical frameworks, and extensive microbiology expertise. The design and implementation of plasmon-coupled fluorescence microscopy is expected to advance knowledge in high-sensitivity detection of optical activity and provide access to subtle signatures of chirality in biology.  The work bridges chemistry, physics, and biology and shows how novel interdisciplinary approaches can overcome the limitations of conventional, discipline-specific techniques. Overall, the program has promise to advance the field of super-resolution microscopy by providing an innovative new tool for enhanced polarization-sensitive fluorescence imaging, developing a new theoretical framework for understanding plasmon-coupled chiral absorption and emission, and sensing biogenesis of chirality in bacteria.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/28/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/28/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403938</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Masiello</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David J Masiello</PI_FULL_NAME>
+<EmailAddress><![CDATA[MASIELLO@UW.EDU]]></EmailAddress>
+<NSF_ID>000573798</NSF_ID>
+<StartDate>05/28/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981951016</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress><![CDATA[4333 BROOKLYN AVE NE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WASHINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>SEATTLE</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981951016</ZipCode>
+<StreetAddress><![CDATA[4333 BROOKLYN AVE NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688000</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7234</Code>
+<Text>SENSORS NON-SOLICITATION RESEA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~40978</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Elucidation of Molecular Mechanism of Master Growth Regulator DELLA Signaling in Arabidopsis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>1337663.00</AwardTotalIntnAmount>
+<AwardAmount>1337663</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Loretta Jackson-Hayes</SignBlockName>
+<PO_EMAI>lojackso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924286</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project focuses on elucidating the molecular workings of the master growth regulators DELLA proteins (DELLAs) in plants. DELLAs are also known as ‘Green Revolution’ proteins because of their pivotal role in modulating stature of the high-yielding wheat varieties, which were crucial for the success of the ‘Green Revolution’ in the 1960s. Recent studies indicate that DELLAs coordinate multiple cellular pathways in response to environmental cues (such as light conditions, pathogens, cold and drought stresses). Although DELLAs play such a central role in regulating diverse plant growth processes, very little is known about how DELLAs control gene expression globally and how DELLA activity is dynamically regulated. This project aims to investigate these two important aspects and elucidate the molecular mechanisms involved. This research will facilitate more effective strategies to manipulate plant growth and stress responses for agricultural improvements since DELLAs are highly conserved in plants. This research project will also have a broad impact in training young scientists, including a postdoctoral fellow, a graduate student and two undergraduate students per year.&lt;br/&gt;&lt;br/&gt; DELLAs function as transcription regulators, which contain an N-terminal DELLA domain and a C-terminal GRAS domain. DELLAs mediate transcription reprogramming by interaction of their GRAS domain with hundreds of transcription factors (TFs). In addition, DELLAs are associated with both DELLA-repressed and DELLA-activated promoters, and the formation of the TF-DELLA-histone H2A complexes at target chromatin is essential for DELLA activity. DELLA-repressed transcription is mediated by recruiting the Polycomb-repressive complex and histone deacetylases. Moreover, the DELLA domain exhibits transactivation function, which enhances growth repression activity of DELLA proteins in planta. However, the molecular mechanism of DELLA-mediated transactivation remains unclear. Recent studies in this lab also showed that phosphorylation of REPRESSOR OF ga1-3 (RGA, an AtDELLA) in its Poly-S/T region promotes RGA-H2A interaction at target chromatin, but does not affect RGA-TF interactions. However, the specific protein kinase(s) that phosphorylate Arabidopsis DELLA proteins remain elusive. By TurboID-mediated proximity labeling, this lab recently identified new classes of proteins that are present in the vicinity of RGA in planta, including a protein kinase and multiple transcription co-activators and corepressors. Specific Aim 1 will elucidate the precise role of this protein kinase in regulating RGA function by multiple approaches, including genetic, biochemical and mass spectrometry analyses. Specific Aim 2 will elucidate the mechanism of DELLA domain-mediated transcription activation by studying the function of three selected RGA-interacting co-activators using biochemical and mutant analyses. This research will shed new light on the molecular mechanism of how DELLAs regulate gene expression, and elucidate the role of phosphorylation in fine-tuning DELLA activity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2416564</AwardID>
+<Investigator>
+<FirstName>Tai-ping</FirstName>
+<LastName>Sun</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tai-ping Sun</PI_FULL_NAME>
+<EmailAddress><![CDATA[tps@duke.edu]]></EmailAddress>
+<NSF_ID>000250980</NSF_ID>
+<StartDate>07/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111400</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1337663</FUND_OBLG>
+</Award>
+</rootTag>

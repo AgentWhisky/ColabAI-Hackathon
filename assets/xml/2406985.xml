@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Predicting diversity and evolution of virulence / transmission in environmental opportunistic pathogens]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>2724275.00</AwardTotalIntnAmount>
+<AwardAmount>2155910</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Zhilan Feng</SignBlockName>
+<PO_EMAI>zfeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927523</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Infectious diseases continue to place a substantial burden on human health, globally. Biomedical studies of diverse pathogens have led to a growing body of knowledge on how pathogens cause us harm. Yet these studies largely leave open the question of why harm the very source of your livelihood, your host? Existing theory on the evolution of virulence points to the importance of tradeoffs between transmission and harm to the host, that imply that some degree of harm is necessary in order to transmit to the next host. While influential, the current tradeoff models make a number of assumptions that do not hold for the large number of bacterial pathogens that can also prosper in environments outside of the host, therefore weakening the importance of host-to-host transmission. The current project seeks to develop new theory to understand how virulence is shaped by environmental pressures in bacterial pathogens with more complex environmental lifestyles. The project calls these highly flexible organisms ‘environmentally derived opportunistic pathogens’, reflecting their ability to grow in diverse environments, unfortunately including humans. The project will combine diverse computational, experimental and theoretical tools to develop a predictive understanding of the environmental and genomic forces that together govern the evolution of virulence.&lt;br/&gt;&lt;br/&gt;Environmentally-derived bacterial opportunistic pathogens are a growing global concern, with increasing numbers of deadly human infections driven by bacteria previously considered to be primarily environmental organisms. A cornerstone of infectious disease control is the development of predictive epidemiological models. Yet in the case of environmental opportunists, conventional modeling approaches are limited. The most influential approach is to construct compartmental models tracking the dynamics of susceptible and infected individuals, coupled by processes of direct (host-to-host) transmission and virulence. This approach has been adapted to address environmental opportunists via the addition of indirect transmission through an ‘environmental reservoir’ compartment. These models have provided qualitative insights into potential evolutionary dynamics of opportunistic virulence, given assumed tradeoffs with transmission, but are limited by an absence of data on whether virulence and transmission (direct and indirect) tradeoff at all. Machine learning tools have more recently been applied to opportunistic pathogens, with the goal to predict virulence phenotypes from genomic data of clinical infection isolates. Yet this approach is limited by an exclusive focus on clinical isolates (‘winners’ of the infection process, potentially systematically different from environmental isolates) and an absence of transmission analyses. This project will build an extensive library of clinical and environmental strains of the model opportunistic pathogen Pseudomonas aeruginosa (PA), and probe variation across strains using a mixture of machine learning and mathematical modeling tools. The project hypothesizes that that virulence and transmission (direct and indirect) are strain-specific, predictable from genomic features, and not constrained by classical virulence/transmission tradeoffs. To test these hypotheses, the project will pursue the following aims: (i) Develop and test predictive models of strain-specific virulence, transmission, and environment of origin; (ii) Develop and test predictive models of virulence and transmission evolution, as a function of environment and ancestral genotype.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/26/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406985</AwardID>
+<Investigator>
+<FirstName>Rachel</FirstName>
+<LastName>Kuske</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rachel A Kuske</PI_FULL_NAME>
+<EmailAddress><![CDATA[rachel@math.gatech.edu]]></EmailAddress>
+<NSF_ID>000340363</NSF_ID>
+<StartDate>06/26/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Samuel</FirstName>
+<LastName>Brown</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Samuel P Brown</PI_FULL_NAME>
+<EmailAddress><![CDATA[sam.brown@biology.gatech.edu]]></EmailAddress>
+<NSF_ID>000716633</NSF_ID>
+<StartDate>06/26/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Diggle</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen P Diggle</PI_FULL_NAME>
+<EmailAddress><![CDATA[stephen.diggle@biosci.gatech.edu]]></EmailAddress>
+<NSF_ID>000790930</NSF_ID>
+<StartDate>06/26/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303186395</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 North Avenue, NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>724200</Code>
+<Text>Ecology of Infectious Diseases</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>745400</Code>
+<Text>MSPA-INTERDISCIPLINARY</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~2155910</FUND_OBLG>
+</Award>
+</rootTag>

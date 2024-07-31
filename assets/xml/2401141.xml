@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Realizing High Temperature Exciton Condensates at Molecule/2D van der Waals Interfaces]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>503486.00</AwardTotalIntnAmount>
+<AwardAmount>503486</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yaroslav Koshka</SignBlockName>
+<PO_EMAI>ykoshka@nsf.gov</PO_EMAI>
+<PO_PHON>7032924986</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Nontechnical description: Because two-dimensional (2D) van der Waals layered materials with different properties can be assembled on the nanoscale, they have been used to realize many electronic phases that are not available in traditional materials. In this project, the research team combines organic molecules with 2D layered crystals to realize high temperature Bose-Einstein condensate (BEC) of excitons. The BEC is a macroscopic quantum state that has many interesting properties such as frictionless transport. The macroscopic nature of the BEC makes it suitable for quantum information science applications. Currently, because BECs typically exist only in ultracold (&lt; 1 K) atomic gases, the applications for  BECs are limited. The project aims to produce BECs in solid-state semiconductors at a much higher temperature (&gt; 100 K) so that its novel properties would be utilized in more conventional electronic devices. The project trains undergraduate and graduate students in nanoscale material design, fabrication, and characterization in a collaborative environment. Emphasis is placed on recruiting students from underrepresented groups. Outreach activities to the public include a summer camp for K-12 students and outreach seminars.&lt;br/&gt;&lt;br/&gt;Technical description: Compared to 2D/2D heterostructures, the molecular lattice in molecule/2D heterostructures can provide added tunability to the electronic structure. The team utilizes functionalities of molecules to build periodic trapping potentials for interlayer excitons with a period as small as 1 – 2 nanometers. Using this approach, we aim to increase the density of excitons by 1 - 2 orders of magnitude as compared to the maximum exciton density achievable in 2D/2D heterostructures. A high density of trapped excitons can enable us to realize the BEC phase at higher temperatures (&gt; 100 K). Moreover, steady-state and time-resolved optical spectroscopy and microscopy, photoemission spectroscopy, and time-correlated photon counting techniques will be used to characterize and understand BEC’s optical and transport properties. The goal of this project is to demonstrate the coherent photon emission and the dissipationless transport of the BEC at high temperatures.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401141</AwardID>
+<Investigator>
+<FirstName>Hui</FirstName>
+<LastName>Zhao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hui Zhao</PI_FULL_NAME>
+<EmailAddress><![CDATA[huizhao@ku.edu]]></EmailAddress>
+<NSF_ID>000491347</NSF_ID>
+<StartDate>03/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wai-Lun</FirstName>
+<LastName>Chan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wai-Lun Chan</PI_FULL_NAME>
+<EmailAddress><![CDATA[wlchan@ku.edu]]></EmailAddress>
+<NSF_ID>000641795</NSF_ID>
+<StartDate>03/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Kansas Center for Research Inc</Name>
+<CityName>LAWRENCE</CityName>
+<ZipCode>660457563</ZipCode>
+<PhoneNumber>7858643441</PhoneNumber>
+<StreetAddress>2385 IRVING HILL RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SSUJB3GSH8A5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF KANSAS CENTER FOR RESEARCH INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SSUJB3GSH8A5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Kansas Center for Research Inc]]></Name>
+<CityName>LAWRENCE</CityName>
+<StateCode>KS</StateCode>
+<ZipCode>660457552</ZipCode>
+<StreetAddress><![CDATA[2385 IRVING HILL RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>106Z</Code>
+<Text>Microelectronics and Semiconductors</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~503486</FUND_OBLG>
+</Award>
+</rootTag>

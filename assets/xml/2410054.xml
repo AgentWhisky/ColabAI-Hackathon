@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collective Interaction of Photons with Rare Earth Ions on a Photonic Chip]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>369461.00</AwardTotalIntnAmount>
+<AwardAmount>193583</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dominique Dagenais</SignBlockName>
+<PO_EMAI>ddagenai@nsf.gov</PO_EMAI>
+<PO_PHON>7032922980</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Title: Study of coherent interaction of light with arrays of rare-earth ions in crystalline micro photonic structures&lt;br/&gt; &lt;br/&gt;Light particles or photons are ideal carriers of information that have transformed the way we communicate. The advent of quantum information has given these trusted messengers more light to shine. By encoding peculiar quantum properties such as superposition and entanglement on light, the security of communication can be fundamentally guaranteed. Such quantum optical information is however very fragile and its control and routing possess challenges for the community implementing quantum communication technologies. Mapping optical information to and from atoms is one way to control and synchronize delicate quantum information. The choice of atoms, techniques for engineering atoms’ environment, and suitable mapping protocols are all important aspects of research pursued to develop effective systems for controlling quantum optical information. This project aims to explore new materials and protocols to develop an efficient quantum interface for optical information storage and control.&lt;br/&gt;&lt;br/&gt;To control quantum optical information, light needs to efficiently and coherently interact with atoms. As the light wavelength is much larger than the size of a typical atom, the interaction between the two is intrinsically weak in free space. Apart from the interaction strength, scalability and miniaturization of devices are important engineering aspects of quantum optical devices. Rare-earth ions such as Erbium ions in solid-state crystals provide a unique interface for optical information at the telecom wavelength. This project is studying the role of atomic geometry and environment engineering of Erbium ions in solids to develop atomic memories to store and synchronize optical information. By designing periodic ion arrays and micro-and nano-photonic devices on rare-earth crystals, the project aims to explore new regimes of collective light-atom interactions for the generation and storage of quantum optical information.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410054</AwardID>
+<Investigator>
+<FirstName>Mahdi</FirstName>
+<LastName>Hosseini</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mahdi Hosseini</PI_FULL_NAME>
+<EmailAddress><![CDATA[Mh@northwestern.edu]]></EmailAddress>
+<NSF_ID>000734100</NSF_ID>
+<StartDate>01/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress><![CDATA[633 CLARK ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602080001</ZipCode>
+<StreetAddress><![CDATA[633 CLARK STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>151700</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>094E</Code>
+<Text>Optoelectronic devices</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>095E</Code>
+<Text>Photonic integration</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~193583</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PFI-TT: Developing a Multi-purpose Container for Large-Scale Production of 2D Materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>549949.00</AwardTotalIntnAmount>
+<AwardAmount>549949</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samir M. Iqbal</SignBlockName>
+<PO_EMAI>smiqbal@nsf.gov</PO_EMAI>
+<PO_PHON>7032927529</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Partnerships for Innovation - Technology Translation (PFI-TT) project is to develop a multi-purpose container and associated digital twin software for the large-scale production of two-dimensional (2D) materials, a critical component in advancing next-generation electronic materials. By enabling more efficient and cost-effective growth of 2D materials, this innovation has the potential to have commercial impact, as the semiconductor industry and research centers can greatly benefit from reduced experimental costs, time savings, and lower emissions of harmful byproducts. The technology will allow a wide range of users to design experiments that evaluate the feasibility of growing specific 2D materials and thin films and optimize their synthesis set-ups, thereby fostering innovation and facilitating the development of new technologies. The multi-purpose container and software allows new materials to be explored. Additionally, the software will be used in advanced courses, and a web-based version will enhance education for K-12 students through hands-on research experiences.&lt;br/&gt;&lt;br/&gt;The project focuses on developing an advanced, configurable, multi-purpose container and its digital twin software based on an experimentally validated multi-physics model of atomically thin materials. The software will enable the design and adjustment of parameters for the container, which will be used to build prototypes for wafer-size growth of 2D materials at commercial scales. The digital twin software will simulate the effects of different control parameters on the vaporization of materials and their deposition in atomically thin layers, optimizing the synthesis setup with fewer experiments. This project addresses the challenge of reliably and reproducibly synthesizing 2D materials over large areas, which is essential for their industrial applications. Current methods often suffer from obstruction of the growth and reduced reproducibility upon subtle variations in growth conditions and synthesis setup. By developing a software package that integrates computational materials science and engineering, this project aims to create a digital twin for the synthesis of advanced materials and overcome these challenges, enabling the large-scale formation of 2D materials. This project will enable the wafer-scale realization of atomically-thin materials and air-stable, crystalline, 2D superconductors, laying the foundation for advanced electronics and future quantum technologies.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Partnerships for Innovation (PFI) Program, and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414921</AwardID>
+<Investigator>
+<FirstName>Kasra</FirstName>
+<LastName>Momeni</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kasra Momeni</PI_FULL_NAME>
+<EmailAddress><![CDATA[kmomeni@ua.edu]]></EmailAddress>
+<NSF_ID>000733003</NSF_ID>
+<StartDate>07/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Cesarano</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joseph Cesarano</PI_FULL_NAME>
+<EmailAddress><![CDATA[jcesarano@robocasting.net]]></EmailAddress>
+<NSF_ID>000647201</NSF_ID>
+<StartDate>07/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Robinson</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joshua A Robinson</PI_FULL_NAME>
+<EmailAddress><![CDATA[jar403@psu.edu]]></EmailAddress>
+<NSF_ID>000080687</NSF_ID>
+<StartDate>07/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Alabama Tuscaloosa]]></Name>
+<CityName>TUSCALOOSA</CityName>
+<ZipCode>354012029</ZipCode>
+<PhoneNumber>2053485152</PhoneNumber>
+<StreetAddress><![CDATA[801 UNIVERSITY BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RCNJEHZ83EV6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ALABAMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>TWJWHYEM8T63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama Tuscaloosa]]></Name>
+<CityName>TUSCALOOSA</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>354870001</ZipCode>
+<StreetAddress><![CDATA[301 ROSE ADMIN BLDG]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>166200</Code>
+<Text>PFI-Partnrships for Innovation</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1984</Code>
+<Text>MATERIALS SYNTHESIS &amp; PROCESSN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~549949</FUND_OBLG>
+</Award>
+</rootTag>

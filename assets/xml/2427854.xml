@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Non-Traditional in Next-Generation Systems (TNTs)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>298878.00</AwardTotalIntnAmount>
+<AwardAmount>298878</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+<PO_EMAI>kthompso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924220</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Technology Training for Non-Traditionals (TNT) is an exploratory project that increases the cyberinfrastructure (CI) workforce membership with participants from diverse socioeconomic backgrounds and those who have followed non-traditional paths to their chosen field. TNT targets economically disadvantaged participants with non-standard education and experience backgrounds to become part of the cyberinfrastructure workforce through mentoring, hands-on experience with advanced networks and systems, and leveraging a broad community of supportive alumni. TNT has the potential to benefit society and contribute to the achievement of a greatly expanded CI workforce through its combined program of targeted educational topics, apprenticeship, and continued support. &lt;br/&gt;&lt;br/&gt;The TNT program offers an intensive apprenticeship program with early career staff who have had a less traditional educational or workforce experience, consisting of mentoring and hands-on assistance to ensure building block expertise in CI and soft skills.  This includes the participants constantly working with their mentors to adjust their training topics to ensure they are gaining or improving the skills they are deficient in. Some of the soft skills that are taught include, structured skill/career development workshops focused on goal-setting, self-reflection, educational pathways, resume writing, and interviewing for CI Positions. Technical skills that are taught include, testing and performance measurements in high-throughput high-latency environments, networking and telecommunications, offline scalable intrusion detection systems, malware characterization affecting IoT devices, securing HPC resources,  Science DMZ Basics, Introduction to Machine Learning and AI Programming.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2427854</AwardID>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Schopf</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jennifer M Schopf</PI_FULL_NAME>
+<EmailAddress><![CDATA[jmschopf@tacc.utexas.edu]]></EmailAddress>
+<NSF_ID>000273004</NSF_ID>
+<StartDate>05/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nathaniel</FirstName>
+<LastName>Mendoza</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nathaniel Mendoza</PI_FULL_NAME>
+<EmailAddress><![CDATA[nmendoza@tacc.utexas.edu]]></EmailAddress>
+<NSF_ID>000965288</NSF_ID>
+<StartDate>05/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>808000</Code>
+<Text>Campus Cyberinfrastructure</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~298878</FUND_OBLG>
+</Award>
+</rootTag>

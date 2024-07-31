@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: PBI: Benchmarking the Impact of Regional Engines on Regional Start-Up Ecosystems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>299316.00</AwardTotalIntnAmount>
+<AwardAmount>299316</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rebecca Shearman</SignBlockName>
+<PO_EMAI>rshearma@nsf.gov</PO_EMAI>
+<PO_PHON>7032927403</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Entrepreneurship is crucial for driving economic growth and fostering innovation, yet accurately measuring its impact at the regional level remains challenging due to data limitations and the complex, long-term nature of entrepreneurial outcomes. This project aims to develop an innovative methodology that addresses these challenges, building on the foundational work of the Startup Cartography Project. By integrating industry-specific metrics and a diverse array of outcome indicators, this approach will empower policymakers and researchers to comprehensively assess regional innovation ecosystems. Such assessments are vital for informing evidence-based policy decisions that promote economic development and enhance societal welfare. Additionally, this project will contribute to advancing the field of entrepreneurship research by providing a robust framework accessible to a broad audience. Furthermore, it supports educational initiatives and aims to foster diversity in STEM disciplines, thus contributing to a more inclusive and innovative society.&lt;br/&gt; &lt;br/&gt;This project proposes an innovative measurement approach for regional entrepreneurship that leverages predictive analytics applied to business registration data and firm performance metrics. Expanding upon the methodologies developed in the Startup Cartography Project, the approach will incorporate sophisticated industry-specific measures and a wide range of outcome indicators. These indicators may include metrics such as venture capital funding, employment growth, and technological innovation indices. By synthesizing these data points, the project aims to construct surrogate indices that enable comparative analyses of regional entrepreneurship across different timeframes and industrial sectors. These indices will provide insights into the dynamics and evolution of regional innovation ecosystems, facilitating a deeper understanding of how entrepreneurial activities contribute to economic growth and societal progress. The project intends to create a publicly accessible dataset that will serve as a valuable resource for policymakers, researchers, and educators interested in enhancing regional innovation and entrepreneurship.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2431773</AwardID>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Stern</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott Stern</PI_FULL_NAME>
+<EmailAddress><![CDATA[sstern@mit.edu]]></EmailAddress>
+<NSF_ID>000181348</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jorge</FirstName>
+<LastName>Guzman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jorge Guzman</PI_FULL_NAME>
+<EmailAddress><![CDATA[jag2367@gsb.columbia.edu]]></EmailAddress>
+<NSF_ID>000745016</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Catherine</FirstName>
+<LastName>Fazio</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Catherine Fazio</PI_FULL_NAME>
+<EmailAddress><![CDATA[cfazio@bu.edu]]></EmailAddress>
+<NSF_ID>0000A0690</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[National Bureau of Economic Research Inc]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021385359</ZipCode>
+<PhoneNumber>6178683900</PhoneNumber>
+<StreetAddress><![CDATA[1050 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GT28BRBA2Q49</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NATIONAL BUREAU OF ECONOMIC RESEARCH INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[National Bureau of Economic Research Inc]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021385359</ZipCode>
+<StreetAddress><![CDATA[1050 MASSACHUSETTS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>301Y00</Code>
+<Text>NSF Engines - Type 2</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01AC2324DB</Code>
+<Name><![CDATA[R&RA DRSA DEFC AAB]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~299316</FUND_OBLG>
+</Award>
+</rootTag>

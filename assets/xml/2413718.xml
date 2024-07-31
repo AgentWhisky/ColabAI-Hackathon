@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Computer-intensive methods for dependent and complex data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jun Zhu</SignBlockName>
+<PO_EMAI>jzhu@nsf.gov</PO_EMAI>
+<PO_PHON>7032924551</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Ever since the fundamental recognition of the potential role of the computer in modern statistics, the bootstrap and other computer-intensive statistical methods have been developed extensively for inference with independent data. Such methods are even more important in the context of dependent data where the distribution theory for estimators and test statistics may be difficult or impractical to obtain. Furthermore, the recent information explosion has resulted in datasets of unprecedented size that call for flexible, and by necessity computer-intensive, methods of data analysis. Time series analysis in particular is vital in many diverse scientific disciplines. As a consequence of the development of efficient and robust methods for the statistical analysis of dependent data, more accurate and reliable inferences may be drawn from datasets of practical importance resulting in appreciable benefits to the society.  Examples include data from meteorology/atmospheric science (e.g. climate data), economics (e.g. stock market returns), biostatistics (e.g. fMRI data), and bioinformatics (e.g. genetics and microarray data). The project also involves developing curriculum, mentoring undergraduate students' research, supervising graduate students, and developing open-source software, organizing workshops.&lt;br/&gt;&lt;br/&gt;The project focuses on the development of methods of inference for the analysis of dependent and otherwise complex data without relying on unrealistic and/or unverifiable model assumptions. In particular: (a) Subsampling and resampling for big data will be studied, including the notion of scalable subagging applied to deep learning to improve both speed as well as accuracy of estimation; (b) Central limit theorem for the median of a triangular array of dependent data will be proved with application to median-of-means and robust scalable subagging; (c) Model-free bootstrap will be studied and compared to conformal prediction in nonparametric regression; (d) A novel class of nonstationary dependent errors will be introduced with application to fitting large autoregressive (AR) models to nonstationary time series; (e) Markov resampling and linear process bootstrap will be developed for stationary random fields; (f) Skip-sampling of discrete Fourier transform ordinates will be introduced and compared to the traditional frequency domain bootstrap for stationary time series; (g) Smoothing estimators of time-varying covariance matrices will be constructed for locally stationary multivariate time series; (h) Bootstrap for time series with a seasonal component will be further developed; and (i) Multi-step ahead point and interval predictors will be constructed for nonlinear autoregressions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413718</AwardID>
+<Investigator>
+<FirstName>Dimitris</FirstName>
+<LastName>Politis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dimitris Politis</PI_FULL_NAME>
+<EmailAddress><![CDATA[dpolitis@ucsd.edu]]></EmailAddress>
+<NSF_ID>000178487</NSF_ID>
+<StartDate>06/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress><![CDATA[9500 GILMAN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930021</ZipCode>
+<StreetAddress><![CDATA[9500 GILMAN DRIVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Boosting the Cold Chain Efficiency through Integrated, Magnetoelectric, Piezoelectric and Ferroelectric devices in pAssive on-Chip Tags (IMPACT)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jenshan Lin</SignBlockName>
+<PO_EMAI>jenlin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927360</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Enhancing the efficiency of supply and distribution chains responsible for the storage and transportation of refrigerated foods has never been so important. Currently, approximately 40% of food produced globally is wasted due to inadequate refrigeration practices. Avoiding these losses is a priority, particularly in light of the anticipated food shortages resulting from climate change. Furthermore, the United States is impacted by hundreds of thousands of hospitalizations and thousands of deaths every year due to foodborne illnesses caused by undetected exposures of refrigerated items to inadequate temperatures. Similar challenges are also experienced by the pharmaceutical industry, which is increasingly relying on biologics and vaccines requiring deep-frozen or cryogenic storage temperatures. While the convergence of Artificial Intelligence (AI) with the Internet-of-Things (IoT) has generated new computational capabilities to improve the efficiency of the cold chain, using these capabilities requires having access to highly miniaturized and massively deployable wireless sensor nodes (WSNs) to remotely and continuously measure the temperature of any items with high sensitivity and long detection ranges, even when operating at exceptionally low temperatures. Developing such WSNs is critical to timely identifying any items undergoing temperature irregularities along the cold chain before it is too late for corrective actions. This project will leverage the team’s interdisciplinary expertise in micro- and nano-technology, nonlinear dynamics, electromagnetics, and microwave acoustics to demonstrate a new class of passive WSNs, namely the Remote Sensing and Identification Chips (RSICs). Through this project, a new chapter in the history of wireless sensing will be written by generating long-range remote sensing microsystems with mm-scale spatial resolution that can be manufactured en-mass through standard semiconductor processes. The team will also collaborate with the STEM education and workforce development program at Northeastern University to organize and host on-campus activities involving students and educators from K-12 schools, community colleges, and local schools, with the goal of stimulating greater engagement in STEM, particularly among underrepresented student populations.&lt;br/&gt;&lt;br/&gt;The new RSICs will surpass all the limitations that have prevented practical implementations of chip-scale WSNs for identification and remote temperature sensing, significantly enhancing the remote sensing capabilities of passive WSNs operating in rich multipath settings. The RSICs will exploit the unique features of monolithically integrated magnetoelectric, piezoelectric, and ferroelectric devices, combined with unexplored dynamics of the exotic wave propagation features produced by acoustic metamaterials, to i) overcome the fundamental limit in the smallest size of passive WSNs, enabling a remote temperature sensing with mm-scale spatial resolutions; ii) achieve record-breaking long sensing ranges never attained before by any on-chip counterparts; iii) exhibit dynamically boosted sensing performance immune from clutter, multipath, and readers' self-interference. The RSICs will occupy an area more than 100 times smaller than their existing counterparts and can be manufactured with the same fabrication processes used to build integrated circuits for consumer electronics. Prototypes of the RSICs for both continuous temperature sensing and temperature threshold sensing will be developed by the end of the project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414743</AwardID>
+<Investigator>
+<FirstName>Nian</FirstName>
+<LastName>Sun</LastName>
+<PI_MID_INIT>X</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nian X Sun</PI_FULL_NAME>
+<EmailAddress><![CDATA[nian@ece.neu.edu]]></EmailAddress>
+<NSF_ID>000061314</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Cristian</FirstName>
+<LastName>Cassella</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cristian Cassella</PI_FULL_NAME>
+<EmailAddress><![CDATA[c.cassella@northeastern.edu]]></EmailAddress>
+<NSF_ID>000744280</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Luca</FirstName>
+<LastName>Colombo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Luca Colombo</PI_FULL_NAME>
+<EmailAddress><![CDATA[l.colombo@northeastern.edu]]></EmailAddress>
+<NSF_ID>000920113</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northeastern University]]></Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress><![CDATA[360 HUNTINGTON AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HLTMVS2JZBS6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHEASTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northeastern University]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021155005</ZipCode>
+<StreetAddress><![CDATA[360 HUNTINGTON AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>756400</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096E</Code>
+<Text>High freq comm/sensing circuits</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>105E</Code>
+<Text>RF/Microwave &amp; mm-wave tech</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>106E</Code>
+<Text>Mixed signal technologies</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8615</Code>
+<Text>Nanoscale Devices and Systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~500000</FUND_OBLG>
+</Award>
+</rootTag>

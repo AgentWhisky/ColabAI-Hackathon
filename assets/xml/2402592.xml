@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Developing a Theoretical Framework for Quantifying Ligand-Induced Allosteric Effects in Proteins]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>486845.00</AwardTotalIntnAmount>
+<AwardAmount>486845</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ryan Jorn</SignBlockName>
+<PO_EMAI>rjorn@nsf.gov</PO_EMAI>
+<PO_PHON>7032924514</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Theory, Models and Computational Methods program in the Division of Chemistry, Professor Xiaolin Cheng of Ohio State University is developing computational tools for the in depth analysis of allosteric modulation in proteins. Allosteric modulation, also known as allosteric control, involves regulating protein function by binding an effector molecule to a site that is distinct from the active site. Allostery represents a fundamental phenomenon crucial to understanding protein function and regulation. Given the central role of allosteric proteins in many diseases, the exploitation of allosteric modulation holds tremendous potential in drug discovery, particularly in targeting allosteric proteins, which remains a significant challenge. The proposed research promises to have a significant impact not only on computational chemistry, but also on related disciplines such as biochemistry, biophysics, and medicinal chemistry. Moreover, this research will contribute to training members of the next generation of and there will also be undergraduate engagement in research and outreach to local high schools.&lt;br/&gt;&lt;br/&gt;This project aims to establish a theoretical framework for the quantitative evaluation of how an allosteric modulator impacts its target protein through the utilization of molecular dynamics (MD) simulations. Grounded in fundamental thermodynamics and equilibrium theories, Cheng and his research group will first elucidate the intricate relationships between ligand binding, affinity, conformational transitions and allosteric potency and efficacy. Based on the derived theoretical framework, the research team will subsequently develop two practical computational schemes, enabling the rigorous assessment of allosteric potency and efficacy in three exemplar allosteric proteins using alchemical free energy and geometry-based potential of mean force calculations. By bridging gaps in the current understanding of allosteric regulation, the proposed research will not only advance our understanding of allosteric modulation but also potentially establish a foundation for the rational engineering of allosteric proteins and the design of allosteric drugs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/06/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/06/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402592</AwardID>
+<Investigator>
+<FirstName>Xiaolin</FirstName>
+<LastName>Cheng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaolin Cheng</PI_FULL_NAME>
+<EmailAddress><![CDATA[cheng.1302@osu.edu]]></EmailAddress>
+<NSF_ID>000565652</NSF_ID>
+<StartDate>05/06/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101214</ZipCode>
+<StreetAddress><![CDATA[496 W 12th Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688100</Code>
+<Text>Chem Thry, Mdls &amp; Cmptnl Mthds</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~486845</FUND_OBLG>
+</Award>
+</rootTag>

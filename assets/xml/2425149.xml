@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAS-Climate: Elucidating Fundamental Mechanisms of Cellulose Nanocrystal-Stabilized Pickering Emulsions Through Computational and Experimental Methods]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>460000.00</AwardTotalIntnAmount>
+<AwardAmount>460000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shahab Shojaei-Zadeh</SignBlockName>
+<PO_EMAI>sshojaei@nsf.gov</PO_EMAI>
+<PO_PHON>7032928045</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Underground storage of carbon dioxide (CO2, a greenhouse gas) is a potential powerful tool to mitigate climate change. The storage must be permanent, safe, cost-effective, and environmentally sustainable. Carbon dioxide can be stored underground in a liquid-like state called supercritical fluid. Strong candidate places for storage of supercritical CO2 are saline formations, which are layers of porous and permeable rocks saturated with salty water. Under these conditions, the storage can be improved by an emulsion formed by supercritical carbon dioxide as the dispersed phase and the saline solution as a continuous phase; this emulsion must be stable for the CO2 to not escape back to the environment. This award will investigate the encapsulation of supercritical carbon dioxide by cellulose nanocrystals, which are non-toxic plant-based nanoparticles that have affinity to both carbon dioxide and water. The goal is to understand the mechanisms that might lead to stable carbon dioxide emulsions under extreme pressures found in underground reservoirs. Leveraging this understanding could lead to the development of other emulsion systems such as drug delivery systems, food products, and advanced materials. This award will provide research training and education of graduate and undergraduate students who will be trained in advanced characterization and computer simulation methods, contributing to the STEM workforce development.&lt;br/&gt;&lt;br/&gt;This award is a comprehensive computational and experimental investigation to elucidate the main mechanisms and energies associated with the stability of liquid carbon dioxide (CO2) dispersions in brine. It will determine the principles that may lead to CO2 drops coalescing into each other, or additional mechanisms that may detrimentally contribute to its release. Heptane and liquid carbon dioxide will be used as oil phases for all computational and experimental studies.The primary objectives are: 1) To develop a coarse-grained model of cellulose nanocrystals and use it to predict their aggregation state on a bulk aqueous phase, as well as the nanocrystal crust morphology on heptane/water and carbon dioxide/water interfaces, while corroborating predictions with advanced electron microscopy and scattering techniques, 2) To correlate predicted mechanical properties of interfaces with the large-scale organization of cellulose nanocrystals and corroborate findings with interfacial elasticity measurements, 3) To quantify cellulose nanocrystal adsorption energies on relevant interfaces, and 4) to predict droplet coalescence and coarsening as a model for emulsion stability of cellulose nanocrystal-stabilized heptane/water and carbon dioxide/water Pickering emulsions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2425149</AwardID>
+<Investigator>
+<FirstName>Esteban</FirstName>
+<LastName>Urena-Benavides</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Esteban Urena-Benavides</PI_FULL_NAME>
+<EmailAddress><![CDATA[esteban.urena-benavides@utsa.edu]]></EmailAddress>
+<NSF_ID>000706806</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Abelardo</FirstName>
+<LastName>Ramirez-Hernandez</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Abelardo Ramirez-Hernandez</PI_FULL_NAME>
+<EmailAddress><![CDATA[abelardo.ramirez-hernandez@utsa.edu]]></EmailAddress>
+<NSF_ID>000818318</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at San Antonio]]></Name>
+<CityName>SAN ANTONIO</CityName>
+<ZipCode>782491644</ZipCode>
+<PhoneNumber>2104584340</PhoneNumber>
+<StreetAddress><![CDATA[1 UTSA CIR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U44ZMVYU52U6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF TEXAS AT SAN ANTONIO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at San Antonio]]></Name>
+<CityName>SAN ANTONIO</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>782491644</ZipCode>
+<StreetAddress><![CDATA[1 UTSA CIRCLE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>141500</Code>
+<Text>PMP-Particul&amp;MultiphaseProcess</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~460000</FUND_OBLG>
+</Award>
+</rootTag>

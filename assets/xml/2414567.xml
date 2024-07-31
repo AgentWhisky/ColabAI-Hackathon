@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I:  Drone Localization Near and Manipulation Control in Contact with Power Lines]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>274853.00</AwardTotalIntnAmount>
+<AwardAmount>274853</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ela Mirowski</SignBlockName>
+<PO_EMAI>emirowsk@nsf.gov</PO_EMAI>
+<PO_PHON>7032922936</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader/commercial impact of this Small Business Technology Transfer Phase I project is to alleviate the 2TW backlog of renewable energy projects desiring to connect to the power grid by installing and replacing dynamic-line rating (DLR) sensors on power lines with a novel cyclorotor drone. Currently, such (un)installation tasks are being performed manually with the help of helicopters, cranes, scaffolding, and/or rope access. Such manipulations are dangerous since, for example, a helicopter would be at low altitude where it would be impossible to recover from an engine failure and would have substantial risk of colliding with the line. On the other hand, conventional multicopter drones cannot perform heavy sensor installations. Specifically, they move by first pitching or rolling (underactuated motion), which hampers their ability to counter wind disturbances. This project will develop (i) techniques for localizing the drone with respect to power lines and (ii) control strategies that enable installation, removal, and maintenance of DLR sensors.&lt;br/&gt;&lt;br/&gt;The work proposed in this project is to use innovative algorithms to navigate a cyclorotor-based drone to a power line based on the measurements of the electric and magnetic fields around power lines. This state-estimation technique around power lines is robust, using only the root-mean square (rms) electric/magnetic field that is present around the power lines naturally due to the flow of power through them. In parallel, a control system will be developed to bring the drone stably into contact with a power line to install and uninstall dynamic-line rating (DLR) sensors, bird-diverters, and other line products. This control system will be designed to seamlessly handle any abrupt transitions from free-flight to contact with a power line. Upon successful completion, the project will provide an efficient method of installing and replacing power line sensors, bird diverters, and other line components. The IoT line sensors can help alleviate transmission congestion, allow increased penetration of renewable energy, and decrease wildfire risk.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414567</AwardID>
+<Investigator>
+<FirstName>Aykut</FirstName>
+<LastName>Satici</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aykut C Satici</PI_FULL_NAME>
+<EmailAddress><![CDATA[aykutsatici@boisestate.edu]]></EmailAddress>
+<NSF_ID>000760429</NSF_ID>
+<StartDate>06/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Newell</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adam T Newell</PI_FULL_NAME>
+<EmailAddress><![CDATA[adam.newell@pitchaero.com]]></EmailAddress>
+<NSF_ID>000984411</NSF_ID>
+<StartDate>06/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[PITCH AERONAUTICS INC.]]></Name>
+<CityName>BOISE</CityName>
+<ZipCode>837169134</ZipCode>
+<PhoneNumber>3037105570</PhoneNumber>
+<StreetAddress><![CDATA[6323 S FEDERAL WAY UNIT 17]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<StateCode>ID</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ID02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JU1CUPU6FEY4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PITCH AERONAUTICS INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[PITCH AERONAUTICS INC.]]></Name>
+<CityName>BOISE</CityName>
+<StateCode>ID</StateCode>
+<ZipCode>837169134</ZipCode>
+<StreetAddress><![CDATA[6323 S FEDERAL WAY UNIT 17]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ID02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>150500</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6840</Code>
+<Text>ROBOTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~274853</FUND_OBLG>
+</Award>
+</rootTag>

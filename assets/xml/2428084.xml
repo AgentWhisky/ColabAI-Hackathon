@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Designed to Taste: Novel User-Driven Design Customization with Interactive Computational Agents]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2025</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>379463.00</AwardTotalIntnAmount>
+<AwardAmount>379463</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kathryn Jablokow</SignBlockName>
+<PO_EMAI>kjabloko@nsf.gov</PO_EMAI>
+<PO_PHON>7032927933</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The objective of this project is to scientifically investigate a framework for user-driven design for product personalization supported by computational agents. This research is carried out in the context of 3D food printing, which enables the fabrication of foods on-demand with customizable ingredients, textures, and shapes. This research will enable the creation of a design framework and tools to aid personalized food design, which can produce appealing soft foods for persons with swallowing difficulty, customized foods with optimized nutrition, and tailored foods to assist in treating eating disorders and/or for otherwise selective eaters. It is difficult to design and deliver desirable 3D-printed foods for users due to each user’s subjective preferences for taste and shape, while also considering the challenge of fabricating foods with complex 3D-printed shapes and suitable texture. The research supposes that a human-computer design approach can satisfy subjective user needs through human design decisions, while computer algorithms can optimize for objective factors of nutrition and food mechanics.  Additional project deliverables include enhanced teaching content for engineering design courses, sharing of design tools with researchers and industry, and hands-on demonstrations of design personalization with 3D food printing for students and the general public.  &lt;br/&gt;&lt;br/&gt;The overarching goal of this project is to create and validate a generalizable scientific framework for an innovative user-driven design approach supported by computational agents to generate and fabricate personalized foods that are nutritious and appealing for diverse consumers. The research is carried out with human subject experiments, computational algorithms, and physical validation. The research will provide new understanding of user-driven search behaviors, biases, and results as design space complexity and decision availability are varied.  User control and computational agent search support will be varied to determine their influences on personalization outcomes.   The research is creative and original by having users interact directly with computational agents that adapt to human decisions, which results in a design framework in health that broadly informs personalized design in additive manufacturing and medicine.  Streamlined design approaches will benefit food printing’s adoption in military, health, and consumer sectors by offering improved automation for personalized nutrition, while retaining generalizability to additional domains. Developed design tools will be demonstrated in public events, with an emphasis on providing first-hand design experiences for K-12 students that inspire future engineers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2428084</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Egan</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paul F Egan</PI_FULL_NAME>
+<EmailAddress><![CDATA[paul.egan@ttu.edu]]></EmailAddress>
+<NSF_ID>000801463</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Binks</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Martin Binks</PI_FULL_NAME>
+<EmailAddress><![CDATA[m.binks@ttu.edu]]></EmailAddress>
+<NSF_ID>0000A01TF</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas Tech University]]></Name>
+<CityName>LUBBOCK</CityName>
+<ZipCode>79409</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress><![CDATA[2500 BROADWAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EGLKRQ5JBCZ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS TECH UNIVERSITY SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas Tech University]]></Name>
+<CityName>LUBBOCK</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>79409</ZipCode>
+<StreetAddress><![CDATA[2500 BROADWAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>072Y00</Code>
+<Text>EDSE-Engineering Design and Sy</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>067E</Code>
+<Text>DESIGN TOOLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>068E</Code>
+<Text>DESIGN THEORY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~379463</FUND_OBLG>
+</Award>
+</rootTag>

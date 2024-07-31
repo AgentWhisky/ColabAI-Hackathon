@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Generative AI Toolbox for Interactive Life Cycle Assessments]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>274192.00</AwardTotalIntnAmount>
+<AwardAmount>274192</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase I project is in shifting the way industries manage and mitigate their environmental impact through the development of an advanced generative AI toolbox for life cycle assessments (LCA). The project addresses the critical challenge of reducing Scope 3 emissions, which are often the most complex and significant part of a company’s carbon footprint. By providing real-time, explainable, and privacy-preserving insights into these emissions, the project aims to significantly enhance sustainability practices across various sectors. The innovative AI tool will empower businesses to make informed decisions that reduce their supply chain based environmental impact. This project aligns with NSF’s mission to promote the progress of science and advance national health, prosperity, and welfare. By facilitating better environmental management, the project is expected to create new jobs, stimulate economic growth, and generate income through increased efficiency and compliance with regulatory standards.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project proposes the development of a generative AI toolbox for interactive life cycle assessments (LCA), which represents a significant technical innovation in the field of sustainability. The primary innovation lies in the integration of state-of-the-art generative AI with environmental data from various sources, including environmental databases, satellite imagery, and scientific literature. This high-risk effort involves creating a domain-specific large language model (LLM) that can process complex, multi-modal data and provide real-time insights into Scope 3 emissions. The goal of the project is to develop a robust, scalable, and privacy-preserving tool that can accurately predict and analyse the environmental impact of industrial activities. Methods include the development and validation of machine learning models, the standardization of heterogeneous data, and the implementation of advanced confidentiality and IP protection mechanisms. The successful completion of this project will result in a powerful tool that enhances decision-making capabilities for sustainability and drives significant reductions in environmental impact.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423700</AwardID>
+<Investigator>
+<FirstName>Elmar</FirstName>
+<LastName>Kert</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elmar Kert</PI_FULL_NAME>
+<EmailAddress><![CDATA[elmar@sluicebox.ai]]></EmailAddress>
+<NSF_ID>000991037</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SLUICEBOX, INC.]]></Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787583430</ZipCode>
+<PhoneNumber>7377016488</PhoneNumber>
+<StreetAddress><![CDATA[11801 DOMAIN BLVD FL 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZTXPUD8ZV9H9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SLUICEBOX, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SLUICEBOX, INC.]]></Name>
+<CityName>Seattle</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981012284</ZipCode>
+<StreetAddress><![CDATA[1600 7th Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090Z</Code>
+<Text>CAS-Critical Aspects of Sustainability</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1238</Code>
+<Text>TECH FOR SUSTAINABLE ENVIRONMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~274192</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Free Probability, Stochastic Differential Equations, and the Large-N Limit]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>295000.00</AwardTotalIntnAmount>
+<AwardAmount>295000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Wilmer</SignBlockName>
+<PO_EMAI>ewilmer@nsf.gov</PO_EMAI>
+<PO_PHON>7032927021</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In much of physical science, two competing factors determine the behavior of systems: deterministic laws of nature, and random "noise".  Physical laws are usually described mathematically by differential equations.  Over the last half century, a comprehensive theory of differential equations with random noise, called stochastic differential equations, has been developed and is very well-understood in many regimes.  One area where foundational work is still needed is understanding how the behavior of systems described by stochastic differential equations scales as the dimension, i.e. the number of features in the system, grows.  This project aims to provide a broad theoretical framework and a general scaling limit theory for high-dimensional stochastic differential equations.  This theory will have significant applications to research fields as diverse as deep learning and neural networks, neurobiology (understanding learning structures in the brains of insects and other animals), the design of broadband wireless networks, and theoretical physics (quantum field theory).  The award will also support the training of graduate student researchers the dissemination of the research at conferences and workshops around the US and the world.&lt;br/&gt;&lt;br/&gt;The principal research goals of this award are to study noncommutative stochastic calculus, developing a broad analytic foundation for the subject, and to prove general scaling limit theorems about the solutions of matrix stochastic differential equations (SDEs) as the matrix size grows.  Noncommutative stochastic calculus has been developed in several quarters since the 1980s, but key analytic features of the classical theory have been missed owing to the noncommutativity - often, the methods are combinatorial, and function classes are restricted to polynomials or analytic functions. Current work has developed a new approach to noncommutative stochastic calculus, using noncommutative function theory which mirrors the classical martingale theoretic approach. This yields a general theory of noncommutative quadratic variation and an Ito formula which extends all previously known Ito formulations in free probability.  This project will use these tools to study the large-N limits of NxN matrix SDEs, proving a general scaling limit for their solutions as described by noncommutative SDEs in free probability.   The outline of this approach for self-adjoint processes is now clear, and the technical difficulties should be approachable with methods described above.  A further goal is to extend such scaling limits to the non-self-adjoint setting using Brown measure.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400246</AwardID>
+<Investigator>
+<FirstName>Todd</FirstName>
+<LastName>Kemp</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Todd A Kemp</PI_FULL_NAME>
+<EmailAddress><![CDATA[tkemp@math.ucsd.edu]]></EmailAddress>
+<NSF_ID>000545614</NSF_ID>
+<StartDate>07/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress><![CDATA[9500 GILMAN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930021</ZipCode>
+<StreetAddress><![CDATA[9500 GILMAN DRIVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126300</Code>
+<Text>PROBABILITY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>128100</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~295000</FUND_OBLG>
+</Award>
+</rootTag>

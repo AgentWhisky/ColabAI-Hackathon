@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Frameworks: Diamond: Democratizing Large Neural Network Model Training for Science]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>949528.00</AwardTotalIntnAmount>
+<AwardAmount>949528</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Varun Chandola</SignBlockName>
+<PO_EMAI>vchandol@nsf.gov</PO_EMAI>
+<PO_PHON>7032922656</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Diamond is a service designed to democratize access to cutting-edge DL methods by abstracting the use of HPC resources. Diamond combines novel computer science research with translational computer science to reduce the significant barriers that impede adoption of DL methods in science. With Diamond, domain scientists can focus on the neural network architecture design to solve their domain-specific challenges without worrying about Cyberinfrastructure management. Diamond also contributes to key educational outcomes. PhD students work directly on project goals, and tools developed in the project will be used in undergraduate and graduate-level courses. The tools will also be used in summer schools and programs at TACC, UChicago, and NCSA. Targeted recruitment of students from underserved communities at the graduate, undergraduate, and high-school levels will address diversity and outreach goals.&lt;br/&gt;&lt;br/&gt;Diamond builds upon prior work in software ecosystem management, parallel computing, deep learning, and data management, combining disparate capabilities into a cohesive and user-friendly framework. It provides a web service-enabled programming interface supporting the DL lifecycle from development to deployment and dissemination. It offers container configuration, automatic scaling for distributed training, hyper-parameter tuning, and model sharing. It also applies crucial performance optimizations, including planning for long training jobs, performance-aware model placement, cross-cluster training, and data management. Diamond results are made available to domain scientists, computer scientists, and engineers supporting DL applications in HPC centers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>10/16/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>10/16/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401245</AwardID>
+<Investigator>
+<FirstName>Zhao</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhao Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[zhao.zhang@rutgers.edu]]></EmailAddress>
+<NSF_ID>000746656</NSF_ID>
+<StartDate>10/16/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>NEW BRUNSWICK</CityName>
+<ZipCode>089018559</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>3 RUTGERS PLZ</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1LVPE5GLSD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>NEW BRUNSWICK</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>089018559</ZipCode>
+<StreetAddress><![CDATA[3 RUTGERS PLZ]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~949528</FUND_OBLG>
+</Award>
+</rootTag>

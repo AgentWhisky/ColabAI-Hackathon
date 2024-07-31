@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Nucleon Structure, Fundamental Symmetries, and Quantum Entanglement in Lattice QCD]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>299997.00</AwardTotalIntnAmount>
+<AwardAmount>299997</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bogdan Mihaila</SignBlockName>
+<PO_EMAI>bmihaila@nsf.gov</PO_EMAI>
+<PO_PHON>7032928235</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nucleons are made of quarks and gluons tied together by strong interaction and governed by quantum chromodynamics (QCD). At the hadron scale, quarks are "dressed" with gluons and generate 99% of the nucleon mass. In this regime, only numerical calculations on a lattice can reliably reproduce the nucleon masses, internal distributions of charge and magnetization, and the rate of neutron beta-decay. Based on fundamental theory, lattice QCD predictions will be valid at any scale from hadrons to quarks and vital to our understanding of the internal organization of nuclear matter, in particular the transition from phenomenological hadron models to perturbative QCD at short distances. This transition will be explored in this project in three ways. First,the nucleon electromagnetic form factors will be computed in a wide range of high momentum to allow comparison with recent experiments at JLab/CEBAF. Second, quantum entanglement of gauge degrees of freedom will be examined in a color flux tube, which is the most basic ground state binding a quark and antiquark. Finally, the effect of certain charge-parity-violating interactions on the neutron electric dipole moment will be studied, yielding a window from nuclear physics into new particles and fields.&lt;br/&gt;&lt;br/&gt;Protons and neutrons, which constitute the nuclei of all elements, are themselves composite objects. It has been firmly established that they are built from strongly-bound elementary quarks and gluons. However, this picture is not complete without understanding how the latter are kept in such compact arrangements, especially surprising because they are nearly free at short distances. This project will use fundamental theory to explore the structure of quark-gluon bound states (hadrons) that are central to nuclear physics. First, electric charge and magnetization distributions in the nucleons will be computed with the highest possible resolution. These calculations will accompany recent measurements at Jefferson Lab and help understand how quark-gluon interaction changes at shorter distances. Second, quantum information and entanglement in gluon fields between a quark and antiquark will be studied. Such gluon fields are known to form a so-called color flux tube emerging when one of the quarks is pulled out from a hadron. Finally, the study of neutron structure is vital to detecting effects of yet undiscovered particles. Some of them may be revealed in measurements of electric dipole moments and further improve our knowledge of elementary particles, which presently lacks explanation for dark matter and neutrino masses.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412963</AwardID>
+<Investigator>
+<FirstName>Sergey</FirstName>
+<LastName>Syritsyn</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sergey Syritsyn</PI_FULL_NAME>
+<EmailAddress><![CDATA[Sergey.Syritsyn@stonybrook.edu]]></EmailAddress>
+<NSF_ID>000730780</NSF_ID>
+<StartDate>07/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SUNY at Stony Brook]]></Name>
+<CityName>STONY BROOK</CityName>
+<ZipCode>117940001</ZipCode>
+<PhoneNumber>6316329949</PhoneNumber>
+<StreetAddress><![CDATA[W5510 FRANKS MELVILLE MEMORIAL L]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M746VC6XMNH9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M746VC6XMNH9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Stony Brook]]></Name>
+<CityName>STONY BROOK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>117940001</ZipCode>
+<StreetAddress><![CDATA[W5510 FRANKS MELVILLE MEMORIAL LIBRARY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128500</Code>
+<Text>NUCLEAR THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~299997</FUND_OBLG>
+</Award>
+</rootTag>

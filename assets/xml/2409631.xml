@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: Artificial Intelligence for Multidisciplinary Exploration and Discovery (AIMED) in Heterogeneous Catalysis: A Workshop]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert McCabe</SignBlockName>
+<PO_EMAI>rmccabe@nsf.gov</PO_EMAI>
+<PO_PHON>7032924826</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Artificial Intelligence for Multidisciplinary Exploration and Discovery in Heterogeneous Catalysis Workshop (AIMED CWS) is co-organized by Hongliang Xin (Virginia Tech), John Kitchin (Carnegie Mellon University), Neil Schweitzer (Northwestern University), and Núria López (Institute of Chemical Research of Catalonia). This workshop explores the evolving role of AI for accelerating scientific exploration and discovery in heterogeneous catalysis. Special emphasis is placed on the multidisciplinary nature of AI endeavors in tackling the complexities underpinning catalytic processes at interfaces and material behaviors under relevant conditions. The primary objectives are to evaluate AI’s current state in this field and to identify challenges and potential growth opportunities. The workshop will delve deep into the intersection of AI and catalysis and will cover a broad spectrum of topics from AI’s historical development in catalysis and recent advancements in algorithms for the rise of self-driving labs, to the intricacies and best practices in data management, sharing, utilization, and repurposing. This workshop is committed to a bold vision for AI in heterogeneous catalysis, highlighting the integration of AI across the research spectrum, in educational and workforce training settings, and in practical applications.&lt;br/&gt;&lt;br/&gt;The AIMED CWS will unite students, early-career researchers, and senior-level technical experts from academe, industry, and national laboratories to investigate the opportunities and challenges in leveraging AI to expedite scientific exploration and discovery. Heterogeneous catalysis plays a vital role in a wide array of chemical synthesis and manufacturing processes, particularly in the growing fields of clean energy and sustainable chemical technologies. The diverse and intricate nature of catalytic environments, encompassing interfacial processes and material design challenges, often eludes traditional experimental or purely theoretical approaches. AI has emerged as a comprehensive suite of methods that, when combined with experimental and computational strategies, significantly enhances catalyst development across synthesis, characterization, to deployment. The workshop will unfold in three phases: 1) Community Engagement, gathering insights and recommendations from the catalysis community; 2) In-Person Workshop, featuring keynote lectures, panel discussions, and poster presentations by early career researchers to explore AI’s role in catalysis; and 3) Follow-Up Activities, focusing on creating and disseminating educational materials, including an AIMED Webinar Series in Catalysis. Collectively, the AIMED CWS will engage a broad catalysis research community in discussions and hands-on sessions, encouraging multidisciplinary collaborations that drive the field towards new horizons in the age of AI.&lt;br/&gt;&lt;br/&gt;This workshop is jointly funded by ENG/CBET and MPS/CHE.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409631</AwardID>
+<Investigator>
+<FirstName>Hongliang</FirstName>
+<LastName>Xin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hongliang Xin</PI_FULL_NAME>
+<EmailAddress><![CDATA[hxin@vt.edu]]></EmailAddress>
+<NSF_ID>000680540</NSF_ID>
+<StartDate>03/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>300 TURNER ST NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M515A1DKXAN8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240603359</ZipCode>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1401</Code>
+<Text>Catalysis</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>6884</Code>
+<Text>Chemical Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

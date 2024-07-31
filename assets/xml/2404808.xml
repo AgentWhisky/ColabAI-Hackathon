@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Puncture Mechanics of Soft Solids]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>546068.00</AwardTotalIntnAmount>
+<AwardAmount>546068</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lucy T. Zhang</SignBlockName>
+<PO_EMAI>luzhang@nsf.gov</PO_EMAI>
+<PO_PHON>7032925016</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The study of puncturing and penetration of soft solids like hydrogels and biological tissues is important to many fields, from understanding animal bites to the engineering design of drug delivery and surgical devices. However, this study has been challenging due to these materials’ highly compliant, brittle, and time-dependent behavior. This award supports fundamental research into this problem from a combined theoretical, experimental, and computational perspective. This research will provide a quantitative understanding of puncture mechanics in soft solids. The new insights will enable the design of puncture tools that minimize peripheral damage in various biomedical applications. Furthermore, it will inspire the development of new materials to better protect workers and soldiers from puncture wounds. Innovative hands-on outreach activities will be integrated with the research to broaden participation from K-12 students and under-represented groups and to raise awareness of the importance of mechanics in daily phenomena.&lt;br/&gt;&lt;br/&gt;Previous studies in this area have primarily focused on the harder elastomers (shear modulus&gt;100 kPa) using a simplified theory. In this context, the first goal of this project is to conduct comprehensive puncture experiments that yield quantitative measurements for ultra-soft solids. These experiments will vary penetration rates and puncture sizes and shapes on three types of gels that cover a wide range of nonlinear elasticity, toughness, and poro-viscoelastic properties. The second goal is to build a complete theory, informed by the experiments, for fracture nucleation and propagation in nonlinear poro-viscoelastic solids. The theory will be implemented in a tractable computational framework. The computational model will provide a predictive understanding of the puncture process. It could also enable the use of penetration tests to characterize the fracture properties of ultra-soft gels and tissues, which traditional testing methods find challenging. Developing such a model will also be useful for studying many other failure phenomena in soft solids.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404808</AwardID>
+<Investigator>
+<FirstName>Yuhang</FirstName>
+<LastName>Hu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yuhang Hu</PI_FULL_NAME>
+<EmailAddress><![CDATA[yuhang.hu@me.gatech.edu]]></EmailAddress>
+<NSF_ID>000700072</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Aditya</FirstName>
+<LastName>Kumar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aditya Kumar</PI_FULL_NAME>
+<EmailAddress><![CDATA[akumar355@gatech.edu]]></EmailAddress>
+<NSF_ID>000925007</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303186395</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320415</ZipCode>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>163000</Code>
+<Text>Mechanics of Materials and Str</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022E</Code>
+<Text>SOLID MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>024E</Code>
+<Text>MATERIALS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~546068</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Understanding the Impacts of Automated Vehicles on Traffic Flow Using Empirical Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>181804.00</AwardTotalIntnAmount>
+<AwardAmount>17109</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Siqian Shen</SignBlockName>
+<PO_EMAI>siqshen@nsf.gov</PO_EMAI>
+<PO_PHON>7032927048</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Emerging automated vehicle (AV) technologies are likely to disrupt and transform our transportation system.  The vast number of studies on AV hinge upon assumptions on how AVs behave with respect to other vehicles.  Unfortunately, few of the assumptions can be empirically validated due to the absence of AVs. And yet, a critical component of AV technologies, the adaptive cruise control (ACC), has been used for over a decade and can be used to fill this gap.  The research aims to study how vehicles with ACC behave when interacting with other vehicles on the road. The research will provide important insights on the behaviors of AVs in the future. The understandings gained from this research will also have important implications in traffic management, transportation planning, and design of ACC vehicles and AV.  Additionally, this project will engage in a range of integrated research, educational and outreach activities, including sharing the ACC data with the research and practice community, developing educational modules, and K-12 outreach through summer camp. &lt;br/&gt;&lt;br/&gt;More specifically, the research will (i) collect empirical trajectory data of ACC vehicles of different car-makers and their counterparts, regular vehicles (RVs), and (ii) formulate car-following models that capture the similar and differentiating features of ACCs and RVs.  The project will focus on data collection and model estimation efforts using Maximum Likelihood Estimation (MLE). This enables the novel applications of statistical inference methods (e.g., the likelihood ratio test) to test various hypotheses to assess the differences and similarities among different ACC systems and between ACCs and RVs. In particular, the research will test if ACC systems from different car-makers differ from one another and from the RVs, and if they change substantially over time. Knowing this is important because it will dictate whether or not future research in this area has to focus on analyzing each individual carmaker, or if ACC systems will eventually converge towards human-like driving.   In the modeling efforts, the research will build a general stochastic model so that the behaviors of ACC vehicles and RVs can be reconciled.  The research will examine different variations of the distributions of the model components to specify the model(s) and use MLE for estimation of model parameters.  Additionally, the research will use the estimated model(s) of the tested ACCs to extrapolate the results to the general mixed traffic.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>10/24/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>10/24/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401476</AwardID>
+<Investigator>
+<FirstName>Danjue</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Danjue Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[dchen33@ncsu.edu]]></EmailAddress>
+<NSF_ID>000730405</NSF_ID>
+<StartDate>10/24/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276950001</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>2601 WOLF VILLAGE WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>27607</ZipCode>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1631</Code>
+<Text>CIS-Civil Infrastructure Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>029E</Code>
+<Text>INFRASTRUCTURE SYSTEMS MGT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~17109</FUND_OBLG>
+</Award>
+</rootTag>

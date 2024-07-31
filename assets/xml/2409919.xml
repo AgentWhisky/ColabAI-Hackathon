@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MPS/DMS-EPSRC: Advanced Computational Methods for Imperfect/Uncertain Geometries]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>362568.00</AwardTotalIntnAmount>
+<AwardAmount>362568</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project aims at developing algorithms for the analysis of mechanical systems with imperfect or uncertain geometries, essential for Digital Twins (DTs). DTs of geometrically complex systems may require months to train because the generation of computational grids is time-consuming and labor intense. These difficulties will be bypassed by combining the Shifted Boundary Method (SBM), an immersed geometry computational method, with probabilistic Subdivision Surfaces (SSs), for geometric representation. Probabilistic geometry representations are needed because the exact geometry of the system in operation is usually only partly known. This project aims to transform the current design and analysis cycle, by making Computer-Aided Design (CAD) and mesh generation more flexible, automated, and better integrated with the analysis phase. This research will enable an ecosystem of computational methods that can robustly and efficiently interact with the meta-algorithms for DTs (e.g., reduced-order modeling, machine learning, uncertainty quantification, and optimization) and will benefit the “democratization” of computing to professionals who are non-expert in this field.&lt;br/&gt;&lt;br/&gt;Computations in complex geometries pose at least two major challenges: (1) the representation of geometries with imperfect/uncertain CAD models or imaging-based data; and (2) the quantification of the effect of geometric uncertainties on the performance of systems. Unfitted Finite Element Methods (UFEMs; e.g., cutFEM, the Finite Cell Method, Immerso-Geometric Analysis, etc.) simplify mesh generation by immersing geometries in a pre-existing simple grid. However, UFEMs suffer from numerical instabilities or poor matrix conditioning, whenever small cut cells are present. UFEMs require more involved data structures and cut-cell integration may become extremely complex, or even unfeasible for geometry representations with gaps and overlaps. The as-is geometry of parts may be different from design models due to manufacturing uncertainties and wear caused by operation. The Shifted Boundary Method (SBM) shifts both the location of boundary conditions from the true boundary to an approximate boundary (with no cut cells) and their value by means of Taylor expansions. This yields a simple, robust, accurate and efficient method for very complex geometries, which may include gaps/overlaps. The SBM will be applied to high-order hierarchical B-spline discretizations, which have superior monotonicity and regularity properties. The SBM can be adapted to uncertain geometries using probabilistic SS, which combine standard (deterministic) subdivision surfaces with stochastic SPDE representation of random fields. Uncertainties will then be propagated to the output quantities of interest. Observation data from the product in operation will be probabilistically synthesized with the uncertain simulation data obtained by forward propagation. This approach will be extended to a variational Bayesian framework for the inference of geometry and other model parameters using the observation data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409919</AwardID>
+<Investigator>
+<FirstName>Guglielmo</FirstName>
+<LastName>Scovazzi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Guglielmo Scovazzi</PI_FULL_NAME>
+<EmailAddress><![CDATA[guglielmo.scovazzi@duke.edu]]></EmailAddress>
+<NSF_ID>000626650</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~362568</FUND_OBLG>
+</Award>
+</rootTag>

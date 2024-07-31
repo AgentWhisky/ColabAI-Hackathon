@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Translation potential of self-neutralizing, air-breathing plasma propulsion]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is in the development of an air-breathing small engine, called a thruster, for very-low-earth satellite technology. Very-low-orbit satellite capabilities have benefits such as higher resolution for images, weight reduction, and lower cost for payloads.  However, the current ion-engine technology requires a separate neutralizer to achieve thrust. The new technology uses an air-breathing plasma thruster that ionizes and neutralizes air particles and eliminates the need for a neutralizer. It utilizes air as a propellant, eliminating fuel tanks to reduce launch weight and costs while achieving zero carbon emissions and compact design, preventing space debris accumulation, and simplifying manufacturing.  Government and private space entities may be interested in applications of this technology for rapid response launches, reconnaissance missions, and potentially spaceplane-based transportation.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. The technology is based on the development of an air breathing plasma thruster that operates in very-low-earth orbits below 200 km. Very-low-earth orbit is known as a self-cleaning orbit due to fast natural orbit decay. This engine utilizes air as a propellant, eliminating fuel tanks to reduce launch weight and costs with zero carbon emissions, compact design, and simplified manufacturing. Development involved a fusion of plasma physics, space propulsion, and plasma chemistry modeling to enable accurate theoretical predictions and experimental validation. Unlike other air-breathing technologies, the self-neutralizing, air breathing plasma thruster integrates a scramjet-type inlet, actively generating air plasma without compression, thus eliminating the need for a bulky collimator. Key breakthroughs include the development of a plasma density-generating circular arc electron source, capable of operation across various pressure ranges, with the material inside exhibiting self-healing properties over time.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/30/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423904</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Keidar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Keidar</PI_FULL_NAME>
+<EmailAddress><![CDATA[keidar@gwu.edu]]></EmailAddress>
+<NSF_ID>000489179</NSF_ID>
+<StartDate>04/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[George Washington University]]></Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200520042</ZipCode>
+<PhoneNumber>2029940728</PhoneNumber>
+<StreetAddress><![CDATA[1918 F ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ECR5E2LU5BL6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE WASHINGTON UNIVERSITY (THE)</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Washington University]]></Name>
+<CityName>WASHINGTON</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200520042</ZipCode>
+<StreetAddress><![CDATA[1918 F ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1218</Code>
+<Text>ADVANCED TECHNOLOGIES &amp; INSTRM</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

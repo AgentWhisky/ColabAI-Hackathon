@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: Vortex, Bessel, Airy and Other Exotic Wavefronts for Super-High-Capacity Wideband Millimeter-Wave and Terahertz Wireless Communications and Sensing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jenshan Lin</SignBlockName>
+<PO_EMAI>jenlin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927360</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The on-going research of the next-generation wireless systems and networks are exploring the massive bandwidth of the millimeter (mm)-wave (30 – 300 GHz) to terahertz (THz) frequency bands. Establishing robust communication links at such high frequencies is challenging due to limited power of transmitting signal sources, high path loss of electromagnetic (EM) wave propagation, and susceptibility to signal blockage. These challenges can potentially be mitigated through large aperture antennas, transmissive metasurfaces, and intelligent reflecting surfaces. These large EM apertures extend the range of their near-field regions, and thus stimulated interest in studying near-field wireless communications, especially in the radiated near-field region. While the waveform design focuses on "what" information the signal contains, the wavefront engineering manipulates "how" the signal propagates. This workshop brings together experts from various research areas, including electromagnetics, antennas, communications, integrated circuits, and Artificial Intelligence (AI) / Machine Learning (ML), to conduct brainstorming, idea vetting, discussion, and planning for joint studies on how wavefront engineering can be leveraged to truly bring an unprecedented breakthrough in future wireless systems and networks.&lt;br/&gt;&lt;br/&gt;The objective of this two-day workshop is to conduct a deep dive into the needs and requirements of developing super-high-capacity wideband wireless communications and sensing applications using mm-wave and THz bands in radiated near-field region for future wireless systems and networks. Different from conventional plane-wave signals, signal generation and propagation with exotic wavefronts such as vortex beams, Bessel beams, and Airy beams will be explored. The workshop will feature several invited presentations covering a wide range of aspects needed for this emerging research field, including electromagnetics, antennas, devices, integrated circuits, communication systems, and networks. The workshop is expected to stimulate research collaborations among participants from academic institutions and wireless industry across multiple expertise areas. The workshop will involve undergraduate and graduate students, especially those from underrepresented minority groups in STEM. The presentations will be disseminated through a public website. The outcome of this workshop is expected to contribute to advancing knowledge in this emerging research field that can benefit the future generations of wireless systems and networks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2429031</AwardID>
+<Investigator>
+<FirstName>Habarakada</FirstName>
+<LastName>Madanayake</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Habarakada L Madanayake</PI_FULL_NAME>
+<EmailAddress><![CDATA[amadanay@fiu.edu]]></EmailAddress>
+<NSF_ID>000577849</NSF_ID>
+<StartDate>06/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Arjun</FirstName>
+<LastName>Singh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arjun Singh</PI_FULL_NAME>
+<EmailAddress><![CDATA[singha8@sunypoly.edu]]></EmailAddress>
+<NSF_ID>000882703</NSF_ID>
+<StartDate>06/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SUNY Polytechnic Institute]]></Name>
+<CityName>ALBANY</CityName>
+<ZipCode>122033613</ZipCode>
+<PhoneNumber>5184378689</PhoneNumber>
+<StreetAddress><![CDATA[257 FULLER RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CDAQNZCL6287</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY Polytechnic Institute]]></Name>
+<CityName>Utica</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>135021311</ZipCode>
+<StreetAddress><![CDATA[100 Seymour Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY22</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>756400</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>098E</Code>
+<Text>Antennas and Electromagnetics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>105E</Code>
+<Text>RF/Microwave &amp; mm-wave tech</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

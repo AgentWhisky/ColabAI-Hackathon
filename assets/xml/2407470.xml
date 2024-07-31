@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Solving the solar problem with accurate opacities]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>559057.00</AwardTotalIntnAmount>
+<AwardAmount>559057</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jacqueline Keane</SignBlockName>
+<PO_EMAI>jkeane@nsf.gov</PO_EMAI>
+<PO_PHON>7032928123</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Fundamentals of stellar astrophysics rest on our understanding of the Sun. New solar abundances that are up to 40% lower for common volatile elements C, N and O, lead to serious disagreement with stellar models and helioseismological parameters such as the radiative- convection zone boundary, sound speed, and helium abundance. This is commonly referred to as the “solar problem”. The resolution of these discrepancies depends on computing accurate opacities for key atomic elements that dominate the physics of the solar interior. This project will compute accurate opacities that can be applied to the solution of the solar problem, as well emerging areas such as asteroseismology and exoplanets. The project will provide a research opportunity for a graduate student, who will be trained in computational atomic-plasma physics and in the next generation of opacity codes that will be developed during this project. &lt;br/&gt;&lt;br/&gt;This project will extend known plasma broadening schemes: thermal Doppler effect, Stark broadening due to manifold overlap and ionization due to ion microfields, and collisional electron impact broadening that is the dominant mechanism at high densities. These effects lead to broadening and dissolution of resonances, continuum lowering below atomic levels, and raising the continuum opacity. The proposed R-matrix method accounts for resonance broadening in an a priori and ab initio manner. The project entails considerable extension of previous methods and codes in a new computational package for R-matrix opacities, and calculations will encompass other Fe-group elements such as Cr and Ni ions. Monochromatic opacities will be computed at an order-of-magnitude higher resolution than hitherto, at 100,000 photon frequencies, and yield opacity tables for stellar interior models. The extensive atomic data will be available freely via the dedicated electronic database NORAD at the Ohio State University.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407470</AwardID>
+<Investigator>
+<FirstName>Sultana</FirstName>
+<LastName>Nahar</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sultana N Nahar</PI_FULL_NAME>
+<EmailAddress><![CDATA[nahar.1@osu.edu]]></EmailAddress>
+<NSF_ID>000318362</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anil</FirstName>
+<LastName>Pradhan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anil Pradhan</PI_FULL_NAME>
+<EmailAddress><![CDATA[pradhan@astronomy.ohio-state.edu]]></EmailAddress>
+<NSF_ID>000416304</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>121400</Code>
+<Text>PLANETARY ASTRONOMY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1205</Code>
+<Text>LABORATORY ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~559057</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: Workshop on Quantum Engineering Infrastructure II]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>20000.00</AwardTotalIntnAmount>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Nash</SignBlockName>
+<PO_EMAI>rnash@nsf.gov</PO_EMAI>
+<PO_PHON>7032925394</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Quantum information systems have the potential to profoundly change the way computational problems are solved in the coming decades. However, quantum technology remains in its early stages of development, and requires the support of fundamental research. Such support is highly dependent upon programs such as the National Nanotechnology Coordinated Infrastructure (NNCI), an NSF-funded network of academic nanofabrication and characterization sites and their partners, which is an essential and enabling component of the emerging research field and industry in quantum engineering. The Workshop on Quantum Engineering Infrastructure II (WQEI 2) has three main goals: (1) to review the outcomes from the first Workshop on Quantum Engineering Infrastructure (WQEI 1), which was held in 2021 with support from the National Science Foundation, and evaluate progress toward its recommendations; (2) to understand how new developments in quantum computing have altered the needs and best practices for quantum fabrication infrastructure; and (3) to provide recommendations for how fabrication facilities in the US can best be utilized to meet the ongoing and emergent needs of quantum engineered systems. Workshop attendees will identify technological trends, significant gaps in our existing technical capabilities, solutions that align the needs of the various stakeholders, as well as the value of shared (open access) and geographically-distributed infrastructure, and how the coordination of that infrastructure advances national capabilities in emerging industries and helps to create opportunities everywhere, i.e., support Emerging Research Institutions (ERIs) and reach the "Missing Millions". The outcome of the workshop will be a public-facing outcomes report recommending a path forward.&lt;br/&gt;&lt;br/&gt;The Workshop on Quantum Engineering Infrastructure II will bring together the quantum engineering and nanomanufacturing communities to develop short- and long-term solutions for supporting quantum research within the national network of nanofabrication facilities. The workshop presenters and attendees will be academic and industry leaders at the cross-over between quantum engineering and nanofabrication, and the presentations will provide overviews of the various aspects of quantum technology. This information will help to ensure the envisioned future facility infrastructure can best be used to enable ongoing and envisioned future projects. The workshop will have targeted overview talks on specific quantum technology platforms, followed by panels sessions, where the participants will engage in open discussion on progress in developing quantum infrastructure and the outstanding challenges to meet longer-term needs. The workshop outcomes will be compiled into a report that will be broadly distributed, which will enable continued follow-up activities on action items from this focused one-day event. The learning developed in the workshop will benefit both the quantum and nanofabrication communities, as well as the broader national effort on establishing a leadership position in quantum hardware.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2405015</AwardID>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Koester</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven J Koester</PI_FULL_NAME>
+<EmailAddress><![CDATA[skoester@umn.edu]]></EmailAddress>
+<NSF_ID>000558851</NSF_ID>
+<StartDate>01/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota: Twin Cities]]></Name>
+<CityName>Minneapolis</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554550169</ZipCode>
+<StreetAddress><![CDATA[200 Union St. SE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1517</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7281</Code>
+<Text>QIS - Quantum Information Scie</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7601</Code>
+<Text>National Nanotechnology Coordi</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7681</Code>
+<Text>ENG NNI Special Studies</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7601</Code>
+<Text>NNCI-Nat'l Nano. Coord. Infrastructure</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~20000</FUND_OBLG>
+</Award>
+</rootTag>

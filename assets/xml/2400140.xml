@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[GEM: Understanding the Causes of Geomagnetic Disturbances in Geospace for Hazard Analysis on Equivalent Ionospheric and Telluric Currents in North America and Greenland]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>419448.00</AwardTotalIntnAmount>
+<AwardAmount>419448</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chia-Lin Huang</SignBlockName>
+<PO_EMAI>chihuang@nsf.gov</PO_EMAI>
+<PO_PHON>7032927544</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Geomagnetic disturbances (GMDs) are large localized fluctuations of Earth's magnetic field lasting 5 to 10 min, are typically related to phenomena in the near-geospace environment, and can induce electric fields within the electrically conducting Earth's crust.  These electric fields drive electric currents that can flow through technological infrastructure in the form of geomagnetically induced currents and potentially damage power grids, pipelines, and other infrastructure.  This project aims to understand the temporal and spatial development of significant changes in the magnetic field associated with both the equivalent ionospheric and telluric currents during GMDs and the source of these GMDs.  Understanding the causes of GMDs is crucial in developing and validating models that aim to accurately and reliably predict the variations of electric fields and GICs, and they are one of the objectives of the National Space Weather Strategy and Action Plan.  &lt;br/&gt;&lt;br/&gt;Typically, GMDs are associated with just ionospheric current enhancements.  However, ionospheric currents can induce telluric currents that contribute to GMDs.  This project aims to significantly expand the application of the spherical elementary current system (SECS) method for analyzing geomagnetic disturbances (GMDs) observed by ground magnetometers in North America and Greenlands since 2006. The goal is to estimate the spatio-temporal variations of equivalent ionospheric and telluric currents. The resulting variations in dB/dt will be examined to quantify the relative importance of equivalent ionospheric and telluric currents. Additionally, the study aims to evaluate the frequency of occurrence where dB/dts associated with each current system exceed a threshold level of concern for critical infrastructure. Event studies will be conducted in conjunction with THEMIS all-sky imagers, THEMIS and GOES spacecraft, and SWMF simulations to understand driving mechanisms and developing processes of space weather significant GMDs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400140</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Weygand</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James M Weygand</PI_FULL_NAME>
+<EmailAddress><![CDATA[jweygand@igpp.ucla.edu]]></EmailAddress>
+<NSF_ID>000387254</NSF_ID>
+<StartDate>06/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900244200</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress><![CDATA[10889 WILSHIRE BLVD STE 700]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA36</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RN64EPNH8JC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[UCLA Earth, Planetary, and Space Sciences]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900951576</ZipCode>
+<StreetAddress><![CDATA[595 Charles E. Young Dr. East, 3806 Geology]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>575000</Code>
+<Text>MAGNETOSPHERIC PHYSICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~419448</FUND_OBLG>
+</Award>
+</rootTag>

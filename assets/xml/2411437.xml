@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CSSI Frameworks: From Notebook to Workflow and Back Again]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>976705.00</AwardTotalIntnAmount>
+<AwardAmount>976705</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ashok Srinivasan</SignBlockName>
+<PO_EMAI>asriniva@nsf.gov</PO_EMAI>
+<PO_PHON>7032922122</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Computational notebooks have become a cornerstone of the scientific computing enterprise, providing an interactive means to acquire and communicate insights, share discoveries, and visualize experimental outcomes.  However, computational notebooks today are most suited for small-scale explorations carried out on a single computer, and are quite difficult to use for large-scale computations on high performance computing clusters or commercial clouds.  This project will develop NBFlow, a software toolkit for converting notebook computations into workflows that are feasible to execute efficiently on clusters or clouds.  This will make it possible to use notebook technologies in conjunction with high performance clusters to enable new discoveries in scientific fields such as high energy physics and geosciences.  These technologies will be used to develop new educational curricula, outreach activities for K-12 students, and research experiences for college students.&lt;br/&gt;&lt;br/&gt;NBFlow will support and advance the use of computational notebooks in scientific research and data analysis by bridging the gap between interactive computation and distributed cyberinfrastructure developed for data-intensive sciences.  Today's notebook environments provide easy access to standard artificial intelligence and machine learning toolkits for processing vast datasets with greater efficiency and accuracy compared to conventional methods. However, migrating a notebook from a scratchpad-like analysis to a robust  pipeline, which must be distributed across a cluster or cloud infrastructure, currently requires significant efforts by developers and scientists.  NBFlow will build upon existing NSF investments in the areas of containerization and workflows that will record notebook executions and schedule tasks for concurrent execution.  By experimenting with an integrated notebook-workflow system, this cutting-edge research will advance understanding in data management and distributed computing sub-fields. At the same time, the project will produce novel techniques to robustly capture provenance from notebook-based workflows, a rich source of data in itself, as well as put techniques developed for incremental computation to practice.  These technologies will be deployed with active user communities in high energy physics at multiple facilities and in geospatial and sustainability sciences through the I-GUIDE cyberinfrastructure.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411437</AwardID>
+<Investigator>
+<FirstName>Tanu</FirstName>
+<LastName>Malik</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tanu Malik</PI_FULL_NAME>
+<EmailAddress><![CDATA[tanu@cdm.depaul.edu]]></EmailAddress>
+<NSF_ID>000618829</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[DePaul University]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606042287</ZipCode>
+<PhoneNumber>3123627388</PhoneNumber>
+<StreetAddress><![CDATA[1 E JACKSON BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MNZ8KMRWTDB6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DEPAUL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[DePaul University]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606042201</ZipCode>
+<StreetAddress><![CDATA[1 E JACKSON BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>800400</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>077Z</Code>
+<Text>CSSI-1: Cyberinfr for Sustained Scientif</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~976705</FUND_OBLG>
+</Award>
+</rootTag>

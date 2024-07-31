@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FMitF: Track II: StarV: A Quantitative Verification Tool for Learning-enabled Cyber-Physical Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>149343.00</AwardTotalIntnAmount>
+<AwardAmount>149343</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Damian Dechev</SignBlockName>
+<PO_EMAI>ddechev@nsf.gov</PO_EMAI>
+<PO_PHON>7032928910</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Data-driven machine learning (ML) components have been deployed in multiple cyber-physical systems, from sensing and perception to planning and control. However, the reliability and safety of such ML-based applications remain the most challenging and significant concern for the industry, users, and regulators. Rigorous effort has been made to develop formal methods for ML-based application certification. Most research focuses on qualitative verification of the safety and robustness of neural networks and neural network control systems. There is a lack of methods that can quantitatively verify the temporal properties of ML-based applications, which has been a problem of keen interest for industrial companies in the automotive industry, as quantitative verification results, e.g., probability of collision, provide richer information for better decision-making and planning of autonomous systems under sensing, perception and actuating uncertainties. This project proposes to continue collaborations with industrial partners to develop a new quantitative verification approach for temporal properties of learning-enabled cyber-physical systems (Le-CPS). The project's novelties are the development of new ProbStar Temporal Logic (PSTL) for specifying complex temporal behaviors of Le-CPS and new qualitative and quantitative verification algorithms for verifying Le-CPS temporal properties. The project's impact is supporting transitioning advanced verification technologies into practice via developing a user-friendly interface and improving documentation, benchmarks, evaluation, and engagement with the broader community. &lt;br/&gt;&lt;br/&gt;The first research objective is to develop the first qualitative and quantitative verification approach for Le-CPS at the system level based on ProbStar reachability. The exact verification scheme provides the precise probability of a safety probability being satisfied, while the approximate scheme obtains the estimated lower and upper bounds of this satisfaction probability. Notably, the exact verification scheme can also construct and visualize the complete set of counterexamples. The second research objective is to develop ProbStar Temporal Logic (PSTL), a formalism enabling quantitative verification of temporal properties of Le-CPS. To construct ProbStar traces, the investigator will develop depth-first-search Prob=Star reachability algorithms for Le-CPS. Finally, the investigator team will develop a new quantitative verification algorithm for temporal properties by transforming a PSTL formula into an abstract disjunctive normal form (DNF) and realizing it on ProbStar traces. To facilitate the adoption of new verification techniques into real robotic applications, the project will develop a user-friendly interface and Robotic Operating System (ROS) integration interface, which supports ROS message collecting, generating verification and monitoring ROS nodes, and creating modeling ROS nodes. The project team will evaluate the efficiency of the new verification algorithms and tool on well-known benchmarks such as advanced emergency braking systems, learning-enabled adaptive cruise control systems, and real learning-enabled F1Tenth testbed.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2422183</AwardID>
+<Investigator>
+<FirstName>Dung</FirstName>
+<LastName>Tran</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dung Tran</PI_FULL_NAME>
+<EmailAddress><![CDATA[dtran30@unl.edu]]></EmailAddress>
+<NSF_ID>000844697</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Nebraska-Lincoln]]></Name>
+<CityName>LINCOLN</CityName>
+<ZipCode>685032427</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress><![CDATA[2200 VINE ST # 830861]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NE01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HTQ6K6NJFHA6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Nebraska-Lincoln]]></Name>
+<CityName>LINCOLN</CityName>
+<StateCode>NE</StateCode>
+<ZipCode>685032427</ZipCode>
+<StreetAddress><![CDATA[2200 VINE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NE01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>094Y00</Code>
+<Text>FMitF: Formal Methods in the F</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>071Z</Code>
+<Text>FMitF-Formal Methods in the Field</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7943</Code>
+<Text>PROGRAMMING LANGUAGES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~149343</FUND_OBLG>
+</Award>
+</rootTag>

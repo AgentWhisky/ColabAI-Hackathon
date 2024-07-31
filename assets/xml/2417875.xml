@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CyberTraining: Implementation: Small: Advanced Cyberinfrastructure Training for Next-Generation Neuroscience Learning and Research]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2025</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>499977.00</AwardTotalIntnAmount>
+<AwardAmount>499977</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sharmistha Bagchi-Sen</SignBlockName>
+<PO_EMAI>shabagch@nsf.gov</PO_EMAI>
+<PO_PHON>7032928104</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Research and education in neuroscience and neural engineering require the analysis and integration of large volumes of diverse data to accelerate the study of brain function. A challenge in accomplishing this is the lack of a collaborative framework to enable cross-disciplinary interactions across biological, psychological, and the physical sciences. The availability of advanced computing resources provides new opportunities to address this challenge by developing the necessary framework and advanced computational tools. This project aims to develop a 15-credit graduate certificate that will provide the skillsets and best practices to accelerate data- and computation-intensive neuroscience research. Four campuses of the University of Missouri (UM) system will offer this certificate to eligible undergraduate and graduate students. Two new courses will be developed that integrate advanced computing resources, funded by NSF with new software automation tools. Outreach activities will be conducted to expose students to basic neuroscience software tools; these engagement programs will recruit high school students and promote participation from students in underrepresented and rural communities.&lt;br/&gt; &lt;br/&gt;The project team will leverage NSF-funded advanced cyberinfrastructure (CI) resources such as FABRIC and CloudLab, as well as resources at Neuroscience Gateway, to achieve three key goals. The first goal is to advance CI-based neuroscience education modules to increase students’ ability to effectively and efficiently utilize software packages requiring high performance computing/cluster computing, containerization/hardware acceleration of workloads, big data management, and other advanced CI resources, for a broad range of theory and real-world use cases. The second goal is to enhance workforce preparedness and interdisciplinary outcomes in traditional neuroscience courses by incorporating experiential learning and assessments of CI-based learning in lower and higher-level courses. The third goal is to develop new learning modules and tools based on CI technologies to foster next-generation neuroscience training to further enhance the local and national research infrastructure. In addition, the training materials will be incorporated in existing courses at UM institutions and summer training workshops that target CI Users (e.g., scientific domain researchers in neuroscience, engineering, psychology) and CI Contributors (e.g., CI researchers/software engineers). Finally, summer neuroscience workshops for faculty and ongoing training programs in neural engineering will incorporate streamlined modules of computational neuroscience workflow protocols to engage a broader and diverse group of participants.&lt;br/&gt;&lt;br/&gt;This award by the Office of Advanced Cyberinfrastructure is jointly supported by the Social, Behavioral, and Economic Sciences Directorate.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070, 47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417875</AwardID>
+<Investigator>
+<FirstName>Satish</FirstName>
+<LastName>Nair</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Satish S Nair</PI_FULL_NAME>
+<EmailAddress><![CDATA[nairs@missouri.edu]]></EmailAddress>
+<NSF_ID>000280505</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Praveen</FirstName>
+<LastName>Rao</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Praveen R Rao</PI_FULL_NAME>
+<EmailAddress><![CDATA[praveen.rao@missouri.edu]]></EmailAddress>
+<NSF_ID>000485506</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Seung Lark</FirstName>
+<LastName>Lim</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Seung Lark Lim</PI_FULL_NAME>
+<EmailAddress><![CDATA[limse@umkc.edu]]></EmailAddress>
+<NSF_ID>000644321</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Venkata Sriram</FirstName>
+<LastName>Nadendla</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Venkata Sriram S Nadendla</PI_FULL_NAME>
+<EmailAddress><![CDATA[nadendla@mst.edu]]></EmailAddress>
+<NSF_ID>000800787</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carissa</FirstName>
+<LastName>Philippi</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carissa L Philippi</PI_FULL_NAME>
+<EmailAddress><![CDATA[philippic@umsl.edu]]></EmailAddress>
+<NSF_ID>000990794</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Missouri-Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>652113020</ZipCode>
+<PhoneNumber>5738827560</PhoneNumber>
+<StreetAddress><![CDATA[121 UNIVERSITY HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SZPJL5ZRCLF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Curators of the University of Missouri]]></Name>
+<CityName>COLUMBIA</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>652110001</ZipCode>
+<StreetAddress><![CDATA[601 Turner Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>044Y00</Code>
+<Text>CyberTraining - Training-based</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>800400</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>122Z</Code>
+<Text>CI Training and Professionals</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7361</Code>
+<Text>EDUCATION AND WORKFORCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~499977</FUND_OBLG>
+</Award>
+</rootTag>

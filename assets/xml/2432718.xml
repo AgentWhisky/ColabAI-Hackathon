@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Travel: Student Participation in the Emerging Memory Infrastructure Workshop]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>16500.00</AwardTotalIntnAmount>
+<AwardAmount>16500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Usha Varshney</SignBlockName>
+<PO_EMAI>uvarshne@nsf.gov</PO_EMAI>
+<PO_PHON>7032925385</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The "Emerging Memory Infrastructure" workshop is dedicated to exploring novel materials and technologies poised to transcend the limitations of traditional computing. Traditional von Neumann architectures, which segregate processing and memory, often incur significant energy and time costs due to necessary data transfers during computational tasks. These inefficiencies are magnified by the growing volume and complexity of data-centric applications. In contrast, in-memory computing, leveraging cutting-edge memory materials and devices, heralds a significant shift. Integrating analog and digital processing directly within the memory's storage and control circuits paves the way for innovations in materials, device architecture, and circuit design. The upcoming workshop is set to gather 40-60 senior researchers and 12 graduate students specializing in the design and fabrication of novel and emerging memory materials, device, and circuit design architecture. Given the wide geographic spread across the US of the research community focused on this topic, this workshop will serve as a vital platform for educational and professional in-person engagement. It aims to bring together a geographically and demographically diverse group of students, each with unique personal experiences and professional goals. These students will have the opportunity to connect with peers and a broader network of mentors within their field of study. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Present-day memory technologies, including DRAM and Flash memory, hinge on charge storage and can retain data without power. However, the quest to scale these technologies below 10 nanometers has surfaced formidable challenges that undermine performance, reliability, and endurance. The industry's ambition is to forge a path toward non-volatile memory systems that excel in speed, durability, and energy efficiency and are scalable to 2 nanometers or below. However, such a solution is only possible by using a new class of materials and devices emerging since 2010. In the past decade, four emerging non-volatile memory technologies have shown considerable promise; Filamentary Memories (RRAM), Phase Change Memories (PCM), Magnetic Memories (MRAM), and Ferroelectric memories (FeRAM). Despite promising developments in these emerging memories, bridging the knowledge gaps has been a protracted endeavor. Distinct challenges thwart the progression: the nuanced requirements of in-memory processing vis-à-vis conventional storage solutions; the prevalence of inconsistent and unvalidated research findings attributed to less-than-ideal fabrication conditions; and the restricted availability of state-of-the-art fabrication equipment are typically confined to selected industrial and national research facilities. This confluence of obstacles underscores the critical need to convene the relevant research community, including the pivotal participation of graduate students, to engage in discourse, confront these challenges, and ideate on solutions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2432718</AwardID>
+<Investigator>
+<FirstName>Linda</FirstName>
+<LastName>Katehi</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Linda P Katehi</PI_FULL_NAME>
+<EmailAddress><![CDATA[katehi@exchange.tamu.edu]]></EmailAddress>
+<NSF_ID>000472154</NSF_ID>
+<StartDate>06/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress><![CDATA[3124 TAMU]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778433128</ZipCode>
+<StreetAddress><![CDATA[3128 TAMU]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>151700</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~16500</FUND_OBLG>
+</Award>
+</rootTag>

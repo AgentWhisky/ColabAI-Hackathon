@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Trusted selective and predictive inference tools for modern data-driven applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>180000.00</AwardTotalIntnAmount>
+<AwardAmount>55409</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Recent years have witnessed numerous exciting opportunities brought by the abundance of data and powerful machine learning algorithms. Along with the opportunities, it has been recognized that the complex nature of modern data and models makes them hard to analyze: the data can be high-dimensional and correlated in complicated ways, while the models are often of unprecedented sizes and black-box to the users. There is, therefore, a need for new statistical methodologies for understanding such data and models. This research project aims to develop new statistical tools for modern data-driven applications that provide rigorous theoretical guarantees under minimal assumptions. The results of this project will have a broad impact on applications, including genetics, personalized health, and online marketing. Open-source software for the newly developed methodologies will be released. This project will also contribute to the academic training of undergraduate and graduate students through their involvement in the research tasks.&lt;br/&gt; &lt;br/&gt;This research program has three specific aims. The first aim is to develop powerful multiple hypothesis testing procedures for dependent and high-dimensional data. The second aim is to provide valid statistical inference tools for adaptively collected data, where classical statistical inference tools often fail to deliver the promised guarantee. The third aim is devoted to distribution-free predictive inference in the face of distribution shift, with the focus on characterizing the distribution shift in different problems and developing distribution-free predictive inference tools that are robust to the corresponding distribution shift.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413135</AwardID>
+<Investigator>
+<FirstName>Zhimei</FirstName>
+<LastName>Ren</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhimei Ren</PI_FULL_NAME>
+<EmailAddress><![CDATA[zren@wharton.upenn.edu]]></EmailAddress>
+<NSF_ID>000986474</NSF_ID>
+<StartDate>06/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress><![CDATA[3451 WALNUT ST STE 440A]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GM1XX56LEP58</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GM1XX56LEP58</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191046205</ZipCode>
+<StreetAddress><![CDATA[3451 WALNUT ST STE 440A]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~55409</FUND_OBLG>
+</Award>
+</rootTag>

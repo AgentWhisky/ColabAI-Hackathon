@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Dynamics of reaction-diffusion equations on networks and other spatially extended systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>269996.00</AwardTotalIntnAmount>
+<AwardAmount>269996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stacey Levine</SignBlockName>
+<PO_EMAI>slevine@nsf.gov</PO_EMAI>
+<PO_PHON>7032922948</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Physical systems which can be modeled by differential equations relying upon an interplay between spatially organized interactions and homogeneous reaction dynamics span a wide range of applications in biology, ecology, physics, and engineering. This project will contribute theoretical and computational approaches for understanding the dynamics of such reaction-diffusion systems.  One theme of this research is understanding how complexities in the spatial coupling of components affect the dynamics of these systems.  This complexity could take the form of network-based interactions of components or it could consist of understanding the role of spatial barriers for which the rate of diffusion or reaction is different from that of the bulk of the domain.  Outcomes will include mathematical results validating certain reduced systems, modeling and analysis of several applied problems, as well as the development of rigorous computational methods for the study of traveling interfaces.   The project will also contribute to the training of PhD and undergraduate researchers.&lt;br/&gt;&lt;br/&gt;Three specific project areas are to be considered.  The first revolves around the analysis of reaction-diffusion equations defined on networks.  When the number of components is large, it is often convenient to pass to a mean-field limit where the discrete graph is replaced by a more tractable nonlocal equation.  The goal of this project is to contribute theoretical results relating the nonlocal equation and the discrete system thereby validating the use of the nonlocal equation.  The second project involves the development of validated numerical techniques for the study of fronts propagating into unstable states.  The primary challenge in this analysis is the appearance of repeated eigenvalues and resonances in the linearization of the traveling wave equation near the unstable state.  The third project involves partial differential equation models defined on spatial domains with dynamical barriers.  Focusing on the dynamics near unstable states, the project will quantify how the dynamics within these barriers affect the evolution of the overall system and speed of invasion of the unstable state.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406623</AwardID>
+<Investigator>
+<FirstName>Matt</FirstName>
+<LastName>Holzer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matt Holzer</PI_FULL_NAME>
+<EmailAddress><![CDATA[mholzer@gmu.edu]]></EmailAddress>
+<NSF_ID>000546691</NSF_ID>
+<StartDate>05/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EADLFP7Z72E5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE MASON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>H4NRWLFCDF43</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>220304422</ZipCode>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~269996</FUND_OBLG>
+</Award>
+</rootTag>

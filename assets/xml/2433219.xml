@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: PBI: Measuring the impact of university innovation facilities through real estate market]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>285504.00</AwardTotalIntnAmount>
+<AwardAmount>285504</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rebecca Shearman</SignBlockName>
+<PO_EMAI>rshearma@nsf.gov</PO_EMAI>
+<PO_PHON>7032927403</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Understanding the dynamics of Research and Development (R&amp;D) space supply and demand can send crucial signals about the future performance of innovation ecosystems in America's metropolitan areas. This project seeks to assess whether the current supply of R&amp;D space is aligned with anticipated demand forecasts across the top 100 U.S. metro areas. Additionally, identifying the locations of strong R&amp;D concentrations, known as "innovation districts," is vital. These insights not only help predict innovation ecosystem performance but also influence investment decisions in innovation facilities. Such investments can impact the prices of adjacent real estate properties and signify the expansion of innovation capacity within these regions. By addressing these factors, this project aims to provide essential data for informed planning and strategic investment in R&amp;D infrastructure, thereby supporting economic growth and technological advancement. &lt;br/&gt;&lt;br/&gt;This project will develop answers to its research questions by collecting and analyzing data for four general outcome variables for top metropolitan statistical regions: (1) R&amp;D space demand; (2) R&amp;D space supply; (3) business establishment clustering; and (4) innovation district trade area density. Data collection will focus on the development of datasets that enable R&amp;D facility forecasting and innovation district identification. The generation of R&amp;D space demand and supply forecasts will follow the accounting-based market analysis methodology proposed by Mourouzi-Sivitanidou (2021). Innovation district-related data collection will use location data for firms in advanced industries in MSAs, enabling the measurement of clustering through Global Moran’s I values. Additionally, pre-anonymized mobile-based locational tracking data via Placer.ai will be used to study the trade area density (or, concentration) of visitors to innovation districts. The project will be conducted over the course of two years, during which dissemination of the generated data outputs and research papers will occur. The project’s main contributions will be to help address the lack of publicly available real estate market information about private R&amp;D (research and development) space, and it will add to literature on innovation districts through the generation and analysis of novel datasets.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2433219</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Smith</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher D Smith</PI_FULL_NAME>
+<EmailAddress><![CDATA[cd.smith@usm.edu]]></EmailAddress>
+<NSF_ID>000995817</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Southern Mississippi]]></Name>
+<CityName>HATTIESBURG</CityName>
+<ZipCode>394060001</ZipCode>
+<PhoneNumber>6012664119</PhoneNumber>
+<StreetAddress><![CDATA[118 COLLEGE DRIVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MS04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1K8LJAET5R1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF SOUTHERN MISSISSIPPI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern Mississippi]]></Name>
+<CityName>HATTIESBURG</CityName>
+<StateCode>MS</StateCode>
+<ZipCode>394060001</ZipCode>
+<StreetAddress><![CDATA[118 COLLEGE DRIVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MS04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>301Y00</Code>
+<Text>NSF Engines - Type 2</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01AC2324DB</Code>
+<Name><![CDATA[R&RA DRSA DEFC AAB]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~285504</FUND_OBLG>
+</Award>
+</rootTag>

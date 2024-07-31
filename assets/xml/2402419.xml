@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Inverse Optimization for Imputing Constraints in Mathematical Programs]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>384757.00</AwardTotalIntnAmount>
+<AwardAmount>303823</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reha Uzsoy</SignBlockName>
+<PO_EMAI>ruzsoy@nsf.gov</PO_EMAI>
+<PO_PHON>7032922681</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>While forward optimization methods seek to calculate the optimal values of decision variables for given values of model parameters, the goal of inverse optimization is to infer parameters that render given values of decision variables optimal, i.e., prescribing needed actions or inputs to achieve an optimal result. This grant will contribute to the advancement of national health, prosperity, and welfare by developing a computational framework to efficiently solve a large class of inverse optimization models. The methodology will be applied to system identification problems in cancer radiotherapy to help validate current treatment protocols. The PI will mentor doctoral students on this research topic throughout the project. Results will be incorporated into a graduate-level course and two new books that the PI is drafting, as well as workshops and seminars on applications of optimization for underrepresented students in STEM. &lt;br/&gt;&lt;br/&gt;The current inverse optimization literature focuses almost entirely on imputing objective function parameters. There has been little work on imputing constraint parameters because these inverse optimization models are nonconvex, bilinear and hence difficult to solve. The project will pursue two approaches to solve these models: (1) conversion into equivalent convex problems via a variable transformation, if possible; and (2) a suite of tailored approximation algorithms that solve a sequence of convex problems, if not. The researched methods will be evaluated computationally against classic branch-and-bound algorithms using several publicly available data sets, together with an in-depth case study in cancer radiotherapy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/03/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>11/03/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402419</AwardID>
+<Investigator>
+<FirstName>Archis</FirstName>
+<LastName>Ghate</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Archis Ghate</PI_FULL_NAME>
+<EmailAddress><![CDATA[archisg@clemson.edu]]></EmailAddress>
+<NSF_ID>000490902</NSF_ID>
+<StartDate>11/03/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Clemson University]]></Name>
+<CityName>CLEMSON</CityName>
+<ZipCode>296340001</ZipCode>
+<PhoneNumber>8646562424</PhoneNumber>
+<StreetAddress><![CDATA[201 SIKES HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H2BMNX7DSKU8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CLEMSON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Clemson University]]></Name>
+<CityName>CLEMSON</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>296340001</ZipCode>
+<StreetAddress><![CDATA[201 SIKES HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>006Y00</Code>
+<Text>OE Operations Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>073E</Code>
+<Text>OPTIMIZATION &amp; DECISION MAKING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5514</Code>
+<Text>OPERATIONS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8023</Code>
+<Text>Health Care Enterprise Systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~303823</FUND_OBLG>
+</Award>
+</rootTag>

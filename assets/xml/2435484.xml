@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Mutant evolution in spatially structured, hierarchical populations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>390000.00</AwardTotalIntnAmount>
+<AwardAmount>116812</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Zhilan Feng</SignBlockName>
+<PO_EMAI>zfeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927523</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Evolutionary theory for asexual populations seeks to understand how and why genetic change happens in a variety of contexts, from unicellular organisms over generations, to aging and disease of multicellular organisms within the lifespan of a single individual (somatic evolution). While the principles of mutant evolution in homogeneous populations are well-understood and are commonly part of textbooks, they do not directly apply to any realistic population with a spatial, hierarchical structure (such as stem cells that maintain the tissue and more differentiated cells that perform tissue function). These features are, however, a common theme of cell dynamics in tissues of higher organisms, as well as microbial populations such as biofilm forming bacteria, which are also characterized by both spatial and hierarchical structure (cell sub-populations with different specializations). This research project will extend fundamental laws of evolution to be applicable across a much greater variety of biological systems. The mathematical theory will be applied to experimental data that follow the evolution of cells in a mouse model of Rhabdomyosarcoma, which is a pediatric cancer. Finally, the project will develop a new mentoring program that facilitates interactions between students and professors, geared especially towards underrepresented students.&lt;br/&gt;&lt;br/&gt;A large mathematical literature exists about mutant spread and invasion, focusing on measures such as the mutant fixation probability or the time to mutant fixation in constant populations, as well as mutant load in growing populations. Scaling laws of evolutionary dynamics have been derived, including the equilibrium population density in spatial models, the rate of stochastic tunneling (double-mutant generation from a minority of single mutants), and the mutant content in expanding colonies. In various biological scenarios, however, cells and organisms evolve in more complex settings than those traditionally considered by evolutionary theory. Of particular importance are spatially structured, hierarchically organized cell populations that are regulated by signaling mechanisms. Examples include tissues consisting of stem and more differentiated cells, solid tumors, and biofilms containing bacterial cells with specialized functions. A comprehensive evolutionary theory for such population structures currently does not exist. This project seeks to mathematically define evolutionary scaling laws for spatially structured populations that are hierarchically organized and contain regulatory feedback loops that control cell fate decisions.  This will be done by (a) developing efficient numerical methods that describe spatially expanding, evolving populations, and (b) deriving laws of spatial population dynamics, including rates of fitness valley crossing and scaling laws for the mutant load for different mutant types. The evolutionary theory will be applied to data on cellular evolution in Rhabdomyosarcoma mouse xenografts, which are characterized by both spatial and hierarchical structure.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2435484</AwardID>
+<Investigator>
+<FirstName>Natalia</FirstName>
+<LastName>Komarova</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Natalia Komarova</PI_FULL_NAME>
+<EmailAddress><![CDATA[nkomarova@ucsd.edu]]></EmailAddress>
+<NSF_ID>000485742</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress><![CDATA[9500 GILMAN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930021</ZipCode>
+<StreetAddress><![CDATA[9500 GILMAN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>733400</Code>
+<Text>MATHEMATICAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~116812</FUND_OBLG>
+</Award>
+</rootTag>

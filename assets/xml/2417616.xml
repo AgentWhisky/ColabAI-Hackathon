@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CMMI-EPSRC: Tackling New Simulation and Optimization Challenges Towards Self-Organizing Manufacturing Digital Twins]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>493637.00</AwardTotalIntnAmount>
+<AwardAmount>493637</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janis Terpenny</SignBlockName>
+<PO_EMAI>jterpenn@nsf.gov</PO_EMAI>
+<PO_PHON>7032922487</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This research supported by this NSF Civil, Mechanical and Manufacturing Innovation/UKRI Engineering and Physical Sciences Research Council (CMMI-EPSRC) award aims to advance simulation-based manufacturing process digital twin (DT) technologies by developing a self-organizing DT framework that continuously validates and calibrates the simulator and controls the manufacturing system with minimal human intervention. Despite the recognized importance of simulation-based DT for decision-making under uncertainty, significant barriers exist in its application, particularly in the continuous alignment of simulation models utilizing several key performance indicators observed from the manufacturing system and the need for quick, optimal control responses during contingencies. This research will directly address these challenges by making significant contributions to the mathematical foundations of DTs and enhance the competitiveness of US and UK manufacturers through industry collaborations. Real-time manufacturing DT technology can significantly promote national welfare by enhancing the efficiency, reliability, and resilience of manufacturing processes. This leads to more consistent and higher quality products at a lower cost, benefiting consumers and increasing the competitiveness of domestic industries. The simulation DT technology is applicable to other critical sectors such as healthcare and defense. Therefore, the methodological advancements achieved from this research can also benefit public health and national security.&lt;br/&gt;&lt;br/&gt;The specific goals of this research are establishing and verifying mathematical and algorithmic frameworks for 1) online validation of the DT with multidimensional multi-epoch data, 2) self-calibration of the DT simulator, 3) optimal control for contingency scenarios, and 4) parallel computing for rapid optimization. For the online validation, a hypothesis test that incorporates multi-dimensional multi-epoch data to detect statistically significant discrepancies between the model-generated and the system KPIs will be created. If the DT simulator fails the hypothesis test, then the online calibrator is automatically triggered. The calibration will be formulated as a simulation optimization problem that minimizes a statistical distance between the distributions of the simulated and system KPIs. To solve this problem efficiently, a new “batch-then-project” Bayesian optimization (BO) algorithm will be established that can efficiently tackle high-dimensional problems. To utilize a calibrated simulator in online contingency responses, the DT requires a simulation optimization algorithm that finds the optimal set of categorical actions efficiently without enumerating all possible combinations. This research will explore embedding actions on a graph to measure the similarity between two sets of actions and exploiting it to make statistical inference on the optimality. To provide a practical solution in real time, all algorithms will be designed to utilize parallel computing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417616</AwardID>
+<Investigator>
+<FirstName>Eunhye</FirstName>
+<LastName>Song</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eunhye Song</PI_FULL_NAME>
+<EmailAddress><![CDATA[eunhye.song@isye.gatech.edu]]></EmailAddress>
+<NSF_ID>000755893</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Benoit</FirstName>
+<LastName>Montreuil</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benoit Montreuil</PI_FULL_NAME>
+<EmailAddress><![CDATA[benoit.montreuil@isye.gatech.edu]]></EmailAddress>
+<NSF_ID>000787246</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303186395</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 North Avenue , NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>229Y00</Code>
+<Text>MSI-Manufacturing Systms Integ</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>016Z</Code>
+<Text>Cybermanufacturing Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>022Z</Code>
+<Text>International Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>077E</Code>
+<Text>SIMULATION MODELS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>118E</Code>
+<Text>GRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5946</Code>
+<Text>UNITED KINGDOM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~493637</FUND_OBLG>
+</Award>
+</rootTag>

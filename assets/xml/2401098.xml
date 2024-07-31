@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Groups and Arithmetic]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>280000.00</AwardTotalIntnAmount>
+<AwardAmount>92099</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Adriana Salerno</SignBlockName>
+<PO_EMAI>asalerno@nsf.gov</PO_EMAI>
+<PO_PHON>7032922271</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award will support the PI's research program concerning group theory and its applications.  Groups specify symmetry types; for instance, all bilaterally symmetric animals share a symmetry group, which is different from that of a starfish or of a sand dollar.  Important examples of groups arise from the study of symmetry in geometry and in algebra (where symmetries of number systems are captured by ``Galois groups'').  Groups can often be usefully expressed as finite sequences of basic operations,   like face-rotations for the Rubik's cube group, or gates acting on the state of a quantum computer.  One typical problem is understanding which groups can actually arise in situations of interest.  Another is understanding, for particular groups, whether all the elements of the group can be expressed efficiently in terms of a single element or  by a fixed formula in terms of varying elements.  The realization of a particular group as the symmetry group of n-dimensional space is a key technical method to analyze these problems. The award will also support graduate student summer research. &lt;br/&gt;&lt;br/&gt;The project involves using  character-theoretic methods alone or in combination with  algebraic geometry, to solve problems about finite simple groups.  In particular, these tools can be applied to investigate  questions about solving equations when the variables are elements of a simple group.  For instance, Thompson's Conjecture, asserting the existence, in any finite simple group of a conjugacy class whose square is the whole group, is of this type.  A key to these methods is the observation that, in practice, character values are usually surprisingly small.  Proving and exploiting variations on this theme is one of the main goals of the project.  One class of applications is to the study of representation varieties of finitely generated groups, for instance Fuchsian groups.  In a different direction, understanding which Galois groups can arise in number theory and how they can act on sets determined by polynomial equations, is an important goal of this project and, indeed, a key goal of number theorists for more than 200 years.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401098</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Larsen</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael J Larsen</PI_FULL_NAME>
+<EmailAddress><![CDATA[larsen@math.indiana.edu]]></EmailAddress>
+<NSF_ID>000098187</NSF_ID>
+<StartDate>04/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Indiana University]]></Name>
+<CityName>BLOOMINGTON</CityName>
+<ZipCode>474057000</ZipCode>
+<PhoneNumber>3172783473</PhoneNumber>
+<StreetAddress><![CDATA[107 S INDIANA AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YH86RTW2YVJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF INDIANA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Indiana University]]></Name>
+<CityName>BLOOMINGTON</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>474057000</ZipCode>
+<StreetAddress><![CDATA[107 S INDIANA AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~92099</FUND_OBLG>
+</Award>
+</rootTag>

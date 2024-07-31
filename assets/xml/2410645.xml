@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Computational Methods for Inverse and Optimal Design Problems in Topological Wave Insulators Based on Constructive Analysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>300263.00</AwardTotalIntnAmount>
+<AwardAmount>300263</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Troy D. Butler</SignBlockName>
+<PO_EMAI>tdbutler@nsf.gov</PO_EMAI>
+<PO_PHON>7032922084</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Topological wave insulators are a specialized material for transporting wave energy in various applications in modern science and engineering. This project will develop computational methods for several classes of inverse and optimal problems arising from the mathematical studies of partial differential equation (PDE) models for topological wave insulators. The goals of this project are to provide efficient computational algorithms that address several theoretical open questions in this area. Successful completion of this project should stimulate the mathematical research for topological insulators and beyond. The developed computational frameworks will also provide physical experimentalists and engineers with the computational tools to improve the performance and functionalities of topological materials. The project will also integrate students into the research team as part of their professional training. &lt;br/&gt; &lt;br/&gt;The project will address several key scientific challenges arising from the inverse and optimal design of the spectrum of the PDE operators in topological wave insulators. First, based on the spectral analysis of the PDE operators in periodic media, a new optimization framework through the enforcement of parity for the eigenfunctions will be built to solve for wave insulators that attain Dirac points at desired Bloch wave vectors and eigenfrequencies. Numerical algorithms based on the construction of wave propagators in periodic media and the design of the spectral indicator function will be developed to efficiently identify the interface parameters that allow for the existence of edge modes in joint topological wave insulators. Finally, efficient convex semidefinite programming based numerical methods will be developed for solving the optimization problems that arise from maximizing the band gaps of the PDE operators for topological wave insulators in order to enlarge the spectral bandwidth of edge modes.  This project is jointly funded by the Computational Mathematics and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410645</AwardID>
+<Investigator>
+<FirstName>Junshan</FirstName>
+<LastName>Lin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Junshan Lin</PI_FULL_NAME>
+<EmailAddress><![CDATA[jzl0097@auburn.edu]]></EmailAddress>
+<NSF_ID>000636074</NSF_ID>
+<StartDate>06/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Auburn University]]></Name>
+<CityName>AUBURN</CityName>
+<ZipCode>368490001</ZipCode>
+<PhoneNumber>3348444438</PhoneNumber>
+<StreetAddress><![CDATA[321-A INGRAM HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DMQNDJDHTDG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AUBURN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DMQNDJDHTDG4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Auburn University]]></Name>
+<CityName>AUBURN</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>368490001</ZipCode>
+<StreetAddress><![CDATA[321-A INGRAM HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300263</FUND_OBLG>
+</Award>
+</rootTag>

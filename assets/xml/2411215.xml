@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Elements: Automated parametric transformations for rapid particle physics simulations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>599872.00</AwardTotalIntnAmount>
+<AwardAmount>599872</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Varun Chandola</SignBlockName>
+<PO_EMAI>vchandol@nsf.gov</PO_EMAI>
+<PO_PHON>7032922656</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Particle physics explores the shortest experimentally-accessible distances in nature, addressing fundamental questions about forces and matter. Progress in particle physics is driven by interpretations of results from particle-physics experiments. These results rely on expensive, computer-based simulations of particle collisions, which are performed using simulations utilizing random number sequences (Monte-Carlo (MC) event generators). These simulations are at the core of particle-physics discoveries, such as the observation of the Higgs boson at the Large Hadron Collider (LHC) in 2012 and are a key part of cyberinfrastructure for particle physics. This project addresses a common issue in MC event generators – consistently, accurately, and efficiently determining uncertainties from model parameters. Because so much simulated data is required in particle physics, the outcome of this project will enable the production of sufficient simulation samples necessary for the timely analysis of upcoming data from the LHC. Robust MC uncertainties in the very near future are also critical for understanding the scientific impact of upcoming large-scale neutrino and nuclear physics projects.&lt;br/&gt;&lt;br/&gt;Event generators simulate particle collisions in three steps: a high-energy collision, evolution of the collision to lower-energies, and hadronization into observable particles. Each step depends upon a large number of model parameters that are unknown a priori and are fit to data with uncertainties. To test the robustness of the simulation predictions, the dependence of the results on parameter variations must be understood.  Because these models are probabilistic, it is not possible to determine the effect of parameter changes using methods like automatic differentiation. In practice, multiple runs of the same model are performed, but with different parameter settings. This approach is resource intensive, requiring both time and storage. The goal of this project is to instead develop an innovative approach, where the effect of changing these parameters can be captured with event weights and incorporate this approach into Pythia, the most widely used event generator in the particle physics community. The outcomes of the project are relevant for a large community of users in particle and nuclear physics, since event generators are used by every major particle and nuclear physics collaboration. Special attention is given to ensure that the uncertainty framework is implemented in a sustainable way. As part of the project, comprehensive documentation and examples provided via Jupyter notebooks are also being developed for use in outreach activities.&lt;br/&gt;&lt;br/&gt;This award by the Office of Advanced Cyberinfrastructure is jointly supported by the Physics at the Information Frontier program in the Division of Physics in the Directorate of Mathematical and Physical Sciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411215</AwardID>
+<Investigator>
+<FirstName>Jure</FirstName>
+<LastName>Zupan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jure Zupan</PI_FULL_NAME>
+<EmailAddress><![CDATA[zupanje@ucmail.uc.edu]]></EmailAddress>
+<NSF_ID>000596294</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Philip</FirstName>
+<LastName>Ilten</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Philip Ilten</PI_FULL_NAME>
+<EmailAddress><![CDATA[philten@cern.ch]]></EmailAddress>
+<NSF_ID>000839828</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Mrenna</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen Mrenna</PI_FULL_NAME>
+<EmailAddress><![CDATA[mrenna@fnal.gov]]></EmailAddress>
+<NSF_ID>000988138</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Cincinnati Main Campus]]></Name>
+<CityName>CINCINNATI</CityName>
+<ZipCode>452202872</ZipCode>
+<PhoneNumber>5135564358</PhoneNumber>
+<StreetAddress><![CDATA[2600 CLIFTON AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DZ4YCZ3QSPR5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CINCINNATI UNIV OF</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DZ4YCZ3QSPR5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Cincinnati Main Campus]]></Name>
+<CityName>CINCINNATI</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>452202872</ZipCode>
+<StreetAddress><![CDATA[2600 CLIFTON AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>755300</Code>
+<Text>PHYSICS AT THE INFO FRONTIER</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>800400</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~599872</FUND_OBLG>
+</Award>
+</rootTag>

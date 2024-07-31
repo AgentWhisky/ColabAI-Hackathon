@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[GOALI: Integrated Design and Operability Optimization of Industrial-Scale Modular Intensified Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>400311.00</AwardTotalIntnAmount>
+<AwardAmount>400311</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Catherine Walker</SignBlockName>
+<PO_EMAI>cawalker@nsf.gov</PO_EMAI>
+<PO_PHON>7032927125</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Modular chemical process intensification (MCPI) offers the potential to achieve step-change improvements in cost, energy, and sustainability by developing innovative equipment and processing schemes. However, the commercial applications of such process technologies remain limited due to key barriers in design complexity, flowsheet integration, and operation under uncertainty. This project aims to develop a computer-aided strategy to augment process intensification synthesis, operability optimization, and modularization clustering. The proposed approaches will be the first of their kind to systematically identify the optimal selection and integration of modular and/or intensified process units in grassroots design or retrofit operations, which currently rely on human engineering experience. Of particular interest to this study are plant-scale bulk chemical production processes, which are among the largest energy users and carbon emitters in the domestic industrial sector. The industry-university project team with researchers from Dow Chemical Company, Texas A&amp;M University, and West Virginia University is uniquely positioned to accelerate MCPI in industrial practice through this GOALI project. The methodological developments will be demonstrated in industrially relevant case studies and compared to state-of-the-art patented processes. The project findings will be incorporated into online learning modules and hands-on workshops to disseminate the methods and tools to the industrial community in a timely manner. The project team also will jointly train next-generation MCPI engineering leaders via academic and industrial research opportunities chosen from a diverse group of undergraduate and graduate students. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project will develop advanced computational methods and a systematic framework to design optimal, intensified, and highly operable bulk chemical processes based on modular process intensification principles. The framework centers on a phenomena-based representation which employs general thermodynamic-based driving force constraints to quantitatively identify the optimal modular intensification opportunities at the systems level (e.g., mass/heat transfer enhancement, multi-functional task integration), while creating the opportunity to discover innovative unit and flowsheet designs that may be new to current industrial practice. The research also will generate a fundamental understanding of the impact of modular intensification on operability under uncertainty. The resulting methodology will deliver optimal and operable modular/intensified process designs by systematically addressing the interactions and trade-offs of process efficiency, economics, and operability. Key pillars of the research plan feature: (i) phenomena-based process synthesis synergizing physical laws, mathematical optimization, and machine learning to efficiently search the combinatorial design space, (ii) integrated synthesis with data-driven flexibility and controllability to generate optimal modular chemical process intensified (MCPI) designs with guaranteed operability performance, and (iii) a similarity-based clustering algorithm to automate the translation of phenomena-based solutions to unit operation-based flowsheets. The methodological developments will be demonstrated on industrially relevant case studies including ethylene glycol and methyl methacrylate production. The resulting methods, software, and industrial case studies will produce design tools and concrete examples of their benefits, improving existing processes with a win-win combination of economic, energy, and sustainability through MCPI design principles.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401564</AwardID>
+<Investigator>
+<FirstName>Efstratios</FirstName>
+<LastName>Pistikopoulos</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Efstratios N Pistikopoulos</PI_FULL_NAME>
+<EmailAddress><![CDATA[stratos@tamu.edu]]></EmailAddress>
+<NSF_ID>000697617</NSF_ID>
+<StartDate>03/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yuhe</FirstName>
+<LastName>Tian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yuhe Tian</PI_FULL_NAME>
+<EmailAddress><![CDATA[yuhe.tian@mail.wvu.edu]]></EmailAddress>
+<NSF_ID>000879372</NSF_ID>
+<StartDate>03/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rahul</FirstName>
+<LastName>Bindlish</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rahul Bindlish</PI_FULL_NAME>
+<EmailAddress><![CDATA[rbindlish@dow.com]]></EmailAddress>
+<NSF_ID>000961250</NSF_ID>
+<StartDate>03/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress><![CDATA[3124 TAMU]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778430001</ZipCode>
+<StreetAddress><![CDATA[1617 Research Parkway]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>140300</Code>
+<Text>Proc Sys, Reac Eng &amp; Mol Therm</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>164200</Code>
+<Text>Special Initiatives</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~400311</FUND_OBLG>
+</Award>
+</rootTag>

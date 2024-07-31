@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Cognitive Diagnosis in E-Learning: A Nonparametric Approach for Computerized Adaptive Testing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>731165.00</AwardTotalIntnAmount>
+<AwardAmount>23886</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Finbarr Sloane</SignBlockName>
+<PO_EMAI>fsloane@nsf.gov</PO_EMAI>
+<PO_PHON>7032928465</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This is a Faculty Early Career Development Program (CAREER) project. The CAREER program is a National Science Foundation-wide activity that offers the most prestigious awards in support of junior faculty who exemplify the role of teacher-scholars through outstanding research, excellent education and the integration of education and research. The investigator will develop a Cognitive Diagnostic Computerized Adaptive Testing (CD-CAT) system to support the learning of introductory statistics at the university level. The work represents a significant advance in educational testing to provide personalized assessments which in turn generate diagnostic information based on students' proficiency profiles, as opposed to an abstract overall test score. &lt;br/&gt;&lt;br/&gt;The research deals specifically with difficulties such as the requirement of large samples, underdevelopment in identification of the underlying model, and possible technical complexity limiting the availability of the model-based CD-CAT to educational practitioners; especially teachers and their students in smaller instructional settings. In light of these considerations, the project first proposes an innovative general nonparametric classification (GNPC) alternative, which is a general version of the nonparametric classification (NPC) method. The GNPC method can be used to analyze not only large- but also small-scale data, such as course-based data, conforming to a broad range of cognitive diagnostic models, an advantage that makes cognitive diagnosis analysis accessible to those who are in its highest need. The development of this ready-to-use heuristic method then moves the field further toward the routine use of the nonparametric CD-CAT within educational micro-environments. The proposed algorithms will be applied to online statistics courses, where high-performance formative assessments are employed to provide useful and timely feedback on how well students perform. The proposed line of inquiry integrates research and education through the development of an online CD-CAT system to support the learning of statistics. The education activities include both teaching at the graduate level and professional development activities for teachers and researchers.</AbstractNarration>
+<MinAmdLetterDate>03/28/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/28/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423762</AwardID>
+<Investigator>
+<FirstName>Chia-Yi</FirstName>
+<LastName>Chiu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chia-Yi Chiu</PI_FULL_NAME>
+<EmailAddress><![CDATA[cchiu@umn.edu]]></EmailAddress>
+<NSF_ID>000550267</NSF_ID>
+<StartDate>03/28/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Teachers College, Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276605</ZipCode>
+<PhoneNumber>2126783000</PhoneNumber>
+<StreetAddress><![CDATA[525 W 120TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DBM1C8MDJ5L3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEACHERS COLLEGE COLUMBIA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Teachers College, Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100276605</ZipCode>
+<StreetAddress><![CDATA[525 W 120TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>798000</Code>
+<Text>ECR-EDU Core Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~23886</FUND_OBLG>
+</Award>
+</rootTag>

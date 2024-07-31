@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: Local and many particle limits of non-local microscopic car-following models]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>249358.00</AwardTotalIntnAmount>
+<AwardAmount>249358</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitry Golovaty</SignBlockName>
+<PO_EMAI>dgolovat@nsf.gov</PO_EMAI>
+<PO_PHON>7032922117</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In this project, the investigator constructs and analyzes multi-scale non-local mathematical models to study traffic flow. Compared with traditional local traffic flow models, the non-local traffic flow models are expected to more accurately capture the drivers’ behavior by integrating the downstream information. The constructed non-local models are calibrated using real trajectory data collected by the investigator and her collaborators during field experiments. The project also investigates the relationship between non-local and local traffic flow models through numerical simulation and mathematical analysis. This research will lay the foundation for further efforts to reduce traffic flow instabilities, which can save energy and reduce CO2 emissions. The models developed and analyzed in this project should have broad applications in supply chain management, crowd dynamics, sedimentation, materials with fading memory, biological and industrial models, and more.  The investigator will supervise undergraduate students to aid their mathematical training and a postdoctoral fellow for research in mathematical analysis and the application of machine learning to traffic flow. Given the investigator’s unique background and outreach efforts, the project is expected to have a significant impact on young women and underrepresented minorities in STEM fields. Moreover, this project also allows experts in the field from the United States to establish new connections and strengthen international collaboration among early-career researchers. &lt;br/&gt;&lt;br/&gt;This project aims to perform mathematical analysis and numerical simulation on non-local microscopic and macroscopic models, especially for traffic. The investigator will mainly study three sets of problems: the first set of problems is to develop a second-order non-local microscopic car-following model and study its well-posedness. The parameters of the non-local model will be calibrated using optimization to fit real-trajectory data; The second set of problems consists of analytical questions about the convergence of the non-local microscopic model to the local microscopic model when the non-local factor approaches zero. The last set of problems focuses on the derivation of the many-particle limit of the non-local model as the number of vehicles approaches infinity, which results in a macroscopic traffic flow model governed by a non-local hyperbolic conservation law.  One of the intents of the project is to demonstrate consistency among local, non-local, microscopic, and macroscopic models. This project serves as the seed for the investigator’s future research, particularly related to data-driven and theory-based traffic flow models, multi-lane and multi-class traffic flow modeling using hybrid systems, and optimal control for traffic smoothing using autonomous vehicles.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418971</AwardID>
+<Investigator>
+<FirstName>Xiaoqian</FirstName>
+<LastName>Gong</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaoqian Gong</PI_FULL_NAME>
+<EmailAddress><![CDATA[xgong@amherst.edu]]></EmailAddress>
+<NSF_ID>000973637</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Amherst College]]></Name>
+<CityName>AMHERST</CityName>
+<ZipCode>010022234</ZipCode>
+<PhoneNumber>4135422804</PhoneNumber>
+<StreetAddress><![CDATA[155 S PLEASANT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KDRLUT71AFM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AMHERST COLLEGE, TRUSTEES OF</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Amherst College]]></Name>
+<CityName>AMHERST</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>010022234</ZipCode>
+<StreetAddress><![CDATA[155 S PLEASANT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>217Y00</Code>
+<Text>LEAPS-MPS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~249358</FUND_OBLG>
+</Award>
+</rootTag>

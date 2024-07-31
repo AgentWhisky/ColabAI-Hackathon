@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAISE: CET: SH2INE: Sustainable, Holistic Hydrogen INtegration Evaluation: models and analyses of human, environmental and policy dimensions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>999628.00</AwardTotalIntnAmount>
+<AwardAmount>999628</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carole Read</SignBlockName>
+<PO_EMAI>cread@nsf.gov</PO_EMAI>
+<PO_PHON>7032922418</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Research Advanced by Interdisciplinary Science and Engineering (RAISE) award is made in response to Dear Colleague Letter 23-109, as part of the NSF-wide Clean Energy Technology initiative. Hydrogen is a key component of national decarbonization plans, and potential benefits are associated with its integration within multiple sectors. For example, in the electric power sector, hydrogen production via electrolysis may help balance fluctuations in variable generation because electrolyzers are controllable loads that can be ramped in response to grid needs. Despite these potential benefits, many open economic, technical, policy, and environmental justice questions remain about hydrogen integration. For instance, there is a tradeoff between using green electricity for grid decarbonization vs. hydrogen production via electrolysis, but the costs, benefits, environmental effects and social impacts of these competing uses are unclear. Policymakers must navigate uncertainty over these tradeoffs, while continuing to shape incentives that enable the hydrogen supply chain as part of a just energy transition. A case in point is given by the implementation of the 45V tax credit for clean hydrogen production in the Inflation Reduction Act of 2022. The U.S. Department of the Treasury recently released its proposed guidance on the implementation of the 45V tax credit, suggesting that hydrogen producers demonstrate their fulfillment of an “incrementality” (previously known as “additionality”) requirement (i.e., that the electricity used to produce hydrogen comes from clean generation that goes online less than 36 months before hydrogen production begins, in order to avoid diverting clean generation away from other uses). However, proving incrementality poses a challenge because electricity does not, in general, travel directly from a generation facility to a particular consumer. At present, it is unclear whether and how incrementality requirements might be demonstrated in the United States. This RAISE project investigates the complex systems interdependencies raised by hydrogen integration with other energy systems and grid infrastructure, and its potential for supporting a just energy transition.&lt;br/&gt;&lt;br/&gt;The project develops a framework that integrates energy and transportation systems modeling, policy analysis, environmental justice and stakeholder engagement to assess cost, environmental and social impacts of alternate hydrogen pathways in the Northeastern U.S. This region enjoys several hydrogen-enabling conditions, while facing challenges that may hamper development of its full hydrogen potential. The integrative research approach couples a regional model of the hydrogen supply chain with a model for the joint operations and planning of gas-electric systems with realistic nodal representation. Such spatial resolution is missing in state-of-the-art energy systems models of hydrogen deployment, but necessary to enhance understanding of hydrogen integration into existing energy flow networks. The framework also considers interactions with the transportation system, which are often overlooked in hydrogen system modeling efforts. This feature enables evaluation of the tradeoffs between consuming electricity for electric vehicles vs. hydrogen production, and integration of price feedbacks among energy systems. The models are informed by policies affecting the evolution of gas-electric-transportation sectors and the hydrogen supply chain, and simulate planning and operating decisions in the natural gas, electric power, transportation and hydrogen sectors to quantify the associated cost, environmental and social impacts at a scale suitable for illuminating regional vulnerabilities. In addition, the project develops a novel set of environmental justice indicators that can aid communities, decision-makers, and policymakers in understanding and proactively addressing potentially negative social impacts of transitions to hydrogen. The research is deeply integrated with a robust engagement program involving a range of key stakeholders, including energy companies, non-profit organizations and national laboratories. The research and stakeholder engagement advance the understanding of potential improvements to hydrogen, electric grid, and natural gas policy that could ensure a more efficient, just, and environmentally beneficial hydrogen economy in the United States.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401032</AwardID>
+<Investigator>
+<FirstName>Kimberly</FirstName>
+<LastName>Marion Suiseeya</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kimberly Marion Suiseeya</PI_FULL_NAME>
+<EmailAddress><![CDATA[kimberly.suiseeya@northwestern.edu]]></EmailAddress>
+<NSF_ID>000616319</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chiara</FirstName>
+<LastName>Lo Prete</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chiara Lo Prete</PI_FULL_NAME>
+<EmailAddress><![CDATA[cxl63@psu.edu]]></EmailAddress>
+<NSF_ID>000698763</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Dunn</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jennifer B Dunn</PI_FULL_NAME>
+<EmailAddress><![CDATA[jennifer.dunn1@northwestern.edu]]></EmailAddress>
+<NSF_ID>000770286</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zhaomiao</FirstName>
+<LastName>Guo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhaomiao Guo</PI_FULL_NAME>
+<EmailAddress><![CDATA[guo@ucf.edu]]></EmailAddress>
+<NSF_ID>000800745</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hannah</FirstName>
+<LastName>Wiseman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hannah Wiseman</PI_FULL_NAME>
+<EmailAddress><![CDATA[hqw5351@psu.edu]]></EmailAddress>
+<NSF_ID>000933731</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168021503</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPM2J7MSCF61</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE PENNSYLVANIA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>168025002</ZipCode>
+<StreetAddress><![CDATA[213 Hosler Building]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>268Y00</Code>
+<Text>CET Strategic Investments</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>049Z</Code>
+<Text>RAISE-Research Advanced by Interdiscipli</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01AB2324DB</Code>
+<Name><![CDATA[R&RA DRSA DEFC AAB]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~999628</FUND_OBLG>
+</Award>
+</rootTag>

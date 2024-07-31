@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Bifunctional Catalysts for MHAT Hydrofunctionalization of Alkenes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>574995.00</AwardTotalIntnAmount>
+<AwardAmount>383330</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sarah Wengryniuk</SignBlockName>
+<PO_EMAI>sewold@nsf.gov</PO_EMAI>
+<PO_PHON>7032928679</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With the support of the Chemical Catalysis program in the Division of Chemistry, Professor Ryan Shenvi of Scripps Research will study a new type of base metal catalysis. Chemical reactions that produce commercial products and experimental new materials can create a heavy economic and environmental burden. When these reactions are catalyzed by small quantities of precious metals (e.g. platinum, gold, iridium), these burdens can be lessened. However, obtaining and removing these precious metals can create their own environmental, economic and political problems. This research seeks to replace precious metal catalysts with earth abundant metal catalysts such as iron. Through this work, old chemical reactions and existing materials can be made with fewer negative impacts. In addition, these catalysts enable new chemical reactions and novel materials that are unavailable to precious metals. Through these efforts, a diverse body of graduate students will be trained to enter the science and technology workforce.  Chemical outreach activities from the Shenvi group to community schools are planned to engage the next generation of science and technical professionals.&lt;br/&gt;&lt;br/&gt;Alkene cross-coupling traditionally involves precious metal complexes that undergo sequential two- electron, inner-sphere reactions. These pathways involve sequential activations of substrate in which the metal center bonds covalently to intermediates: oxidative addition, coordination, migratory insertion, β- hydride elimination, decomplexation. Each of these steps can restrict the substrate scope, especially the alkene coordination step, whose rate decreases with increased alkene substitution due to steric repulsion. A lesser studied alkene reaction pathway involves metal hydride hydrogen atom transfer (MHAT), a subset of proton-coupled electron transfer (PCET). This outer-sphere elementary step generates a carbon- centered radical directly from an alkene without the need for redox-active auxiliaries or trialkyltin hydrides. In contrast to inner-sphere, coordinative metal-hydride reactions that decelerate with increasing alkene substitution, MHAT reactions can occur at high rates on tetrasubstituted alkenes or amidst steric crowding, even in dilute aqueous buffer among tertiary amines and biomolecules like DNA. The proposed research will study and expand a novel class of MHAT-based alkene functionalization reactions in which a base metal catalyst mediates bond formation at each olefinic carbon without any intermediate metal-carbon bond formation. Problems at the intersection of reactive intermediate chemistry, complex molecule synthesis and ligand design will be addressed through this work. New bioactive materials, chemical reactions and catalyst insights are expected to result from this research into catalysis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/27/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/27/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400341</AwardID>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Shenvi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ryan Shenvi</PI_FULL_NAME>
+<EmailAddress><![CDATA[rshenvi@scripps.edu]]></EmailAddress>
+<NSF_ID>000596949</NSF_ID>
+<StartDate>03/27/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[The Scripps Research Institute]]></Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920371000</ZipCode>
+<PhoneNumber>8587848653</PhoneNumber>
+<StreetAddress><![CDATA[10550 N TORREY PINES RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>PHZJFZ32NKH4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SCRIPPS RESEARCH INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Scripps Research Institute]]></Name>
+<CityName>LA JOLLA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920371000</ZipCode>
+<StreetAddress><![CDATA[10550 NORTH TORREY PINES RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688400</Code>
+<Text>Chemical Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~383330</FUND_OBLG>
+</Award>
+</rootTag>

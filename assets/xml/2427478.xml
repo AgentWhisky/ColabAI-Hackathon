@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Structure-Preserving Multimodal Alignment between Vision and Language]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>562981.00</AwardTotalIntnAmount>
+<AwardAmount>562981</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jie Yang</SignBlockName>
+<PO_EMAI>jyang@nsf.gov</PO_EMAI>
+<PO_PHON>7032924768</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>A grand challenge in artificial intelligence (AI) is to be able to process multimodal vision and language data, while preserving relationships across such modalities so that the linkages between the different modalities is sustained. Current machine learning systems do not fully grasp the structures and relationships that exist within human vision and language, and thus have difficulties producing the desired outcomes in terms of interpretability, efficiency, measurability, and causality. This project tackles the fundamental multimodal alignment problem in machine learning and will advance research in both computer vision and natural language processing, especially in the disruptive innovation areas of multimodal vision-language generation and understanding. It will lead to breakthroughs in both theoretical understanding as well as practical applications of vision and language. The techniques developed under this project could similarly be used to connect different types of latent structures across modalities and are not limited to vision and language. This would be extremely beneficial for responsible AI applications in the sciences, where people not only want to understand the relationship in data, but the structure and causal explanations. Such an understanding is also critical for reducing demographic biases that machine learning models exhibit. Through education, open-sourcing and outreach activities, this project will train and educate students of all levels - from K-12 to graduate - in AI, advance theoretical vision and language courses, reduce bias, and further democratize AI.&lt;br/&gt;&lt;br/&gt;Preserving structure is an essential component of understanding how to make machine learning models better and more reliable. This project aims to create novel and signiﬁcant scientific advances in multimodal vision and language modeling with structure-preserving latent space alignment to build a bridge between vision and language. The project aims to increase the structural preserving nature for linguistic and visual embeddings and develop a map between the two latent representations that preserves the underlying structures. In particular, the project will achieve these goals through four thrusts: (I) Developing structure-preserving latent representations and mapping between vision and language; (II) Improving learning and data efficiency through latent structures; (III) Develop novel evaluation metrics through structural information to improve measurability; (IV) Develop a causal representation and interpretation framework.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2427478</AwardID>
+<Investigator>
+<FirstName>Humphrey</FirstName>
+<LastName>Shi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Humphrey Shi</PI_FULL_NAME>
+<EmailAddress><![CDATA[shi@gatech.edu]]></EmailAddress>
+<NSF_ID>000768560</NSF_ID>
+<StartDate>04/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303186395</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320365</ZipCode>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>749500</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~120993</FUND_OBLG>
+<FUND_OBLG>2024~441988</FUND_OBLG>
+</Award>
+</rootTag>

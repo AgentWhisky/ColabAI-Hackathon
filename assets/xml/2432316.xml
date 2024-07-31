@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation Potential of microRNA (miRNA) detection technology to identify early-stage pancreatic cancer]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is the development of point-of-care device for routine screening applications to identify early-stage pancreatic cancer (PC). Currently, patients with early-stage pancreatic tumors have a five-year survival rate of about 90%, compared with a 6% survival rate for cancers detected at the late-stage. However, PC is difficult to detect early as it has no early symptoms; instead, symptoms appear when the cancer has advanced to late stages. Further, current screening methods used in clinical care (e.g., proteomics and imaging) can only detect late-stage PCs, providing little help to the patient. This device is designed to analyze blood samples and identify early-stage PCs. This solution may allow for early treatment to improve patient outcomes and reduce the financial burden on healthcare systems.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of a highly sensitive microRNA (miRNA) detection device for early detection of pancreatic cancer (PC). The miRNA detection is based on hybridizing the target miRNA molecules with their complementary fluorophore-labeled DNA molecules. An alternating current (AC) is used to selectively isolate the labeled miRNA-DNA hybrid molecules on the electrodes and enhance the fluorescence intensity. The fluorescence intensity is then analyzed to calculate the molarity of miRNA target. AC electric fields have been shown to produce less damage to miRNA molecules and generate significantly less heat than direct current (DC) fields. In addition, AC fields may stretch molecules and hybridize the miRNA-DNA molecules with fewer false positive results as compared with DC fields. This technology is under evaluation to be used to detect early-stage pancreatic cancer and the device will be designed to be used in routine medical applications in point-of-care settings. The goal is to simplify diagnostic workflow and create a platform technology for cancer biomarker detection.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2432316</AwardID>
+<Investigator>
+<FirstName>Dharmakeerthi</FirstName>
+<LastName>Nawarathna</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dharmakeerthi Nawarathna</PI_FULL_NAME>
+<EmailAddress><![CDATA[dnawarat@odu.edu]]></EmailAddress>
+<NSF_ID>000895627</NSF_ID>
+<StartDate>07/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Old Dominion University Research Foundation]]></Name>
+<CityName>NORFOLK</CityName>
+<ZipCode>235082561</ZipCode>
+<PhoneNumber>7576834293</PhoneNumber>
+<StreetAddress><![CDATA[4111 MONARCH WAY]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 204]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DSLXBD7UWRV6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OLD DOMINION UNIVERSITY RESEARCH FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DSLXBD7UWRV6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Old Dominion University]]></Name>
+<CityName>NORFOLK</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>235290001</ZipCode>
+<StreetAddress><![CDATA[5115 Hampton Blvd.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>066E</Code>
+<Text>INSTRUMENTATION &amp; DIAGNOSTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

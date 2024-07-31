@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Reduced-order Dynamic Modeling of DER-penetrated Power Distribution Systems: Identifying Missing Dynamics, Preserving Topology, and Enhancing Robustness]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>350000.00</AwardTotalIntnAmount>
+<AwardAmount>350000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aranya Chakrabortty</SignBlockName>
+<PO_EMAI>achakrab@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project aims to address the dynamic modeling and system stability challenges presented by the massive integration of distributed energy resources (DERs) in carbon-neutral power systems. Examples include rooftop solar panels, electric vehicles, and retail-scale batteries. The project will bring transformative change the field of power system dynamic modeling through the development of a new reduced-order dynamic modeling paradigm for accurately representing deep-DER-penetrated distribution power systems in the transient stability assessments of large-scale electric power systems. The intellectual merits of the project include leveraging theoretical tools in dynamic systems, nonlinear system identification, and convex machine learning to learn the white-box nonlinear governing equations for enhancing the existing oversimplified dynamic models for the DER-penetrated distribution power systems. The broader impacts of the project include significantly reducing the society’s electricity outage risks and accelerating decarbonization by enabling power system practitioners toward accurately modeling the dynamic behavior and assessing the stability of DER-penetrated distribution power systems, as well as contributing to the workforce development by a multifaceted outreach, mentoring, education, and knowledge dissemination plan that covers high-school students through graduate students and industry practitioners.&lt;br/&gt;&lt;br/&gt;The goal of this project will be achieved by developing physics-based and machine learning tools to create robust reduced-order distribution grid dynamic models with massive DERs, advanced controls, and high system uncertainty. The research objectives include: 1) identifying and modeling critical nonlinear dynamic structures that are missing from existing oversimplified dynamic load models; 2) creating reduced-order topology-preserving steady-state distribution grid models for accurately representing the impacts of feeder-level steady-state voltage and load variations on the overall distribution grid dynamics; 3) incorporating advanced machine learning controls, enhancing model robustness against uncertainties, and optimal parameter identification for the white-box reduced-order topology-preserving dynamic distribution grid models. Such tools will enable power system practitioners toward systematically and rigorously identifying and mitigating the dynamic and algebraic nonlinear structural deficiencies in existing oversimplified dynamic load models and learning the white-box nonlinear differential algebraic equations via physically interpretable and theoretically rigorous machine learning.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2426236</AwardID>
+<Investigator>
+<FirstName>Meng</FirstName>
+<LastName>Wu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Meng Wu</PI_FULL_NAME>
+<EmailAddress><![CDATA[mwu@asu.edu]]></EmailAddress>
+<NSF_ID>000805613</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852813670</ZipCode>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>760700</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~350000</FUND_OBLG>
+</Award>
+</rootTag>

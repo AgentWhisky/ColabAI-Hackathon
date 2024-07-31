@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Next-Generation Functional Data Analysis via Machine Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>170000.00</AwardTotalIntnAmount>
+<AwardAmount>170000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yulia Gel</SignBlockName>
+<PO_EMAI>ygel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927888</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Classical functional data refer to curves or functions, i.e., the data for each variable are viewed as smooth curves, surfaces, or hypersurfaces evaluated at a finite subset of some interval in one-, two- or three-dimensional Euclidean spaces (for example, some period of time, some range of pixels or voxels, and so on). The independent and identically distributed functional data are sometimes referred to as first-generation functional data. Modern studies from a variety of fields record multiple functional observations according to either multivariate, high-dimensional, multilevel, or time series designs. Such data are called next-generation functional data. This project will elevate the focus on developing machine learning (ML) and artificial intelligence-based methodologies tailored for the next-generation of functional data analysis (FDA). The project will bridge the gap between theoretical knowledge and practical application in ML and FDA. While there have been efforts to integrate ML into the FDA field, these initiatives have predominantly concentrated on handling relatively straightforward formats of functional data. In addition, multiple student research training opportunities will be offered, and high-performance statistics software packages will be developed. These packages will enable researchers from various disciplines to investigate complex relationships that exist among modern functional data.&lt;br/&gt;&lt;br/&gt;The widespread utilization of resilient digital devices has led to a notable increase of dependent, high-dimensional, and multi-way functional data. Consequently, the existing toolkit’s efficiency diminishes when tasked with addressing emerging FDA challenges. The PI will introduce: (i) Deep neural networks-based Lasso for dependent FDA; (ii) Optimal multi-way FDA; and (iii) Transfer learning for FDA, and will develop flexible and intelligent ML based estimators, classifiers, clusters, and investigate their statistical properties including the bounds of the prediction errors, convergence rates and minimax excess risk. The proposed methodology will be particularly useful for modeling complex functional data whose underlying structure cannot be properly captured by the existing statistical methods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413301</AwardID>
+<Investigator>
+<FirstName>Guanqun</FirstName>
+<LastName>Cao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Guanqun Cao</PI_FULL_NAME>
+<EmailAddress><![CDATA[caoguanq@msu.edu]]></EmailAddress>
+<NSF_ID>000682829</NSF_ID>
+<StartDate>06/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~170000</FUND_OBLG>
+</Award>
+</rootTag>

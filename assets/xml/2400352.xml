@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Manipulating the Thermal Properties of Two-Dimensional Materials Through Interface Structure and Chemistry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>352829.00</AwardTotalIntnAmount>
+<AwardAmount>352829</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Lane</SignBlockName>
+<PO_EMAI>plane@nsf.gov</PO_EMAI>
+<PO_PHON>7032922453</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Description&lt;br/&gt;&lt;br/&gt;Any owner of a mobile phone or laptop computer knows how hot they can get when being used. This is why electronic devices are engineered to shed heat and reduce the temperature under operation. This problem is critical at the nanoscale, where it is necessary to control thermal conduction at boundaries between different materials and components. Consider two-dimensional (2D) materials such as graphene, which have shown great promise. These consist of layers of atoms that are tightly bound in the plane and weakly bound between layers. If heat cannot be efficiently transported between layers, there would be significant limits to the use of 2D materials in next generation electronics. On the other hand, a strong thermal boundary could provide the potential for remarkable materials with thermal isolation better than air. The need to understand and control thermal boundary conductance at 2D-2D interfaces and between 2D and bulk materials motivates this project. Investigators will manipulate the thermal properties of 2D materials through changes in their interface structure and chemistry. Investigators will study how to control physical coupling and the effect of novel heat transfer mechanisms. An integral part of this project will be to develop experiential education programs for underrepresented students at the University of Texas at Dallas, the Carnegie Institute of Washington, and local high schools and community colleges. The researchers will work with local museums to develop new artwork conservation programs using optical techniques such as Raman spectroscopy.&lt;br/&gt;&lt;br/&gt;Technical Description&lt;br/&gt;&lt;br/&gt;A major gap in the present knowledge of thermal boundary conductance (TBC) is how it can be manipulated by changing the structure of 2D-2D and 2D-bulk interfaces. As these interfaces are often set when the sample is fabricated, only a subset of structure-property relationships has been investigated, and often across disparate samples subject to the variation common to 2D materials. This project is applying extreme pressure within a diamond anvil cell as a new technique for broadly changing the structure of the same interface while measuring the TBC. This is allowing researchers to decode fundamental knowledge on the structure-property relationships for the TBC while also gaining insights into practical pathways for manipulating the thermal properties of 2D materials and thermal limitations of 2D devices. Specific structural and chemical changes at the interface include (1) the increase of physical coupling, (2) the transition from nonbonded to bonded chemistry, and (3) the onset of new phononic and nonphononic heat transfer mechanisms. Raman spectroscopy at optical wavelengths is being used to simultaneously characterize the interface and measure the TBC. The measurements are backed by first-principles modeling and molecular dynamics simulations. In addition to the TBC, these models are allowing researchers to identify renormalizations of the phonon dispersion and scattering, which can affect many phonon-limited areas of energy transport and conversion in 2D materials.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/13/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/13/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400352</AwardID>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Brenner</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kevin A Brenner</PI_FULL_NAME>
+<EmailAddress><![CDATA[kevin.brenner@utdallas.edu]]></EmailAddress>
+<NSF_ID>000620217</NSF_ID>
+<StartDate>02/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Dallas]]></Name>
+<CityName>RICHARDSON</CityName>
+<ZipCode>750803021</ZipCode>
+<PhoneNumber>9728832313</PhoneNumber>
+<StreetAddress><![CDATA[800 WEST CAMPBELL RD.]]></StreetAddress>
+<StreetAddress2><![CDATA[SP2.25]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EJCVPNN1WFS5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT DALLAS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Dallas]]></Name>
+<CityName>RICHARDSON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>750803021</ZipCode>
+<StreetAddress><![CDATA[800 WEST CAMPBELL RD.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177500</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>106Z</Code>
+<Text>Microelectronics and Semiconductors</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8615</Code>
+<Text>Nanoscale Devices and Systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~352829</FUND_OBLG>
+</Award>
+</rootTag>

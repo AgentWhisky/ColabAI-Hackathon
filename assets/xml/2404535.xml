@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Topics in Geometrical Optics and Kinematics: Billiard Models and Tire Track Geometry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stacey Levine</SignBlockName>
+<PO_EMAI>slevine@nsf.gov</PO_EMAI>
+<PO_PHON>7032922948</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project comprises two topics: billiard models and geometrical optics, and models of vehicle motion and tire track kinematics. The first part of the project addresses fundamental challenges of ray optics and mathematical billiards that model mechanical systems with elastic collision, such as the ideal gas. Geometrical optics provide a good approximation for many applications, such as trapping rays of light and storing solar energy, invisibility, and laser beam shaping. The second part addresses vehicle kinematics, studied both theoretically and via computer experiments.  Applications include control of tractors with many trailers, preventing driving hazard, motion planning for robots, flotation theory, such as the stability of floating bodies, and modeling of the Josephson effect that plays an essential role in constructing quantum-mechanical circuits. This project will also contribute to the training of graduate researchers.&lt;br/&gt;&lt;br/&gt;The mathematical scope of this project is closely related with the theory of completely integrable systems. The billiard (optical) reflection is a symplectic transformation of the space of oriented lines (rays of light), making it possible to use methods of Hamiltonian dynamics and symplectic topology in the study of billiards. For example, the known designs of optical traps for parallel beams of light make use of the complete integrability of the billiard systems inside quadratic surfaces. The second part of the project concerning models of vehicle motion involves methods of sub-Riemannian geometry and Hamiltonian mechanics. A relation with the theory of completely integrable systems is manifested in the fact that the optimal vehicle trajectories, and also the sections of the cylindrical bodies that float in equilibrium in all positions, have the shape of solitons of the filament equation, a well-studied completely integrable system that models the motion of fluid and gas vortices.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404535</AwardID>
+<Investigator>
+<FirstName>Serge</FirstName>
+<LastName>Tabachnikov</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Serge L Tabachnikov</PI_FULL_NAME>
+<EmailAddress><![CDATA[tabachni@math.psu.edu]]></EmailAddress>
+<NSF_ID>000356802</NSF_ID>
+<StartDate>05/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168021503</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPM2J7MSCF61</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE PENNSYLVANIA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>168021503</ZipCode>
+<StreetAddress><![CDATA[109B Mcallister Building]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

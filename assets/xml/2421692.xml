@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Trailblazer: Solving the Grand Self-Amplifying RNA (saRNA) Challenge]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>3000000.00</AwardTotalIntnAmount>
+<AwardAmount>3000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07040000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EFMA</Abbreviation>
+<LongName>Emerging Frontiers &amp; Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alias Smith</SignBlockName>
+<PO_EMAI>alismith@nsf.gov</PO_EMAI>
+<PO_PHON>7032928367</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will address a decades-long challenge in the field of ribonucleic acid (RNA). In cells, RNA is responsible for producing proteins, which perform various functions from structural support and cell movement to signaling. Delivering RNA to a cell is a way to replace or supplement a natural protein. However, RNA is short-lived and, thus, minimal protein is produced over a short time. RNA that self-amplifies produces more protein and for a longer time, but self-amplifying RNA (saRNA) degrades quickly inside a cell. The team has discovered a method to modify saRNA so it lasts longer inside a cell, which advances RNA technology and opens previously unattainable opportunities across diverse industries, from farming to medicine. The senior personnel on this project will lead a diverse research team to educate, train, and mentor graduate and high school students and postdoctoral fellows, as well as to engage with the community through outreach and communication. They will share their findings through publications, presentations, and workshops helping to train a new generation of engineers with unique skills that will advance our economy and global standing in RNA engineering.&lt;br/&gt;&lt;br/&gt;Ribonucleic acid (RNA) technologies, such as self-amplifying RNA (saRNA), will fundamentally alter the genetic engineering paradigm in eukaryotes and offer substantial promise over other genetic tools, such as messenger ribonucleic acid (mRNA) and deoxyribonucleic acids (DNA). Unlike mRNA, saRNA replicates with longer durability and greater protein expression. Yet, in contrast to DNA, saRNA does not need to enter the nucleus to function, greatly simplifying the delivery and eliminating genome integration concerns. While promising, significant hurdles remain for performance optimization to improve its short half-life in cells. Building upon the team’s discovery that incorporation of modified nucleoside triphosphates (modNTPs) in saRNA extends the cellular half-life, the team will: 1) synthesize a diverse library of new modified nucleoside triphosphates (modNTPs) and perform in vitro transcription to prepare modified self-amplifying ribonucleic acid (saRNA); 2) evaluate the performance of the modified saRNA in functional protein expression screens; 3) determine the performance of saRNA derived from other viruses and optimize protein expression and duration using AI-assisted methodologies; and, 4) build polycistronic gene expression and logic gates into saRNA to enable greater engineering control. The detailed and systematic experimental study described herein will create a powerful synthetic RNA genome platform for engineers and scientists to use across the disciplines.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421692</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Grinstaff</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark W Grinstaff</PI_FULL_NAME>
+<EmailAddress><![CDATA[mgrin@bu.edu]]></EmailAddress>
+<NSF_ID>000409135</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151703</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>THL6A6JLE1S7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF BOSTON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>022151703</ZipCode>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>763300</Code>
+<Text>EFRI Research Projects</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~3000000</FUND_OBLG>
+</Award>
+</rootTag>

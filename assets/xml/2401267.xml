@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Two-Dimensional Magnets in Spintronic Devices: Roles of Spin Fluctuations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>360000.00</AwardTotalIntnAmount>
+<AwardAmount>360000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Supriyo Bandyopadhyay</SignBlockName>
+<PO_EMAI>sbandyop@nsf.gov</PO_EMAI>
+<PO_PHON>7032925392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In magnetic materials, intriguing quasi-particles called magnons exist. Much like the spin of an electron, magnons possess angular momentum but lack electric charge. Unlike electron currents, which incur energy losses through Joule heating, the flow of magnons, known as magnon current, offers significantly higher energy efficiency. This project undertakes a comprehensive theoretical investigation of magnon devices built upon two-dimensional (2D) magnetic materials. The primary objective is to elucidate the mechanisms underlying the generation, propagation, and detection of magnon currents within realistic 2D structures. Specifically, the project endeavors to identify material parameters capable of engendering a magnon current comparable to, or even surpassing, conventional electron spin currents. The insights gleaned from this research hold promise for the development of magnon current-driven devices characterized by substantially reduced power consumption. Additionally, the educational component of this proposal is extensive, aiming to actively involve students in hands-on research, provide training opportunities, facilitate visits to industry labs, and enhance the spintronics course curriculum. Leveraging the Principal Investigator's extensive experience spanning over two decades in teaching spintronics, this project seeks to enrich the educational landscape by immersing students in cutting-edge research endeavors.&lt;br/&gt;Distinctly from three-dimensional systems, two-dimensional materials demonstrate significant quantum fluctuations, critically influencing both equilibrium and non-equilibrium magnetic characteristics. Existing semiclassical models that overlook these quantum fluctuations often fall short for two-dimensional systems. The present project sets out to create novel modeling tools tailored for two-dimensional material-based spintronic devices. The objective is to assess the repercussions of spin fluctuations on spin transport properties, using experimentally observed materials as a benchmark. The specific focus is placed on a holistic theoretical approach addressing magnon conductance, spin pumping, magnon drag, and spin-charge conversion in the setting of two-dimensional heterostructures. Venturing into the granular spin models of these materials, the proposed theoretical model is to elucidate the intrinsic role of spin fluctuations in molding spintronic devices. Furthermore, the goal extends to utilizing these innovative theoretical models to meticulously analyze experimental outcomes and projecting the emergence of novel spintronic phenomena intrinsic to the pronounced quantum spin fluctuations. The research will shed light on the distinctions in two- and three-dimensional device responses to spin current and external magnetic fields. A thorough grasp of thermal and quantum fluctuation impacts – from magnetic topological states, spin Hall, and spin currents, to spin torques and magnetization reversals – can catalyze advancements in spintronic devices hinging on two-dimensional magnetic materials and provide substantial insights into low-dimensional physics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/25/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/25/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401267</AwardID>
+<Investigator>
+<FirstName>Shufeng</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shufeng Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[zhangs@physics.arizona.edu]]></EmailAddress>
+<NSF_ID>000198720</NSF_ID>
+<StartDate>03/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Arizona</Name>
+<CityName>TUCSON</CityName>
+<ZipCode>85721</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress>845 N PARK AVE RM 538</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ED44Y3W6P7B9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ARIZONA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Arizona]]></Name>
+<CityName>Tucson</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>857210001</ZipCode>
+<StreetAddress><![CDATA[1118 E 4th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1517</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>107E</Code>
+<Text>Magnetics and spin electronics</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~360000</FUND_OBLG>
+</Award>
+</rootTag>

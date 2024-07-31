@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Heegaard Diagrams and Holomorphic Disks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>370000.00</AwardTotalIntnAmount>
+<AwardAmount>370000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Swatee Naik</SignBlockName>
+<PO_EMAI>snaik@nsf.gov</PO_EMAI>
+<PO_PHON>7032924876</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Heegaard Floer homology is a tool for studying the topology of three- and four-dimensional objects, discovered by the PI in collaboration with Zoltan Szabo. The construction is deeply rooted in the interaction between modern mathematical methods and ideas from mathematical physics; and indeed, Heegaard Floer homology has found interactions with many other mathematical fields, including symplectic geometry, analysis, representation theory, and homological algebra. But in its essence, Heegaard Floer homology was designed to study low-dimensional phenomena, such as how knotted a circle can be in a three-dimensional manifold, how knotted two-dimensional surfaces can be in four-dimensional space, and how interesting a four-dimensional space can be.  The project aims to further explore the topological applications of Heegaard Floer homology; and to further build the foundations of this invariant, both to develop computational schemes and to build a broader theoretical framework into which the theory fits in algebraically. The project will also help support graduate students studying in low-dimensional topology and related areas.&lt;br/&gt;&lt;br/&gt;The project will further develop bordered aspects of Heegaard Floer homology, specifically for dealing with its U-unspecialized versions, which are more sensitive to four-dimensional differential topology than the U-specialized versions. Parts of the project involve collaborations with other researchers, including Robert Lipshitz, Zoltan Szabo, and Dylan Thurston. Joint work with Lipshitz and Thurston sets up the algebraic background needed for this extension of weighted A-infinity algebras, their tensor products, and modules; constructed the weighted A-infinity module for the torus; weighted modules associated to three-manifolds with (bordered) torus boundary. The project aims at proving a pairing theorem, which expresses the Heegaard Floer homology module of a union of two three-manifolds glued along a torus as a suitable tensor product of the modules associated to the two manifolds. The project also aims to generalize the picture to three-manifolds whose boundary is a closed, hyperbolic surface. In a different direction, the project aims to give a description of the full (unspecialized) knot Floer complex in terms of a knot projection, as a tensor product of bimodules associated to the elementary pieces.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/13/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/13/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404953</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Ozsvath</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter S Ozsvath</PI_FULL_NAME>
+<EmailAddress><![CDATA[petero@math.princeton.edu]]></EmailAddress>
+<NSF_ID>000368167</NSF_ID>
+<StartDate>05/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085442001</ZipCode>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126700</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~370000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Dual Series Gate Configuration, Materials Design, and Mechanistic Modeling for Drift-Stabilized, Highly Sensitive Organic Electrochemical Transistor Biosensors]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aleksandr Simonian</SignBlockName>
+<PO_EMAI>asimonia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922191</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Many medical conditions can be detected or diagnosed by analyzing chemical compounds circulating in bodily fluids. Some of the compounds with the most specific connection to diseases are proteins. To confidently detect proteins quickly and easily, electronic sensors that signal when they are in contact with the proteins are needed. One way to improve the certainty that a sensor signal is indicating the presence of a particular protein is to  remove signals that come from other compounds in the liquids being analyzed, like salt, fats, or non-target proteins. This project will investigate a new circuit, constructed with new biologically-derived electronic materials, designed to remove these unwanted signals. If one part of a circuit responds to an interfering protein, another part cancels the signal out. The activities of the proposal include making new electronic materials for the circuits and devising computer models that teach the mechanism by which the materials would respond when used. Other activities will attract and train students at multiple levels, high school through college, in materials, electronic, computer, and analytical technologies. Graduate students will gain highly multidisciplinary training, including polymer synthesis, surface electronics, device technology, and theoretical modeling. Students from underrepresented minority populations will be recruited to work on this project through outreach to the summer “Explore Engineering Innovation” and “Biomedical Engineering Innovation” courses at Johns Hopkins University. A demonstration and modeling activity for this course will be developed.&lt;br/&gt;&lt;br/&gt;There is an ongoing need for fast, sensitive, and stable sensors for disease biomarkers. Electronic biosensors signal biomarker complexation to receptors via changes in local electronic parameters such as interfacial potential and complex impedance. The origins of these parameter changes include ionic redistributions, functional group reorientation, and changes in the polarizability of receptors and are reported via field-effect transistors (FETs). However, FET baseline instability remains a barrier to sensitive and reliable biomarker detection. This project explores an unprecedented “dual-series gate” organic electrochemical transistor (DS-OECT) that substantially cancels baseline instability for greater signal/drift ratios, enabling assignment of instability to surface potential and impedance fluctuations. A pair of device interfaces connected in opposite polarities decrease response drift, increasing the probability of correct analyte identification. The objectives include material synthesis, device fabrication, computer modeling, and biological fluid analysis. Various hypotheses about the device response mechanisms will be tested.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402407</AwardID>
+<Investigator>
+<FirstName>Howard</FirstName>
+<LastName>Katz</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Howard E Katz</PI_FULL_NAME>
+<EmailAddress><![CDATA[hekatz@jhu.edu]]></EmailAddress>
+<NSF_ID>000193628</NSF_ID>
+<StartDate>04/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tine</FirstName>
+<LastName>Curk</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tine Curk</PI_FULL_NAME>
+<EmailAddress><![CDATA[tcurk@jhu.edu]]></EmailAddress>
+<NSF_ID>000894669</NSF_ID>
+<StartDate>04/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212182608</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTMTDMBR29C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE JOHNS HOPKINS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212182608</ZipCode>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>790900</Code>
+<Text>BIOSENS-Biosensing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1639</Code>
+<Text>SENSORS AND SENSING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~450000</FUND_OBLG>
+</Award>
+</rootTag>

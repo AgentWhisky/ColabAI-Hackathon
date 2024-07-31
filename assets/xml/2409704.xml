@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRII: SCH: Developing a new hybrid interactive machine learning software tool for cancer researchers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>174716.00</AwardTotalIntnAmount>
+<AwardAmount>172658</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy Nilsen</SignBlockName>
+<PO_EMAI>wnilsen@nsf.gov</PO_EMAI>
+<PO_PHON>7032922568</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded in whole or in part under the American Rescue Plan Act of 2021 (Public Law 117-2).&lt;br/&gt;&lt;br/&gt;Recent advances in technology enable cancer researchers to detect the disease more effectively. Digital slide scanners produce very high-resolution images of tissue samples and specialized artificial intelligence software tools help medical and scientific experts in interpreting the tissue area. However, existing software tools detecting cancer areas have a limited capability to conduct integrated prediction of the cancer and the prediction has been performed based on either through hand-crafted features or deep learning generated features. This project will develop an open-source hybrid interactive machine learning software tool that will enable pathologists to interactively detect cancer areas promptly and with high accuracy in the whole slide images. This will be done by fusing hand-crafted features identified by clinical researchers and deep learning generated features so that cancer researchers can easily define the regions within which they can extract features of interest. The proposed hybrid interactive machine learning software tool will benefit regions such as Appalachia, which have a lack of pathologists. The software tool developed will eventually reduce the cost of cancer diagnosis and treatment. Moreover, the successful accomplishment of the proposed research work can affect the enhancement of other research areas needed for heterogeneous data analysis extending to meteorology and ecology in the interpretation of intensity variation. The accomplished results of the proposed research works will also promote the interest in cancer research in K-12, undergraduate, and graduate locally and nationally, through synergistic research and education activities.&lt;br/&gt;&lt;br/&gt;The goal of this project is to develop an open-source hybrid interactive machine learning software tool using hybrid features generated from two distinct features providing better accuracy by element-wise multiplication after dimensionality reduction. The two distinct features will be matched by transforming the high dimensional space of deep learning generated features into the low dimensional space of hand-crafted features. The element-wise multiplication will maintain the histologic feature information of both hand-crafted features and deep learning generated features.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/21/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409704</AwardID>
+<Investigator>
+<FirstName>Sanghoon</FirstName>
+<LastName>Lee</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sanghoon Lee</PI_FULL_NAME>
+<EmailAddress><![CDATA[slee297@kennesaw.edu]]></EmailAddress>
+<NSF_ID>000818974</NSF_ID>
+<StartDate>12/21/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Kennesaw State University Research and Service Foundation]]></Name>
+<CityName>KENNESAW</CityName>
+<ZipCode>301445588</ZipCode>
+<PhoneNumber>4705786381</PhoneNumber>
+<StreetAddress><![CDATA[1000 CHASTAIN RD NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G8DZHNRKWTN3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>KENNESAW STATE UNIVERSITY RESEARCH AND SERVICE FOUNDATION, INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Kennesaw State University Research and Service Foundation]]></Name>
+<CityName>KENNESAW</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>301445588</ZipCode>
+<StreetAddress><![CDATA[1000 CHASTAIN RD MAILSTOP 0111]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>801800</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~153058</FUND_OBLG>
+<FUND_OBLG>2024~19600</FUND_OBLG>
+</Award>
+</rootTag>

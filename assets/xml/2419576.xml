@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Empirical Frequency Band Analysis for Functional Time Series]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>250669.00</AwardTotalIntnAmount>
+<AwardAmount>210240</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yulia Gel</SignBlockName>
+<PO_EMAI>ygel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927888</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Monitoring seasonal storms over time is an essential component of understanding long-term atmospheric trends and producing reliable seasonal forecasts. A well-established measure of the location and intensity of mid-latitude storms uses the temporal variance of wind velocity within a certain frequency band. There are two areas of large variance, extending from the East Coasts of Asia and North America out into the Pacific and Atlantic Oceans respectively, and the location of these "storm tracks" and their intensities vary from year to year. However, the measured configurations and strength of the storm tracks are sensitive to the choice of frequency band, and there are currently no data-driven techniques for identifying frequency bands that appropriately characterize trends in wind velocity variability. Understanding the relative strength of higher frequencies (cyclone growth and propagation) vs. lower frequencies (cyclone occlusion and decay) as a function of location and season, as well as long-term trends in the locations and characteristics of storm tracks, aids climate researchers in assessing spatial and time trends in atmospheric conditions. This project aims to develop data-driven procedures to enhance this effort by establishing optimal summary measures for characterizing differences in wind velocity trends among frequencies. The research team will develop, validate, and openly share software and analytical tools for adaptive frequency band estimation that adequately summarizes time-varying dynamics and accounts for the complex interaction between the spatial and temporal dependence in atmospheric conditions. In addition, the project includes professional training through a transdisciplinary program in atmospheric sciences and computational and theoretical statistics. The activities include supervision of doctoral theses and undergraduate capstone projects, as well as talks for local high school students interested in research at the intersection of statistics and atmospheric sciences.&lt;br/&gt;&lt;br/&gt;The frequency-domain properties of nonstationary functional time series often contain valuable information. These properties are characterized through their time-varying power spectra. Practitioners seeking low-dimensional summary measures of the power spectrum often partition frequencies into bands and create collapsed measures of power within these bands. However, standard frequency bands may not provide adequate summary measures of the power spectrum. There is need for a standardized, quantitative approach to objectively identify frequency bands that can best summarize spectral information, which for nonstationary functional time series is especially challenging due to the high dimensionality. This project seeks to establish a new data-driven framework for adaptive frequency band estimation for nonstationary functional time series that adequately summarizes the time varying dynamics of the series and simultaneously accounts for the complex interaction between the functional and temporal dependence structures. The three specific aims associated with this effort are: (1) to develop methodology for local frequency band estimation of a nonstationary functional time series that best preserves nonstationary spectral information localized within the functional domain, (2) to develop new methodology for local frequency band estimation of a multivariate nonstationary functional time series that best preserves the joint nonstationary spectral information among multiple functional time series localized within the functional domain, and (3) to develop new approaches for multivariate frequency band estimation of a nonstationary functional time series that best preserves nonstationary spectral information localized within a multidimensional frequency domain. Theoretical validity of these procedures will be established, and computationally efficient estimation procedures will be designed to ensure scalability. Extensive simulation studies will be conducted to explore the empirical and computational properties of the new methods, which are expected to enhance understanding of hidden mechanisms behind storm dynamics and thereby contribute to enhanced resilience to adverse climatic events.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419576</AwardID>
+<Investigator>
+<FirstName>Pramita</FirstName>
+<LastName>Bagchi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pramita Bagchi</PI_FULL_NAME>
+<EmailAddress><![CDATA[pramita.bagchi@gwu.edu]]></EmailAddress>
+<NSF_ID>000786541</NSF_ID>
+<StartDate>04/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[George Washington University]]></Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200520042</ZipCode>
+<PhoneNumber>2029940728</PhoneNumber>
+<StreetAddress><![CDATA[1918 F ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ECR5E2LU5BL6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE WASHINGTON UNIVERSITY (THE)</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Washington University]]></Name>
+<CityName>WASHINGTON</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200520042</ZipCode>
+<StreetAddress><![CDATA[1918 F ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>745400</Code>
+<Text>MSPA-INTERDISCIPLINARY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>806900</Code>
+<Text>CDS&amp;E-MSS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1303</Code>
+<Text>CLIMATE MODELING &amp; PREDICTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5294</Code>
+<Text>USGCRP</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~210239</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Arithmetic of Thin Groups and Isogeny-Based Cryptography]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>350000.00</AwardTotalIntnAmount>
+<AwardAmount>175000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In this project, the PI studies a class of questions relating number theory and geometry which have certain mathematical underpinnings in common.  These questions concern basic research in the arithmetic of group orbits (which are collections of integers arising from the recursive application of certain symmetries) and the underlying mathematics of certain new cryptographic schemes.  In particular, the latter aspect of the project is directly in service of the development of post-quantum cryptography, namely, cryptography which will be secure against the eventual development of quantum computers to scale.  The project will support the training of graduate students, as well as the Experimental Mathematics Lab at the University of Colorado Boulder, which aims to broaden undergraduate participation in mathematical research, including students who will go on to many roles in society.  It will also support the Numberscope project, which is an outreach project aimed at scientists, artists and the general public.&lt;br/&gt;&lt;br/&gt;In the first branch of research, the PI studies certain families of integers which arise in orbits of thin groups.  Group orbits of various kinds have been studied throughout the history of number theory, including for example points on elliptic curves (upon which much of modern cryptography is based) and Pythagorean triples.  The orbits studied in this project come from a class of groups (thin groups) for which effective tools are harder to create.  These arise, for example, from the study of continued fractions.  However, one expects certain high-level phenomena to occur in both the old and new settings.  One such example is local-to-global phenomena, where the PI will study the extent to which knowledge of local information (with respect to individual primes) controls global information (the integers in the orbit).  The second aspect of the project concerns cryptographic applications of number theory.  One of the current candidates for post-quantum cryptography is isogeny-based cryptography, which is based on elliptic curves.  The security of mathematical public-key cryptography is based on hard problems, and the hard problems of isogeny-based cryptography demand scrutiny as part of the development and eventual deployment (or breaking) of such schemes.  This project studies the difficulty of these underlying hard problems, namely the path-finding and endomorphism ring problems for supersingular isogeny graphs, by studying the graphs themselves.  As always, the scope of the project allows for further serendipitous discoveries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401580</AwardID>
+<Investigator>
+<FirstName>Katherine</FirstName>
+<LastName>Stange</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Katherine E Stange</PI_FULL_NAME>
+<EmailAddress><![CDATA[kstange@math.colorado.edu]]></EmailAddress>
+<NSF_ID>000079806</NSF_ID>
+<StartDate>04/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress><![CDATA[3100 MARINE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 481 572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>BOULDER</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803090001</ZipCode>
+<StreetAddress><![CDATA[3100 MARINE ST STE 481 572 UCB]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>806000</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~175000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Investigate the structural and electronic properties of Pd1-N8/CNT]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert McCabe</SignBlockName>
+<PO_EMAI>rmccabe@nsf.gov</PO_EMAI>
+<PO_PHON>7032924826</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Selective hydrogenation of acetylene to ethylene is an important industrial purification process that removes trace amount of acetylene from ethylene, thus protecting downstream chemical processes that convert ethylene to polymers and other important chemicals. This EArly-concept Grant for Exploratory Research (EAGER) project will investigate the structural and electronic properties of a novel catalyst design for selective acetylene conversion to ethylene. The catalyst design has already shown improved performance with respect to conventional catalyst designs.  However, additional research is needed to better understand the mechanisms by which the catalyst works, thus opening the door to improved performance and extension of the catalyst design to additional materials combinations and other reactions.  The project also provides resources for the investigator to train undergraduate and high-school students in aspects of catalysis research.&lt;br/&gt;&lt;br/&gt;The project focuses on improved design of a novel catalyst structure consisting of metal (M) single-atoms catalysts (M-SACs) supported on carbon nanotubes (CNTs).  In particular, the design consists of Pd single-atoms deposited on 8-member polynitrogen strands anchored on the CNTs (i.e., Pd1-N8/CNT).  The catalyst design provides a high density of active sites for hydrogen splitting, consisting of proximate N and Pd single sites that work in concert to both adsorb acetylene and react it with H-atoms to ethylene.  Although the investigator’s preliminary work confirms that a Pd1-N8/CNT catalyst system is significantly more selective than CNTs without the polynitrogen structure, additional details regarding the differences in properties are needed to advance the concept. Thus, the project will employ a suite of characterization methods including HR-TEM, XPS, XAFS, TPD and CO-DRIFTs techniques, to probe the structural and electronic properties of the Pd1-N8/CNT catalyst versus the baseline (i.e. non-SAC) Pd-N/CNT catalyst.  The resulting data will open the door to optimization studies and extension of the design to additional materials and hydrogenation reactions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2433721</AwardID>
+<Investigator>
+<FirstName>Xianqin</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xianqin Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[xianqin.wang@njit.edu]]></EmailAddress>
+<NSF_ID>000524525</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New Jersey Institute of Technology]]></Name>
+<CityName>NEWARK</CityName>
+<ZipCode>071021824</ZipCode>
+<PhoneNumber>9735965275</PhoneNumber>
+<StreetAddress><![CDATA[323 DR MARTIN LUTHER KING JR BLV]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SGBMHQ7VXNH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW JERSEY INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New Jersey Institute of Technology]]></Name>
+<CityName>NEWARK</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>071021824</ZipCode>
+<StreetAddress><![CDATA[323 DR MARTIN LUTHER KING JR BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>140100</Code>
+<Text>Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~150000</FUND_OBLG>
+</Award>
+</rootTag>

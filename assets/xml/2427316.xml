@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SHF: Small: Artificial Intelligence of Things (AIoT): Theory, Architecture, and Algorithms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/15/2023</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>409355.00</AwardTotalIntnAmount>
+<AwardAmount>386682</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The fusion of AI and IoT creates Artificial-Intelligence-of-Things (AIoT), which is expected to not only boost the intelligence on end devices, but also unleash the power of IoT data better and faster. Given the presence of confidential and distributed IoT data in many fields, federated learning has been one promising approach to unlock the potential of AIoT by enabling collaborative intelligence without migrating private end-device data to a central server. However, the heavy burden of state-of-the-art AI on storage and computing resources stands at odds with most IoT hardware platforms that are resource-constrained, which raises daunting challenges when deploying federated intelligence in AIoT. The research team explores hardware-efficient AI techniques to support federated knowledge transfer across diverse IoT hardware platforms to expand the scope of AIoT from theory, architecture, and algorithm perspectives. The proposed research brings tangible benefits to a broad range of disciplines that employ AI and IoT technologies, promoting the fusion of AI and IoT. The project provides training opportunities for undergraduate and graduate students from underrepresented groups. The outreach efforts on AIoT topics and research findings are directed towards K-12 audiences. &lt;br/&gt;&lt;br/&gt;This project provides the theoretical and empirical evidence to facilitate the deployment of hardware-efficient AI techniques in federated IoT environments, which fills a critical void - the existing approaches fail to address the widespread resource, efficiency, and privacy challenges in AIoT. This project consists of four aspects: (1) enabling hardware-efficient AI from microscope operations, neural quantization, to theoretically guide specialized quantization for federated intelligence across various IoT hardware platforms, (2) exploring another ground-breaking hardware-efficient AI technique, neural architecture pruning, to seek optimal sub-network architectures in a data-agnostic manner, (3) identifying new privacy vulnerabilities and developing defensive mechanisms for the AIoT designs to encourage broad participation, (4) establishing a general-purpose AIoT testbed. Through the architecture-algorithm-hardware co-design, the research intends to unleash the utmost potential of various IoT hardware platforms and federated intelligence to expand the scope of AIoT applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2427316</AwardID>
+<Investigator>
+<FirstName>Xiaoyong</FirstName>
+<LastName>Yuan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaoyong Yuan</PI_FULL_NAME>
+<EmailAddress><![CDATA[xyyuan@mtu.edu]]></EmailAddress>
+<NSF_ID>000826560</NSF_ID>
+<StartDate>04/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Clemson University]]></Name>
+<CityName>CLEMSON</CityName>
+<ZipCode>296340001</ZipCode>
+<PhoneNumber>8646562424</PhoneNumber>
+<StreetAddress><![CDATA[201 SIKES HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H2BMNX7DSKU8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CLEMSON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Clemson University]]></Name>
+<CityName>CLEMSON</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>296340001</ZipCode>
+<StreetAddress><![CDATA[201 SIKES HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7941</Code>
+<Text>COMPUTER ARCHITECTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~386682</FUND_OBLG>
+</Award>
+</rootTag>

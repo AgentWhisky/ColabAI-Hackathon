@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CCRI: New: A Software Refactoring Community Infrastructure]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>501097.00</AwardTotalIntnAmount>
+<AwardAmount>426013</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Damian Dechev</SignBlockName>
+<PO_EMAI>ddechev@nsf.gov</PO_EMAI>
+<PO_PHON>7032928910</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Software Refactoring plays a crucial role in maintaining high-quality software by re-structuring existing code and reducing technical debt. Despite more than 5,000 authors publishing refactoring papers in the last two decades, refactoring researchers, students, and new community members lack publicly available refactoring benchmarks, tools, and datasets. They must frequently replicate existing refactoring research from scratch – this wastes time, effort, and introduces threats to validity. The project's novelties are to create and disseminate a repository of software refactoring-related artifacts and online tools, to enable refactoring as a service, sufficient to support rigorous empirical studies and experiments with the detection, prioritization, repair, testing, and documentation of software quality issues across a broad community of researchers, educators, software engineers, and STEM researchers. The project's impacts relate to issues of great economic impact: large software companies spend millions of dollars yearly to reduce the technical debt through refactoring. The publicly-released infrastructure will support the transition of refactoring research into practice and will enable STEM researchers to better maintain their software prototypes as these inevitably decay. The proposed infrastructure REFCRI will be a catalyst for revamping software engineering courses at many universities to emphasize real-world examples of refactoring and will offer tremendous education resources for practitioners. The investigators will organize workshops on the platform to foster a thriving community.&lt;br/&gt;&lt;br/&gt;The investigators will curate a repository of refactoring data sets via data pre-processing techniques to (i) clean the data, and (ii) check its coverage and diversity. The team of this project will release an API to allow the refactoring community to easily upload datasets, refactoring teaching examples/tutorials, tools, and publications. The data sets will serve as benchmarks that enable researchers to validate new tools and will enable new empirical studies in the field of software engineering. The data sets will provide realistic training examples and tools to enhance the integration of refactoring into software engineering curricula and will serve as a tremendous educational resource for practitioners. The investigators will integrate and orchestrate (based on Kubernetes) multiple tools covering the whole lifecycle of refactoring by automatically transforming the inputs/outputs of existing tools into generic data processing formats and packaging tools as Docker images. They will make existing refactoring tools easy to configure, execute, and integrate. REFCRI will re-implement several refactoring tools, from papers and repositories, as services in the cloud. The investigators will first automatically mine millions of examples of refactorings that open-source developers applied manually and then they will use them to recommend and synthesize new refactorings-by-example to support Python and other data science languages widely used by the STEM community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409729</AwardID>
+<Investigator>
+<FirstName>Marouane</FirstName>
+<LastName>Kessentini</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marouane Kessentini</PI_FULL_NAME>
+<EmailAddress><![CDATA[marouane@umich.edu]]></EmailAddress>
+<NSF_ID>000636346</NSF_ID>
+<StartDate>02/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Flint</Name>
+<CityName>FLINT</CityName>
+<ZipCode>485021907</ZipCode>
+<PhoneNumber>3137623000</PhoneNumber>
+<StreetAddress>303 E KEARSLEY ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L8QSLB2KCRE5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Flint]]></Name>
+<CityName>FLINT</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>485021907</ZipCode>
+<StreetAddress><![CDATA[303 E KEARSLEY ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7359</Code>
+<Text>CCRI-CISE Cmnty Rsrch Infrstrc</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~426013</FUND_OBLG>
+</Award>
+</rootTag>

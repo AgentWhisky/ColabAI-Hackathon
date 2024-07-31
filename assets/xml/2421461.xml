@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[TRAILBLAZER: Biodegradable Living Materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>2972873.00</AwardTotalIntnAmount>
+<AwardAmount>2972873</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07040000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EFMA</Abbreviation>
+<LongName>Emerging Frontiers &amp; Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alias Smith</SignBlockName>
+<PO_EMAI>alismith@nsf.gov</PO_EMAI>
+<PO_PHON>7032928367</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>There are numerous examples of biologically inspired robots that mimic features of animals and plants, and many can operate in natural environments. However, the overwhelming majority of these devices are rigid, inorganic, and created from toxic and/or non-biodegradable materials; they are in many ways the antithesis of the organisms that they mimic. Roboticists often cite tasks in natural environments – forests, oceans, farms – as quintessential examples of the broad utility and future of robotics. However, operation in any of these environments is impossible or highly impractical if the robots performing these tasks cannot autonomously return “home”. Furthermore, failure of any individual robot would require human intervention or result in environmental contamination by a “dead” robot left behind. This project will develop “living materials” that can be composed to create biodegradable robots that operate autonomously in natural environments. At the end of a task, the devices remain in place and degrade into harmless or useful substances. The development of biodegradable living materials represents the next phase in robotics, ushering in new capabilities for environmental monitoring and remediation; infrastructure inspection, long-term monitoring, and repair; environmental exploration, including locations otherwise difficult to access such as deep ocean and remote ecosystems; and biomedical robots for internal medicine and wearable assistive devices. The materials and experimental focus of this project will also facilitate structured hands-on learning experiences for K-12, undergraduate, and graduate students. &lt;br/&gt;&lt;br/&gt;The current reliance on a classical pallet of engineering materials is more of a hindrance than an enabler for the future of robotics, in particular for fulfilling the promise of autonomy in natural environments. More traditional robot architectures are fragile and expensive, leading to conservative design, control, and deployment strategies, highly limiting the scope of use and impeding the achievement of science-fiction-like tasks in natural terrestrial or aquatic environments. Furthermore, all such devices must be collected at the end of their operational lifetime, raising additional challenges for full autonomy. This program focuses on robots created from “living” materials that embody function in soft biodegradable composites. These materials will perform a desired task and, at the end of the mission, simply remain in place and degrade into benign or potentially beneficial substances. This concept represents a paradigm shift for how we can think about autonomous devices operating in unstructured environments, relaxing more typical control goals and guarantees since device failure would be inconsequential or potentially even useful. This vision motivates research into materials chemistry of new artificial muscles, new architectures for electrical and chemical energy storage and conversion, materials-based methods for controlling the distribution of energy and sequencing of actuation in a programmed manner, and multi-scale multi-material fabrication strategies for creating biodegradable composites that embody these functions. This project will conclude with demonstrations of heterogeneous collectives of biodegradable synthetic “living” robots autonomously performing tasks including assisted agriculture and environmental remediation, and subsequently degrading in place.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421461</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Wood</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert Wood</PI_FULL_NAME>
+<EmailAddress><![CDATA[rjwood@eecs.harvard.edu]]></EmailAddress>
+<NSF_ID>000158665</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021385366</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress><![CDATA[1033 MASSACHUSETTS AVE STE 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LN53LCFJFL45</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>Allston</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021341037</ZipCode>
+<StreetAddress><![CDATA[150 Western Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>763300</Code>
+<Text>EFRI Research Projects</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~2972873</FUND_OBLG>
+</Award>
+</rootTag>

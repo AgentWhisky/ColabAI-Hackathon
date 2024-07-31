@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Non-perturbative studies of electron-lattice interactions in quantum materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>351270.00</AwardTotalIntnAmount>
+<AwardAmount>240009</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexios Klironomos</SignBlockName>
+<PO_EMAI>aklirono@nsf.gov</PO_EMAI>
+<PO_PHON>7032924920</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Summary:&lt;br/&gt;&lt;br/&gt;Quantum materials represent a diverse class of systems at the forefront of materials research. These materials host several novel and highly tunable states of matter, each with transformative potential across different science and technology sectors. Modeling these systems is incredibly challenging, however, and often requires the development and use of advanced computational methods. This project focuses on performing state-of-the-art numerical simulations of quantum materials where the electrons interact strongly with the motion of the atoms. While these interactions are believed to play a key role in different families of quantum materials, previous numerical studies have often concentrated on oversimplified models with unrealistic parameters primarily for various technical reasons. This aspect has generally prevented the scientific community from obtaining definitive answers to how these interactions influence the properties of different materials. The PI’s team will leverage new simulation capabilities to perform detailed simulations of different quantum materials while including realistic descriptions of the interactions between the electrons and lattice of atoms that form the material. The team will also provide predictions for various spectroscopic measurements to guide future experiments on these materials. Combined, this project will help identify organizing principles for quantum materials and facilitate their use in future scientific and technological applications. &lt;br/&gt;&lt;br/&gt;This project will also broaden participation in computational science and provide training in cutting-edge computational methods to enhance the scientific workforce. For example, the PI’s team will develop new training materials and open-source codes for performing numerical simulations of quantum materials, which will be disseminated in partnership with the University of Tennessee’s Center for Advanced Materials &amp; Manufacturing, an NSF MRSEC center. Finally, the PI will continue existing efforts aimed at increasing opportunities for underrepresented minorities in physics through partnerships with the APS Bridge and Nuclear Physics in Eastern Tennessee programs.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Technical Summary:&lt;br/&gt;&lt;br/&gt;Understanding the properties of strongly correlated quantum materials is a forefront challenge for the scientific community. These materials often host strong electron-electron and electron-phonon (e-ph) interactions, which produce correlated electron liquids that defy theoretical descriptions based on single-particle theories. Modeling their behavior often requires nonperturbative numerical methods; however, addressing realistic e-ph interactions remains as a key challenge. This project addresses this problem by applying state-of-the-art quantum Monte Carlo methods to study broad classes of models for quantum materials hosting strong e-ph interactions, leveraging a new open-source implementation of the determinant quantum Monte Carlo (DQMC) algorithm developed by the PI’s group. This code can simulate a broad class of Hamiltonians and uses hybrid Monte Carlo methods to sample the phonon fields efficiently and overcome the long autocorrelation times typically associated with these simulations. The PI and his team will use these capabilities to perform numerically exact simulations of models beyond the canonical Holstein model with physically realistic descriptions of the phonon subsystem. Specifically, they will study how the e-ph coupling influences the emergent properties of materials ranging from unconventional superconductors to kagome metals to graphene-derived systems. They will also predict spectroscopic measurements on such systems to guide experimental studies and provide crucial validation of their results. A particular focus for this project is on generalized Su-Schrieffer-Heeger-like e-ph interactions, where the atomic motion couples the electron’s kinetic energy via a modulation of the overlap integral. This interaction has been linked to novel phenomena ranging from mobile (bi)polarons, high-temperature superconductivity, antiferromagnetism, novel charge or bond orders, and topological states of matter. &lt;br/&gt;&lt;br/&gt;This project will also broaden participation in computational science and provide training in cutting-edge computational methods to enhance the scientific workforce. For example, the PI’s team will develop new training materials and open-source codes for performing numerical simulations of quantum materials, which will be disseminated in partnership with the University of Tennessee’s Center for Advanced Materials &amp; Manufacturing, an NSF MRSEC center. Finally, the PI will continue existing efforts to increase opportunities for underrepresented minorities in physics through partnerships with the APS Bridge and Nuclear Physics in Eastern Tennessee programs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401388</AwardID>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Johnston</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven S Johnston</PI_FULL_NAME>
+<EmailAddress><![CDATA[sjohn145@utk.edu]]></EmailAddress>
+<NSF_ID>000674060</NSF_ID>
+<StartDate>03/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960001</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress><![CDATA[201 ANDY HOLT TOWER]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FN2YCS2YAUW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TENNESSEE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>LXG4F9K8YZK5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>KNOXVILLE</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>379960001</ZipCode>
+<StreetAddress><![CDATA[201 ANDY HOLT TOWER]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>176500</Code>
+<Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~240009</FUND_OBLG>
+</Award>
+</rootTag>

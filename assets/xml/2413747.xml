@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: NSF MPS/DMS-EPSRC: Stochastic Shape Processes and Inference]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>199555.00</AwardTotalIntnAmount>
+<AwardAmount>199555</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yulia Gel</SignBlockName>
+<PO_EMAI>ygel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927888</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The intimate link between form, or shape, and function is ubiquitous in science. In biology, for instance, the shapes of biological components are pivotal in understanding patterns of normal behavior and growth; a notable example is protein shape, which contributes to our understanding of protein function and classification. This project, led by a team of investigators from the USA and the UK, will develop ways of modeling how biological and other shapes change with time, using formal statistical frameworks that capture not only the changes themselves, but how these changes vary across objects and populations. This will enable the study of the link between form and function in all its variability. As example applications, the project will develop models for changes in cell morphology and topology during motility and division, and changes in human posture during various activities, facilitating the exploration of scientific questions such as how and why cell division fails, or how to improve human postures in factory tasks. These are proofs of concept, but the methods themselves will have much wider applicability. This project will thus not only progress the science of shape analysis and the specific applications studied; it will have broader downstream impacts on a range of scientific application domains, providing practitioners with general and useful tools.&lt;br/&gt; &lt;br/&gt;While there are several approaches for representing and analyzing static shapes, encompassing curves, surfaces, and complex structures like trees and shape graphs, the statistical modeling and analysis of dynamic shapes has received limited attention. Mathematically, shapes are elements of quotient spaces of nonlinear manifolds, and shape changes can be modeled as stochastic processes, termed shape processes, on these complex spaces. The primary challenges lie in adapting classical modeling concepts to the nonlinear geometry of shape spaces and in developing efficient statistical tools for computation and inference in such very high-dimensional, nonlinear settings. The project consists of three thrust areas, dealing with combinations of discrete and continuous time, and discrete and continuous representations of shape, with a particular emphasis on the issues raised by topology changes. The key idea is to integrate spatiotemporal registration of objects and their evolution into the statistical formulation, rather than treating them as pre-processing steps. This project will specifically add to the current state-of-the-art in topic areas such as stochastic differential equations on shape manifolds, time series models for shapes, shape-based functional data analysis, and modeling and inference on infinite-dimensional shape spaces.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/20/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413747</AwardID>
+<Investigator>
+<FirstName>Sebastian</FirstName>
+<LastName>Kurtek</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sebastian A Kurtek</PI_FULL_NAME>
+<EmailAddress><![CDATA[kurtek.1@osu.edu]]></EmailAddress>
+<NSF_ID>000654649</NSF_ID>
+<StartDate>06/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7929</Code>
+<Text>COMPUTATIONAL GEOMETRY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~199555</FUND_OBLG>
+</Award>
+</rootTag>

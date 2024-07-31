@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAISE: CET: Understanding the complex multilevel performance and comprehensive environmental impacts of floating offshore wind]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>999857.00</AwardTotalIntnAmount>
+<AwardAmount>999857</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carole Read</SignBlockName>
+<PO_EMAI>cread@nsf.gov</PO_EMAI>
+<PO_PHON>7032922418</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project is jointly funded by the Established Program to Stimulate Competitive Research (EPSCoR), and funds allocated to Clean Energy Technology Initiative investments. This Research Advanced by Interdisciplinary Science and Engineering (RAISE) award is made in response to Dear Colleague Letter 23-109, as part of the NSF-wide Clean Energy Technology initiative. Developing critical floating offshore wind (FOW) technology is imperative to achieve the net-zero carbon goal by 2050. This award is dedicated to advancing the fundamental understanding of the complex individual- and system-level performance of FOW turbines (FOWTs) under operational and extreme conditions, and the comprehensive impacts of large-scale FOW on local and regional climate and ocean environments. Supercomputing capabilities will be integrated with multiscale multidisciplinary modeling to offer new knowledge and computational capabilities to achieve extreme-condition resilient, cost-competitive, and environmentally sustainable offshore wind energy. This research will advance the state of knowledge of the complex performance of individual FOWT and FOW farms exposed to wind-wave-current-wake flows under operational and extreme conditions. On the other hand, the short- and long-term impacts of FOW on local and regional climatic and oceanic environments will be studied systematically and comprehensively. Research findings from this project will enable optimized planning and design of the next-generation FOW facing climate change and extreme marine conditions. Research outcomes will help offshore wind industries reduce the costs associated with design, installation, operation, maintenance, and decommissioning to minimize the life cycle cost and environmental impacts. Cohesive outreach and educational programs will be developed and integrated with research activities. Specific outreach activities include developing new curricula for relevant STEM courses, engaging graduate and undergraduate students, especially those from underrepresented groups, in research, offering seminars/webinars to stakeholders, coastal community managers, and governmental officials.  &lt;br/&gt;&lt;br/&gt;The overall goal of this research is to reveal the highly complex multiscale interaction mechanisms among wind-wave-current-wake flows and FOW (individual FOWTs and FOW farms), and the comprehensive FOW impacts on the local and regional climatic and oceanic environments. Novel multi-fidelity hydrodynamics computational modules will be developed and integrated with aerodynamic and aeroelastic modules to simulate the complex multiscale performance of FOW. To meet the huge computational demand, supercomputing capabilities will be leveraged to implement multiscale multi-fidelity multidisciplinary modeling to achieve the research goal. Specific research objectives of this project include: 1) development of a novel large eddy simulation based multi-fidelity model to simulate the complex dynamics of FOWTs; 2) understanding the individual- and system-level performance of FOW under operational and extreme conditions; 3) parameterization of FOW farms (FOWFs) via multiscale modeling; 4) modeling local and regional climatic and oceanic impacts of FOWFs; 5) exascale computing acceleration of high-fidelity models. The research project will answer the following fundamental questions: (i) how do extreme conditions affect the dynamic stability and structural integrity of an individual FOWT, and the system-level performance of FOWFs? (ii) what is the optimized FOWF layout under given wind-wave conditions? (iii) how do FOWFs impact the local and regional climatic and oceanic environments? The research data and developed computational programs will be made open source and shared with the offshore wind and natural hazard research community to educate the next generation of scientists, engineers, leaders, educators, and managers to be prepared for large-scale deployment of offshore wind.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401026</AwardID>
+<Investigator>
+<FirstName>Junhong</FirstName>
+<LastName>Liang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Junhong Liang</PI_FULL_NAME>
+<EmailAddress><![CDATA[jliang@lsu.edu]]></EmailAddress>
+<NSF_ID>000625603</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xu</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xu Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[xliu88@ncsu.edu]]></EmailAddress>
+<NSF_ID>000677724</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Celalettin</FirstName>
+<LastName>Ozdemir</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Celalettin Ozdemir</PI_FULL_NAME>
+<EmailAddress><![CDATA[cozdemir@lsu.edu]]></EmailAddress>
+<NSF_ID>000701679</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chao</FirstName>
+<LastName>Sun</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chao Sun</PI_FULL_NAME>
+<EmailAddress><![CDATA[csun@lsu.edu]]></EmailAddress>
+<NSF_ID>000757606</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Miller</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paul W Miller</PI_FULL_NAME>
+<EmailAddress><![CDATA[pmiller1@lsu.edu]]></EmailAddress>
+<NSF_ID>000809352</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Louisiana State University]]></Name>
+<CityName>BATON ROUGE</CityName>
+<ZipCode>708030001</ZipCode>
+<PhoneNumber>2255782760</PhoneNumber>
+<StreetAddress><![CDATA[202 HIMES HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ECQEYCHRNKJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LOUISIANA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Louisiana State University]]></Name>
+<CityName>BATON ROUGE</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>708030001</ZipCode>
+<StreetAddress><![CDATA[202 HIMES HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>268Y00</Code>
+<Text>CET Strategic Investments</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>049Z</Code>
+<Text>RAISE-Research Advanced by Interdiscipli</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01AB2324DB</Code>
+<Name><![CDATA[R&RA DRSA DEFC AAB]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~999857</FUND_OBLG>
+</Award>
+</rootTag>

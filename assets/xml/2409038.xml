@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Understanding the Multi-Scale Interactions in Turbulent Flows of Astrophysical Relevance]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>904240.00</AwardTotalIntnAmount>
+<AwardAmount>904240</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vyacheslav (Slava) Lukin</SignBlockName>
+<PO_EMAI>vlukin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927382</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award supports an effort to understand the complexities of turbulence in high energy density plasmas, a phenomenon with direct connections to many fields of science such as astrophysics and space physics. Turbulent astrophysical flows are observed to be cohesive across vast distances, and by mimicking similar plasma conditions in a laboratory this project aims to characterize plasma turbulence across different scales. The insights gained within the project may enhance technologies critical to national defense and energy security, such as nuclear stockpile stewardship, fusion energy development, and advanced propulsion systems. The project will also engage students from the University of Rochester and local high schools with predominantly underrepresented minority populations through an innovative outreach program. This program, modeled as an after-hours math club with role-playing elements, will foster practical problem-solving skills and mentorship.&lt;br/&gt; &lt;br/&gt;Plasma turbulence is known to lead to self-organized spinning flows and rapid transport across multiple scales. In astrophysical plasmas, electromagnetic fields mediate long-range interactions, maintaining cohesive flows across distances spanning light-years.  This project aims to measure magnetohydrodynamic (MHD) turbulent spectrum down to the viscous scale in a magnetized high energy density  plasma created within the HADES pulsed power facility at the University of Rochester.  Using advanced interferometry and imaging diagnostics, the project aims to correlate turbulent eddies across multiple scales and to evaluate the extension of turbulent scales by magnetic fields.  Project's findings will allow theorists to validate MHD turbulence models and will help to better estimate the impact of turbulence on transport, including anomalous heat conduction, magnetic field diffusion, and stability conditions for flows with high Reynolds numbers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409038</AwardID>
+<Investigator>
+<FirstName>Pierre</FirstName>
+<LastName>Gourdain</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pierre A Gourdain</PI_FULL_NAME>
+<EmailAddress><![CDATA[gourdain@pas.rochester.edu]]></EmailAddress>
+<NSF_ID>000575948</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146113847</ZipCode>
+<PhoneNumber>5852754031</PhoneNumber>
+<StreetAddress><![CDATA[910 GENESEE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F27KDXZMF9Y8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ROCHESTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146113847</ZipCode>
+<StreetAddress><![CDATA[910 GENESEE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124200</Code>
+<Text>PLASMA PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5905</Code>
+<Text>ISRAEL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5918</Code>
+<Text>FRANCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5946</Code>
+<Text>UNITED KINGDOM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~904240</FUND_OBLG>
+</Award>
+</rootTag>

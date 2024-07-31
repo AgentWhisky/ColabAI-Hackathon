@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: OAC Core: Efficient Indexing and Similarity Searches Exploiting Processing-in-Memory Architectures for Memory-Bound Scientific Workloads]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>303328.00</AwardTotalIntnAmount>
+<AwardAmount>303328</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ashok Srinivasan</SignBlockName>
+<PO_EMAI>asriniva@nsf.gov</PO_EMAI>
+<PO_PHON>7032922122</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Modern scientific experiments and simulations generate enormous quantities of data. As a result, scientists in many fields need to process large scale datasets using a range of data analytics tools. Many such tools conduct computations that are data-intensive, which mean that they perform operations on a large quantity of data elements per unit time (rather than few data operations per unit time). These computations are typically &lt;br/&gt;memory-bound, implying that there is a very high ratio of memory operations to compute operations, and in this case, insufficient memory bandwidth (measured as the number of memory operations that can be carried out in a fixed time interval) creates a bottleneck. This means that multiple processors cannot access the data as quickly as they would like and so this limits the utilization of the processors which decreases performance. &lt;br/&gt; To address the above challenges, this project focuses on high performance data analytics by leveraging Processing-in-Memory (PIM) systems by performing data analytics inside memory chips. The PIM paradigm enables a new opportunity for designing efficient algorithms that can address these modern scientific datasets. With the advent of PIM hardware by several vendors, there is an opportunity to exploit real hardware and study the trade-offs of using this new paradigm for processing scientific datasets. PIM addresses the high energy and data movement costs between the CPU and memory by placing computational power near memory, thus limiting the need to perform all computations on the CPU. Moreover, programming real PIM systems is challenging for scientists due to complicated interfaces. This project will advance cyberinfrastructure research and will design new similarity search algorithms for point and polygon datasets for scientific fields such as geoscience, pathology, astronomy, and solar physics. Similarity searches find similar objects to a query object and provide the foundations for many data analytics tools used by scientists. By leveraging the proposed techniques, researchers in many science and engineering fields will be able to easily adapt their scientific applications to PIM hardware. This project will provide training and research projects for graduate students. Educational materials related to the research objectives will be developed, deployed in the classroom, and then disseminated through educational workshops presented at parallel computing venues. &lt;br/&gt;&lt;br/&gt;This project will examine efficient indexing and similarity searches on high-dimensional points and polygons that are common to many scientific workloads which require optimizations at different levels, including: I/O, algorithmic innovations, and optimized communication patterns. The overarching goal is to advance new algorithmic designs that exploit the changing landscape of memory hardware. PIM-aware data structures including the R-tree, KD-tree, locality sensitive hashing, and product quantization will be designed and implemented. Range searches, similarity searches, and K-Nearest Neighbor searches for UPMEM PIM systems will be developed. For performance modeling of core algorithms, the project will leverage Roofline and Iso-Efficiency analysis on the PIM system. From the programmability and productivity perspective, the projectalso proposes to develop a communication-efficient library and a MapReduce-like programming interface for search-and-refine workloads. Broader impacts of this project include training graduate students, the dissemination of open source software, and the development, evaluation, and dissemination of pedagogic materials that train students to use PIM architectures.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402987</AwardID>
+<Investigator>
+<FirstName>Satish</FirstName>
+<LastName>Puri</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Satish Puri</PI_FULL_NAME>
+<EmailAddress><![CDATA[satish.puri@mst.edu]]></EmailAddress>
+<NSF_ID>000730698</NSF_ID>
+<StartDate>07/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Missouri University of Science and Technology]]></Name>
+<CityName>ROLLA</CityName>
+<ZipCode>654091330</ZipCode>
+<PhoneNumber>5733414134</PhoneNumber>
+<StreetAddress><![CDATA[300 W. 12TH STREET]]></StreetAddress>
+<StreetAddress2><![CDATA[202 CENTENNIAL HALL]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y6MGH342N169</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Missouri University of Science and Technology]]></Name>
+<CityName>ROLLA</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>654096506</ZipCode>
+<StreetAddress><![CDATA[300 W 12TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>090Y00</Code>
+<Text>OAC-Advanced Cyberinfrast Core</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~303328</FUND_OBLG>
+</Award>
+</rootTag>

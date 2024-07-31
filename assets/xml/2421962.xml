@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Band Engineering of High Mobility Pentagonal 2D Semiconductor via Layer, Strain, and Moire]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>458000.00</AwardTotalIntnAmount>
+<AwardAmount>458000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yaroslav Koshka</SignBlockName>
+<PO_EMAI>ykoshka@nsf.gov</PO_EMAI>
+<PO_PHON>7032924986</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Non-technical Description&lt;br/&gt;The most important attribute of an electronic and photonic materials is its band structure, which defines electrons’ movement and determines, for instance, whether the material is an insulator, a metal, or a semiconductor. One of the most exciting directions in materials science research is band structure engineering, which allows for tailoring device functionalities for technological applications. The goal of this project is to engineer the band structure of a few-layer PdSe2 that has a unique pentagonal structure with an underlying square lattice; it boasts high mobility, sizeable band gap, suitability for wafer-scale synthesis, and large nonlinear optoelectronic responses. Its band structure will be modified by controlling the number of layers, by applying uniaxial strain, and by creating a moiré superlattice by overlaying two PdSe2 monolayers at a small angle with respect to each other. By examining the consequent modifications in material properties, the project will lead to key advances in the rational design of novel functionalities, such as directional transport of charges and directional optical responses for novel electronic and optoelectronic applications. This research project is integrated with a comprehensive education plan by involving undergraduate students from OSU and a local community college in research. The principal investigator will continue her successful mentoring of members from under-represented groups, including women and minorities, and participate in outreach activities, serving as a role model to next generation of scientists who are traditionally under-represented in STEM disciplines. This project will support 1-2 graduate students, who will be trained in nanofabrication, quantum transport, cryogenics, Raman and optical characterization, as well as “soft” skills such as written and oral communications, problem-solving, critical thinking, forming collaborations, and working in a team. These hard and soft skills are highly-sought after in careers paths in industry, government, and academia. &lt;br/&gt;&lt;br/&gt;Technical Description&lt;br/&gt;PdSe2 has an underlying square lattice, which sets it apart from the mainstays of 2D materials research that focuses on materials with hexagonal symmetry. This project aims at engineering the band structure of PdSe2, via selective symmetry breaking, using such knobs as layer, strain, and moiré. Specifically, the goals include optimization of materials properties for atomically thin PdSe2 field effect transistors, exploiting the even-odd layer effect of spin-orbit coupling in few-layer PdSe2, creating large band anisotropy via strain engineering for nonlinear anisotropic photodetectors such as polarization sensors, and achieving isotropic and anisotropic band flattening in moiré PdSe2 superlattices. In addition to advancing electronic materials via band structure engineering, successful implementation of the project will also provide a quantum simulator for solutions of the Hubbard model in a square lattice that are relevant to long-standing mysteries such as high-Tc cuprates, while lending insight into some of the “grand challenge” questions in the field, such as the general design principles of flat bands in moiré materials and the emergence of correlated phases arising from the interplay of topology, symmetry, and interactions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421962</AwardID>
+<Investigator>
+<FirstName>Chun Ning</FirstName>
+<LastName>Lau</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chun Ning Lau</PI_FULL_NAME>
+<EmailAddress><![CDATA[lau.232@osu.edu]]></EmailAddress>
+<NSF_ID>000061292</NSF_ID>
+<StartDate>06/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177500</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>106Z</Code>
+<Text>Microelectronics and Semiconductors</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~458000</FUND_OBLG>
+</Award>
+</rootTag>

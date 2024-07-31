@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Structure preservation in nonlinear, degenerate, evolution]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>204533.00</AwardTotalIntnAmount>
+<AwardAmount>204533</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ludmil T. Zikatanov</SignBlockName>
+<PO_EMAI>lzikatan@nsf.gov</PO_EMAI>
+<PO_PHON>7032922175</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>A thorough treatment is feasible for the classical linear problems in the numerical approximation of partial differential equations. The continuous problem is well-posed. The numerical schemes are well-posed, parameter-robust, and convergent. It is even possible to prove convergence rates. However, the situation is more precarious for modern, complex systems of equations. Oftentimes, the uniqueness of solutions is not known. Even when there is uniqueness, the theory is far from complete, and so besides (weak) convergence of numerical solutions, little can be said about their behavior. In these scenarios, one must settle for simpler yet still relevant goals. An important goal in this front is that of structure preservation. The study of structure preservation in numerical methods is not new. Geometric numerical integration, many methods for electromagnetism, the finite element exterior calculus, and some novel approaches to hyperbolic systems of conservation laws, have this goal in mind: geometric, algebraic, or differential constraints must be preserved. This project does not focus on the problems mentioned above. Instead, it studies structure preservation in some evolution problems that have, possibly degenerate, diffusive behavior. This class of problems remains a largely unexplored topic when it comes to numerical discretizations. Bridging this gap will enhance modeling and prediction capabilities since diffusive models can be found in every aspect of scientific inquiry.&lt;br/&gt;&lt;br/&gt;This project is focused on a class of diffusive problems in which stability of the solution cannot be obtained by standard energy arguments, in other words, by testing the equation with the solution to assert that certain space-time norms are under control. Norms are always convex. Structure preservation may then be a generalization of the approach given above. Instead of norms being under control, a (family of) convex functional(s) evaluated at the solution behave predictably during the evolution. The project aims to develop numerical schemes that mimic this in the discrete setting. While this is a largely unexplored topic, at the same time, many of the problems under consideration can be used to describe a wide range of phenomena. In particular, the project will develop new numerical schemes for an emerging theory of non-equilibrium thermodynamics, active scalar equations, and a class of problems in hyperbolic geometry. These models have a very rich intrinsic structure and a wide range of applications, and the developments of this project will serve as a stepping stone to bring these tools to the numerical treatment of more general problems. The students involved in the project will be trained in exciting, mathematically and computationally challenging, and practically relevant areas of research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409918</AwardID>
+<Investigator>
+<FirstName>Abner</FirstName>
+<LastName>Salgado</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Abner J Salgado</PI_FULL_NAME>
+<EmailAddress><![CDATA[asalgad1@utk.edu]]></EmailAddress>
+<NSF_ID>000661534</NSF_ID>
+<StartDate>06/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960001</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress><![CDATA[201 ANDY HOLT TOWER]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FN2YCS2YAUW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TENNESSEE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>LXG4F9K8YZK5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>KNOXVILLE</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>379960001</ZipCode>
+<StreetAddress><![CDATA[201 ANDY HOLT TOWER]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~204533</FUND_OBLG>
+</Award>
+</rootTag>

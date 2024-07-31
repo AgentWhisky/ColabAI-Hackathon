@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CICI: UCSS: SciPDF: Usable Private Data Federation for Secure Scientific Collaboration]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>599649.00</AwardTotalIntnAmount>
+<AwardAmount>599649</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rob Beverly</SignBlockName>
+<PO_EMAI>rbeverly@nsf.gov</PO_EMAI>
+<PO_PHON>7032927068</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Private data federations (PDFs) are emerging systems designed to address the challenge of multiple parties collaborating on sensitive data. They enable secure analytics across isolated private data without requiring direct data sharing, and provide end-to-end privacy throughout the entire process. Despite significant efforts to develop efficient PDF systems, their adoption within the scientific community remains limited due to a substantial usability gap, as these systems often require expertise in both security and system fundamentals. SciPDF democratizes this complex PDF pipeline by making cutting-edge PDF features accessible to the general scientific research community without the need for specialized expertise. This work significantly lowers the barriers to research collaboration in critical domains, including healthcare, biomedicine, federal statistics, finance, and criminal investigations. Furthermore, the research findings are part of a comprehensive education, dissemination, and outreach plan that includes new graduate and undergraduate courses, mentoring of students especially underrepresented minorities, and open-source tutorials accessible to the public.&lt;br/&gt;&lt;br/&gt;To achieve these goals, the project encompasses four main research thrusts. First, the design of an innovative self-sustaining query optimizer that autonomously handles complex PDF optimization primitives across various workloads. Second, the design and implementation of a full-fledged compiler to automatically translate logical queries into various PDF secure protocols. Next, the construction of high-level interfaces for system tuning, enabling non-expert administrators to fine-tune a PDF system with digestible policies and reason about the trade-offs between domain-specific research goals and privacy concerns. Finally, the assembly of a complete prototype system, benchmarked with real-world scientific workloads and evaluated via usability studies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419821</AwardID>
+<Investigator>
+<FirstName>Johes</FirstName>
+<LastName>Bater</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Johes Bater</PI_FULL_NAME>
+<EmailAddress><![CDATA[johes.bater@tufts.edu]]></EmailAddress>
+<NSF_ID>000919200</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chenghong</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chenghong Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[cw166@iu.edu]]></EmailAddress>
+<NSF_ID>000949715</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Indiana University]]></Name>
+<CityName>BLOOMINGTON</CityName>
+<ZipCode>474057000</ZipCode>
+<PhoneNumber>3172783473</PhoneNumber>
+<StreetAddress><![CDATA[107 S INDIANA AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YH86RTW2YVJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF INDIANA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Trustees of Indiana University]]></Name>
+<CityName>Bloomington</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>474057000</ZipCode>
+<StreetAddress><![CDATA[700 N Woodlawn Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802700</Code>
+<Text>Cybersecurity Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8027</Code>
+<Text>Cyber Secur - Cyberinfrastruc</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~599649</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation potential of a miniaturized biotechnology platform for nucleic acid extraction, purification, and library preparation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaime A. Camelio</SignBlockName>
+<PO_EMAI>jcamelio@nsf.gov</PO_EMAI>
+<PO_PHON>7032922061</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is the development of advanced laboratory tools for communities that lack such technologies so that they may gain access. Sequencing of nucleic acids (DNA and RNA) is important for a variety of applications such as the identification of pathogens and diagnostics of disease. This project aims to develop portable devices for DNA and RNA sample preparation for next generation sequencing. Many remote and under-served communities not only lack funding to purchase expensive lab instruments but also cannot attract the trained personnel to oversee such labs for on-demand analysis of research and clinical specimens. According to several research reports, more than 30% of rural hospitals are at risk of closing which would result in a loss of access to clinical labs and tools. This project focuses bio-sample preparation and hardware miniaturization that enables high-caliber clinical and research technologies in rural and under-served communities.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of biochemical methods and bioengineering techniques and builds on prior work in the field of microfluidics-based sequencing. Extraction, purification, and preparation of nucleic acids for sequencing are complex and multi-step processes that are typically done with large, bulky machines inside brick-and-mortar labs. Current workflows involve collection of the bio-samples followed by rapid preservation and then transport or shipment to a processing facility where the samples are prepared for sequencing. These current workflows have long processing times and incur high costs. This project aims to develop technologies that will automate bio-sample preparation and miniaturize the hardware form factor such that bio-sample preparation can be achieved in remote and extreme environments. This technology is expected to be significantly less expensive while maintaining the same quality of results. Such portable, turnkey instruments are expected to democratize healthcare across the nation and the world.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/25/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/25/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421022</AwardID>
+<Investigator>
+<FirstName>Eugene</FirstName>
+<LastName>Yeo</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eugene W Yeo</PI_FULL_NAME>
+<EmailAddress><![CDATA[geneyeo@ucsd.edu]]></EmailAddress>
+<NSF_ID>000641546</NSF_ID>
+<StartDate>03/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress><![CDATA[9500 GILMAN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Regents of the Univ. of Calif., U.C. San Diego]]></Name>
+<CityName>La Jolla</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930695</ZipCode>
+<StreetAddress><![CDATA[9500 Gilman Drive, MC 0695]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6883</Code>
+<Text>CHEMISTRY OF LIFE PROCESSES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

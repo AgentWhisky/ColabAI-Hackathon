@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FET: Medium: Expanding Electronic Design Automation to Biomechanical Devices through Equivalent Circuit Models]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>900000.00</AwardTotalIntnAmount>
+<AwardAmount>900000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+<PO_EMAI>sabasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927843</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The field of microelectronics has accumulated a wealth of knowledge and techniques to design and predict the behavior of incredibly complex circuits. This includes computer programs that can take a general design for a computer chip and change different aspects of the design to find the best combination of component factors to meet the desired performance. These tools have been an entire field of study backed by enormous resources and decades of advancement and optimization. This project seeks to take advantage of the huge investment that was and is being made in these tools that can find the best combination of component factors incredibly quickly and apply them to applications outside of microelectronics. An implantable biomechanical valve will be used for this demonstration. The biomechanical valve has a huge number of design factors that can be explored in the program to find a few of the best designs. Those designs will be made and tested. Then, the way the computer program makes decisions will be changed, so the prediction matches the actual valve behavior. After this process is repeated, the program will be able to select from many general designs the best design along with the best component factors. The program can then be used to help design other devices or systems beyond microelectronics. This approach could replace guess and check methods of designing devices or systems from medical to household goods to building structures to transportation and beyond with highly efficient and accurate automated methods. The project will not only benefit automated methods for biomechanical  designs, but will also educate students including those from from underrepresented groups, thus potentially enlarging the workforce in microelectronics as well as bioengineering.&lt;br/&gt;&lt;br/&gt;The project uses the well-established concept of an equivalent circuit model along with more complex finite element modeling approaches to explore complex design spaces for devices and systems. A biomechanical valve will be examined as an example to demonstrate this concept. While it is possible to perform similar modeling using a finite element approach, it is much more computationally intense. An equivalent circuit simulation will quickly scan through the high-dimensionality design space to determine specific designs with predicted high performance. Finite element modeling, benchtop testing, and in situ testing will be used to iteratively refine the approach to improve accuracy of behavior and degradation prediction. The project aims to increase the bandwidth of designers to explore more architectures and variations on design enabled by quickly scanning for promising options to move forward with more time-intensive fabrication and empirical testing. This approach could impact designing devices or systems from medical to household goods to building structures to transportation and beyond with highly efficient and accurate automated methods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403422</AwardID>
+<Investigator>
+<FirstName>Sule</FirstName>
+<LastName>Ozev</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sule Ozev</PI_FULL_NAME>
+<EmailAddress><![CDATA[sule.ozev@asu.edu]]></EmailAddress>
+<NSF_ID>000488535</NSF_ID>
+<StartDate>05/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Blain Christen</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jennifer M Blain Christen</PI_FULL_NAME>
+<EmailAddress><![CDATA[Jennifer.BlainChristen@asu.edu]]></EmailAddress>
+<NSF_ID>000519753</NSF_ID>
+<StartDate>05/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852813670</ZipCode>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>089Y00</Code>
+<Text>FET-Fndtns of Emerging Tech</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~900000</FUND_OBLG>
+</Award>
+</rootTag>

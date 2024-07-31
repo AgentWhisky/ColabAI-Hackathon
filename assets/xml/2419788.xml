@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CICI: UCSS: Security architecture and policies for broadening access to research computing (SPARC)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rob Beverly</SignBlockName>
+<PO_EMAI>rbeverly@nsf.gov</PO_EMAI>
+<PO_PHON>7032927068</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The ACCORD cyberinfrastructure project at the University of Virginia successfully developed and deployed a community infrastructure providing access to secure research computing resources for users at under-served, minority-serving, and non-PhD-granting institutions. ACCORD is built around balancing security with accessibility. While the ACCORD expedition achieved its technical and operational goals, its broader mission of broadening access had limited success due to real barriers that remain prohibitive for a large group of users and institutions. Building on the progress and lessons of ACCORD, this effort will augment ACCORD with enhanced security and policies for broadening access to research computing (i.e., ACCORD-SPARC). ACCORD- SPARC comprises three components that streamline access and enhance controls for the current ACCORD system: (1) a responsive security framework to lower user access barrier; (2) new policies and controls to support data rights; and (3) pilot ACCORD-SPARC with current ACCORD users and HBCU partners in the State of Tennessee.&lt;br/&gt;&lt;br/&gt;The exploration and development of ACCORD-SPARC is an endeavor in discovery. Through this effort, the project will synthesize a minimal framework of responsive and effective security for accessing UVA’s secure infrastructure. This framework can be adjusted to address threat models and security requirements for other institutions. On the policy side, ACCORD-SPARC will result in an articulation of policies on data rights and sovereignty – specifically, on finite consent and transparent purposes. The new policies, and associated controls will be piloted and evaluated. Lessons from these practical steps will be helpful to the community broadly as it grapples with these issues. On the other hand, by increasing access to important computing infrastructure to users and institutions where resources are not currently available, ACCORD-SPARC will support the long tail of science and enable new discoveries in multiple fields of sciences and improve research and teaching outcomes. The ability to work on sensitive data is especially important for research involving human subjects or describing human activities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419788</AwardID>
+<Investigator>
+<FirstName>Ronald</FirstName>
+<LastName>Hutchins</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ronald R Hutchins</PI_FULL_NAME>
+<EmailAddress><![CDATA[rrh8z@virginia.edu]]></EmailAddress>
+<NSF_ID>000729673</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anita</FirstName>
+<LastName>Nikolich</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anita Nikolich</PI_FULL_NAME>
+<EmailAddress><![CDATA[anitan@illinois.edu]]></EmailAddress>
+<NSF_ID>000797894</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Neal</FirstName>
+<LastName>Magee</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Neal E Magee</PI_FULL_NAME>
+<EmailAddress><![CDATA[nem2p@virginia.edu]]></EmailAddress>
+<NSF_ID>000853533</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229034833</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJG6HU8PA4S5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RECTOR &amp; VISITORS OF THE UNIVERSITY OF VIRGINIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>229034833</ZipCode>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802700</Code>
+<Text>Cybersecurity Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8027</Code>
+<Text>Cyber Secur - Cyberinfrastruc</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~600000</FUND_OBLG>
+</Award>
+</rootTag>

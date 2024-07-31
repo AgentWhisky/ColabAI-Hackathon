@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CPS: Medium: Compositional Learning and Control of Networked Cyber-Physical Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>1200000.00</AwardTotalIntnAmount>
+<AwardAmount>1200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ralph Wachter</SignBlockName>
+<PO_EMAI>rwachter@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project aims to develop theoretical frameworks and design practical algorithms for learning data-driven models and control strategies in networked cyber-physical systems. In particular, the project is grounded in power distribution systems, whose modular structure and hierarchical positioning of subsystems in subnetworks make them ideal candidates for compositional learning and control design, in which dynamical properties and performance guarantees propagate among hierarchical subsystems. To this end, both theory and algorithms will exploit physical invariants and compositional network structure to improve the generalization of learned components beyond their training regime, mitigate the prohibitive data requirements of current approaches, and provide auditable assurances of both component-level and system-level performance.&lt;br/&gt;&lt;br/&gt;This project will be comprised of three closely related thrusts. The first thrust will build upon the formalism of port-Hamiltonian systems and design data-driven algorithms which learn dynamical models of individual subsystems that embed network structure, and control policies that leverage these structures to provide local performance guarantees.  The second thrust will characterize latent uncertainty by reformulating port-Hamiltonian models in the context of neural stochastic differential equations. Explicitly modeling process noise in this way will facilitate the data-driven design of control policies which reason directly about the risk of constraint violation at both the subsystem and, ultimately, network level. Thus equipped, the third thrust will develop theoretical mechanisms for propagating subsystem-level input-output properties to network-level guarantees, without further data collection or learning. These results will guide the development of algorithms to identify which subsystems influence network-level guarantees most directly, and thereby prioritize further data collection and learning for the most critical subsystems. All algorithms will be implemented and validated in a physical hardware testbed which faithfully emulates a large power distribution network.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/30/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409535</AwardID>
+<Investigator>
+<FirstName>Ufuk</FirstName>
+<LastName>Topcu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ufuk Topcu</PI_FULL_NAME>
+<EmailAddress><![CDATA[utopcu@utexas.edu]]></EmailAddress>
+<NSF_ID>000690245</NSF_ID>
+<StartDate>04/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Johnson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian Johnson</PI_FULL_NAME>
+<EmailAddress><![CDATA[b.johnson@utexas.edu]]></EmailAddress>
+<NSF_ID>000758650</NSF_ID>
+<StartDate>04/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Fridovich-Keil</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Fridovich-Keil</PI_FULL_NAME>
+<EmailAddress><![CDATA[dfk@utexas.edu]]></EmailAddress>
+<NSF_ID>000855774</NSF_ID>
+<StartDate>04/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121229</ZipCode>
+<StreetAddress><![CDATA[201 E. 24th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>791800</Code>
+<Text>CPS-Cyber-Physical Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1200000</FUND_OBLG>
+</Award>
+</rootTag>

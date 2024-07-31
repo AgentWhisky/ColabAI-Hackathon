@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CSR: Medium: DISCO: Disciplined Data Science Framework for Storage I/O Management]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>725000.00</AwardTotalIntnAmount>
+<AwardAmount>341502</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erik Brunvand</SignBlockName>
+<PO_EMAI>ebrunvan@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In the multi-billion-dollar computer storage industry, efficient operation is essential for achieving good application accuracy, reliability, and performance.  Traditionally, this efficiency has relied on heuristic algorithms with parameters that are selected by humans. However, as workloads and devices become increasingly complex, manual tuning by humans becomes impractical. The DISCO project will address how to systematically leverage data science (DS) to revolutionize the many facets of storage I/O decision making.  More specifically, DISCO’s research objectives are to (a) pioneer a comprehensive data science pipeline tailored to enhance the storage I/O decision-making process by in-depth exploration of intricate concepts such as data augmentation, precise labeling, noise filtration, meticulous model engineering, drift detection, and many others;  (b) target both classical I/O policies and open problems in the context of modern device features as well as venture to “uncharted territories" such as investigating what data science can reveal from billions of performance data points; and (c) comprehensively encompass high-, medium-, and low-frequency decision making and address each of their own unique challenges, but at the same time address cross-cutting concerns such as all-in-one integration.   &lt;br/&gt;&lt;br/&gt;The DISCO project will bring significant broader impacts, especially in training future storage data scientists.  The Data Storage Research Vision 2025 (DSRV) paper from an NSF workshop emphasized "the deficit of the professionals who are knowledgeable in both storage and AI areas" where "the number of fresh graduate students with this combination of skills is small, and training existing staff takes time and effort" and "storage companies are also experiencing significant competition from other industries that require AI/ML knowledge."   In this context, the DISCO project will train graduate and undergraduate students to be part of the next-generation storage data scientists.  The project will also release open ML-for-storage testbeds along with a public storage data science curriculum.  In terms of technology transfer, the DSRV workshop paper also states that “storage companies are excited by the opportunities of using ML to improve performance and reliability, and develop quality products.”  The DISCO project will produce sophisticated ML-for-storage solutions for solid-state drive (SSD) systems, potentially making a positive impact to the SSD market that is forecasted to reach over $50 billion by 2025.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402327</AwardID>
+<Investigator>
+<FirstName>Haryadi</FirstName>
+<LastName>Gunawi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Haryadi Gunawi</PI_FULL_NAME>
+<EmailAddress><![CDATA[haryadi@cs.uchicago.edu]]></EmailAddress>
+<NSF_ID>000626546</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sandeep</FirstName>
+<LastName>Madireddy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sandeep Madireddy</PI_FULL_NAME>
+<EmailAddress><![CDATA[smadireddy@anl.gov]]></EmailAddress>
+<NSF_ID>000841307</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUE9HKT2CLC9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ZUE9HKT2CLC9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606375418</ZipCode>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>735400</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~341502</FUND_OBLG>
+</Award>
+</rootTag>

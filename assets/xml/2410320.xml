@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Percept Development Plan Agent: Accelerate drug repurposing research and development]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>274947.00</AwardTotalIntnAmount>
+<AwardAmount>274947</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erik Pierstorff</SignBlockName>
+<PO_EMAI>epiersto@nsf.gov</PO_EMAI>
+<PO_PHON>7032922165</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to allow companies to be able to efficiently lead drug repurposing initiatives by automating the formulation and writing of drug repurposing development plans. Addressing the needs of underserved disease communities presents both a societal imperative and a unique business opportunity. While repurposing allows companies to build off of existing safety and efficacy data for already approved drugs, companies frequently depend on external consultants to support such development, which can be slow, expensive, and error-prone. This project’s primary benefits would be: (1) enabling smaller, more streamlined teams to spearhead drug repurposing development, significantly reducing associated costs, and (2) catalyzing significant growth in the market for drugs targeting orphan diseases via the adoption of a more competitive cost structure. It could improve efficiency in the regulatory process by integrating knowledge across publicly available data sources, optimizing drug targets and candidates, and assembling this information into a coherent development plan with a high probability of scientific and regulatory success. Such increased efficiency may lead to a greater throughput of repurposing discovery, expansive growth of the market, and increased availability of repurposed drugs. &lt;br/&gt;&lt;br/&gt;The proposed project addresses the problem that drug repurposing development plans mandated by the FDA require significant time and effort in searching multiple databases to mitigate biological, regulatory, and legal risks. Automating this process using software systems could accelerate drug discovery and reduce development costs but is complicated by the heterogeneity of the knowledge organization of data required to create such plans. This project proposes a tool which, given a drug target and the current list of FDA-approved drugs, will generate a repurposing development plan. The tools developed in this project are based on recent advances in automated reasoning and knowledge extraction using Natural Language Processing. The project will extend these advances in novel ways to make them radically more useful and trustworthy, and a natural fit to heterogeneous biological data. This includes ways to provide references in support of a given claim of knowledge made by the system across multiple knowledge sources and ways to create a cogent narrative from a list of claims and create a report from the narrative. The resulting tool will create referenced and cross-checked reports for drug candidates, ready for review and submission to the FDA.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410320</AwardID>
+<Investigator>
+<FirstName>Balaji</FirstName>
+<LastName>Sriram</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Balaji Sriram</PI_FULL_NAME>
+<EmailAddress><![CDATA[balaji@percept.bio]]></EmailAddress>
+<NSF_ID>000971802</NSF_ID>
+<StartDate>06/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[PERCEPT BIOSCIENCES INC.]]></Name>
+<CityName>SAN DIEGO</CityName>
+<ZipCode>921073083</ZipCode>
+<PhoneNumber>8186428327</PhoneNumber>
+<StreetAddress><![CDATA[1889 BACON ST STE 11]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYJBS69MJ9U7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PERCEPT BIOSCIENCES INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[PERCEPT BIOSCIENCES INC.]]></Name>
+<CityName>SAN DIEGO</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>921073083</ZipCode>
+<StreetAddress><![CDATA[1889 BACON ST STE 11]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1982</Code>
+<Text>BIOLOGICAL CHEMISTRY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~274947</FUND_OBLG>
+</Award>
+</rootTag>

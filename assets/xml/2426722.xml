@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation Potential of a Remote Sensing-Based Measurement, Reporting, and Verification Tool for Sustainable Agriculture]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is the development of a technology to monitor agricultural practices and help farmers enhance agricultural productivity. Currently, more than 120 million acres of land in the U.S. corn belt is under agriculture production. This technology may be used to validate sustainable land management practices such as cover cropping and tillage at a field-scale level. The goal is to facilitate widespread adoption of sustainable land management practices, driving positive environmental impact, and fostering a more resilient and sustainable agricultural industry. Sustainable agriculture stewards the resources farms rely on, including enhanced nitrogen use efficiency, reduced greenhouse gas emissions, improved water quality, improved soil health, and maximized farmer profitability. The technology bridges a critical gap within the industry - delivering farm-specific data that empowers businesses to make more informed decisions, fosters responsible practices, and ultimately enhances the sustainability of agriculture. In addition, the technology addresses the demand for data-driven solutions and enhances environmental transparency in the agricultural supply chain without disclosing farmer data.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. The solution is based on the development of a measurement, reporting, and verification tool (MRV) that addresses the challenges associated with monitoring and verifying management practices in agriculture. This technology harnesses the power of geospatial analytics and machine learning algorithms to create a method for collecting, analyzing, and validating data on agricultural practices. In addition, the platform integrates diverse data sources, including satellite imagery and field data, which allows the generation of comprehensive and precise assessments of land management practices and support carbon accounting. This multi-dimensional approach may enhance the reliability and depth of the information provided to stakeholders, enabling informed decision-making and strategic planning.  Machine learning algorithms and cloud-based computing techniques also are used to detect patterns, trends, and anomalies in climate smart practices. The algorithms enable decision-makers to access more precise and timely insights, facilitating proactive measures to address emerging challenges and opportunities. Both public and private sector organizations may use the technology to track landscapes, identify areas for improvement, and pinpoint potential prospects for future conservation and restoration actions remotely and efficiently. By facilitating data-driven decision-making, the technology may empower stakeholders to enhance sustainability practices and achieve environmental conservation goals effectively.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/13/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/13/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2426722</AwardID>
+<Investigator>
+<FirstName>Ranjeet</FirstName>
+<LastName>John</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ranjeet John</PI_FULL_NAME>
+<EmailAddress><![CDATA[Ranjeet.John@usd.edu]]></EmailAddress>
+<NSF_ID>000628615</NSF_ID>
+<StartDate>05/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of South Dakota Main Campus]]></Name>
+<CityName>VERMILLION</CityName>
+<ZipCode>570692307</ZipCode>
+<PhoneNumber>6056775370</PhoneNumber>
+<StreetAddress><![CDATA[414 E CLARK ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Dakota</StateName>
+<StateCode>SD</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SD00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U9EDNSCHTBE7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF SOUTH DAKOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of South Dakota Main Campus]]></Name>
+<CityName>VERMILLION</CityName>
+<StateCode>SD</StateCode>
+<ZipCode>570692307</ZipCode>
+<StreetAddress><![CDATA[414 E CLARK ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Dakota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SD00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9109</Code>
+<Text>AGRICULTURAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

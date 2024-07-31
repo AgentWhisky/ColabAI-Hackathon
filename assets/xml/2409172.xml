@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Thermospheric Circulation Using Mesoscale-Resolving Whole Atmosphere Model and Satellite Observations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>292835.00</AwardTotalIntnAmount>
+<AwardAmount>292835</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shikha Raizada</SignBlockName>
+<PO_EMAI>sraizada@nsf.gov</PO_EMAI>
+<PO_PHON>7032928963</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Residual circulation forms the global-scale basis for determining the observed meridional and vertical distribution of composition and temperature in the Earth’s middle and upper atmosphere. Among the well-known summer-to-winter mesospheric and thermospheric circulations, observed tracer distribution suggests the existence of a reversed residual circulation in the lower thermosphere. However, very little work has been done to thoroughly investigate the dynamics driving the lower-thermospheric winter-to-summer circulation. This research will conduct a comprehensive study of the lower-thermospheric circulation by utilizing a mesoscale-resolving whole atmosphere model. The research aims to increase understanding of multi-scale processes in the upper atmosphere and improve the representation of compositions and plasma density in models, with transformative aspects that could contribute to our understanding of multi-step vertical coupling mechanisms. A graduate student will participate and be supported by this project, and the work will be part of the doctoral thesis.&lt;br/&gt;&lt;br/&gt;This project will utilize the high-resolution Whole Atmosphere Community Climate Model eXtended (high-res WACCM-X) in System for Integrated Modeling of the Atmosphere (SIMA) framework, which can capture multi-scale interactions among processes from global scales to mesoscale. The project has two objectives. The first objective is to examine the physical processes driving the residual circulation in the thermosphere. Model-resolved wave momentum forcing, including planetary waves, tides, and gravity waves, is the primary focus of this investigation. The second objective is to investigate how the circulation affects the thermospheric compositional structure during geomagnetically quiet times. A force term analysis will be performed to examine the underlying mechanisms responsible for driving the seasonal and latitudinal variation of O/N2 in the thermosphere. Utilizing the meso-scale resolving whole atmosphere model enables a detailed examination of how multi-scale physical processes and interactions impact thermospheric compositions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409172</AwardID>
+<Investigator>
+<FirstName>Jack</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jack C Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[wangjc@cua.edu]]></EmailAddress>
+<NSF_ID>000926892</NSF_ID>
+<StartDate>04/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Catholic University of America]]></Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200640001</ZipCode>
+<PhoneNumber>2026355000</PhoneNumber>
+<StreetAddress><![CDATA[620 MICHIGAN AVE NE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C31ES3WEAVQ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CATHOLIC UNIVERSITY OF AMERICA (THE)</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Catholic University of America]]></Name>
+<CityName>WASHINGTON</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200640001</ZipCode>
+<StreetAddress><![CDATA[620 MICHIGAN AVE NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152100</Code>
+<Text>AERONOMY</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~292835</FUND_OBLG>
+</Award>
+</rootTag>

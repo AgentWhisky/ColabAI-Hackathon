@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CIF:Medium:Theoretical Foundations of Compositional Learning in Transformer Models]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+<PO_EMAI>pregalia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922981</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Large Language Models (LLMs) based on transformer architectures, such as GPT-4, Llama 2, and Claude 3, have demonstrated remarkable emergent capabilities in compositional reasoning, allowing them to tackle complex tasks by decomposing them into simpler intermediate steps. Examples to these tasks include text and code generation, basic arithmetic and problem solving, and answering complex questions. Despite these empirical advances, the underlying mechanics of these capabilities remain largely unexplored. This collaborative research project aims to investigate the theoretical foundations of compositional learning in transformer models, focusing on three key areas: model expressivity, statistical learning theory, and optimization, aiming to develop novel learning guarantees, algorithms, architectures, and design principles that significantly advance the development of more capable and interpretable Artificial Intelligence (AI) and LLM systems. The research findings will be incorporated into educational curricula, fostering a diverse community around transformers, compositional learning, and their applications. The project will also engage the broader public through workshops and outreach activities, promoting responsible AI practices and AI education for undergraduate and K-12 students.&lt;br/&gt;&lt;br/&gt;The first thrust will explore the expressive capacity of transformers augmented with loops, memory, and external tools, which are essential for compositional reasoning. The second thrust will examine the statistical properties of autoregressive training using compositional data to understand its limits, benefits, and ability to generalize to novel problem instances. This is expected to lead to new theories of compositional learning that will highlight the role of skill acquisition and composition. The third thrust will investigate the optimization principles of compositional learning with transformers. This research will shed light on the optimization landscape and identify techniques for more efficient training of transformers through compositional techniques.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403075</AwardID>
+<Investigator>
+<FirstName>Samet</FirstName>
+<LastName>Oymak</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Samet Oymak</PI_FULL_NAME>
+<EmailAddress><![CDATA[oymak@umich.edu]]></EmailAddress>
+<NSF_ID>000779066</NSF_ID>
+<StartDate>04/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481092122</ZipCode>
+<StreetAddress><![CDATA[1301 Beal Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779700</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~400000</FUND_OBLG>
+</Award>
+</rootTag>

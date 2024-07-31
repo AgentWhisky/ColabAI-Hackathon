@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-DST: CPS: TTP Option: RE-GAIN: An Adaptive, Medical CPS Platform Integrating E-Textile Wearables, Virtual Reality, and AI for Stroke Rehabilitation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vishal Sharma</SignBlockName>
+<PO_EMAI>vsharma@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Stroke is the second leading cause of death and disability globally and poses a significant challenge to the affected individuals as well as society at-large due to its extensive socioeconomic burden. In response, this project (RE-GAIN) is developed as an international collaboration between the United States and India to transform the landscape of stroke rehabilitation for young adult survivors. RE-GAIN aims to intertwine cutting-edge medical Cyber-Physical System (mCPS) technology to help restore motor functions and facilitate the reintegration of stroke survivors into the workforce and society. Central to RE-GAIN's mission is to harness the synergy of smart gloves, Virtual/Augmented Reality (VR/AR), and Artificial Intelligence (AI). This integrated mCPS system promises a personalized and human-centered rehabilitation journey, where the technology can engage stroke survivors for improved engagement, adherence, and outcomes. As it addresses both physical and socio-economic challenges of stroke, RE-GAIN aligns with healthcare-centered priorities of both the US and India by enhancing the multidisciplinary research capacities, high-skilled workforce development, and international knowledge exchange to revolutionize rehabilitation practices.&lt;br/&gt; &lt;br/&gt;RE-GAIN will design, develop, and integrate medical Cyber-Physical System (mCPS) for stroke rehabilitation with three primary aims. Aim 1 will involve the project team from the University of Rhode Island (URI) and will advance smart textile gloves embedded with multimodal sensors for monitoring and biofeedback, enhancing the rehabilitation experience through interactive visual and haptic cues. Aim 2 will involve institutions in India, including the Indian Institute of Technology (Banaras Hindu University) Varanasi (IIT-BHU), Indian Institute of Technology-Gandhinagar (IITGN), and Institute of Medical Science, Varanasi (IMS-BHU), who will jointly create an engaging virtual and augmented reality (VR/AR) platform tailored to individual patients, integrating advanced technologies such as electroencephalography (EEG) and eye-tracking. Aim 3 will facilitate a collaborative effort between the US and Indian research teams and will integrate the developed technologies into a cohesive mCPS system, culminating in a pilot deployment on stroke survivors in clinical settings across both nations. Additionally, the project will train the next-generation STEM workforce, engaging underrepresented groups through well-designed curriculum, hands-on workshops, and hack-a-thons. &lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Cyber-Physical Systems program and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413838</AwardID>
+<Investigator>
+<FirstName>Kunal</FirstName>
+<LastName>Mankodiya</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kunal Mankodiya</PI_FULL_NAME>
+<EmailAddress><![CDATA[kunalm@uri.edu]]></EmailAddress>
+<NSF_ID>000699221</NSF_ID>
+<StartDate>06/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Susan</FirstName>
+<LastName>D'Andrea</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Susan E D'Andrea</PI_FULL_NAME>
+<EmailAddress><![CDATA[sedandrea@uri.edu]]></EmailAddress>
+<NSF_ID>000828542</NSF_ID>
+<StartDate>06/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dhaval</FirstName>
+<LastName>Solanki</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dhaval Solanki</PI_FULL_NAME>
+<EmailAddress><![CDATA[dhaval_solanki@uri.edu]]></EmailAddress>
+<NSF_ID>000921914</NSF_ID>
+<StartDate>06/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Rhode Island]]></Name>
+<CityName>KINGSTON</CityName>
+<ZipCode>028811974</ZipCode>
+<PhoneNumber>4018742635</PhoneNumber>
+<StreetAddress><![CDATA[75 LOWER COLLEGE RD RM 103]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>RI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CJDNG9D14MW7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF RHODE ISLAND</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NSA8T7PLC9K3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Rhode Island]]></Name>
+<CityName>KINGSTON</CityName>
+<StateCode>RI</StateCode>
+<ZipCode>028811974</ZipCode>
+<StreetAddress><![CDATA[75 LOWER COLLEGE RD RM 103]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>RI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>791800</Code>
+<Text>CPS-Cyber-Physical Systems</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022Z</Code>
+<Text>International Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~500000</FUND_OBLG>
+</Award>
+</rootTag>

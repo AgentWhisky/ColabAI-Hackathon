@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Problems in Non-Positive Curvature]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>332834.00</AwardTotalIntnAmount>
+<AwardAmount>332834</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eriko Hironaka</SignBlockName>
+<PO_EMAI>ehironak@nsf.gov</PO_EMAI>
+<PO_PHON>7032927041</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Geometry is concerned with quantitative features of a space, while topology studies qualitative aspects of a space. As an example, a teacup and a donut are topologically the same (they both have a single hole), but geometrically different. Non-positive curvature is a geometric property of spaces, which roughly corresponds to the space being expansive at every point and in every direction. Spaces with this property are pervasive, both in mathematics and in nature. As a result, there are numerous different viewpoints and approaches to their study.  This proposal is focused on a variety of problems that are loosely centered around non-positively curved spaces. The approaches are highly interdisciplinary, drawing on tools and techniques from various distinct areas of mathematics. This project also provides opportunities for graduate student and postdoc research and training.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The Principal Investigator (PI) will work on various projects in non-positive curvature that fall into four broad categories. (1) Projects on Coxeter groups: the PI will construct high-dimensional right-angled Coxeter groups that virtually algebraically fiber, will construct some new examples of negatively curved manifolds that fiber over the circle, and will construct new Davis manifolds that are CAT(0) but do not support Riemannian non-positive curvature smoothing. (2) Projects on simplicial volume: the PI will study which 4-dimensional Davis manifolds have positive simplicial volume, and will study how Anasov diffeomorphims constrain the simplicial volume. (3) Construtions of new aspherical manifolds: the PI will construct some new non-arithmetic hyperbolic manifolds, some new negatively curved Riemannian manifolds, and will study the commensurability problem for these manifolds. (4) Geodesic flows: the PI will study the decay of correlations for geodesic flows on locally CAT(-1) spaces, and will construct a version of the Sinai-Ruelle-Bowen measures for these flows.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407438</AwardID>
+<Investigator>
+<FirstName>Jean-Francois</FirstName>
+<LastName>Lafont</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jean-Francois R Lafont</PI_FULL_NAME>
+<EmailAddress><![CDATA[jlafont@math.ohio-state.edu]]></EmailAddress>
+<NSF_ID>000157217</NSF_ID>
+<StartDate>05/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101174</ZipCode>
+<StreetAddress><![CDATA[100 Math Tower]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126700</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~332834</FUND_OBLG>
+</Award>
+</rootTag>

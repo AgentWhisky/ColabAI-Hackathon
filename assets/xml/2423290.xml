@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Transformation Potential of Graph-Based Multimodal Data Fusion for Remote Sensing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Molly Wasko</SignBlockName>
+<PO_EMAI>mwasko@nsf.gov</PO_EMAI>
+<PO_PHON>7032924749</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is based on the development of Graph Signal Processing (GSP) techniques that enhance the quality of remotely sensed data. By integrating data from diverse sources such as satellite images, radars, and in-situ sensors, this innovation benefits environmental sectors such as agricultural technologies. Through the analytical power of graphs, this project enhances the resolution of satellite imagery and supports complex data analysis, combining sensor measurements with land features. Such capabilities allow agricultural industry users to make well-informed decisions regarding irrigation practices and resource management, thus promoting the efficient use of water and fertilizers. This efficiency, in turn, leads to healthier crop production and more cost-efficient agricultural operations. By optimizing the resolution of satellite images to extract high-resolution data, this approach promises to not only advance eco-friendly agriculture but also make a meaningful contribution to the commercial vitality of the environmental sector.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. The solution is based on the development of state-of-the-art data fusion methodologies that enhance Earth observation satellite imaging through the integration of Machine Learning (ML) with Graph Signal Processing (GSP) techniques. GSP fusion methods substantially improve spatial and temporal resolution beyond what current methods can offer. Building on over ten years of research, this innovative approach focuses on synthesizing information from diverse satellite platforms and a variety of terrain data. The advanced algorithms developed through this project allow for a robust analysis of diverse datasets, overcoming the typical challenges faced by conventional satellite-based methods, such as limited resolution and intermittent data gaps. The integration of in-situ sensor networks with satellite data, empowered by these GSP techniques, presents a significant advance in the technical capabilities of environmental monitoring and analysis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423290</AwardID>
+<Investigator>
+<FirstName>Antonio</FirstName>
+<LastName>Ortega</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Antonio Ortega</PI_FULL_NAME>
+<EmailAddress><![CDATA[ortega@sipi.usc.edu]]></EmailAddress>
+<NSF_ID>000154600</NSF_ID>
+<StartDate>05/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900890701</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress><![CDATA[3720 S FLOWER ST FL 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900892564</ZipCode>
+<StreetAddress><![CDATA[3740 McClintock Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1238</Code>
+<Text>TECH FOR SUSTAINABLE ENVIRONMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

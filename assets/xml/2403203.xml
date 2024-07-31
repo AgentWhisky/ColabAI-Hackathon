@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CSR: Medium: Scalable Quantum Computing with Virtual Quantum Machines]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>178521</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erik Brunvand</SignBlockName>
+<PO_EMAI>ebrunvan@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Quantum computing is an emerging computing paradigm that will revolutionize the computing and information technology with its capabilities far exceeding those of the current “conventional” computers. One fundamental bottleneck for quantum computing, however, is the small number of quantum bits (qubit) a single quantum processing unit (QPU) can hold. Despite decades of research and development, this number is limited at a few thousand qubits at most. This poses a serious obstacle to many important quantum applications (e.g., quantum machine learning, chemistry and medicine) which require tens of thousands or even millions of qubits. This project proposes to interconnect tens to hundreds of QPUs, each with limited numbers of qubits, to form a scalable quantum cluster where a virtual quantum machine (VQM) with far more qubits than a single QPU can be created. This research will investigate the fundamental qubit entanglement and mapping algorithms, optimal physical interconnections for the VQMs, and develop a simulator to evaluate the VQM designs. &lt;br/&gt;&lt;br/&gt;The project will provide a comprehensive design solution that establishes the algorithmic foundation for building efficient and scalable quantum computing systems, and facilitating the creation of future practical quantum computing applications that require large numbers of qubits. The project will also train graduate students and promote the participation of female students in quantum computing. The results will have a profound impact on the scientific and economic improvement of societies owing to the great potential of scalable quantum computing to solving many critical problems our and future generations face, from artificial intelligence, climate change, drug development, to cleaner fertilization, traffic and transportation management, logistics and manufacturing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403203</AwardID>
+<Investigator>
+<FirstName>Chunming</FirstName>
+<LastName>Qiao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chunming Qiao</PI_FULL_NAME>
+<EmailAddress><![CDATA[qiao@computer.org]]></EmailAddress>
+<NSF_ID>000221592</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SUNY at Buffalo]]></Name>
+<CityName>AMHERST</CityName>
+<ZipCode>142282577</ZipCode>
+<PhoneNumber>7166452634</PhoneNumber>
+<StreetAddress><![CDATA[520 LEE ENTRANCE STE 211]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMCJKRFW5R81</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GMZUKXFDJMA9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Buffalo]]></Name>
+<CityName>AMHERST</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>142282577</ZipCode>
+<StreetAddress><![CDATA[520 LEE ENTRANCE STE 211]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>735400</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~178521</FUND_OBLG>
+</Award>
+</rootTag>

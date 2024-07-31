@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Minimal Surfaces and Harmonic Maps in Differential Geometry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>360027.00</AwardTotalIntnAmount>
+<AwardAmount>76032</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Qun Li</SignBlockName>
+<PO_EMAI>qli@nsf.gov</PO_EMAI>
+<PO_PHON>7032927465</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Solutions of geometric variational problems--objects which (locally) minimize natural notions of energy--play a central role in modern geometry and analysis, as well as physics, materials science, and engineering, where they characterize equilibrium states for various systems. Among the most important examples are harmonic maps, which arise in computer graphics and the study of liquid crystals, and minimal surfaces, which model soap films and the boundaries of black holes. The central goal of this project is to advance our understanding of the existence and structure of these objects, with an emphasis on connections to spectral geometry and certain geometric equations arising in particle physics. This project also involves the training of graduate students and postdocs, the organization of seminars and workshops on related topics, and dissemination of ideas to non-expert audiences through public lectures and survey articles.&lt;br/&gt;&lt;br/&gt;This project concerns the existence and geometric structure of harmonic maps, minimal surfaces and minimal submanifolds of codimension 2 and 3, in relation to isoperimetric problems in spectral geometry and singularity formation for gauge-theoretic PDEs. With his collaborators, the PI will exploit new techniques for constructing extremal metrics for Laplacian and Steklov eigenvalues--developed in recent work of the PI with Karpukhin, Kusner, and McGrath--to produce many new minimal surfaces of prescribed topology in low-dimensional spheres and balls, and study related constructions of minimal surfaces in generic ambient spaces via mapping methods. Building on prior work with Pigati and Parise-Pigati, the PI will continue to investigate the relationship between the abelian Higgs model and minimal submanifolds of codimension two, and explore an analogous correspondence between the SU(2)-Yang-Mills-Higgs equations and minimal varieties of codimension 3. In another direction, the PI will further develop the existence and regularity theory for harmonic maps on manifolds of supercritical dimension n ≥ 3, combining variational methods with new analytic techniques to study the existence and compactness theory for harmonic maps with bounded Morse index into general targets.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404992</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Stern</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel L Stern</PI_FULL_NAME>
+<EmailAddress><![CDATA[daniel.stern@cornell.edu]]></EmailAddress>
+<NSF_ID>000787434</NSF_ID>
+<StartDate>05/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress><![CDATA[341 PINE TREE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148502820</ZipCode>
+<StreetAddress><![CDATA[436 Malott Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126500</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~76032</FUND_OBLG>
+</Award>
+</rootTag>

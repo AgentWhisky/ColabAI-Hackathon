@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RII FEC: Accelerating Community-Centric Energy Transformation through AI-driven Digital Twinning for Climate-Aware Resilience]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>6000000.00</AwardTotalIntnAmount>
+<AwardAmount>3000000</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>01060100</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OIA</Abbreviation>
+<LongName>OIA-Office of Integrative Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lisa C. Cliggett</SignBlockName>
+<PO_EMAI>lcligget@nsf.gov</PO_EMAI>
+<PO_PHON>7032922759</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project addresses the urgent challenge of climate change intertwined with aging energy infrastructure in the United States. This is a critical challenge most acute in underserved communities. The project aims to enhance local research infrastructure across four EPSCoR jurisdictions—New Mexico, Montana, Oklahoma, and Alabama. In turn, these regions will benefit from advancements in AI, digital twin technology, and renewable energy. By developing AI-driven digital twins tailored to the energy infrastructures and socio-economic needs of three representative underserved communities (Kit Carson, Mora-San Miguel, and the Navajo Nation), the DigiCARES project will optimize energy utilization, integrate renewable sources more effectively, and improve overall climate resilience. This project not only advances the field of energy system planning but also supports education and workforce development, promoting diversity in STEM fields through active collaboration with minority-serving institutions and initiatives such as New Mexico State University’s Pre-freshman Engineering Program, The University of Alabama in Huntsville Research and Engineering Apprenticeship Program, and Oklahoma State University’s NSF-sponsored Oklahoma Louis Stokes Alliance for Minority Participation. These efforts align with NSF’s mission to promote the progress of science, advance national health, prosperity, and welfare, and secure national defense by addressing energy equity and sustainability challenges. The project will include extensive outreach activities to engage underserved communities in co-developing these technologies, ensuring their specific needs and perspectives shape the outcomes. The approaches and outcomes of DigiCARES in AI and digital twins, especially in addressing climate resilience, will be applicable to various communities, scalable to other regions in the US, and potentially globally.&lt;br/&gt;&lt;br/&gt;DigiCARES embarks on a transformative approach in energy systems planning and operation, leveraging AI-driven digital twins to address the nexus of climate, energy, and community. The overarching goals of this project are to enhance energy efficiency, reduce energy burden, integrate renewable sources, and fortify climate resilience in underserved communities. The project integrates diverse scientific disciplines including data science, climate science, AI, sociology, and energy policy, to create interoperable datasets, interactive tools, and community-centric platforms. These digital twins will provide in-depth analysis and strategy testing for energy systems under various future scenarios. The research encompasses six key activities: multi-scale climate dynamics, sociodemographic energy mapping, community-centric planning and operation, AI-driven digital twin development, pilot studies in three communities, and translating energy insights into interactive visual narratives. The project will actively engage the communities in Kit Carson, Mora-San Miguel, and the Navajo Nation in the co-development process, ensuring that the technologies meet their specific needs and are effectively implemented. Through these activities, DigiCARES aims to generate advanced models, open datasets, and strategic decision frameworks, providing scalable solutions and setting a new benchmark for interdisciplinary research in climate resilience and sustainable energy systems. These efforts will significantly contribute to building a resilient and equitable energy future, supporting the nation’s net-zero emission goals. This project is funded by the EPSCoR Research Infrastructure Improvement-Focused EPSCoR Collaborations (RII-FEC) program. The RII-FEC program builds inter-jurisdictional collaborative teams of EPSCoR investigators in focus areas consistent with the NSF Strategic Plan. RII-FEC projects include researchers from at least two EPSCoR eligible jurisdictions with complementary expertise and resources necessary to address challenges, which neither party could address as well or as rapidly independently.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418359</AwardID>
+<Investigator>
+<FirstName>Leiqiu</FirstName>
+<LastName>Hu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leiqiu Hu</PI_FULL_NAME>
+<EmailAddress><![CDATA[lh0063@uah.edu]]></EmailAddress>
+<NSF_ID>000745984</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Faraz</FirstName>
+<LastName>Dadgostari</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Faraz Dadgostari</PI_FULL_NAME>
+<EmailAddress><![CDATA[faraz.dadgostari@montana.edu]]></EmailAddress>
+<NSF_ID>000877853</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Patricia</FirstName>
+<LastName>Sullivan</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Patricia A Sullivan</PI_FULL_NAME>
+<EmailAddress><![CDATA[patsulli@nmsu.edu]]></EmailAddress>
+<NSF_ID>000670406</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Di</FirstName>
+<LastName>Shi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Di Shi</PI_FULL_NAME>
+<EmailAddress><![CDATA[dshi@nmsu.edu]]></EmailAddress>
+<NSF_ID>000905593</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ying</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ying Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[y.zhang@okstate.edu]]></EmailAddress>
+<NSF_ID>000918187</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New Mexico State University]]></Name>
+<CityName>LAS CRUCES</CityName>
+<ZipCode>88003</ZipCode>
+<PhoneNumber>5756461590</PhoneNumber>
+<StreetAddress><![CDATA[1050 STEWART ST.]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J3M5GZAT8N85</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW MEXICO STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New Mexico State University]]></Name>
+<CityName>LAS CRUCES</CityName>
+<StateCode>NM</StateCode>
+<ZipCode>88003</ZipCode>
+<StreetAddress><![CDATA[1050 STEWART ST.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>194Y00</Code>
+<Text>EPSCoR RII Track-2 FEC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5294</Code>
+<Text>USGCRP</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~3000000</FUND_OBLG>
+</Award>
+</rootTag>

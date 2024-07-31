@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Evaluation Codes, Duals, and Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/15/2023</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>247013.00</AwardTotalIntnAmount>
+<AwardAmount>211147</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Coding theory supports reliable, robust communication even while using imperfect channels, which distort messages. It has evolved since its emergence in the 1940s to support various applications ranging from secure communications to data storage. Bespoke codes and customized error correction or erasure recovery algorithms satisfy ever-changing technological needs. Evaluation codes employ tools and underlying structures from algebraic geometry and commutative algebra to provide flexible constructions that address various scenarios. They build on the heavily utilized Reed-Solomon and Reed-Muller codes which depend on polynomial structures. This project focuses on designing codes and algorithms which recover erased data or correct errors using less information than traditional methods, building frameworks for use in practical settings, and employing them in quantum error correction. The impact of this proposed research expands beyond the immediate scientific applications to serve as a platform for student and postdoctoral training and efforts to diversify the discipline. The PIs have a history of providing research engagement opportunities and amplifying them via other outreach such as Cleveland State University's STEM Peer Teachers and Association of Latin Professionals for America as well as Virginia Tech's Broadening Engagement and Participation in Undergraduate Research, SWIMM: Supporting Women in Mathematics through Mentoring, and Virginia's Commonwealth Cyber Initiative. &lt;br/&gt;&lt;br/&gt;Evaluation codes are a large family of error-correcting codes, encompassing algebraic geometry codes and polynomial codes, such as Reed-Solomon and Reed-Muller codes. This project advances their utility by investigating their duals, focusing on the hull of a code, meaning the intersection of the code and its dual. The hull plays a role in the complexity of several algorithms in code-based cryptography, protection against side-channel and fault injection attacks, and quantum error correction. Tools from algebraic geometry and commutative algebra will be employed to determine duals and hulls of evaluation codes, including multivariate Goppa codes and codes from curves, and provide explicit constructions for codes with controlled duals. Objectives include designing evaluation codes and algorithms which utilize less information in erasure recovery (via linear exact repair) and error correction (via fractional decoding); extending the framework for polar coding via evaluation codes to channels with memory; and constructing new codes for quantum error correction. The proposed research serves as an ideal training ground for students and postdoctoral researchers due to multiple points of entry and the opportunity for computation, allowing for increased opportunities to diversify the discipline.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>10/25/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>10/25/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401558</AwardID>
+<Investigator>
+<FirstName>Hiram</FirstName>
+<LastName>Lopez Valdez</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hiram H Lopez Valdez</PI_FULL_NAME>
+<EmailAddress><![CDATA[hhlopez@vt.edu]]></EmailAddress>
+<NSF_ID>000812836</NSF_ID>
+<StartDate>10/25/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M515A1DKXAN8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240603359</ZipCode>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>806000</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~211146</FUND_OBLG>
+</Award>
+</rootTag>

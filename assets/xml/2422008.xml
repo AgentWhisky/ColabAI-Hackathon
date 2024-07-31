@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Full Waveform Imaging of Hawaii's Magmatic System from the Mantle Source to the Surface]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>335503.00</AwardTotalIntnAmount>
+<AwardAmount>213696</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy Panero</SignBlockName>
+<PO_EMAI>wpanero@nsf.gov</PO_EMAI>
+<PO_PHON>7032925058</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Hawaii is home to some of the most active volcanoes on Earth, with recent volcanic eruptions at both Kīlauea and Mauna Loa. In 2018, the eruption of Kīlauea Volcano produced extensive lava flows covering over 35 square kilometers and damaged or destroyed over 1,800 structures, including many residential buildings. More recently, from November 27, 2022, to December 13, 2022, Mauna Loa experienced its first eruption in more than three decades. An improved understanding of the hazards associated with Hawaiian volcanism requires detailed knowledge of how magma is stored in the subsurface. However, gaps remain in our knowledge about the volume and geometry of subsurface magma reservoirs that feed volcanic eruptions. This project investigates the subsurface magma reservoirs below Hawaii using seismic data and modern subsurface imaging techniques that rely on recent advances in supercomputing. The results from the project will allow the researchers to gain new insight into the depth, dimensions, and melt fraction of magma reservoirs below Hawaii, and provide a clearer picture of how magma storage zones are related to earthquake activity. The project does not require any new installation of seismic instruments in Hawaii but relies on data from previous temporary instrument deployments and permanent monitoring stations. This project will support the education of undergraduate students in the classroom as well as the training of a PhD student in all aspects of this work. &lt;br/&gt;&lt;br/&gt;The Hawaiian Island chain is the classic example of hotspot volcanism. This chain was instrumental in the development of the plume hypothesis which proposes that intraplate volcanism and increased plate boundary volcanism is driven by upwelling thermal plumes from the deep mantle. Many aspects of Hawaiian volcanism are well explained by a steady supply of magma below a moving oceanic plate. However, key questions remain regarding the extent of melting in the source region, the depths of magma reservoir assembly and storage, and how magma is transported from its source region to feed both volcanic eruptions and those magmatic intrusions that do not reach the surface. Seismic tomography studies have been important for developing our current understanding of Hawaiian volcanism, but have been hindered by a variety of factors, including imperfect data coverage and limitations of ray-based imaging approaches. This project will provide a new high-resolution seismic tomography model of the seismic velocity structure of the Hawaiian volcanic system. This will be achieved by inverting local earthquake body wave and ambient-noise-derived surface-wave data with a full waveform imaging approach. The use of improved imaging theory, combined with diverse data sets from on-land and ocean-bottom seismic deployments, will provide a more complete picture of Hawaii’s magmatic system from the surface to uppermost mantle depths. In addition to providing new constraints on Hawaii’s magmatic plumbing system, including the geometry of magma reservoirs, melt fraction and organization, the project results have potential to improve catalogs of earthquake source parameters and gain insight into the relationship between seismicity and magma migration. A PhD student will engage in all parts of this research, and the results will be incorporated into undergraduate courses to strengthen learning of the scientific processes required to assess natural hazards.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2422008</AwardID>
+<Investigator>
+<FirstName>Ross</FirstName>
+<LastName>Maguire</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ross R Maguire</PI_FULL_NAME>
+<EmailAddress><![CDATA[rossrm@illinois.edu]]></EmailAddress>
+<NSF_ID>000760865</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>157400</Code>
+<Text>Geophysics</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~213696</FUND_OBLG>
+</Award>
+</rootTag>

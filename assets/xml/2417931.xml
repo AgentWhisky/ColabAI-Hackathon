@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Exact Subvector Inference]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>309960.00</AwardTotalIntnAmount>
+<AwardAmount>309960</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kwabena Gyimah-Brempong</SignBlockName>
+<PO_EMAI>kgyimahb@nsf.gov</PO_EMAI>
+<PO_PHON>7032927466</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award will fund a research project to improve the methodology for testing coefficients in linear regressions. Linear regression has been the workhorse of empirical research in economics but existing methods of making inference about estimates cannot produce results that are appropriate without making restrictive assumptions about the distribution of error terms in small samples or relying on infinitely large sample properties.   This research will develop new test methods that are appropriate without regard to assumptions about the distribution of the underlying error terms or sample size.  The new approach will allow researchers to construct test statistics that are valid under weaker assumptions than current methods.  These methods will be useful for the analyses of observational data as well as guide the design of experiments. The results of this research project will lead to more precise coefficient estimates, hence improve decision making, increase economic growth, and improve the living standards of many citizens.&lt;br/&gt;&lt;br/&gt;This award will fund a research project that will develop a complete small sample and asymptotic theory for randomization-based inference for linear regressions. This estimator is not only asymptotically robust to heteroskedasticity but also to serial dependence, making it an omnibus procedure with small-sample guarantees.  The conceptual aspect of the research will frame the randomization inference, which is tailored to observational data and Fisher tests and experimental data in the same framework to better understand the connections between the two. The research results will show that randomization inference has a natural interpretation as a robust alternative to Fisher tests, which in turn suggests important methodological developments.  The results of this research project will lead to more precise coefficient estimates, improve decision making, increase economic growth, and improve the living standards of many citizens.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417931</AwardID>
+<Investigator>
+<FirstName>Guillaume</FirstName>
+<LastName>Pouliot</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Guillaume Pouliot</PI_FULL_NAME>
+<EmailAddress><![CDATA[guillaumepouliot@uchicago.edu]]></EmailAddress>
+<NSF_ID>000768188</NSF_ID>
+<StartDate>07/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUE9HKT2CLC9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ZUE9HKT2CLC9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606375418</ZipCode>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>132000</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~309960</FUND_OBLG>
+</Award>
+</rootTag>

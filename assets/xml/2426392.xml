@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: 2024 Talbot Workshop]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>40000.00</AwardTotalIntnAmount>
+<AwardAmount>40000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christopher Stark</SignBlockName>
+<PO_EMAI>cstark@nsf.gov</PO_EMAI>
+<PO_PHON>7032924869</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The 2024 Talbot Workshop, titled “Topological Cyclic Homology of Ring Spectra,” will be held at Tall Timbers Retreat in Nacogdoches, TX, from August 11-17th, 2024. The Talbot Workshop is an annual one-week academic retreat, providing an immersive opportunity for early career participants to become acquainted with current research in algebraic topology and related fields. It follows a model that has been developed and refined over many years. Each year, participants gather to study a topic of current research interest under the guidance of two senior experts. The mentors for the 2024 Talbot Workshop will be Jeremy Hahn (MIT) and Allen Yuan (Northwestern University), who both contributed essentially to the recent spectacular resolution of the fifty-year-old “Telescope conjecture” of Doug Ravenel. This exciting development, reported on in Quanta Magazine, connects two long-standing areas of mathematical research of wide international interest -- algebraic K-theory and homotopy theory -- in a completely new and revolutionary way. The focus on a single research topic, the collective nature — mentors and participants sharing meals, housing, and activities for a week — and graduate student organization make the Talbot Workshops unique among mathematics events.&lt;br/&gt; &lt;br/&gt;Topological cyclic homology is a rapidly developing subject sitting between homotopy theory and (via the work of Bhatt–Morrow–Scholze) p-adic arithmetic geometry. There are now many excellent introductions to topological cyclic homology that focus on discrete commutative rings and spherical group rings. We aim to give a computationally focused introduction to the topological cyclic homology of finite height ring spectra. The topic is also closely connected to (MU-based) synthetic spectra, and may help familiarize students with their use in computations. The workshop will proceed by discussing THH and its concomitant structures: the motivic filtration, the circle action, and the Frobenius map. We will follow the discussion of each structure with computations in the basic examples of THH of finite fields, the integers, and ku, with the ultimate goal of understanding syntomic cohomology and Lichtenbaum–Quillen theorems. We will conclude with connections to the algebraic K-theory of ring spectra, chromatic redshift, the telescope conjecture, and prismatization.&lt;br/&gt;&lt;br/&gt;Conference website: https://sites.google.com/view/talbotworkshop/current-talbot&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2426392</AwardID>
+<Investigator>
+<FirstName>Haynes</FirstName>
+<LastName>Miller</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Haynes R Miller</PI_FULL_NAME>
+<EmailAddress><![CDATA[hrm@math.mit.edu]]></EmailAddress>
+<NSF_ID>000094900</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126700</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~40000</FUND_OBLG>
+</Award>
+</rootTag>

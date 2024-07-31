@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Mathematical Problems in Relativistic Fluid Dynamics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>305000.00</AwardTotalIntnAmount>
+<AwardAmount>305000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitry Golovaty</SignBlockName>
+<PO_EMAI>dgolovat@nsf.gov</PO_EMAI>
+<PO_PHON>7032922117</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Relativistic fluid dynamics is concerned with the study of fluids (like water, gases, or the plasma that composes our Sun) when effects pertaining to Einstein’s theory of relativity cannot be neglected. It plays an essential role in many areas of physics, including high-energy nuclear physics, astrophysics, and cosmology. It is also a fertile source of mathematical problems. This project will advance the mathematical foundations and applications of relativistic fluid dynamics by studying problems of outstanding scientific merit in mathematics and physics. The project will contribute to the formation of the next generation of scientists via support of graduate students and dissemination of research findings through seminars and conferences. The project will also promote STEM education among children through events (such as reading sessions) related to the principal investigator’s book “Who Me? I’m a Mathematician Now!” The book is part of the Who Me series, published by World Scientific, whose goal is to promote STEM fields among children. It targets children at about ten-years old and the goal of the book is to get children excited about mathematics.&lt;br/&gt;&lt;br/&gt;The scientific goals of this project are (I) establish local well-posedness of the primary model of relativistic gaseous star dynamics, given by a free-boundary version of the Einstein-Euler system; (II) establish local and global well-posedness and causality for the two most widely used models of relativistic fluids with viscosity; and (III) devise mathematical tools to access the reliability of numerical simulations of relativistic fluids with viscosity pertinent to the study of heavy-ion collisions and mergers of neutron stars. A key element of the project is the development of tools to study quasilinear hyperbolic partial differential equations with multiple characteristic speeds.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/30/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406870</AwardID>
+<Investigator>
+<FirstName>Marcelo</FirstName>
+<LastName>Disconzi</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marcelo M Disconzi</PI_FULL_NAME>
+<EmailAddress><![CDATA[marcelo.disconzi@vanderbilt.edu]]></EmailAddress>
+<NSF_ID>000626425</NSF_ID>
+<StartDate>05/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Vanderbilt University]]></Name>
+<CityName>NASHVILLE</CityName>
+<ZipCode>372032416</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress><![CDATA[110 21ST AVE S]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GTNBNWXJ12D5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VANDERBILT UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Vanderbilt University]]></Name>
+<CityName>NASHVILLE</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>372032416</ZipCode>
+<StreetAddress><![CDATA[110 21ST AVE S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~305000</FUND_OBLG>
+</Award>
+</rootTag>

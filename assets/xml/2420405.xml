@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RII FEC: Data-Advanced Research and Education to Improve Weather Intelligence and Localized Climate Change Assessment and Resilience in Agriculture-based Communities]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>5999727.00</AwardTotalIntnAmount>
+<AwardAmount>2999894</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>01060100</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OIA</Abbreviation>
+<LongName>OIA-Office of Integrative Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hongmei Luo</SignBlockName>
+<PO_EMAI>hluo@nsf.gov</PO_EMAI>
+<PO_PHON>7032928867</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The central U.S. states of Kansas, Arkansas, Nebraska, and Iowa (collectively known as the KANI states) experience some of the most dynamic weather patterns in the nation. This weather affects all walks of life in nearly all economic sectors, especially in agriculture-based communities.  Furthermore, the scarcity of observation stations capable of delivering real-time soil and atmospheric data in KANI states make the assessment of climate and weather prediction a challenge. This challenge also co-exists with the high demand of workforce development as well as reliable weather intelligence to increase agriculture-based economy in a changing climate. To address these challenges, this project aims to design and implement the Data-Advanced Research and Education (DARE) infrastructure. The project aims to increase climate change resilience in agriculture-based communities. The DARE infrastructure will be developed and maintained within an integrated workforce development framework, in which classroom teaching, research, extracurricular activities, community engagement and communication work in tandem to identify, assess, and, to some degree, mitigate the localized impacts of climate change and environmental justice issues. The DARE project will contribute to a paradigm shift of readiness and infrastructure development strategy in these agriculture-based communities to embrace new technology for economic growth and adapting to climate change. Its approach to integrate engineering solution, citizen science, and societal impacts will expand both grassroots efforts and research opportunities to increase climate change resilience at local community level. The observation data collected in KANI can be used by broader science community to assess climate change and model predictions in rural and peri-rural areas in the United States.&lt;br/&gt;&lt;br/&gt;The DARE project is a collaboration among four universities in KANI states, namely the University of Iowa, the University of Arkansas, Kansas State University, and the University of Nebraska-Lincoln. This collaborative project will achieve data acquisition through a citizen science observation network to improve spatial coverage and real-time capacity for weather and soil observations. The network will deploy smart-and-connected low-cost sensors developed in house, enabling the real-time acquisition and delivery of weather and soil data across the KANI states (especially in socioeconomically disadvantaged communities). The DARE project will engage citizens (including K-12 and college students) via summer camps and field campaigns and through statewide agriculture-extension offices for education and communication, community health workers, various organization for growers, offices for Science, Technology, Engineering, and Mathematics (STEM) education, and DARE virtual service system. Data from the citizen science network will be used together with machine-learning method to improve heat index mapping and environmental justice studies; correct weather forecast bias in temperature and precipitation, downscale climate modeling data for subseasonal-to-seasonal (S2S) outlook; and improve efficiency of water use for farming and green space. Upon completion, this project can be a self-sustaining grass-root infrastructure that improves not only higher education and academic research but also participatory research and faculty career development. Through this project, the workforce in agriculture-based communities will not only be increased but also be better equipped with important skills (e.g., sensor design and manufacturing, Unmanned Aerial Vehicle or UAV surveillance, big data analysis) that are in par with modern technologies and in concert with critical thinking of and strategic planning for the resilience to cope with climate change. This project is funded by the EPSCoR Research Infrastructure Improvement-Focused EPSCoR Collaborations (RII-FEC) program. The RII-FEC program builds inter-jurisdictional collaborative teams of EPSCoR investigators in focus areas consistent with the NSF Strategic Plan. RII-FEC projects include researchers from at least two EPSCoR eligible jurisdictions with complementary expertise and resources necessary to address challenges, which neither party could address as well or as rapidly independently.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2420405</AwardID>
+<Investigator>
+<FirstName>Song</FirstName>
+<LastName>Feng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Song Feng</PI_FULL_NAME>
+<EmailAddress><![CDATA[songfeng@uark.edu]]></EmailAddress>
+<NSF_ID>000545503</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jun</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jun Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[jun-wang-1@uiowa.edu]]></EmailAddress>
+<NSF_ID>000565658</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bingbing</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bingbing Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[bingbing-zhang@uiowa.edu]]></EmailAddress>
+<NSF_ID>000991879</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiaomao</FirstName>
+<LastName>Lin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaomao Lin</PI_FULL_NAME>
+<EmailAddress><![CDATA[xlin@ksu.edu]]></EmailAddress>
+<NSF_ID>000668195</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xin</FirstName>
+<LastName>Qiao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xin Qiao</PI_FULL_NAME>
+<EmailAddress><![CDATA[xin.qiao@unl.edu]]></EmailAddress>
+<NSF_ID>000770985</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Iowa]]></Name>
+<CityName>IOWA CITY</CityName>
+<ZipCode>522421316</ZipCode>
+<PhoneNumber>3193352123</PhoneNumber>
+<StreetAddress><![CDATA[105 JESSUP HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z1H9VJS8NG16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF IOWA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Iowa]]></Name>
+<CityName>IOWA CITY</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>522421316</ZipCode>
+<StreetAddress><![CDATA[105 JESSUP HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>194Y00</Code>
+<Text>EPSCoR RII Track-2 FEC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5294</Code>
+<Text>USGCRP</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~2999894</FUND_OBLG>
+</Award>
+</rootTag>

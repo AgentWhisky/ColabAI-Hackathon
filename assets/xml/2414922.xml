@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Stable Homotopy Theory in Algebra, Topology, and Geometry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>211980.00</AwardTotalIntnAmount>
+<AwardAmount>185923</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christopher Stark</SignBlockName>
+<PO_EMAI>cstark@nsf.gov</PO_EMAI>
+<PO_PHON>7032924869</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Stable homotopy theory was developed throughout the twentieth century to study high-dimensional topological spaces. Since spheres are the fundamental building blocks of topological spaces, the stable stems, which encode the possible relations between high-dimensional spheres up to continuous deformation, are a central object of study. Beyond topology, the stable stems have surprisingly broad applications throughout mathematics, ranging from geometric problems, such as classifying differentiable structures on spheres, to algebraic problems, such as classifying projective modules over rings. This project will explore further applications of stable homotopy theory in algebra, topology, and geometry. Broader impacts center on online community building. The PI will continue co-organizing the Electronic Computational Homotopy Theory Online Research Community, which aims to increase inclusion at the undergraduate, graduate, and senior levels by organizing undergraduate research opportunities, graduate courses, online seminars, mini-courses, and networking events. To address inequality at the K-12 level, the PI will develop and manage a program pairing undergraduates from his home institution with students from local after-school programs for online tutoring. This program would circumvent certain barriers to participation, such as lack of access to transportation and facilities, which are common in traditional outreach.&lt;br/&gt;&lt;br/&gt;Specific research projects include the study of the stable stems and their applications in geometric topology, algebro-geometric analogues of the stable stems and their connections to number theory, and equivariant analogues of algebraic K-theory and their applications in algebra and geometry. More specifically, building on previous work, the PI will study the stable stems using topological modular forms and the Mahowald invariant, aiming to deduce the existence of exotic spheres in new dimensions. In a related direction, the PI will use the kq-resolution introduced in previous work to study the motivic stable stems, an algebro-geometric analogues of the stable stems. The main goal is to apply the kq-resolution to relate the motivic stable stems to arithmetic invariants like Hermitian K-theory. Real algebraic K-theory, which encodes classical invariants like algebraic K-theory, Hermitian K-theory, and L-theory, will also be studied using the trace methods developed in previous work. The overarching goal is extending results from algebraic K-theory to real algebraic K-theory, thereby obtaining results for Hermitian K-theory and L-theory that will have applications in algebra and geometry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414922</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Quigley</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James D Quigley</PI_FULL_NAME>
+<EmailAddress><![CDATA[mbp6pj@virginia.edu]]></EmailAddress>
+<NSF_ID>000787557</NSF_ID>
+<StartDate>01/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229034833</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJG6HU8PA4S5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RECTOR &amp; VISITORS OF THE UNIVERSITY OF VIRGINIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>229034833</ZipCode>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126700</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~185923</FUND_OBLG>
+</Award>
+</rootTag>

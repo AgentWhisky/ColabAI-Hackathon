@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation Potential of a Mobile Triage and Treatment Planning System for Mental Health]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaime A. Camelio</SignBlockName>
+<PO_EMAI>jcamelio@nsf.gov</PO_EMAI>
+<PO_PHON>7032922061</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is the development of an accessible, large-scale, self-service, semi-automated, asynchronous mental health assessment tool. This tool includes a mobile triage and monitoring platform, treatment planning, and monitoring in combination with a video interface to internal Electronic Medical Records. Mental healthcare costs in the U.S. ($280 billion per annum) and this tool may improve the efficiency and efficacy of clinician/patient meetings. This platform has important potential impacts as poor mental health is disabling, distressing, and expensive for the individuals affected, their families and communities, and society at large. &lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of a digital front door to the mental health system. The solution is a mobile triage, treatment planning, and monitoring tool that combines a video interface with an internal Electronic Medical Record interface. This tool improves access to care, increases patient and provider flexibility and efficiency, presents patients a choice of interviewers, produces perfect fidelity interviews that include a searchable verbatim record in video and text forms, and creates video records of patients' mental states. In previous technical iterations, the tool was found to be clinically effective in diagnosing and recommending treatment plans. There is no other mental health triaging tool available that makes use of recorded videos for timely, efficient mental health diagnosis and treatment. Prior research has demonstrated the feasibility and clinical outcomes of this approach, while also demonstrating that the solution improves the efficiency and well-being of providers by reducing the time for a clinician to assess a patient from 60 minutes to 30 minutes while maintaining the quality of the assessment.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421945</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Yellowlees</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter Yellowlees</PI_FULL_NAME>
+<EmailAddress><![CDATA[pmyellowlees@ucdavis.edu]]></EmailAddress>
+<NSF_ID>000809936</NSF_ID>
+<StartDate>04/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Davis]]></Name>
+<CityName>DAVIS</CityName>
+<ZipCode>956186153</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress><![CDATA[1850 RESEARCH PARK DR STE 300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TX2DAGQPENZ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, DAVIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Davis]]></Name>
+<CityName>DAVIS</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>956186153</ZipCode>
+<StreetAddress><![CDATA[1850 RESEARCH PARK DR, STE 300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

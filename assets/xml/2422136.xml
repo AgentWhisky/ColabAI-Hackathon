@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FMitF: Track I: Verified Probabilistic Programming for Hybrid Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>875000.00</AwardTotalIntnAmount>
+<AwardAmount>875000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pavithra Prabhakar</SignBlockName>
+<PO_EMAI>pprabhak@nsf.gov</PO_EMAI>
+<PO_PHON>7032922585</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The project is developing a probabilistic programming framework for expressing differential equations and hybrid system models that combine the continuous evolution of state with instantaneous state and mode changes through discrete actions. The probabilistic programming framework is being applied to modeling in key areas, including epidemiology, medical devices, and autonomous systems. The project's novelties include the development of the modeling formalism that incorporates models of continuous-time systems, systematic model transformation techniques, and the use of formal techniques to verify these transformations rigorously. The project's impacts include a useful modeling framework that will help the cause of rigorous model-based decision-making in diverse areas ranging from public policy to robotics and medicine. The project is recruiting a diverse cohort of undergraduate researchers through summer research experience for undergraduate programs at the University of Colorado Boulder. In addition to engaging students in the research, the project conducts workshops to help students develop writing and presentation skills to ensure their future success in academia as well as industry. &lt;br/&gt;&lt;br/&gt;Differential Equations and hybrid system models are exceedingly common across science and engineering applications. However, inference of these models from data is quite challenging. The project develops rigorously verified model transformation methods, including projection operators to remove latent/unobservable state variables, the use of approximate solutions, and the reduction of the complexity of inference by guessing the correlation between posterior parameters. These transformations are formalized and verified using theorem-proving approaches to avoid errors that can often be catastrophic in the context of safety-critical systems. The project develops an integrated programming model and formal methods that will allow the expression of probabilistic models and their transformation in a provably safe manner. The approach is being applied to challenging inference problems involving models and datasets from domains such as modeling epidemics and estimating the impact of public policy decisions on the parameters that affect their spread, developing personalized models for people with type-1 diabetes, and modeling driving strategies for testing autonomous vehicles.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2422136</AwardID>
+<Investigator>
+<FirstName>Sriram</FirstName>
+<LastName>Sankaranarayanan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sriram Sankaranarayanan</PI_FULL_NAME>
+<EmailAddress><![CDATA[srirams@colorado.edu]]></EmailAddress>
+<NSF_ID>000536538</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rebecca</FirstName>
+<LastName>Morrison</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rebecca E Morrison</PI_FULL_NAME>
+<EmailAddress><![CDATA[rebeccam@colorado.edu]]></EmailAddress>
+<NSF_ID>000813631</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gowtham</FirstName>
+<LastName>Kaki</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gowtham Kaki</PI_FULL_NAME>
+<EmailAddress><![CDATA[gowtham.kaki@colorado.edu]]></EmailAddress>
+<NSF_ID>000882572</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress><![CDATA[3100 MARINE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 481 572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803090001</ZipCode>
+<StreetAddress><![CDATA[3100 MARINE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>094Y00</Code>
+<Text>FMitF: Formal Methods in the F</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>071Z</Code>
+<Text>FMitF-Formal Methods in the Field</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8206</Code>
+<Text>Formal Methods and Verification</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~875000</FUND_OBLG>
+</Award>
+</rootTag>

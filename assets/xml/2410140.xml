@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Manifold learning in Wasserstein space using Laplacians: From graphs to submanifolds]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>419962.00</AwardTotalIntnAmount>
+<AwardAmount>419962</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Troy D. Butler</SignBlockName>
+<PO_EMAI>tdbutler@nsf.gov</PO_EMAI>
+<PO_PHON>7032922084</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Manifold learning algorithms are tools used to reveal the underlying structure of high-dimensional datasets. This can be achieved by finding a lower-dimensional representation of the dataset, thereby enhancing the efficiency of subsequent data analysis. They find applications across various fields such as single-cell analysis, natural language processing, and neuroscience. While most existing algorithms are designed for datasets represented in vector spaces, real-world data often comprises distributions or point-clouds, presenting both theoretical and computational challenges for manifold learning algorithms. This project will develop manifold learning algorithms tailored for distributional or point-cloud datasets, with a particular emphasis on theoretical analysis and computational efficiency. Leveraging the framework of optimal transport and established manifold learning theory in vector spaces, the project will address these challenges. This project will also train students in interdisciplinary aspects of the research.&lt;br/&gt;&lt;br/&gt;This project will develop and analyze algorithms for uncovering low-dimensional intrinsic structures of data sets within Wasserstein space, a natural space for distributions or point-clouds. This is motivated by the recent success in representing data as elements in Wasserstein space, as opposed to Euclidean space, and the necessity to develop efficient algorithms for their analysis. To accomplish the goals of this project, the research team will leverage the eigenvectors of a Laplacian matrix built from a data-dependent graph. Specifically, consistency theory of operators such as the Laplacian between the discrete (graph) and the continuous (submanifold) setting will be developed, drawing inspiration from the well-established theory for finite-dimensional Riemannian manifolds. The project will develop theoretically provable methods that provide algorithmic insights, which in turn can be used for efficient algorithms. The aims are threefold: (1) define dimensionality reduction algorithms for point-cloud data that can uncover curved submanifolds through suitable embeddings, (2) provide theoretical guarantees for these embeddings, and (3) design efficient algorithms for applications in high-dimensional settings such as single-cell data analysis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410140</AwardID>
+<Investigator>
+<FirstName>Caroline</FirstName>
+<LastName>Moosmueller</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Caroline Moosmueller</PI_FULL_NAME>
+<EmailAddress><![CDATA[cmoosm@unc.edu]]></EmailAddress>
+<NSF_ID>000843672</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shiying</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shiying Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[shiyl@unc.edu]]></EmailAddress>
+<NSF_ID>000987205</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275995023</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress><![CDATA[104 AIRPORT DR STE 2200]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D3LHU66KBLD5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D3LHU66KBLD5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName>CHAPEL HILL</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>275995023</ZipCode>
+<StreetAddress><![CDATA[104 AIRPORT DR STE 2200]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~419962</FUND_OBLG>
+</Award>
+</rootTag>

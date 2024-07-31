@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Quantile Regression in the Big Data Regime: Online Learning, Missingness, and Causality]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>349984.00</AwardTotalIntnAmount>
+<AwardAmount>349984</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cheryl Eavey</SignBlockName>
+<PO_EMAI>ceavey@nsf.gov</PO_EMAI>
+<PO_PHON>7032927269</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This research project will develop innovative solutions for quantile regression analysis of big data. Big data has become prevalent in modern society due to the exponential growth of digital information. Quantile regression is a powerful statistical tool that goes beyond the average relationship provided by traditional regression. However, big data poses fundamental challenges for quantile regression, both statistically and computationally. This project will address those challenges by developing methods that achieve computational efficiency without losing statistical efficiency. The project will contribute to statistical research on both quantile regression and statistical computation. The new methods will be of value for applications in a wide range of fields, including economics, finance, the social sciences, and healthcare. A graduate student will be involved in the conduct of the research. Educational materials and open-source software will be created for the broader research community.&lt;br/&gt;&lt;br/&gt;This research project will develop an efficient computational and inferential framework for supporting quantile regression analysis in both massive data streams and static big data. To overcome the significant challenges brought by big data's massive scale and complexity, online processing and distributed computing methods become essential for their cost-effectiveness, scalability, and real-time processing capability. However, traditional statistical procedures for quantile regression usually do not scale well to data size and frequently are infeasible when dealing with massive data. The project has three research aims. First, the investigator will develop a fast online quantile regression analysis framework for data streams to bridge the gap between computational and statistical efficiency. Statistical theory for dealing with the non-smooth objective in quantile regression will be studied. Second, a distributed computational and inferential framework for quantile regression analysis in big data with missing data for causal inference will be developed. The new methods will be applied to electronic health record data. Finally, the investigator will develop open-source software in R or Python to implement the advances from this project. Quantile regression is used in a wide range of applications when understanding the effect of variables across the distribution is important. The developed statistical theory and inferential tools will provide new foundations for quantile regression analysis in big data and hence benefit all related application fields.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418979</AwardID>
+<Investigator>
+<FirstName>Nan</FirstName>
+<LastName>Lin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nan Lin</PI_FULL_NAME>
+<EmailAddress><![CDATA[nlin@wustl.edu]]></EmailAddress>
+<NSF_ID>000302235</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Washington University]]></Name>
+<CityName>SAINT LOUIS</CityName>
+<ZipCode>63110</ZipCode>
+<PhoneNumber>3147474134</PhoneNumber>
+<StreetAddress><![CDATA[ONE BROOKINGS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L6NFUM28LQM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WASHINGTON UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Washington University]]></Name>
+<CityName>SAINT LOUIS</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>631304862</ZipCode>
+<StreetAddress><![CDATA[ONE BROOKINGS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>133300</Code>
+<Text>Methodology, Measuremt &amp; Stats</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~349984</FUND_OBLG>
+</Award>
+</rootTag>

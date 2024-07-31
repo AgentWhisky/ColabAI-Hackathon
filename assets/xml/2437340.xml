@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SBP: Scientific topics and careers at the intersection: an algorithmic approach]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>405632.00</AwardTotalIntnAmount>
+<AwardAmount>209205</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Feeney</SignBlockName>
+<PO_EMAI>mfeeney@nsf.gov</PO_EMAI>
+<PO_PHON>7032927197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to investigate the direct harms to science wrought by structural racism and the benefits derived by the inclusion of people of color and other historically marginalized groups in the scientific workforce. Specifically, this work seeks to (a) quantify the participation of people of color and members of historically marginalized populations in the production of science, (b) elucidate their role in propelling intellectual innovations, and (c) understand how the distribution of labor and composition of scientific teams creates barriers and pathways to their scientific success. The project will support the mission of open science, by making the algorithms and publications openly available to propel this area of research. Finally, the PI team will recruit a cohort of a dozen student Fellows from a variety of disciplines and countries to discuss the ways in which they incorporate their lived experiences into research design and the challenges and barriers to this process. Priority will be given to doctoral students of color, or who identify as a member of a historically marginalized population within their country of affiliation. The goal of the fellowship is to empower students to navigate academic spaces by suggesting new topical directions with advisors, to cultivate change in terms of how authors are distributed in scientific publications, and to examine what and how science is conducted. Our research aims to empirically examine the degree to which diversity in the scientific workforce creates a more innovative and robust scientific system. The research has strong implications for all sectors of society.&lt;br/&gt;&lt;br/&gt;This research builds upon previous quantitative analyses to construct more robust and equitable algorithms that take into consideration contextual factors that influence the performance of the algorithm.  To address our primary aim we use articles’ abstract, title, and keywords to train a Latent Dirichlet Allocation (LDA) model to infer the topics within a corpus of papers and the distribution of topics within each article. Data sources include millions of articles and distinct authors indexed in the Web of Science (WoS) database.  To address our primary aim we will use articles’ abstract, title, and keywords to train a Latent Dirichlet Allocation (LDA) model and to extend our work on intersecting race, ethnicity, and gender inequalities in the US research landscape to citation and collaboration patterns, the role of institutional affiliation and changes over time; infer the topics within a corpus of papers, and the distribution of topics within each article.  Our second aim is to determine if variation by race, ethnicity and gender identified in the US context translates to other national contexts. To address this second aim we will replicate and expand our methodology to two other scientifically productive, diverse societies. Comparison across all three nation states will allow for the identification of potentially generalizable characteristics, mechanisms that can be used to improve equity in science across the globe, and knowledge of how topicality of research in different countries is affected by the racial composition of teams. This research will provide a scalable methodological contribution that extends beyond the confines of this single research project and will allow other researchers to analyze race, ethnicity, and gender in any dataset that includes individual names.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2437340</AwardID>
+<Investigator>
+<FirstName>Thema</FirstName>
+<LastName>Monroe-White</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thema Monroe-White</PI_FULL_NAME>
+<EmailAddress><![CDATA[tmonroew@gmu.edu]]></EmailAddress>
+<NSF_ID>000715723</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EADLFP7Z72E5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE MASON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>H4NRWLFCDF43</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>220304422</ZipCode>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>110Y00</Code>
+<Text>SBP-Science of Broadening Part</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>125Y00</Code>
+<Text>Science of Science</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>147Y00</Code>
+<Text>Human Networks &amp; Data Sci Res</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>104Z</Code>
+<Text>HNDS-R: Human Networks &amp; Data Sci Resrch</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8050</Code>
+<Text>Science of Broadening Participation</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~209204</FUND_OBLG>
+</Award>
+</rootTag>

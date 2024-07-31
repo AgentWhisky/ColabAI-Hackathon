@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Postdoctoral Fellowship: PRFB: The genomics of grass-legume interactions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2025</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>249000.00</AwardTotalIntnAmount>
+<AwardAmount>249000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kan Wang</SignBlockName>
+<PO_EMAI>kawang@nsf.gov</PO_EMAI>
+<PO_PHON>7032924591</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This action funds an NSF Plant Genome Postdoctoral Research Fellowship in Biology for FY 2024. The fellowship supports a research and training plan in a host laboratory for the Fellow who also presents a plan to broaden participation in biology. The title of the research and training plan for this fellowship to Aimee Schulz is “The Genomics of Grass-Legume Interactions”. The host institution for the fellowship is the University of Minnesota and the sponsoring scientists are Drs. Candice Hirsch, Aaron Lorenz, and David Tilman.&lt;br/&gt;&lt;br/&gt;Grass-legume interactions are fundamental aspects of native prairie ecosystems and agricultural systems, as commonly seen in maize-soybean rotations. These plants interact though a mutually beneficial relationship that improves nutrient update and reduces the need for synthetic fertilizers, holding potential for reducing agricultural-related greenhouse gas emissions.  Despite the ecological and agricultural importance, the genes controlling these interactions remain poorly understood. This project aims to identify genes and pathways that are involved in the beneficial relationship between grasses and legumes in both prairie and crop systems. By leveraging a long-running prairie biodiversity experiment and a novel soybean-maize rotation experiment, the research will provide a comprehensive understanding of grass-legume interactions through direct, within-year interactions versus indirect, across-year interactions. The training objectives include 1) refinement of the Fellow’s statistical, quantitative genetics, and computational skills; 2) development of community ecology, large-scale field experiment, and high throughput phenotyping expertise; and 3) undergo formal training in pedagogy. Broader impacts include engaging with local communities and stakeholders through educational outreach programs hosted by the University of Minnesota, in addition to providing learning and training opportunities for middle and high school students through Minnesota 4-H and local school districts, helping them develop their own experiments in ecological and agricultural sciences.&lt;br/&gt;&lt;br/&gt;Given the significant role of grass-legume interactions in both natural and agricultural systems, this project uses genomics, field experiments, and high throughput phenotyping via drones to dissect the genetic mechanisms underpinning these interactions. Specifically, the project objectives are to 1) investigate spatial interactions and identify candidate loci by sequencing diverse grass-legume mixtures and monocultures from a long-running prairie biodiversity experiment; 2) investigate temporal interactions and identify candidate loci through the use of a soybean-maize rotation field experiment to determine how soybean genotype impacts maize growth and development in the following year; and 3) identify any conserved genes or pathways between temporal and spatial interactions of grasses and legumes. All data and code generated from the project, including genomic and drone data, will be publicly accessible and associated with a publication via established repositories such as NCBI's Sequence Read Archive (SRA), the University of Minnesota's Digital Repository (DRUM), the Environmental Data Initiative (EDI) repository, and DataDryad.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410349</AwardID>
+<Investigator>
+<FirstName>Aimee</FirstName>
+<LastName>Schulz</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aimee J Schulz</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000931298</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Schulz, Aimee J]]></Name>
+<CityName>Ithaca</CityName>
+<ZipCode>14853</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota]]></Name>
+<CityName>St Paul</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>551080010</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>810500</Code>
+<Text>NPGI PostDoc Rsrch Fellowship</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7174</Code>
+<Text>POSTDOC FELLOW IN SCI, MATH EN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7577</Code>
+<Text>PLANT GENOME RESEARCH RESOURCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9109</Code>
+<Text>AGRICULTURAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~249000</FUND_OBLG>
+</Award>
+</rootTag>

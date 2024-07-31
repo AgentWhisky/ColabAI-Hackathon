@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[APTO: Collaborative Research: Global Observatory and Virtual Laboratory for Science and Technology Advance]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>20000000.00</AwardTotalIntnAmount>
+<AwardAmount>3998231</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15010000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TF</Abbreviation>
+<LongName>Technology Frontiers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeff Alstott</SignBlockName>
+<PO_EMAI>jalstott@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Over the past half-century, the global geopolitical balance of scientific, technological, and economic leadership has shifted, with China’s meteoric rise and the ascendance of new powers including Korea and India. Technological leadership requires driving advances and setting standards that catalyze the future of global productivity. To understand pathways that enhance U.S. competitiveness in critical technology capacity, production, and use, this project will create a global observatory and virtual laboratory for U.S. science and technology in the context of global advancement. It will produce data sets and technology outcome models that capture the complex and emergent interdependencies among technologies; the funders, resources, researchers, and universities that catalyze and invent them; the workforces and organizations that produce them; and the markets that consume them. Drawing upon the power of deep neural network “transformer” architectures, the project will then build a deep-learned, chronologically trained, large language model (LLM) to function as a data-driven “digital double” of the global techno-scientific system. &lt;br/&gt;&lt;br/&gt;The LLM will embed research artifacts (e.g., articles, patents, products, related news, and their rich meta-data) in a high-dimensional space, mapping them to quantitative metrics of technology capability, production, and use. The project team will fine-tune our LLMs to capture changes in key metrics as corresponding trajectories within embedding space, and thus enable them to function as 1) a global observatory for technology catalysis, capacity, production, and use; and 2) a virtual laboratory for simulated experiments that can guide 3) causal estimation of relationships among policy levers (funding, competition, immigration), technology performance, and global leadership. They will also tune the LLMs and related models to enable customized extraction, structuring, and disambiguation of data on research, products, funding, and policy from novel sources to enrich modeled observations and predictions, which will enable the continuous incorporation of additional data and extraction of insight. Finally, they will use the models as resources for scientists and policymakers by building dashboards to provide funding agencies, policymakers, and researchers with the situational awareness required to improve the quality and diversification of their technology development portfolios.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/20/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404109</AwardID>
+<Investigator>
+<FirstName>Ian</FirstName>
+<LastName>Foster</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ian Foster</PI_FULL_NAME>
+<EmailAddress><![CDATA[foster@uchicago.edu]]></EmailAddress>
+<NSF_ID>000234022</NSF_ID>
+<StartDate>06/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Evans</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James A Evans</PI_FULL_NAME>
+<EmailAddress><![CDATA[jevans@uchicago.edu]]></EmailAddress>
+<NSF_ID>000496995</NSF_ID>
+<StartDate>06/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ufuk</FirstName>
+<LastName>Akcigit</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ufuk Akcigit</PI_FULL_NAME>
+<EmailAddress><![CDATA[uakcigit@uchicago.edu]]></EmailAddress>
+<NSF_ID>000541416</NSF_ID>
+<StartDate>06/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUE9HKT2CLC9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ZUE9HKT2CLC9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606375418</ZipCode>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>267Y00</Code>
+<Text>APTO-Assess-Predict Tech Outcm</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~3998231</FUND_OBLG>
+</Award>
+</rootTag>

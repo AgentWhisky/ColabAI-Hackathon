@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Integrating Pathological Image and Biomedical Text Data for Clinical Outcome Prediction]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christopher Yang</SignBlockName>
+<PO_EMAI>ccyang@nsf.gov</PO_EMAI>
+<PO_PHON>7032928111</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The accurate prediction of clinical outcomes is a critical aspect of personalized medicine, offering vital information that can shape patient treatment plans and ultimately affect patient prognosis. The current pathological grading/classification system requires extensive information processing by a human brain to interpret highly complex data resources. Histopathology, as the cornerstone of disease diagnosis, has advanced significantly with technological innovations allowing for the capture of images at greater speed and resolution. However, most current histopathological image analysis methods often overlook the complex hierarchical structures of tissues. Understanding the intricate interactions among various cell types, which form the cellular components and, in turn, tissue architectures, is crucial for insights into biology and disease status. Analyzing pathological images is crucial, but effectively integrating associated biomedical text data, such as pathological reports, preliminary diagnosis reports, and clinical notes, poses additional challenges. This variety of text data is defined as medical captions, akin to extended image captions, which provide necessary context but also introduce further complexity in diagnostics. Enhanced computational methods that simultaneously leverage pathological slides and their captions could revolutionize the accuracy and efficiency of predicting clinical outcomes.&lt;br/&gt;&lt;br/&gt;The goal of this project is to develop novel pathological image-text analysis tools for clinical outcome prediction. The project will focus on 1) developing algorithms for pathological image analysis, which include auto-prompting fine-tuning framework for subtype cell segmentation, cell-level graph learning, patch-level graph learning, and intelligent integration of cell-level graph and patch-level graph for clinical outcome prediction; 2) fine-tuning large language models using biomedical text data to obtain improved text embeddings, which include the development of algorithms for biomedical text data analysis, incorporating fine-tuning of deep pre-trained models for precise biomedical text data representation; 3) Integrating pathological image data with biomedical text data for clinical outcome prediction, which include novel algorithms for the intelligent integration of multi-modal data and cross-modal learning models to generate biomedical text data representation from the histopathological images of the same patient. The successful realization of these aims promises to provide healthcare professionals with powerful tools to enhance the decision-making process, personalize treatment plans, and improve overall patient outcomes. Additionally, the proposed study stands to offer broader insights into the integration of multi-modal medical data, setting a new standard for how medical informatics can be leveraged in the era of big data and precision medicine. The multidisciplinary nature of this project also provides unique opportunities for integrating its components into existing curricula, as well as inspiring scientific interests in K-12 students and underrepresented students. The results of this project will be disseminated in the form of peer-reviewed publications, open-source software, tutorials, seminars, and workshops.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/07/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/07/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412195</AwardID>
+<Investigator>
+<FirstName>Jean</FirstName>
+<LastName>Gao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jean Gao</PI_FULL_NAME>
+<EmailAddress><![CDATA[gao@uta.edu]]></EmailAddress>
+<NSF_ID>000289614</NSF_ID>
+<StartDate>03/07/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Junzhou</FirstName>
+<LastName>Huang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Junzhou Huang</PI_FULL_NAME>
+<EmailAddress><![CDATA[jzhuang@uta.edu]]></EmailAddress>
+<NSF_ID>000608846</NSF_ID>
+<StartDate>03/07/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Arlington</Name>
+<CityName>ARLINGTON</CityName>
+<ZipCode>760199800</ZipCode>
+<PhoneNumber>8172722105</PhoneNumber>
+<StreetAddress>701 S NEDDERMAN DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMLUKUPJJ9N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT ARLINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Arlington]]></Name>
+<CityName>ARLINGTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>760199800</ZipCode>
+<StreetAddress><![CDATA[701 S. NEDDERMAN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~200000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAISE: CET: Zwitterionic Membranes for Rare Earth Element (REE) Separations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carole Read</SignBlockName>
+<PO_EMAI>cread@nsf.gov</PO_EMAI>
+<PO_PHON>7032922418</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Research Advanced by Interdisciplinary Science and Engineering (RAISE) award is made in response to Dear Colleague Letter 23-109, as part of the NSF-wide Clean Energy Technology initiative. Rare earth elements (REEs) are critical components in renewable energy technologies like wind turbines and electric vehicles. However, REEs are difficult to separate and purify due to their chemical similarity. Membrane filtration is an energy-efficient, low-carbon, scalable, and additive-free alternative to solvent extraction for industrial-scale separations; however, today’s commercial membranes cannot separate REE ions from each other. This project aims to design novel membrane materials featuring nano-scale structures, inspired by biological pores such as ion channels and formed through scalable self-assembly processes, that can selectively enrich and separate REEs. For this purpose, the interdisciplinary research team will use their expertise in chemistry to synthesize new membranes with &lt; 3 nm channels and chemical functionality for selective interactions with REEs. The membranes, which will be able to separate and enrich REEs by filtration, would replace much less scalable and more energy intensive processes, and will support the development of a robust and sustainable national supply chain for REEs. Further, the strategies underlying such “chemical structure based” separations would revolutionize not only the selective enrichment of REEs, but also the separation and recycling of other critical materials (e.g. lithium) and organic compounds (e.g. pharmaceuticals). The project will also enable, promote, and expand outreach activities to enhance and support broadening participation in STEM through all three collaborating institutions. Further, outreach efforts will be undertaken to train students to responsibly engage with mining companies, indigenous populations, and the environment. &lt;br/&gt;&lt;br/&gt;This research focuses on the limited ability of membranes to separate solutes and ions of similar size and charge, with a specific target of developing membranes capable of REE separations. Membrane filtration, when applicable, offers high energy efficiency, easy scalability, simple operation. Unlike extraction, it does not require the use of solvents. However, the selectivity of today’s commercial membranes is insufficient for many separations, including separating REE ions from each other due to their comparable ionic radii, formal charge, and charge density. The objective of this project is to design membranes with functional nanopores, inspired by biological pores that combine nanoconfinement with selective interactions. This is based on the core premise that selective separation of aqueous solutions of REEs can be achieved in a membrane filtration system if 1) the nanoscale pores are slightly larger than the solute REE molecules; and 2) the pores are lined with zwitterionic (ZI) ligands that exhibit selective and reversible binding to the desired ion. The membranes will be constructed using the self-assembly of copolymers with ZI ligands that can selectively enrich and thus separate REEs. Using this system, selected for its tunability and easy scalability to roll-to-roll systems, the project will aim to link molecular-level insights to experimental thermodynamic, transport, and permeation data—laying the groundwork for the development of new models based on fundamental phenomena. To achieve these objectives, the team will (1) use polymer self-assembly to synthesize new membranes with &lt; 3 nm tunable nanochannels with functional pore chemistries designed for selective interactions with REEs, (2) quantify the effect of nanoconfinement on ligand-REE thermodynamics using computations and experiments, and (3) interrogate REE transport mechanisms in bench scale experiments and simulations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/28/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/28/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401006</AwardID>
+<Investigator>
+<FirstName>Venkat</FirstName>
+<LastName>Ganesan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Venkat Ganesan</PI_FULL_NAME>
+<EmailAddress><![CDATA[venkat@che.utexas.edu]]></EmailAddress>
+<NSF_ID>000106437</NSF_ID>
+<StartDate>05/28/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ayse</FirstName>
+<LastName>Asatekin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ayse Asatekin</PI_FULL_NAME>
+<EmailAddress><![CDATA[Ayse.Asatekin@tufts.edu]]></EmailAddress>
+<NSF_ID>000630262</NSF_ID>
+<StartDate>05/28/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christine</FirstName>
+<LastName>Duval</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christine E Duval</PI_FULL_NAME>
+<EmailAddress><![CDATA[ced84@case.edu]]></EmailAddress>
+<NSF_ID>000757232</NSF_ID>
+<StartDate>05/28/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Tufts University]]></Name>
+<CityName>SOMERVILLE</CityName>
+<ZipCode>021442401</ZipCode>
+<PhoneNumber>6176273696</PhoneNumber>
+<StreetAddress><![CDATA[169 HOLLAND ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WL9FLBRVPJJ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF TUFTS COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>WL9FLBRVPJJ7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Tufts University]]></Name>
+<CityName>SOMERVILLE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021442401</ZipCode>
+<StreetAddress><![CDATA[169 HOLLAND ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>268Y00</Code>
+<Text>CET Strategic Investments</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>049Z</Code>
+<Text>RAISE-Research Advanced by Interdiscipli</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01AB2324DB</Code>
+<Name><![CDATA[R&RA DRSA DEFC AAB]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1000000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-SNSF: Dynamics of the Earth's core under the plesio-geostrophy paradigm]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>299887.00</AwardTotalIntnAmount>
+<AwardAmount>299887</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy Panero</SignBlockName>
+<PO_EMAI>wpanero@nsf.gov</PO_EMAI>
+<PO_PHON>7032925058</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[NSF-SNSF: Dynamics of the Earth’s core under the plesio-geostrophy paradigm&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Three-dimensional numerical simulations are an important tool for understanding the origin of the Earth’s magnetic field. However, these tools must be used with caution because calculations with realistic parameter values are beyond the reach of current computational capabilities. Instead, the team proposes to develop a new class of simulations based on reduced complexity models. These models are designed to make approximations that exploit the extreme values of realistic model parameter. In effect, they take advantage of the very properties that make three-dimensional simulations impractical. The proposed research will undertake rigorous tests of the reduced complexity models in a variety of settings. The end goal is to simulate convection and magnetic-field generation in the Earth's core with unprecedented fidelity. This work will provide insights into the power needed to generate the Earth's magnetic field. The team will also gain an ability to forecast changes in the magnetic field by combining the reduced complexity models with prior observations, a process known as data assimilation. This is use-inspired research to enable reliable forecasting of the magnetic field. This enables the planning of space missions because changes in the magnetic field modulate the effect of solar and cosmic radiation on spacecraft . This collaborative effort is made possible through the National Science Foundation and Swiss National Science Foundation Lead Agency Opportunity.&lt;br/&gt;&lt;br/&gt;The team's specific research plan relies on several key elements. First, they will extend a new theoretical formulation of reduced complexity models called plesio-geostrophy. This formulation explicitly accounts for the influences of very low fluid viscosity and rapid planetary rotation. These are the two main barriers to conventional three-dimensional simulations. Second, they will address a long-standing challenge for all reduced complexity models by dealing with the special dynamics that occurs in the equatorial region. They will combine these elements to explore a hierarchy of problems to assess the efficiency of the PG formulation in capturing the correct physics in Earth's core. Success in confirming the reliability of the PG model will be a starting point for the problem of variational data assimilation. Outcomes of this project include a major contribution to research infrastructure by providing open-source software to enable researchers to investigate short-period dynamics of the core. It would also be the starting point for efforts to implement data assimilation methods. The team expects this work to produce novel insights into the dynamics of the Earth's core and to establish the groundwork for forecasting the geomagnetic field.&lt;br/&gt;&lt;br/&gt;This collaborative U.S.-Swiss project is supported by the U.S. National Science Foundation (NSF) and the Swiss National Science Foundation (SNSF), where NSF funds the U.S. investigator and SNSF funds the partners in Switzerland.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>10/26/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>10/26/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401254</AwardID>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Buffett</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bruce Buffett</PI_FULL_NAME>
+<EmailAddress><![CDATA[bbuffett@berkeley.edu]]></EmailAddress>
+<NSF_ID>000182391</NSF_ID>
+<StartDate>10/26/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>1608 4TH ST STE 201</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1574</Code>
+<Text>Geophysics</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~299887</FUND_OBLG>
+</Award>
+</rootTag>

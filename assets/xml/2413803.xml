@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Development of a Combined Computational and Theoretical Framework for the Prediction and Understanding of Nucleation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>449646.00</AwardTotalIntnAmount>
+<AwardAmount>449646</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Dawes</SignBlockName>
+<PO_EMAI>rdawes@nsf.gov</PO_EMAI>
+<PO_PHON>7032927486</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Bin Chen of the Louisiana State University is supported by an award from the Chemical Theory, Models, and Computational Methods program in the Chemistry Division to develop a multi-scale framework in nucleation modelling. This framework will enable the study of systems that are far beyond the reach of the existing atomistic methods, such as the nucleation and growth of atmospheric particles, which is of vast importance for the formation of clouds, chemical transformations in the atmosphere, and climate radiative forcing, potentially playing a major role in air quality and climate change. Novel Monte Carlo techniques will be developed to quantitatively assess the thermodynamic stability of the clusters of various structures (including polymorphs), shapes (sphere, rod, or cube), and sizes (including infinite size, or bulk), enhancing understanding of thermodynamic landscapes and enabling precise predictions of formation kinetics. Broader impacts include improving our understanding of nanoparticle formation mechanisms crucial for applications ranging from climate modeling to nanomaterial design. The interdisciplinary nature of computational research will also foster a diverse educational environment, training students of all levels in advanced theoretical methods and computational techniques while promoting STEM outreach through interactive educational tools like molecular movies.&lt;br/&gt;&lt;br/&gt;The proposed multi-scale framework utilizes detailed computer simulations, employing atomistic potentials derived from ab initio calculations via active learning for smaller clusters, and theories with realistic models built upon simulation results and validated by experimental data for larger ones. Simulations tackle challenges in the initial nucleation state, where classical theories fail. On the other hand, theories excel for larger clusters, difficult for simulations due to computational demands. Thermodynamics-based theories are traditionally developed from the relationship between thermodynamic properties obtained from experiments, but such properties are difficult to measure accurately for small clusters with the existing experimental techniques. A key contribution here is to utilize the thermodynamic data harvested from computer simulation for not just the examination of the existing theories but also for the discovery of the thermodynamic relationship between different clusters, which allows for the prediction of the free energies of other clusters, e.g., clusters at other sizes including infinite, equivalent to bulk. Broader impacts include unprecedented fundamental molecular-level understanding of the mechanisms of the formation of various types of nanoparticles. New knowledge generated from this research will be made accessible to the broader community through scientific publications, presentations, and the internet.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413803</AwardID>
+<Investigator>
+<FirstName>Bin</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bin Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[binchen@lsu.edu]]></EmailAddress>
+<NSF_ID>000385046</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Louisiana State University]]></Name>
+<CityName>BATON ROUGE</CityName>
+<ZipCode>708030001</ZipCode>
+<PhoneNumber>2255782760</PhoneNumber>
+<StreetAddress><![CDATA[202 HIMES HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ECQEYCHRNKJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LOUISIANA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Louisiana State University]]></Name>
+<CityName>BATON ROUGE</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>708030001</ZipCode>
+<StreetAddress><![CDATA[202 HIMES HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125300</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>688100</Code>
+<Text>Chem Thry, Mdls &amp; Cmptnl Mthds</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5294</Code>
+<Text>USGCRP</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~449646</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Computational methods for large scale transcriptome profiling]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>1068457.00</AwardTotalIntnAmount>
+<AwardAmount>340312</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jennifer Weller</SignBlockName>
+<PO_EMAI>jweller@nsf.gov</PO_EMAI>
+<PO_PHON>7032922224</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project aims to advance the state of the art in analyzing data generated through high-throughput RNA sequencing experiments by developing cutting-edge software that addresses the current challenges in transcriptome assembly and gene annotation. RNA sequencing has become a vital method for understanding gene expression across various cell types and conditions, leading to discoveries of new genes and splice variants in a wide range of species. However, the increasing volume of data from large-scale sequencing experiments demands more efficient and precise computational methods. This project seeks to create innovative algorithms to improve the accuracy and scalability of computational methods for assembling the data from these experiments, thereby producing more accurate measurements of the genes and transcripts present in any tissue sample. By tackling these challenges, the project promises significant advancements in the understanding of gene expression and transcriptional activity, benefiting a wide range of scientific research. Additionally, by leveraging data from previous experiments in a new way, it will provide a cost-saving opportunity by reducing the number of samples required for sequencing.&lt;br/&gt;&lt;br/&gt;The project will focus on three key areas to overcome the limitations of current RNA-seq analysis methods. First, a scalable approach for assembling transcripts from large RNA-seq datasets will be developed by constructing a "universal splice graph" that captures all valid alignments and ensures consistent transcript structures across samples. Second, a new model of transcriptional noise will be introduced, which aggregates data from multiple experiments to distinguish genuine transcripts from background noise, enhancing the precision of transcript quantification. Third, collections of universal splicing graphs will be generated to represent transcriptional activity across different species, cell types, and tissues. These methodologies leverage the extensive RNA-seq data available today and provide essential tools for identifying structural variations in transcripts and performing differential expression analyses. The proposed software will be open-source, facilitating widespread adoption and furthering research capabilities in computational biology. All software will be freely available from https://ccb.jhu.edu/software/stringtie and on a public github archive.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412449</AwardID>
+<Investigator>
+<FirstName>Mihaela</FirstName>
+<LastName>Pertea</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mihaela Pertea</PI_FULL_NAME>
+<EmailAddress><![CDATA[mpertea@jhu.edu]]></EmailAddress>
+<NSF_ID>000235505</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212182608</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTMTDMBR29C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE JOHNS HOPKINS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212182608</ZipCode>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>164Y00</Code>
+<Text>Innovation: Bioinformatics</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~340312</FUND_OBLG>
+</Award>
+</rootTag>

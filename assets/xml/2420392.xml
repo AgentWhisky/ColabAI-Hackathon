@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation potential of a semi-autonomous feedback device to enable manual ventilation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This I-Corps project focuses on the development of a medical device that enables the correct performance of manual ventilation. During the height of the COVID pandemic, many individuals were hand ventilated and the skills for this procedure appeared to be highly variable, which is a significant risk for patients. This technology may be used as both a medical device, and an evaluation device and teaching tool. The goal is to address challenges in pulmonary, emergency, and critical care medicine and enhance healthcare practices by improving training, care, and outcomes in critical medical situations. The device records and transmits real-time metabolic information, promising advancements in healthcare technology and patient outcomes. In addition, the device may be used as a training tool for emergency medical services (EMS) and other medical personnel, which may minimize skill loss and reduce patient risk. &lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. The solution is based on the development of a physiologic/metabolic monitor. The technology incorporates a high sensitivity flow meter and pressure sensor and carbon dioxide (CO2) measuring circuit with a computer-based interpreter that activates a light ring and speaker system. This solution provides several forms of feedback to the user, which is simple and effective. Once programmed for a patient’s size using a switch to select individual characteristics, the device uses a special set of flow and pressure algorithms to specify when and to what extent breaths are provided. The device also monitors the patients' metabolic states based on CO2 exhaled.  In addition, a training program is a core component of the technology and has been shown to improve skills. These results show potential for positive impacts on healthcare technology and patient outcomes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2420392</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Alexander</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonathan S Alexander</PI_FULL_NAME>
+<EmailAddress><![CDATA[jalexa@lsuhsc.edu]]></EmailAddress>
+<NSF_ID>000995782</NSF_ID>
+<StartDate>03/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[LSU Health Sciences Center -Shreveport]]></Name>
+<CityName>SHREVEPORT</CityName>
+<ZipCode>711034228</ZipCode>
+<PhoneNumber>3186755409</PhoneNumber>
+<StreetAddress><![CDATA[1501 KINGS HWY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FA4VKPTJRLY8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LOUISIANA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[LSU Health Sciences Center in Shreveport (LSUHSC-Shreveport)]]></Name>
+<CityName>Shreveport</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>711303932</ZipCode>
+<StreetAddress><![CDATA[1501 Kings Highway]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5345</Code>
+<Text>BIOMEDICAL ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

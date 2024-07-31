@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Molecular Complexity in Sublimation Dynamics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samy El-Shall</SignBlockName>
+<PO_EMAI>selshall@nsf.gov</PO_EMAI>
+<PO_PHON>7032927416</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Structure, Dynamics, and Mechanism A (CSDM-A) program in the Division of Chemistry, Professor Bernadette Broderick of the University of Missouri, Columbia is investigating the sublimation dynamics of molecules desorbed from an ice surface using broadband rotational spectroscopy. The molecular structures and relative abundances of the species that may result from sublimation of ices containing complex molecules remain largely unexplored. However, understanding the dynamics of sublimation is central to the water cycle, to fixing Earth’s albedo, and to cloud and aerosol dynamics in the upper atmosphere. Professor Broderick and her students will study the sublimation dynamics of various polar and nonpolar molecules desorbed from ices generated at 4 K (or warmer) within a custom-built ultrahigh vacuum apparatus. Temperature programmed desorption experiments will be conducted at various ramping rates and the structures of the desorbed products will be determined with isomer-, conformer- and vibrational-state specificity using chirped-pulse mm-wave rotational spectroscopy. Their studies could provide better understanding of chemical reactions in ices and the dynamics of sublimation which could have broad implications to the atmospheric, astrochemical, and materials science fields. The broader impacts of this work include the development of a “Freshman Interest Group” (FIG) for first-year undergraduate Chemistry majors at the University of Missouri.&lt;br/&gt;&lt;br/&gt;The CPICE apparatus, developed by the Broderick group, takes advantage of revolutionary developments in rotational spectroscopy combined with powerful buffer gas cooling methods which together open a new window into the solid to gas phase transition. First, Chirped-pulse Fourier-Transform mmWave (CP-FTmmW) spectroscopy allows for recording a rotational spectrum of several GHz in a few microseconds at sub-MHz resolution with meaningful relative intensities. Second, buffer gas cooling offers a means to overcome the disadvantageous temperature dependence of rotational spectroscopy, generally without disturbing the desorbing conformer populations or vibrational distributions. The temperature dependence of the rotational partition function is particularly problematic for ice desorption studies given that the majority of the organic molecules of interest sublime at unfavorably high temperatures. Buffer gas cooling thus gives orders of magnitude enhancement in signal levels. With CPICE, the Broderick group will explore the role of molecular complexity in sublimation dynamics. This approach allows them to monitor the molecules directly sublimed from the ices, to detect a broad range of polyatomic systems with increasing molecular complexity, to achieve conformerspecific detection at desorption, and to employ CP-FTmmW spectroscopy with instantaneous scans and reliable branching determination.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/07/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/07/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414316</AwardID>
+<Investigator>
+<FirstName>Bernadette</FirstName>
+<LastName>Broderick</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bernadette M Broderick</PI_FULL_NAME>
+<EmailAddress><![CDATA[broderickbm@missouri.edu]]></EmailAddress>
+<NSF_ID>000903667</NSF_ID>
+<StartDate>06/07/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Missouri-Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>652113020</ZipCode>
+<PhoneNumber>5738827560</PhoneNumber>
+<StreetAddress><![CDATA[121 UNIVERSITY HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SZPJL5ZRCLF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Curators of the University of Missouri]]></Name>
+<CityName>COLUMBIA</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>652113020</ZipCode>
+<StreetAddress><![CDATA[121 UNIVERSITY HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>910100</Code>
+<Text>CSD-Chem Strcture and Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~450000</FUND_OBLG>
+</Award>
+</rootTag>

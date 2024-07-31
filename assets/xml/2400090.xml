@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Microlocal Analysis and Hyperbolic Dynamics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>422473.00</AwardTotalIntnAmount>
+<AwardAmount>120678</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marian Bocea</SignBlockName>
+<PO_EMAI>mbocea@nsf.gov</PO_EMAI>
+<PO_PHON>7032922595</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project investigates a broad range of topics at the intersection of microlocal analysis and hyperbolic dynamics. Microlocal analysis, with its roots in physical phenomena such as geometric optics and quantum/classical correspondence, is a powerful mathematical theory relating classical Hamiltonian dynamics to singularities of waves and quantum states. Hyperbolic dynamics is the mathematical theory of strongly chaotic systems, where a small perturbation of the initial data leads to exponentially divergent trajectories after a long time. The project takes advantage of the interplay between these two fields, studying the behavior of waves and quantum states in situations where the underlying dynamics is strongly chaotic, and also exploring the applications of microlocal methods to purely dynamical questions. The project provides research training opportunities for graduate students.&lt;br/&gt;&lt;br/&gt;One direction of this project is in the highly active field of quantum chaos, the study of spectral properties of quantum systems where the underlying classical system has chaotic behavior. The Principal Investigator (PI) has introduced new methods in the field coming from harmonic analysis, fractal geometry, additive combinatorics, and Ratner theory, combined together in the concept of fractal uncertainty principle. The specific goals of the project include: (1) understanding the macroscopic concentration of high energy eigenfunctions of closed chaotic systems, such as negatively curved Riemannian manifolds and quantum cat maps; and (2) proving essential spectral gaps (implying in particular exponential local energy decay of waves) for open systems with fractal hyperbolic trapped sets. A second research direction is the study of forced waves in stratified fluids (with similar problems appearing also for rotating fluids), motivated by experimentally observed internal waves in aquaria and by applications to oceanography. A third direction is to apply microlocal methods originally developed for the theory of hyperbolic partial differential equations to study classical objects such as dynamical zeta functions, which is a rare example of the reversal of quantum/classical correspondence. In particular, the PI and his collaborators study (1) how the special values of the dynamical zeta function for a negatively curved manifold relate to the topology of the manifold; and (2) whether dynamical zeta functions can be meromorphically continued for systems with singularities such as dispersive billiards.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400090</AwardID>
+<Investigator>
+<FirstName>Semyon</FirstName>
+<LastName>Dyatlov</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Semyon Dyatlov</PI_FULL_NAME>
+<EmailAddress><![CDATA[dyatlov@MATH.MIT.EDU]]></EmailAddress>
+<NSF_ID>000698713</NSF_ID>
+<StartDate>04/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~120678</FUND_OBLG>
+</Award>
+</rootTag>

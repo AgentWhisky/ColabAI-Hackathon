@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[OAC Core: Redefining efficient mesh processing with dynamic data provisioning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>597650.00</AwardTotalIntnAmount>
+<AwardAmount>597650</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ashok Srinivasan</SignBlockName>
+<PO_EMAI>asriniva@nsf.gov</PO_EMAI>
+<PO_PHON>7032922122</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Unstructured meshes are data representations that allow the encoding of irregularly distributed data samples over a spatial domain. Their flexibility makes them invaluable across various applications, from autonomous driving and remote sensing analysis to scientific data analysis at variable resolutions. However, the complexity of unstructured meshes presents significant computational challenges, hindering their widespread adoption. This project addresses the enduring tradeoff in unstructured mesh processing by developing novel computational techniques well suited for High Performance Computing architectures. These techniques will offer fast and memory efficient solutions for processing and visualizing large unstructured mesh data. Furthermore, this project will implement these techniques within plug and play data structures, facilitating seamless integration into existing data processing frameworks. The outcomes of this project will significantly simplify the adoption of unstructured mesh processing across numerous scientific domains, fostering new opportunities for outreach and education activities.&lt;br/&gt; &lt;br/&gt; &lt;br/&gt;This project aims to develop computational solutions for efficient, scalable, and versatile unstructured mesh processing. Mesh processing algorithms are characterized by two tasks: data provisioning and data consumption. The data provisioning task is where connectivity data is computed. The data consumption task uses connectivity data to run a chosen algorithm. Processing large datasets is often impractical due to the memory overhead of data provisioning, exacerbated by the serialized computational approach running both tasks sequentially. This project aims to disrupt this serialized approach by introducing pipelined and overlapped processing paradigms. Instead of executing data provisioning and consumption sequentially, pipelined approaches will enable the precomputation of data connectivity for a mesh subset while data consumption proceeds concurrently elsewhere. This project will first provide a better understanding of pipelined approaches with dynamic data provisioning for large mesh processing. The project will then generate new pipelined approaches well suited for heterogeneous and distributed architectures. Finally, the project will generalize these techniques to simplify unstructured mesh data. The new insights gained from this investigation will be integrated into existing open source frameworks for scientific visualization, facilitating their adoption. This transition to practice will empower users to efficiently process and visualize large unstructured mesh datasets, unlocking new possibilities for data exploration and analysis.&lt;br/&gt; &lt;br/&gt;This project is jointly funded by the Office of Advanced Cyberinfrastructure Core Research Program (OAC Core) and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403022</AwardID>
+<Investigator>
+<FirstName>Rong</FirstName>
+<LastName>Ge</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rong Ge</PI_FULL_NAME>
+<EmailAddress><![CDATA[rge@clemson.edu]]></EmailAddress>
+<NSF_ID>000513309</NSF_ID>
+<StartDate>05/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Federico</FirstName>
+<LastName>Iuricich</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Federico Iuricich</PI_FULL_NAME>
+<EmailAddress><![CDATA[fiurici@clemson.edu]]></EmailAddress>
+<NSF_ID>000784535</NSF_ID>
+<StartDate>05/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Clemson University]]></Name>
+<CityName>CLEMSON</CityName>
+<ZipCode>296340001</ZipCode>
+<PhoneNumber>8646562424</PhoneNumber>
+<StreetAddress><![CDATA[201 SIKES HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H2BMNX7DSKU8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CLEMSON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Clemson University]]></Name>
+<CityName>CLEMSON</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>296340001</ZipCode>
+<StreetAddress><![CDATA[201 SIKES HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>090Y00</Code>
+<Text>OAC-Advanced Cyberinfrast Core</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~597650</FUND_OBLG>
+</Award>
+</rootTag>

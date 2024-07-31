@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Elements: An ML Ecosystem of Filament Detection: Classification, Localization, and Segmentation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>598489.00</AwardTotalIntnAmount>
+<AwardAmount>410388</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marlon Pierce</SignBlockName>
+<PO_EMAI>mpierce@nsf.gov</PO_EMAI>
+<PO_PHON>7032927743</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Since object-detection algorithms outperformed humans, one decade has passed. During this period, the unprecedented achievements of the Computer Vision domain made many believe that object detection is a solved problem. However, when it comes to scientific imagery such as microscopic, telescopic, aerial, satellite, and medical images, the general-purpose object-detection algorithms are far from perfect. A pixel-precise segmentation of objects and identification of their physical properties based on their texture features are still outstanding challenges in many interdisciplinary areas of research. Space Weather is one such area. Extreme space-weather events, similar to extreme terrestrial events, can have drastic economic and collateral impacts on mankind. Continuous and automatic monitoring of solar filaments plays an integral role in achieving reliable space-weather forecast/prediction systems, which consequently results in the technical preparedness much needed in many infrastructural aspects of the society, such as the power grid and the GPS systems. Our Machine Learning Ecosystem brings automatic, accurate, and reliable analyses of filaments’ dynamic behavior to the experts’ fingertips. The main contributions of this ecosystem are two data products of annotated filaments, and four software products which carry out the annotation (localization, identification, and segmentation) of these filaments. This modular ecosystem can be easily expanded in the future, beyond the lifetime of the award, as faster and more efficient modules are expected to be implemented by the community and replace the existing ones. Throughout the development of this project, we consult with the instrument/data experts from the National Solar Observatory (NSO) for proper utilization of the observation images and metadata we integrate from the six ground-based observatories of the Global Oscillation Network Group, that together provide a full-disk and continuous (24/7) coverage of the Sun.&lt;br/&gt;&lt;br/&gt;The primary focus of this project is on the localization and segmentation of a specific solar event, called a filament, and the identification of its magnetic field chirality. That said, the novel concepts investigated in this project, such as the detection algorithm, the augmentation engine, and the segmentation loss function which is sensitive to granularities of objects, remain agnostic to the type of the event/object of interest. Moreover, the released datasets of annotated filaments can serve the Computer Vision community as a testbed for algorithms that aim at high-precision segmentation of objects. Our Machine Learning Ecosystem consists of two data products and four software products. The largest collection of manually annotated filaments data, and a continuously-growing collection of automatically annotated filaments are the two main data products. The main software products are (1) an augmentation engine that provides users with practically unlimited semi-real filament instances, (2) a deep neural network algorithm for localization, segmentation, and classification of filaments, (3) a high-precision segmentation loss function (sensitive to granularities of the observed filaments) that guides the segmentation task, and (4) a deployable detection module which carries out the localization, segmentation, and classification tasks in real time.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050, 47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2433781</AwardID>
+<Investigator>
+<FirstName>Azim</FirstName>
+<LastName>Ahmadzadeh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Azim Ahmadzadeh</PI_FULL_NAME>
+<EmailAddress><![CDATA[ahmadzadeh@umsl.edu]]></EmailAddress>
+<NSF_ID>000859306</NSF_ID>
+<StartDate>05/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Missouri-Saint Louis]]></Name>
+<CityName>SAINT LOUIS</CityName>
+<ZipCode>631214400</ZipCode>
+<PhoneNumber>3145165897</PhoneNumber>
+<StreetAddress><![CDATA[1 UNIVERSITY BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GWCTP4CQ1E65</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Missouri-Saint Louis]]></Name>
+<CityName>SAINT LOUIS</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>631214400</ZipCode>
+<StreetAddress><![CDATA[1 UNIVERSITY BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>800400</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>807400</Code>
+<Text>EarthCube</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>808900</Code>
+<Text>Space Weather Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>077Z</Code>
+<Text>CSSI-1: Cyberinfr for Sustained Scientif</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8092</Code>
+<Text>Space Weather Research</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~410386</FUND_OBLG>
+</Award>
+</rootTag>

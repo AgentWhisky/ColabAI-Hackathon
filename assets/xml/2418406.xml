@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Three-dimensional geometry effects on flow-induced vibrations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Understanding flow-induced vibrations is important in designing stable engineering structures (e.g., buildings, bridges, and offshore platforms) and modeling biological systems (e.g., human phonation and bird/bat flight). Despite crucial applications in aerospace, civil, and marine engineering, a systematic approach to determine geometry modifications that may control the vibrations does not exist because of the challenges of obtaining space/time-resolved flow data over a moving body and the difficulty of isolating the contributions from various flow structures to the induced forces/moments. This project aims to apply a novel numerical methodology to address those challenges and examine the three-dimensional geometry effects on the flow-induced vibration dynamics targeted toward controlling the vibrations. The high-fidelity simulation data generated in the work will help uncover the fundamental flow-structure interactions that trigger and drive the vibrations and provide well-resolved datasets for physics-based reduced-order modeling. The research tasks will be accompanied by teaching plans to help train the engineering students on the immense potential of computational tools for design and analysis. In addition, undergraduate research will be promoted by offering summer research opportunities on flow visualization tools and algorithms.&lt;br/&gt;&lt;br/&gt;The flow-induced vibrations are driven by complex feedback between the body’s motion and the fluid flow that comprises interactions of boundary layers, separated free shear layers, recirculation zones, and vortical wake flows. Depending on the vibration dynamics (amplitude/frequency response with flow velocity), the vibrations of simple cylindrical (two-dimensional) geometries have traditionally been classified into vortex-induced vibration and galloping. However, three-dimensional geometries can exhibit complex vibration dynamics that have proven challenging to explain, classify, and control. This project aims to (1) conduct high-fidelity numerical simulations to correlate the vibration dynamics with the 3-D (forebody and afterbody) geometry, (2) use the well-resolved flow and force distribution data to determine the underlying mechanism(s) that initiate and sustain the one and two degree-of-freedom vibrations, and (3) develop physics-based models to identify the geometry modifications that may mitigate/enhance the vibrations. A high-order, theoretically stable embedded-boundary approach will be applied to obtain the high-resolution flow and force data over 3-D geometries. An innovative geometry parametrization will enable precise quantification of the effects of the body’s size (aspect ratio) and shape (surface curvatures) in various flow regimes. The high-resolution three-dimensional flow data will facilitate robust predictive models for the design of next-generation civil/marine engineering structures. This project is jointly funded by the Fluid Dynamics program and the Established Program to Stimulate Competitive Research (EPSCoR) program.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418406</AwardID>
+<Investigator>
+<FirstName>Nek</FirstName>
+<LastName>Sharan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nek Sharan</PI_FULL_NAME>
+<EmailAddress><![CDATA[nsharan@auburn.edu]]></EmailAddress>
+<NSF_ID>000880374</NSF_ID>
+<StartDate>05/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Auburn University]]></Name>
+<CityName>AUBURN</CityName>
+<ZipCode>368490001</ZipCode>
+<PhoneNumber>3348444438</PhoneNumber>
+<StreetAddress><![CDATA[321-A INGRAM HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DMQNDJDHTDG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AUBURN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DMQNDJDHTDG4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Auburn University]]></Name>
+<CityName>AUBURN</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>368490001</ZipCode>
+<StreetAddress><![CDATA[321-A INGRAM HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144300</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

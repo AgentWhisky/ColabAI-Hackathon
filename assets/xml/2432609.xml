@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[DASI Track 1: Student-Led Development of an Advanced yet Low-cost Multi-Constellation, Triple Frequency Ionospheric Scintillation and Electron Content Monitor]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>1427188.00</AwardTotalIntnAmount>
+<AwardAmount>416131</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Roman Makarevich</SignBlockName>
+<PO_EMAI>rmakarev@nsf.gov</PO_EMAI>
+<PO_PHON>7032927207</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Global Navigation Satellite Systems (GNSS) such as the US Global Positioning System are satellite constellations that provide positioning, navigation, and timing services on a global or regional basis. They play an even-increasing role in the modern economy but at the same time are commonly used for remote sensing of the near-Earth plasma environment. This is because disturbances in the total electron content (TEC) can be detected by ground-based GNSS receivers and imaged by dense GNSS receiver networks. GNSS signals are also used to study ionospheric effects of small-scale structures in the upper atmosphere since they cause rapid variations in the signal phase and/or amplitude called scintillation.  &lt;br/&gt;&lt;br/&gt;This project will create an advanced, yet low-cost ionospheric scintillation and TEC monitor with several capabilities of relevance to geospace studies that require observations by a distributed array of small instruments. The measurements will have resolutions that will be comparable to those provided by state-of-the-art commercial scintillation and TEC monitors but be obtained with a monitor that will cost only a fraction of the commercial price. New monitors will improve imaging capabilities when arrayed in dense networks, which will help to advance understanding of variabilities associated with events occurring on the Earth’s surface and at lower atmospheric altitudes, including those related to volcanic eruptions, thunderstorms, tornadoes, and tsunamis. The effort will be also centered around education and training of the workforce in the fields of science, technology, engineering, and mathematics (STEM) with emphasis on development and deployment of instrumentation. Additionally, the effort will create engaging and interactive exhibits that will increase literacy about scientific and technological aspects of the geospace environment.&lt;br/&gt;&lt;br/&gt;This project is funded by the Geospace Facilities program with co-funding from the Aeronomy program in the Division of Atmospheric and Geospace Sciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2432609</AwardID>
+<Investigator>
+<FirstName>Fabiano</FirstName>
+<LastName>Rodrigues</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Fabiano Rodrigues</PI_FULL_NAME>
+<EmailAddress><![CDATA[fabiano@utdallas.edu]]></EmailAddress>
+<NSF_ID>000524403</NSF_ID>
+<StartDate>07/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Dallas]]></Name>
+<CityName>RICHARDSON</CityName>
+<ZipCode>750803021</ZipCode>
+<PhoneNumber>9728832313</PhoneNumber>
+<StreetAddress><![CDATA[800 WEST CAMPBELL RD.]]></StreetAddress>
+<StreetAddress2><![CDATA[SP2.25]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EJCVPNN1WFS5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT DALLAS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Dallas]]></Name>
+<CityName>RICHARDSON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>750803021</ZipCode>
+<StreetAddress><![CDATA[800 WEST CAMPBELL RD.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>420200</Code>
+<Text>Upper Atmospheric Facilities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~416131</FUND_OBLG>
+</Award>
+</rootTag>

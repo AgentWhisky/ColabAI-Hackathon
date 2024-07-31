@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Over One Million Transactions per Second - A Parallel Smart Contract Platform from Radius]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>275000.00</AwardTotalIntnAmount>
+<AwardAmount>275000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Phase I Small Business Innovation Research (SBIR) project is to develop a platform which can process smart contract transactions at extreme scale for very low cost. Due to the antiquated technology of current payments systems infrastructure, many financial transactions are slower and more expensive than necessary. With modern computing power and cryptography, smart contract-based platforms can automatically execute transactions of various levels of complexity atomically and with real-time settlement. Improved transaction efficiency and instant settlement have the potential to revolutionize our payment systems, particularly in the areas of micropayments and cross-border payments. A high-volume and very low fee platform can support micropayments priced out of the market by the fee schedules associated with current payment methods. The feasibility of micropayments has the potential to substantially change the business model of the internet. For example, users could pay a minimal amount to view a website ad-free instead of using ad-blockers, and content creators could charge small amounts for users to view individual articles or web posts. Smart contracts can also be used to more efficiently process a wide range of transactions.&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to achieve throughput over 1 million transactions per second through parallel execution and horizontal scalability. While public blockchain systems have led to significant technical advancement and inspire aspects of our design, they face scalability challenges due to routing all transactions through the bottleneck of a single unparallelizable consensus mechanism. This project’s key innovation and line of research is the ability to execute smart contract transactions in parallel without needing to serialize a global order for all transactions on the platform. Crucially, this design enables horizontal scalability. Platform data is stored as a key-value database stored across multiple geographically replicated shards. When users initiate transactions, they are handled and processed by one of numerous transaction processors operating in parallel. Notably, the platform is compatible a range of smart contracts and other blockchain platforms as well as alternative runtimes. A key aspect of this research will involve on-demand scaling - the ability to bring additional database shards online and distribute keys and transaction activity across the new shards in accordance with transaction volume demands, all while the platform remains online and operational.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/13/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/13/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423309</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Bench</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert K Bench</PI_FULL_NAME>
+<EmailAddress><![CDATA[bench@radiustechnologysystems.com]]></EmailAddress>
+<NSF_ID>0000A0083</NSF_ID>
+<StartDate>06/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[RADIUS TECHNOLOGY SYSTEMS, INC]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021412031</ZipCode>
+<PhoneNumber>6174178242</PhoneNumber>
+<StreetAddress><![CDATA[153 5TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L568YK6TWQU6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RADIUS TECHNOLOGY SYSTEMS, INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[RADIUS TECHNOLOGY SYSTEMS, INC]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021412031</ZipCode>
+<StreetAddress><![CDATA[153 5TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~275000</FUND_OBLG>
+</Award>
+</rootTag>

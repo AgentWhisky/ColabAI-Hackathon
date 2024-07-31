@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Topics in automorphic Forms and Algebraic Cycles]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>110398</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This awards concern research in Number Theory. Solving polynomial equations in rational numbers dates back to Diophantus in the 3rd century and has been a central subject in mathematics for generations. The modern study of Diophantine equations has incorporated the revolutionary idea of Riemann from his use of a class of special functions called "zeta functions” or "L-functions". Such special functions are built up on counting the numbers of solutions of polynomial equations in the much simpler setting of modular arithmetic. In the 1960s, Birch and Swinnerton-Dyer came up with a remarkable conjecture revealing a relation between the zeros of L-functions and the solutions to a special class of polynomial equations in the rationals. Later Beilinson and Bloch conjectured that, for general  polynomial equations in the rationals, there should always be a relation between the zeros of L-functions and algebraic cycles which are “parameter solutions to polynomial equations”.&lt;br/&gt; &lt;br/&gt;The project will study the zeros of L-functions through automorphic forms and special cycles on modular varieties. The theory of automorphic form provides a fruitful way to access the zeros of L-functions. The modular varieties are either Shimura varieties over number fields or moduli spaces of Shtukas over function fields. They play a central role in modern number theory and arithmetic geometry, and they often come with a great supply of algebraic cycles. The project aims to prove results relating zeros of L-functions and algebraic cycles on modular varieties, including new cases of the arithmetic Gan–Gross–Prasad conjecture for Shimura varieties associated to unitary groups, certain Higher Gross–Zagier formula over function fields, and the function field analog of Kudla’s program with an emphasis on the modularity of generating series of special cycles and the arithmetic Siegel—Weil formula. The project will also develop new relative trace formula, a powerful equation connecting spectral information and geometric structure, to study general automorphic period integral including the unitary Friedberg–Jacquet period. The broader impacts of this project include mentoring of graduate students and seminar organization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401548</AwardID>
+<Investigator>
+<FirstName>Wei</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wei Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[wz2113@mit.edu]]></EmailAddress>
+<NSF_ID>000590976</NSF_ID>
+<StartDate>04/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~110398</FUND_OBLG>
+</Award>
+</rootTag>

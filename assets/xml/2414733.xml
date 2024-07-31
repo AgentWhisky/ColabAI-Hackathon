@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PFI-TT: High-Performance Nanostructured Pads for Efficient Electronics Cooling]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>550000.00</AwardTotalIntnAmount>
+<AwardAmount>550000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samir M. Iqbal</SignBlockName>
+<PO_EMAI>smiqbal@nsf.gov</PO_EMAI>
+<PO_PHON>7032927529</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Partnerships for Innovation - Technology Translation (PFI-TT) project is to provide an innovative solution to the heat dissipation challenge at the interfaces between electronics and cooling systems. With continually increasing power density, the performance of heat dissipation technologies has become a dominant limiting factor in maintaining the safe and stable operation of electronics. The technology being developed in this PFI project enables electronics to operate at lower temperatures, thereby enhancing their performance and reliability. Additionally, in data centers where cooling demands consume vast amounts of water and electricity, this technology can significantly improve thermal management and energy efficiency, contributing to industrial decarbonization and climate change mitigation.&lt;br/&gt;&lt;br/&gt;The team investigates scalable and cost-effective manufacturing strategies for mass producing high-performance, nanostructured, thermal pads and exploring their integration with existing products to realize their full commercialization potential. The high-performance, nanostructured, thermal pads developed in this project could resolve the critical challenge of heat dissipation by substantially reducing thermal interface resistance and enhancing system reliability. The high compliance and flexibility of the new nanostructured thermal pads enables absorption of thermal stresses due to the different coefficients of expansion of two mating materials.  The materials will also accommodate dynamic structural stresses and vibrations, which will significantly improve device or system reliability. Scalable and cost-effective manufacturing technologies will be developed to accelerate the commercialization of the nanostructured thermal pads. Through the collaboration with the industry partner, the nanostructured thermal pads will undergo comprehensive validations to meet industrial needs for commercialization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414733</AwardID>
+<Investigator>
+<FirstName>Sheng</FirstName>
+<LastName>Shen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sheng Shen</PI_FULL_NAME>
+<EmailAddress><![CDATA[sshen1@cmu.edu]]></EmailAddress>
+<NSF_ID>000624423</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>166200</Code>
+<Text>PFI-Partnrships for Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8021</Code>
+<Text>Materials Engineering</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~550000</FUND_OBLG>
+</Award>
+</rootTag>

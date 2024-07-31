@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Exploiting Smartphone Global Navigation Satellite Systems (GNSS) Signals for Ionospheric Science]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>99637.00</AwardTotalIntnAmount>
+<AwardAmount>99637</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shikha Raizada</SignBlockName>
+<PO_EMAI>sraizada@nsf.gov</PO_EMAI>
+<PO_PHON>7032928963</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The incoming solar radiation results in the ionization of the Earth’s atmosphere above 80 km. This region, known as the ionosphere, plays a crucial role in mediating the transfer of energy from the Sun to the Earth.  It is a region where small-scale plasma irregularities occur that disrupt radio-frequency transmissions and degrade satellite-based navigation systems such as Global Positioning System (GPS). Progress on understanding how these irregularities form has been hampered by a lack of observing techniques that provide a time-dependent, multi-scale view of the ionosphere.  Citizen scientists offer a novel and impactful solution.  GPS measurements on the new generation of smartphones can provide a measure of the total integrated plasma density between the satellite transmitter and the phone, a parameter referred to as `Total Electron Content' or TEC.  When TEC is measured along many paths simultaneously, it becomes possible to construct a high-resolution image of the ionosphere, with resolution limited only by the number and location of receivers.  This project seeks to provide proof-of-concept for an adaptive ionospheric sensing network formed by groups of citizen scientists. Such a human-powered observatory concept could revolutionize ionospheric science and cultivate strong connections with the public who may know little about our near-space environment and its effects on everyday technologies.&lt;br/&gt;&lt;br/&gt;This project will enlist citizen scientists with dual-frequency smartphones to help address one of the great overarching questions in ionospheric science:   How do macro-scale Geospace dynamics lead to the micro-scale density irregularities that disrupt radio-frequency signals?   The latest dual-frequency, multi-constellation smartphones have been shown to provide a scientifically useful measure of carrier-phase TEC.  The rapid proliferation of these phones has moved this concept to a critical transition where we may now consider deploying networks of smartphone-wielding citizens as an augmentation to TEC maps derived from permanent reference receiver networks. The project explores an innovative idea to develop an adaptive ionospheric observatory formed by networks of citizen scientists, cued to a particular location in space and time based on forecasts (e.g., an eclipse, a geomagnetic storm, weather patterns) or now-casts (geological activity, STEVE events).   The one-year project seeks to provide a proof-of-concept for a distributed smartphone observatory through some observational efforts centered on specific cases like solar eclipse, and dynamical auroral events. This project will bring a multitude of positive impacts to the Geospace discipline, including (1) introducing the ionosphere to a cross-section of citizens, which promotes solar and Geospace physics; (2) leveraging the remarkable sensing, computation, and networking capabilities of smartphones for Geospace research, and (3) training of a female Ph.D. student.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/07/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/07/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2428531</AwardID>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Semeter</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joshua Semeter</PI_FULL_NAME>
+<EmailAddress><![CDATA[jls@bu.edu]]></EmailAddress>
+<NSF_ID>000100994</NSF_ID>
+<StartDate>05/07/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151703</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>THL6A6JLE1S7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF BOSTON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>022151703</ZipCode>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152100</Code>
+<Text>AERONOMY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~99637</FUND_OBLG>
+</Award>
+</rootTag>

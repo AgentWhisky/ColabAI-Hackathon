@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRII: RI: Deep neural network pruning for fast and reliable visual detection in self-driving vehicles]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>149343.00</AwardTotalIntnAmount>
+<AwardAmount>66414</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jie Yang</SignBlockName>
+<PO_EMAI>jyang@nsf.gov</PO_EMAI>
+<PO_PHON>7032924768</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded in whole or in part under the American Rescue Plan Act of 2021 (Public Law 117-2).&lt;br/&gt;&lt;br/&gt;The objective of this project is to simplify large general-purpose deep neural networks for fast and trustworthy visual detection in self-driving vehicles. The project develops compact models that require less computation, energy consumption, and carbon dioxide emissions. In addition, lower latency of these compact models can translate to higher survival rates during emergencies. Through facilitating a wider deployment of self-driving cars, the project will also help reduce driving-related labor costs and provide greater and safe mobility to the elderly and the disabled. Finally, the investigator will introduce relevant technology and findings from the project to the classroom and involve students from diverse backgrounds in this research. These activities will prepare students for tomorrow's automobile industry in Ohio and nearby Michigan, the top two states for auto production in the US.&lt;br/&gt;&lt;br/&gt;This research addresses problems of efficient and reliable self-driving visual detection through deep network pruning and adversarial training. The central hypothesis is that there are many redundant, task-irrelevant, and even interfering parameters/features in a large generalist network. When deployed on self-driving vehicles, such unnecessary and overfitted components will render automated visual detection slow and open more doors for malign attacks. Such components should be pruned or improved. This project has two specific aims: (1) creating a deep network pruning framework for self-driving visual detection. The framework will be proactive (not after the fact of training) and will utilize both location and class information, and (2) improving the robustness of the pruned self-driving detectors. The investigator will study the adversarial robustness of the pruned models and seek improvement via adversarial training. The research can lead to departing from the dominant trend of employing large generalist networks for various applications to deriving lightweight specialist networks for efficient and reliable visual detection in self-driving cars. The project will provide some technologies towards fully (Level 5) autonomous driving.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/13/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>12/13/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412285</AwardID>
+<Investigator>
+<FirstName>Qing</FirstName>
+<LastName>Tian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Qing Tian</PI_FULL_NAME>
+<EmailAddress><![CDATA[qtian@uab.edu]]></EmailAddress>
+<NSF_ID>000855719</NSF_ID>
+<StartDate>12/13/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Alabama at Birmingham]]></Name>
+<CityName>BIRMINGHAM</CityName>
+<ZipCode>352940001</ZipCode>
+<PhoneNumber>2059345266</PhoneNumber>
+<StreetAddress><![CDATA[701 S 20TH STREET]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YND4PLMC9AN7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ALABAMA AT BIRMINGHAM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama at Birmingham]]></Name>
+<CityName>BIRMINGHAM</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>352940001</ZipCode>
+<StreetAddress><![CDATA[701 S 20TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>749500</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~66414</FUND_OBLG>
+</Award>
+</rootTag>

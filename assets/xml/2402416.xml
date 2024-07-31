@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Developing Heuristic Rules for Enhancing the Stability and Kinetic Accessibility of Nanoparticle Superlattices: Understanding the Role of Entropy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>371708.00</AwardTotalIntnAmount>
+<AwardAmount>371708</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Catherine Walker</SignBlockName>
+<PO_EMAI>cawalker@nsf.gov</PO_EMAI>
+<PO_PHON>7032927125</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Heuristics are simple rules that allow for approximately solving complex problems in a timely manner. Heuristics commonly used in chemistry embody fundamental lessons or correlations between properties of interest.  Leveraging these heuristics can promote rational design of useful self-assembled materials, i.e., materials possessing desirable properties and intricate structures which are encoded by the features of designable building blocks. For many decades, such heuristics have guided the design of materials based on elements that form salts and on metals that form alloys. However, no comprehensive heuristics exist to guide the engineering of materials made of larger building blocks like nanoparticles, which can contain hundreds or thousands of atoms each and can now be fabricated in a great variety of sizes, shapes, and patterns. This work is aimed at filling this gap in our scientific knowledge. This investigation is complementary to experimental efforts by collaborators and in the future could have broader impacts by guiding researchers in formulating nanoparticle-based crystals for such materials as catalyst supports, photonic materials, and smart inks.  The project will enable the training of a doctoral student and an undergraduate student in computational materials research. Relevant results will be disseminated through multiple forums including Cornell’s Soft Matter seminar series and Wikipedia, and will contribute to a hands-on lab for the Women’s group outreach initiative in the Chemical Engineering Department that targets rural High School girls.&lt;br/&gt;&lt;br/&gt;This proposal aims to formulate and test molecular-simulation based heuristic rules for predicting the correlation between nanoparticle-nanoparticle interactions and their self-assembly into target superlattice structures of either pure-component or multicomponent crystals. In the case of binary mixtures, the work focuses on nanoparticle components with tunable geometric features that can generate stoichiometric compounds or interstitial solids. In terms of thermodynamic behavior, it is hypothesized that a non-additive metric for volume mixing, a readily computable property obtained from the densest mixed-crystal and pre-mixed structures, is a good predictor for the formation of substitutionally ordered compounds, whether stoichiometric compounds or interstitial solids. In terms of kinetic behavior, it is hypothesized that accessibility to the ordered structure is enhanced by designs that: (i) Engender a stable or metastable mesophase occurring in between the isotropic and crystal states, (ii) generate a more positive mixing additivity metric, (iii) possess a lower isotropic-crystal coexistence free-energy, and (iv) exhibit ordered states having larger entropy. For this purpose, advanced methods will be deployed, including techniques to map free-energies over multiple relevant order parameters, nucleus-size pinning methods to efficiently estimate free-energy transition barriers, and forward flux sampling to measure transition rates for selected cases. Given the emphasis on entropic effects, the components to be investigated include particle shapes possessing non-trivial packing such as polyhedra and patchy particles.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402416</AwardID>
+<Investigator>
+<FirstName>Fernando</FirstName>
+<LastName>Escobedo</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Fernando A Escobedo</PI_FULL_NAME>
+<EmailAddress><![CDATA[fe13@cornell.edu]]></EmailAddress>
+<NSF_ID>000405638</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress><![CDATA[341 PINE TREE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148502820</ZipCode>
+<StreetAddress><![CDATA[341 PINE TREE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>140300</Code>
+<Text>Proc Sys, Reac Eng &amp; Mol Therm</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~371708</FUND_OBLG>
+</Award>
+</rootTag>

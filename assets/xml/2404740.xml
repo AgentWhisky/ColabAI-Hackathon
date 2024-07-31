@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: IMPRESS-U: Exploratory Research on Generative Compression for Compressive Lidar]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maija Kukla</SignBlockName>
+<PO_EMAI>mkukla@nsf.gov</PO_EMAI>
+<PO_PHON>7032924940</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This IMPRESS-U project is jointly funded by NSF, National Science Center of Poland, US National Academy of Sciences, and Office of Naval Research Global (DoD). The research will be performed in a multilateral international partnership that unites the University of Delaware, US, the National Aerospace University in Kharkiv, Ukraine, and the West Pomeranian University of Technology in Szczecin, Poland. US portion of the collaborative effort will be co-funded by Office of International Science and Engineering (OISE), Established Program to Stimulate Competitive Research (EPSCoR), and Communications and Information Foundations Program (CCF).  &lt;br/&gt;&lt;br/&gt;The proposed effort aims at: (a) establishing a partnership among academic research teams from Ukraine, Poland, and the US; (b) building a resilient and collaborative research and education program of excellence in Ukraine in machine learning (ML) for satellite lidar sensing of Earth; and (c) exploring radically new concepts in generative compression for the storage or communication of compressive lidar measurements. The methods will be applied to data obtained from a new generation of satellite lidars, coined compressive lidars (CS lidar), that will be used to unravel the topological structure of the Earth’s surface and its forests, which have a profound effect on ecosystem processes. Spaceborne lidars today are limited in spatial resolution and coverage since laser reflections are only measured along 1D footprint line scans. Compressive lidars take sparse measurements of Earth from hundreds of km above Earth to then computationally reconstruct the 3D imagery with resolution and coverage, as if the data was collected from just hundreds of meters in height. To date, satellite lidars do not use data compression to avoid loss of information. CS lidars, however, rely on deep learning reconstruction algorithms covering orders of magnitude larger areas of Earth where the opportunity of data compression arises naturally. This project will thus explore radically new approaches to data compression using generative models which have shown the potential to produce more accurate image reconstructions at much deeper compression levels. The project will recruit a fresh cohort of talent in Ukraine and Poland who will be galvanized to embark on enduring careers that revolve around the intersection of machine learning and Earth remote sensing. &lt;br/&gt;&lt;br/&gt;Spaceborne lidar is an important imaging technology that is used to unravel the topological structure of the Earth’s surface and its forests which have a profound effect on ecosystem processes that determine nutrient, water, and carbon cycles on Earth. Spaceborne lidars today are limited in spatial resolution and coverage since laser reflections are only measured along 1D footprint line scans. In between these, vast amounts of landscape remain without sampling illumination. To overcome this limitation, a new generation of satellite lidars are being developed at NASA taking on a radically new sensing paradigm where the traditional 1D line scanning is abandoned and replaced by sparse and wide-field-of view lidar illumination, coined compressive satellite (CS) lidars. The objective is to compressively sense Earth from hundreds of km above Earth to then computationally reconstruct the 3D imagery with resolution and coverage, as if the data was collected from just hundreds of meters in height. NASA’s satellite lidars to date do not use data compression of the measurements to avoid loss of information. CS lidar, however, relies on deep learning reconstruction algorithms covering orders of magnitude larger areas of Earth where the opportunity of data compression arises naturally. NASA’s CS lidar team is currently not exploring this problem and thus the proposed exploratory research effort is valuable, complementary, and timely. While traditional image compression relies on hand-crafted encoder/decoder pairs, the research team will explore radically new approaches to data compression using generative models which have shown the potential to produce more accurate image reconstructions at much deeper compression levels. CS lidars promise to significantly enhance both the field-of-view and imaging resolution of satellite altimetry where data compression becomes increasingly important.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070, 47.079, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404740</AwardID>
+<Investigator>
+<FirstName>Gonzalo</FirstName>
+<LastName>Arce</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gonzalo R Arce</PI_FULL_NAME>
+<EmailAddress><![CDATA[arce@udel.edu]]></EmailAddress>
+<NSF_ID>000355622</NSF_ID>
+<StartDate>02/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Delaware</Name>
+<CityName>NEWARK</CityName>
+<ZipCode>197160099</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress>220 HULLIHEN HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DE00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T72NHKM259N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF DELAWARE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName>NEWARK</CityName>
+<StateCode>DE</StateCode>
+<ZipCode>197160099</ZipCode>
+<StreetAddress><![CDATA[220 HULLIHEN HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DE00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7298</Code>
+<Text>International Research Collab</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7797</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5915</Code>
+<Text>EASTERN EUROPE, OTHER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5953</Code>
+<Text>POLAND</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5998</Code>
+<Text>UKRAINE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7936</Code>
+<Text>SIGNAL PROCESSING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

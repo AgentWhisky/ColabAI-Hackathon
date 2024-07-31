@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[C2H2 EAGER: Bridging Seasonal Physical Climate/Weather Prediction with Disease Forecasts]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>299999.00</AwardTotalIntnAmount>
+<AwardAmount>299999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06010000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>RISE</Abbreviation>
+<LongName>Div of Res, Innovation, Synergies, &amp; Edu</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Barbara Ransom</SignBlockName>
+<PO_EMAI>bransom@nsf.gov</PO_EMAI>
+<PO_PHON>7032927792</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Environmental factors like temperature and precipitation affect mosquito abundance and range. These factors can ultimately affect the transmission and outbreak of vector-borne diseases like West Nile Virus. This disease is responsible for the most mosquito borne illnesses and associated deaths in the continental US. Despite the strong link between virus-carrying mosquito populations and meteorological conditions, West Nile Virus forecasts do not yet incorporate a number critical environmental factors. This research uses observed temperature and rainfall data, along with that predicted by models that calculate weather conditions months into the future, to improve West Nile Virus outbreak forecasts. The work will improve understanding of how this serious mosquito-borne illness will be impacted by climate change and the associated changing rainfall patterns and temperatures. Value of this work is that it links weather and climate forecast models that have inherent complexities and uncertainties to improve West Nile Virus-conducive conditions, providing improved understanding of relationships between weather and disease forecasts which will advance the national health. Other broader impacts include engagement and interaction with public health officials who will help identify critical study factors that will allow them to make more informed decisions about mitigation (e.g., mosquito spraying or other techniques) to prevent or curtail outbreaks of the disease. Development of effective public outreach/warnings/communication will be undertaken to raise public awareness of the conditions and incidences of mosquito infestations that can result in West Nile Virus so communities and individuals can take precautionary measures when conditions indicate a high risk for contracting the Virus. An additional impact is that this work builds relationships between geoscientists who understand the environment and Earth as a system and medical/health professionals who are focused on human health to accelerate advances in the prevention and protection of people exposed to conditions conducive to West Nile Virus.&lt;br/&gt;&lt;br/&gt;This research builds upon preliminary results that will be extended to (1) strengthen the understanding of how climatic factors impact the transmission of West Nile Virus infections at the regional level; (2) include historical climate data and weather/climate forecasts into models to bolster disease prediction capabilities; (3) establish West Nile Virus disease forecasting model limits; and (4) determine the potential impact of future climate states on West Nile Virus transmission. Model development will use an array of legacy meteorological datasets in multivariate regressions to strengthen understanding of how regional climatic factors impact mosquito population dynamics conducive to disease transmission. Bayesian techniques will be used to develop multivariate disease forecast models that are informed by the climate-West Nile Virus relationships. Climate data from past years will allow quantification of the upper limit of forecast veracity and capability. Sensitivity analysis will be incorporated into operational weather/climate Earth system models from the short-term (i.e., daily to weekly) to long-term (i.e., sub-seasonal-to-seasonal) timescales. Revised climate models will be tested to determine their utility in modeling West Nile Virus outbreaks and infection rates. To this end, ensemble capabilities of numerical weather prediction models will be used to provide a “best” forecast, as compiled from the ensemble mean. Results will be used to identify potential ranges of outbreaks and to determine forecast uncertainties. Results of the research will be used to examine if West Nile Virus forecasts that include climate inputs outperform present baseline transmission predictions that do not include this information. The research will also examine tradeoffs between increased forecast lead-time and disease forecast accuracy and will look at the impact of future climate states on the geographic range of West Nile Virus as a result of increasing temperature regimes driven by climate change.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2432999</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Green</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benjamin W Green</PI_FULL_NAME>
+<EmailAddress><![CDATA[ben.green@noaa.gov]]></EmailAddress>
+<NSF_ID>000689460</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stanley</FirstName>
+<LastName>Benjamin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stanley Benjamin</PI_FULL_NAME>
+<EmailAddress><![CDATA[stan.benjamin@noaa.gov]]></EmailAddress>
+<NSF_ID>0000A07ML</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress><![CDATA[3100 MARINE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 481 572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[NOAA /Global Systems Laboratory-David Skaggs Research Center]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803090001</ZipCode>
+<StreetAddress><![CDATA[325 Broadway]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>300Y00</Code>
+<Text>Climate Impact on Human Health</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>145Z</Code>
+<Text>Climate and Human Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~299999</FUND_OBLG>
+</Award>
+</rootTag>

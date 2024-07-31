@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Correlated Phases in an Unusual Family of Crystalline 2D Materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>360000.00</AwardTotalIntnAmount>
+<AwardAmount>360000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Mann</SignBlockName>
+<PO_EMAI>elmann@nsf.gov</PO_EMAI>
+<PO_PHON>7032922655</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Non-technical Abstract&lt;br/&gt;&lt;br/&gt;Two-dimensional (2D) semiconductors have been at the focus of condensed matter physics, driving the exploration of fundamental principles, novel quantum matter, and advanced functional devices. The moiré superlattices of 2D semiconductors allow for the emergence of diverse correlated-electron phases within a single device due to advantageous electric gate tunability yet suffers from challenges in achieving spatial inhomogeneity and reproducibility. Remarkably, naturally occurring crystalline multilayer graphene, a family of 2D semiconductors with electric-field tunable band gaps, provide an ideal and highly reproducible platform for studying similarly diverse correlated-electron phases within a single device, eliminating the need for moiré engineering. This project aims to investigate the emergent phenomena, phases, properties, and principles in this unique platform. The anticipated outcomes of this project are expected to benefit society through the research results and outreach initiatives. Its success will also illuminate the transformative potential of ultra-thin low-dissipation quantum chips in advancing next-generation information technology and sustainable energy solutions. Key educational endeavors integrated into the research include: (i) fostering participation from under-represented groups, (ii) mentoring STEM undergraduate students from MIT, UTD, and REU programs, (iii) enhancing existing public outreach and K-12 education by developing demonstration module and lessons on 2D semiconductors. &lt;br/&gt;&lt;br/&gt;Technical Abstract&lt;br/&gt;&lt;br/&gt;Built upon the high material quality, electric gate tunability, and presence of strongly interacting electrons within highly reproducible rhombohedral graphene multilayers, this project aims to establish an exceptional platform focused on this distinctive family of crystalline 2D semiconductors. The goal is to investigate spontaneous symmetry breaking, demonstrate novel correlated phases of matter, and provide new insights into fundamental principles governing the intricate interplay between geometry, symmetry, topology, and interaction. This project leverages strong and complementary expertise in both experimental and theoretical domains, fostering an established collaboration. Successful implementation of the project will actualize the potential of rhombohedral graphene semiconductors in discovering, realizing, and optimizing a variety of exotic correlated phases of matter that are rare otherwise. These advancements will not only contribute to new knowledge in correlated electrons and semiconductor physics but may also pave the way for transforming next-generation information technology and sustainable energy solutions, utilizing ultra-thin low-dissipation quantum chips.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414725</AwardID>
+<Investigator>
+<FirstName>Long</FirstName>
+<LastName>Ju</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Long Ju</PI_FULL_NAME>
+<EmailAddress><![CDATA[longju@mit.edu]]></EmailAddress>
+<NSF_ID>000806004</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>171000</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~360000</FUND_OBLG>
+</Award>
+</rootTag>

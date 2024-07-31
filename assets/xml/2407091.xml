@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[An agile multi-frequency VLBI receiver for the South Pole Telescope]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>1277558.00</AwardTotalIntnAmount>
+<AwardAmount>1277558</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Frank Schinzel</SignBlockName>
+<PO_EMAI>fschinze@nsf.gov</PO_EMAI>
+<PO_PHON>7032928112</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Event Horizon Telescope (EHT) is an array of twelve radio antennas spread across the globe. These antennas are combined to form an earth-size telescope whose spatial resolution is set by the observing wavelength and the largest telescope. Observing at a radio wavelength of 1.3 mm, the EHT has made the first images of black hole event horizons. The event horizon marks the boundary around a black hole beyond which no radiation can escape. To improve on these results, the EHT will observe at a wavelength of 0.9 mm to get 40% better resolution. The South Pole Telescope (SPT) is a critical station for EHT. The investigators will build an upgraded receiver for the SPT - the Advanced South Pole Integrated Receiver for EHT (ASPIRE).  The process of building ASPIRE will create opportunities for comprehensive training in scientific instrumentation for graduate and undergraduate students, with the latter selected from existing University of Arizona programs that support underrepresented STEM students through their college careers. &lt;br/&gt;&lt;br/&gt;The ASPIRE receiver will incorporate new state-of-the-art sideband-separating 0.9 mm (345 GHz) mixers currently being developed for another NSF-funded receiver at University of Arizona. The simultaneous operation in two bands, 1.3 mm and 0.9 mm, will maximize the resolution of the EHT array and enable atmospheric delay correction through frequency-phase transfer, which will improve sensitivity and provide phase-referenced astrometry between bands. A novel wideband digitizer system will see its first astronomical use and become available for many other applications. A new optics design will use a dichroic beam splitter to enable simultaneous observing in both bands and enable quick swapping between illuminating the ASPIRE receiver and illuminating the main SPT-3G camera. Together, these changes will make the best possible use of the SPT as an EHT site and open the door to new science, including measurements of the magnetic structure of the accretion flow and jets, millimeter-wave follow-up of multiwavelength and multi-messenger transients, time-variability studies, and the lensed photon ring.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407091</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Marrone</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel P Marrone</PI_FULL_NAME>
+<EmailAddress><![CDATA[dmarrone@email.arizona.edu]]></EmailAddress>
+<NSF_ID>000576682</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Amy</FirstName>
+<LastName>Lowitz</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amy E Lowitz</PI_FULL_NAME>
+<EmailAddress><![CDATA[lowitz@arizona.edu]]></EmailAddress>
+<NSF_ID>000788169</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Arizona]]></Name>
+<CityName>TUCSON</CityName>
+<ZipCode>85721</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress><![CDATA[845 N PARK AVE RM 538]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ED44Y3W6P7B9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ARIZONA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Arizona]]></Name>
+<CityName>TUCSON</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>85721</ZipCode>
+<StreetAddress><![CDATA[933 N Cherry Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>121800</Code>
+<Text>ADVANCED TECHNOLOGIES &amp; INSTRM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7697</Code>
+<Text>INSTRUMENTATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1277558</FUND_OBLG>
+</Award>
+</rootTag>

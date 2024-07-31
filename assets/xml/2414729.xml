@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PFI:RP: Reliable Electronic Device Authentication to Protect Supply Chain]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samir M. Iqbal</SignBlockName>
+<PO_EMAI>smiqbal@nsf.gov</PO_EMAI>
+<PO_PHON>7032927529</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Partnerships for Innovation – Research Partnership (PFI-RP) project is envisioned across several segments of the automotive industry. The project focuses on developing a reliable technology for authenticating electronic devices, an integral part of modern vehicle production, to reduce the spread of counterfeit parts and prevent unauthorized sales of excess manufactured components. This technology enhances operational efficiency and compliance with standards, while also strengthening market reputation. Suppliers and manufacturers of electronic parts gain a protective measure against the distribution of unauthorized components, safeguarding their brand value and consumer trust. The technology developed through this project will enable auto repair/service shops and dealerships to accurately localize and repair faulty components. The technology will also protect both retailers and consumers within the aftermarket sector from counterfeit parts, fostering a fair and quality-driven trading environment. The solution will assist the automotive industry in maintaining product integrity, streamlining operations, and enhancing customer trust, especially in autonomous vehicles. Finally, the project will train the next generation of entrepreneurs by providing hands-on experience in product development.&lt;br/&gt;&lt;br/&gt;This project seeks to develop a technology for the reliable authentication of various electronic components in vehicles, including Electronic Control Units (ECUs), Advanced Driver-Assistance Systems (ADAS), Telematics Control Units (TCUs), sensors, actuators, and microcontrollers, using unique, device-specific digital signatures. The primary goal is to create high-quality prototypes that consistently verify the integrity of these electronic devices throughout a vehicle's lifecycle, including during the design, operation, service, and end-of-life maintenance phases. The technology is designed to enhance data traceability and ensure the accuracy of product development documents during the design process. The technology also plays a crucial role in protecting the transportation industry from cyber threats associated with counterfeit or imitation electronic components. The team has successfully demonstrated the feasibility of this technology in authenticating electronic devices. Leveraging this success, the team is committed to transforming research into marketable products with the assistance of industry partners. These collaborations are essential for refining and developing the technology, testing it against industry standards, and expediting the market introduction process.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414729</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Zachos</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark Zachos</PI_FULL_NAME>
+<EmailAddress><![CDATA[mzachos@dgtech.com]]></EmailAddress>
+<NSF_ID>000990556</NSF_ID>
+<StartDate>07/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alireza</FirstName>
+<LastName>Mohammadi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alireza Mohammadi</PI_FULL_NAME>
+<EmailAddress><![CDATA[amohmmad@umich.edu]]></EmailAddress>
+<NSF_ID>000786512</NSF_ID>
+<StartDate>07/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hafiz</FirstName>
+<LastName>Malik</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hafiz Malik</PI_FULL_NAME>
+<EmailAddress><![CDATA[hafiz@umich.edu]]></EmailAddress>
+<NSF_ID>000504526</NSF_ID>
+<StartDate>07/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Dearborn]]></Name>
+<CityName>Dearborn</CityName>
+<ZipCode>481282406</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[4901 EVERGREEN RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RY78VSF6P4G3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Dearborn]]></Name>
+<CityName>Dearborn</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481282406</ZipCode>
+<StreetAddress><![CDATA[4901 EVERGREEN RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>166200</Code>
+<Text>PFI-Partnrships for Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8027</Code>
+<Text>Cyber Secur - Cyberinfrastruc</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1000000</FUND_OBLG>
+</Award>
+</rootTag>

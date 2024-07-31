@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[IUCRC Phase I Pennsylvania State University: Center for CO2 Storage Modeling, Analytics, and Risk Reduction Technologies (CO2-SMART)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>502026.00</AwardTotalIntnAmount>
+<AwardAmount>101435</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06010000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>RISE</Abbreviation>
+<LongName>Div of Res, Innovation, Synergies, &amp; Edu</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Barbara Ransom</SignBlockName>
+<PO_EMAI>bransom@nsf.gov</PO_EMAI>
+<PO_PHON>7032927792</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Geologic storage of carbon dioxide (CO2) can be used to reduce CO2 in the atmosphere, mitigating its climate change impacts by removing it from the surface carbon cycle. This Industry-University Cooperative Research Center for geologic CO2 Storage Modeling, Analytics, and Risk Reduction Technologies (CO2-SMART) creates a multidisciplinary program that accelerates the safe and cost-effective sequestration of CO2 in the deep subsurface, at scale. This is done via use-inspired, basic research and workforce development in an area needed by industry. CO2-SMART is a partnership between the Pennsylvania State University and the University of Southern California. The Center focuses on advancing the current understanding of the complex processes that are triggered during and after CO2 injection into geologic formations. It develops advanced modeling and other activities that improve the safety, efficiency, and economics of subsurface CO2 sequestration operations and develops a pragmatic policy framework for large scale deployment of geologic CO2 storage. The Center brings together leading faculty, researchers, and their students from across the fields of engineering, machine learning, computer science, statistics, subsurface flow, simulation, geoscience, energy policy, and economics at the two participating universities. It enables collaboration between university personnel and CO2 sequestration field operators and carbon management regulators to develop synergistic collaborations that allow key stakeholders to tackle the challenging problem of CO2 sequestration. Broader impacts have signifcant societal, energy security, and public health implications. These include development and training of the next carbon sequestration workforce, including developing engineers and scientists as technical leaders who are well-versed in implementing and managing large-scale geologic CO2 storage projects. The Penn State Site will work to broaden participation in the CO2 sequestration industry of groups underrepresented in STEM fields through both new course and credential programs and through relationships with local community and minority serving colleges and universities. In addition, CO2 SMART's benefits can be extended to other subsurface flow systems including those related to groundwater, geothermal, and hydrocarbon resources, all of which share similar technological challenges. An Industry Advisory Board, consisting of companies, government agencies, and other interested parties will help guide Center research to ensure it is responsive to the evolving needs of the carbon economy and companies implementing geologic-carbon storage.&lt;br/&gt;&lt;br/&gt;The CO2-SMART Center aims to enable and accelerate safe, reliable, efficient CO2 storage and implementation strategies through use-inspired research relevant to the carbon sequestration economy. It's activities include workforce development and public outreach in this important area. The Center achieves its goals through collaborative, pre-competitive, basic research in the following key thrust areas: (1) Site screening and characterization, including fluid, rock, and fracture properties; (2) Multiscale and multi-physics modeling/simulation for prediction of CO2 displacement in storage aquifers; (3) Cost-effective reservoir monitoring and characterization, including geophysical, geochemical, and geomechanical monitoring for high-resolution imaging; (4) Machine learning and data analytics for flexible and efficient workflows, including multiphysics data processing, predictive modeling, and decision support tools; (5) Risk assessment and uncertainty quantification for complex multi-physics subsurface storage systems that to informs risk mitigation strategies; and (6) Improving the economics of geologic carbon sequestration through optimization and field development planning. As a complement to University of Southern California expertise, the Penn State Site contributes its expertise in characterization of CO2 storage sites using a combination of geostatistics and data integration tools that employ AI assisted workflows. It also carries out laboratory investigation of fundamental properties and processes associated with in-situ mineralization and fracture and fault reactivation and well injectivity as well as develops in-situ monitoring protocols that result in novel, cost-effective, geophysical techniques. This Site informs policy development that integrates economics, uncertainty quantification, and risk assessment in the CO2 sequestration space. In terms of workforce training, Penn State will integrate geologic CO2 sequestration into undergraduate courses and develop courses that emphasize both the technical aspects of carbon sequestration as well as the economic and regulatory aspects. Courses will be packaged as in-person and online certificate or credentialling programs that benefit both students and working professionals. Penn State will implement education and outreach activities targeting local school districts and work to broaden participation of groups underrepresented in STEM through its relationships with nearby Fort Valley State University and Lincoln University.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413272</AwardID>
+<Investigator>
+<FirstName>Sanjay</FirstName>
+<LastName>Srinivasan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sanjay Srinivasan</PI_FULL_NAME>
+<EmailAddress><![CDATA[szs27@psu.edu]]></EmailAddress>
+<NSF_ID>000454267</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Seth</FirstName>
+<LastName>Blumsack</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Seth A Blumsack</PI_FULL_NAME>
+<EmailAddress><![CDATA[blumsack@psu.edu]]></EmailAddress>
+<NSF_ID>000499847</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tieyuan</FirstName>
+<LastName>Zhu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tieyuan Zhu</PI_FULL_NAME>
+<EmailAddress><![CDATA[tyzhu@psu.edu]]></EmailAddress>
+<NSF_ID>000787454</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eugene</FirstName>
+<LastName>Morgan</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eugene C Morgan</PI_FULL_NAME>
+<EmailAddress><![CDATA[eugene.morgan@psu.edu]]></EmailAddress>
+<NSF_ID>000789076</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anne</FirstName>
+<LastName>Menefee</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anne H Menefee</PI_FULL_NAME>
+<EmailAddress><![CDATA[ahmenefee@psu.edu]]></EmailAddress>
+<NSF_ID>000880574</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168021503</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPM2J7MSCF61</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE PENNSYLVANIA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>168021503</ZipCode>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>576100</Code>
+<Text>IUCRC-Indust-Univ Coop Res Ctr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~101435</FUND_OBLG>
+</Award>
+</rootTag>

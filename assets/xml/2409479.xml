@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Atoms Interlinked by Light: Programmable Interactions for Quantum Simulation and Computation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>646435.00</AwardTotalIntnAmount>
+<AwardAmount>215792</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mark K. Beck</SignBlockName>
+<PO_EMAI>mkbeck@nsf.gov</PO_EMAI>
+<PO_PHON>7032922983</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Among the leading platforms for quantum information processing are systems of cold atoms, which marry exquisite control down to the single-atom level with scalability to large numbers of identical particles.  Epitomizing these features are myriad successes in engineering entanglement – nonlocal correlations that form the backbone of quantum technologies – by controlling atoms with laser light.  A particularly scalable approach is to couple many atoms to light in an optical resonator, which allows the light to convey information between arbitrary atom pairs.  The PI proposes to enhance this approach with programmable connectivity and single-qubit control, by trapping an array of individual atoms in an optical resonator and employing local optical addressing to control the interactions.  This new paradigm opens a path to implementing quantum algorithms for chemistry problems and simulations addressing problems in materials science that are intractable to classical computers.  The project will also expand the STEM workforce, both by direct training of graduate students who will conduct the research and by supporting the Stanford Program for Inspiring the Next Generation of Women in Physics (SPINWIP), an online summer program in which undergraduate and graduate students introduce high-school girls to cutting-edge topics in quantum science.&lt;br/&gt;&lt;br/&gt;The scientific goals of the project are organized into thrusts of (1) exploring frustration and topology in programmable spin models; (2) measurement-based computation and state preparation; and (3) accessing non-Gaussianity as a resource for computation.  These efforts will be enabled by the combination of non-local, light-mediated interactions with local addressing to control the graph of interactions in an atomic array.  Initial experiments will operate with each array site containing an atomic spin ensemble in a regime of strong collective atom-light coupling, which provides access to Gaussian multimode entangled states.  In parallel, the research team will develop a next-generation optical resonator with enhanced atom-photon coupling, in which they will trap an array of individual atoms in optical tweezers.  Here, leveraging techniques of single-atom control and detection will allow for approaching a regime of quantum advantage.  The project offers a unique opportunity for cross-fertilization between atomic and photonic approaches to quantum information processing, where the former offers the benefit of single-qubit nonlinearities while the latter enables programmable nonlocal connectivity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409479</AwardID>
+<Investigator>
+<FirstName>Monika</FirstName>
+<LastName>Schleier-Smith</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Monika Schleier-Smith</PI_FULL_NAME>
+<EmailAddress><![CDATA[schleier@stanford.edu]]></EmailAddress>
+<NSF_ID>000645152</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>STANFORD</CityName>
+<ZipCode>943052004</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress><![CDATA[450 JANE STANFORD WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJD6G4D6TJY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE LELAND STANFORD JUNIOR UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>STANFORD</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943052004</ZipCode>
+<StreetAddress><![CDATA[450 JANE STANFORD WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124100</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>728100</Code>
+<Text>QIS - Quantum Information Scie</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~215792</FUND_OBLG>
+</Award>
+</rootTag>

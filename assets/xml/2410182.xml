@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Electron transport in low-dimensional and mesoscopic topological solids]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>510000.00</AwardTotalIntnAmount>
+<AwardAmount>340000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexios Klironomos</SignBlockName>
+<PO_EMAI>aklirono@nsf.gov</PO_EMAI>
+<PO_PHON>7032924920</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;One of the most amazing low-temperature properties of some materials is the phenomenon of superconductivity. Occurring at very low temperatures (possibly only a few degrees above the absolute zero), superconductivity allows electric current to pass through a material without any resistance. Despite the challenges posed by the need for cryogenic cooling, superconductivity finds a wide range of applications. These include superconducting coils in hospital MRI machines, magnetic field sensors in medical and industrial laboratories, and detectors and amplifiers of very weak electromagnetic signals, to name a few. In the recent decades, superconductivity emerged as the basis for the most viable designs of quantum computers. Concurrently, new superconducting materials were discovered, some of which are only a few-atoms thick. These include structures based on graphene -- a one-atom-thick two-dimensional crystal cleaved from graphite (the common material in pencil leads) -- and structures combining layers of conventional semiconductors and superconductors. The appearance of new materials and uses for superconductivity calls for theoretical developments which would enable the materials study and guide the design of new superconducting devices. This research project covers three specific directions within this broad task.&lt;br/&gt;&lt;br/&gt;Superconductivity is a quintessential quantum phenomenon. The mobile electrons in a material form a collective state, or condensate, due to an effective attraction between the electrons. Exciting an electron from the condensate requires a finite energy. This energy gap leads to the zero electric resistance of a superconductor. The “glue” capable of changing the conventional repulsion between electrons to an effective attraction may consist of quanta of vibrations, or phonons, of the host material. In one of the directions of this research project, we will develop a theory for measuring phonon properties using a newly developed tool, the Quantum Twisting Microscope.&lt;br/&gt;&lt;br/&gt;The two other directions of the project aim at investigating the effects of magnetic field and material imperfections on the properties of the novel superconductors. The new graphene-based superconductors are special because of the unusually low electron density in them; this may substantially alter how magnetic field affects superconductivity. Investigating superconductivity in materials with low density of electrons is the first of these two directions. The other direction aims at studying the role of material defects in the so-called topological superconductors. The electron condensate in such materials may simultaneously reside in two (or more) quantum states, which is a prerequisite for quantum computing. Unlike the conventional superconductors (such as aluminum), topological superconductors are sensitive to the structural disorder of the host material. Our research will aim to determine the length limits that allow a wire to retain the properties of a topological superconductor.&lt;br/&gt;&lt;br/&gt;Graduate students will be actively involved in the research and will be mentored and trained in a broad range of theoretical techniques. The Principal Investigator also plans to deliver a set of lectures introducing the frontiers of quantum materials theory to non-experts.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This project aims to develop the electron transport theory of low-dimensional and mesoscopic conductors with topologically nontrivial single-particle or collective states. The emphasis is placed on theory applicable to superconductor-semiconductor hybrids and van der Waals materials exhibiting superconductivity. The motivation comes from the advances in engineering of new materials, experimental techniques enabling the high-precision electron transport measurements, and from the challenges the evaluation of electric responses of such systems presents for the theory.&lt;br/&gt;&lt;br/&gt;The first part of the project is devoted to developing new probes of the topological superconducting phases. We focus on the vicinity of the transition point separating the topological phase from a trivial one. We aim to elucidate the signatures of the critical behavior, obscured by disorder, in the nonlocal conductance.&lt;br/&gt;&lt;br/&gt;The second part of the project aims to broaden the transport theory of two-dimensional superconductors in an out-of-plane magnetic field. The recently measured superconductivity in trilayer graphene points to an anomalously short coherence length in it. This raises a host of questions regarding the crossover between the weak- and strong-coupling limits of superconductivity and its manifestations in the magnetoresistance.&lt;br/&gt;&lt;br/&gt;The third part of the project develops a theory allowing to find the electron-phonon interaction parameters and the superconducting gap structure from the measurements of momentum-resolved electron tunneling using a new device, Quantum Twisting Microscope.&lt;br/&gt;&lt;br/&gt;This work will require a variety of techniques, including diagrammatic expansions, Fermi liquid theory, renormalization group theory, continuous medium theory, the use of exactly solvable models, and numerical methods. Graduate students will be actively involved in the research and will be mentored and trained in a broad range of theoretical techniques. The PI also plans to deliver a set of lectures introducing the frontiers of quantum materials theory to non-experts.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410182</AwardID>
+<Investigator>
+<FirstName>Leonid</FirstName>
+<LastName>Glazman</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leonid I Glazman</PI_FULL_NAME>
+<EmailAddress><![CDATA[leonid.glazman@yale.edu]]></EmailAddress>
+<NSF_ID>000115039</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<ZipCode>065113572</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress><![CDATA[150 MUNSON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FL6GV84CKN57</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>YALE UNIV</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FL6GV84CKN57</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>065208120</ZipCode>
+<StreetAddress><![CDATA[217 Prospect Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>176500</Code>
+<Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>106Z</Code>
+<Text>Microelectronics and Semiconductors</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6863</Code>
+<Text>SEBML-MOORE'S LAW</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~340000</FUND_OBLG>
+</Award>
+</rootTag>

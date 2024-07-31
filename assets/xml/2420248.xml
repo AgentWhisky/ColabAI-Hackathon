@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Solving Representation Learning and Catastrophic Forgetting with Adaptive Resonance Theory]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>293288.00</AwardTotalIntnAmount>
+<AwardAmount>293288</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anthony Kuh</SignBlockName>
+<PO_EMAI>akuh@nsf.gov</PO_EMAI>
+<PO_PHON>7032924714</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Improving representation learning is a key challenge for improved machine learning models, particularly for online and real-time applications. Current machine learning methods are expensive and subject to catastrophic forgetting by overwriting previously learned information. Adaptive Resonance Theory (ART) is designed to avoid this overwriting, but it accomplishes this by combining match-based learning with a reset mechanism. This combination is effective at avoiding overwriting at the cost of missing the representation learning capabilities common in gradient approaches such as deep learning. &lt;br/&gt;&lt;br/&gt;Intellectual Merit: This project seeks to combine the advantages of match- and error-based learning by using first principles in combined design, as opposed to ad-hoc hybrids. It will investigate the potential for overcoming scalability and credit assignment problems entailed in hybrid approaches to date. It also seeks to improve explainability of ART by appropriate design of the resulting templates formed during training. It will also clarify the difference between catastrophic forgetting due to overwriting correctly learned information, versus apparent but valid performance degradation due to new information that was not represented during previous training. The goal is to solve the former and learn from the latter.  &lt;br/&gt;&lt;br/&gt;Broader Impacts: The project will produce technological broader impacts of more cost-effective and trustworthy machine learning. The resulting systems will be less brittle and more explainable. They will not need an artificial freezing of learning capability but will be true lifelong learning machines. Demographic broader impacts will include mentoring for prospective female and underrepresented minority researchers, and undergraduates.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2420248</AwardID>
+<Investigator>
+<FirstName>Donald</FirstName>
+<LastName>Wunsch</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME>II</PI_SUFX_NAME>
+<PI_FULL_NAME>Donald C Wunsch</PI_FULL_NAME>
+<EmailAddress><![CDATA[dwunsch@mst.edu]]></EmailAddress>
+<NSF_ID>000420285</NSF_ID>
+<StartDate>07/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Missouri University of Science and Technology]]></Name>
+<CityName>ROLLA</CityName>
+<ZipCode>654091330</ZipCode>
+<PhoneNumber>5733414134</PhoneNumber>
+<StreetAddress><![CDATA[300 W. 12TH STREET]]></StreetAddress>
+<StreetAddress2><![CDATA[202 CENTENNIAL HALL]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y6MGH342N169</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Missouri University of Science and Technology]]></Name>
+<CityName>ROLLA</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>654091330</ZipCode>
+<StreetAddress><![CDATA[300 W. 12TH STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>760700</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8888</Code>
+<Text>LEARNING &amp; INTELLIGENT SYSTEMS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~293288</FUND_OBLG>
+</Award>
+</rootTag>

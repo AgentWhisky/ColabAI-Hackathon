@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Fluctuating Solid/Liquid Interfaces - Dynamic Nanopores with Enhanced Modes of Transport]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>475000.00</AwardTotalIntnAmount>
+<AwardAmount>475000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christina Payne</SignBlockName>
+<PO_EMAI>cpayne@nsf.gov</PO_EMAI>
+<PO_PHON>7032922895</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The movement of ions through tiny structures, called channels, with openings 100,000 times smaller than the thickness of the human hair is the basis of all physiological functions of a living organism. Due to their small scale, the building blocks that form the channels are subject to constant changes, leading to fluctuations in the channels’ opening. These ever-present changes in shape are a crucial feature that allows many biological channels to fulfill their functions. Inspired by biology, this project proposes a set of universal guidelines to create nanopores as a model system that mimics biological channels by fluctuating in similar dimensions and timescales. Reproducing fluctuations of biological channels in model systems will allow the researchers to understand transport properties on the nanoscale, and to harness new transport properties that will result from these dynamic systems. This research project will provide multidisciplinary training for undergraduate and graduate students. Moreover, the scientific findings of this research will be shared with broader audiences through creative communication methods that are designed in collaboration with the University of California, Irvine Claire Trevor School of Arts Department of Drama.&lt;br/&gt;&lt;br/&gt;This project aims to design solid-state nanopore systems whose local pore openings are subjected to controllable fluctuations, of set amplitude and frequency reaching hundreds of MHz up to GHz, using electromechanical gates in the form of DNA and proteins. The nanopores will be prepared based on sandwich structures of silicon nitride/gold/silica, where the thickness of each component will be tuned with sub-nanometer precision. To render the diameter dynamic, the researchers will attach DNA and proteins that bind adenosine triphosphate (ATP) to the gold layer. The conformational state of the molecules will be dynamically tuned with voltage and ATP in the solution, and the effective local pore diameter and its fluctuations will be determined. Pores with dynamic openings will be characterized for their ability to enhance ionic and molecular transport, pump ions against their concentration gradient, and distinguish between ions of the same charge. The expected outcome of this project is to establish the optimal frequency range of diameter fluctuations for each of the transport properties. Due to the high surface-to-volume ratio of nanopores, such fluctuating interfaces are expected to significantly affect mass transport and achieve enhanced fluxes as well as ionic selectivity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2408924</AwardID>
+<Investigator>
+<FirstName>Zuzanna</FirstName>
+<LastName>Siwy</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zuzanna S Siwy</PI_FULL_NAME>
+<EmailAddress><![CDATA[zsiwy@uci.edu]]></EmailAddress>
+<NSF_ID>000495090</NSF_ID>
+<StartDate>07/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>IRVINE</CityName>
+<ZipCode>926970001</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress><![CDATA[160 ALDRICH HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA47</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MJC5FCYQTPE6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA IRVINE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MJC5FCYQTPE6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>IRVINE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>926970001</ZipCode>
+<StreetAddress><![CDATA[2416 Natural Sciences II]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA47</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>141700</Code>
+<Text>Interfacial Engineering Progra</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~475000</FUND_OBLG>
+</Award>
+</rootTag>

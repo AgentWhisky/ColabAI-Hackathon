@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Development of Efficient Black Hole Spectroscopy and a Desktop Cluster for Detecting Compact Binary Mergers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>156570.00</AwardTotalIntnAmount>
+<AwardAmount>104685</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award supports two projects. The first is to develop methods for testing Einstein's theory of relativity in one of the most extreme environments in the universe: near the horizon of a black hole. Einstein's theory predicts that gravitational waves emitted by black holes should consist of specific frequencies, similar to how a chorus consists of multiple singers signing at different pitches. Gravitational waves are detectable here on Earth with NSF's LIGO detector. This project will use LIGO data to determine if the chorus of gravitational waves emitted by a black hole is exactly as Einstein predicted, or if the black hole "sings" an unexpected tune. Such tests may lead to new discoveries in physics, giving us a better understanding of the fundamental workings of the universe. The second component is to develop a network of Apple Silicon computers to search for new gravitational-waves in LIGO data. Such a network has the potential to make searching for new signals substantially faster and at very low cost. This will make it easier for lesser-resourced universities and undergraduate-focused colleges to directly contribute to gravitational-wave astronomy, broadening the appeal and access to fundamental STEM research in the US. The award provides support for students, who will gain widely-applicable data science skills that are of great national need.&lt;br/&gt;&lt;br/&gt;This award supports the development of an open-source, Python-based transdimensional Markov-chain Monte Carlo sampler that will naturally identify the set of observable quasi-normal modes emitted by a black hole that is formed in binary black hole mergers. This will be applied to new gravitational-wave detections. Key science questions to be addressed include: are overtones of the dominant mode observable at merger, and if so, which ones? Are other sub-dominant modes observable? If more than one mode is observable, are they consistent with general relativity? In order to answer such questions (and to do any science with gravitational waves), candidate signals must first be identified. Currently this is done by performing a matched-filter search using large numbers of CPUs on data-center clusters. Previous efforts to utilize GPUs have been hampered by the need to transfer data between the CPU and GPU. New "Systems on a Chip" (SoC) such as the Apple Silicon processors side-step this issue, as memory is shared between the CPU and GPU cores. This award will fund the construction, software development, and testing of a cluster of SoC processors. The goal is to perform searches significantly faster and for much lower cost than what is currently done.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412341</AwardID>
+<Investigator>
+<FirstName>Sigal</FirstName>
+<LastName>Gottlieb</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sigal Gottlieb</PI_FULL_NAME>
+<EmailAddress><![CDATA[sgottlieb@umassd.edu]]></EmailAddress>
+<NSF_ID>000242545</NSF_ID>
+<StartDate>01/02/2024</StartDate>
+<EndDate>01/10/2024</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Collin</FirstName>
+<LastName>Capano</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Collin D Capano</PI_FULL_NAME>
+<EmailAddress><![CDATA[cdcapano@syr.edu]]></EmailAddress>
+<NSF_ID>000869252</NSF_ID>
+<StartDate>01/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Syracuse University]]></Name>
+<CityName>SYRACUSE</CityName>
+<ZipCode>13244</ZipCode>
+<PhoneNumber>3154432807</PhoneNumber>
+<StreetAddress><![CDATA[900 S CROUSE AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY22</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C4BXLBC11LC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SYRACUSE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Syracuse University]]></Name>
+<CityName>SYRACUSE</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>132440001</ZipCode>
+<StreetAddress><![CDATA[900 S CROUSE AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY22</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124300</Code>
+<Text>Gravity Exp. &amp; Data Analysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>069Z</Code>
+<Text>Windows on the Universe (WoU)</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~52850</FUND_OBLG>
+<FUND_OBLG>2024~51835</FUND_OBLG>
+</Award>
+</rootTag>

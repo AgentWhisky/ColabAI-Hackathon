@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Heterochromatin regulation by the Elongator complex]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephen DiFazio</SignBlockName>
+<PO_EMAI>sdifazio@nsf.gov</PO_EMAI>
+<PO_PHON>7032924517</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Proper gene repression is necessary in all eukaryotes for proper cell development, adaptation, and survival. This prominently occurs through compacting certain genome regions into structures called heterochromatin. While it is known that defects in heterochromatin formation frequently associate with diverse diseases and developmental anomalies, the details of how heterochromatin forms remain unclear. This project will investigate the molecular factors and mechanisms that regulate heterochromatin. The impact of this study is that we will understand how cells manipulate heterochromatin to address life’s requirements and will learn potentially novel strategies for targeting epigenetics to treat heterochromatin-based conditions. This will have important implications for diverse fields such as medicine, agriculture, and synthetic biology. This project will also train undergraduate and graduate students in genetics, molecular biology, and biochemistry. Research will directly involve trainees from underrepresented populations. Lastly, this project will have broader impacts beyond the university level by teaching genetic and epigenetic principles to K-12 students. &lt;br/&gt;&lt;br/&gt;In the fission yeast Schizosaccharomyces pombe, small interfering RNAs (siRNAs) play crucial roles in establishing heterochromatin. It is known that RNA polymerase II and RNA interference (RNAi) factors are essential for creating siRNAs. However, the mechanisms that negatively regulate heterochromatic siRNAs are poorly understood. We recently found that subunits of the highly conserved Elongator complex may have novel roles in this siRNA process. This complex has a well-known tRNA modification function but whether it regulates other types of regulatory RNAs is unknown. Building on our new results, this project will (1) test the role of the Elongator complex in regulating heterochromatic siRNAs, (2) determine whether the Elongator complex has nuclear-localization functions, and (3) investigate how the Elongator complex regulates RNAi. Accomplishing these goals will involve cutting-edge genetic and epigenetic approaches, genome engineering, microscopy, and biochemical techniques. Overall, this study will provide novel insights into how an ancient protein complex controls siRNAs which is important for the establishment of heterochromatin.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2422223</AwardID>
+<Investigator>
+<FirstName>Tommy</FirstName>
+<LastName>Vo</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tommy V Vo</PI_FULL_NAME>
+<EmailAddress><![CDATA[votommyv@msu.edu]]></EmailAddress>
+<NSF_ID>000918434</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111200</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~400000</FUND_OBLG>
+</Award>
+</rootTag>

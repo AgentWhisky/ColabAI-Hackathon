@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Reconstructing global ice volume and bottom water temperature in the 41-kyr world - a novel integrated data and machine-learning approach]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>683266.00</AwardTotalIntnAmount>
+<AwardAmount>683266</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gail Christeson</SignBlockName>
+<PO_EMAI>gchriste@nsf.gov</PO_EMAI>
+<PO_PHON>7032922952</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Approximately 3 million years ago, Earth transitioned into an icehouse climate characterized by extensive continental ice sheets in both hemispheres. A notable aspect is the pronounced 41-thousand-year oscillations between relatively warm and cold climates, influenced by variations in Earth’s orbital tilt. It remains a mystery how these small changes in Earth’s orbital geometry can have such big impacts on the global climate. This study aims to tackle this puzzle by reconstructing global mean ocean temperature and ice volume from approximately 1 to 3 million years ago. The project will analyze multiple climate proxies, including organic biomarkers of marine phytoplankton and stable isotopes of calcareous planktonic foraminifera recovered from the Integrated Ocean Discovery Program. Machine-learning algorithms will be developed to resolve global ice volume and ocean temperature signals hidden within these climate proxies. The expected results can help assess the role of CO2 and ice albedo in global temperatures, evaluate the relationships between ocean cooling and ice-sheet expansion, and provide better insights into the long-term response of present ice sheets as temperatures rise. This project will foster interdisciplinary interactions among early career scientists, graduate and undergraduate students from both Earth Sciences and Applied Math, providing STEM students with an environment where mathematics, biogeochemical, and climatic understanding of the Earth system are well integrated in both classes and primary research.&lt;br/&gt;&lt;br/&gt;A key switch in the mode of ice volume (IV) variabilities ~1 myrs ago (the Mid-Pleistocene Transition, MPT) shifted the major IV cycles from quasi-symmetric 41-kyr to asymmetric 100-kyr oscillations with no change in external forcing. Hypothesis tests that have assessed the Pleistocene evolution of ice-sheet dynamics and climatic feedback have generally assumed that global benthic foraminifera δ18Ob primarily reflects changes in global IV even though δ18Ob is known to be a mixture of both IV and bottom water temperature (BWT). This project will address a fundamental question regarding the MPT — how much δ18Ob variabilities before the MPT (“41-kyr world”) are attributable to IV as opposed to BWT? A new proxy-based Early-Pleistocene IV estimate will be developed with the aid of a novel statistical approach. Specifically, the project will (1) generate a set of high-resolution Early-Pleistocene UK’37-based Sea Surface Temperature (SST) paired with δ18O of planktonic foraminifera (δ18Op) from multiple marine sites (Integrated Ocean Discovery Program). Combining SST and δ18Op will allow changes in δ18O of seawater (δ18Osw) to be calculated as a proxy of global IV; (2) design a machine-learning framework for statistically robust estimation of IV (δ18Osw), which implements a multi-fidelity Gaussian process model and space state modeling with Kalman filter, to tackle the complexity of multi-core, multi-proxies time series in calculating IV and BWT and associated uncertainties. This approach differs from previous studies in that it requires no knowledge of sea level changes, no knowledge of δ18Ob in deriving δ18Osw, and makes no implicit assumption of the relationship between δ18Osw, BWT, and δ18Ob.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410906</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Herbert</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timothy D Herbert</PI_FULL_NAME>
+<EmailAddress><![CDATA[timothy_herbert@brown.edu]]></EmailAddress>
+<NSF_ID>000117225</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Lawrence</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles E Lawrence</PI_FULL_NAME>
+<EmailAddress><![CDATA[Charles_Lawrence@Brown.edu]]></EmailAddress>
+<NSF_ID>000074954</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Weimin</FirstName>
+<LastName>Si</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Weimin Si</PI_FULL_NAME>
+<EmailAddress><![CDATA[weimin_si@brown.edu]]></EmailAddress>
+<NSF_ID>000826119</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Taehee</FirstName>
+<LastName>Lee</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Taehee Lee</PI_FULL_NAME>
+<EmailAddress><![CDATA[taehee_lee@brown.edu]]></EmailAddress>
+<NSF_ID>000984420</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Brown University]]></Name>
+<CityName>PROVIDENCE</CityName>
+<ZipCode>029129100</ZipCode>
+<PhoneNumber>4018632777</PhoneNumber>
+<StreetAddress><![CDATA[1 PROSPECT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>RI01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E3FDXZ6TBHW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BROWN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E3FDXZ6TBHW3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Brown University]]></Name>
+<CityName>PROVIDENCE</CityName>
+<StateCode>RI</StateCode>
+<ZipCode>029129127</ZipCode>
+<StreetAddress><![CDATA[1 PROSPECT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>RI01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>162000</Code>
+<Text>Marine Geology and Geophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1304</Code>
+<Text>EARTH SYSTEM HISTORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1322</Code>
+<Text>SEA LEVEL CHANGES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1324</Code>
+<Text>CLIMATE VARIABILITY AND PREDICTABILITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1620</Code>
+<Text>MARINE GEOLOGY AND GEOPHYSICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~683266</FUND_OBLG>
+</Award>
+</rootTag>

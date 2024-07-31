@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-BSF: C*-algebras and Dynamics Beyond the Elliott Program]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>343286.00</AwardTotalIntnAmount>
+<AwardAmount>343286</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jan Cameron</SignBlockName>
+<PO_EMAI>jcameron@nsf.gov</PO_EMAI>
+<PO_PHON>7032924544</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>A C*-algebra is a kind of mathematical object which, for example, appears in quantum mechanics. Simple C*-algebras are those that cannot be broken apart into smaller ("simpler") C*-algebras. The largest part of this project is about when a simple C*-algebra is isomorphic to its opposite algebra, that is, mathematically the same as what might be thought of as its mirror image. For an example from everyday life, an ordinary sock is the same as its mirror image, since a sock which fits on a right foot will fit equally well on the left foot. A glove isn't like that: whatever one does, a right glove will not fit on a left hand. A nonsimple C*-algebra can be made of very elementary parts, but put together in a tricky way, so as to not be isomorphic to its opposite. Simple C*-algebras which are not separable or not nuclear ("too large", but in different senses) can also fail to be isomorphic to their opposites. On the other hand, simple C*-algebras covered by the Elliott classification program are isomorphic to their opposites. A long-term goal of the project is to exhibit a simple separable nuclear C*-algebra which is not isomorphic to its opposite. Such an algebra could not be covered even by any proposed expansion of the Elliott program. The project will also contribute to US workforce development through the training of graduate and undergraduate students.&lt;br/&gt;&lt;br/&gt;The intended example is a simple unital AH algebra with fast dimension growth. The intended proof that it is not isomorphic to its opposite depends on nonexistence theorems for certain homomorphisms from one matrix algebra over the algebra of continuous functions on a compact space to a different matrix algebra over the continuous functions on a different compact space. When the second matrix size is large enough, all homomorphisms not ruled out for fairly obvious reasons actually exist. When it is small, known obstructions rule out most homomorphisms. The application requires information about an intermediate range. Here, even the simplest case, asked by Blackadar over 30 years ago, remains open; understanding this case is a necessary preliminary step. This case can almost certainly be settled by computations in rational homotopy theory, a new use of algebraic topology in C*-algebras.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400332</AwardID>
+<Investigator>
+<FirstName>Norman</FirstName>
+<LastName>Phillips</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Norman C Phillips</PI_FULL_NAME>
+<EmailAddress><![CDATA[ncp@uoregon.edu]]></EmailAddress>
+<NSF_ID>000443771</NSF_ID>
+<StartDate>04/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Oregon Eugene]]></Name>
+<CityName>EUGENE</CityName>
+<ZipCode>974031905</ZipCode>
+<PhoneNumber>5413465131</PhoneNumber>
+<StreetAddress><![CDATA[1776 E 13TH AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z3FGN9MF92U2</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF OREGON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Z3FGN9MF92U2</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Oregon Eugene]]></Name>
+<CityName>EUGENE</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>974031657</ZipCode>
+<StreetAddress><![CDATA[1585 E 13TH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128100</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~343286</FUND_OBLG>
+</Award>
+</rootTag>

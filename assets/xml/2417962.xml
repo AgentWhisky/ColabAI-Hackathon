@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation Potential of Multi-axis, Three-dimensional Printing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Molly Wasko</SignBlockName>
+<PO_EMAI>mwasko@nsf.gov</PO_EMAI>
+<PO_PHON>7032924749</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is based on the development of a novel, multi-axis, polymer extrusion-based, additive manufacturing process. Conventional extrusion-based additive processes are limited to depositing molten polymer in the direction of gravity. This multi-axis three-dimensional (3D) printing adds a counter-gravity deposition direction to the gravity-based 3D printing platform. By tailoring the orientation and materials of spatially organized segments of the 3D structure, this technology enables customization of the properties of 3D printed parts without rotating the print-bed or printheads during the process. By increasing the flexibility of deposition direction, this technology is may both broaden the range of products that can be manufactured through 3D printing as well as make 3D manufacturing more efficient.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. The solution is based on the development of a gantry-based three-dimensional (3D) printer involving multiple orthogonally configured filament extruders (printheads) that can work synchronously and simultaneously. The printheads will independently extrude thermoplastic polymers and composites for deposition in gravity and counter-gravity directions. Each segment of the 3D structure can be built in various orientations and with unique properties to impart multifunctionality to the whole 3D printed structure. Coordinating between the printheads and designing the extruding path is critical to leveraging the benefits of the multi-axis 3D printer in manufacturing products with spatially engineered properties. With a proper selection of process parameters, including layer height, printing speed, and temperature, the tensile fracture strength of the bond between layers printed at 90 and 180 degrees to the gravity direction was measured to be comparable with the bond strength between layers deposited in the gravity direction. In addition, flexural tests confirmed that the change in built orientation of different segments of the 3D printed structure and the layup configuration of the segments can be customized to dictate the strength and path of fracture in 3D printed structures for specific loading conditions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/06/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/06/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417962</AwardID>
+<Investigator>
+<FirstName>Hadi</FirstName>
+<LastName>Noori</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hadi Noori</PI_FULL_NAME>
+<EmailAddress><![CDATA[hadi.noori@okstate.edu]]></EmailAddress>
+<NSF_ID>000805976</NSF_ID>
+<StartDate>05/06/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Oklahoma State University]]></Name>
+<CityName>STILLWATER</CityName>
+<ZipCode>740781031</ZipCode>
+<PhoneNumber>4057449995</PhoneNumber>
+<StreetAddress><![CDATA[401 WHITEHURST HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OK03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNYDFK5FTSX9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OKLAHOMA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Oklahoma State University]]></Name>
+<CityName>STILLWATER</CityName>
+<StateCode>OK</StateCode>
+<ZipCode>740781031</ZipCode>
+<StreetAddress><![CDATA[401 WHITEHURST HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OK03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

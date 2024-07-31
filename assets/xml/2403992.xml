@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Vision analysis system using inferred three-dimensional data to analyze and correct a user’s pose in relation to 3D space]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is the development of rehabilitative technology, focusing on augmenting home-based exercise regimens for precise mobility recovery.  Currently, there is a growing need for accessible and consistent physical therapy support while current tools lead to poor adherence and ultimately poor recovery outcomes. The proposed technology provides an analysis of the human body to encourage recovery for physical therapy patients both in-clinic and at home through audio/visual feedback and corrective coaching.  The technology is designed to provide instantaneous corrections and synchronized progress with care providers, while the pose analysis and real-time guidance system provides confidence during exercise sessions. The goal is to facilitate better health outcomes and improved quality of life by improving access to personalized rehabilitation, potentially reducing healthcare disparities and cost of knowledgeable, accessible care. &lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of a software tool for physical rehabilitation, that addresses independently performed exercises for patients in physical therapy.  Currently, clinicians are limited by home exercise tools that do not have customizable features. The proposed vision analysis system uses inferred three-dimensional data to analyze and correct a user’s pose in relation to 3D space.  The technology includes a machine learning (ML) algorithm to dynamically extrapolate human pose insights and offers corrective action as needed. In addition, the proposed tool leverages a deep-learning approach that continues to improve through learning from outcomes and identifying engaging techniques for continued recovery.  The goal is to provide high-precision support at-home that complements physical recovery and directly impacts mobility and therapy objectives.  The proposed technology provides real-time guidance, corrective coaching, and integrated progress tracking, which may significantly improve the effectiveness of home-based exercises.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403992</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Heylman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher Heylman</PI_FULL_NAME>
+<EmailAddress><![CDATA[cheylman@calpoly.edu]]></EmailAddress>
+<NSF_ID>000768681</NSF_ID>
+<StartDate>01/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[California Polytechnic State University Foundation]]></Name>
+<CityName>SAN LUIS OBISPO</CityName>
+<ZipCode>934079000</ZipCode>
+<PhoneNumber>8057562982</PhoneNumber>
+<StreetAddress><![CDATA[1 GRAND AVE BLDG 15]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MC4RJJM9XLT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CAL POLY CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Polytechnic State University]]></Name>
+<CityName>SAN LUIS OBISPO</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>934070001</ZipCode>
+<StreetAddress><![CDATA[1 GRAND AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7453</Code>
+<Text>GRAPHICS &amp; VISUALIZATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

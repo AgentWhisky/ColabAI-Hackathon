@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Travel: Frontiers in Complexity Theory: A Graduate Workshop]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>34940.00</AwardTotalIntnAmount>
+<AwardAmount>34940</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karl Wimmer</SignBlockName>
+<PO_EMAI>kwimmer@nsf.gov</PO_EMAI>
+<PO_PHON>7032922095</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Center for Discrete Mathematics and Theoretical Computer Science (DIMACS) at Rutgers University plans to hold “Frontiers in Complexity Theory: A Graduate Student Workshop” at Rutgers University on July 29–August 1, 2024. The workshop will bring together a large cohort of graduate students working in theoretical computer science to learn about some of the most recent trends in complexity research. The event will be the concluding event of the DIMACS Special Focus on Lower Bounds in Computational Complexity, which is itself part of the DIMACS/Simons Institute Collaboration on Lower Bounds in Computational Complexity.  &lt;br/&gt; &lt;br/&gt;The workshop is structured around four “mini-workshops,” each consisting of a series of three two-hour tutorial-style lectures that guide participants from foundational ideas to recent breakthroughs in a current area of complexity theory research. The mini-workshops are: 1) Meta-complexity, 2) Error-correcting Codes, 3) Algebraic Complexity, and 4) Derandomization. Each participant will attend two of the four mini-workshops, attend keynote presentations by the preeminent researchers Avi Wigderson and Ryan Williams, and hear an extended presentation on a recent breakthrough result showing the existence of locally testable codes that have both constant relative distance and rate and are testable with a constant number of queries. By gathering a large cohort of 70-80 graduate students from across the United States and placing them at the forefront of current research in complexity theory, the workshop has the potential to be formative for the relevant generation of complexity theorists, with lasting effects on the field. This award provides accommodations that makes it possible to host these students for the duration of the workshop.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2435051</AwardID>
+<Investigator>
+<FirstName>Roy</FirstName>
+<LastName>Tell</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roy Tell</PI_FULL_NAME>
+<EmailAddress><![CDATA[roei@cs.toronto.edu]]></EmailAddress>
+<NSF_ID>0000A0C1S</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tamra</FirstName>
+<LastName>Carpenter</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tamra J Carpenter</PI_FULL_NAME>
+<EmailAddress><![CDATA[tcar@dimacs.rutgers.edu]]></EmailAddress>
+<NSF_ID>000611611</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>NEW BRUNSWICK</CityName>
+<ZipCode>089018559</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress><![CDATA[3 RUTGERS PLZ]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1LVPE5GLSD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>NEW BRUNSWICK</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>089018559</ZipCode>
+<StreetAddress><![CDATA[3 RUTGERS PLZ]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779600</Code>
+<Text>Algorithmic Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~34940</FUND_OBLG>
+</Award>
+</rootTag>

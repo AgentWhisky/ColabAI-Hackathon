@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-BSF: Molecular and biophysical mechanisms underlying contractile valve assembly and function]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>668572.00</AwardTotalIntnAmount>
+<AwardAmount>668572</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matt Buechner</SignBlockName>
+<PO_EMAI>mbuechne@nsf.gov</PO_EMAI>
+<PO_PHON>7032924675</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Many of the organs in our body are built of tubes. They include the digestive, reproductive, and cardiovascular systems.  Critical components of these tubular systems are contractile valves and sphincters that regulate passage of solid or liquid contents between tissue compartments.  Sphincters in large tissues are made of many muscle cells arranged in a circle.  However, tiny valves composed of a just few cells can somehow also perform these functions.  In the reproductive system of the nematode C. elegans there is a donut-shaped valve that opens and closes hundreds of times to allow eggs to pass from where they are fertilized to the uterus.  The team will characterize the inner structure of the valve cell with light and electron microscopy and use genetic perturbations to discover the molecular mechanisms that regulate its formation.  Then, they will investigate its function with live imaging and use biophysical modeling to understand how its structure facilitates its function.  This work is a first step in understanding how molecular values might be made as part of bioinspired molecular machines with bioeconomy applications. The integrated science education and outreach goals are focused on increasing access to and representation in research, developing a new Bioinformatics Course-based Undergraduate Research Experience (CURE), and supporting international understanding and collaboration.  Students will play an integral role in the project as they discover and characterize the genes that play a role in the development and function of the contractile valve.&lt;br/&gt;&lt;br/&gt;While multicellular, muscular valves are well studied, we know very little about the smallest contractile epithelial valves, which recapitulate the function of a large tissue using only a few cells.  To determine how these structures form and function, the team is using a tiny, donut-shaped valve in the reproductive system of the nematode C. elegans as a model system.  A contractile acto-myosin ring in this valve opens and closes hundreds of times to control the passage of eggs from the spermatheca to the uterus.  The contractile apparatus is a complex bi-layered structure with longitudinal actin cables surrounded by circumferential actin rings, surrounded by a ring of tubulin, of as yet unknown function.  The Cram, Zaidel-Bar, and Shemesh labs are investigating the assembly and regulation of this contractile apparatus by use of fluorescence confocal microscopy of endogenously tagged proteins, cell-specific RNAi, long-term imaging in a microfluidic device, laser ablations, and mathematical modeling.  This research will reveal basic principles of how intracellular contractile rings form, function, and are robustly regulated within small valves.  This apparatus has features in common with contractile rings in other animals, suggesting generalizable principles will be revealed.  Features of the ring, such as a barrel arrangement of actin and the surrounding microtubule ring, imply that novel concepts and mechanisms of contractility remain to be discovered, including how contractile cytoskeletal structures are assembled and positioned, how this valve can expand and contract repeatedly and robustly, and the role of the microtubules that surround the ring.&lt;br/&gt;  &lt;br/&gt;This collaborative US/Israel project is supported by the US National Science Foundation and the Israeli Binational Science Foundation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419801</AwardID>
+<Investigator>
+<FirstName>Erin</FirstName>
+<LastName>Cram</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Erin Cram</PI_FULL_NAME>
+<EmailAddress><![CDATA[e.cram@neu.edu]]></EmailAddress>
+<NSF_ID>000250338</NSF_ID>
+<StartDate>07/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northeastern University]]></Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress><![CDATA[360 HUNTINGTON AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HLTMVS2JZBS6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHEASTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northeastern University]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021155005</ZipCode>
+<StreetAddress><![CDATA[360 HUNTINGTON AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111400</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>014Z</Code>
+<Text>NSF and US-Israel Binational Science Fou</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5905</Code>
+<Text>ISRAEL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~668572</FUND_OBLG>
+</Award>
+</rootTag>

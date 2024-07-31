@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Leading and following in virtual meetings: An investigation of affect display]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>149746.00</AwardTotalIntnAmount>
+<AwardAmount>149746</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Songqi Liu</SignBlockName>
+<PO_EMAI>soliu@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Virtual meetings are important for organizational leaders as this context represents a critical activity to share information, develop relationships, and stimulate creativity and innovation. The project collects data and leverages data science to inform the training of leaders to create effective and inclusive virtual meetings. This research has implications for the scientific advancement of leadership theories as well as downstream practical implications for organizations and society. Almost every societal challenge faced by organizations requires effective leadership to overcome it. The application of data science to studying leaders’ and followers’ use of emotional expressions in virtual meetings is necessary. First, those who train leaders will have greater specificity in the knowledge, skills, and abilities required to facilitate leader emergence and effective leadership. Second, leaders who receive this training, and their organization, will benefit from the creation of a more inclusive and engaging virtual environment.&lt;br/&gt;&lt;br/&gt;Along with what leaders say in meetings, it is also important to understand how they say it in the form of verbal and nonverbal emotional expressions. This project seeks to advance scientific knowledge of how leaders and followers effectively use emotional expressions as signals in virtual meetings. First, the project team conducts a series of online meetings in which leaders and followers work on a component of a strategic plan for a real organization (Task 1: Generate leader and follower verbal and nonverbal data). Second, the project team applies artificial intelligence methods to analyze leaders’ and followers’ verbal and nonverbal (voice tone, pitch, volume) emotional expressions during meetings (Task 2: Develop multimodal AI scores of leader and follower verbal and nonverbal behavior). Third, the project team explores gender differences in how leaders use emotions and how followers rate the leaders (Task 3: Examine the occurrence and outcomes of emotional expressions during meetings).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419500</AwardID>
+<Investigator>
+<FirstName>Wenwen</FirstName>
+<LastName>Dou</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wenwen Dou</PI_FULL_NAME>
+<EmailAddress><![CDATA[wdou1@uncc.edu]]></EmailAddress>
+<NSF_ID>000627821</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>George</FirstName>
+<LastName>Banks</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>George C Banks</PI_FULL_NAME>
+<EmailAddress><![CDATA[gbanks3@uncc.edu]]></EmailAddress>
+<NSF_ID>000798844</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Tonidandel</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott Tonidandel</PI_FULL_NAME>
+<EmailAddress><![CDATA[scott.tonidandel@uncc.edu]]></EmailAddress>
+<NSF_ID>000827655</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Janaki</FirstName>
+<LastName>Gooty</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Janaki Gooty</PI_FULL_NAME>
+<EmailAddress><![CDATA[jgooty@uncc.edu]]></EmailAddress>
+<NSF_ID>000835741</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of North Carolina at Charlotte]]></Name>
+<CityName>CHARLOTTE</CityName>
+<ZipCode>282230001</ZipCode>
+<PhoneNumber>7046871888</PhoneNumber>
+<StreetAddress><![CDATA[9201 UNIVERSITY CITY BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JB33DT84JNA5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>N8DMK1K4C2K5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Charlotte]]></Name>
+<CityName>CHARLOTTE</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>282230001</ZipCode>
+<StreetAddress><![CDATA[9201 UNIVERSITY CITY BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>803100</Code>
+<Text>SoO-Science Of Organizations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~149746</FUND_OBLG>
+</Award>
+</rootTag>

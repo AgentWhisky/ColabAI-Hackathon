@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Novel Approaches to Geometry of Moduli Spaces]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>274996.00</AwardTotalIntnAmount>
+<AwardAmount>274996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+<PO_EMAI>mdouglas@nsf.gov</PO_EMAI>
+<PO_PHON>7032922467</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Algebraic geometry has long occupied a central role in mathematics, providing a sophisticated language to describe geometric shapes known as algebraic varieties - with applications ranging from configuration spaces in physics to parametric models in statistics. This versatile language is used throughout algebra and has fueled multiple recent advances, not only in algebraic geometry itself but also in representation theory, number theory, symplectic geometry and other fields. Algebraic varieties are typically endowed with additional structures, such as vector bundles. Local sections of vector bundles are mathematical abstractions of fields in physics, making algebraic geometry indispensable for the study of physical phenomena like mirror symmetry and other dualities. A recurring theme in moduli theory is the interplay between moduli spaces of vector bundles, which parametrize them geometrically and can be studied analytically, and the derived categories of algebraic varieties, which encode algebraic and homological properties of vector bundles. Derived categories provide a bridge from algebraic geometry to the emerging field of non-commutative geometry. Indeed, functors and equivalences between derived categories are deeply related to the birational (local) geometry of algebraic varieties. This project will further the study of derived categories. The PI will deliver graduate-level mini-courses and lectures at conferences, professional development events, and summer schools for graduate students. Many sub-projects are suitable as thesis topics for graduate students. Furthermore, several problems are designed specifically for undergraduate participants in the research and training program in algebraic geometry organized by the PI.&lt;br/&gt;&lt;br/&gt;In more detail, the proposed reserch is centered around two main themes. The first is the study of derived categories of moduli spaces and Fano varieties more broadly. The derived categories of Fano varieties, unlike Calabi-Yau or most canonically polarized varieties, admit semi-orthogonal decompositions; from the perspective of non-commutative geometry, Fano varieties are built from more elementary blocks. A beautiful picture emerges, where the decompositions of various Fano varieties, related by birational transformations, undergo rearrangements, which we call weaving patterns. Their construction is motivated by ideas of mirror symmetry, quantum cohomology, vanishing theorems of the minimal model program, and quantization. The PI will advance this program for a wide variety of spaces: moduli spaces of vector bundles, parabolic bundles and Higgs bundles on curves, toric varieties, flag varieties, moduli of sheaves with one-dimensional support on K3 surfaces, and fixed-point loci of anti-symplectic involutions on projective hyperkahler varieties. The second theme is to continue the study of the categorical Milnor fiber for deformations of singular algebraic varieties, describe its mirror symmetry interpretation, and find applications to moduli of algebraic surfaces of geometric genus zero, including Dolgachev surfaces and fake del Pezzo surfaces.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401387</AwardID>
+<Investigator>
+<FirstName>Evgueni</FirstName>
+<LastName>Tevelev</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Evgueni Tevelev</PI_FULL_NAME>
+<EmailAddress><![CDATA[tevelev@math.umass.edu]]></EmailAddress>
+<NSF_ID>000492550</NSF_ID>
+<StartDate>04/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>AMHERST</CityName>
+<ZipCode>010039252</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress><![CDATA[101 COMMONWEALTH AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VGJHK59NMPK9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VGJHK59NMPK9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>AMHERST</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>010039252</ZipCode>
+<StreetAddress><![CDATA[COMMONWEALTH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~274996</FUND_OBLG>
+</Award>
+</rootTag>

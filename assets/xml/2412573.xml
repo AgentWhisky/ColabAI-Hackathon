@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Statistical and Computational Guarantees of Estimation of Generative Models and Optimal Transport]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yulia Gel</SignBlockName>
+<PO_EMAI>ygel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927888</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Generative machine learning models are currently revolutionizing the artificial intelligence (AI) community with their significant capabilities in creating innovative images and text. At its heart, generative AI fundamentally addresses a high dimensional density estimation problem. Alternatively, it can be perceived as a transport problem, transforming a simple and known distribution/noise into a complex and unknown distribution. Despite the development of numerous successful algorithms, the literature lacks statistical guarantees to theoretically underpin these algorithms, and concerns about the environmental impact due to extensive computations continue to persist. Among these models, score-based diffusion models are currently replacing the generative adversarial neural nets and at the forefront in terms of popularity and efficacy. However, the score training process can be exceedingly slow and energy intensive. To address this, the investigator will study the more computationally and energetically efficient rectified flow algorithm and its variants which turn the high-dimensional density estimation to an iterative regression problem, and this iterative regression leads to an optimal transport. The research will advance the understanding of the success of models in generative AI. The intrinsic connections to be explored among those models will help convert statistical guarantees from one generative model to another, and lead to novel and improved algorithms, which would eventually advance the state of art of generative AI. &lt;br/&gt;&lt;br/&gt;The investigator aims to study the statistical and computational assurances of rectified flow and diffusion models and explore two connections among those models: score matching and solving ordinary/stochastic differential equation, with an intriguing linkage to nonparametric empirical Bayes. The following questions will be addressed: 1) can we show that the iterative rectified flow obtains density and transport estimation optimally in just one step of regression? 2) how fast does the iterative regression of rectified flow converge to the optimal transport? 3) can we propose an improved algorithm over the rectified flow for a better statistical and computational guarantee? 4) what are the statistical and computational guarantees of diffusion models? 5) can we improve the denoising diffusion probabilistic models by an iterative algorithm to obtain the optimal transport? In addition, the project will explore applications of generative models and optimal transport to neuroscience and autism spectrum disorder. Research results from this proposal will be disseminated through articles, workshops, and interdisciplinary seminar series. It will integrate research and education by teaching monograph courses and organizing workshops and seminars to enhance the career development of the next generations of statisticians and data scientists, including a particular focus on the underrepresented groups in mathematical sciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412573</AwardID>
+<Investigator>
+<FirstName>Huibin</FirstName>
+<LastName>Zhou</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Huibin Zhou</PI_FULL_NAME>
+<EmailAddress><![CDATA[huibin.zhou@yale.edu]]></EmailAddress>
+<NSF_ID>000148898</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<ZipCode>065113572</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress><![CDATA[150 MUNSON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FL6GV84CKN57</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>YALE UNIV</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FL6GV84CKN57</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>065118499</ZipCode>
+<StreetAddress><![CDATA[219 Prospect Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125300</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~225000</FUND_OBLG>
+</Award>
+</rootTag>

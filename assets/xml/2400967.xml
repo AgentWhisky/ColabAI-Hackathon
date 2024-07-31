@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHINE: Origin and Evolution of Compressible Fluctuations in the Solar Wind and Their Role in Solar Wind Heating and Acceleration]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>468460.00</AwardTotalIntnAmount>
+<AwardAmount>468460</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lisa Winter</SignBlockName>
+<PO_EMAI>lwinter@nsf.gov</PO_EMAI>
+<PO_PHON>7032928519</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Understanding what leads to coronal heating, solar wind acceleration, and turbulence transport, is key to improve the predictive capabilities of space weather models and, thus, to help preventing catastrophic solar events that can harm astronauts and/or our technological infrastructure. This project will test novel, physics-informed machine learning techniques and, thus, it will provide valuable proof-of-concept methods for the broader plasma physics community (from space physics to astrophysics, to fusion to laser-plasma interactions) and for scientists investigating complex systems. This project will also have significant impact in education, by supporting an early career woman faculty member, postdoctoral researcher, and by providing an opportunity for undergraduate students to be involved in heliophysics research. &lt;br/&gt;&lt;br/&gt;Interactions between Alfvén and compressible modes can provide an important mechanism to heat the plasma and to enhance the turbulent cascade. However, how these two effects impact the macroscopic properties of the plasma is not yet well understood and, indeed, they are neglected in state-of-the-art global solar wind models. The proposed project will close such a knowledge gap by investigating the role of compressibility, including wave-particle interactions mediated by compressible fluctuations, on solar wind dynamics and thermal properties. By investigating compressible and kinetic effects in the solar wind, and by developing a novel wave-driven solar wind model, this project will provide insights on the role of waves and turbulence in wave-driven wind models. The science objectives of this project are: (1) to characterize the evolution of compressible fluctuations with radial distance and in different types of turbulent solar wind; (2) to determine what phase-space dynamics leads to proton heating and to quantify the heating rate in different types of turbulence (balanced vs. imbalanced); (3) to incorporate kinetic compressible effects into a global wave-driven solar wind model. To achieve our science objectives, we will (1) analyze the radial evolution of fluctuations from Parker Solar Probe, Helios, and Wind data, (2) perform hybrid-PIC numerical simulations and (3) develop a novel global solar wind model based on knowledge-based machine learning methods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400967</AwardID>
+<Investigator>
+<FirstName>Anna</FirstName>
+<LastName>Tenerani</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anna Tenerani</PI_FULL_NAME>
+<EmailAddress><![CDATA[Anna.Tenerani@austin.utexas.edu]]></EmailAddress>
+<NSF_ID>000814649</NSF_ID>
+<StartDate>04/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152300</Code>
+<Text>SOLAR-TERRESTRIAL</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~468460</FUND_OBLG>
+</Award>
+</rootTag>

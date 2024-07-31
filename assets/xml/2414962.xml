@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PFI-TT: Developing a Minimally-Invasive Manufacturing Method for Personalized Medical Devices]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>550000.00</AwardTotalIntnAmount>
+<AwardAmount>550000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samir M. Iqbal</SignBlockName>
+<PO_EMAI>smiqbal@nsf.gov</PO_EMAI>
+<PO_PHON>7032927529</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Partnerships for Innovation - Technology Translation (PFI-TT) project lies in transforming the field of medical implants by introducing a new catheter-based additive manufacturing platform. Current medical devices are mass-produced and often do not fit the unique anatomical features of individual patients, leading to increased risks, complications, and higher healthcare costs. This solution addresses the challenge of creating on-demand customized implants that fit the unique anatomical features of individual patients, as opposed to the current one-size-fits-all approach. By enabling the creation of customized 3D implants directly inside the human body, this technology aims to reduce medical complications, improve patient recovery times, and lower healthcare costs. If realized, this technology has the potential to disrupt the medical device market, leading to more effective treatments and broader access to personalized healthcare solutions. Additionally, this project will use new component designs and assembly methods for in-vivo manufacturing, combining the advantages of minimally-invasive procedures with the benefits of the 3D biofabrication toolkit, which could be broadly applied to a wide range of medical applications. &lt;br/&gt;&lt;br/&gt;The project focuses on addressing the critical unmet need for personalized biomedical implants that conform to the unique anatomical features of individual patients. The primary research objective is to develop a catheter-based additive manufacturing platform capable of creating customized medical implants directly inside the human body. This project involves designing, synthesizing, and optimizing granular hydrogels that can be delivered through catheters to form three-dimensional structures in-vivo. The research will encompass the development of delivery mechanisms, material characterization, and the long-distance formation and stabilization of 3D implants. Key activities include the data-driven synthesis and characterization of soft implant-grade biomaterials, the development of sophisticated catheter-based delivery systems, the definition of in-vivo personalized manufacturing strategies, and extensive benchtop testing. The anticipated technical results include the design, development, and demonstration of this technology in benchtop models, establishing the technology's potential for future clinical efficacy and safety. By advancing the in-situ biomanufacturing toolbox, this project aims to set new standards for personalized medical treatments, ultimately leading to more effective and less invasive device-based healthcare solutions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414962</AwardID>
+<Investigator>
+<FirstName>Ellen</FirstName>
+<LastName>Roche</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ellen Roche</PI_FULL_NAME>
+<EmailAddress><![CDATA[eroche@seas.harvard.edu]]></EmailAddress>
+<NSF_ID>000782720</NSF_ID>
+<StartDate>07/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021385366</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress><![CDATA[1033 MASSACHUSETTS AVE STE 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LN53LCFJFL45</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021385366</ZipCode>
+<StreetAddress><![CDATA[1033 MASSACHUSETTS AVE STE 3]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>166200</Code>
+<Text>PFI-Partnrships for Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>004E</Code>
+<Text>BIOMEDICAL ENG AND DIAGNOSTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~550000</FUND_OBLG>
+</Award>
+</rootTag>

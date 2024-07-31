@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-ANR MCB/PHY: How multi-timescale dynamics affects allosteric enzyme activation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>919597.00</AwardTotalIntnAmount>
+<AwardAmount>919597</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wilson Francisco</SignBlockName>
+<PO_EMAI>wfrancis@nsf.gov</PO_EMAI>
+<PO_PHON>7032927856</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>For enzymes to function and thus support life, their complex three-dimensional structures must undergo motions over a wide range of timescales that enable them form alternate structures. This research project will develop and make use of technological advances to give an unprecedented view of the hierarchy of these molecular motions. The success of this project will impact basic research, enhance protein engineering efforts, and provide insight that will lead to better therapeutics. Moreover, this project will involve training of graduate students in state-of-the-art biophysical techniques that will enable them to pursue independent scientific careers. In addition, this project will contribute to reinforce the synergies between the French and American scientific communities in biological magnetic resonance and computational biophysics, andparticularly, the investigation of protein dynamics and its role in protein function.  &lt;br/&gt;&lt;br/&gt;Allostery is a fundamental method by which enzymatic activity is regulated. Allostery links effector binding sites and enzyme active sites via a matrix of flexible residues in the protein structure. A better understanding of the timescale of motions than enable this linkage will have significant impact on fundamental protein biophysics. This project focuses on obtaining a better understanding of allostery in the enzyme imidazole glycerol phosphate synthase (IGPS) using field cycling nuclear magnetic resonance (NMR) spectroscopy to better understand the timescale range of molecular motions that occur as part of the allosteric activation of IGPS. Field cycling makes use of a rapid shuttling device mounted to a standard high field NMR instrument. The key advantage of this technique is that the high-resolution and signal-to-noise garnered from standard high field NMR is maintained but NMR spin-relaxation, which reports on molecular motions, is allowed to occur over a large range of magnetic fields due to the shuttling of the enzyme sample outside the main field of the superconducting magnet. The field shuttling device allows access to over two orders of magnitude variation in magnetic field thus allowing this technique to probe molecular motions over a similarly large timescale. This proposal will couple these experimental measurements with computational techniques to not only describe the timescale of motions but importantly, the mechanism of motions as well. This approach will compare effects in IGPS between its unactivated state and its allosterically enhanced state to provide unprecedented insight into the role of motions in this physiologically critical process.&lt;br/&gt;&lt;br/&gt;This collaborative US/France project is jointly supported by the (name of MCB cluster) program in the Division of Molecular and Cellular Biosciences and the Physics of Living Systems program in the Division of Physics at the US National Science Foundation and the French Agence Nationale de la Recherche, where NSF funds the US investigator and ANR funds the partners in France.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/31/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412821</AwardID>
+<Investigator>
+<FirstName>joseph</FirstName>
+<LastName>loria</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>joseph P loria</PI_FULL_NAME>
+<EmailAddress><![CDATA[patrick.loria@yale.edu]]></EmailAddress>
+<NSF_ID>000247362</NSF_ID>
+<StartDate>05/31/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Victor</FirstName>
+<LastName>Batista</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Victor S Batista</PI_FULL_NAME>
+<EmailAddress><![CDATA[victor.batista@yale.edu]]></EmailAddress>
+<NSF_ID>000104006</NSF_ID>
+<StartDate>05/31/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<ZipCode>065113572</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress><![CDATA[150 MUNSON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FL6GV84CKN57</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>YALE UNIV</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FL6GV84CKN57</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>065118917</ZipCode>
+<StreetAddress><![CDATA[255 Prospect Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>114400</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>724600</Code>
+<Text>PHYSICS OF LIVING SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5918</Code>
+<Text>FRANCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8007</Code>
+<Text>BioMaPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~919597</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Mean Field Optimal Control]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>320000.00</AwardTotalIntnAmount>
+<AwardAmount>320000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Differential games have a complex and flexible structure making it a central modeling tool for diverse phenomena arising in social sciences, economics as well as engineering.  Despite its appeal, this complexity and flexibility also often makes its mathematical analysis intractable. In cases when the game is played by a large number of identical agents, mean field paradigm widely employed in physics offers a simplifying approach without compromising its modeling potential.  This new perspective has been actively studied over the past decade and proved to be effectively applicable across various fields.  Additionally, as in the mean field regime the players have small impact on the macro behavior of the system, it becomes feasible to coordinate their actions through a central planner providing equilibria that are beneficial to all. This project is centered around these models that are centrally controlled.  While in some cases this is the natural setting, games that have potential structure are also intrinsically connected to these mean field control problems. This project also provides opportunities for the involvement of students in the research.&lt;br/&gt;&lt;br/&gt;Technically, the main feature of mean field type optimization is the dependence of its evolution and cost, not only on the position of the state, but also on its probability distribution, making the set of distributions its state space. Thus, the dynamic programming approach results in nonlinear partial differential equations set in the spaces of probability measures. For games these are coupled Hamilton-Jacobi and Fokker-Planck-Kolmogorov systems. For mean field control however, the differential equations characterizing the minimal value are naturally set in the Wasserstein space of probability measures with finite second moments, and they are not expected to admit classical solutions.  Towards the central goal of building an efficient theory for these equations, this project aims to develop a complete theory for the associated dynamic programming equation for mean field control, to study the potential games in detail, and to establish efficient numerical approaches using modern optimization packages with theoretical guarantees based on tools from statistical machine learning.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406762</AwardID>
+<Investigator>
+<FirstName>Halil</FirstName>
+<LastName>Soner</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Halil M Soner</PI_FULL_NAME>
+<EmailAddress><![CDATA[soner@princeton.edu]]></EmailAddress>
+<NSF_ID>000086162</NSF_ID>
+<StartDate>05/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085442001</ZipCode>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~320000</FUND_OBLG>
+</Award>
+</rootTag>

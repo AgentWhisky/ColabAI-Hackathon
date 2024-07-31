@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[IUCRC Phase III Michigan State University: Center for Identification Technology Research (CITeR)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>40000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mohan Kumar</SignBlockName>
+<PO_EMAI>mokumar@nsf.gov</PO_EMAI>
+<PO_PHON>7032927408</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The ability to establish, confirm, and protect an individual’s identity is essential to the functioning of our society. Biometrics uses physical, behavioral, and psychophysiological measurements of the body to recognize an individual. A secure biometric system can reduce the risk of identity theft and safeguard access to personal information. Such technology is also critical for mitigating crime, terrorism, fraud, and human trafficking. However, the rapid rise of Artificial Intelligence (AI) has not only accelerated the growth of biometrics and other types of identification technology but has also resulted in the generation of fake images, text, video, and audio that can be used to intentionally deceive these systems.&lt;br/&gt;&lt;br/&gt;In Phase III, the Center for Identification Technology Research (CITeR) will expand its research focus to include generative AI, advanced computing, and digital identity management, along with the development of fair, transparent, and explainable systems that can significantly advance the use of identification technology in both commercial and government sectors. The MSU site will conduct projects on enhancing biometric data privacy. We will develop explainable models that can offer insights into the decisions rendered by deep neural network models. To enhance template security, we will design methods that can leverage homomorphic encryption for both identification and verification. To better understand the genetic basis of facial morphology, we will use large language models to learn associations between DNA sequences and facial features. Given the increasing use of voice-based conversational AI agents, we will develop techniques to improve the robustness of speaker systems in detecting audio deepfakes and voice morphs. The goal is to strengthen the science underlying biometrics and to explore novel applications while not compromising on the cornerstone of ethics, security, and privacy.&lt;br/&gt;&lt;br/&gt;CITeR will play a critical role in addressing the concerns outlined in the Presidential Executive Order on Artificial Intelligence, which states that irresponsible use of AI could "exacerbate societal harms such as fraud, discrimination, bias, and disinformation." CITeR will support opportunities for sharing and learning through the development of educational videos, STEM outreach efforts to public schools, and the development and hosting of Challenge Problem Workshops for industry and government organizations to address operational challenges. MSU investigators will reach out to under-represented minorities in the state through the Detroit Area Pre-College Engineering Program. MSU will develop a kiosk for the MSU Museum that would allow a broader audience to learn about AI and biometrics interactively.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413309</AwardID>
+<Investigator>
+<FirstName>Arun</FirstName>
+<LastName>Ross</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arun A Ross</PI_FULL_NAME>
+<EmailAddress><![CDATA[rossarun@cse.msu.edu]]></EmailAddress>
+<NSF_ID>000057329</NSF_ID>
+<StartDate>07/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>576100</Code>
+<Text>IUCRC-Indust-Univ Coop Res Ctr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~40000</FUND_OBLG>
+</Award>
+</rootTag>

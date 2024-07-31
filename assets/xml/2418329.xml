@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RCN-UBE: Building Open Education Ecosystems to Facilitate the Adoption and Adaptation of Computational and Data-Centric Tools Across Undergraduate Biology Education (OEE-UBE)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>493317.00</AwardTotalIntnAmount>
+<AwardAmount>493317</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Olivia S. Long</SignBlockName>
+<PO_EMAI>olong@nsf.gov</PO_EMAI>
+<PO_PHON>7032927897</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Building and applying modern biological knowledge depends on using advanced computer tools and databases to gather information, analyze data, and test ideas. Unfortunately, many college students don’t get enough experience with these methods to pursue technical careers. To address this experience gap, the project plans to create a network that brings together existing science and education resources, making them easier to use in different types of institutions and with diverse student audiences. This network will be organized around four key areas: high-performance computing, using scientific data, modeling and simulation, and interactive data tools. By making these resources more accessible and user-friendly, the project aims to help faculty and students develop their computational skills and break down barriers to participation in the scientific workforce, especially for students from traditionally underrepresented groups.&lt;br/&gt;&lt;br/&gt;This research coordination network will operate at the interface of open science and open education to integrate existing scientific and educational resources. Adopting FAIR principles (findability, accessibility, interoperability, and reusability) that bridge scientific and teaching resources will require the development and implementation of a shared metadata schema that automates robust connections between open education resources (OER), computational tools, and scientific data repositories. Each of the four focus areas will be supported by an online Open Education Ecosystem (OEE) where interdisciplinary professional communities of practice will work to coordinate teaching and scientific materials, support faculty professional learning, and foster pedagogies that promote student engagement with contemporary scientific principles and practices. Through the work of the four OEEs the network will design an information architecture to support STEM education and research interoperability, scalable classroom access to computational resources, and embedded cybertraining, promoting educational impacts that empower marginalized learner communities.&lt;br/&gt;&lt;br/&gt;This project is being jointly funded by the Directorate for Biological Sciences, Division of Biological Infrastructure, and the Directorate for STEM Education, Division of Undergraduate Education as part of their efforts to address the challenges posed in Vision and Change in Undergraduate Biology Education: A Call to Action (http://visionandchange/finalreport/).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074, 47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418329</AwardID>
+<Investigator>
+<FirstName>Samuel</FirstName>
+<LastName>Donovan</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Samuel S Donovan</PI_FULL_NAME>
+<EmailAddress><![CDATA[sam.donovan@bioquest.org]]></EmailAddress>
+<NSF_ID>000295736</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>LaMar</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael D LaMar</PI_FULL_NAME>
+<EmailAddress><![CDATA[mdlama@wm.edu]]></EmailAddress>
+<NSF_ID>000558172</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Deborah</FirstName>
+<LastName>Rook</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Deborah L Rook</PI_FULL_NAME>
+<EmailAddress><![CDATA[deb.rook@bioquest.org]]></EmailAddress>
+<NSF_ID>000647306</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[BioQUEST Curriculum Consortium, Inc]]></Name>
+<CityName>Raymond</CityName>
+<ZipCode>030771535</ZipCode>
+<PhoneNumber>6039690373</PhoneNumber>
+<StreetAddress><![CDATA[19 Glen Ridge Rd]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<StateCode>NH</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NH01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>N7C4VRXZ4MZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BIOQUEST CURRICULUM CONSORTIUM, INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>N7C4VRXZ4MZ9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[BioQUEST Curriculum Consortium, Inc]]></Name>
+<CityName>Raymond</CityName>
+<StateCode>NH</StateCode>
+<ZipCode>030771535</ZipCode>
+<StreetAddress><![CDATA[19 Glen Ridge Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NH01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>037Y00</Code>
+<Text>UBE - Undergraduate Biology Ed</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>199800</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>04002425DB</Code>
+<Name><![CDATA[NSF STEM Education]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~493317</FUND_OBLG>
+</Award>
+</rootTag>

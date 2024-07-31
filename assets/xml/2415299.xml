@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: IMPRESS-U: Exploratory Research in Robust Machine Learning for Object Detection and Classification]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>49997.00</AwardTotalIntnAmount>
+<AwardAmount>49997</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maija Kukla</SignBlockName>
+<PO_EMAI>mkukla@nsf.gov</PO_EMAI>
+<PO_PHON>7032924940</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project is jointly supported by NSF, Estonian Research Council (ETAG), US National Academy of Sciences, and Office of Naval Research Global (DoD). &lt;br/&gt;&lt;br/&gt;The multilateral partnership team (Rochester Institute of Technology, USA, the National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute", Ukraine, and Tallinn Technical University, Estonia) will advance scientific knowledge in machine learning and computer vision. It is expected that the obtained findings will contribute to foundations in analysis and design of modern engineered semi-autonomous and autonomous systems, as well as control and machine intelligence. This project targets a range of educational and learning activities, fostering: (1) Multidisciplinary faculty, researchers and students experience, scholarship and knowledge generation; (2) Competitiveness and national security by transformative research and global diverse education in critical areas of recognized needs, opportunities and urgency; (3) Knowledge and research findings implementation, disseminations and institutionalization; (4) Building a diverse research team, and advancing early-carrier faculty, including underrepresented groups; (5) State-of-the-art ecosystem by integrating research and education; (6) A modern globally-competitive research workforce in critical areas of national economy and security.&lt;br/&gt;&lt;br/&gt;Multi-university research team will conduct exploratory transformative research, addressing open problems in adaptive machine learning, computer vision, object detection and classification. The researchers will investigate reduced-dimensionality convolutional neural networks to ensure high mean average precision, object detection probability, classification accuracy, robustness to nefarious data, and high speed. Adaptive machine learning will be empowered by applying singular value factorization analytics, supported by a calculus of compact multidimensional operator spaces. The proposed concept should guarantee content-aware information-dense data analytics, dimensionality and parameter reduction, robust image reconstruction, as well as information perception. Computationally efficient machine learning models will be trained on standard and custom datasets. Novel objective functions and algorithms will be investigated evaluating performance metrics and benchmarks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415299</AwardID>
+<Investigator>
+<FirstName>Leon</FirstName>
+<LastName>Reznik</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leon Reznik</PI_FULL_NAME>
+<EmailAddress><![CDATA[lr@cs.rit.edu]]></EmailAddress>
+<NSF_ID>000491457</NSF_ID>
+<StartDate>02/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sergey</FirstName>
+<LastName>Lyshevski</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sergey E Lyshevski</PI_FULL_NAME>
+<EmailAddress><![CDATA[seleee@rit.edu]]></EmailAddress>
+<NSF_ID>000292001</NSF_ID>
+<StartDate>02/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Rochester Institute of Tech]]></Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146235603</ZipCode>
+<PhoneNumber>5854757987</PhoneNumber>
+<StreetAddress><![CDATA[1 LOMB MEMORIAL DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J6TWTRKC1X14</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ROCHESTER INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rochester Institute of Tech]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146235603</ZipCode>
+<StreetAddress><![CDATA[1 LOMB MEMORIAL DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>729800</Code>
+<Text>International Research Collab</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5915</Code>
+<Text>EASTERN EUROPE, OTHER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5998</Code>
+<Text>UKRAINE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~49997</FUND_OBLG>
+</Award>
+</rootTag>

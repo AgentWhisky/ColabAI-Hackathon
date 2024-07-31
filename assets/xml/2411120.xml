@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Improving quantum speedup for solving differential equations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>59632</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Troy D. Butler</SignBlockName>
+<PO_EMAI>tdbutler@nsf.gov</PO_EMAI>
+<PO_PHON>7032922084</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The ultimate challenge in many areas of applied science can be attributed to the limited capability of solving large-scale differential equations. Classical computers encounter a fundamental bottleneck due to the nonlinearity, vast number of degrees of freedom, and inherent stochasticity of these equations. Motivated by the emergence of quantum computing, which promises significant speedups over classical methods for many scientific computing problems, particularly those involving quantum dynamics governed by the Schrodinger equation, this research aims to establish an innovative mathematical framework. This framework will transform a broad range of differential equations into the Schrodinger equation, enabling the application of quantum algorithms. Such quantum speedup has the potential to enhance the prediction of physical properties and optimize system performance based on differential equation models. To ensure broader scientific and societal impacts, the research team will disseminate results at quantum information processing conferences and also integrate graduate students within the research plan as part of their professional training. &lt;br/&gt;&lt;br/&gt;The principal investigator will develop an encoding scheme to represent large-scale differential equations within unitary dynamics through a shadow Hamiltonian. Using backward error analysis, the research aims to systematically construct a shadow Hamiltonian with an arbitrarily higher order of accuracy. Moreover, a precise procedure will be developed for mapping nonlinear and stochastic differential equations into such unitary evolution, significantly broadening the applicability of the proposed encoding scheme. The quantum algorithms derived from this project will be applied to non-Hermitian dynamics from topological materials and chemical Langevin dynamics from biomolecular modeling, aiming to make a direct impact on critical physics and engineering fields.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/30/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411120</AwardID>
+<Investigator>
+<FirstName>Xiantao</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiantao Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[xli@math.psu.edu]]></EmailAddress>
+<NSF_ID>000494210</NSF_ID>
+<StartDate>05/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168021503</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPM2J7MSCF61</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE PENNSYLVANIA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>168021503</ZipCode>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~59632</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation Potential of an Autonomous Road Assessment System]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is the development of a road assessment and maintenance technology platform. Currently, there is a need for more frequent and accurate road condition evaluations. Such assessments have traditionally been hindered by labor-intensive, infrequent, and subjective manual inspections. This technology utilizes a fleet of mobile sensing agents equipped with cameras, depth sensors, a global positioning System (GPS), and accelerometers to modernize the way road conditions are assessed and maintained. The aim is to move away from traditional road assessment methods and provide a system that is autonomous, continuous, and objective. This new assessment technology has the potential to save billions in road maintenance costs but also may significantly enhance public safety by enabling quicker responses to emerging road issues.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. The solution is based on the development of an integrated pavement assessment system that utilizes autonomous sensing, machine learning, and large-scale data interpretation for intelligent condition assessment of roadways. By leveraging a network of low-cost mobile sensing agents, the technology collects real-time, high-resolution data on pavement conditions, that, when analyzed through artificial intelligence (AI) algorithms, yields an assessment of roadway health. The technology merges several fields including the Internet of Things (IoT) for deploying the swarm of sensors, AI for interpreting the massive data sets collected, and crowdsourcing to augment the data gathering process. This approach may allow for a shift from schedule-based maintenance to condition-based maintenance, enabling quicker responses to road wear and potential issues, thus enhancing public safety and potentially saving billions in road maintenance costs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419027</AwardID>
+<Investigator>
+<FirstName>Mohammad</FirstName>
+<LastName>Jahanshahi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mohammad Jahanshahi</PI_FULL_NAME>
+<EmailAddress><![CDATA[jahansha@purdue.edu]]></EmailAddress>
+<NSF_ID>000678273</NSF_ID>
+<StartDate>04/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7453</Code>
+<Text>GRAPHICS &amp; VISUALIZATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

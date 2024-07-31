@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: A NSF/NIH Workshop on Neuromorphic Principles in Biomedicine and Healthcare]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ale Lukaszew</SignBlockName>
+<PO_EMAI>rlukasze@nsf.gov</PO_EMAI>
+<PO_PHON>7032928103</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The goal of this workshop is to bring communities together to create a new generation of biomedical and neuro-engineering technologies that operate with extreme energy and data efficiency, adaptability, and performance advantages compared to current approaches. The plan is to congregate biomedical engineers, neural engineers, neuroscientists (computational and physiologists), neuromorphic scientists and engineers, materials scientists, clinicians, and mainstream engineers (e.g., electrical engineers, optical engineers, computer engineers, device engineers) to introduce new brain- and biology-inspired design principles to engineers who are currently investigating non-von Neumann architectures. It is expected that these new principles will provide alternative methods to solve relevant problems in the biomedical field, and to do so with significant improvements in the various metrics of the field. &lt;br/&gt;&lt;br/&gt;The planned interactions will leverage the synergistic interests of the National Institutes of Health (NIH) [including the National Institute of Neurological Disorders and Stroke (NINDS) and the National Institute of Biomedical Imaging and Bioengineering (NIBIB)] and the National Science Foundation (NSF) to improve healthcare technologies, while also discovering fundamental concepts in engineering. An expected output of the workshop will be a neuromorphic biotechnology roadmap that articulates the benefits of the approach, highlights the challenges and proposes a potential pathway to achieve the benefits. We expect analysis of the needs of the field, presentation of emerging technologies and concepts, and their potential impact on the common interests of the NIH and NSF. This roadmap will clearly identify the near-term and longer-term opportunities and elucidate the potential partners – including the private sector – who should participate in driving these efforts. The 2-day workshop program will include 2 keynote addresses, 12 invited presentations, poster sessions for graduate student attendees, moderated discussion sessions and meetings with NIH and NSF program managers. It is also planned to invite the program committee, composed of 5 experts, to serve on discussion panels. A further group of 6 scholars/entrepreneur/innovator will be convened for this workshop. All of them will be encouraged to bring their students to participate in the discourse and present posters. In-person and virtual participants are expected.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2433739</AwardID>
+<Investigator>
+<FirstName>Ralph</FirstName>
+<LastName>Etienne-Cummings</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ralph Etienne-Cummings</PI_FULL_NAME>
+<EmailAddress><![CDATA[retienne@jhu.edu]]></EmailAddress>
+<NSF_ID>000360105</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Blain Christen</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jennifer M Blain Christen</PI_FULL_NAME>
+<EmailAddress><![CDATA[Jennifer.BlainChristen@asu.edu]]></EmailAddress>
+<NSF_ID>000519753</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Duygu</FirstName>
+<LastName>Kuzum</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Duygu Kuzum</PI_FULL_NAME>
+<EmailAddress><![CDATA[dkuzum@eng.ucsd.edu]]></EmailAddress>
+<NSF_ID>000714781</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212182608</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTMTDMBR29C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE JOHNS HOPKINS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212182608</ZipCode>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>089Y00</Code>
+<Text>FET-Fndtns of Emerging Tech</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>151700</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>534200</Code>
+<Text>Disability &amp; Rehab Engineering</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>756400</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>086Z</Code>
+<Text>Neuromorphic Computing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5342</Code>
+<Text>RESEARCH TO AID THE DISABLED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7931</Code>
+<Text>COMPUTATIONAL BIOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~100000</FUND_OBLG>
+</Award>
+</rootTag>

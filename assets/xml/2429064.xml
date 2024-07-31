@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Travel: NSF Student Travel Grant for 2024 ACM/IEEE International Symposium on Machine Learning for Computer-aided Design (MLCAD 2024)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>15000.00</AwardTotalIntnAmount>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hu, X. Sharon</SignBlockName>
+<PO_EMAI>xhu@nsf.gov</PO_EMAI>
+<PO_PHON>7032928910</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project aims to broaden U.S. student participation at the International Symposium on Machine Learning for Computer-aided Design (MLCAD), which has evolved significantly since 2019. The symposium is dedicated to exploring Machine Learning (ML) across all facets of Computer-aided Design (CAD) and electronic system design, jointly sponsored by the Association for Computing Machinery (ACM) and Institute of Electrical and Electronics Engineers (IEEE). Over the last six years, MLCAD has built on its successes each year, growing in attendance and the richness of discussions, making it a crucial event for both academia and industry in the domain of machine learning for electronic design automation (EDA). Funding of this proposal will not only enhance scientific discovery in areas of ML and EDA, but also broaden the impact of this interdisciplinary research field by increasing U.S. undergraduate and graduate student participation. This travel grant will provide students the opportunity to engage with leading experts in EDA and chip design by presenting their results at the conference proceedings, special sessions, and poster sessions. It will provide an exceptional opportunity for them to immerse themselves in cutting-edge research, as presentations and discussions happening in a small sized and focused group of researchers and engineers. This will be crucial for students' career development, allowing them to connect with potential mentors, collaborators, and perspective employers.  &lt;br/&gt;&lt;br/&gt;MLCAD has become a new leading and focused conference event on advancing cutting-edge interdisciplinary research between Machine Learning (ML) and electronic design automation (EDA). MLCAD 2024 will be the sixth MLCAD event and will be soliciting refereed conference papers, special sessions, industrial sessions, and poster session, along with an industry sponsored networking event. The focused topics will include Large Language Model for CAD, ML approaches to logic and physical design, ML for power and thermal management, ML for verification and manufacturing test, etc. This travel award will prioritize U.S. undergraduate and graduate students who are coauthors of an accepted paper or poster at MLCAD 2024, including members of underrepresented groups, and who do not have alternative funding sources to attend MLCAD 2024. Each travel award application will be reviewed by a selection committee of at least three members, based on academic merit, relevance of their research focus to the conference, and the financial feasibility.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/13/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/13/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2429064</AwardID>
+<Investigator>
+<FirstName>Cunxi</FirstName>
+<LastName>Yu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cunxi Yu</PI_FULL_NAME>
+<EmailAddress><![CDATA[cunxiyu@umd.edu]]></EmailAddress>
+<NSF_ID>000815565</NSF_ID>
+<StartDate>06/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425100</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress><![CDATA[3112 LEE BUILDING]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NPU8ULVAAS23</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>COLLEGE PARK</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207425100</ZipCode>
+<StreetAddress><![CDATA[3112 LEE BUILDING]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~15000</FUND_OBLG>
+</Award>
+</rootTag>

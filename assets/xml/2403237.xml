@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SHF: Medium: A Scalable Graph-Based Approach to Clustering]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>364000.00</AwardTotalIntnAmount>
+<AwardAmount>364000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Clustering algorithms are one of the most important modern tools for understanding data. Given data on various entities, clustering algorithms group entities into sets or "clusters" such that similar entities are likely to end up in the same cluster while dissimilar entities tend to end up in different clusters. For example, clustering algorithms can be used to group images together according to the contents of the image. However, modern datasets are so large that many existing clustering algorithms cannot be feasibly used. This project aims to systematically address this situation by way of new clustering algorithms that scale to massive datasets with billions of entities. Clustering is widely used by scientists, companies, and government agencies. The toolkit developed in the project will be open-sourced and will make scalable, high-performance clustering more broadly accessible to scientists and practitioners by improving the efficiency and programming productivity of their clustering tasks. Results from the project will be integrated into courses that the investigators teach, and the researchers will recruit undergraduate students to participate in the project.&lt;br/&gt;&lt;br/&gt;This three-institution collaborative project investigates a new approach for clustering pointsets by constructing sparse graphs that preserve relevant properties of the pointset. By carefully leveraging high-quality near-linear work graph clustering algorithms, very large datasets can be clustered in time that is nearly linear to the number of objects in the input with high accuracy. Particular attention will be paid to new algorithms for graph clustering and construction that utilize structure observed in practice, exploit parallelism, and enable dynamism with provable accuracy guarantees. A major contribution of the project will be an end-to-end clustering toolkit for graphs and pointsets that enables clustering to be scaled to inputs with billions of objects. The investigators will collaborate through regular remote meetings and seminars, student visits, joint publications, and annual in-person workshops.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403237</AwardID>
+<Investigator>
+<FirstName>Julian</FirstName>
+<LastName>Shun</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Julian Shun</PI_FULL_NAME>
+<EmailAddress><![CDATA[jshun@mit.edu]]></EmailAddress>
+<NSF_ID>000758347</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7942</Code>
+<Text>HIGH-PERFORMANCE COMPUTING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~364000</FUND_OBLG>
+</Award>
+</rootTag>

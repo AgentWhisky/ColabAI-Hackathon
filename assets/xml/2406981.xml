@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[2D Materials at the Moiré Scale]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>160000.00</AwardTotalIntnAmount>
+<AwardAmount>160000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitry Golovaty</SignBlockName>
+<PO_EMAI>dgolovat@nsf.gov</PO_EMAI>
+<PO_PHON>7032922117</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Similar to how large numbers of water molecules can exist as solid, liquid, or gas, strongly correlated electronic phases are emergent phenomena of large numbers of interacting electrons. These phases, such as "high temperature" superconductivity, hold exciting potential for technological applications such as creating a scalable quantum computer. Recently discovered "moiré" materials, formed by stacking 2D materials with a relative twist, hold unique promise as platforms for investigation of such phases. The investigator is tackling open mathematical problems with direct relevance to understanding the emergence and properties of strongly correlated electronic phases in moiré materials. By tackling these problems, the investigator is helping to advance novel technologies and strengthening connections between mathematics, physics and engineering. The investigator is training University of Minnesota graduate students in core techniques in applied mathematics and expanding awareness of exciting modern topics in applied mathematics through outreach to middle and high school students in the Minneapolis-St. Paul area.&lt;br/&gt;&lt;br/&gt;In preliminary work, the investigator justified the Bistritzer-MacDonald continuum PDE model for the wave-function of an electron in twisted bilayer graphene. The importance of this model is that, even though the underlying atomic-scale model is aperiodic, the continuum model has moiré-periodic coefficients, allowing the electronic properties of twisted bilayer graphene to be studied using Bloch theory. The research project is building on this work, with the ultimate goal of developing mathematical methods for predicting moiré materials' strongly correlated electronic phases. In the near term, the project will build directly on the investigator's preliminary work. First, generalizing it to more realistic models incorporating atomic relaxation, and to models of other moiré materials. Second, analytically investigating important properties of the Bistritzer-MacDonald model such as Dirac point degeneracies and band topology. Over the medium term, the project will build on the insights gained from earlier work to develop and justify more accurate models of mechanical properties of moiré materials such as atomic relaxation and vibration (phonons). Two approaches will be investigated: a phenomenological continuum approach, and an atomic-scale approach where ions interact through interatomic potentials. Over the long term, the project will again build on earlier insights to develop models of electrons interacting in moiré materials. In the first of these, electrons will interact directly through the Coulomb force. In the second, the electron-electron interaction will be mediated by a phonon. Mathematically, the project involves rigorous asymptotic analysis and perturbation theory, PDE theory, spectral theory, calculus of variations, and ergodic theory. The project draws new connections between these areas and the application area in materials science. The research will develop these areas by introducing new problems and insights. While accomplishing the research goals of the project, the investigator is training University of Minnesota graduate students in core techniques in applied mathematics. The investigator is also expanding awareness of exciting modern topics in applied mathematics through outreach to middle and high school students in the Minneapolis-St. Paul area, especially through the University of Minnesota's UMTYMP program.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406981</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Watson</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander B Watson</PI_FULL_NAME>
+<EmailAddress><![CDATA[watso860@umn.edu]]></EmailAddress>
+<NSF_ID>000814166</NSF_ID>
+<StartDate>05/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress><![CDATA[200 OAK ST SE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554552009</ZipCode>
+<StreetAddress><![CDATA[206 Church St. SE M]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~160000</FUND_OBLG>
+</Award>
+</rootTag>

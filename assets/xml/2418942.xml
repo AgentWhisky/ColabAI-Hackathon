@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: Single-Particle Tracking Studies of the Nanoscale Properties of Poly(Ethylene Glycol) Diacrylate Solutions and Hydrogels]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Lovinger</SignBlockName>
+<PO_EMAI>alovinge@nsf.gov</PO_EMAI>
+<PO_PHON>7032924933</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>PART 1: NON-TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This project involves study of the properties of a polymer of ethylene glycol (PEG) in water solutions and semirigid gels. The PI and his undergraduate researchers seek to better understand the properties of PEG through advanced characterization of their structures. This is achieved by taking a series of images of the random and non-directional motions of fluorescent beads (100 nanometers in diameter) dispersed in the PEG liquids and gels. These images, recorded on a fluorescence microscope equipped with a highly sensitive camera, allow the motion of the beads to be followed over micrometer length scales. Quantitative data analysis of this motion via existing computer programs offers highly resolved structural information on PEG. The improved structural characterization of PEG is relevant to technologies built upon PEG. Towson University undergraduate students including from underrepresented groups will be engaged in all stages of the project through course-based undergraduate research experiences. Training and mentorship opportunities will contribute to their pursuit of higher education and advancement of the US workforce. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;PART 2: TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This project is focusing on investigating poly(ethylene glycol) (PEG) solutions and hydrogels via single-particle tracking. This method enables precise diffusion measurements of individual fluorescent particles in these samples, without ensemble averaging. The primary objectives are to enhance understanding of particle diffusion behaviors in PEG and characterize its microstructure. Specifically, single-particle tracking studies in a low-molecular-weight PEG before and during ultraviolet light-induced crosslinking will be conducted. The intellectual merit includes new data and  insights into the local diffusion rates of mobile and entrapped particles, their diffusion mechanisms and behaviors, as well as the evolving pore sizes and their distributions during crosslinking. The first research objective is to quantitatively understand the local diffusion behaviors of probe particles in an unentangled, semi-dilute PEG solution by varying the probe size and PEG concentration. The second research objective is to probe the evolving PEG microstructure in situ during ultra-violet light-induced crosslinking. This research contributes to an enhanced understanding of ultra-violet light-induced crosslinking of PEG and similar polymers, enabling hydrogel materials to be better understood and optimized.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418942</AwardID>
+<Investigator>
+<FirstName>Khanh-Hoa</FirstName>
+<LastName>Tran-Ba</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Khanh-Hoa Tran-Ba</PI_FULL_NAME>
+<EmailAddress><![CDATA[ktranba@towson.edu]]></EmailAddress>
+<NSF_ID>000975030</NSF_ID>
+<StartDate>07/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Towson University]]></Name>
+<CityName>TOWSON</CityName>
+<ZipCode>212520002</ZipCode>
+<PhoneNumber>4107042236</PhoneNumber>
+<StreetAddress><![CDATA[8000 YORK RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LC3SFMP2L798</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TOWSON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Towson University]]></Name>
+<CityName>TOWSON</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212520002</ZipCode>
+<StreetAddress><![CDATA[8000 YORK RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177300</Code>
+<Text>POLYMERS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>217Y00</Code>
+<Text>LEAPS-MPS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~250000</FUND_OBLG>
+</Award>
+</rootTag>

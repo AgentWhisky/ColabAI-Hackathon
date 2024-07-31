@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Postdoctoral Fellowship: PRFB: Dissecting the Mechanism of ATHILA Centrophilic Retrotransposition]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>249000.00</AwardTotalIntnAmount>
+<AwardAmount>249000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Diane Jofuku Okamuro</SignBlockName>
+<PO_EMAI>dokamuro@nsf.gov</PO_EMAI>
+<PO_PHON>7032924508</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This action funds an NSF Plant Genome Postdoctoral Research Fellowship in Biology for FY 2024. The fellowship supports a research and training plan in a host laboratory for the Fellow who also presents a plan to broaden participation in biology. The title of the research and training plan for this fellowship to Dr. Erika Ellison is "Dissecting the Mechanism of ATHILA Centrophilic Retrotransposition." The host institution for the fellowship is the University of Cambridge (U.K.) and the sponsoring scientist is Professor Ian Henderson.  &lt;br/&gt;&lt;br/&gt;Centromeres are critical for eukaryotic chromosome segregation during cell division but have been challenging to study because the DNA sequences are often highly repetitive. Recently, with the advent of long-read DNA sequencing, centromeres have been completely assembled for the first time. In many plant species, this has revealed that centromeres are invaded by retrotransposons. However, how retrotransposons contribute to centromere function and evolution remains unknown. To investigate this, this study will investigate the mechanism of ATHILA retrotransposon integration into the centromere and determine if centromere function and subsequent chromosome segregation is affected in the model plant Arabidopsis thaliana. Results from this project will be broadly relevant and significant across eukaryotes, as retrotransposons within centromeres are conserved in plants and animals. Training objectives include acquiring skills in plant genetics and genomics techniques. Broader impacts include developing a hands-on functional genomics training workshop for undergraduate students enrolled at the Gatsby Plant Science Summer School (https://www.slcu.cam.ac.uk/gatsby-plant-science-education-programme/GPSSS).    &lt;br/&gt;&lt;br/&gt;Analysis of centromeres from 66 diverse A. thaliana accessions revealed evidence for ongoing ATHILA retrotransposition, including recent outbreaks of ATHILA5 in the French ANGE-B-10 accession. However, the mechanism of ATHILA5 integration and impact on centromere function remains unknown. To explore this, de novo ATHILA5 outbreaks will be triggered by introducing a recently active ATHILA5 from the ANGE-B10 centromere into wild type Arabidopsis and silencing defective mutants, using Agrobacterium-mediated transformation. This approach provides a direct means to study the dynamics of in planta retrotransposon integration, proliferation, and host-silencing establishment. Additionally, ATHILA5 deletion variants will be generated to determine which ATHILA5 encoded proteins control target-site preference. Although the ATHILA5 ORF1 encoded GAG-POL genes are known to facilitate the LTR-retrotransposon lifecycle, ATHILA5 contains an additional ORF2 that encodes a protein with an unknown function. To test if the ORF2 encoded protein enables ATHILA5 mobilization by suppressing silencing or facilitating cell–cell movement, ORF2 will be overexpressed in Arabidopsis. The ATHILA5 outbreak is consistent with the transposon adaption to proliferate in cell-types that lead to an increase in copy number between generations. For this reason, single-cell RNA-seq will be performed on lines with active ATHILA5 retrotransposition to investigate how ATHILA cell-type specific expression affects germline development and is regulated by host epigenetic silencing. This project will explore the dynamics of transposon regulation in plant genomes and this work is significant for understanding the genetic and epigenetic control that preserves centromere identity during cell division across eukaryotes. All biological materials and datasets generated in this project will be available to the public through publication and public data repositories that include Github, Addgene, and the NCBI’s SRA.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411418</AwardID>
+<Investigator>
+<FirstName>Erika</FirstName>
+<LastName>Magnusson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Erika Magnusson</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000986039</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ellison, Erika]]></Name>
+<CityName>Elbow Lake</CityName>
+<ZipCode>565319238</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Cambridge]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode/>
+<ZipCode>CB2 3EA</ZipCode>
+<StreetAddress/>
+<CountryCode>UK</CountryCode>
+<CountryName>United Kingdom</CountryName>
+<StateName>RI REQUIRED</StateName>
+<CountryFlag>0</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF>""</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>810500</Code>
+<Text>NPGI PostDoc Rsrch Fellowship</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7174</Code>
+<Text>POSTDOC FELLOW IN SCI, MATH EN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7577</Code>
+<Text>PLANT GENOME RESEARCH RESOURCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9109</Code>
+<Text>AGRICULTURAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~249000</FUND_OBLG>
+</Award>
+</rootTag>

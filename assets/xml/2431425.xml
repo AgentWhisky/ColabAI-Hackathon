@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Chameleon Phase-IV: A Reconfigurable Experimental Platform for Edge to Cloud Research]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>12000000.00</AwardTotalIntnAmount>
+<AwardAmount>6000000</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+<PO_EMAI>dmedhi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Chameleon is a deeply reconfigurable experimental edge to cloud testbed supporting Computer Science (CS) systems experimentation, education, and emergent applications. The platform consists of three core operating sites, at University of Chicago (UC), Texas Advanced Computing Center (TACC), and the National Center for Atmospheric Research (NCAR), and partners with the Renaissance Computing Institute (RENCI) at the University of North Carolina on networking capability development. The hardware ranges from an investment in diverse high-end datacenter nodes including graphic processing units (GPUs), field programmable gate arrays (FPGAs), and specialized architectures, to single board computers (SBCs) that can be cost-effectively deployed at the edge. Users can reconfigure this hardware at bare-metal level, through virtualization, or container deployment depending on their experimental needs and the used hardware. &lt;br/&gt;&lt;br/&gt;In Phase-IV, Chameleon will continue its mission to provide an experimental platform for computer science research and education, and evolve further to better satisfy emergent needs in current research. In particular, the team will implement a flexible combination of bare metal reconfiguration and virtualization in order to support more projects in artificial intelligence (AI) and machine learning (ML), while preserving the bare metal reconfiguration capability for projects that need it. Furthermore, CHI@Edge capability will be extended allowing users to create edge to cloud experimental scenarios, by improving its networking, ease of use, and its ability to support diverse Internet of Things (IoT) peripherals. Lastly,  services and interactions will be improved allowing the community to be more productive and impactful, specifically Chameleon’s support for reproducibility and sharing of the digital artifacts and by promoting translational approach to the computer science research. &lt;br/&gt;&lt;br/&gt;To use Chameleon or learn more about the system, visit www.chameleoncloud.org. For anyone interested in the development side of the system or the packaging of Chameleon, i.e., CHI-in-a-Box, visit the github repository at https://github.com/ChameleonCloud/chi-in-a-box/wiki. For anyone interested in exploring traces from Chameleon to date, see https://www.scienceclouds.org/cloud-traces/.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2431425</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Hauser</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas Hauser</PI_FULL_NAME>
+<EmailAddress><![CDATA[thauser@ucar.edu]]></EmailAddress>
+<NSF_ID>000345076</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Stanzione</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>Jr</PI_SUFX_NAME>
+<PI_FULL_NAME>Daniel Stanzione</PI_FULL_NAME>
+<EmailAddress><![CDATA[dan@tacc.utexas.edu]]></EmailAddress>
+<NSF_ID>000193108</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Katarzyna</FirstName>
+<LastName>Keahey</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Katarzyna Keahey</PI_FULL_NAME>
+<EmailAddress><![CDATA[keahey@mcs.anl.gov]]></EmailAddress>
+<NSF_ID>000286883</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Haryadi</FirstName>
+<LastName>Gunawi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Haryadi Gunawi</PI_FULL_NAME>
+<EmailAddress><![CDATA[haryadi@cs.uchicago.edu]]></EmailAddress>
+<NSF_ID>000626546</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mert</FirstName>
+<LastName>Cevik</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mert Cevik</PI_FULL_NAME>
+<EmailAddress><![CDATA[mcevik@renci.org]]></EmailAddress>
+<NSF_ID>000824071</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUE9HKT2CLC9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ZUE9HKT2CLC9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606375418</ZipCode>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>289000</Code>
+<Text>CISE Research Resources</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~6000000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CPS: Medium: Chips for Efficient and Robust Navigation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>1200000.00</AwardTotalIntnAmount>
+<AwardAmount>1200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pavithra Prabhakar</SignBlockName>
+<PO_EMAI>pprabhak@nsf.gov</PO_EMAI>
+<PO_PHON>7032922585</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Energy-constrained Cyber-Physical Systems (CPS), ranging from smartphones and lightweight augmented reality (AR)/ virtual reality (VR) headsets to insect-size flying robots and pill-sized medical micro-robots, could transform a diverse set of applications in consumer electronics, targeted medication delivery, search and rescue missions, and space exploration. All these applications place severe constraints on the size, weight and power of on-board computers and sensors. Yet, to safely operate in unknown complex environments, each CPS should perform several fundamental tasks including: (i) localization: determining its location, typically without any strong external aids such as GPS (Global Positioning System) and (ii) mapping: creating a compact representation of obstacles in the environment. Existing algorithms that enable these fundamental tasks often require large memory overhead for storing temporary variables during computation and are typically executed on general-purpose computers which are too energy hungry. Thus, enabling autonomy on energy-constrained robots requires not only the design of robust and efficient algorithms for localization and mapping, but also their specialized energy-efficient computing hardware. The project will also support the development of a new graduate course that is at the intersection of computer architecture, integrated circuits and robotics, and an outreach program for high school students. &lt;br/&gt;&lt;br/&gt;This project explores the co-design of algorithms and hardware for localization and mapping that is efficient, robust, and accurate all at the same time. To achieve energy efficiency, the approach is to develop new algorithms and their computing hardware such that: (i) the number of memory accesses do not dominate the algorithm, and (ii) the amount of memory required during computation remains small enough to be on-the-chip. The team will demonstrate the new methodologies by designing and fabricating a new chip to execute effective localization and mapping tasks in a fraction of the size, weight, and power of the state of the art. The innovation here is the focus on minimizing memory utilization and data flow, as opposed to optimizing the number of computing operations. If successful, the research will impact miniature and/or extremely-long-endurance mobile CPS application in agriculture, environmental quality, healthcare and personalized medicine, and manufacturing as well as consumer applications, robotics, and sustainability.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400541</AwardID>
+<Investigator>
+<FirstName>Sertac</FirstName>
+<LastName>Karaman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sertac Karaman</PI_FULL_NAME>
+<EmailAddress><![CDATA[sertac@MIT.EDU]]></EmailAddress>
+<NSF_ID>000635500</NSF_ID>
+<StartDate>06/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vivienne</FirstName>
+<LastName>Sze</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vivienne Sze</PI_FULL_NAME>
+<EmailAddress><![CDATA[sze@mit.edu]]></EmailAddress>
+<NSF_ID>000667275</NSF_ID>
+<StartDate>06/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>791800</Code>
+<Text>CPS-Cyber-Physical Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1200000</FUND_OBLG>
+</Award>
+</rootTag>

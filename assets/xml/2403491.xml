@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Nanoscale Imaging of Quantum Scarring, Electron Guiding, and Steering in Two-Dimensional Material Heterostructures]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>617885.00</AwardTotalIntnAmount>
+<AwardAmount>617885</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mun Chan</SignBlockName>
+<PO_EMAI>mchan@nsf.gov</PO_EMAI>
+<PO_PHON>7032927104</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical abstract:&lt;br/&gt;This project addresses the lack of fundamental understanding of chaotic quantum phenomena in two-dimensional (2D) materials, which are a promising platform for the next generation electronics. Chaos is found everywhere in our classical world, causing havoc in various facets of our everyday lives such as long-term weather forecasts and financial market predictions. The quantum analog of chaos remains puzzling and significantly impacts electrons hosted in nanoelectronics based on 2D materials. To this end, the research team uses high precision scanning probes that can image and manipulate electrons at the atomic scale to study and harness chaotic quantum phenomena hosted in 2D materials. This experimental work is strongly supported by advanced and specialized computer-based simulations. In particular, this project focuses on two types of quantum-chaotic phenomena known as quantum scarring and superwire channeling. Quantum scarring originates from the constructive interference of electrons as they traverse nanoelectronic devices and can favor certain unstable pathways in an otherwise chaotic system. Superwire channeling consists of dynamic “wires” that gently guide electrons in patterned channels several nanometers wide, and perhaps microns or even centimeters long. The harnessing of these chaotic phenomena enables novel methods for selective and flexible delivery of electrons at the nanoscale; thus, innovating new modes of quantum control. Additionally, this project involves graduate and undergraduate student research training. Students contribute to project research activities and, in doing so, contribute to senior thesis/doctoral dissertation graduation requirements. These outcomes and their dissemination contribute to the development of a workforce that is proficient with core concepts in quantum mechanics. &lt;br/&gt;&lt;br/&gt;Technical abstract:&lt;br/&gt;This project seeks to enhance fundamental understanding of quantum chaotic behavior in emerging two-dimensional (2D) material heterostructure devices. This is important because chaotic behavior is ubiquitous in nature and so, such phenomena is present in 2D material heterostructure devices. A central activity of this project is the visualization, characterization, and control of quantum scarring and superwire channeling. Both phenomena were first predicted by the theory component of the research team but have yet to be experimentally realized. The research team utilizes scanning tunneling microscopy and quantum dots based on monolayer and bilayer graphene to realize and investigate quantum scarring with unprecedented spatial resolution. Numerical analysis is then employed to illuminate experimental findings and guide the control of these states via the application of electric and magnetic fields and the careful incorporation of atomic scale impurities. For superwire channeling the experimental component of the research team uses a combination of advanced nanofabrication techniques and cutting-edge scanning probe microscopies to probe the predicted zero resistivity of these states. This alluring property can be leveraged for new low power nanoelectronic devices.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403491</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Heller</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric J Heller</PI_FULL_NAME>
+<EmailAddress><![CDATA[heller@physics.harvard.edu]]></EmailAddress>
+<NSF_ID>000382122</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jairo</FirstName>
+<LastName>Velasco</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>Jr</PI_SUFX_NAME>
+<PI_FULL_NAME>Jairo Velasco</PI_FULL_NAME>
+<EmailAddress><![CDATA[jvelasc5@ucsc.edu]]></EmailAddress>
+<NSF_ID>000716047</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Santa Cruz]]></Name>
+<CityName>SANTA CRUZ</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress><![CDATA[1156 HIGH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VXUFPE4MCZH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA SANTA CRUZ</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Cruz]]></Name>
+<CityName>SANTA CRUZ</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950641077</ZipCode>
+<StreetAddress><![CDATA[1156 HIGH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>171000</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~617885</FUND_OBLG>
+</Award>
+</rootTag>

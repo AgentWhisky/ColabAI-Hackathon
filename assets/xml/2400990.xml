@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: Universality and Integrability in KPZ]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>39500.00</AwardTotalIntnAmount>
+<AwardAmount>39500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Wilmer</SignBlockName>
+<PO_EMAI>ewilmer@nsf.gov</PO_EMAI>
+<PO_PHON>7032927021</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The conference "Universality &amp; Integrability in KPZ" occurs from March 11 - 15, 2024 at Columbia University in the City of New York. The conference brings together experts and early career researchers across mathematics and theoretical physics around a common area of interest -- how do randomly evolving interfaces behave statistically over large periods of time? Such growth is ubiquitous, for instance coming up in models of cancer or bacteria growth, liquid crystal growth, or liquid diffusion through textiles. Methods to study random growth models come from a host of different fields such as probability theory, combinatorics, integrable systems, statistical physics, random matrix theory, and stochastic partial differential equations. Thus, one of the goals of this conference is to share ideas across these different areas as well as educate early career researchers on the state-of-the-art methods. Indeed, this award's entire purpose is supporting early career researcher participation.&lt;br/&gt;&lt;br/&gt;In the area of random interface growth, some models enjoy special "integrable" structure whereby their statistical behavior can be described through exact formulas or relations. Studying the asymptotics of these formulas and relations leads to universal predictions of the behavior of a much wider class of models, including many that are not integrable. This workshop addresses promising methods both to find and utilize integrable structures and to prove that the resulting predictions are universal. The overall class of random growth models considered here is known as the Kardar-Parisi-Zhang universality class. There has been tremendous progress in recent years both on the integrability and universality front, for instance with the construction of the KPZ fixed point, directed landscape, the study of multi-species models and description of invariant measures for models with boundaries. This conference highlights these advances and inspires a new generation of researchers. https://sites.google.com/view/universalityintegrabilityinkpz&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400990</AwardID>
+<Investigator>
+<FirstName>Ivan</FirstName>
+<LastName>Corwin</LastName>
+<PI_MID_INIT>Z</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ivan Z Corwin</PI_FULL_NAME>
+<EmailAddress><![CDATA[ivan.corwin@gmail.com]]></EmailAddress>
+<NSF_ID>000573152</NSF_ID>
+<StartDate>04/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100277922</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress><![CDATA[615 W 131ST ST]]></StreetAddress>
+<StreetAddress2><![CDATA[MC 8741]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100276940</ZipCode>
+<StreetAddress><![CDATA[2990 Broadway, RM 509, MC4406]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126300</Code>
+<Text>PROBABILITY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~39500</FUND_OBLG>
+</Award>
+</rootTag>

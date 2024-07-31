@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF: Small: A Programming Language Ecosystem for Higher-Order Software Contracts]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>597201.00</AwardTotalIntnAmount>
+<AwardAmount>597201</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anindya Banerjee</SignBlockName>
+<PO_EMAI>abanerje@nsf.gov</PO_EMAI>
+<PO_PHON>7032927885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Software contracts promise developers a light-weight mechanism for validating that software conforms to its specifications.  Contracts are written in the programming language that developers already use. Thus, developers should be able to use contracts to express with ease expected properties of the inputs and outputs of program components, while the programming language can translate the properties into checks and enforce them as the program runs in real-world conditions.  In other words, contracts promise to act as a programmable monitoring system, up-to-date documentation, a driver for testing, and a source of useful debugging information when the behavior of a component goes awry. Unfortunately, developers --- especially those that use modern, so called higher-order, languages such as Python or JavaScript --- do not buy into the promise of contract systems despite four decades of research.  Contracts simply are second class citizens in current language ecosystems.  The goal of this project is to investigate the design, theory, implementation and practice of a contract-centric programming ecosystem.  The project’s novelty is that the mechanisms that higher-order programming languages use to check contracts can be extended to produce information about how the components of a program work together. As a result, this information can be the basis for (i) tools that help developers visualize, debug, and zoom in on the interactions of components; (ii) a system that assists developers with adding contracts to existing code bases.  The project's results will impact: (i) developers: the ecosystem will directly facilitate key aspects of their day-to-day work; (ii) language designers and implementers: the project will provide tangible guidelines and evidence for how to improve their languages; and (iii) educators: the project will provide means for demonstrating and teaching the value of specifications in software development. &lt;br/&gt;&lt;br/&gt;In technical terms, the project's ecosystem will consist of two parts: (i) a contract inference engine for higher-order languages, and (ii) tools for contract-centered debugging, visual inspection, and simplification of code.  Each part will benefit the other. The tools will suggest where to add contracts, and inferred contracts will improve the effectiveness of the tools. The ecosystem's design will yield a novel proxy mechanism for higher-order languages that reflects on the structure and evaluation of a program to expose information about how its components interact. The project’s evaluation of the ecosystem will build on the extensive work of the user community of Racket --- an academic language that is also used in industry --- on collecting benchmark suites with interesting contracts. The investigator and his group will develop a prototype of the ecosystem together with mathematical models that communicate its salient features. The purpose of the prototype is to demonstrate the feasibility and usefulness of the ecosystem. The purpose of the mathematical models is to provide a blueprint for language designers and implementers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412400</AwardID>
+<Investigator>
+<FirstName>Christos</FirstName>
+<LastName>Dimoulas</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christos Dimoulas</PI_FULL_NAME>
+<EmailAddress><![CDATA[chrdimo@northwestern.edu]]></EmailAddress>
+<NSF_ID>000755945</NSF_ID>
+<StartDate>04/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress><![CDATA[633 CLARK ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602083530</ZipCode>
+<StreetAddress><![CDATA[Mudd Hall 2233 Tech Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7943</Code>
+<Text>PROGRAMMING LANGUAGES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~597201</FUND_OBLG>
+</Award>
+</rootTag>

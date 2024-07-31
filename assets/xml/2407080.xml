@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Soliton Gases for the Focusing Nonlinear Schroedinger Equation and Other Integrable Systems: Theory and Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>250999.00</AwardTotalIntnAmount>
+<AwardAmount>172211</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitry Golovaty</SignBlockName>
+<PO_EMAI>dgolovat@nsf.gov</PO_EMAI>
+<PO_PHON>7032922117</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nonlinear integrable equations play increasingly important role in the modelling of various phenomena in natural sciences and engineering. This fact stems from two key observations: a) these equations can capture various physical phenomena that cannot be described by simpler models, and b) these equations allow for various classes of solutions that can be calculated in explicit form. For example, the Nonlinear Schroedinger Equation (NLS), is widely used to model wave propagation in weakly nonlinear dispersive media (fiber optics, deep water gravity waves) when dissipation can be neglected. It was observed that solitons, which are the most celebrated explicit solutions of integrable systems, can be viewed as ​"quasi particles" of complex statistical objects called soliton gases. The main idea of this project is to model random nonlinear waves, which are frequently encountered in natural phenomena, with large random ensembles of solitons. Ultimately, the project aims to enhance our ability to predict and, in some cases, to control random nonlinear waves, as well as to derive their statistical characteristics. Being by nature a mixture of pure and applied mathematics and also leading to new lab experiments, the work on the project could benefit by cross pollination of ideas and methods originating from different parts of nonlinear waves research community. The project is expected to advance our general knowledge of random nonlinear waves, including the rogue waves (RW), and to improve methods of prediction of the latter. In the fiber optics, the results of the project may help to model and, perhaps, to control the evolution of noise in NLS governed nonlinear fibers. The project will also serve as a vehicle for training graduate and undergraduate students, including minorities, as well as postdocs.&lt;br/&gt; &lt;br/&gt;The main goals of this project are a) development of a rigorous spectral theory for soliton gases for integrable equations (KdV, fNLS, sine-Gordon, etc.), and b) statistical characterization of such soliton gases. The work in part a) requires rigorous derivation and analysis of the nonlinear dispersion relations (NDR), which describe spectral characteristics of the gases, as well as construction of explicit families of solutions to NDR (condensates, periodic gases, etc.) that can be of special interest in applications. The recent observation by the principal investigator (PI) that the NDR can be considered as a large genus (``thermodynamic") limit of Riemann Bilinear Identities on some special sequences of Riemann surfaces reveals a deep and intriguing connections between the algebraic geometry and the spectral theory of soliton gases for integrable equations, which the PI is interested in understanding and analyzing. This approach requires some new potential theory methods for solving minimization problems on Riemann surfaces. Calculation of important statistical characteristics (probability density function, power spectrum, kurtosis, etc.) of the soliton gases from part b) contains both analytical and numerical components. The obtained theoretical results will lead to laboratory experiments in collaboration with leading experts in the area of experimental fiber optics and water waves.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407080</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Tovbis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander Tovbis</PI_FULL_NAME>
+<EmailAddress><![CDATA[alexander.tovbis@ucf.edu]]></EmailAddress>
+<NSF_ID>000247433</NSF_ID>
+<StartDate>05/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[The University of Central Florida Board of Trustees]]></Name>
+<CityName>ORLANDO</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress><![CDATA[4000 CENTRAL FLORIDA BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RD7MXJV7DKT9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Central Florida Board of Trustees]]></Name>
+<CityName>ORLANDO</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>328168005</ZipCode>
+<StreetAddress><![CDATA[4000 CENTRAL FLORIDA BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~172211</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I: High-resolution, spatially selective intraspinal stimulator to restore sensation in spinal cord injury patients.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>274976.00</AwardTotalIntnAmount>
+<AwardAmount>274976</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Chinchoy</SignBlockName>
+<PO_EMAI>echincho@nsf.gov</PO_EMAI>
+<PO_PHON>7032927103</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project is a novel custom-made micro-probe electrode system for restoring organ function in nervous paralysis and paralysis-related conditions such as neurogenic bladder or fecal incontinence. The electrode system aims to provide real-time, bi-directional, closed-loop spinal cord machine interface to restore both sensation and volitional motor control in spinal cord injury (SCI) patients. The system aims to provide restorative function for the 5.4M US paralysis victims, while providing smaller, more accurate, higher capacity implantable electrode platform for the $7.6 B neurorehabilitation and neurostimulation market.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt; &lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project aims to demonstrate the preclinical feasibility of a novel spinal cord neural interface as an effective scalable platform for rehabilitating paralysis-related conditions including neurogenic bladder and mobility. This project will develop a new type of neural interface that delivers selective stimulation to specific targeted regions of the patient’s spinal cord in order to evoke a target sensation. For example, bladder fullness will trigger the proposed intraspinal stimulator to deliver safe current pulses to the patient’s spinal cord to reenable the sensation of bladder fullness. The proposed probe will also sense the patient’s intention to urinate and relay the signal to a bladder stimulator to reenable patient’s control over their micturition. Nanopatterned stimulating electrodes will be fabricated and coupled with custom-designed complementary metal oxide semiconductor (CMOS) chips to deliver safe and spatially selective current pulses. The system aims to bypass the spinal cord injury to restore communication between the subject’s body and brain. The system will be validated in rodent nervous models and characterized for future human use.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403910</AwardID>
+<Investigator>
+<FirstName>Alessandro</FirstName>
+<LastName>Maggi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alessandro Maggi</PI_FULL_NAME>
+<EmailAddress><![CDATA[maggi@ecate.tech]]></EmailAddress>
+<NSF_ID>000838834</NSF_ID>
+<StartDate>06/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[ECATE LLC]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900681153</ZipCode>
+<PhoneNumber>4154665465</PhoneNumber>
+<StreetAddress><![CDATA[3686 BARHAM BLVD APT H301]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>30</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA30</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H87NNXN7AHJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ECATE LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[ECATE LLC]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900681153</ZipCode>
+<StreetAddress><![CDATA[3686 BARHAM BLVD APT H301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>30</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA30</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>150500</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5345</Code>
+<Text>BIOMEDICAL ENGINEERING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~274976</FUND_OBLG>
+</Award>
+</rootTag>

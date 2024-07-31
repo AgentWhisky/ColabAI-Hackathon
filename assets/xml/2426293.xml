@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAP: EXPanding Education & Research in AI-ENabled Swarm Computing Evolution (EXPERIENCE)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Donlon</SignBlockName>
+<PO_EMAI>jdonlon@nsf.gov</PO_EMAI>
+<PO_PHON>7032928074</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project is an ExpandAI Capacity building pilot (CAP), designed to establish and fortify the Artificial Intelligence (AI) infrastructure at Alabama A&amp;M University (AAMU), thereby enhancing both institutional research capacity and facilitating AI-focused educational programs. Towards this goal, the project will augment AAMU research capabilities, infrastructure, and educational offerings in AI-enabled robotics. Leveraging this research enhancement, AAMU aims to establish a world-class academic program focused on AI-enabled unmanned systems that are capable of operating independently while also working with one another to make collective decisions (referred to as "swarm computing"). This exciting research in AI-enabled autonomous systems has the potential to attract, nurture, and equip underrepresented students with the skills and knowledge they need to succeed and lead in this rapidly-evolving field. &lt;br/&gt;&lt;br/&gt;This project builds upon established Artificial Intelligence (AI) infrastructure at Alabama A&amp;M University (AAMU) to enhance the research capacity of the institution and facilitate AI-focused educational curriculum development and training. Towards this goal, the project focused on three main aspects: AI-based research on AI-driven autonomy, curriculum expansion, and an outreach component. AAMU builds upon current research in the field of AI-enabled swarm robotics with new focus on the security and trustworthiness of AI in autonomous in swarm computing, communications-based swarm intelligence, adaptive swarms of heterogeneous platforms, and vision-based object detection within such systems. The project also builds educational capacity, drawing from the new swarm research programs to enhance AI-focused undergraduate classes and a related undergraduate AI concentration. Two new graduate courses will also be developed, in support of a new graduate concentration in AI. The project also includes outreach efforts that leverage the new ExpandAI platform, including a summer bootcamp that will focus on creating a pipeline for high school students to engage in programming, AI, machine learning, and robotics to foster interest in STEM careers among high school juniors and seniors.The ExpandAI Program supports AI-powered education and workforce development, infrastructure and research at Minority Serving Institutions to strengthen and diversify U.S. research and education pathways and provide historically marginalized communities with new opportunities in STEM careers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2426293</AwardID>
+<Investigator>
+<FirstName>Yujian</FirstName>
+<LastName>Fu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yujian Fu</PI_FULL_NAME>
+<EmailAddress><![CDATA[yujian.fu@aamu.edu]]></EmailAddress>
+<NSF_ID>000498189</NSF_ID>
+<StartDate>06/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Terry</FirstName>
+<LastName>Miller</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Terry Miller</PI_FULL_NAME>
+<EmailAddress><![CDATA[terry.miller@aamu.edu]]></EmailAddress>
+<NSF_ID>000937966</NSF_ID>
+<StartDate>06/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kaveh</FirstName>
+<LastName>Heidary</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kaveh Heidary</PI_FULL_NAME>
+<EmailAddress><![CDATA[kaveh.heidary@aamu.edu]]></EmailAddress>
+<NSF_ID>000187240</NSF_ID>
+<StartDate>06/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Raziq</FirstName>
+<LastName>Yaqub</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Raziq Yaqub</PI_FULL_NAME>
+<EmailAddress><![CDATA[raziq.yaqub@aamu.edu]]></EmailAddress>
+<NSF_ID>000742899</NSF_ID>
+<StartDate>06/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ed</FirstName>
+<LastName>Pearson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>III</PI_SUFX_NAME>
+<PI_FULL_NAME>Ed Pearson</PI_FULL_NAME>
+<EmailAddress><![CDATA[ed.pearson@aamu.edu]]></EmailAddress>
+<NSF_ID>000865419</NSF_ID>
+<StartDate>06/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Alabama A&M University]]></Name>
+<CityName>NORMAL</CityName>
+<ZipCode>357627500</ZipCode>
+<PhoneNumber>2563728186</PhoneNumber>
+<StreetAddress><![CDATA[4900 MERIDIAN STREET NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JDVGS67MSLH7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ALABAMA A &amp; M UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Alabama A&M University]]></Name>
+<CityName>NORMAL</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>357627500</ZipCode>
+<StreetAddress><![CDATA[4900 MERIDIAN STREET NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>284Y00</Code>
+<Text>ExpandAI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~400000</FUND_OBLG>
+</Award>
+</rootTag>

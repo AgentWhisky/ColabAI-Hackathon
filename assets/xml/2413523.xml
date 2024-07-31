@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Data Mining of Contaminant Degrading Genes in Groundwater & Sediment Metagenomes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>288291.00</AwardTotalIntnAmount>
+<AwardAmount>288291</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karl Rockne</SignBlockName>
+<PO_EMAI>krockne@nsf.gov</PO_EMAI>
+<PO_PHON>7032927293</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The contamination of groundwater and sediment poses a significant risk to human health. One approach to clean up such sites involves the use of microorganisms to transform the pollutants. Some of the most beneficial microorganisms for this involve bacteria containing one or more of a particular group of enzymes (monooxygenases). However, the quantities of these enzymes in the environment are generally unknown and therefore it is difficult to predict biodegradation removal times. This research will develop methods to quantify the genes encoding for these enzymes using freely available sequencing data (DNA sequences) from groundwater, sediments and soils. Additionally, contaminant removal rates will be correlated with gene quantities in laboratory experiments. The expected findings will be particularly important to environmental engineers responsible for contaminated site clean-up.&lt;br/&gt;&lt;br/&gt;Bioremediation often involves multiple lines of evidence for proof of effective contaminant biodegradation. One line of evidence concerns the quantification of genetic biomarkers in environmental samples. Many contaminated sites are aerobic and thus rely on degradative processes carried out by aerobic bacteria. Typically, quantitative PCR (qPCR) is used to determine the presence and abundance of these key functional genes in such samples. However, these assays are frequently based on pure cultures sequences and thus often do not take into account the gene sequences actually present in groundwater or subsurface sediments. To address this, this project research will examine freely available whole genome sequencing (WGS) data, as well as newly generated WGS data, from environmental samples to determine gene sequences actually found in the environment. Then, qPCR assays will be re-evaluated, and if needed, redesigned to be specific to environmental sequences. The use of WGS in environmental engineering to examine bioremediation potential at contaminated sites is still in its infancy, primarily due to sequencing costs and challenges relating to data analyses. This project will address both limitations by taking advantage of freely available WGS data and using the Department of Energy Systems Biology Knowledgebase (KBase), a free and easy to use platform for WGS analysis. The developed qPCR assays will be designed specifically to the gene sequences actually present in situ and will therefore enable a more accurate representation of biodegradation capabilities.  The project will provide numerous training opportunities for both undergraduate and graduate students, with emphasis on outreach to undergraduate students from underrepresented communities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413523</AwardID>
+<Investigator>
+<FirstName>Alison</FirstName>
+<LastName>Cupples</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alison M Cupples</PI_FULL_NAME>
+<EmailAddress><![CDATA[cupplesa@egr.msu.edu]]></EmailAddress>
+<NSF_ID>000295910</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144000</Code>
+<Text>EnvE-Environmental Engineering</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~288291</FUND_OBLG>
+</Award>
+</rootTag>

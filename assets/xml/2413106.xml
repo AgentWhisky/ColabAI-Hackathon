@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Multi-source Learning: Data-driven Algorithms, Optimality Theory, and Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tapabrata Maiti</SignBlockName>
+<PO_EMAI>tmaiti@nsf.gov</PO_EMAI>
+<PO_PHON>7032925307</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Massive and diverse high-dimensional datasets are now routinely collected in a wide range of scientific fields. In many instances, in addition to the primary data from the target study, other datasets from different populations or under different environments with a similar structure to the primary data have been collected. Incorporating such related auxiliary data is desirable to make more accurate and informative decisions. For example, the availability of large-scale genomic and proteomic data promises a better understanding of disease processes and suggests the possibility of more accurate prediction of disease outcomes. Efficiently extracting meaningful information from multiple such datasets becomes a critical problem in medical research, which presents unprecedented opportunities to statisticians and data scientists. The project's goal is to devise a collection of advanced statistical tools for efficient integrative analysis of EHR and genomics data. &lt;br/&gt;&lt;br/&gt;The PIs aim to address the pressing need for novel statistical methods to perform efficient integrative analysis that combines multiple data sources. The PIs plan to develop new methodologies and optimality theory for efficiently integrating large-scale data from multiple sources and to address critical biomedical problems using the newly developed methods. There are three major research goals to be pursued. One is to develop data-driven algorithms with theoretical optimality guarantees for transfer learning in various settings, including estimation/inference of high-dimensional covariance matrices, covariance functions for functional data, instrumental variable regression, and conformal inference. The second is to develop a class of adversarially robust algorithms that efficiently integrate the heterogeneous information from the multi-source data, including constructing the guided adversarially robust learning and conducting the group significance test for high-dimensional and nonparametric models. The third is to address the urgent needs and new challenges in biomedical studies through the analyses of EHR data and integrative genomics, using the newly developed methods for transfer learning and adversarially robust learning.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413106</AwardID>
+<Investigator>
+<FirstName>T. Tony</FirstName>
+<LastName>Cai</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>T. Tony Cai</PI_FULL_NAME>
+<EmailAddress><![CDATA[tcai@wharton.upenn.edu]]></EmailAddress>
+<NSF_ID>000122270</NSF_ID>
+<StartDate>07/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress><![CDATA[3451 WALNUT ST STE 440A]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GM1XX56LEP58</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GM1XX56LEP58</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191046205</ZipCode>
+<StreetAddress><![CDATA[3451 WALNUT ST STE 440A]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~250000</FUND_OBLG>
+</Award>
+</rootTag>

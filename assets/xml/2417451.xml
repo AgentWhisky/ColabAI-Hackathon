@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-BSF: RNA Editing of Ion Channels: From Synaptic Plasticity to Behavioral Adaptations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>660000.00</AwardTotalIntnAmount>
+<AwardAmount>660000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edda Thiels</SignBlockName>
+<PO_EMAI>ethiels@nsf.gov</PO_EMAI>
+<PO_PHON>7032928167</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Organismal behaviors must have the capacity to rapidly adapt to changing environments to maintain fitness. Such timescales require non-genetic mechanisms to enable behavioral flexibility. This proposed work will expand our understanding of how organisms utilize rapid, non-genetic changes in gene expression and neural function to rapidly adapt to behavioral challenges using the fruitfly Drosophila melanogaster as a powerful model system. A particular focus will be on how synapses, as fundamental units of nervous system function, change to enable flexible and adaptive behavioral modifications. More broadly, a major focus is to provide meaningful research experiences to local inner-city Los Angeles high school teachers and students, and to communicate these results to the broader public. Teams of undergraduate and high school students for local inner city LA school will work each summer to investigate insect behaviors and synapses, with results shared with the public through presentations at the Natural History Museum of Los Angeles County. Together, this knowledge will form a foundation to understand how rapid changes in neural function enable organisms to adapt behavior to environmental and internal states.   &lt;br/&gt;&lt;br/&gt;Homeostasis is a fundamental form of feedback regulation that precisely maintains the function of a system at a set point level of activity. Synapses, as fundamental units of nervous system function, are key substrates for achieving the homeostatic control of neural function and behavior. This proposal is based on emerging evidence indicating that RNA editing in neurons is a major mechanism that encodes synaptic and behavioral plasticity, ultimately contributing to their homeostatic regulation. As an exciting entry point into this question, how RNA editing sculpts glutamatergic and Ca2+ signaling in the nervous system will be investigated, leveraging Drosophila melanogaster as a powerful genetic model organism. Preliminary data suggest that glutamate-gated chloride (GluCl) and voltage-gated Ca2+ channels undergo RNA editing to modify behavioral and synaptic plasticity; this regulation is both adaptive and rapid. First, how RNA editing of GluCl impacts synaptic function and behavior will be investigated using both heterologous systems, in vivo electrophysiology, and behavior. Next, the role of RNA editing of voltage-gated Ca2+ channels will be interrogated to determine their impacts on neural circuit function, synaptic plasticity, and behavior. Ultimately, this project will establish a foundation to understand how neural function is rapidly modulated through non-genetic changes to adapt synaptic and behavioral plasticity to environmental and internal states.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417451</AwardID>
+<Investigator>
+<FirstName>Dion</FirstName>
+<LastName>Dickman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dion Dickman</PI_FULL_NAME>
+<EmailAddress><![CDATA[dickman@usc.edu]]></EmailAddress>
+<NSF_ID>000645353</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900890701</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress><![CDATA[3720 S FLOWER ST FL 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900892520</ZipCode>
+<StreetAddress><![CDATA[3641 Watt Way]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>771400</Code>
+<Text>Modulation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>014Z</Code>
+<Text>NSF and US-Israel Binational Science Fou</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~660000</FUND_OBLG>
+</Award>
+</rootTag>

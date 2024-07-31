@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Electric pulsing assisted healing of structural defects in Ni-based alloys]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>325000.00</AwardTotalIntnAmount>
+<AwardAmount>325000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Madison</SignBlockName>
+<PO_EMAI>jmadison@nsf.gov</PO_EMAI>
+<PO_PHON>7032922937</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This grant supports research that is advancing the ability to heal structural defects in nickel-based alloys using electric pulsing. Nickel-based alloys are of immense technological importance in a variety of high-temperature applications, including aircraft engines and power plants. Despite their importance, nickel-based alloys have limited machinability, which has stimulated the development of fusion-based techniques to additively manufacture them. However, this manufacturing technique can introduce structural defects, which can detrimentally impact the reliability of the formed structures. There is a great need to eliminate or reduce these defects to increase material reliability and optimize performance. This project is developing an electric-pulsing-based technique to eliminate or reduce structural defects formed during fusion-based additive manufacturing to improve the mechanical durability of printed parts. Results from this research are helping to strengthen U.S. standing and influence in additive manufacturing, increase the safety and reliability in the aerospace and power industries, as well as help the American workforce become more competitive in these industries through the training of graduate and undergraduate students. The PI is also actively recruiting and mentoring women and minorities to foster their interest in the fields of additive manufacturing and defect healing.&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;Fusion-based techniques open an avenue for the additively manufacturing of mechanical structures of large scale including nickel-based alloys for applications in the aerospace and power industries. However, structural defects such as pores and cracks and new phases (e.g., the Nb-rich, laves phase) formed during additive manufacturing can introduce deleterious effects to the structural integrity of the printed parts. Developing advanced techniques to heal structural defects in additively manufactured parts can help to improve material integrity and increase the reliability of these structures in vital applications such as aircraft engines and power plants. This research project is investigating electric-pulsing-assisted healing of structural defects in nickel-based alloys as well as the mechanical response of these materials following healing with a closely coupled experimental and modeling approach. This research project is also establishing correlations between the mechanical behavior of nickel-based alloys and the processing parameters used in electric pulsing (voltage, pulse width, frequency, and duration) while also developing numerical models that can quantitatively analyze crack healing under electric pulsing. These relationships can provide a fundamental understanding of the electric-pulsing-assisted healing of structural defects and provide guidelines to eliminate or reduce structural defects. Students are being trained in the development of techniques to improve structural integrity while workshops on the building and testing of 3-D structures via fusion-based additive manufacturing are being developed and offered to local high school students. With these activities, students are learning both the technical and nontechnical requirements associated with additive manufacturing.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Metals and Metallic Nanostructures (MMN) Program and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409132</AwardID>
+<Investigator>
+<FirstName>Fuqian</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Fuqian Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[fyang2@uky.edu]]></EmailAddress>
+<NSF_ID>000125577</NSF_ID>
+<StartDate>05/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Kentucky Research Foundation]]></Name>
+<CityName>LEXINGTON</CityName>
+<ZipCode>405260001</ZipCode>
+<PhoneNumber>8592579420</PhoneNumber>
+<StreetAddress><![CDATA[500 S LIMESTONE]]></StreetAddress>
+<StreetAddress2><![CDATA[109 KINKEAD HALL]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<StateCode>KY</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KY06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H1HYA8Z1NTM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF KENTUCKY RESEARCH FOUNDATION, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Kentucky Research Foundation]]></Name>
+<CityName>LEXINGTON</CityName>
+<StateCode>KY</StateCode>
+<ZipCode>405260001</ZipCode>
+<StreetAddress><![CDATA[500 S LIMESTONE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KY06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177100</Code>
+<Text>METAL &amp; METALLIC NANOSTRUCTURE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>089Z</Code>
+<Text>Materials Under Extreme Conditions</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~325000</FUND_OBLG>
+</Award>
+</rootTag>

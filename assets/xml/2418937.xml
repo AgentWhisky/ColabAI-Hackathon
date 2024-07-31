@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: Toward Extracting the Scattering Phase Shift from Integrated Correlation Functions of Two-Nucleon Interaction in LQCD]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kathleen McCloud</SignBlockName>
+<PO_EMAI>kmccloud@nsf.gov</PO_EMAI>
+<PO_PHON>7032928236</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>One of the most important processes in nuclear physics is the scattering of protons and neutrons (collectively nucleons) off each other.   NN scattering has been studied for decades in laboratories, however there are many such scattering processes that are inaccessible in laboratories.   Nucleon interactions in neutron stars, heavy ions, dense matter and many astrophysical areas can’t be probed in labs and thus theoretical calculations are critical.       The most reliable calculations come from Lattice quantum chromodynamics (LQCD).     Unfortunately, these calculations have significant challenges resulting from signal to noise issues to discrepancies using different methods.    The PI proposes to use a new robust tool for calculating these processes as an alternative to the usual method.     Undergraduate students will be recruited and engaged in numerical simulation, data analysis and LQCD calculations of the simple two-pion system.  This project will catalyze a computational science research and education network at Dakota State, will involve a training program for K-12 science teachers, especially from tribal high schools, and will also pilot a broadening participation program with regional Indigenous communities.&lt;br/&gt;&lt;br/&gt;Reliable calculations of two-nucleon scattering in LQCD are crucial in nuclear physics.   The current methods use a two-step Lucsher formula method for calculating phase shifts of two-nucleon systems.   The PI proposes to find a new method for this calculation by extracting phase shifts from integrated finite volume correlation functions at small Euclidean times.     They will establish a relativistic coupled channel formalism in LQCD, perform analytical and numerical tests on the developed formalism by perturbation theory and study of lattice artifacts in a controlled environment and in collaboration with George Washington University colleagues will study two-pion scattering as a test of the method’s effectiveness and robustness.    Four undergraduate students will be recruited and will participate in numerical simulation, data analysis and the two-pion studies.   In addition, the PI will offer a weeklong computational science research and training program for K-12 science teachers from tribal high schools, will initiate a strategic partnership with high school teachers to promote STEM education among Native American students and recruit four tribal high school students to work closely with the PI.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by LEAPS-MPS and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418937</AwardID>
+<Investigator>
+<FirstName>Peng</FirstName>
+<LastName>Guo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peng Guo</PI_FULL_NAME>
+<EmailAddress><![CDATA[peng.guo@dsu.edu]]></EmailAddress>
+<NSF_ID>000991357</NSF_ID>
+<StartDate>06/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Dakota State University]]></Name>
+<CityName>MADISON</CityName>
+<ZipCode>570421735</ZipCode>
+<PhoneNumber>6052565112</PhoneNumber>
+<StreetAddress><![CDATA[820 N WASHINGTON AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Dakota</StateName>
+<StateCode>SD</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SD00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZJH6J31KU5C6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DAKOTA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Dakota State University]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>SD</StateCode>
+<ZipCode>570421735</ZipCode>
+<StreetAddress><![CDATA[820 N WASHINGTON AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Dakota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SD00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>217Y00</Code>
+<Text>LEAPS-MPS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~250000</FUND_OBLG>
+</Award>
+</rootTag>

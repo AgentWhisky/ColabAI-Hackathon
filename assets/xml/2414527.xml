@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Multiscale study of oscillating flow and multiphase heat transfer in porous media]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>132601.00</AwardTotalIntnAmount>
+<AwardAmount>128308</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sumanta Acharya</SignBlockName>
+<PO_EMAI>sacharya@nsf.gov</PO_EMAI>
+<PO_PHON>7032924509</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In our evolving energy landscape, it is crucial to maximize the efficiency of energy technologies and understand the impact of fossil fuel extraction and carbon storage. Technologies that are central to this - subsurface remediation, geothermal energy systems, batteries, fracking, etc. - are governed by complicated flow through porous media, which is not currently well understood. A porous medium has multiple, convoluted pathways of various sizes for fluid flow through an otherwise solid material. The flows can be single phase (liquid/gas) or multiphase, and can occur at constant temperature or with heat transfer. The flow can occur in a single direction, or oscillate. When all of these are combined, nonlinear effects can result, which could improve the behavior of a system or negatively impact performance, depending on how the effects are propagated and understood. The major objective of this work is to experimentally study oscillating and multiphase flows in porous media, and then develop a numerical approach that can be used to gain further insight into the fundamental behavior, thereby improving energy efficiency, and lowering both economic costs and environmental impacts. Although porous media flow sounds esoteric, it occurs in many daily applications (brewing coffee, etc.). Therefore, this project is well suited for pre-college outreach, and several topics related to it will be used to engage underrepresented students from K-12 classrooms. In addition, this project will promote STEM education via an inter-college educational collaboration for undergraduate design projects, and demonstration units about porous media flows will be created for pre-college classrooms.&lt;br/&gt;&lt;br/&gt;This research will combine experimental and numerical techniques to describe the effects of the physical porous structure, the flow/heat transfer boundary layer (including a comparison between oscillation and non-oscillation) and the variations in wettability from materials and manufacturing process. Experimentally, naturally-occurring and engineered porous media will be scanned, analyzed, and catalogued in a database, and an experimental platform will also be designed and developed to study in situ oscillating and multiphase transport phenomena inside porous media using the Neutron Imaging Facility at Oak Ridge National Lab. This experimental work will be coupled with numerical simulations through parallel development of a multiphase discrete Boltzmann method model and a hybrid discrete/lattice Boltzmann method model to capture kinetic behaviors and multiscale interactions, in order to elucidate the fundamental behavior of oscillating multiphase thermofluidic phenomena and fluid-solid interactions. The knowledge developed in this project will, in turn, be used to improve the design of porous structures in a variety of energy applications, including thermal storage in concentrated solar power plants, carbon retention in rock structures, and fuel cells.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414527</AwardID>
+<Investigator>
+<FirstName>Leitao</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leitao Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[lchen1@tnstate.edu]]></EmailAddress>
+<NSF_ID>000756821</NSF_ID>
+<StartDate>02/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Embry-Riddle Aeronautical University</Name>
+<CityName>DAYTONA BEACH</CityName>
+<ZipCode>321143910</ZipCode>
+<PhoneNumber>3862267695</PhoneNumber>
+<StreetAddress>1 AEROSPACE BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U5MMBAC9XAM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EMBRY-RIDDLE AERONAUTICAL UNIVERSITY, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Embry-Riddle Aeronautical University]]></Name>
+<CityName>DAYTONA BEACH</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>321143910</ZipCode>
+<StreetAddress><![CDATA[1 AEROSPACE BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1406</Code>
+<Text>TTP-Thermal Transport Process</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1406</Code>
+<Text>THERMAL TRANSPORT PROCESSES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~128308</FUND_OBLG>
+</Award>
+</rootTag>

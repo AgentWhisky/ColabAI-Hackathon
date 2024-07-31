@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Towards Sustainable Industry Expansion via Computing Revitalization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>299994.00</AwardTotalIntnAmount>
+<AwardAmount>299994</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Fowler</SignBlockName>
+<PO_EMAI>jafowler@nsf.gov</PO_EMAI>
+<PO_PHON>7032928910</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The manufacturing industry has recently transformed into an intelligent and interconnected ecosystem, fueling many emerging services - such as connected healthcare, smart transportation, and modern manufacturing - to benefit people's daily life. As a key enabler to this new paradigm, smart computing devices (e.g., Industrial Internet of Things) leverage their computing capability and wireless connectivity to form a hierarchical service functionality, providing the ability to perform real-time data analytics, to detect anomalies, and to make predictions to improve the efficiency and quality of manufacturing. Although this paradigm is promising, environmental sustainability issues are becoming increasingly urgent, especially during industry expansion. The substantial increase of new device production and adoption inevitably leads to higher greenhouse-gas emissions, contributing to global warming, which in turn results in economic losses for industries. This project develops a framework, termed sustainable revitalization, to reduce the greenhouse-gas emissions by migrating current devices to their most suitable locations in the service hierarchy for continuing service. As such, computing devices maximize their lifespan by moving around inside a system at each device-updating stage while minimizing their environmental impact through greenhouse-gas emissions by avoiding frequent production and disposal processes during industry expansion. This project also seeks to broaden the scientific training of undergraduates and students from underrepresented groups in the field of environmental science and engineering, computation optimization, and communication, preparing them with the cross-disciplinary skills needed to succeed in the modern workforce.&lt;br/&gt;&lt;br/&gt;This project introduces lifecycle sustainability into computing-system design and maintenance. By adopting an adapted approach to life-cycle assessment and by constructing new metrics for environmental sustainability as an optimization objective, this project addresses greenhouse-gas emissions during industry expansion. Specifically, this project lays a foundation by establishing a robust system boundary to comprehend the greenhouse-gas emissions of computing devices across various lifecycle stages, thus informing subsequent sustainable-revitalization efforts. To find optimal pathways for device migration, this project pioneers inventory analysis by integrating demand-based migration and compatibility-optimized computation strategies. From a system-design perspective, having these strategies within the system boundary facilitates examining the strategies' effectiveness. Based on the optimization strategies of migrated devices, this project introduces collaborative on-device learning that dynamically adapts smart devices to new scenarios while upholding environmental sustainability and addressing communication challenges through a novel physical-level parallel inclusive communication. This new methodology will help fully utilize obsolete computing and communication devices to meet environmental-sustainability demands.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2427875</AwardID>
+<Investigator>
+<FirstName>Linke</FirstName>
+<LastName>Guo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Linke Guo</PI_FULL_NAME>
+<EmailAddress><![CDATA[linkeg@clemson.edu]]></EmailAddress>
+<NSF_ID>000678248</NSF_ID>
+<StartDate>06/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chao</FirstName>
+<LastName>Fan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chao Fan</PI_FULL_NAME>
+<EmailAddress><![CDATA[cfan@clemson.edu]]></EmailAddress>
+<NSF_ID>000886690</NSF_ID>
+<StartDate>06/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiaolong</FirstName>
+<LastName>Ma</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaolong Ma</PI_FULL_NAME>
+<EmailAddress><![CDATA[xiaolom@clemson.edu]]></EmailAddress>
+<NSF_ID>000901988</NSF_ID>
+<StartDate>06/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Clemson University]]></Name>
+<CityName>CLEMSON</CityName>
+<ZipCode>296340001</ZipCode>
+<PhoneNumber>8646562424</PhoneNumber>
+<StreetAddress><![CDATA[201 SIKES HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H2BMNX7DSKU8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CLEMSON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Clemson University]]></Name>
+<CityName>CLEMSON</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>296340001</ZipCode>
+<StreetAddress><![CDATA[201 SIKES HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>242Y00</Code>
+<Text>Sustainability in Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~299994</FUND_OBLG>
+</Award>
+</rootTag>

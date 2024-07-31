@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PARTNER: AIPS: Expanding AI Innovation in Pervasive Systems at Arizona State University]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>2798425.00</AwardTotalIntnAmount>
+<AwardAmount>706868</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Donlon</SignBlockName>
+<PO_EMAI>jdonlon@nsf.gov</PO_EMAI>
+<PO_PHON>7032928074</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project is an ExpandAI Partnership between Arizona State University (ASU) and the AI Institute for Foundations in Machine Learning (IFML). In this project, ASU (a Hispanic-Serving Institution) leads a new collaboration with an AI Institute to pursue shared, complementary goals to unlock untapped talent at ASU for artificial intelligence (AI) education and use-inspired research. The collaboration focuses on joint research between researchers at ASU and IFML on projects that address fundamental challenges of robust/interactive/embedded machine learning in pervasive systems. Pervasive systems are those that integrate computational capability into objects such as wearable technology, mobile devices, and assistive robots as well as built environments such as homes, cars, and workspaces. These technologies are poised to have broader impact in health and wellness by addressing the challenges associated with automation of cost-effective, objective, continuous, and real-time monitoring, intervention, and decision making in pervasive systems in areas such as health monitoring, health assessment, outcome prediction, and intervention automation in.  The project also promises broader impacts in AI education for demographics underserved in this area (including underrepresented minorities and women) by integrating the research activities into new interdisciplinary courses. Broader educational outreach involves graduate, undergraduate, and high school students, including specific targets to include female students and underrepresented minorities in research. &lt;br/&gt;&lt;br/&gt;This mutually beneficial partnership in research, education/workforce development, and infrastructure will be centered on addressing challenges in deploying AI-enabled pervasive systems in real-world settings. Because these systems are deployed in highly dynamic environments and in direct interaction with humans, the project will (i) design robust machine learning algorithms that address distribution shifts in the data due to dynamic changes in the system status over time; (ii) design interactive machine learning techniques that incorporate human input and prior domain knowledge for improved model performance and personalized decision making; and (iii) develop embedded machine learning methods for deploying the models on embedded devices with stringent constrained resources. Leveraging the existing AI capacity at ASU and prior research of the collaborators, this partnership between ASU and AI Institute for Foundations of Machine Learning (IFML) also increase participation in multidisciplinary research, forging new interdisciplinary collaborative opportunities with the newly founded ASU School of Medicine and Advanced Medical Engineering. The collaboration also features educational programs, research oriented interdisciplinary course development, ExpandAI workshops, and the development of new courses, certificates, and course modules in pervasive AI systems to increase access to AI education and career pathways for minority students. The project will leverage these research and education efforts for impact at the secondary school level, delivering instructional materials for use by high school teachers and students.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402650</AwardID>
+<Investigator>
+<FirstName>Hassan</FirstName>
+<LastName>Zadeh</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hassan G Zadeh</PI_FULL_NAME>
+<EmailAddress><![CDATA[hassan.ghasemzadeh@asu.edu]]></EmailAddress>
+<NSF_ID>000601152</NSF_ID>
+<StartDate>06/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Giulia</FirstName>
+<LastName>Pedrielli</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Giulia Pedrielli</PI_FULL_NAME>
+<EmailAddress><![CDATA[giulia.pedrielli@asu.edu]]></EmailAddress>
+<NSF_ID>000735827</NSF_ID>
+<StartDate>06/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Pavan</FirstName>
+<LastName>Turaga</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pavan K Turaga</PI_FULL_NAME>
+<EmailAddress><![CDATA[pavan.turaga@asu.edu]]></EmailAddress>
+<NSF_ID>000602247</NSF_ID>
+<StartDate>06/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Rivera</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel E Rivera</PI_FULL_NAME>
+<EmailAddress><![CDATA[daniel.rivera@asu.edu]]></EmailAddress>
+<NSF_ID>000478589</NSF_ID>
+<StartDate>06/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Klivans</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adam R Klivans</PI_FULL_NAME>
+<EmailAddress><![CDATA[klivans@cs.utexas.edu]]></EmailAddress>
+<NSF_ID>000284027</NSF_ID>
+<StartDate>06/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852813670</ZipCode>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>284Y00</Code>
+<Text>ExpandAI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~706868</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRII: III: Explainable Artificial Intelligence for Biodiversity Science & Conservation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>174789.00</AwardTotalIntnAmount>
+<AwardAmount>169618</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Extinction of biological species is accelerating rapidly. Significant uncertainty is often involved in predicting the extinction or population decline of species, even with high-resolution information. Changes in the taxonomic classification of biological species is a key challenge that impacts both  biodiversity conservation and policy decisions. The taxonomy is described in words and these words provide an opportunity to use natural language processing and machine learning (ML) to clarify species relationships and provide novel insights into extinction risk by addressing the variability in species taxonomy. Developing an accurate and scalable machine learning and artificial intelligence (ML/AI) for “taxonomic intelligence” can help support the robustness of conservation decision making. This is important because the taxonomic classification can move a group of organisms in or out of consideration for legal protection. AI can help in this classification and support coordination of conservation projects.&lt;br/&gt;&lt;br/&gt;The goal of this project is to develop AI/ML techniques to provide novel insights into extinction risk, by projecting different contingent outcomes for species distributions and risks under different taxonomic perspectives. It is critical that the derived insights be understandable to humans, to safely translate these outcomes into operational recommendations. Biodiversity data, which include taxonomical and geospatial data, pose unique challenges to AI in that they are heterogeneous, structurally complex, and frequently change. This project aims to address these challenges with a novel approach combining Natural Language Processing (NLP) from the textual data of relevant scientific publications, and automated inductive and deductive reasoning, including qualitative spatial reasoning incorporating the taxonomic factor and relevant domain structures, for discovery of human-understandable knowledge for conservation biology applications. In doing so, this project also has the potential to advance AI beyond a single  application domain. The research activities to be undertaken in this award include data and knowledge curation with the help of domain experts, and the development and evaluation of the aforementioned AI techniques.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2426835</AwardID>
+<Investigator>
+<FirstName>Atriya</FirstName>
+<LastName>Sen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Atriya Sen</PI_FULL_NAME>
+<EmailAddress><![CDATA[atriya.sen@okstate.edu]]></EmailAddress>
+<NSF_ID>000827137</NSF_ID>
+<StartDate>04/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Oklahoma State University]]></Name>
+<CityName>STILLWATER</CityName>
+<ZipCode>740781031</ZipCode>
+<PhoneNumber>4057449995</PhoneNumber>
+<StreetAddress><![CDATA[401 WHITEHURST HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OK03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNYDFK5FTSX9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OKLAHOMA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Oklahoma State University]]></Name>
+<CityName>STILLWATER</CityName>
+<StateCode>OK</StateCode>
+<ZipCode>740781031</ZipCode>
+<StreetAddress><![CDATA[401 WHITEHURST HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OK03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736400</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~169618</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Development of novel numerical methods for forward and inverse problems in mean field games]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>298862.00</AwardTotalIntnAmount>
+<AwardAmount>95280</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Troy D. Butler</SignBlockName>
+<PO_EMAI>tdbutler@nsf.gov</PO_EMAI>
+<PO_PHON>7032922084</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Mean field games is the study of strategic decision making in large populations where individual players interact through a certain quantity in the mean field. Mean field games have strong descriptive power in socioeconomics and biology, e.g. in the understanding of social cooperation, stock markets, trading and economics, biological systems, election dynamics, population games, robotic control, machine learning, dynamics of multiple populations, pandemic modeling and control as well as vaccination distribution. It is therefore essential to develop accurate numerical methods for large-scale mean field games and their model recovery. However, current computational approaches for the recovery problem are impractical in high dimensions. This project will comprehensively study new computational methods for both large-scale mean field games and their model recovery. The comprehensive plans will cover algorithmic development, theoretical analysis, numerical implementation and practical applications. The project will also involve research on speeding up the forward and inverse problem computations to speed up the computation for mean field game modeling and turn real life mean field game model recovery problems from computationally unaffordable to affordable. The research team will disseminate results through publications, professional presentations, the training of graduate students at the University of California, Riverside as well as through public outreach events that involve public talks and engagement with high school math fairs. The goals of these outreach events are to increase public literacy and public engagement in mathematics, improve STEM education and educator development, and broaden participation of women and underrepresented minorities.&lt;br/&gt;&lt;br/&gt;The project will provide novel computational methods for both forward and inverse problems of mean field games. The team will (1) develop two new numerical methods for forward problems in mean field games, namely monotone inclusion with Benamou-Brenier's formulation and extragradient algorithm with moving anchoring; (2) develop three new numerical methods for inverse problems in mean field games with only boundary measurements, namely a three-operator splitting scheme, a semi-smooth Newton acceleration method, and a direct sampling method. Both theoretical analysis and practical implementations will be emphasized. In particular, numerical methods for inverse problems for mean field games, which is a main target of the project, will be designed to work with only boundary measurements.  This represents a brand new field in inverse problems and optimization. The project will also seek the simultaneous reconstruction of coefficients in the severely ill-posed case when only noisy boundary measurements from one or two measurement events are available.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409903</AwardID>
+<Investigator>
+<FirstName>Yat Tin</FirstName>
+<LastName>Chow</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yat Tin Chow</PI_FULL_NAME>
+<EmailAddress><![CDATA[yattinc@ucr.edu]]></EmailAddress>
+<NSF_ID>000763632</NSF_ID>
+<StartDate>06/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Riverside]]></Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210001</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress><![CDATA[200 UNIVERSTY OFC BUILDING]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>39</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA39</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MR5QC5FCAVH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA AT RIVERSIDE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Riverside]]></Name>
+<CityName>RIVERSIDE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>925210001</ZipCode>
+<StreetAddress><![CDATA[200 UNIVERSTY OFC BUILDING]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>39</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA39</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~95280</FUND_OBLG>
+</Award>
+</rootTag>

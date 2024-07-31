@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: FMitF: Track I: A Formal Verification and Implementation Stack for Programmable Logic Controllers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>194165</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pavithra Prabhakar</SignBlockName>
+<PO_EMAI>pprabhak@nsf.gov</PO_EMAI>
+<PO_PHON>7032922585</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Safety-critical industrial control systems, such as the electric power grid or water-treatment plants, provide crucial services in modern societies. Therefore, they must be safe at all times and on all levels, from their design to their operation. This is especially challenging since industrial control software is largely automated to make decisions on behalf of humans while being increasingly targeted by adversarial cyber-physical attacks. In order to act in advance before unsafe or undesired situations occur, models that describe the physics of the system and the effects of potential security attacks need to become a central element in designing industrial control systems. The project's novelties are mathematics- and logic-based software-development methods to make industrial control software aware of real-world effects and threats. The project's impacts are improved support for practitioners in developing trustworthy and resilient industrial control systems, with the aim of providing the crucial missing verification link between industrial control software development and execution.&lt;br/&gt;&lt;br/&gt;The project's technical approach studies a provably correct development stack for industrial control systems with Programmable Logic Control (PLC) that is expected to provide a chain of fully verified links from high-level models all the way down to the running code, accompanied by synthesized correctness proofs. The correctness proofs entail strong safety guarantees on the actual industrial control system implementation through validation methods to analyze, at runtime, whether models and reality agree and to counteract when deviations occur. To this end, the team of researchers expects to advance techniques for verified runtime monitoring of the operating context and for verified bi-directional translation between code and models. The models combine differential equations with nondeterministic control and environment models to describe physical effects and security threats. Such predictive models, safety proofs, and validation methods are crucial elements of every trustworthy implementation stack so that proofs from models transfer to the running system. To address design safety at the scale of industrial control systems, the investigators bring together complementary expertise in foundations and practical verification for cyber-physical systems, with field expertise in embedded systems for industrial control systems safety and security.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2425711</AwardID>
+<Investigator>
+<FirstName>Luis</FirstName>
+<LastName>Garcia</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Luis A Garcia</PI_FULL_NAME>
+<EmailAddress><![CDATA[la.garcia@utah.edu]]></EmailAddress>
+<NSF_ID>000827362</NSF_ID>
+<StartDate>04/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841129049</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL8GLEVH6MG3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF UTAH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841129049</ZipCode>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>094Y00</Code>
+<Text>FMitF: Formal Methods in the F</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>071Z</Code>
+<Text>FMitF-Formal Methods in the Field</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~194165</FUND_OBLG>
+</Award>
+</rootTag>

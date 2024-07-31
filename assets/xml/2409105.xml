@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Development of an AI-Driven Humanized and Developable Single-Domain Library Design Platform for Accelerated Drug Discovery]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>274797.00</AwardTotalIntnAmount>
+<AwardAmount>274797</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact /commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to address major technical and commercial limitations in protein drug discovery. Drug discovery is currently a slow and expensive process, taking an average of 10 years and $2.6B per drug. In 2021 the US pharma industry spent almost $100B on drug research and development (R&amp;D) efforts, with ~10% dedicated to protein drugs. Although some artificial intelligence (AI) solutions exist to support this process, fundamental problems exist: no current system optimizes multiple protein functions simultaneously, existing models rely heavily on predicting protein structures, and there is a lack of transparency in the models. This proposal supports the development of an AI system to improve the identification of small, highly specialized antibodies. The proposed technology could enhance the speed of identifying lead molecules while also reducing the cost through technical innovations. Therefore, this work has enormous clinical and commercial potential. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project is intended to support the creation of an AI model to improve the identification of highly developable single-domain antibodies. These molecules have accepted advantages for therapeutic use (strong binding affinity, good thermal stability and chemostability, and less steric hindrance than conventional antibodies). However, they are typically obtained through a time- and cost-intensive process that involves immunizing a camelid or screening a large synthetic library. This proposalwill support the development and validation of an AI model specifically intended to quickly identify effective and highly developable single-domain antibody leads against a given target. In order to accomplish this goal, the proposed work encompasses training a multimodal AI model that is able to ecognize key features and residues of single-domain antibodies, then produce libraries of sufficient depth and quality to generate stable, safe leads with strong binding affinities. After the study period, the model and developed workflows will be evaluated for their ability to rapidly identify lead molecules.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409105</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Chang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew Chang</PI_FULL_NAME>
+<EmailAddress><![CDATA[andrew.chang@deepseq.ai]]></EmailAddress>
+<NSF_ID>000926724</NSF_ID>
+<StartDate>07/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[DEEPSEQAI LLC]]></Name>
+<CityName>SACRAMENTO</CityName>
+<ZipCode>958251474</ZipCode>
+<PhoneNumber>7342777939</PhoneNumber>
+<StreetAddress><![CDATA[3400 COTTAGE WAY]]></StreetAddress>
+<StreetAddress2><![CDATA[# 917 STE G2]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EZXQZQPMRY43</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DEEPSEQ.AI LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[DEEPSEQAI LLC]]></Name>
+<CityName>SACRAMENTO</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>958251474</ZipCode>
+<StreetAddress><![CDATA[3400 COTTAGE WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1718</Code>
+<Text>BIOINFORMATICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~274797</FUND_OBLG>
+</Award>
+</rootTag>

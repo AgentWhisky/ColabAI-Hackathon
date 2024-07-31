@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Broadband Two-Photon Absorption Spectroscopy for in situ Measurement and Characterization of Heterogeneous Samples]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>507760.00</AwardTotalIntnAmount>
+<AwardAmount>376495</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jose Almirall</SignBlockName>
+<PO_EMAI>jalmiral@nsf.gov</PO_EMAI>
+<PO_PHON>7032927434</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program in the Division of Chemistry and the Established Program to Stimulate Competitive Research (EPSCoR), Professor Christopher Elles and his research group at the University of Kansas are developing a new technique for measuring the optical properties of molecules in complex environments. The team uses a pair of laser pulses to activate target molecules in a way that has the potential to reveal new information about the surroundings of the molecule, and how the molecule responds to subtle changes in that environment. This work could enable new microscopy imaging capabilities for studying the composition and dynamics of complicated systems, including advanced materials and living cells. The project also includes an integrated educational outreach program to help current and future high school science teachers develop new teaching materials that incorporate key concepts from contemporary research and address the Next Generation Science Standards (NGSS).&lt;br/&gt;&lt;br/&gt;The primary goal of the project is the development of a novel spectroscopic approach for simultaneously measuring broadband two-photon absorption (BB-2PA) and two-color, two-photon excited fluorescence (2C-2PEF) spectra. This unique combination has the potential to enable two-photon spectroscopy measurements of environmentally sensitive fluorescent dyes in situ for the first time. The approach adds a new spectroscopic capability that goes beyond traditional two-photon imaging techniques by enabling the measurement of wavelength-dependent two-photon absorption spectra, rather than simply using two-photon excitation at a single wavelength to induce fluorescence. Simultaneously measuring the absorption and emission properties of fluorescent dye molecules with microscopic resolution may well reveal specific information about the local environment that is important for understanding the structure and dynamics of heterogenous materials.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/06/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/06/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404444</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Elles</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher G Elles</PI_FULL_NAME>
+<EmailAddress><![CDATA[elles@ku.edu]]></EmailAddress>
+<NSF_ID>000570260</NSF_ID>
+<StartDate>05/06/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Kansas Center for Research Inc]]></Name>
+<CityName>LAWRENCE</CityName>
+<ZipCode>660457563</ZipCode>
+<PhoneNumber>7858643441</PhoneNumber>
+<StreetAddress><![CDATA[2385 IRVING HILL RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SSUJB3GSH8A5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF KANSAS CENTER FOR RESEARCH INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SSUJB3GSH8A5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Kansas Center for Research Inc]]></Name>
+<CityName>LAWRENCE</CityName>
+<StateCode>KS</StateCode>
+<ZipCode>660457552</ZipCode>
+<StreetAddress><![CDATA[2385 IRVING HILL RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688000</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~376495</FUND_OBLG>
+</Award>
+</rootTag>

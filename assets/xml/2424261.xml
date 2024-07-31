@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Translation potential of using provenance-based threat detection for improving cybersecurity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is the development of technology for securing computer workstations and servers from attack. The approach based on the historical record that traces data from its original source to its current location (called data provenance analysis).  Securing endpoint computers is a vital component of enterprise security. Current solutions adopt a strategy for detecting attacks by comparing endpoint activity to a set of detection rules that describe common attack behaviors. However, this is an error prone practice, leading to large volumes of false alerts while failing to detect sophisticated attacks. In addition, the maintenance requirements of investigating these false alerts pose a formidable challenge within smaller to medium-sized businesses (SMBs), which lack the necessary security resources and personnel. This impediment is even more visible within SMBs housing sensitive user data, where a security breach can have profound and enduring financial and societal consequences. This technology may be used to establish data provenance analysis as a more precise and practical means of detecting attacks on endpoints. In addition, this solution may save U.S. companies millions of dollars by thwarting attacks that could have otherwise resulted in the compromise of customer data.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. The solution is based on the development of analysis of data provenance to ensure cyber security. Data provenance techniques incrementally parse individual endpoint events (e.g., process executions and file accesses) into a causal dependency graph that describes the history of system execution. The graphical representation of endpoint activity highlights the relationships between objects, making it easier to identify suspicious activities. A key finding of this research is a method of overcoming the inherent architectural limitations in the machine learning models used to analyze data provenance graphs. Leveraging this method, a model was trained that comprehensively captures the typical behavior of programs by associating them with their full historical context. Attacks are detected by comparing suspicious programs to the models’ expectations of each program’s behavior, which is informed by the programs’ provenance. This approach significantly reduces the occurrence of false alerts when compared to current endpoint security solutions, while also eliminating the need for frequent system tuning such as the adding and removing of detection rules.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2424261</AwardID>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Bates</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adam Bates</PI_FULL_NAME>
+<EmailAddress><![CDATA[batesa@illinois.edu]]></EmailAddress>
+<NSF_ID>000728774</NSF_ID>
+<StartDate>04/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[352 Henry Administration Building]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8027</Code>
+<Text>Cyber Secur - Cyberinfrastruc</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

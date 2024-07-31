@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SaTC: CORE: Small: Identifying the Demographic Representativeness of Social Media Polls]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>287867.00</AwardTotalIntnAmount>
+<AwardAmount>287867</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sara Kiesler</SignBlockName>
+<PO_EMAI>skiesler@nsf.gov</PO_EMAI>
+<PO_PHON>7032928643</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Social media platforms see a surge of user-created polls, known as social polls, which gauge social media users’ opinions for various societal issues. These polls are not scientific and often exhibit biases favoring particular poll responses. Such polls can mislead the public into believing these biased outcomes reflect true public opinion. Every month, well over a million social polls are created on social media. However, these biased polls can give a misleading impression about what the public believes. Given the rising popularity of social media polls, it is crucial to address their potential to distort people’s perception of public opinion. This project aims to investigate and mitigate the harmful effects of biased social polls by identifying the biases, studying their prevalence and dissemination, examining potential harms, and developing corrective measures. These efforts will help maintain the integrity of public opinion perception.&lt;br/&gt;&lt;br/&gt;This project is pursuing three key goals. First, the project is identifying publicly visible social polls that misrepresent public opinion and evaluating the level of bias reflected in those polls by analyzing the demographic characteristics of social media users engaging with them. Second, the project is examining the prevalence and uses of such polls. Third, the project is developing a novel algorithmic method for correcting demographic biases in social polls via regression and post-stratification based on inferred attributes of users interacting with the polls. Finally, the project is experimentally assessing the effects of exposure to biased and bias-corrected poll outcomes on public opinion perception. To achieve these goals, the project is analyzing data from polls published publicly on social media, comparing the results of this analysis with the results of traditional polls, and conducting survey experiments to assess the impact of social polls on individuals. The project will significantly contribute to understanding and mitigating the impact of biased social polls on the public.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2432050</AwardID>
+<Investigator>
+<FirstName>Brendan</FirstName>
+<LastName>O'Connor</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brendan T O'Connor</PI_FULL_NAME>
+<EmailAddress><![CDATA[brenocon@cs.umass.edu]]></EmailAddress>
+<NSF_ID>000703500</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Przemyslaw</FirstName>
+<LastName>Grabowicz</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Przemyslaw A Grabowicz</PI_FULL_NAME>
+<EmailAddress><![CDATA[grabowicz@cs.umass.edu]]></EmailAddress>
+<NSF_ID>000797094</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>AMHERST</CityName>
+<ZipCode>010039252</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress><![CDATA[101 COMMONWEALTH AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VGJHK59NMPK9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>AMHERST</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>010039252</ZipCode>
+<StreetAddress><![CDATA[101 COMMONWEALTH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>806000</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~287867</FUND_OBLG>
+</Award>
+</rootTag>

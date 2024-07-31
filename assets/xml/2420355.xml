@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Context-Aware Task-Oriented Dexterous Robotic Manipulation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>599638.00</AwardTotalIntnAmount>
+<AwardAmount>599638</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cang Ye</SignBlockName>
+<PO_EMAI>cye@nsf.gov</PO_EMAI>
+<PO_PHON>7032924702</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With the advancement of modern industries, effective manipulation of unfamiliar objects in an assortment of dimensions, shapes, or materials becomes the bottleneck problem in the automation of manufacturing, services, and retail trade. This Faculty Early Career Development (CAREER) project will build innovative technologies to enable a robot to manipulate unfamiliar objects for difficult tasks, e.g., goods packing, drilling, waste sorting, and small part assembly. The advantage of the technologies is the capability of manipulating an object in accordance with the task requirements and the perceived object properties including shapes and materials. This project has great potential to benefit numerous industries by improving productivity, deskilling robot programming, simplifying robot planning, and lowering the technical boundaries. This project will support the national strategy in bringing manufacturing back to the US while benefiting many industries and increasing their economic competitiveness. &lt;br/&gt;&lt;br/&gt;The project will establish a holistic framework of Context-Aware Task-Oriented Manipulation (CATOM) to address three cornerstone challenges in dexterous manipulation: object affordance perception, dexterity modeling, and manipulation planning and learning. An object affordance refers to actions that match with the physical properties of an object, such as shapes, mass, and friction. The object affordances are obtained from object characteristics measured by multimodal sensors. For this purpose, a knowledge-driven model will be designed, which fuses heterogenous sensing and incorporates human experience. The object affordances will be represented by potential contacts under each grasp taxonomy. A topology-based modeling method will be used to align potential hand postures with the contacts for a proper grasp. With the topology-based modeling, a complex task will be represented as a spatial-temporal sequence of hand topologies and operations. A hybrid learning and planning mechanism will be implemented to deploy hand topologies and perform actions under contextual constraints. The research of these perception, planning, and learning methodologies will advance the knowledge in dexterous robotic manipulation for complex tasks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/28/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2420355</AwardID>
+<Investigator>
+<FirstName>Hongsheng</FirstName>
+<LastName>He</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hongsheng He</PI_FULL_NAME>
+<EmailAddress><![CDATA[hongsheng.he@ua.edu]]></EmailAddress>
+<NSF_ID>000644189</NSF_ID>
+<StartDate>02/28/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Alabama Tuscaloosa]]></Name>
+<CityName>TUSCALOOSA</CityName>
+<ZipCode>354012029</ZipCode>
+<PhoneNumber>2053485152</PhoneNumber>
+<StreetAddress><![CDATA[801 UNIVERSITY BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RCNJEHZ83EV6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ALABAMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>TWJWHYEM8T63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama Tuscaloosa]]></Name>
+<CityName>TUSCALOOSA</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>354870001</ZipCode>
+<StreetAddress><![CDATA[301 ROSE ADMIN BLDG]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144Y00</Code>
+<Text>FRR-Foundationl Rsrch Robotics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6840</Code>
+<Text>ROBOTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~474638</FUND_OBLG>
+<FUND_OBLG>2024~125000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Microscopy of Frustrated Quantum Gases in Optical Lattices]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>685380.00</AwardTotalIntnAmount>
+<AwardAmount>221844</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mark K. Beck</SignBlockName>
+<PO_EMAI>mkbeck@nsf.gov</PO_EMAI>
+<PO_PHON>7032922983</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>General audience abstract: New materials are a primary driver of new technologies. Quantum materials are promising for applications in computing, power storage and transfer, and low power electronics. In quantum materials, the electrons interact strongly with each other giving rise to new forms of matter. Simulating the physics of these materials is important for designing their properties. However, studying large quantum systems with computer simulations is an extremely difficult computational problem. The PI and his team will instead use programmable simulators based on vapors of atoms and molecules cooled to very low temperatures and trapped in a vacuum chamber using interfering laser beams. This approach, known as quantum simulation, has already provided valuable insights into the physics of quantum materials, enabling the exploration of microscopic processes that give rise to their unusual properties. In this project, the research team will focus on studying quantum systems that are “frustrated”. In such systems, there are competing constraints that make it difficult to reach the lowest energy configuration. The investigators will explore new phases of matter that appear in frustrated systems such as magnets that are robust to very high temperatures. The main outcome of the project will be to advance our fundamental understanding of the microscopic physics of frustrated quantum systems. Additionally, the project will train graduate and undergraduate students in techniques of atomic and molecular physics and prepare them for careers in the emerging quantum industry, academia and national labs.&lt;br/&gt;&lt;br/&gt;Technical audience abstract: Frustrated systems are a frontier research area in quantum many-body physics. In such systems, various contributions to the energy cannot be simultaneously minimized. This leads to novel ordered states of matter and exotic phases such as quantum spin liquids. The PI and his students will use ultracold gases of atoms and molecules to perform microscopic studies of various phenomena in frustrated systems, exploring two different kinds of frustration: geometric and exchange frustration. In one line of experiments, they will study doped fermionic Mott insulators in a geometrically frustrated triangular lattice, where they have previously observed kinetic magnetism resulting from the formation of a novel magnetic polaron. The team will perform a spectroscopic study of this system to test theoretical predictions of particularly large binding energies for such polarons. They will also search for related polarons with more complex internal structure which may facilitate hole-pairing at high temperatures. They will study manifestations of spin frustration in the equation of state of the triangular Hubbard model, looking for signatures of a Pomeranchuk effect near half-filling. In another line of experiments, the investigators will develop a platform to study frustrated magnetism with polar molecules induced by their dipolar interactions, even in the absence of geometric frustration. Long-term impacts of the proposed work include: the identification of potential new routes to high-temperature superconductivity in kinetically frustrated materials, advancing polar molecules as a platform for quantum computation and understanding spin liquid states which may be used as robust quantum memories with a high degree of immunity to environmental noise.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409375</AwardID>
+<Investigator>
+<FirstName>Waseem</FirstName>
+<LastName>Bakr</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Waseem S Bakr</PI_FULL_NAME>
+<EmailAddress><![CDATA[wbakr@princeton.edu]]></EmailAddress>
+<NSF_ID>000683338</NSF_ID>
+<StartDate>06/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085442001</ZipCode>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124100</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~221844</FUND_OBLG>
+</Award>
+</rootTag>

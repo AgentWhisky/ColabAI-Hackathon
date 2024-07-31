@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Excellence in Research:Towards Data and Machine Learning Fairness in Smart Mobility]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>592000.00</AwardTotalIntnAmount>
+<AwardAmount>592000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Siqian Shen</SignBlockName>
+<PO_EMAI>siqshen@nsf.gov</PO_EMAI>
+<PO_PHON>7032927048</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project supports research examining the development of fairness-aware methodologies to address prevalent data and machine learning (ML) biases within smart mobility applications. With the advancements in intelligent sensors and computing power, the integration of high-fidelity transportation data with Artificial Intelligence (AI)/ML has become essential for advancing smart mobility applications. This project aims to investigate ways to promote fair, equitable, and responsible AI utilization in tackling diverse smart mobility challenges, such as vehicle trajectory prediction, congestion reduction, safety improvement, and so on. With the primary institution being Morgan State University, an R2 public Historically Black College and University (HBCU), this project fosters research engagement among undergraduate and graduate students, with a focus on individuals from historically marginalized backgrounds. Furthermore, to prepare the future workforce for the evolving technological landscapes in transportation, this project serves as a bridge by connecting STEM learning from K-12 through post-secondary education with cutting-edge AI/ML methods and their applications in smart mobility.&lt;br/&gt;&lt;br/&gt;This project aims to investigate development of fairness-aware methodologies to mitigate commonly encountered data and ML biases that are often induced from data collection, processing, and modeling within the smart mobility domain. Specifically, this project targets three critical biases throughout the ML application lifecycle: measurement bias, representation bias, and aggregation bias. Customized ML methodologies are devised to mitigate each type of biases, tailored for specific smart mobility applications, including vehicle trajectory correction and prediction, traffic flow and network modeling, origin-destination and traffic demand forecasting, among others. Potential findings from this project can promote fair and equitable applications of ML methods in smart mobility and can have broad impacts on other science and engineering fields, such as smart and autonomous systems, robotics, and other research domains that depend on the responsible utilization of AI/ML. Students from underrepresented groups, particularly African-American students at Morgan State University, are strongly encouraged to participate in the research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/27/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/27/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401655</AwardID>
+<Investigator>
+<FirstName>Mansoureh</FirstName>
+<LastName>Jeihani</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mansoureh Jeihani</PI_FULL_NAME>
+<EmailAddress><![CDATA[Mansoureh.Jeihani@morgan.edu]]></EmailAddress>
+<NSF_ID>000588874</NSF_ID>
+<StartDate>03/27/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xianfeng</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xianfeng Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[xtyang@umd.edu]]></EmailAddress>
+<NSF_ID>000715027</NSF_ID>
+<StartDate>03/27/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Di</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Di Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[di.yang@morgan.edu]]></EmailAddress>
+<NSF_ID>000922446</NSF_ID>
+<StartDate>03/27/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Morgan State University</Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212510001</ZipCode>
+<PhoneNumber>4438853200</PhoneNumber>
+<StreetAddress>1700 E COLD SPRING LN</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KULSKCCZJT27</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MORGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KULSKCCZJT27</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Morgan State University]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212510001</ZipCode>
+<StreetAddress><![CDATA[1700 E COLD SPRING LN]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>070Y</Code>
+<Text>HBCU-EiR - HBCU-Excellence in</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>029E</Code>
+<Text>INFRASTRUCTURE SYSTEMS MGT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>112Z</Code>
+<Text>Racial Equity in STEM</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~592000</FUND_OBLG>
+</Award>
+</rootTag>

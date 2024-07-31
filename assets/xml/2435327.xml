@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Beyond Approximate Computing: Enabling Full-System Energy-Quality Scalability in Embedded Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>512764.00</AwardTotalIntnAmount>
+<AwardAmount>186853</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+<PO_EMAI>mmcclure@nsf.gov</PO_EMAI>
+<PO_PHON>7032925197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Energy efficiency is a daunting challenge in embedded systems that run on limited energy budgets. Better performance, longer battery life, and smaller environmental footprints - improving energy efficiency will be the key enabler of applications and services that have not been possible in the past. Approximate computing has recently emerged as a promising approach to the energy-efficient computing of intrinsically error-tolerant applications like image processing, where small deviations from the exact results in the underlying computations do not substantially degrade the resulting application-level quality. For such applications, approximate computing can produce "just good enough" results to save energy at the cost of only minor or no quality loss.&lt;br/&gt;&lt;br/&gt;This project will develop design methodologies for taking advantage of approximate computing in embedded systems, where the contribution of non-computing subsystems (e.g., sensors, actuators, user interfaces, and network interfaces) to energy consumption is at least as significant as that of computing subsystems (e.g., microcontrollers and memory). In embedded systems, both computing and non-computing subsystems must be holistically considered to take full advantage of approximate computing and accomplish full-system energy quality and scalability.  The project scope includes characterization, optimization, and design toolchain development, with the focus on embedded systems design.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2435327</AwardID>
+<Investigator>
+<FirstName>Younghyun</FirstName>
+<LastName>Kim</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Younghyun Kim</PI_FULL_NAME>
+<EmailAddress><![CDATA[younghyun@purdue.edu]]></EmailAddress>
+<NSF_ID>000737914</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>735400</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~76482</FUND_OBLG>
+<FUND_OBLG>2023~110371</FUND_OBLG>
+</Award>
+</rootTag>

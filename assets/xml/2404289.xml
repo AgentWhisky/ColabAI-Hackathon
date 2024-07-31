@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: CMI: Development of Three Dimensional Rovibrational Spectroscopy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>450840.00</AwardTotalIntnAmount>
+<AwardAmount>242529</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jose Almirall</SignBlockName>
+<PO_EMAI>jalmiral@nsf.gov</PO_EMAI>
+<PO_PHON>7032927434</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, Professor Chen's group at Spelman College will build and test a new 3D infrared spectrometer that can be used to study the detailed structure, behavior, temperature, and energy of gaseous molecules.  This knowledge is needed to develop solutions for problems such as climate change.  For example, worldwide industrial gas phase chemical reactions consume large amounts of energy and emit high levels of carbon dioxide each year.  For studying and optimizing alternative processes, new measurement techniques are needed because existing gas phase infrared techniques are overwhelmed by spectral congestion at moderate and elevated temperatures.  This new 3D infrared spectrometer should be able to handle this congestion and complexity, leading to strategies for consuming less energy and reducing greenhouse gas emissions.  This work will be carried out with undergraduate students at Spelman College, an historically Black college for women.&lt;br/&gt;&lt;br/&gt;In this project, 3D rovibrational spectroscopy will be developed and explored as a new way to overcome congestion observed in 1D and 2D infrared spectra of gas phase molecules.  The new 3D technique should provide unique capabilities, such as the ability to resolve and automatically organize large numbers of rovibrational peaks by quantum number, regardless of temperature.   Such 3D rovibrational spectroscopy could be also used to interpret countless near infrared spectra that have been recorded by astronomical telescopes but that have been frustratingly difficult to analyze.  In addition to the practical applications mentioned above, this new technique should also advance fundamental science by providing new information on vibrational mode coupling and large amplitude motions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404289</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter C Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[pchen@spelman.edu]]></EmailAddress>
+<NSF_ID>000256558</NSF_ID>
+<StartDate>05/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Spelman College]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303144399</ZipCode>
+<PhoneNumber>4042705897</PhoneNumber>
+<StreetAddress><![CDATA[350 SPELMAN LN SW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ES69D58DJPE7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SPELMAN COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Spelman College]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303144395</ZipCode>
+<StreetAddress><![CDATA[350 Spelman Lane Box 307]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688000</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5294</Code>
+<Text>USGCRP</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~242529</FUND_OBLG>
+</Award>
+</rootTag>

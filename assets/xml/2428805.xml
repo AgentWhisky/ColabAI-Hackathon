@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Assessing Bridge Collapse Risk - Learning from the Francis Scott Key Bridge Collapse, Baltimore, Maryland, March 2024]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joy Pauschke</SignBlockName>
+<PO_EMAI>jpauschk@nsf.gov</PO_EMAI>
+<PO_PHON>7032927024</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The collapse of the Francis Scott Key Bridge in Baltimore, Maryland, on March 26, 2024, caused by a collision with an aberrant cargo ship, raises several urgent questions regarding the safety and protection of critical bridges in the United States. To assure the safety and protection of American bridges, the risk posed by the tremendous increase in shipping volume and ship sizes must be assessed. With the need to make decisions quickly to rebuild the Key Bridge and invest in retrofits and protections to existing critical bridges, there are billions of dollars in infrastructure investment at stake. These urgent investment decisions, to be considered by agencies such as the National Transportation Safety Board and Maryland State and Federal Highway Administrations, will benefit from accurate assessment of bridge collapse risk. The impetus to make these critical investments is perishable. To meet this pressing need, this grant for Rapid Response Research (RAPID) will estimate the annual probability that a bridge collapse inducing ship collision will occur and then will compare this probability to existing standards for bridge risk analysis and design. By estimating the annual probability of occurrence, the project will aim to provide vital insight into whether existing U.S. bridge infrastructure is vulnerable to similar collisions or whether the Key Bridge disaster was, in fact, a rare event. The project further will aim to assess the evolution of collision probabilities from the 1970s, when the Key Bridge was built, to modern day to observe how risk to critical bridges has changed over the past 50 years due to increasing ship traffic and the huge growth in vessel size, with a particular focus on estimating future risk to enable informed decision-making processes in both rebuilding and retrofitting efforts. &lt;br/&gt;&lt;br/&gt;To estimate annual collision probabilities over time, the project will evaluate global ship Automatic Identification System (AIS) data to estimate the probability of large vessels aberrating from their course near a major U.S. bridge. These AIS data report heading, speed, destination, and status data for every ship globally in transit and provide an abundant stream of historical shipping data from which to assess aberrancy probability. Combining these aberrancy probabilities with estimates of shipping traffic in major American ports and near critical bridges will further allow the estimation of the time evolving collision probabilities for the Key Bridge and other critical bridges in the U.S. These estimates will be used to inform risk analysis for critical bridges by modeling ship collisions as a Poisson process and considering the economic impacts and potential loss of life associated with major bridge collapse. The project, therefore, will aim to answer the fundamental question of evolving bridge collapse risk in the United States to provide decision-makers with immediately actionable data as they prepare to invest in new bridges and bridge protections where needed, revise design standards and shipping practices if necessary, and reconsider risk tolerance in the wake of the Key Bridge disaster.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2428805</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Schafer</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benjamin W Schafer</PI_FULL_NAME>
+<EmailAddress><![CDATA[schafer@jhu.edu]]></EmailAddress>
+<NSF_ID>000399849</NSF_ID>
+<StartDate>05/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rachel</FirstName>
+<LastName>Sangree</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rachel H Sangree</PI_FULL_NAME>
+<EmailAddress><![CDATA[sangree@jhu.edu]]></EmailAddress>
+<NSF_ID>000530696</NSF_ID>
+<StartDate>05/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Shields</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael D Shields</PI_FULL_NAME>
+<EmailAddress><![CDATA[michael.shields@jhu.edu]]></EmailAddress>
+<NSF_ID>000652930</NSF_ID>
+<StartDate>05/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212182608</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTMTDMBR29C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE JOHNS HOPKINS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212182608</ZipCode>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>073Y00</Code>
+<Text>ECI-Engineering for Civil Infr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>038E</Code>
+<Text>FOUNDATION ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>039E</Code>
+<Text>STRUCTURAL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>040E</Code>
+<Text>Haz mitigation of structural sys</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7231</Code>
+<Text>CYBERINFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~200000</FUND_OBLG>
+</Award>
+</rootTag>

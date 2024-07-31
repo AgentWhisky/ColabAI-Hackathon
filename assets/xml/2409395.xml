@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: EAGER: IMPRESS-U: Groundwater Resilience Assessment through iNtegrated Data Exploration for Ukraine (GRANDE-U)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>247995.00</AwardTotalIntnAmount>
+<AwardAmount>247995</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maija Kukla</SignBlockName>
+<PO_EMAI>mkukla@nsf.gov</PO_EMAI>
+<PO_PHON>7032924940</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This IMPRESS-U project is jointly funded by NSF, Estonian Research Council (ETAG), Latvian Council of Science (LCS), Research Council of Lithuania (LMT), National Science Center of Poland (NCN), US National Academy of Sciences, and Office of Naval Research Global (DoD). The research will be performed in a multilateral international partnership that unites the University of California-San Diego, New Mexico State University (US), Ukrainian Hydrometeorological Institute and Taras Shevchenko National University, Kyiv (Ukraine), Polish Geological Institute and Space Research Center of the Polish Academy of Sciences, Warsaw (Poland), University of Latvia, Riga (Latvia), Vilnius University, Vilnius (Lithuania), and University of Tartu, Tartu (Estonia). US portion of the collaborative effort will be co-funded by NSF OISE/OD, GEO/RISE, and GEO/EAR).&lt;br/&gt;&lt;br/&gt;Groundwater is a critical source of drinking water for half of the population worldwide, and this resource is under threat of depletion. An accurate assessment of its quantity and quality is a persistent global and national challenge, particularly in transboundary regions. This project seeks to improve our understanding of groundwater dynamics and achieve integrated water balance parameterization at fine spatial and temporal scales. The results will be especially useful to Ukraine, where the limitations of the ground observation network require more efficient assessment techniques based on remote sensing. To build algorithms and models for accurate and timely aquifer assessment, this project will bring together researchers from six countries: the United States, Ukraine, Poland, Latvia, Lithuania, and Estonia. The robust international collaboration at the core of this effort, bridging distinct transboundary human systems and connected natural aquifer systems, will accelerate progress that no single discipline or nation could achieve alone. Simultaneously, this project will foster the next generation of research leaders and support the co-development of a modern innovation ecosystem in Ukraine.&lt;br/&gt;&lt;br/&gt;This project will pioneer a comprehensive transdisciplinary approach to fine-scale modeling of surface water and groundwater interactions in a transboundary setting. Our proposed technical solution integrates hydrogeologic models with satellite and ground-based data to enable water resource assessment for decision-making under uncertainty. The main project components include: (1) Developing a consolidated spatial database of satellite and in-situ groundwater and surface water observations and other relevant data layers for transboundary areas in Ukraine and the partner countries in the region; (2) Creating novel algorithms to downscale satellite remote sensing data from the Gravity Recovery and Climate Experiment Follow-On (GRACE-FO) mission using higher-resolution geologic, in-situ, topographic, and land cover data, over areas with sufficiently dense ground observations; (3) Training artificial intelligence models to extend water balance parameterization to areas where GRACE-FO data have not been correlated with in-situ observations; (4) Generating conceptualizations and simulations to assess aquifer resilience under different hydrogeologic and water use scenarios, using participatory modeling approaches; and (5) Building an internationally-engaged workforce development program leveraging the project's research design to enable state-of-the-art innovation infrastructure in Ukraine. While the research tasks' interdependent, innovative and exploratory nature make the project high-risk, it promises a high potential impact in transforming our understanding and the practice of transboundary groundwater assessment and management.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050, 47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409395</AwardID>
+<Investigator>
+<FirstName>Ashley</FirstName>
+<LastName>Atkins</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ashley E Atkins</PI_FULL_NAME>
+<EmailAddress><![CDATA[asatkins@ucsd.edu]]></EmailAddress>
+<NSF_ID>000862539</NSF_ID>
+<StartDate>04/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ilya</FirstName>
+<LastName>Zaslavsky</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ilya Zaslavsky</PI_FULL_NAME>
+<EmailAddress><![CDATA[zaslavsk@sdsc.edu]]></EmailAddress>
+<NSF_ID>000429879</NSF_ID>
+<StartDate>04/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christine</FirstName>
+<LastName>Kirkpatrick</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christine R Kirkpatrick</PI_FULL_NAME>
+<EmailAddress><![CDATA[christine@sdsc.edu]]></EmailAddress>
+<NSF_ID>000699006</NSF_ID>
+<StartDate>04/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress><![CDATA[9500 GILMAN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930934</ZipCode>
+<StreetAddress><![CDATA[9500 GILMAN DRIVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>157900</Code>
+<Text>Hydrologic Sciences</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>729800</Code>
+<Text>International Research Collab</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>769900</Code>
+<Text>Integrat &amp; Collab Ed &amp; Rsearch</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5915</Code>
+<Text>EASTERN EUROPE, OTHER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5953</Code>
+<Text>POLAND</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5998</Code>
+<Text>UKRAINE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~247995</FUND_OBLG>
+</Award>
+</rootTag>

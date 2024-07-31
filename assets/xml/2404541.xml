@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II:  Re-envisioning alt text for education through concurrent authoring and diagram design]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lindsay Portnoy</SignBlockName>
+<PO_EMAI>lportnoy@nsf.gov</PO_EMAI>
+<PO_PHON>7032928848</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this SBIR Phase II project is to create a pathway to success in STEM for all students, including those who are blind or have low vision (BLV), with a truly usable and effective description system for STEM diagrams. The lack of accessible accommodations creates roadblocks for BLV students in STEM education, leading many students to give up, even though they have equal potential as the general population for academic success. All web-based, non-decorative diagrams are required to include alternative (alt) text descriptions for use with screen readers. Current methods for making STEM visualizations accessible through alt text are not scalable or amenable for use with dynamic digital media. Visualizing STEM concepts through a linear string of text can be difficult for BLV students, because of the high cognitive load. Integrating an interactive method for querying specific information provides screen reader users a more personalized learning experience. This interactive system can be used by all students to make sense of STEM concepts, creating a use case where all users benefit from the inclusion of alt text. Commercialization will be from integration into existing learning platforms to meet accessibility requirements required of federally funded educational institutions.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research Phase II project will create an expandable system for generating detailed and standardized descriptions of STEM diagrams in interactive media. The goal is to provide real-time alt text generation for screen reader users (SRUs) and to create an inclusive and accessible communication method for all students in STEM courses. The alt text description engine provides a method for integrating visual information from STEM diagrams with large language models and the algorithms of current artificial intelligence (AI) platforms. The AI-driven learning assistant from this project guides SRUs in understanding complex alt text descriptions in a manner that best matches their skillsets and prior knowledge. The AI learning assistant also provides personalized contextual learning support for all users. The technical objectives include 1) Expanding the architecture to scale the alt text generation engine to other STEM subjects and readily integrate with AI platforms, 2) Implementing accessibility features to the suite of learning interactives, and 3) Developing a database of learning activities aligned to learning objectives. Usability studies with SRUs and instructors will guide iterative product development. Research studies in classrooms will demonstrate the promise of outcomes to enhance commercial success for the suite of accessible learning interactives.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404541</AwardID>
+<Investigator>
+<FirstName>Julia</FirstName>
+<LastName>Winter</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Julia Winter</PI_FULL_NAME>
+<EmailAddress><![CDATA[julia@alchem.ie]]></EmailAddress>
+<NSF_ID>000697080</NSF_ID>
+<StartDate>04/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Alchemie Solutions, Inc.]]></Name>
+<CityName>BLOOMFIELD HILLS</CityName>
+<ZipCode>483011328</ZipCode>
+<PhoneNumber>2482275095</PhoneNumber>
+<StreetAddress><![CDATA[4735 WALNUT LAKE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MMP8NY969QY8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ALCHEMIE SOLUTIONS, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Alchemie Solutions, Inc.]]></Name>
+<CityName>BLOOMFIELD HILLS</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>483011328</ZipCode>
+<StreetAddress><![CDATA[4735 WALNUT LAKE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537300</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1000000</FUND_OBLG>
+</Award>
+</rootTag>

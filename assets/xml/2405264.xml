@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Rigidity Theorems for Lattices]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>394473.00</AwardTotalIntnAmount>
+<AwardAmount>394473</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eriko Hironaka</SignBlockName>
+<PO_EMAI>ehironak@nsf.gov</PO_EMAI>
+<PO_PHON>7032927041</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The PI will investigate rigidity properties of hyperbolic manifolds. Hyperbolic manifolds are multi-dimensional shapes for which, when one stands at any point and looks in any pair of directions, the shape looks like a saddle. While such shapes can be hard to visualize in 3-dimensional Euclidean space, they are abundant in the study of geometry and represent the simplest examples of an important phenomenon called negative curvature. In contrast to other types of shapes, hyperbolic manifolds benefit from rich connections to algebra, via an invariant called the fundamental group, and dynamics, due to the chaotic nature of certain naturally associated dynamical systems. Therefore, in the study of these manifolds, a wide array of perspectives and techniques can be employed. The PI will leverage tools originating from different areas of mathematics to study rigidity phenomena for these manifolds.  The PI will also engage in building support networks for junior mathematicians, organize conferences and speaker series, and engage in outreach efforts for middle and high school students across Oklahoma.  &lt;br/&gt; &lt;br/&gt;The PI’s research centers on improving our understanding of rigidity and flexibility phenomenon for the fundamental groups of finite volume real and complex hyperbolic manifolds. The projects fall loosely into three categories of rigidity: measure rigidity, representation rigidity, and spectral rigidity. Specifically, over the lifetime of this grant, the PI will work on the following general problems: 1) developing tools to explore rigidity for semiclassical measures on hyperbolic manifolds, 2) exploring the extent to which geodesic submanifolds force rigidity phenomena for representations of fundamental groups of real and complex hyperbolic manifolds, and 3) understanding the extent to which (simple) length spectral rigidity holds for hyperbolic surfaces. These questions and methods lie at the interface between several distinct areas and thus will have applications in a range of fields including but not limited to geometry, dynamics, and geometric group theory.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2405264</AwardID>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Miller</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nicholas Miller</PI_FULL_NAME>
+<EmailAddress><![CDATA[nickmbmiller@gmail.com]]></EmailAddress>
+<NSF_ID>000812027</NSF_ID>
+<StartDate>06/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Oklahoma Norman Campus]]></Name>
+<CityName>NORMAN</CityName>
+<ZipCode>730193003</ZipCode>
+<PhoneNumber>4053254757</PhoneNumber>
+<StreetAddress><![CDATA[660 PARRINGTON OVAL RM 301]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OK04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EVTSTTLCEWS5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF OKLAHOMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Oklahoma Norman Campus]]></Name>
+<CityName>NORMAN</CityName>
+<StateCode>OK</StateCode>
+<ZipCode>730193003</ZipCode>
+<StreetAddress><![CDATA[660 PARRINGTON OVAL RM 301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OK04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126500</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~394473</FUND_OBLG>
+</Award>
+</rootTag>

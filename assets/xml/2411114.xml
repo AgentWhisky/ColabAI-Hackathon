@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Elements: Multisensor Agile Adaptive Sampling (MAAS) of the Atmosphere]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>595783.00</AwardTotalIntnAmount>
+<AwardAmount>595783</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marlon Pierce</SignBlockName>
+<PO_EMAI>mpierce@nsf.gov</PO_EMAI>
+<PO_PHON>7032927743</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Understanding and predicting our planet's weather and climate have proven to be two of the most challenging endeavors undertaken over the past half century. To make further progress, transformational shifts in the computational and observational infrastructures used to inform understanding and guide model predictions are required to address these challenges. The objective of this award is to design and deploy the Multisensor Agile Adaptive Sampling (MAAS) cyberinfrastructure (CI) for optimized, intelligent, collaborative, adaptive atmospheric experimentation. The MAAS CI's goal is to significantly improve the ability to sample rapidly evolving atmospheric phenomena by providing better control systems across multiple advanced radar systems. By better enabling the real-time, fine-grained, coordinated control of atmospheric observing instruments, the MAAS framework can revolutionize the study of convective storms towards the goal of improving high-resolution simulations of extreme or high-impact storms. The activity brings together a multidisciplinary team of scientists, graduate and undergraduate students engineering, computer science, and atmospheric science. The project offers hands-on experience for professionals and students on advanced sensor technologies and measurements and on autonomous optimized experiments. The MAAS cyberinfrastructure will provide the opportunity for the current and next generation of U.S. practitioners to be competitive in a global research environment.   &lt;br/&gt;&lt;br/&gt;Through the development and deployment of an innovative distributed computing platform that integrates centralized high performance computing systems, edge computing systems co-deployed with atmospheric observing facilities, and automated as well as human-controlled software applications, the MAAS cyberinfrastructure will greatly enhance the dynamic, real-time operational capabilities of existing radar-focused instrument facilities for observing convective cloud systems. MAAS CI is also key for integrating future observing technologies like drones and phased-array radars and for optimizing atmospheric experimentation. Data-driven, adaptive observations enabled by MAAS can lead to a substantial increase in spatiotemporal resolution of convective cloud systems. Such observations can for the first time provide new insights into rapidly evolving atmospheric phenomena associated with boundary layer processes and convective storms. The MAAS CI is a Java based control server that handles all communications and edge computations across the network. In addition, a MAAS Nowcasting and Guidance Python-based software package residing on a central high performance computing system handles real-time situational awareness of atmospheric states and the identification of atmospheric features of interest based on rules provided by the MAAS CI users. MAAS CI greatly enhances the operational capabilities of existing NSF radar-focused Community Instrument and Facilities (CIFs), and it is also key for integrating future observing technologies, such as drones and phased-array radars and for optimizing atmospheric experimentation. The integration of the MAAS CI in field experiments and analysis is expected to provide unique, high spatiotemporal resolution microphysical and dynamical observations in clear and cloudy atmospheres.  &lt;br/&gt;&lt;br/&gt;This award by the Office of Advanced Cyberinfrastructure is jointly supported by the National Discovery Cloud for Climate initiative within the Directorate for Computer and Information Science and Engineering and by Geosciences Directorate’s Research, Innovation, Synergies, and Education and Atmospheric and Geospace Sciences divisions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050, 47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411114</AwardID>
+<Investigator>
+<FirstName>Pavlos</FirstName>
+<LastName>Kollias</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pavlos Kollias</PI_FULL_NAME>
+<EmailAddress><![CDATA[pavlos.kollias@stonybrook.edu]]></EmailAddress>
+<NSF_ID>000483982</NSF_ID>
+<StartDate>07/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SUNY at Stony Brook]]></Name>
+<CityName>STONY BROOK</CityName>
+<ZipCode>117940001</ZipCode>
+<PhoneNumber>6316329949</PhoneNumber>
+<StreetAddress><![CDATA[W5510 FRANKS MELVILLE MEMORIAL L]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M746VC6XMNH9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M746VC6XMNH9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Stony Brook]]></Name>
+<CityName>STONY BROOK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>117940001</ZipCode>
+<StreetAddress><![CDATA[W5510 FRANKS MELVILLE MEMORIAL LIBRARY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152500</Code>
+<Text>Physical &amp; Dynamic Meteorology</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>243Y00</Code>
+<Text>GEO CI - GEO Cyberinfrastrctre</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>295Y00</Code>
+<Text>NDCC-Natl Discvry Cloud Climat</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>800400</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~595783</FUND_OBLG>
+</Award>
+</rootTag>

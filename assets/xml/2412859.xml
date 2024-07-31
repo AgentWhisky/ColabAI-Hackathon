@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Measuring the First Passage times of Intrachromosomal Contacts]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>900000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Krastan Blagoev</SignBlockName>
+<PO_EMAI>kblagoev@nsf.gov</PO_EMAI>
+<PO_PHON>7032924666</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Inside eukaryotic cells, the genome is compacted into the nucleus as chromatin - very long DNA-protein polymers.  Both chromatin structure and dynamics underlie all genomic processes, from gene regulation, to DNA repair, to the timing of replication. While there has been tremendous recent progress in revealing the time-average chromatin organization in cell populations, there is limited knowledge concerning the dynamics of the intrachromosomal contacts, that are required for many key cellular processes, for example, during gene activation or inactivation. &lt;br/&gt;&lt;br/&gt;This project will address this knowledge deficit by characterizing experimentally and theoretically the mesoscale dynamics of intrachromosomal contacts in live yeast cells. The project will systematically investigate how long it takes for two distal locations on a chromosome to come into biologically-meaningful contact --  the so-called “first passage time” -- by deploying a recently-developed “recombinase state machine” assay, that provides a fluorescent read-out of contacts between specific pairs of gene loci in individual cells. This approach will enable accurate measurements of first passage time distributions for multiple pairs of gene loci that collectively realize a dense set of different genomic separations and multiple genomic contexts. The project will also exploit the availability of multiple yeast strains and yeast’s genetic malleability to explore the roles of various chromatin-associated proteins, as well as such factors as chromatin density and mobility, in order to comprehensively interrogate how chromatin organization affects first passage time. Further impetus for the project comes from longstanding theoretical interest in first passage times for contact between different locations on a simple linear polymer. However, first passage times for the chromatin polymer, organized via hierarchy of loops, remains largely unexplored theoretically. Therefore, this project will also carry out simulations of the first passage time for intrachromosomal contacts, by combining models of polymer dynamics and chromatin configuration. The chromatin configuration will be modeled by a newly-developed version of loop-extrusion theory, that accurately reproduces measurements of time-averaged chromatin organization in yeast. Comparisons between experimental and simulated first passage times will identify where current theoretical understanding requires further development, ultimately leading to a predictive theory for biologically-meaningful contacts within the genome. Such knowledge is paramount to advance our understanding and control of how rare and stochastic chromatin contacts collectively lead to robust expression patterns, that define a cellular state and identity, including cells in a diseased or cancer state. Being able to control or engineer desired expression patterns or attenuate natural patterns would have a major positive impact on societal health and would advance a new biotechnology. To quantitatively predict and control gene expression patterns, we need to know the fundamental rules that govern chromatin conformations and their rearrangements, and the time scales involved. This project will provide essential knowledge for understanding these rules and developing relevant technologies in the future. The graduate student trained in this project will eventually join the nation’s STEM workforce.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412859</AwardID>
+<Investigator>
+<FirstName>Simon</FirstName>
+<LastName>Mochrie</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Simon G Mochrie</PI_FULL_NAME>
+<EmailAddress><![CDATA[simon.mochrie@yale.edu]]></EmailAddress>
+<NSF_ID>000104709</NSF_ID>
+<StartDate>07/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Megan</FirstName>
+<LastName>King</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Megan C King</PI_FULL_NAME>
+<EmailAddress><![CDATA[megan.king@yale.edu]]></EmailAddress>
+<NSF_ID>000641334</NSF_ID>
+<StartDate>07/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ivan</FirstName>
+<LastName>Surovtsev</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ivan V Surovtsev</PI_FULL_NAME>
+<EmailAddress><![CDATA[ivan.surovtsev@yale.edu]]></EmailAddress>
+<NSF_ID>000878193</NSF_ID>
+<StartDate>07/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<ZipCode>065113572</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress><![CDATA[150 MUNSON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FL6GV84CKN57</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>YALE UNIV</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FL6GV84CKN57</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>New Haven</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>065113712</ZipCode>
+<StreetAddress><![CDATA[217 Prospect Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>724600</Code>
+<Text>PHYSICS OF LIVING SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~225000</FUND_OBLG>
+</Award>
+</rootTag>

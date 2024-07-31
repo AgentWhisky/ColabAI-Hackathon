@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: Computational Modeling of Metal Ion Mediated DNA Adsorption to Functionalized Surfaces]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>202300.00</AwardTotalIntnAmount>
+<AwardAmount>202300</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne-Marie Schmoltner</SignBlockName>
+<PO_EMAI>aschmolt@nsf.gov</PO_EMAI>
+<PO_PHON>7032924716</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is being funded by the MPS-LEAPS (Launching Early-Career Academic Pathways) Program and managed by the Broadening Participation (CHE-BP) Program in the Division of Chemistry. Professor Makenzie Long and undergraduate students at Creighton University will use computer simulations to identify how divalent metal ions help DNA bind to a negatively charged surface and why different divalent metal ions yield different results. This project identifies how divalent metal ions tune DNA behavior, such as its ability to self-assemble and bind to other nanoscale structures. The physical insight gained from this project may be used to improve the performance of DNA-based nanotechnology, which has applications in sensing, imaging, and medicine. The project establishes a nanoscience summer camp program at Creighton University for middle-school students. This project leverages partnerships with local non-profit organizations to recruit summer camp participants and teaching assistants from diverse student populations, including those from groups historically underrepresented in the mathematical and physical sciences.&lt;br/&gt;&lt;br/&gt;Dr. Long and her undergraduate students will use classical molecular dynamics simulations to model DNA adsorption to a carboxylate-terminated monolayer mediated by alkaline earth metal ions. Published Lennard-Jones potentials and charge-scaling approaches for modeling alkaline earth metal ion binding to carboxylate groups will be systematically tested to reproduce binding free energies measured using atomic force microscopy. Simulations will be analyzed to identify the mechanism of alkaline earth metal ion mediated DNA adsorption and the origin of its ion-specific effects. The summer camp program will be assessed in its ability to increase the number of students from underrepresented groups participating in science, technology, engineering, and mathematics (STEM) activities and its effect on participants’ STEM identities and interests.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418224</AwardID>
+<Investigator>
+<FirstName>Makenzie</FirstName>
+<LastName>Long</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Makenzie Long</PI_FULL_NAME>
+<EmailAddress><![CDATA[makenzielong@creighton.edu]]></EmailAddress>
+<NSF_ID>000799728</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Creighton University]]></Name>
+<CityName>OMAHA</CityName>
+<ZipCode>681780133</ZipCode>
+<PhoneNumber>4022802360</PhoneNumber>
+<StreetAddress><![CDATA[2500 CALIFORNIA PLAZA]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NE02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NH64NT271S93</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CREIGHTON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NH64NT271S93</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Creighton University]]></Name>
+<CityName>OMAHA</CityName>
+<StateCode>NE</StateCode>
+<ZipCode>681780133</ZipCode>
+<StreetAddress><![CDATA[2500 CALIFORNIA PLAZA]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NE02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>217Y00</Code>
+<Text>LEAPS-MPS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7487</Code>
+<Text>BROADENING PARTICIPATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~202300</FUND_OBLG>
+</Award>
+</rootTag>

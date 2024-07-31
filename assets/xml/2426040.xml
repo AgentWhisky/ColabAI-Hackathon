@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Space-Time-Pulsed Engineered-Excitation For Diffraction-Free Imaging]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Adam Wax</SignBlockName>
+<PO_EMAI>awax@nsf.gov</PO_EMAI>
+<PO_PHON>7032928809</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Fluorescence imaging in live animals is transforming brain science. However, the light that travels through&lt;br/&gt;brain tissue undergoes unwanted scrambling or its trajectory as the tissue becomes thick, which ultimately&lt;br/&gt;alters the original direction of travel. Thus, it remains a challenge to obtain clear, high-resolution images of&lt;br/&gt;the brain for fluorescence imaging at depths beyond the thickness of human hair. This work will develop a&lt;br/&gt;new type of optical microscopy—space-time-pulsed engineered-excitation for diffraction-free imaging&lt;br/&gt;(SPEEDI)—that makes use of exotic space-time wave packets (STWPs), which have been found to resist&lt;br/&gt;scrambling by objects encountered along its travel path. Experiments pursued will incorporate various types&lt;br/&gt;of tissue specimens, and results will be compared to those obtained us other conventional types of&lt;br/&gt;microscopy techniques. The project will also provide a platform to recruit students from diverse&lt;br/&gt;backgrounds to learn about microscopy. Scientific concepts learned from the project will also be integrated&lt;br/&gt;into an existing optics course.&lt;br/&gt;&lt;br/&gt;The proposed technology will allow imaging across all Neocortical layers using one-photon (1P) sources,&lt;br/&gt;which are significantly more affordable than multiphoton sources, broadly enhancing accessibility. SPEEDI&lt;br/&gt;would be able to provide 1P imaging at depth with cellular precision without surgical removal, and it would&lt;br/&gt;enable depth-resolved use of 1P-optimized indicators, including the next generation voltage indicators. As&lt;br/&gt;SPEEDI is based on utilizing a new type of optical field, all of the advantages afforded from using twophoton&lt;br/&gt;and three-photon sources would also apply, e.g., further enhancement of penetration depth and&lt;br/&gt;signal-to-background ratio. In addition, the novel level of control obtained by modifying the underlying&lt;br/&gt;spatiotemporal spectral structure of SPEEDI enables exquisite manipulation of the properties of the STWPs&lt;br/&gt;in space and time, providing diffraction-free and dispersion-free propagation (of any order in the time&lt;br/&gt;domain), tunable group velocity, and temporal focusing over short distances in any medium. This level of&lt;br/&gt;exquisite control of the spatiotemporal properties will permit the introduction of ultra-high group-velocity&lt;br/&gt;dispersion (GVD) into the space-time wave packets (STWP), which will broaden rapidly on a controllable&lt;br/&gt;length scale even in free space or a low-GVD medium. Therefore, by first introducing group-delay&lt;br/&gt;dispersion (GDD) into the initial generic pulse used to synthesize the STWP, the GVD enables the temporal&lt;br/&gt;focusing of the pulse at a prescribed depth. Indeed, the focusing depth can be tuned by either changing the&lt;br/&gt;initial GDD or modifying the GVD introduced into the STWP, both of which can be realized electronically&lt;br/&gt;with no moving parts.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2426040</AwardID>
+<Investigator>
+<FirstName>Kimani</FirstName>
+<LastName>Toussaint</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kimani C Toussaint</PI_FULL_NAME>
+<EmailAddress><![CDATA[kimani_toussaint@brown.edu]]></EmailAddress>
+<NSF_ID>000204138</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ayman</FirstName>
+<LastName>Abouraddy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ayman Abouraddy</PI_FULL_NAME>
+<EmailAddress><![CDATA[raddy@creol.ucf.edu]]></EmailAddress>
+<NSF_ID>000524860</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Brown University]]></Name>
+<CityName>PROVIDENCE</CityName>
+<ZipCode>029129100</ZipCode>
+<PhoneNumber>4018632777</PhoneNumber>
+<StreetAddress><![CDATA[1 PROSPECT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>RI01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E3FDXZ6TBHW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BROWN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Brown University]]></Name>
+<CityName>PROVIDENCE</CityName>
+<StateCode>RI</StateCode>
+<ZipCode>029129100</ZipCode>
+<StreetAddress><![CDATA[1 PROSPECT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>RI01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>723600</Code>
+<Text>BioP-Biophotonics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7236</Code>
+<Text>BIOPHOTONICS, IMAGING &amp;SENSING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

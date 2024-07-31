@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF/FDA SiR: Development of a High Throughput Electrical Stimulation Screening Platform for Cardiac Microphysiological Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>199992.00</AwardTotalIntnAmount>
+<AwardAmount>199992</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steve Zehnder</SignBlockName>
+<PO_EMAI>szehnder@nsf.gov</PO_EMAI>
+<PO_PHON>7032927014</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Cardiac contractility modulation (CCM) devices are novel technologies that use electrical stimulation to treat heart disease. Despite their promise, the long-term effects of CCM devices on the heart are not well known. This NSF/FDA Scholars-in-Residence project will develop a regulatory science tool to assess chronic use of electrical stimulation devices for the heart. Engineered heart tissue will be monitored in a high-throughput measurement platform to assess the effectiveness of electrical stimulation and changes in the tissue. The project will support a post-doctoral scholar to work at the FDA. This scholar will be co-mentored by researchers at the FDA and Boston University (BU). Outcomes of the work will help regulatory agencies better understand the effects of new heart treatment devices. &lt;br/&gt;&lt;br/&gt;This FDA-SiR project will advance the development of in vitro systems that could be used to evaluate safety and effectiveness of medical device technologies affecting cardiac electrophysiology. Non-excitatory electrical stimulations, such as cardiac contractility modulation, have been proposed to aid pathological remodeling in mild to severe heart failure patients. In this research project, engineered cardiac tissues derived from human induced pluripotent stem cells will be used in a high-throughput platform to evaluate CCM stimulation of 96 tissues in parallel, recording both contractility and calcium channel fluorescent signaling. This will be extended to include electrophysiological stimulation and multiplexing with cardiac functional readouts to elucidate the chronic effects of non-excitatory electrical stimulations. These studies will support regulatory assessment of the first medical device tool for chronic in vitro 3D human cardiac electrophysiology. In addition, this work will address two major hurdles of human microphysiological systems: long-term electrical stimulation and high throughput monitoring of phenotype in engineered tissue.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2426759</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[chencs@bu.edu]]></EmailAddress>
+<NSF_ID>000193700</NSF_ID>
+<StartDate>07/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151703</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>THL6A6JLE1S7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF BOSTON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Food and Drug Administration]]></Name>
+<CityName>Silver Springs</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>209930002</ZipCode>
+<StreetAddress><![CDATA[10903 New Hampshire Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>164200</Code>
+<Text>Special Initiatives</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>756400</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~199992</FUND_OBLG>
+</Award>
+</rootTag>

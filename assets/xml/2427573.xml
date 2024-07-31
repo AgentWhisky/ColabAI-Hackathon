@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Algorithm-assisted characterization of exploratory behavior during the development of infant walking]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>299571.00</AwardTotalIntnAmount>
+<AwardAmount>299571</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna V. Fisher</SignBlockName>
+<PO_EMAI>avfisher@nsf.gov</PO_EMAI>
+<PO_PHON>7032928451</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The onset of walking is a major motor milestone in infants, facilitating movement and social behavior. Several developmental disorders are also associated with delays in the onset of walking – yet, the process of how infants learn to walk is not well understood because it is challenging to measure these behaviors precisely outside of constrained (in space and time) laboratory settings. To address this challenge, this award supports the development of an innovative wearable sensing system that automatically detects a range of infant behaviors for long durations in the home environment. Data gathered using this system enables researchers to better understand how infants learn to walk and has the potential to provide insight into how this process is delayed or affected in developmental disorders.&lt;br/&gt;&lt;br/&gt;The objective of this project is to examine the role of pre-walking strategies in the development of walking. Specifically, researchers use an innovative wearable sensing system that allows automatic identification and measurement of a range of activities including standing, cruising, falls, independent walking, and spatial location of an infant. Obtaining precise measurements of these behaviors in laboratory settings is constrained by limited space and time. The novel approach enabled through the use of this new technology allows high-resolution scalable measurements in a home setting over extended periods of time. These precise spatiotemporal behavioral data are then analyzed with state-of-the-art machine learning mechanisms for characterizing behaviors that precede the onset of walking. The outcomes of this research have the potential to transform investigator ability to measure motor behaviors outside the laboratory settings, and thereby facilitate acquisition of more precise spatiotemporal data that can advance theoretical understanding of motor exploration during development of walking in infancy. Additionally, the novel methods developed and refined during this project have the potential to provide new insights into the multifaceted dynamics of other areas of early human development.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2427573</AwardID>
+<Investigator>
+<FirstName>Subir</FirstName>
+<LastName>Biswas</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Subir K Biswas</PI_FULL_NAME>
+<EmailAddress><![CDATA[sbiswas@egr.msu.edu]]></EmailAddress>
+<NSF_ID>000197544</NSF_ID>
+<StartDate>06/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mei-Hua</FirstName>
+<LastName>Lee</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mei-Hua Lee</PI_FULL_NAME>
+<EmailAddress><![CDATA[mhlee@msu.edu]]></EmailAddress>
+<NSF_ID>000700679</NSF_ID>
+<StartDate>06/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127Y00</Code>
+<Text>Sci of Lrng &amp; Augmented Intel</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>059Z</Code>
+<Text>Science of Learning</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~299571</FUND_OBLG>
+</Award>
+</rootTag>

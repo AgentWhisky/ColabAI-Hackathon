@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation Potential of an Energy Resilience Algorithm for Power Management]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is the development of an algorithm to enhance the survivability of power systems against disruptions such as natural disasters. Currently, natural disasters are escalating and enhancing the resilience of power grids may help to minimize social and economic disruptions when the grid fails. This technology is designed to identify power lines and zones that, if compromised, would have the most significant impact.  This knowledge may allow power companies to optimize their investments in grid resilience, while municipalities are better able to prepare for and respond to power outages. In addition, the technology may be adapted from individual homes to utility networks, which may minimize the impacts of outages and contribute to sustainable energy practices. The goal is to improve the resilience of power grids, ensuring a more stable and consistent energy supply.  &lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. The technology is based on the development of an advanced control algorithm that employs model-free learning methods to manage and optimize power systems during both the planning and operational phases. The research underpinning this project has led to the creation of a system that can dynamically manage energy resources, particularly renewables and storage solutions, to effectively respond to changing conditions to maintain grid stability. The technology integrates smart planning and operation algorithms into power systems and disaster relief microgrids. The technology has been prototyped and tested within a research lab setting, demonstrating its potential effectiveness and versatility in enhancing power system resilience. These capabilities may potentially advance smart grid technology and transform the way energy resilience is approached in the face of increasing natural disasters.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/13/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/13/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2429040</AwardID>
+<Investigator>
+<FirstName>Farzad</FirstName>
+<LastName>Ferdowsi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Farzad Ferdowsi</PI_FULL_NAME>
+<EmailAddress><![CDATA[farzad.ferdowsi@louisiana.edu]]></EmailAddress>
+<NSF_ID>000789820</NSF_ID>
+<StartDate>05/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Louisiana at Lafayette]]></Name>
+<CityName>LAFAYETTE</CityName>
+<ZipCode>705032014</ZipCode>
+<PhoneNumber>3374825811</PhoneNumber>
+<StreetAddress><![CDATA[104 E UNIVERSITY AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C169K7T4QZ96</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF LOUISIANA AT LAFAYETTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>C169K7T4QZ96</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Louisiana at Lafayette]]></Name>
+<CityName>LAFAYETTE</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>705032014</ZipCode>
+<StreetAddress><![CDATA[104 E UNIVERSITY AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7607</Code>
+<Text>POWER, CONTROLS &amp; ADAPTIVE NET</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CyberTraining: Implementation: Medium: AI4EDU: Cloud Infrastructure-Enabled Training for AI in Educational Research and Assessment]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>184360.00</AwardTotalIntnAmount>
+<AwardAmount>184360</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Juan Li</SignBlockName>
+<PO_EMAI>jjli@nsf.gov</PO_EMAI>
+<PO_PHON>7032922625</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Education researchers have access to more extensive and heterogeneous data sources for their research and assessments, which requires skills in advanced cyber-infrastructures.  Artificial intelligence (AI) can help improve the quality of educational research and assessment. This kind of research and assessment is invaluable in advancing national interest by enhancing the ability to answer research questions such as the effectiveness of education policies and pedagogy techniques and closing the achievement gaps. Utilizing AI in education requires additional skills beyond conventional statistics training education researchers, school administrators, and policymakers receive. This project addresses the fundamental issues of training users to use advanced cyber-infrastructure, such as cloud computing systems, to deal with the challenges of working with large quantities of education data. The training materials, software tools, and hands-on project assessments developed as part of this project help prepare future educational researchers in learning analytics to use advanced cyberinfrastructure systems in the cloud. The other potential benefits include expanding the utilization of cyberinfrastructure resources beyond the traditional natural science researchers to involve other social science researchers in education to serve national needs.  &lt;br/&gt;&lt;br/&gt;This project, AI4EDU, aims to develop innovative training materials for education researchers to enable them to utilize AI in educational research and assessment using cloud infrastructures. AI4EDU consists of three integrated thrusts to address this challenge. The first thrust is the development of educational materials that introduce critical aspects of planning, configuring, and utilizing cloud computing resources and frameworks (e.g., Hadoop, federated learning) to support various educational analytical tasks. The second thrust is to develop tools in data quality, cloud monitoring, cloud planning, and configuration to support utilizing cloud services. The last thrust is to design sample projects with accompanying datasets for real-world, hands-on training. In addition, AI4EDU includes a public repository to collect and share machine learning programs and datasets tailored for various educational research tasks to help build up the community of users. The AI4EDU project helps support the AI for Education initiatives by bridging the gap between the analytical techniques taught in the classroom and the tools and skillsets needed to work with data in education.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417718</AwardID>
+<Investigator>
+<FirstName>Lishan</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lishan Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[lyang28@gmu.edu]]></EmailAddress>
+<NSF_ID>000918541</NSF_ID>
+<StartDate>06/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EADLFP7Z72E5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE MASON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>H4NRWLFCDF43</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>220304422</ZipCode>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>044Y00</Code>
+<Text>CyberTraining - Training-based</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>122Z</Code>
+<Text>CI Training and Professionals</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7361</Code>
+<Text>EDUCATION AND WORKFORCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~184360</FUND_OBLG>
+</Award>
+</rootTag>

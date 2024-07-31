@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Singularities in fluids]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>257049</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Innumerable hydrodynamical phenomena are described in terms of singularities, of which perhaps the most well-known is the formation of shock waves resulting from a disturbance in a medium such as air or water moving faster than the local speed of sound. The goal of this project is to create a broad program for both research and pedagogical activities centered around the study of singularities in fluids. The award will provide research opportunities and training for postdoctoral scholars and will  leverage its research elements to design projects suitable for undergraduate students. The project will also aim at producing a foundational graduate textbook on shock waves in compressible fluids.&lt;br/&gt;&lt;br/&gt;The research component is split into three projects: formation and development of shock waves, radial implosions from smooth initial data, and self-similar blow-up via neural networks. Building on previous work of the PI and his collaborators, the aim of the first project will be to provide the first full description of shock wave formation and development for the multi-dimensional compressible Euler equations. The second project involves further developing prior work on self-similar imploding solutions for isentropic compressible flows to investigate the possibility of new types of singularities. The third project involves utilizing physically informed neural networks to search for new forms of singularities in fluid, whose existence will be made rigorous through the aid of computer assisted proofs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/26/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407511</AwardID>
+<Investigator>
+<FirstName>Tristan</FirstName>
+<LastName>Buckmaster</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tristan Buckmaster</PI_FULL_NAME>
+<EmailAddress><![CDATA[tb97@nyu.edu]]></EmailAddress>
+<NSF_ID>000705322</NSF_ID>
+<StartDate>04/26/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>128100</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~110803</FUND_OBLG>
+<FUND_OBLG>2023~76703</FUND_OBLG>
+<FUND_OBLG>2024~69542</FUND_OBLG>
+</Award>
+</rootTag>

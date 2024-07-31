@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRII: III: Rethinking Fairness: Fairness as a Survival Analysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>175000.00</AwardTotalIntnAmount>
+<AwardAmount>195000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>There has been increasing concern within the machine learning community and beyond that Artificial Intelligence (AI) faces a bias and discrimination crisis, urgently requiring AI systems to incorporate fairness constraints. The US Congress has recognized this issue and has been trying to pass the Algorithmic Accountability Act. It demands systems be evaluated for “accuracy, fairness, bias, discrimination, privacy and security within automated systems and companies would be required to correct any issues they uncovered during the process.” Most existing work on evaluating fairness assumes the availability of records in which the source data is annotated with categories needed to apply the fairness definition and fairness algorithm at hand. This assumption, however, is impractical in a diversity of real-world, socially-sensitive applications, ranging from precision medicine to marketing analytics, actuarial analysis and recidivism prediction instruments. There is thus a critical need to study the problem that arises from the gap between the design of a “fair” model in the lab and its deployment in the real world. To this end, this project will revisit the foundational definitions of fairness and reveal idiosyncrasies in the existing fairness literature stemming from assuming information that is not available in practice. Next, this project will aim to bridge the gap between current AI fairness studies and their real-world deployment, leading to improved understanding of the societal impact of AI and significant reduction in its potential for social discrimination. &lt;br/&gt;&lt;br/&gt;To achieve this goal, the project will formulate a new fairness-as-a-survival-analysis problem, where the availability of class labels is not always guaranteed, but there is still a requirement that similar individuals are treated similarly. The first research objective focuses on quantifying individual unfairness in the presence of missing labels from two different perspectives. Specifically, the first track will see fairness as the correlation of similarity in the input and output spaces, which enables defining a fairness measure usable on statistically censored data. The second definition will constitute another fairness issue arising from the perspective of robustness, evaluating whether similar individuals suffer dissimilar levels of prediction stability. The second research objective will make an initial investigation jointly addressing bias reduction and statistical censoring management in model building, so as to ensure utility maximization while minimizing bias across individuals. These criteria will be formulated as regularization terms for joint optimization and will not require all individuals to have a class label. The outcomes of this project are expected to include versatile artifacts that ensure fairness guarantees in various real-world socially-sensitive applications. Furthermore, the project will introduce a new task setting, paving the way for future research in the practical application of AI fairness.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/20/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>04/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404039</AwardID>
+<Investigator>
+<FirstName>Wenbin</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wenbin Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[wenbin.zhang@fiu.edu]]></EmailAddress>
+<NSF_ID>000899941</NSF_ID>
+<StartDate>11/20/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>MIAMI</CityName>
+<ZipCode>331992516</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress><![CDATA[11200 SW 8TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q3KCVK5S9CP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA INTERNATIONAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Q3KCVK5S9CP1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>MIAMI</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331992516</ZipCode>
+<StreetAddress><![CDATA[11200 SW 8TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736400</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~175000</FUND_OBLG>
+<FUND_OBLG>2024~20000</FUND_OBLG>
+</Award>
+</rootTag>

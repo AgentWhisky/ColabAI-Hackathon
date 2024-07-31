@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Adaptive Data Assimilation for Nonlinear, Non-Gaussian, and High-Dimensional Combustion Problems on Supercomputers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/15/2023</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>140000.00</AwardTotalIntnAmount>
+<AwardAmount>11569</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christopher Stark</SignBlockName>
+<PO_EMAI>cstark@nsf.gov</PO_EMAI>
+<PO_PHON>7032924869</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Clean combustion is in urgent need for sustainability due to its direct and intimate connection with tropospheric air pollution, energy security, and climate change today. However, the combustion community still lacks a theoretical description that is accurate enough to make turbulent combustion models rigorous and quantitative for engineering application. Data assimilation, a powerful and versatile methodology, can maximize the utility of information from model predictions and measurements, and help reduce the uncertainty of the state of the modeling system. The project will create a new adaptive data assimilation methodology by confronting the mathematical challenges of applying data assimilation to combustion. This research will ultimately lead to the development of accurate, tractable, and predictive models for combustion engineering, which will help reduce the turn-around time for the expensive design and development cycle of clean combustion technologies. Software resulting from the project will be applicable, beneficial, and accessible to the broad research communities of combustion, fire, plasma, or biofluids.&lt;br/&gt;&lt;br/&gt;Combustion is a new application for data assimilation. Most, if not all, data-assimilation problems in combustion are strongly nonlinear, likely non-Gaussian, and very high-dimensional. This presents challenges to current data assimilation methods. Although nonlinear non-Gaussian data assimilation is becoming reality in some fields (e.g., meteorology, oceanography, and geosciences) with increasing computer power and advances in mathematical and statistical techniques, these data assimilation methods, unfortunately, are often subject to one or more constraints. For example, among successful data assimilation methods that can address nonlinearity and non-Gaussianity are the maximum likelihood ensemble filter (MLEF) and implicit particle filters (IPF). However, the former still implicitly assumes Gaussian probability density distribution at some points in the algorithm and the latter can be catastrophically expensive for high-dimensional problems. Therefore, to ensure a successful data assimilation application to combustion problems, new data assimilation methods must be created to effectively address nonlinearity and non-Gaussianity, efficiently solve high-dimensional systems, and simultaneously achieve high performance on supercomputers. This project aims to develop a new adaptive data assimilation method based on MLEF and IPF for nonlinear, non-Gaussian, high-dimensional systems. The new method will be demonstrated on a large-eddy simulation of flame in a slot burner of interest to combustion science and engineering.</AbstractNarration>
+<MinAmdLetterDate>10/31/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>10/31/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403552</AwardID>
+<Investigator>
+<FirstName>Xinfeng</FirstName>
+<LastName>Gao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xinfeng Gao</PI_FULL_NAME>
+<EmailAddress><![CDATA[dny7df@virginia.edu]]></EmailAddress>
+<NSF_ID>000601894</NSF_ID>
+<StartDate>10/31/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229034833</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJG6HU8PA4S5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RECTOR &amp; VISITORS OF THE UNIVERSITY OF VIRGINIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>229034833</ZipCode>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>806900</Code>
+<Text>CDS&amp;E-MSS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~11569</FUND_OBLG>
+</Award>
+</rootTag>

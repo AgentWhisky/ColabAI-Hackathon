@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Sectional Curvature, Isotropic Curvature, and Curvature Operators]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>219854.00</AwardTotalIntnAmount>
+<AwardAmount>109927</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Qun Li</SignBlockName>
+<PO_EMAI>qli@nsf.gov</PO_EMAI>
+<PO_PHON>7032927465</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Curvature serves as a fundamental concept in geometry. Intuitively, it measures the amount by which a space deviates from being flat. A central topic in geometry is to investigate how various positivity conditions on the curvature tensor restrict the shape of the underlying space. This project delves into a variety of curvature conditions under different geometric settings, aiming to deepen our understanding of the topological implications. Additionally, the project extends its impact beyond research by fostering engagement with K12 students through Math Circle and AMC (American Math Competition) 8 activities in Wichita region in Kansas, alongside mentorship programs for undergraduate and graduate students. &lt;br/&gt;&lt;br/&gt;This project unfolds through three research objectives. The first one is an in-depth investigation of the curvature operator of the second kind, which gained attention following the recent resolution of Nishikawa’s 1986 conjecture by Cao-Gursky-Tran and the PI. The goal is to classify Riemannian and Kahler manifolds with k-positive curvature operator of the second kind. The second explores Ricci flows with positive isotropic curvature, aiming toward a classification of compact manifolds with positive isotropic curvature. The third objective entails an investigation of gradient shrinking Ricci solitons and Einstein four-manifolds with positive sectional curvature, aiming to make progress toward two folklore conjectures. Primary strategies include finding new Ricci flow invariant cones, studying the evolution of various curvature under Ricci flow, analyzing partial differential equations satisfied by various geometric quantities, and understanding the relationship between various notions of curvature via tensor algebra and Lie algebra. &lt;br/&gt;&lt;br/&gt;This project is jointly funded by Topology and Geometric Analysis Program and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2405257</AwardID>
+<Investigator>
+<FirstName>Xiaolong</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaolong Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[xiaolong.li@wichita.edu]]></EmailAddress>
+<NSF_ID>000790665</NSF_ID>
+<StartDate>05/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Wichita State University]]></Name>
+<CityName>WICHITA</CityName>
+<ZipCode>672609700</ZipCode>
+<PhoneNumber>3169783285</PhoneNumber>
+<StreetAddress><![CDATA[1845 FAIRMOUNT ST # 38]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KS04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JKKNZLNYLJ19</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WICHITA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JKKNZLNYLJ19</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Wichita State University]]></Name>
+<CityName>WICHITA</CityName>
+<StateCode>KS</StateCode>
+<ZipCode>672609700</ZipCode>
+<StreetAddress><![CDATA[1845 FAIRMOUNT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KS04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~109927</FUND_OBLG>
+</Award>
+</rootTag>

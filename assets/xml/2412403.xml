@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Robust Extensions to Bayesian Regression Trees for Complex Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>174998.00</AwardTotalIntnAmount>
+<AwardAmount>58710</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tapabrata Maiti</SignBlockName>
+<PO_EMAI>tmaiti@nsf.gov</PO_EMAI>
+<PO_PHON>7032925307</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project is designed to extend the capabilities of tree-based models within the context of machine learning. Tree-based models allow for decision-making based on clear, interpretable rules and are widely adopted in diagnostic and learning tasks. This project will develop novel methodologies to enhance their robustness. Specifically, the research will integrate deep learning techniques with tree-based statistical methods to create models capable of processing complex, high-dimensional data from medical imaging, healthcare, and AI sectors. These advancements aim to significantly improve prediction and decision-making processes, enhancing efficiency and accuracy across a broad range of applications. The project also prioritizes inclusivity and education by integrating training components, thereby advancing scientific knowledge and disseminating results through publications and presentations.&lt;br/&gt;&lt;br/&gt;The proposed research leverages Bayesian hierarchies and transformation techniques on trees to develop models capable of managing complex transformations of input data. These models will be tailored to improve interpretability, scalability, and robustness, overcoming current limitations in non-parametric machine learning applications. The project will utilize hierarchical layered structures, where outputs from one tree serve as inputs to subsequent trees, forming network architectures that enhance precision in modeling complex data patterns and relationships. Bayesian techniques will be employed to effectively quantify uncertainty and create ensembles, providing reliable predictions essential for critical offline prediction and real-time decision-making processes. This initiative aims to develop pipelines and set benchmarks for the application of tree-based models across diverse scientific and engineering disciplines.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412403</AwardID>
+<Investigator>
+<FirstName>HENGRUI</FirstName>
+<LastName>LUO</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>HENGRUI LUO</PI_FULL_NAME>
+<EmailAddress><![CDATA[hl180@rice.edu]]></EmailAddress>
+<NSF_ID>000929468</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[William Marsh Rice University]]></Name>
+<CityName>Houston</CityName>
+<ZipCode>770051827</ZipCode>
+<PhoneNumber>7133484820</PhoneNumber>
+<StreetAddress><![CDATA[6100 MAIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>K51LECU1G8N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WILLIAM MARSH RICE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[William Marsh Rice University]]></Name>
+<CityName>Houston</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>770051827</ZipCode>
+<StreetAddress><![CDATA[6100 MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~58710</FUND_OBLG>
+</Award>
+</rootTag>

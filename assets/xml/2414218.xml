@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: A platform for collecting and analyzing biological and behavioral markers of preschool emotional and behavioral health]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/15/2023</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>14954</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaime A. Camelio</SignBlockName>
+<PO_EMAI>jcamelio@nsf.gov</PO_EMAI>
+<PO_PHON>7032922061</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is the development of a new scalable, objective assessment that relies on a child’s physiological and behavioral responses, rather than solely upon observation of symptoms by a guardian to transform the identification and screening of pre-adolescent children. This tool is scalable, brief (~5 minutes), accessible and automated for no/low provider effort, easily usable (no language barriers for users as it is tone/beep-prompted), with underlying models and biomarkers validated in published peer-reviewed research. Providing annual endpoints satisfies parental and provider interest in longitudinal tracking of childhood mental health, subsequently decreasing the number of children overlooked during this vulnerable age phase (4-10 years old) without greatly extending annual well-visit appointments. The outcomes of this work would be revolutionary in its availability, as there is no other technology-based routine mental health assessment tool for young children currently on the market. There is no other research or commercial institution that has aggregated as much data on early childhood mental health behavioral assessments and associated biomarkers. These specifics give a competitive edge over any potential forthcoming competitor in this space.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of routine screening of young adults and children to lay the necessary foundation for better clinician connectivity. The significant technical innovations include the development of novel, machine learning based algorithms for robustly gathering quantitative information about pre-adolescent children’s physiological responses during structured mood induction tasks using only data from a mobile phone. This approach leverages numerous studies to demonstrate the feasibility of this digital screening method and in so doing collected one of the largest pre-adolescent mental health physiological response datasets. The combination of this novel measurement modality and a unique, large, and expanding clinical dataset provide an innovative foundation prepared to develop the proposed transformative digital identification tool.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414218</AwardID>
+<Investigator>
+<FirstName>Ellen</FirstName>
+<LastName>McGinnis</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ellen W McGinnis</PI_FULL_NAME>
+<EmailAddress><![CDATA[ewmcginn@wakehealth.edu]]></EmailAddress>
+<NSF_ID>000928216</NSF_ID>
+<StartDate>01/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Wake Forest University School of Medicine]]></Name>
+<CityName>WINSTON SALEM</CityName>
+<ZipCode>271570001</ZipCode>
+<PhoneNumber>3367162382</PhoneNumber>
+<StreetAddress><![CDATA[MEDICAL CENTER BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SN7KD2UK7GC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WAKE FOREST UNIVERSITY HEALTH SCIENCES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Wake Forest University School of Medicine]]></Name>
+<CityName>WINSTON SALEM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>271570001</ZipCode>
+<StreetAddress><![CDATA[MEDICAL CENTER BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>066E</Code>
+<Text>INSTRUMENTATION &amp; DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~14954</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The BioBe team completed the NSF project titled " BioBe: A platform for collecting and analyzing biological and behavioral markers of preschool emotional and behavioral health. " (NSF 2324510) during the funding period 4/24/2023-4/24/2024. During our National I-Corp Course (May-June 2023), we completed 150 customer discovery interviews and tested 50 business hypotheses based on our business model canvas. We examined fiveprimary customer segments: 5 primary customers segments (Parents, Pediatricians, Therapists, Schools, and Pharmacological Companies for use as digital endpoints). We invalidated the four segments as first adopters (schools, therapists, pharmacological companies) and validated two as primary targets (Pediatricians and parents). Through our interviews, a potential business model has emerged wherein our technology is cleared by the FDA. In exploring this path to market, we have developed a deep understanding of current unmet customer needs (digital intervention recommendations) and partner requirements necessary to enable these integrations (clinical validation, EHR integration).</p> <p>&nbsp;</p> <p>During the project period, we secured applied for non-dilutive funding (NSF PFI in May 2024) that would augment support provided through this award and allow development of a minimum viable product, via user centered design. This digital screening intervention addresses customer needs for a low burden user experience and the ability to immediately recommend digital interventions. The technology will also be integrated into pediatric electronic health records, identified as key unmet needs during customer discovery interviews. After our hopeful PFI award, our team aims to pursue SBIR/STTR and other non-dilutive funding to support continued development of BioBe and its clinical validation along with our academic research partners.</p> <p>&nbsp;</p><br> <p>  Last Modified: 06/05/2024<br> Modified by: Ellen&nbsp;W&nbsp;Mcginnis</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The BioBe team completed the NSF project titled " BioBe: A platform for collecting and analyzing biological and behavioral markers of preschool emotional and behavioral health. " (NSF 2324510) during the funding period 4/24/2023-4/24/2024. During our National I-Corp Course (May-June 2023), we completed 150 customer discovery interviews and tested 50 business hypotheses based on our business model canvas. We examined fiveprimary customer segments: 5 primary customers segments (Parents, Pediatricians, Therapists, Schools, and Pharmacological Companies for use as digital endpoints). We invalidated the four segments as first adopters (schools, therapists, pharmacological companies) and validated two as primary targets (Pediatricians and parents). Through our interviews, a potential business model has emerged wherein our technology is cleared by the FDA. In exploring this path to market, we have developed a deep understanding of current unmet customer needs (digital intervention recommendations) and partner requirements necessary to enable these integrations (clinical validation, EHR integration).      During the project period, we secured applied for non-dilutive funding (NSF PFI in May 2024) that would augment support provided through this award and allow development of a minimum viable product, via user centered design. This digital screening intervention addresses customer needs for a low burden user experience and the ability to immediately recommend digital interventions. The technology will also be integrated into pediatric electronic health records, identified as key unmet needs during customer discovery interviews. After our hopeful PFI award, our team aims to pursue SBIR/STTR and other non-dilutive funding to support continued development of BioBe and its clinical validation along with our academic research partners.        Last Modified: 06/05/2024       Submitted by: EllenWMcginnis]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

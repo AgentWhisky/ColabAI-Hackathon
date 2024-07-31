@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Novel computational methods to examine students' concepts of biological variability]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>390329.00</AwardTotalIntnAmount>
+<AwardAmount>300804</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregg Solomon</SignBlockName>
+<PO_EMAI>gesolomo@nsf.gov</PO_EMAI>
+<PO_PHON>7032928333</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Both children and adults often display essentialist biases—assuming that groups, such as biological species, are uniform in their features—which can lead them to underestimate variability within-species and across generations. This project will examine learners’ understandings of biological variability, a key foundational concept in biology education, that is linked to understanding genetics and inheritance. The researchers will investigate the connection between children’s essentialist biases and their reasoning about the extent and dimensions of biological variability within species. The researchers will conduct a longitudinal study with four to twelve year old children and with adults to chart a clearer picture of how ideas about trait variability develop. This research will provide new insights into children’s categorization of species and into changes in children’s understanding of biological variability that occur with age and experience. This could ultimately allow educators to develop science education interventions targeted to individuals that are designed to increase students' understanding of this core biological concept and to allow understanding of biological variability and genetic inheritance to be evaluated more precisely. This project is supported by the ECR program which supports fundamental research that generates foundational knowledge that advances the research literatures in STEM learning and learning environments, broadening participation in STEM, and STEM workforce development.&lt;br/&gt;&lt;br/&gt;This proposal will investigate the development of learners' beliefs about biological variability in terms of phenotypic traits and their inheritance. Current methods in educational research for assessing students’ understanding of variability are typically cognitively demanding and time-consuming and have only been able to capture a coarse picture of children’s notions of biological variability. This proposal will introduce a cutting-edge method of mathematical modelling called Markov Chain Monte Carlo with People (MCMCp), an adaptive computer algorithm designed to assess and explore individuals' understanding of biological categories more accurately. MCMCp infers how representative or probable individual category members are in an individual’s category representation. It does this without having to specify all experimental stimuli a priori. Instead, the method explores children’s notions of representativeness adaptively– that is, it uses the learner’s previous responses in the task to inform which stimuli should be presented to the learner next. Using this approach will enable a more precise characterization of children’s and adults’ species concepts and the extent to which they accept variability in phenotypic expression within a species. The researchers will assess learner’s assumptions about within-species variability across a range of traits and organisms as well as their assumptions about genetic variability--variation between parents and offspring. They will also study non-animal categories (one natural kind, one artifact) to understand whether and how essentialist biases apply to non-biological kinds as well as biological kinds. This research will lay a foundation for designing effective, individualized early education curricula for central biological concepts.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400596</AwardID>
+<Investigator>
+<FirstName>Karl</FirstName>
+<LastName>Rosengren</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Karl S Rosengren</PI_FULL_NAME>
+<EmailAddress><![CDATA[Karl.rosengren@rochester.edu]]></EmailAddress>
+<NSF_ID>000200268</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146113847</ZipCode>
+<PhoneNumber>5852754031</PhoneNumber>
+<StreetAddress><![CDATA[910 GENESEE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F27KDXZMF9Y8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ROCHESTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146270268</ZipCode>
+<StreetAddress><![CDATA[Meliora Hall 360]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>798000</Code>
+<Text>ECR-EDU Core Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8817</Code>
+<Text>STEM Learning &amp; Learning Environments</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>04002425DB</Code>
+<Name><![CDATA[NSF STEM Education]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300804</FUND_OBLG>
+</Award>
+</rootTag>

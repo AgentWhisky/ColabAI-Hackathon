@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[QuSeC-TAQS: Noise Engineering For Enhanced Quantum Sensing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>1750000.00</AwardTotalIntnAmount>
+<AwardAmount>1750000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03060000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OSI</Abbreviation>
+<LongName>Office of Strategic Initiatives (OSI)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexander Cronin</SignBlockName>
+<PO_EMAI>acronin@nsf.gov</PO_EMAI>
+<PO_PHON>7032925302</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Understanding fundamentally quantum phenomena is of high interest because those phenomena are important in applications that span from quantum information processing to magnetic resonance imaging. This project will explore electronic noise at the quantum scale, what environmental factors control it, and then how to control it by design. In the larger landscape of quantum technology research, this information will enable the design of effective quantum bits for information processing and biomedical sensing applications. Beyond science, this effort will build curricula focused on quantum information science and engineering (QISE) for wide distribution and organize a local QISE-focused workshop on understanding noise at the quantum level. &lt;br/&gt; &lt;br/&gt;The technical goal of this project is to enable fast, efficient profiling of magnetic noise at the atomic level. Noise at this scale is a critical challenge in the current state of quantum computers and sensors because noise causes decoherence which destroys a qubit’s utility. To deal with said noise, technologists need to understand it: what frequency is the noise, how loud is is, and what causes it. This project, comprising an interdisciplinary chemistry and physics team from University of Colorado Boulder and Colorado State University, will explore a new technique for the efficient characterization of noise and benchmark the new method with both solid-state qubits (like the NV center in diamond) and metal-containing molecules through spectroscopic and theoretical methods. These studies will extend the understanding of magnetic noise to an atomistic level beyond the border of what it currently known.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412615</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Zadrozny</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joseph M Zadrozny</PI_FULL_NAME>
+<EmailAddress><![CDATA[zadrozny.13@osu.edu]]></EmailAddress>
+<NSF_ID>000778705</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>105Y00</Code>
+<Text>QL-The Quantum Leap: Leading t</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~1750000</FUND_OBLG>
+</Award>
+</rootTag>

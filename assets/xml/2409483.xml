@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-BSF: REDOX REGULATION OF DROSOPHILA PHOTOTRANSDUCTION]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>1155315.00</AwardTotalIntnAmount>
+<AwardAmount>1155315</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matt Buechner</SignBlockName>
+<PO_EMAI>mbuechne@nsf.gov</PO_EMAI>
+<PO_PHON>7032924675</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The fruit fly eye has incredible vision in terms of speed and ability to adapt to different light intensities, which is critical for the survival of a small flying insect.  The molecular signaling pathways that respond to light and enable vision have been extensively studied in flies and provide a key model for understanding this class of signaling pathways, which are critical for a wide range of biological processes in animals, including mammals.  However, key questions remain as to how this signaling cascade can adapt, while retaining high temporal resolution during prolonged periods of bright light that are typical of sunlight.  This project will examine the role of a specific type of chemical modification termed redox signaling that can be initiated in response to light and could act as a rheostat to lower activity of the signaling pathway in very bright light.  Understanding how redox signaling regulates this type of pathway could also provide important insights into the potential regulation of related pathways involved in neuronal signaling, cell growth, and differentiation.  This project will also enable training for graduate student researchers who will gain skills in biochemistry, genetics, and electrophysiology (measuring electrical current in neurons).  The project will also continue a successful course-based research experience (CURE) that provides opportunities for undergraduates to participate in authentic research experiences directly related to this project.&lt;br/&gt;&lt;br/&gt;Drosophila visual transduction is one of the fastest and most adaptable G-protein-coupled receptor (GPCR) phosphoinositide signaling cascades, responding with exquisite temporal resolution and able to operate efficiently under the extremely wide range of ambient light intensities.  Preliminary redox proteomic studies identified oxidation of specific cysteines in three phototransduction signaling proteins upon exposure to intense blue light.  These redox changes were accompanied by a large reduction in the sensitivity to light and the frequency response to oscillating light, which implies that redox signaling could contribute to light adaptation and response termination – the two major remaining gaps in understanding how phototransduction is regulated.  Based on the position of the oxidized cysteines in these phototransduction proteins, this project hypothesizes that these redox signaling events would reduce the sensitivity to light and enable light adaptation.  This project further hypothesizes that blue light induces these redox signaling events via reduction of a blue light flavoprotein present in the rhabdomere of photoreceptors.  In this model, the phototransduction cascade can be deactivated by light signaling independent of the GPCR Rhodopsin, enabling it to adapt to a wide light intensity range and quickly terminate in the presence of bright intense sunlight that contains abundant blue wavelengths.&lt;br/&gt;&lt;br/&gt;This collaborative US/Israel project is supported by the US National Science Foundation and the Israeli Binational Science Foundation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409483</AwardID>
+<Investigator>
+<FirstName>Vikki</FirstName>
+<LastName>Weake</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vikki M Weake</PI_FULL_NAME>
+<EmailAddress><![CDATA[vweake@purdue.edu]]></EmailAddress>
+<NSF_ID>000672476</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE STE 1900]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111400</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>014Z</Code>
+<Text>NSF and US-Israel Binational Science Fou</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5905</Code>
+<Text>ISRAEL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1155315</FUND_OBLG>
+</Award>
+</rootTag>

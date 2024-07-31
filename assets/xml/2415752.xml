@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Clustering, Auto-Encoding, and Generative Modelling of 3D Object Representations for Manufacturing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Kramer</SignBlockName>
+<PO_EMAI>bkramer@nsf.gov</PO_EMAI>
+<PO_PHON>7032925348</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This EArly-concept Grant for Exploratory Research (EAGER) award supports research to expand the effectiveness, range of application and affordability of artificial intelligence (AI) in the design and manufacturing of products. The focus of the project is on the use of AI to identify geometrical similarities between new part designs and the designs of parts that have already been successfully manufactured. Such a clustering capability is foundational to enabling a networked, AI-driven manufacturing service infrastructure in that it can potentially suggest improvements of new designs to improve their manufacturability, identify manufacturing companies with the production capabilities needed to configure new product supply chains, and enable the classification, categorization, and aggregation of production data across manufacturers for the training of AI-based process controllers. The methods, data, and models developed in the project may be applicable to other applications and market sectors. For instance, deep clustering will produce embedded representations of objects, which can then be leveraged by a generative modelling effort specific to each cluster to produce code. Such broader use will be facilitated by user-friendly, well-documented software that will be freely disseminated. In particular, the (neural network) modeling and training (deep learning) choices used to produce the AIs will be carefully documented for reproducibility by other parties. The PIs will endeavor to diversify project personnel by recruiting women computer/data scientists.&lt;br/&gt;&lt;br/&gt;Initial efforts will focus on the geometrical classification of 3D objects using publicly available databases of G-Code (the code used to drive numerically controlled machines, including 3D printers) and STL files (the geometrical representations from which G-code is generated). That data will be normalized and preprocessed via methods of deep clustering. Deep clustering will be applied to a database of "normalized/pre-processed" objects (products suitable for 3D manufacturing), with the deep clustering based on several geometric-similarity clustering metrics, both known and novel. Possible methods for determining the geometric similarity between two volumetrically normalized shapes include maximizing their overlapping volumes under 3D rotations and aggregating overlapping cross-sectional slices of 3D objects to compose the 3D geometric similarity of the two objects. In addition to specifying metrics to be used in performing deep clustering, metrics will also be devised to assess the quality of the learned clusters. Since the methods in this project are expected to be computationally intensive, computational efficiency will be a particular focus of the project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415752</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Miller</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David J Miller</PI_FULL_NAME>
+<EmailAddress><![CDATA[djmiller@engr.psu.edu]]></EmailAddress>
+<NSF_ID>000205937</NSF_ID>
+<StartDate>05/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>George</FirstName>
+<LastName>Kesidis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>George Kesidis</PI_FULL_NAME>
+<EmailAddress><![CDATA[gik2@psu.edu]]></EmailAddress>
+<NSF_ID>000490250</NSF_ID>
+<StartDate>05/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168021503</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPM2J7MSCF61</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE PENNSYLVANIA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>168021503</ZipCode>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>229Y00</Code>
+<Text>MSI-Manufacturing Systms Integ</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>791800</Code>
+<Text>CPS-Cyber-Physical Systems</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>808400</Code>
+<Text>CDS&amp;E</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>016Z</Code>
+<Text>Cybermanufacturing Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>067E</Code>
+<Text>DESIGN TOOLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>152E</Code>
+<Text>Cyber-Physical Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5514</Code>
+<Text>OPERATIONS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

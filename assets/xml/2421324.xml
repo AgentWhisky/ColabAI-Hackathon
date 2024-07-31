@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Authentic Learning Modules for DevOps Security Education]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>125880.00</AwardTotalIntnAmount>
+<AwardAmount>110343</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11010000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DGE</Abbreviation>
+<LongName>Division Of Graduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>ChunSheng Xin</SignBlockName>
+<PO_EMAI>cxin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927353</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Information technology (IT) organizations use development and operations (DevOps) to deliver software-based services rapidly to end-users. During software development, various documents are often created. These materials, referred to as software artifacts, may include design documents, source code, risk assessments, and other project plans or documentation. Software artifacts used in DevOps yield tremendous benefits for IT organizations. However, without the secure development of these artifacts, deployed software can contain security vulnerabilities which malicious users can exploit to cause serious consequences for organizations. Therefore, students who are poised to become next-generation professionals need to be educated on (i) the consequences of security weaknesses that are commonplace in DevOps artifacts and (ii) how security weaknesses can be mitigated through secure development. This project aims to create an engaging and motivating learning environment that encourages all computer science students to learn cybersecurity integration into artifacts used for DevOps. The project has the potential to transform computer science education in the cross-cutting areas of software engineering and cybersecurity and grow a cybersecurity workforce that is well-versed in secure software development practices and techniques. &lt;br/&gt;&lt;br/&gt;Principal investigators from Tennessee Tech University, Kennesaw State University, and Tuskegee University will collaborate on developing and deploying authentic learning-based modules for DevOps security education (ALAMOSE). The ALAMOSE project will leverage authentic learning, which provides students with practical knowledge to solve real-world problems. Pre-lab content dissemination, hands-on exercise, and post-lab activities will be included. The modules will be deployed in existing cybersecurity, software engineering, and IT system security courses across the three institutions, potentially impacting students from diverse backgrounds. Faculty workshops and outreach webinars will be employed to promote the adoption of the modules and to gather and present lessons learned and experiential feedback. In addition, the modules will be available to educators nationwide through code and container sharing platforms, such as GitHub and DockerHub.   &lt;br/&gt;&lt;br/&gt;This project is supported by the Secure and Trustworthy Cyberspace (SaTC) program, which funds proposals that address cybersecurity and privacy, and in this case specifically cybersecurity education. The SaTC program aligns with the Federal Cybersecurity Research and Development Strategic Plan and the National Privacy Research Strategy to protect and preserve the growing social and economic benefits of cyber systems while ensuring security and privacy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/30/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421324</AwardID>
+<Investigator>
+<FirstName>Hossain</FirstName>
+<LastName>Shahriar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hossain Shahriar</PI_FULL_NAME>
+<EmailAddress><![CDATA[hshahriar@uwf.edu]]></EmailAddress>
+<NSF_ID>000630552</NSF_ID>
+<StartDate>04/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of West Florida]]></Name>
+<CityName>PENSACOLA</CityName>
+<ZipCode>325145750</ZipCode>
+<PhoneNumber>8504742825</PhoneNumber>
+<StreetAddress><![CDATA[1100 UNIVERSITY PKWY BLDG 20E 10]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WHXVFCB1F1E3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WEST FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of West Florida]]></Name>
+<CityName>PENSACOLA</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>325145732</ZipCode>
+<StreetAddress><![CDATA[11000 UNIVERSITY PKWY BLDG 10]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>806000</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>04002223DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~110343</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Next generation enzyme engineering: high-throughput directed evolution of spore-displayed enzymes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>275000.00</AwardTotalIntnAmount>
+<AwardAmount>275000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erik Pierstorff</SignBlockName>
+<PO_EMAI>epiersto@nsf.gov</PO_EMAI>
+<PO_PHON>7032922165</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to provide a novel synthetic biology platform that generates customizable enzyme solutions for industrial biocatalyst applications. The use of enzymes as industrial biocatalysts continues to expand, offering environmentally friendly and sustainable solutions to a wide range of industrial processes while driving innovation in fields such as pharmaceuticals, biofuels, and food production, and more recently biomining and carbon capture. Viewed as an alternative to conventional chemical catalysts, enzyme biocatalysts offer greater sustainability in their processes owing to their biodegradable nature, high selectivity, ability to operate under mild reaction conditions, and their ability to generate a low amount of byproduct during a reaction; they also negate the need for potentially toxic or energy intensive reagents typically needed for conventional chemical catalysis. These advantages confer downstream impacts on operational efficiency, costs, and energy requirements. With the proposed technology’s enhanced capabilities, there is potential to increase this impact by providing novel enzyme solutions that confer greater robustness and efficiency at lower costs and environmental impacts.&lt;br/&gt;The proposed project aims to apply directed evolution and high-throughput screening technologies to spore-displayed enzymes, enabling rapid prototyping of spore-enzyme variants to improve important variables like enzyme activity, stability, and loading density. While enzyme catalysis is used in a wide range of industries, the ability to create enzymes with thermal and chemical stability that are also reusable remains a challenge. Using a process called spore-display immobilization, the platform uses bacteria to make and assemble enzymes on the surface of spores, a self-assembling and genetically encoded microparticle. The platform is based on key foundational research that resulted in the characterization of 37 proteins that make up the spore coat of Bacillus subtilis and their ability to act as fusion partners for enzymes. To further develop this technology, the following objectives are proposed: 1) Use the platform to implement directed evolution of a commercially relevant enzyme on the spore; establish feasibility of approach to yield improved biocatalytic properties and benchmark to industry standard;  2) Advance system screening capabilities to enable high throughput selection using a microfluidic encapsulation approach; demonstrate ability to screen &gt;1 million enzyme variants per day, and 3) use machine learning to predict and learn from improved catalyst variants.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/20/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409142</AwardID>
+<Investigator>
+<FirstName>Trevor</FirstName>
+<LastName>Nicks</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Trevor Nicks</PI_FULL_NAME>
+<EmailAddress><![CDATA[Trevor@caravel.bio]]></EmailAddress>
+<NSF_ID>000958688</NSF_ID>
+<StartDate>05/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[CARAVEL BIO, INC.]]></Name>
+<CityName>PORTLAND</CityName>
+<ZipCode>972394283</ZipCode>
+<PhoneNumber>2164702562</PhoneNumber>
+<StreetAddress><![CDATA[4640 S MACADAM AVE STE 130D]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NB9TUWC6X8M5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARAVEL BIO, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CARAVEL BIO, INC.]]></Name>
+<CityName>Portland</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>972394283</ZipCode>
+<StreetAddress><![CDATA[4640 S Macadam St Ste 130D]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>144E</Code>
+<Text>Synthetic biology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~275000</FUND_OBLG>
+</Award>
+</rootTag>

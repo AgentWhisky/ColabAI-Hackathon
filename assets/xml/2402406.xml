@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Updating DARWIN (Digital Analysis and Recognition of Whale Images on a Network) to Sustain and Expand its use in Population Ecology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>278631.00</AwardTotalIntnAmount>
+<AwardAmount>278631</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Liberles</SignBlockName>
+<PO_EMAI>dliberle@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Biologists who study natural phenomena such as population dynamics, habitat use, and behavioral patterns need to be able to identify individual animals in order to carry out the necessary analyses. In addition to gaining a greater understanding of the species of focus, these studies are important to monitor changes in populations and impacts of habitat damage or destruction. A typical catalog of previously identified animals may contain hundreds or even thousands of images, so the process of reidentifying individuals using photographs is a daunting task. Access to software that performs the identification task efficiently and accurately enables biologists to focus their time on the analysis of the data. For decades, wild dolphins have been monitored using markings on their dorsal fins, similar to the use of fingerprints to recognize a person. The goal of this project is to update and expand an existing software application, DARWIN, that identifies individual dolphins using the dorsal fin outline. DARWIN has also shown promise for identifying Alaskan brown bear individuals using their facial profiles and has the potential for application to other animals with non-patterned fur. In addition to providing opportunities for undergraduate students to gain software development experience, this project will also host workshops for high school students from diverse backgrounds focused on the importance and automation of identifying individual animals in the wild.&lt;br/&gt;&lt;br/&gt;The reidentification of individual animals from photographs has traditionally been a bottleneck in the analysis of field data. The use of high-resolution digital cameras and availability of inexpensive data storage has created an expansion of data that has exacerbated the problem. This project will modernize the DARWIN software’s user interface, add support for the larger files created by today’s cameras, and incorporate Machine Learning methods to simplify the extraction of animal outlines and improve reidentification accuracy. The software architecture will also be generalized to support reidentification in species other than dolphins. The improved methods for automating the recognition of individual animals or objects, based upon their outlines, will serve not only biologists, but researchers in other fields, more broadly.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402406</AwardID>
+<Investigator>
+<FirstName>Kelly</FirstName>
+<LastName>Debure</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kelly R Debure</PI_FULL_NAME>
+<EmailAddress><![CDATA[deburekr@eckerd.edu]]></EmailAddress>
+<NSF_ID>000236772</NSF_ID>
+<StartDate>07/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Hilton</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael L Hilton</PI_FULL_NAME>
+<EmailAddress><![CDATA[hiltonm@eckerd.edu]]></EmailAddress>
+<NSF_ID>000966737</NSF_ID>
+<StartDate>07/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Eckerd College]]></Name>
+<CityName>SAINT PETERSBURG</CityName>
+<ZipCode>337114744</ZipCode>
+<PhoneNumber>7278647564</PhoneNumber>
+<StreetAddress><![CDATA[4200 54TH AVE S]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R5P4PBB1MRU3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ECKERD COLLEGE, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Eckerd College]]></Name>
+<CityName>SAINT PETERSBURG</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>337114744</ZipCode>
+<StreetAddress><![CDATA[4200 54TH AVE S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>168Y00</Code>
+<Text>Capacity: Cyberinfrastructure</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1165</Code>
+<Text>ADVANCES IN BIO INFORMATICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~278631</FUND_OBLG>
+</Award>
+</rootTag>

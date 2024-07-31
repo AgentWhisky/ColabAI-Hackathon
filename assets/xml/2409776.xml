@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Multigraded commutative algebra]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/15/2023</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>265000.00</AwardTotalIntnAmount>
+<AwardAmount>245090</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Polynomial equations are some of the most fundamental objects in mathematics and science, and they arise in a huge array of examples: Fermat’s Last Theorem, physical models of motion, the ideal gas law, and much more.  Understanding the solutions of polynomial equations is thus a fundamental challenge that cuts across all quantitative fields.  The PI’s work aims to develop techniques—both theoretical and algorithmic—for better understanding the solutions of polynomial equations that are endowed with extra symmetries.  As such equations often arise in mathematical or scientific applications, the work has the potential for wide impact.&lt;br/&gt;&lt;br/&gt;The PI aims to expand the literature on multigraded polynomials, building on his prior work of using virtual resolutions as a foundation for geometric applications of multigraded syzygies.  One project would provide novel multigraded analogues of the Hilbert Syzygy Theorem and of Beilinson's resolution of the diagonal, thus establishing two foundational results.  A second  project on a multigraded version of Green's Linear Syzygy Theorem would have more direct geometric applications.  And a third project would have computational applications, yielding a new and potentially much faster algorithm for computing sheaf cohomology on a toric variety.  The project will also have broader impacts through the PI’s mentoring of PhD students.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/30/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409776</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Erman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel Erman</PI_FULL_NAME>
+<EmailAddress><![CDATA[erman@hawaii.edu]]></EmailAddress>
+<NSF_ID>000542918</NSF_ID>
+<StartDate>11/30/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Hawaii]]></Name>
+<CityName>HONOLULU</CityName>
+<ZipCode>968222247</ZipCode>
+<PhoneNumber>8089567800</PhoneNumber>
+<StreetAddress><![CDATA[2425 CAMPUS RD SINCLAIR RM 1]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<StateCode>HI</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>HI01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NSCKLFSSABF2</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF HAWAII</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Hawaii]]></Name>
+<CityName>HONOLULU</CityName>
+<StateCode>HI</StateCode>
+<ZipCode>968222247</ZipCode>
+<StreetAddress><![CDATA[2425 CAMPUS RD SINCLAIR RM 1]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>HI01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~65637</FUND_OBLG>
+<FUND_OBLG>2023~88946</FUND_OBLG>
+<FUND_OBLG>2024~90507</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Towards Understanding the Multi-Phase, Multi-Scale CGM]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>557211.00</AwardTotalIntnAmount>
+<AwardAmount>557211</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Benacquista</SignBlockName>
+<PO_EMAI>mbenacqu@nsf.gov</PO_EMAI>
+<PO_PHON>9568322523</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This research team studies the atmospheres of galaxies, which has many parallels to studying Earth's atmosphere. Earth's atmosphere is fundamental to life. The water cycle, when water changes phase, is very important for life. To study this, climate scientists run computer simulations at many different scales to get accurate results. Similarly, galactic atmospheres are fundamental to star formation in galaxies. The baryonic cycle, when gas changes phase, is very important for making stars. Galaxy models cover an enormous range of scales. The investigator will run high-resolution supercomputer simulations of galactic atmospheres on small scales to understand physics that is unresolved in larger scale simulations. He will also focus on outreach to high school students, who are at a particularly formative stage. To inspire their interest in science, especially in under-represented communities, his team will give public talks, teach weekend classes, and supervise research. &lt;br/&gt;&lt;br/&gt;The investigator will run high-resolution idealized simulations to better understand: i) turbulent fragmentation and coagulation of clouds, as well as other physical processes underlying power-law cloud mass distributions. ii) The influence of magnetic fields on key processes such as ‘shattering’, survival and growth of cold streams and clouds, cloud sizes/densities and absorption line statistics, turbulent fragmentation and coagulation. iii) The observed motion of multi-phase gas in the solar corona, resolution requirements for numerically converged absorption line column densities, and the physics behind the ubiquity of OVI in galactic halos. The deeper physical understanding of multi-phase processes can then be fed back into sub-grid prescriptions for larger scale simulations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407521</AwardID>
+<Investigator>
+<FirstName>Siang Peng</FirstName>
+<LastName>Oh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Siang Peng Oh</PI_FULL_NAME>
+<EmailAddress><![CDATA[peng@physics.ucsb.edu]]></EmailAddress>
+<NSF_ID>000301644</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName>SANTA BARBARA</CityName>
+<ZipCode>931060001</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress><![CDATA[3227 CHEADLE HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G9QBQDH39DF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SANTA BARBARA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName>SANTA BARBARA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>931060001</ZipCode>
+<StreetAddress><![CDATA[3227 CHEADLE HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>121700</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~557211</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-MeitY: Piloting A Multi-Attribute Urban Sensing Technology for Sustainable Cities: Assessing Urban Metabolism, Form, Activities and Emissions at Fine Scales]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Hamilton</SignBlockName>
+<PO_EMAI>bhamilto@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>2415578 (Ramaswami). More than 1000 cities worldwide (over 150 in USA &amp; India) have adopted low-carbon, clean air, and resource circularity goals toward sustainability. Measuring urban metabolism – stocks and flows of energy and materials in/out of cities, alongside generation of value-added products (trade, GDP), waste and pollution – is fundamental to designing cities for resource efficiency, resource circularity, and clean energy. However, while utilities provide some data,  cities fundamentally lack granular intra-urban metabolic data at ward/precinct scales on: construction materials (stocks and flow); transportation  mode shares and informal sector activities in developing cities (e.g., streetside waste-burning or food-vending); and the fundamental social-ecological-infrastructural and urban form (SEIU) drivers shaping wide variation in human activities and associated waste &amp; air emissions within cities. This project brings together an international team of researchers from Princeton University (USA), IIT-Madras IITM), and Google Research India to advance a novel Multi-attribute Urban Sensing Technology (MUST) for Sustainable Cities via interdisciplinary use-inspired fieldwork in Chennai, India, combining novel vehicle-mounted sensors, remote sensing, sustainability engineering, and AI. The MUST platform will be tested first at the campus-level at Princeton and IIT-Madras campuses and then piloted to measure multiple attributes of social inequality, infrastructure access and use, air pollution, and carbon emissions, simultaneously, in Chennai, India. The project will directly inform sustainability and resource circularity planning at the Chennai Metropolitan Development Authority (10.8 million people); provide deep fieldwork and international exchange experiences for about 10 graduate students/postdocs; online training for 30 BS/MS students on data science for sustainability, and professional training of 40 city officials from 10 US &amp; India cities on MUST for city-level decision-making.&lt;br/&gt;&lt;br/&gt;MUST technology will develop three components: (1) Exploratory field pilot-testing of a Mobile Urban Metabolism Multi-Attribute Sensing (MUMMAS) platform to measure multiple attributes of socioeconomic metabolism at fine intraurban scales (precinct/wards), including urban form, infrastructure, neighborhood SES, multisectoral human activities, material stocks and flows, energy use, and emissions. MUMMAS will integrate 360-degree cameras, LiDAR, and multiple environmental and air pollution sensors. (2) A novel data analytics platform and foundation deep learning model combining mobile sensor data with remote sensing and social survey data for integrated socio-ecological-infrastructural urban (SEIU) sensing of cities. (3) Three sustainability use-cases, addressing low-carbon, clean air, and resource circular cities. In addition, the project team will conduct (4) Technology Scale-up Workshops bringing together academics, industry and cities, and, (5) Education and training of students, city and industry officials through engaged field research and online seminars. The project targets advancing frontiers in multiple disciplines: (1) Sensors: field-testing novel high fidelity, low-cost air pollution sensors across US and India, (2) Sensor integration and Multi-scale sensing of cities: integrating vehicle-mounted, stationary, and satellite remote sensing, with socio-ecological-infrastructural surveys, (3) A foundation deep learning model at the nexus of computer vision, AI/ML, and urban Social-Ecological-Infrastructural systems (4) Industrial ecology/Sustainable urban systems: developing novel data-driven methods for quantifying fine-scale socially-differentiated urban metabolism, and (5) Civil and environmental engineering advances in developing fine-scale human activity and air pollution inventories, carbon footprints, and design for resource circularity.&lt;br/&gt;Physical outputs are to include: (1) A prototype vehicle-mounted multi-attribute urban sensing system with 360-degree optical cameras, high-resolution LiDAR,  GPS, novel environmental and air pollution sensors combining innovations at Princeton and IITM; (2) A frontier data analytics platform and Foundation Deep Learning Model at the nexus of computer vision, AI, ML, and urban SEI systems, and (3) Metabolic models to inform low-carbon, clean air, resource-circular futures.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415578</AwardID>
+<Investigator>
+<FirstName>Anu</FirstName>
+<LastName>Ramaswami</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anu Ramaswami</PI_FULL_NAME>
+<EmailAddress><![CDATA[anu.ramaswami@princeton.edu]]></EmailAddress>
+<NSF_ID>000205565</NSF_ID>
+<StartDate>07/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Zondlo</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark A Zondlo</PI_FULL_NAME>
+<EmailAddress><![CDATA[mzondlo@princeton.edu]]></EmailAddress>
+<NSF_ID>000336126</NSF_ID>
+<StartDate>07/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jia</FirstName>
+<LastName>Deng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jia Deng</PI_FULL_NAME>
+<EmailAddress><![CDATA[jiadeng@princeton.edu]]></EmailAddress>
+<NSF_ID>000662553</NSF_ID>
+<StartDate>07/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085442001</ZipCode>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>764300</Code>
+<Text>EnvS-Environmtl Sustainability</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022Z</Code>
+<Text>International Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>120Z</Code>
+<Text>US-India Collaborative Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6194</Code>
+<Text>INDIA</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~450000</FUND_OBLG>
+</Award>
+</rootTag>

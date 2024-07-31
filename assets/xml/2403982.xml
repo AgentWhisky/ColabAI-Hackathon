@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[GOALI: CDS&E: Computationally-Guided Development of Chromatographic Systems: Toward Multimodal Interactions Arising from Microheterogeneous Stationary and Mobile Phases]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>290000.00</AwardTotalIntnAmount>
+<AwardAmount>290000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jose Almirall</SignBlockName>
+<PO_EMAI>jalmiral@nsf.gov</PO_EMAI>
+<PO_PHON>7032927434</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, Professor Siepmann's group at the University of Minnesota - Twin Cities is collaborating with Stephanie Schuster at Advanced Materials Technology and Mark Schure at Kroungold Analytical Inc to develop accurate molecular models for chromatographic systems. Chromatography is widely used for the analysis and separation of complex mixtures of molecules and macromolecules in chemical, pharmaceutical, and bio-technology applications. The Siepmann team seeks improved fundamental understanding to better guide the choice of materials (i.e., chromatographic phases) impacting the retention processes that govern the separation. The work extends to include consideration of sustainable mobile phases which can reduce chemical waste. Beyond these technical impacts, the research provides excellent training opportunities for the next generation of researchers, utilizing partnerships with academic and industrial researchers.&lt;br/&gt;&lt;br/&gt;The lack of molecular-level information for chromatographic retention processes is a bottleneck that hampers the development of novel stationary phases and adoption of more benign mobile phases. The collaborative research team led by Dr. Siepmann combines expertise in molecular simulation, synthesis, and characterization. Complex molecular models, accurate force fields, and efficient simulation algorithms enable high-fidelity predictions of chromatographic retention processes. The general goals are threefold: (i) to predict retention orders, without adjustable parameters, in chromatographic systems; (ii) to provide microscopic-level insight into the processes underlying these separations; and (iii) to utilize this knowledge to guide the design of chromatographic stationary phases and sustainable mobile phases with improved performance. Computational studies are experimentally validated. This integrated research approach is being applied to hydrophilic chromatographic phases (HILIC with bonded polar ligands), hydrophobic phases with limited flexibility (phenyl-hexyl), supercritical carbon dioxide/(water or methanol or ethanol), and hot, compressed water mobile phases.  It is also being used to elucidate the influence of pore size/shape/topology and functional groups for superficially porous particles on adsorption isotherms and wettability. This university-industry partnership provides unique opportunities to advance the education and training of undergraduate and graduate students by allowing for extensive interactions with industrial researchers and experiences with real-world applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403982</AwardID>
+<Investigator>
+<FirstName>Joern Ilja</FirstName>
+<LastName>Siepmann</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joern Ilja Siepmann</PI_FULL_NAME>
+<EmailAddress><![CDATA[siepmann@umn.edu]]></EmailAddress>
+<NSF_ID>000215452</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephanie</FirstName>
+<LastName>Schuster</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephanie A Schuster</PI_FULL_NAME>
+<EmailAddress><![CDATA[sschuster@advanced-materials-tech.com]]></EmailAddress>
+<NSF_ID>000797528</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress><![CDATA[200 OAK ST SE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554552009</ZipCode>
+<StreetAddress><![CDATA[207 Pleasant St SE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688000</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9236</Code>
+<Text>CHEMISTRY OF LIFE PROCESSES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~290000</FUND_OBLG>
+</Award>
+</rootTag>

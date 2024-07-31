@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[On Iteratively Regularized Alternating Minimization under Nonlinear Dynamics Constraints with Applications to Epidemiology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Troy D. Butler</SignBlockName>
+<PO_EMAI>tdbutler@nsf.gov</PO_EMAI>
+<PO_PHON>7032922084</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>How widely has the virus spread? This important and often overlooked question was brought to light by the recent COVID-19 outbreak. Several techniques have been used to account for silent spreaders along with varying testing and healthcare seeking habits as the main reasons for under-reporting of incidence cases. It has been observed that silent spreaders play a more significant role in disease progression than previously understood, highlighting the need for policymakers to incorporate these hidden figures into their strategic responses. Unlike other disease parameters, i.e., incubation and recovery rates, the case reporting rate and the time-dependent effective reproduction number are directly influenced by a large number of factors making it impossible to directly quantify these parameters in any meaningful way. This project will advance iteratively regularized numerical algorithms, which have emerged as a powerful tool for reliable estimation (from noise-contaminated data) of infectious disease parameters that are crucial for future projections, prevention, and control. Apart from epidemiology, the project will benefit all real-world applications involving massive amounts of observation data for multiple stages of the inversion process with a shared model parameter. In the course of their theoretical and numerical studies, the PIs will continue to create research opportunities for undergraduate and graduate students, including women and students from groups traditionally underrepresented in STEM disciplines. A number of project topics are particularly suitable for student research and will be used to train some of the next generation of computational mathematicians.&lt;br/&gt;&lt;br/&gt;In the framework of this project, the PIs will develop new regularized alternating minimization algorithms for solving ill-posed parameter-estimation problems constrained by nonlinear dynamics. While significant computational challenges are shared by both deterministic trust-region and Bayesian methods (such as numerical solutions requiring solutions to possibly complex ODE or PDE systems at every step of the iterative process), the team will address these challenges by constructing a family of fast and stable iteratively regularized optimization algorithms, which carefully alternate between updating model parameters and state variables.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409868</AwardID>
+<Investigator>
+<FirstName>Alexandra</FirstName>
+<LastName>Smirnova</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexandra Smirnova</PI_FULL_NAME>
+<EmailAddress><![CDATA[asmirnova@gsu.edu]]></EmailAddress>
+<NSF_ID>000406906</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiaojing</FirstName>
+<LastName>Ye</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaojing Ye</PI_FULL_NAME>
+<EmailAddress><![CDATA[xye@gsu.edu]]></EmailAddress>
+<NSF_ID>000636991</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia State University Research Foundation, Inc.]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303032921</ZipCode>
+<PhoneNumber>4044133570</PhoneNumber>
+<StreetAddress><![CDATA[58 EDGEWOOD AVE NE]]></StreetAddress>
+<StreetAddress2><![CDATA[FL 3]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MNS7B9CVKDN7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia State University Research Foundation, Inc.]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303032921</ZipCode>
+<StreetAddress><![CDATA[58 EDGEWOOD AVE NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~200000</FUND_OBLG>
+</Award>
+</rootTag>

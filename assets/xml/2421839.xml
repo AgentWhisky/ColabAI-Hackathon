@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRII: Learning to simulate with small data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>175000.00</AwardTotalIntnAmount>
+<AwardAmount>154577</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Raj Acharya</SignBlockName>
+<PO_EMAI>racharya@nsf.gov</PO_EMAI>
+<PO_PHON>7032927978</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Reinforcement learning (RL) has shown great success in a series of artificial intelligence (AI) domains such as Go games. Since RL can provide optimized policies to achieve certain goals, people are eager to use advanced RL techniques to solve real-world decision-making problems. Despite its huge success in AI domains, RL has not yet shown the same degree of success for real-world applications because RL largely relies on simulation, and there is rarely a good simulator for real-world systems. Unlike simulated environments such as games where data could be unlimited, real-world physical systems like traffic systems are quite the opposite: data is small (i.e., sparse and hard to obtain). This raises important research questions about building realistic simulations from small data that can mimic complex and stochastic real-world dynamics. The solution from this project can help policymakers choose a better policy before implementing it in the real world, greatly facilitate the adoption of reinforcement learning techniques in the real world, and benefit many applications in which one would like to use real data to learn or understand real-world physical systems better.&lt;br/&gt;&lt;br/&gt;This project aims to build a realistic traffic simulator by investigating data mining algorithms and provides solutions toward mimicking real-world simulations with small data with applications to traffic simulations. This project will learn to simulate without making unrealistic assumptions on the real-world models and further learn with the real-world setting of small data. First, the project will try to learn data-driven models from incomplete and indirect observations from the real world. Second, this project will seek to innovate the data-driven model to meet with human knowledge, as human knowledge could guide us to learn a model that is not only relied on small and possibly biased data. Third, this project aims to leverage the influences from multiple parties in the real world for the data-driven model. New machine learning techniques will be developed in the data mining process.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421839</AwardID>
+<Investigator>
+<FirstName>Hua</FirstName>
+<LastName>Wei</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hua Wei</PI_FULL_NAME>
+<EmailAddress><![CDATA[hua.wei@asu.edu]]></EmailAddress>
+<NSF_ID>000864617</NSF_ID>
+<StartDate>04/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852813670</ZipCode>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736400</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~154577</FUND_OBLG>
+</Award>
+</rootTag>

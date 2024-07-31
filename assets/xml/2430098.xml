@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Rational points on modular curves, and the geometry of arithmetic statistics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>210000.00</AwardTotalIntnAmount>
+<AwardAmount>107115</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The project will explore various topics within number theory and algebraic geometry. These are ancient areas of inquiry rooted in very basic questions about solving polynomial equations and  motivated by concrete applications. For example, the Greek astronomer Apollonius of Perga (240-190BC) developed his theory of conics and ellipses to facilitate the study of Astronomy. Questions about numbers and shapes still remain central to the frontier of mathematical research, and this project has a particular emphasis on using modern technical tools to study classical problems. The project includes problems accessible to undergraduates and graduate students, and includes efforts including substantial student focused conference organization (such as the Arizona Winter School).&lt;br/&gt;&lt;br/&gt;Mazur's torsion and isogeny theorems are cornerstones of arithmetic geometry, and arithmetic statistics is an old field full of classical problems. In recent years both areas have enjoyed an influx of new ideas and progress, especially via ideas from the geometry of numbers, moduli spaces, algebraic topology, computational number theory, and more. In particular, this project will study Mazur's ``Program B'', higher degree torsion on elliptic curves, a generalization of the Batyrev--Manin and Malle conjectures to stacks (in a sense, an interpolation of these conjectures), and non-abelian (and infinite degree) Cohen--Lenstra heuristics (and, in the function field case, theorems). Each of these sub-projects will introduced new methods and toolkits/frameworks that are expected to be broadly useful, and suggests numerous open problems and new directions for research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2430098</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Zureick-Brown</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David M Zureick-Brown</PI_FULL_NAME>
+<EmailAddress><![CDATA[dzureickbrown@amherst.edu]]></EmailAddress>
+<NSF_ID>000577368</NSF_ID>
+<StartDate>04/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Amherst College]]></Name>
+<CityName>AMHERST</CityName>
+<ZipCode>010022234</ZipCode>
+<PhoneNumber>4135422804</PhoneNumber>
+<StreetAddress><![CDATA[155 S PLEASANT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KDRLUT71AFM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AMHERST COLLEGE, TRUSTEES OF</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Amherst College]]></Name>
+<CityName>AMHERST</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>010022234</ZipCode>
+<StreetAddress><![CDATA[155 S PLEASANT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~37130</FUND_OBLG>
+<FUND_OBLG>2024~69985</FUND_OBLG>
+</Award>
+</rootTag>

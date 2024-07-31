@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: P4Climate--A Paleo Perspective on the Links between Climate and Food Security]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>185453.00</AwardTotalIntnAmount>
+<AwardAmount>185453</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mea S. Cook</SignBlockName>
+<PO_EMAI>mcook@nsf.gov</PO_EMAI>
+<PO_PHON>7032927306</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project draws on recent community efforts in data synthesis, the development of open-source software for climate field reconstructions, and advances in deep learning to quantitatively assess shifts in maize production in North America over the past 1,200 years by merging paleoclimate, weather generation, and crop modelling. Such shifts were influenced by changes in atmospheric carbon dioxide, water stress, crop genetics and management, yet studies on the degree of control of these variables on maize production are circumscribed to the last 100 years.  Notably, the time period 800 to 2000 years ago brackets prolonged periods of droughts, termed megadroughts due to their duration. These megadroughts are unrivaled in the instrumental record, but similar events could emerge under climate change scenarios. Understanding the impacts of such potential droughts is crucial for addressing future food production challenges.&lt;br/&gt;&lt;br/&gt;Progress on quantitative crop modeling using paleoclimate scenarios pertinent to future climate impacts has been difficult, in part, due to computationally inefficient downscaling techniques. This project, however, leverages recent data synthesis and modeling efforts, the development of toolboxes for climate field reconstructions, as well as advances in machine-learning based downscaling methods, to provide quantitative, sub-seasonally resolved, and high-resolution output relevant for quantitative regional agriculture modeling.&lt;br/&gt;&lt;br/&gt;The potential Broader Impacts include using the research framework to reconstruct hydrology, water resources and ecological conditions from the past. The project has the potential to inform agricultural changes in a future warmer world and it supports substantial activities for sharing methodologies with STEM-pipeline communities, from high-school through early-career scholars, by leveraging a variety of existing educational programs, including new workshops and hackathons on machine/deep learning technologies in paleoclimatology. The plan for open access of data is more comprehensive than most, incorporating data products, methods and code, as well as commitment to open-access publication.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402618</AwardID>
+<Investigator>
+<FirstName>Deborah</FirstName>
+<LastName>Khider</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Deborah Khider</PI_FULL_NAME>
+<EmailAddress><![CDATA[khider@usc.edu]]></EmailAddress>
+<NSF_ID>000798334</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900890701</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress><![CDATA[3720 S FLOWER ST FL 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>Marina del Rey</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>902926611</ZipCode>
+<StreetAddress><![CDATA[4676 Admiralty Way]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>225Y00</Code>
+<Text>P4CLIMATE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7754</Code>
+<Text>CLIMATE VARIABILITY &amp; CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~185453</FUND_OBLG>
+</Award>
+</rootTag>

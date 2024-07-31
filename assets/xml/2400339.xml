@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Computationally Accelerated Discovery of Catalysts for Electrification of the Nitrogen Cycle]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>535830.00</AwardTotalIntnAmount>
+<AwardAmount>535830</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michel Dupuis</SignBlockName>
+<PO_EMAI>mdupuis@nsf.gov</PO_EMAI>
+<PO_PHON>7032922919</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Catalysis Program in the Division of Chemistry, Professor Charles Musgrave and his team at the University of Colorado-Boulder will use computational quantum chemical methods and machine learning to discover new electrocatalysts for carbon-free fertilizer synthesis.  A significant shift to carbon-free fertilizer production could be on the horizon that would enable feeding the future population of the world using sustainable processes. Musgrave and his research group aims to accelerate this transformation by focusing on the synthesis of ammonia and ammonium nitrate, crucial components of fertilizers, through carbon-neutral electrochemical processes driven by renewable energy. By leveraging cutting-edge quantum chemical computational methods, Musgrave aims to accelerate the discovery and design of novel electrocatalysts that are essential for revolutionizing fertilizer production. Notably, this approach not only aims to enhance fertilizer synthesis but also to reduce nitrate levels, addressing the pressing issue of water contamination in global aquatic systems. Through the meticulous exploration of tens of thousands of candidate catalyst materials, the Musgrave research group aims to discover the key principles that govern the performance of electrocatalysts. This research has the potential to impact a wide array of electrocatalytic processes and will help in educating the future workforce in the increasingly important area of electrocatalysis. &lt;br/&gt;&lt;br/&gt;The central goal of this project is to accelerate the electrocatalytic carbon-neutral synthesis of ammonia and ammonium nitrate using renewable energy, with a particular focus on breaking the scaling relations that have long constrained electrocatalytic nitrogen reduction, nitrate reduction, and nitrogen oxidation reactions. To do this, the project will utilize grand canonical density functional theory methods that provide a quantum mechanical description of the electrified interface. This approach was chosen because it enables a fundamental and accurate description of electrochemical processes that occur at the electrocatalyst interface and how these processes change with the applied bias. These studies have the potential to enable a deeper understanding of the intricate processes underlying electrocatalysis. By delving into the electronic structure of electrocatalysts and their response to the applied potential, this research aims to uncover key insights into reaction energetics, relative kinetics, and the potential of unique materials to break scaling relations. The project scope encompasses a diverse range of materials within the binary and Chevrel chemical spaces, with the aim of facilitating the prediction of activity trends across various compositions and potentials. This comprehensive approach is intended to not only shed light on the transferability of scaling principles across different reactions and materials spaces,  but also to inform the development of other electrocatalytic chemistries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400339</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Musgrave</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles B Musgrave</PI_FULL_NAME>
+<EmailAddress><![CDATA[charles.musgrave@colorado.edu]]></EmailAddress>
+<NSF_ID>000469825</NSF_ID>
+<StartDate>04/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress><![CDATA[3100 MARINE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 481 572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>BOULDER</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803090001</ZipCode>
+<StreetAddress><![CDATA[3100 MARINE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688400</Code>
+<Text>Chemical Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090Z</Code>
+<Text>CAS-Critical Aspects of Sustainability</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~535830</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CICI: UCSS: Safeguarding AI in Bioinformatics: Enhancing Cybersecurity in Biological Data Infrastructure]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>559860.00</AwardTotalIntnAmount>
+<AwardAmount>559860</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rob Beverly</SignBlockName>
+<PO_EMAI>rbeverly@nsf.gov</PO_EMAI>
+<PO_PHON>7032927068</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Antimicrobial peptides and proteins (AMPs) play a critical role in enhancing food safety, livestock health, and agricultural productivity. However, traditional methods for discovering and optimizing AMPs are inefficient, costly, and technically demanding. The integration of artificial intelligence (AI) and bioinformatics has revolutionized this process, but the reliance on large, often unverified datasets introduces significant cybersecurity risks. Manipulated or erroneous data can lead to costly and time-consuming setbacks. This project develops an automated framework for the security assessment of training data in bioinformatics, particularly focusing on AMPs. The framework evaluates both the sequence and functionality of AMPs, considering the costs associated with laboratory validation experiments. This effort enhances the reliability of computational predictions, reduces the need for costly wet-lab validations, and fosters a culture of security-mindedness within the scientific community. Additionally, it creates an open-source dataset focused on AMPs functionality security and an online platform for dataset evaluation and security education.&lt;br/&gt;&lt;br/&gt;The project has two key tasks: 1) model-driven low-quality data filtering and 2) data poisoning vulnerability exploration and defenses. By developing a novel graph model for analyzing AMPs structures and compiling an open-source dataset for AI training, this project automates security assessments, significantly enhancing data integrity and security against both inadvertent and malicious data vulnerabilities. This research advances bioinformatics by providing robust cybersecurity tools for AMPs research and other peptide/protein research, bridging gaps in data security, and fostering safer, more reliable scientific collaborations. The open-source dataset and automated data verification framework democratizes data access and innovation in bioinformatics. The project also emphasizes community engagement and education on cybersecurity in cyberinfrastructure to promote the advancement of health, prosperity, and welfare through scientific research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419880</AwardID>
+<Investigator>
+<FirstName>Yonghui</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yonghui Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[yonghui@ksu.edu]]></EmailAddress>
+<NSF_ID>000578174</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiaolong</FirstName>
+<LastName>Guo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaolong Guo</PI_FULL_NAME>
+<EmailAddress><![CDATA[guoxiaolong@ksu.edu]]></EmailAddress>
+<NSF_ID>000801435</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kaichen</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kaichen Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[kaicheny@mtu.edu]]></EmailAddress>
+<NSF_ID>000894131</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Kansas State University]]></Name>
+<CityName>MANHATTAN</CityName>
+<ZipCode>665062504</ZipCode>
+<PhoneNumber>7855326804</PhoneNumber>
+<StreetAddress><![CDATA[1601 VATTIER STREET]]></StreetAddress>
+<StreetAddress2><![CDATA[103 FAIRCHILD HALL]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CFMMM5JM7HJ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>KANSAS STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Kansas State University]]></Name>
+<CityName>MANHATTAN</CityName>
+<StateCode>KS</StateCode>
+<ZipCode>665062504</ZipCode>
+<StreetAddress><![CDATA[1601 VATTIER STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802700</Code>
+<Text>Cybersecurity Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8027</Code>
+<Text>Cyber Secur - Cyberinfrastruc</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~559860</FUND_OBLG>
+</Award>
+</rootTag>

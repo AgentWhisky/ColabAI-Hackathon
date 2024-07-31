@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: Microwave Spectroscopy of Engineered Triplet Superconductors]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>249889.00</AwardTotalIntnAmount>
+<AwardAmount>249889</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mun Chan</SignBlockName>
+<PO_EMAI>mchan@nsf.gov</PO_EMAI>
+<PO_PHON>7032927104</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Non-Technical Description&lt;br/&gt;Superconductors are commonly defined as materials which support the flow of electrons (i.e. a charge current) without any resistance. Electrons carry a magnetic moment – from their spin – as well as a charge, so it is natural to ask whether magnetization currents or waves might also flow unimpeded through a superconductor.  In the majority of superconductors, the answer is negative, since the spins in the electron pairs responsible for superconductivity are anti-aligned and no net spin transport can occur. However, theory predicts that electrons could also pair up in “spin-symmetric” configurations, creating unusual new superconducting states with unique applications in spin transport, quantum memory and topologically-protected quantum logic. Spin-symmetric superconductivity is challenging to achieve (usually being quenched by disorder or static magnetic ordering) and hard to unambiguously distinguish from conventional pairing. The goal of this work is to explore new methods for stabilizing spin-symmetric pairing in a range of atomically thin multilayers comprising superconductors, heavy metallic elements and magnetic materials.  New experimental apparatus – a low-temperature microwave transmission/absorption spectrometer – is being built to detect long-range spin transport in these materials and hence facilitate identification of the exact pairing symmetry. Students trained within this project are ideally qualified to join the local workforce for the new quantum computing TechHub recently established in the Mountain West.  The principal investigator is also strengthening links with a local Tribal-serving community college in Wyoming, by offering four summer research internships which explicitly target Native American undergraduates.&lt;br/&gt; &lt;br/&gt;Technical Description:&lt;br/&gt;Superconductivity is mediated by electron pairs, which possess antisymmetric (singlet) spins in the vast majority of cases. There is no fundamental barrier to spin-symmetric (triplet) pairing, but the conditions for its emergence are rarely satisfied in bulk materials. However, there is a growing recognition that two phenomena more familiar to spintronics researchers – chiral magnetism and spin-orbit coupling – may hold the keys to developing artificial multilayers which host stable spin-symmetric pairs. Achieving such control over the superconducting order parameter opens the door to topological superconductivity and/or dissipationless spin transport, with hotly-anticipated applications in quantum and classical information. Motivated by these targets, this project explores three distinct approaches to modify the pairing symmetry of ultra-thin film superconducting heterostructures grown by electron-beam evaporation: (1) Generating odd-frequency s-wave triplet pairs from spin-mixing and rotation in superconductor/non-collinear magnet hybrid multilayers; (2) Inducing chiral p-wave pairing by synthetic spin-orbit and Zeeman fields from a proximate magnetic skyrmion lattice; (3) Creating odd-parity triplet pairs via Rashba spin-orbit coupling and broken spatial inversion symmetry at superconducting heterointerfaces.  These unconventional pairing states are distinguishable via microwave spectroscopic techniques, with the construction of a unique new broadband transmission/absorption probe a priority for the project. Enhanced spin-pumping and macroscopic spin transport allow inference of the presence of triplet pairing, while nodal odd-parity order parameters can be detected from the temperature-dependent superfluid density. Demonstrating the emergence and resilience of these exotic pairing symmetries in the presence of strong spin-orbit coupling can accelerate their adoption by quantum technologies, especially in material platforms for topological quantum computing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419041</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Petrovic</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander P Petrovic</PI_FULL_NAME>
+<EmailAddress><![CDATA[A.P.Petrovic@uwyo.edu]]></EmailAddress>
+<NSF_ID>000985542</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Wyoming]]></Name>
+<CityName>LARAMIE</CityName>
+<ZipCode>820712000</ZipCode>
+<PhoneNumber>3077665320</PhoneNumber>
+<StreetAddress><![CDATA[1000 E UNIVERSITY AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wyoming</StateName>
+<StateCode>WY</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WY00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FDR5YF2K32X5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WYOMING</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FDR5YF2K32X5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wyoming]]></Name>
+<CityName>LARAMIE</CityName>
+<StateCode>WY</StateCode>
+<ZipCode>820712000</ZipCode>
+<StreetAddress><![CDATA[1000 E UNIVERSITY AVE DEPARTMENT 3905]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wyoming</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WY00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>217Y00</Code>
+<Text>LEAPS-MPS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8615</Code>
+<Text>Nanoscale Devices and Systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~249889</FUND_OBLG>
+</Award>
+</rootTag>

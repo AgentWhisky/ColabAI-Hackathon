@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: ADAPTIVE PERIMETRY FOR HEAD MOUNTED DEVICES]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>275000.00</AwardTotalIntnAmount>
+<AwardAmount>275000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the development of a novel tool for the diagnosis and monitoring of functional visual field (VF) defects due to glaucoma. Glaucoma, a leading cause of blindness, is asymptomatic in its early stages and challenging to diagnose, often resulting in late detection. 3 million Americans have a diagnosis of glaucoma, and this number is expected to double by 2050 contributing to a market size for treatment exceeding $7 billion by 2028. Early identification of disease and disease progression is key in preventing vision loss. Using a novel testing method, this technology will capture VF changes with higher sensitivity and specificity than the current standard of care. If successful, the proposed solution will allow for earlier detection of glaucoma and glaucomatous progression and facilitate earlier clinical intervention by eye care providers, reducing the overall burden of disease and incidence of irreversible vision loss.    &lt;br/&gt;   &lt;br/&gt;This Small Business Innovation Research Phase I project aims to improve the early detection of vision loss due to glaucoma through the development of fully automated adaptive perimetry software. Conventional VF testing, known as static automated perimetry (SAP), lacks sensitivity, often leading to late diagnosis of glaucoma and irreversible vision loss. With SAP, defects can only be detected when they affect at least 3 degrees of the visual field, providing only a macro understanding of vision loss. This project aims to develop a fully automated adaptive perimetry test that combines the uniformity and standardization of SAP with greater precision and individualization of an adaptive test strategy. This novel testing algorithm will intelligently adjust stimuli based on individual responses, increasing the sensitivity and specificity of early defect detection, and mapping functional deficits to retinal anatomical defects. Objectives include mathematical modeling of the retinal pathophysiology of glaucoma, development of spatial analysis for real-time test location determination, development of methods for active correction of fixational errors using eye-tracking, and determination of suprathreshold contrasts. &lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415015</AwardID>
+<Investigator>
+<FirstName>Lama</FirstName>
+<LastName>Al-Aswad</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lama A Al-Aswad</PI_FULL_NAME>
+<EmailAddress><![CDATA[lalaswad@envisionhealthtech.com]]></EmailAddress>
+<NSF_ID>000867954</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[ENVISION HEALTH TECHNOLOGIES INC]]></Name>
+<CityName>BRONXVILLE</CityName>
+<ZipCode>107085003</ZipCode>
+<PhoneNumber>9176238517</PhoneNumber>
+<StreetAddress><![CDATA[16 STURGIS RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y2HZLWDKEDZ1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ENVISION HEALTH TECHNOLOGIES INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[ENVISION HEALTH TECHNOLOGIES INC]]></Name>
+<CityName>Brooklyn</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>112261786</ZipCode>
+<StreetAddress><![CDATA[760 Parkside Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>066E</Code>
+<Text>INSTRUMENTATION &amp; DIAGNOSTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~275000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Place-Based Platform for STEM Career Discovery]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>274428.00</AwardTotalIntnAmount>
+<AwardAmount>274428</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lindsay Portnoy</SignBlockName>
+<PO_EMAI>lportnoy@nsf.gov</PO_EMAI>
+<PO_PHON>7032928848</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader/commercial impact of this SBIR Phase I project aims to address the persistent global skilled workforce shortage in STEM-based careers by facilitating corresponding career discovery in priority youth populations, outside of traditional K12 settings, using mobile gamification with a personalized, AI-generated career recommendation engine. Building on the foundation of game-based pedagogy that inspires and engages a diverse population, the AI-enhanced gaming platform will educate and guide youth toward local, meaningful career paths in advanced manufacturing relevant to their in-game proficiencies, personal preferences, and location. This geo-specificity is imperative in breaking cycles of poverty and keeping communities thriving. The core of this innovation lies in a synergistic combination of key AI technologies to provide unbiased, personally relevant learning experiences with actionable career guidance and mentorship through engaging and adaptive game mechanics. The insights gleaned from this endeavor will extend the project’s impact beyond advanced manufacturing careers to additional STEM industries in an effort to close social equity and knowledge gaps and foster a more diverse workforce around the world. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project utilizes the integration of an LLM (Large Language Model) and RAG (Retrieval Augmented Generation) framework into a career gaming platform that carefully selects and provides context from controlled sources of information that the AI uses to generate personalized career guidance. Included in this innovation is the development of benchmarks where an AI-Judge, fine-tuned on the relevant data from a vector database, is leveraged to determine efficacy of the LLM to utilize knowledge in the RAG pipeline. The development of benchmarks and analytics layers around this environment creates a performance-driven closed loop system that allows for continuous improvement. Additionally, by controlling the datasets from which the AI retrieves information, this approach mitigates the risk of replicating biases and stereotypes and ensures diverse perspectives and data specifically relevant to the target. This method will also reduce computational demands, accelerate content updates, and is significantly less costly than fine-tuning a pre-trained LLM, allowing for easy adaptations of the knowledge it has access to. The combination of these adaptive technologies is poised to scale early career discovery across all STEM industries, for all youth, no matter where they live or what they look like.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423615</AwardID>
+<Investigator>
+<FirstName>Tina</FirstName>
+<LastName>Zwolinski</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tina Zwolinski</PI_FULL_NAME>
+<EmailAddress><![CDATA[cynthia@skillsgapp.com]]></EmailAddress>
+<NSF_ID>000937075</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SKILLSGAPP LLC]]></Name>
+<CityName>GREER</CityName>
+<ZipCode>296503311</ZipCode>
+<PhoneNumber>8646306670</PhoneNumber>
+<StreetAddress><![CDATA[102 E SHALLOWSTONE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SL3VQJ2BSCM1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SKILLSGAPP LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SKILLSGAPP LLC]]></Name>
+<CityName>GREER</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>296503311</ZipCode>
+<StreetAddress><![CDATA[102 E SHALLOWSTONE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1707</Code>
+<Text>ADVANCED LEARNING TECHNOLOGIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~274428</FUND_OBLG>
+</Award>
+</rootTag>

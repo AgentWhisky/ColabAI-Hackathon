@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[ECLIPSE: Ultrafast Diagnostics and Characterization of Nonequilibrium Laser-induced Filament Plasmas]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>376792.00</AwardTotalIntnAmount>
+<AwardAmount>376792</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeremiah D. Williams</SignBlockName>
+<PO_EMAI>jdwillia@nsf.gov</PO_EMAI>
+<PO_PHON>7032924687</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will use novel diagnostics and machine learning to better understand laser-induced formation of plasma filaments in air.  Laser-induced filamentation occurs when an intense laser beam travels through a medium like air and forms a self-guided, stable channel of plasma known as a filament. This happens because of a dynamical balance between the self-focusing of the laser beam, known as the Kerr effect, and the defocusing of the laser beam by the plasma.  The filament plasma is a type of nonequilibrium plasma, where the electron temperature can reach tens of thousands of kelvins, while the ion and neutral temperatures are only a few hundred kelvins. Better understanding of laser-induced filament plasmas can enable many applications, including improving combustion performance with laser ignition sources, creating new light sources for Laser-Induced Breakdown Spectroscopy, remote stand-off detection, air lasers for remote detection, and hypersonic flow control.&lt;br/&gt;&lt;br/&gt;The research project focuses on understanding the plasma dynamics of laser-induced nonequilibrium filament plasmas by various novel ultrafast diagnostic methods, including Resonantly Ionized Photoemission Thermometry (RIPT) and MUltiplexed Structure Imaging and Capture (MUSIC). Plasma kinetic models with physics informed neural network will be calibrated and validated by the experimental measurements. The goals of the project are to understand and quantify the nonequilibrium states of laser-induced filament plasmas; to broaden student participation in plasma physics research; and to integrate research with teaching to enhance students' learning experience. An associated comprehensive educational plan is poised to significantly impact the education of the next generation workforce in plasma science and engineering for both undergraduate and graduate students.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409331</AwardID>
+<Investigator>
+<FirstName>Zhili</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhili Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[zzhang24@utk.edu]]></EmailAddress>
+<NSF_ID>000526859</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960001</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress><![CDATA[201 ANDY HOLT TOWER]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FN2YCS2YAUW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TENNESSEE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>LXG4F9K8YZK5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>KNOXVILLE</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>379960001</ZipCode>
+<StreetAddress><![CDATA[201 ANDY HOLT TOWER]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124200</Code>
+<Text>PLASMA PHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>125300</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>140700</Code>
+<Text>CFS-Combustion &amp; Fire Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>090Z</Code>
+<Text>CAS-Critical Aspects of Sustainability</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>110Z</Code>
+<Text>Ecosystem Leading Innovation Plasma S&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8248</Code>
+<Text>SusChEM</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~376792</FUND_OBLG>
+</Award>
+</rootTag>

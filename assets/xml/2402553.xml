@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Torsors under Reductive Groups and Dualities for Hitchin Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tim Hodges</SignBlockName>
+<PO_EMAI>thodges@nsf.gov</PO_EMAI>
+<PO_PHON>7032925359</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The study of torsors (also known as principal bundles) began in the early 20th century by physicists as a formalism to describe electromagnetism. Later, this was extended to encompass strong and weak interactions, so that torsors became a basis for the so-called Standard Model - a physical theory describing all fundamental forces except for gravitation. The standard model predicted the existence of various particles, the last of which, called the Higgs boson, was found in a Large Hadron Collider experiment in 2012. In 1950's Fields medalist Jean-Pierre Serre recognized the importance of torsors in algebraic geometry. In his 1958 seminal paper he gave the first modern definition of a torsor and formulated a certain deep conjecture. The first part of this project is aimed at proving this conjecture, which is among the oldest unsolved foundational questions in mathematics. The second part of the project is related to the so-called Higgs bundles, which can be thought of as mathematical incarnations of the Higgs bosons. More precisely, the PI proposes to prove a certain duality for the spaces parameterizing Higgs bundles. This duality is a vast generalization of the fact that the Maxwell equations describing electromagnetic fields are symmetric with respect to interchanging electrical and magnetic fields. The duality is a part of the famous Langlands program unifying number theory, algebraic geometry, harmonic analysis, and mathematical physics. This award will support continuing research in these areas. Advising students and giving talks at conferences will also be part of the proposed activity.&lt;br/&gt;&lt;br/&gt;In more detail, a conjecture of Grothendieck and Serre predicts that a torsor under a reductive group scheme over a regular scheme is trivial locally in the Zariski topology if it is rationally trivial. This conjecture was settled by Ivan Panin and the PI in the equal characteristic case. The conjecture is still far from resolution in the mixed characteristic case, though there are important results in this direction. The PI proposes to resolve the conjecture in the unramified case; that is, for regular local rings whose fibers over the ring of integers are regular. A more ambitious goal is to prove the purity conjecture for torsors, which is, in a sense, the next step after the Grothendieck–Serre conjecture. The second project is devoted to Langlands duality for Hitchin systems, predicting that moduli stacks of Higgs bundles for Langlands dual groups are derived equivalent. This conjecture may be viewed as the classical limit of the geometric Langlands duality. By analogy with the usual global categorical Langlands duality, the PI formulates a local version of the conjecture and the basic compatibility between the local and the global conjecture. The PI will attempt to give a proof of the local conjecture based on the geometric Satake equivalence for Hodge modules constructed by the PI.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402553</AwardID>
+<Investigator>
+<FirstName>Roman</FirstName>
+<LastName>Fedorov</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roman M Fedorov</PI_FULL_NAME>
+<EmailAddress><![CDATA[fedorov@pitt.edu]]></EmailAddress>
+<NSF_ID>000601670</NSF_ID>
+<StartDate>04/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Pittsburgh]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152600001</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress><![CDATA[4200 FIFTH AVENUE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MKAGLD59JRL1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF PITTSBURGH - OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pittsburgh]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152600001</ZipCode>
+<StreetAddress><![CDATA[4200 FIFTH AVENUE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~250000</FUND_OBLG>
+</Award>
+</rootTag>

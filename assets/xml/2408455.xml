@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[National Deep Inference Fabric for Very Large Language Models]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>8993038.00</AwardTotalIntnAmount>
+<AwardAmount>2109400</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eleni Miltsakaki</SignBlockName>
+<PO_EMAI>emiltsak@nsf.gov</PO_EMAI>
+<PO_PHON>7032922972</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The National Deep Inference Fabric&lt;br/&gt;&lt;br/&gt;The National Deep Inference Fabric (NDIF) is a research computing project that will enable researchers to crack open the mysteries inside large-scale Artificial Intelligence (AI) systems. Modern large-scale AI systems such as Large Language Models have shown strong capabilities, passing a range of benchmark tests in mathematical, medical, and legal reasoning. However, because large-scale AI systems are trained automatically using massive amounts of data—instead of being designed line-by-line by a programmer—the internal workings of the current generation of AI are inscrutable to humans. Understanding how these systems work is an emerging science. But performing science on the internals of such large-scale AI systems requires substantial computational resources that are not practical at institutional scale, because a platform required to study the detailed computations of AI differs from the computing systems used for ordinary commercial deployment of AI. NDIF addresses this critical need by planning to develop a unique nationwide research computing fabric that enables scientists to perform transparent and reproducible experiments on the largest-scale open AI systems, in order to advance our nation’s understanding of their capabilities, as well as their limitations, robustness, safety issues, and impacts on human society.&lt;br/&gt;&lt;br/&gt;Led by Northeastern University in partnership with the NSF Delta AI high-performance computing cluster at the National Center for Supercomputing Applications, University of Illinois Urbana-Champaign, NDIF plans to consist of three major components. (1) A nationwide high-performance computing fabric hosting the largest open pretrained machine learning models for transparent deep inference. This National Deep Inference Fabric is a unique combination of GPU hardware with the creation of a deep network AI inference software to provide a remotely-accessible computing resource for scientists to perform detailed and reproducible experiments on large AI systems on the fabric. Once developed, the fabric will allow many scientists to efficiently and simultaneously share the same AI computing capacity to make efficient use of resources. (2) A novel open-source research software library to be created that enables scientists to develop and deploy new research methods on AI models by creating intervention code that inspects, modifies and customizes AI model computations. This library will help enables reproducible scientific experiments to be defined and executed on both the shared large-scale fabric and on a scientist’s own smaller-scale computers. (3) A nationwide training program to equip researchers and students in every part of the country to utilize NDIF to unlock critical research problems in every field impacted by large-scale AI. Developed together with the Public Interest Technology University Network, a consortium of 63 universities and colleges, the NDIF training program will consist of online modules, course materials, and in-person workshops hosted at multiple sites throughout the United States. It will create a network of experts in a range of fields impacted by AI, provide embedded expertise within their own institutions, and help create a next-generation workforce equipped to understand and harness the mechanisms and capabilities of the systems at the forefront of artificial intelligence.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.070, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2408455</AwardID>
+<Investigator>
+<FirstName>Arjun</FirstName>
+<LastName>Guha</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arjun Guha</PI_FULL_NAME>
+<EmailAddress><![CDATA[a.guha@northeastern.edu]]></EmailAddress>
+<NSF_ID>000633150</NSF_ID>
+<StartDate>05/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Bell</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonathan Bell</PI_FULL_NAME>
+<EmailAddress><![CDATA[j.bell@northeastern.edu]]></EmailAddress>
+<NSF_ID>000730377</NSF_ID>
+<StartDate>05/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Bau</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Bau</PI_FULL_NAME>
+<EmailAddress><![CDATA[d.bau@northeastern.edu]]></EmailAddress>
+<NSF_ID>000870464</NSF_ID>
+<StartDate>05/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Byron</FirstName>
+<LastName>Wallace</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Byron Wallace</PI_FULL_NAME>
+<EmailAddress><![CDATA[b.wallace@northeastern.edu]]></EmailAddress>
+<NSF_ID>000627515</NSF_ID>
+<StartDate>05/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carla</FirstName>
+<LastName>Brodley</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carla E Brodley</PI_FULL_NAME>
+<EmailAddress><![CDATA[c.brodley@neu.edu]]></EmailAddress>
+<NSF_ID>000698246</NSF_ID>
+<StartDate>05/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northeastern University]]></Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress><![CDATA[360 HUNTINGTON AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HLTMVS2JZBS6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHEASTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northeastern University]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021155005</ZipCode>
+<StreetAddress><![CDATA[360 HUNTINGTON AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>289000</Code>
+<Text>CISE Research Resources</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>306Y00</Code>
+<Text>TIP-CHIPS KTA-1 AI-ML</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>723100</Code>
+<Text>CYBERINFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>735900</Code>
+<Text>CCRI-CISE Cmnty Rsrch Infrstrc</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~2109400</FUND_OBLG>
+</Award>
+</rootTag>

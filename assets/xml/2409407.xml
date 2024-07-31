@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Developing an Open Source, GPU-enabled Code for Multi-messenger Compact Mergers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>259995.00</AwardTotalIntnAmount>
+<AwardAmount>65001</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Gravitational wave observations from the LIGO-Virgo-KAGRA (LVK) collaboration are driving a surge in astronomical understanding and the advancement of science. This progress relies on continued theoretical and numerical work studying the mergers of compact objects (black holes and neutron stars) which connects underlying physical processes to gravitational, electromagnetic, and neutrino observables. This award supports studies of the high energy disruption of neutron stars in such mergers with state-of-the-art neutrino transport via the development of an open-source code that leverages the tremendous computational power of GPU computing.&lt;br/&gt;&lt;br/&gt;This effort seeks to advance multimessenger science by developing an open-source, GPU-enabled, general relativistic, magnetohydrodynamics code with neutrino transport and using it to study binary neutron star and black hole--neutron star mergers.  The demands on numerical solutions increase as observations progress: higher phase accuracy, longer simulations, multi-scale physics with magnetic and neutrino effects, and wider exploration of the large parameter space. To satisfy such demands, this award works to develop an open-source, state-of-the-art code to model compact object mergers with the full panoply of physics that runs on the power-efficient, large GPU-enabled supercomputers being built today and designed for tomorrow.  Studies of BNS and BH-NS mergers will help build wave templates, steer designs and upgrades of future gravitational wave detectors, and extract science from LVK observations and those of future detectors.  Such models may help direct the best observational resources with concurrent and coordinated searches among multi-messenger detectors.  The work will help: constrain the nuclear equation of state, constrain fundamental physics, elucidate details about the source of r-process elements and the conditions needed for a kilonova, and improve understanding of the engine underlying sGRBs.  This work will help to understand some of the most energetic and intriguing processes in the universe attracting interest from the wider public. This work will promote the training of students in STEM, including high school and undergraduate students.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409407</AwardID>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Liebling</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven L Liebling</PI_FULL_NAME>
+<EmailAddress><![CDATA[steve.liebling@liu.edu]]></EmailAddress>
+<NSF_ID>000421110</NSF_ID>
+<StartDate>07/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Long Island University]]></Name>
+<CityName>GREENVALE</CityName>
+<ZipCode>115481319</ZipCode>
+<PhoneNumber>7184881413</PhoneNumber>
+<StreetAddress><![CDATA[700 NORTHERN BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QNAVQDR2HN55</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LONG ISLAND UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QNAVQDR2HN55</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Long Island University]]></Name>
+<CityName>GREENVALE</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>115481319</ZipCode>
+<StreetAddress><![CDATA[700 NORTHERN BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124400</Code>
+<Text>Gravity Theory</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>069Z</Code>
+<Text>Windows on the Universe (WoU)</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~65001</FUND_OBLG>
+</Award>
+</rootTag>

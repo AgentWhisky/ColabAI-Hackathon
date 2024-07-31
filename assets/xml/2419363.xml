@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: Workshop on Computational and Applied Enumerative Geometry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>22500.00</AwardTotalIntnAmount>
+<AwardAmount>22500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+<PO_EMAI>mdouglas@nsf.gov</PO_EMAI>
+<PO_PHON>7032922467</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The "Workshop on Computational and Applied Enumerative Geometry" will be held June 3 to June 7, 2024 at the Fields Institute in Toronto, ON, Canada. Enumerative geometry is the study of a particular class of mathematical problems, called enumerative problems, which are fundamental to STEM fields including mathematics, particle physics, robotics, and computer vision. The main goal of this workshop is to unite experts working on problems related to enumerative geometry to increase dialogue between theory and application. There will be several talks on state-of-the-art research in computational and applied enumerative geometry, software demonstrations, and time to discuss open problems. The exchange of ideas will inform experts as they continue devising computational investigations of enumerative problems going forward. The grant supports the participation of fifteen US-based participants in the workshops. &lt;br/&gt;&lt;br/&gt;Classically, an enumerative problem asks how many geometric objects have a prescribed position with respect to other fixed geometric objects. Famous examples include the problems of (a) 2 lines meeting four lines, (b) 27 lines on a cubic surface, and (c) 3264 conics tangent to five conics in the plane. A modern definition of an enumerative problem is a system of polynomial equations in variables and parameters with finitely many solutions given fixed generic parameters.  Counting solutions to such a problem is the tip of the iceberg.  Beyond enumeration lie questions of symmetries, solvability, real behavior, and computation.  Techniques from a broad range of disciplines lend themselves to the creation of algorithms and software designed to answer these questions. "Computational Enumerative Geometry" refers to this approach of using computers to solve, experiment with, and prove theorems about, enumerative problems. The workshop website is  http://www.fields.utoronto.ca/activities/23-24/enumerative-geometry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419363</AwardID>
+<Investigator>
+<FirstName>Luis</FirstName>
+<LastName>Garcia Puente</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Luis D Garcia Puente</PI_FULL_NAME>
+<EmailAddress><![CDATA[lgarciapuente@coloradocollege.edu]]></EmailAddress>
+<NSF_ID>000525219</NSF_ID>
+<StartDate>05/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nickolas</FirstName>
+<LastName>Hein</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nickolas J Hein</PI_FULL_NAME>
+<EmailAddress><![CDATA[nhein@benedictine.edu]]></EmailAddress>
+<NSF_ID>000699464</NSF_ID>
+<StartDate>05/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Taylor</FirstName>
+<LastName>Brysiewicz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Taylor Brysiewicz</PI_FULL_NAME>
+<EmailAddress><![CDATA[tbrysiew@uwo.ca]]></EmailAddress>
+<NSF_ID>000879148</NSF_ID>
+<StartDate>05/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Colorado College]]></Name>
+<CityName>COLORADO SPRINGS</CityName>
+<ZipCode>809033243</ZipCode>
+<PhoneNumber>7193896318</PhoneNumber>
+<StreetAddress><![CDATA[14 E CACHE LA POUDRE ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VADVPKVXRVW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE COLORADO COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NTWAFAJ1JDX6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Colorado College]]></Name>
+<CityName>COLORADO SPRINGS</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>809033243</ZipCode>
+<StreetAddress><![CDATA[14 E CACHE LA POUDRE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~22500</FUND_OBLG>
+</Award>
+</rootTag>

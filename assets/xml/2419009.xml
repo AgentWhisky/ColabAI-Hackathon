@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Robust Experimental Designs for Measuring Spillover Effects in Large Networked Populations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>350000.00</AwardTotalIntnAmount>
+<AwardAmount>350000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cheryl Eavey</SignBlockName>
+<PO_EMAI>ceavey@nsf.gov</PO_EMAI>
+<PO_PHON>7032927269</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This research project will investigate the role of networks in influencing the outcomes of interventions across various domains, such as education, marketing, and tax decisions. Traditional analytic approaches have depended heavily on statistical modeling assumptions. These models have limitations due to the complexity of relationships among individuals. This project will focus on randomized experiments that incorporate network considerations into the experimental design. New methodologies will be developed to study network effects and to design more effective interventions. The experimental methods will be helpful to stakeholders in economics, public practice, and social sciences, who are regularly faced with complex decision questions in networked populations. Open-source software will be developed to implement the new methods. The investigators will integrate the research program with graduate and undergraduate educational initiatives and outreach programs in STEM, particularly targeting underrepresented minorities. Given that the new methods will not rely on complex modeling assumptions, they should be a good resource for classroom use, enabling educators to effectively integrate the methods into courses related to economics and public practice. &lt;br/&gt;&lt;br/&gt;This research project will develop methods and software that enable robust randomization-based inference for various problems in estimation of network effects. Traditional methods tend to employ complex models that make strong assumptions about the network data dependencies and their asymptotics. Other experimental methods have employed clustering algorithms, but these are not easily scalable and often cannot generate clean and interpretable practical results. Randomization tests are finite-sample valid under minimal assumptions and can thus offer robust recommendations. Additionally, they can scale effectively to large-scale problems through simple permutation procedures. This project will employ such procedures both to understand the role of networks in shaping optimal decision design and to quantify the magnitude of spillover effects compared to the direct effects of decisions. Such analysis is critical because decisions might benefit certain individuals while inadvertently harming others. The new methods will aim to identify the key characteristics of networks that influence these spillover effects, such as whether they are positive or negative, localized or widespread across the network, or disproportionately affecting individuals from certain groups.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419009</AwardID>
+<Investigator>
+<FirstName>Panagiotis</FirstName>
+<LastName>Toulis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Panagiotis Toulis</PI_FULL_NAME>
+<EmailAddress><![CDATA[panos.toulis@chicagobooth.edu]]></EmailAddress>
+<NSF_ID>000779556</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Best</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael C Best</PI_FULL_NAME>
+<EmailAddress><![CDATA[michael.best@columbia.edu]]></EmailAddress>
+<NSF_ID>000801843</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUE9HKT2CLC9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ZUE9HKT2CLC9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606375418</ZipCode>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>133300</Code>
+<Text>Methodology, Measuremt &amp; Stats</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>147Y00</Code>
+<Text>Human Networks &amp; Data Sci Res</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~350000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRII: HCC: RUI: Visualization-Based Multimodal Data Analysis for Qualitative Research]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>174734.00</AwardTotalIntnAmount>
+<AwardAmount>98973</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+<PO_EMAI>dcosley@nsf.gov</PO_EMAI>
+<PO_PHON>7032928832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded in whole or in part under the American Rescue Plan Act of 2021 (Public Law 117-2). &lt;br/&gt;&lt;br/&gt;The goal of this project is to establish fundamental visual analysis strategies that integrate multimodal data and human-in-the-loop machine learning techniques to promote and support a transparent and trustworthy qualitative data analysis process. Qualitative researchers collect and analyze non-numerical data to understand people's interactions, opinions, and experiences. The presence of potential bias in qualitative research is a well-recognized problem, but research to increase transparency and trustworthiness in the analysis phases have been limited. This research develops a novel role for visualizations in addressing current challenges in qualitative data analysis through the integration of text analysis and multimodal data extraction. Given the prevalent use of qualitative research in academia, qualitative data analysis without transparency and verification can have far-reaching negative impacts such as discriminating policies, suboptimal patient-care, and reinforced stigmas. Thus, qualitative data analysis should be conducted in a rigorous manner to yield trustworthy and meaningful results. The techniques developed will significantly contribute to the data analysis, visualization, and human-computer interaction fields.&lt;br/&gt;&lt;br/&gt;Despite advances in qualitative data analysis software, there are three key dilemmas in the current qualitative research process: the cognitive burden resulting from the vast amount of data, subjectivity and potential bias that are introduced by the researcher, and the underutilization of multimodal data containing important non-verbal cues such as vocal tones and facial expressions. The specific objective of this proposal is to identify and demonstrate: (1) how text analysis techniques can be combined with visualization and human feedback to alleviate cognitive burden and lessen bias; and, (2) how visual summaries of audio features can promote the incorporation of non-verbal cues in qualitative analysis. An open-source visualization webtool supporting these enhanced analysis techniques will be developed using an iterative, user-centered design methodology. Prospective users with qualitative analysis experience will be selected for a participatory design session, usability tests, and a field study. The field study will be grounded in the case of sickle cell disease, a topic in which stigmatization of patients is common.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402428</AwardID>
+<Investigator>
+<FirstName>Ha-Kyung</FirstName>
+<LastName>Kong</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ha-Kyung Kong</PI_FULL_NAME>
+<EmailAddress><![CDATA[hxkics@rit.edu]]></EmailAddress>
+<NSF_ID>000859017</NSF_ID>
+<StartDate>02/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Rochester Institute of Tech]]></Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146235603</ZipCode>
+<PhoneNumber>5854757987</PhoneNumber>
+<StreetAddress><![CDATA[1 LOMB MEMORIAL DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J6TWTRKC1X14</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ROCHESTER INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rochester Institute of Tech]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146235603</ZipCode>
+<StreetAddress><![CDATA[1 LOMB MEMORIAL DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736700</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~98973</FUND_OBLG>
+</Award>
+</rootTag>

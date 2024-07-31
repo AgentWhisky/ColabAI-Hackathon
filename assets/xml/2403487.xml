@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: A Comprehensive Assessment of Over-Ocean Tropical Cyclone Weakening]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>529705.00</AwardTotalIntnAmount>
+<AwardAmount>529671</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chungu Lu</SignBlockName>
+<PO_EMAI>clu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927110</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The expanding population along U.S. coastlines who are at risk from hurricanes makes it essential to accurately predict the future behavior of these storms with sufficient lead time to enact appropriate, cost-effective actions that protect life and property. Much work has investigated hurricane intensification, but comparatively little effort has been invested in studying hurricanes that weaken while still over the ocean despite public perception of expected impacts being tied to hurricane category, such as Hurricane Florence in 2018. This project will explore the nature of hurricanes that weaken away from land, as well as characteristics of the near-storm environment, to quantify how over-ocean weakening varies across all tropical basins. The research will then investigate hurricanes that weaken on approach to land in order to evaluate how nearby land modifies these weakening pathways and facilitate advances in forecasting such events. Open-source programming tools developed by this project will be shared to ensure scientific transparency and expand accessibility to more users.&lt;br/&gt;&lt;br/&gt;Vertical wind shear can weaken a tropical cyclone, yet a range of shear magnitudes is associated with tropical cyclone weakening. Enhanced atmospheric moisture supports deep convection, but the location of this enhanced moisture relative to the storm center appears to affect the storm’s intensity. To interrogate the physical processes responsible for tropical cyclone weakening in these varied environments, this study will assess the spatial distribution of near-storm environmental characteristics and the relative timing of changes in those characteristics within a storm-relative framework for over-ocean weakening events in all tropical basins. The latest global reanalysis will be investigated for environmental fields, and spatial assessment of convection and its evolution over time—revealed by geostationary infrared imagery—will highlight the tropical cyclone’s response to its environment. Beyond advancing fundamental understanding of these storms, this project will craft a tropical cyclone analysis toolkit comprised of open-source Python tools to accelerate time-to-science for the broader research community. Toolkit examples will be developed and tested in the classroom to support teaching of tropical cyclone dynamics and programming practices, leading to modules that can be incorporated into existing curricula across institutions.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by NSF Physical and Dynamic Meteorological program (PDM), and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/15/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>11/15/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403487</AwardID>
+<Investigator>
+<FirstName>Kimberly</FirstName>
+<LastName>Wood</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kimberly M Wood</PI_FULL_NAME>
+<EmailAddress><![CDATA[kimwood@arizona.edu]]></EmailAddress>
+<NSF_ID>000652934</NSF_ID>
+<StartDate>11/15/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Arizona]]></Name>
+<CityName>TUCSON</CityName>
+<ZipCode>85721</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress><![CDATA[845 N PARK AVE RM 538]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ED44Y3W6P7B9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ARIZONA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Arizona]]></Name>
+<CityName>TUCSON</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>85721</ZipCode>
+<StreetAddress><![CDATA[1133 E James Rogers Way]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152500</Code>
+<Text>Physical &amp; Dynamic Meteorology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~529671</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: A Novel integral-proportional and proportional-integral controller for inverter-based microgrids]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaime A. Camelio</SignBlockName>
+<PO_EMAI>jcamelio@nsf.gov</PO_EMAI>
+<PO_PHON>7032922061</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is the development of a controller for voltage source converters used in renewable energy such as wind energy and solar photovoltaics. This innovative controller is designed to enhance the integration of intermittent renewable energy resources into the electric power grid, including microgrids and smart grids. By enabling voltage source converters to operate over wider ranges, the controller allows for a more effective utilization of energy resources, which is crucial for achieving the U.S. goals of 100% carbon pollution-free electricity by 2035 and a net-zero carbon economy by 2050. The introduction of this controller will reduce the need for high capital investments in power system reinforcements, thereby accelerating the transition to a sustainable, zero-carbon energy future. The application benefits various stakeholders, including manufacturers of grid-interfaced voltage source converters, renewable energy producers, and power utility companies, all of which are pivotal in advancing the nation's clean energy objectives.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of a blended integral proportional and proportional integral controller, which exhibits distinct advantages in stability margin and transient response when compared to existing voltage and current source controllers for voltage source converters renewable energy systems. The technology combines the advanced features of both proportional integral-based and integral proportional-based controllers resulting in improved system safety, security and reliability. The research underlying this project includes the creation of versatile two-degrees-of-freedom voltage source converter controllers with plug-and-play capabilities, enhancing power system flexibility for higher renewable energy resources integration. The simulation results demonstrate that the controller not only widens the operating ranges of power systems, accommodating greater penetration, but also maintains cost-effectiveness comparable to conventional controllers. The potential for widespread application in both residential and industrial settings, as well as its utility in research, underscores the significance of this innovation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402495</AwardID>
+<Investigator>
+<FirstName>Qifeng</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Qifeng Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[qifeng.li@ucf.edu]]></EmailAddress>
+<NSF_ID>000761423</NSF_ID>
+<StartDate>01/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[The University of Central Florida Board of Trustees]]></Name>
+<CityName>ORLANDO</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress><![CDATA[4000 CENTRAL FLORIDA BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RD7MXJV7DKT9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Central Florida Board of Trustees]]></Name>
+<CityName>ORLANDO</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>328168005</ZipCode>
+<StreetAddress><![CDATA[4000 CENTRAL FLORIDA BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7607</Code>
+<Text>POWER, CONTROLS &amp; ADAPTIVE NET</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

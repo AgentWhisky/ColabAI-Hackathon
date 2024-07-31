@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CyberTraining: Implementation: Small: Application-inspired Cloud DevOps Training using an Online Self-service Learning Platform]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>480000.00</AwardTotalIntnAmount>
+<AwardAmount>480000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ashok Srinivasan</SignBlockName>
+<PO_EMAI>asriniva@nsf.gov</PO_EMAI>
+<PO_PHON>7032922122</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Cloud DevOps is widely adopted in industry applications for automation of data/computation-intensive workflows. However, scientific application communities (for example, in bioinformatics, health science, and geospatial analysis) are yet to see wide and large-scale adoption. The goal of this project is to benefit scientific application communities who need new comprehensive learning modules that utilize research-inspired use cases for modernizing scientific workflows using suitable Cloud DevOps tools/technologies. Consequently, the project activities are focused on training content development and training modalities that advance the adoption of Cloud DevOps in domain science communities to help improve productivity, security and collaboration. By targeting audience who may or may not have computer science backgrounds, the project activities ultimately will increase the pace of scientific discovery in multiple disciplines such as computing, industrial engineering, geography, biology, healthcare, and agriculture, which serve the national interest. Involvement of learners from under-served groups is achieved through strategic partnerships with Minority Serving Institutions and NSF REU Programs to deliver webinar talks and tutorials, and for strategic participant recruitment in the training activities. &lt;br/&gt;&lt;br/&gt;The “Mizzou Cloud DevOps” learning modules from this CyberTraining project are application-inspired to enable learners to learn about important Cloud DevOps tools/technologies, and help them benefit in diverse scientific application contexts. They have the potential to transform today’s practice of scientific workflow management that is traditionally performed using manual/time-consuming processes for resource provisioning, monitoring, security, and configuration management. NSF-funded infrastructure resources, such as Nautilus and Academic Cloud, and public cloud resources, such as Amazon Web Services will be used to deliver the training. Training materials delivered via an online learning platform feature important Cloud DevOps technologies, such as Kubernetes, KubeEdge, Prometheus, Jenkins, OpenFlow, Ansible, KubeFlow, and methods to provide self-assessment and peer feedback for improving learner experiences. Ultimately, the Mizzou Cloud DevOps' scope is to train researchers and cyberinfrastructure professionals to help shorten the scientific application development life cycle in the short-term, while also ensuring that the highest quality of software and infrastructure are created by scientific application communities in the long-term.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417826</AwardID>
+<Investigator>
+<FirstName>Prasad</FirstName>
+<LastName>Calyam</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Prasad Calyam</PI_FULL_NAME>
+<EmailAddress><![CDATA[calyamp@missouri.edu]]></EmailAddress>
+<NSF_ID>000268773</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sharan</FirstName>
+<LastName>Srinivas</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sharan Srinivas</PI_FULL_NAME>
+<EmailAddress><![CDATA[srinivassh@missouri.edu]]></EmailAddress>
+<NSF_ID>000760621</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Noah</FirstName>
+<LastName>Glaser</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Noah Glaser</PI_FULL_NAME>
+<EmailAddress><![CDATA[noah.glaser@missouri.edu]]></EmailAddress>
+<NSF_ID>000871086</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Missouri-Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>652113020</ZipCode>
+<PhoneNumber>5738827560</PhoneNumber>
+<StreetAddress><![CDATA[121 UNIVERSITY HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SZPJL5ZRCLF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Curators of the University of Missouri]]></Name>
+<CityName>Columbia</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>652113020</ZipCode>
+<StreetAddress><![CDATA[601 Turner Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>044Y00</Code>
+<Text>CyberTraining - Training-based</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>122Z</Code>
+<Text>CI Training and Professionals</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7361</Code>
+<Text>EDUCATION AND WORKFORCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~480000</FUND_OBLG>
+</Award>
+</rootTag>

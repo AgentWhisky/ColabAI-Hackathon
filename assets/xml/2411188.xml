@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Frameworks: Globus Search: Search and Analysis over Globally Distributed Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>3594788.00</AwardTotalIntnAmount>
+<AwardAmount>3594788</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sharmistha Bagchi-Sen</SignBlockName>
+<PO_EMAI>shabagch@nsf.gov</PO_EMAI>
+<PO_PHON>7032928104</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Increasing data sizes, greater hardware specialization, faster networks, and larger collaborative teams result in modern research employing ever-more distributed cyberinfrastructure (CI). It is now commonplace for data to be produced in multiple locations (e.g., in research laboratories or on supercomputers), analyzed in others (e.g., local, campus, or national CI), and shared, published, or archived in yet others. This increasingly distributed CI is enabling exciting discoveries in many domains, but also leads to difficulties for researchers who must manage, discover, and act upon large volumes of distributed data. Growing amounts of valuable research time is spent on mundane but necessary data management tasks; crucial data are lost; important provenance information cannot be determined; and analyses are repeated. To tackle these problems, this project will build Globus Search, a new capability integrated into the widely used Globus platform, that will enable the creation of, and search within and across, distributed Globus collections. By thus allowing researchers to easily discover data regardless of location, group data into “virtual” collections, and act on virtual collections irrespective of where individual files reside, Globus Search will allow even the largest and most distributed teams to organize, navigate, and operate on their data. &lt;br/&gt;&lt;br/&gt;Globus has emerged as an essential tool for alleviating the numerous frictions associated with managing, accessing, moving, and sharing data within and across the many distinct data collections that constitute the modern CI experience. However, an implicit assumption has always been that researchers know where data reside: an assumption that becomes increasingly untenable as data and CI grow in complexity. This project will implement a suite of new capabilities including methods to crawl parallel and distributed storage systems; capture events (e.g., file creation, modification, deletion) from these storage systems; extract metadata from within diverse scientific file formats; communicate events securely and reliably to the cloud-hosted service; index files and metadata in a secure and accessible manner; and develop new interfaces for navigating distributed data collections, creating virtual collections, and acting on these virtual collections. Leveraging the hybrid cloud/local service deployment approach that has proven so successful for other Globus services, Globus Search will build on powerful, scalable, and robust cloud-hosted search services to deliver a rich search experience to users via the Globus web app, command line interface, and Python and Javascript libraries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411188</AwardID>
+<Investigator>
+<FirstName>Ian</FirstName>
+<LastName>Foster</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ian Foster</PI_FULL_NAME>
+<EmailAddress><![CDATA[foster@uchicago.edu]]></EmailAddress>
+<NSF_ID>000234022</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kyle</FirstName>
+<LastName>Chard</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kyle Chard</PI_FULL_NAME>
+<EmailAddress><![CDATA[chard@uchicago.edu]]></EmailAddress>
+<NSF_ID>000694050</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Blaiszik</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benjamin Blaiszik</PI_FULL_NAME>
+<EmailAddress><![CDATA[blaiszik@uchicago.edu]]></EmailAddress>
+<NSF_ID>000729866</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUE9HKT2CLC9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ZUE9HKT2CLC9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606375418</ZipCode>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>800400</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~3594788</FUND_OBLG>
+</Award>
+</rootTag>

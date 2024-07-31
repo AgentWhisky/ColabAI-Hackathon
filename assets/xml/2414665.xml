@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation Potential of a Train Protection System]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaime A. Camelio</SignBlockName>
+<PO_EMAI>jcamelio@nsf.gov</PO_EMAI>
+<PO_PHON>7032922061</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is the development of technology that makes increases the economic and ecological benefits of artificial-intelligence-based train control systems without incurring safety risks associated with testing-based quality assurance. The benefits of the technology include improved infrastructure utilization, leading to increased throughput in the existing rail network. Additionally, lower energy consumption has ecological benefits, while increased efficiency makes transportation cheaper. The underlying technology of safe learning inside a verified control envelope can be generalized to other systems like cars and robots.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of a verified train protection system. Train protection systems safeguard railroad operations by keeping motion within a safe envelope. These systems decide when to slow trains down to avoid collisions with other trains, stay inside movement authorities, and navigate slopes, curves, and tunnels safely. The technology is a train protection system that is formally verified, meaning that it is mathematically proven to be safe, with computer-checked proofs, ensuring high levels of safety and reliability. The current approach to ensuring train software reliability is to run extensive tests and simulations. However, these methods can check only a finite number of scenarios out of the infinite possibilities, forcing conservative engineering decisions. In contrast, these proofs give a stronger guarantee of correctness by checking safety in many more possible cases. The resulting verified train protection system technology provides a safe path to deploy new technologies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414665</AwardID>
+<Investigator>
+<FirstName>Stefan</FirstName>
+<LastName>Mitsch</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stefan Mitsch</PI_FULL_NAME>
+<EmailAddress><![CDATA[smitsch@depaul.edu]]></EmailAddress>
+<NSF_ID>000991063</NSF_ID>
+<StartDate>04/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[DePaul University]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606042287</ZipCode>
+<PhoneNumber>3123627388</PhoneNumber>
+<StreetAddress><![CDATA[1 E JACKSON BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MNZ8KMRWTDB6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DEPAUL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[DePaul University]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606042201</ZipCode>
+<StreetAddress><![CDATA[1 E JACKSON BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>059P</Code>
+<Text>SCIENCE IN MOTION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

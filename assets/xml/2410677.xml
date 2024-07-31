@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Data-driven Realization of State-space Dynamical Systems via Low-complexity Algorithms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>89853.00</AwardTotalIntnAmount>
+<AwardAmount>89853</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jodi Mead</SignBlockName>
+<PO_EMAI>jmead@nsf.gov</PO_EMAI>
+<PO_PHON>7032927212</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Data science is evolving rapidly and places a new perspective on realizing state-space dynamical systems. Predicting time-advanced states of dynamical systems is a challenging problem in STEM disciplines due to their nonlinear and complex nature. This project will utilize data-driven methods and analyze state-space dynamical systems to predict and understand future states, surpassing classical techniques. In addition, the PI team will (i) guide students to obtain cross-discipline PhD/Master's degrees, (ii) guide students to work in a peer-learning environment, and (iii) educate a diverse group of undergraduates.&lt;br/&gt;&lt;br/&gt;In more detail, this project will utilize state-of-the-art machine learning (ML) algorithms to efficiently analyze and predict information within data matrices and tensor computations with low-complexity algorithms. Single-dimensional ML models are not efficient at extracting hidden semantic information in the time and space domains. As a result, it becomes challenging to simultaneously capture multi-dimensional spatiotemporal data in state-space dynamical systems. Using efficient ML algorithms to recover multi-dimensional spatiotemporal data simultaneously offers a breakthrough in understanding the chaotic behavior of dynamical systems. This project will (i) utilize ML to predict future states of dynamical systems based on high-dimensional data matrices captured at different time stamps, (ii) realize state-space controllable and observable systems via low-complexity algorithms to simultaneously analyze multiple states of the systems, (iii) analyze noise in state-space systems for uncertainty quantification, predict patterns in real-time states, generate counter-resonance states to suppress them, and optimize performance and stability, (iv) study system resilience via multiple state predictors and perturbations to assess performance and adaptation to disturbances and anomalies, and finally (v) optimize spacecraft trajectories, avoid impact, and use low-complexity algorithms to understand spacecraft launch dynamics on the space coast and support ERAU's mission in aeronautical research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/07/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/07/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410677</AwardID>
+<Investigator>
+<FirstName>Kshitij</FirstName>
+<LastName>Khare</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kshitij Khare</PI_FULL_NAME>
+<EmailAddress><![CDATA[kdkhare@stat.ufl.edu]]></EmailAddress>
+<NSF_ID>000545160</NSF_ID>
+<StartDate>06/07/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326111941</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress><![CDATA[1523 UNION RD RM 207]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNFQH1JAPEP3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName>GAINESVILLE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>326111941</ZipCode>
+<StreetAddress><![CDATA[1523 UNION RD RM 207]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~89853</FUND_OBLG>
+</Award>
+</rootTag>

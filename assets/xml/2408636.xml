@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Exploring Ultracold Matter along the Complexity Axis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>298778.00</AwardTotalIntnAmount>
+<AwardAmount>298778</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Julio Gea-Banacloche</SignBlockName>
+<PO_EMAI>jgeabana@nsf.gov</PO_EMAI>
+<PO_PHON>7032927924</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The science of ultracold atoms and molecules is vigorously pursued for applications to both fundamental physics, such as searches for physics beyond the Standard Model, and for technology, such as quantum computing.  Underlying these applications is the basic fact that the samples produced, typically still gaseous even at temperatures just above absolute zero, represent a new kind of physical substance.  For example, imagine a gas, quite unlike ordinary air, where sound travels at different speeds in different directions, and where this dependence can be controlled on a whim.  Though esoteric, this system has the potential to teach us new ways of looking to more familiar fluids. A second novel feature of these gases is “sticky collisions,” where molecules do not simply bounce off one another as one usually expects, but rather can become entangled in an intricate dance.  These collisions are on the one hand disruptive to experiments, and must be understood in order to make progress in the field.  But more fundamentally, they may have much to tell us about the relation between quantum mechanics, which holds on the scale of atoms, and classical mechanics, which describes the world we are more familiar with.  This connection has puzzled physicists for over a century.  Searching for novel answers to these fundamental questions will train the students involved to creatively tackle difficult, novel problems, skills which they will apply in many future endeavors.&lt;br/&gt; &lt;br/&gt;Specifically, the research will develop and solve the equations of fluid motion for an ultracold gas of polar molecules, which can be aligned in a laboratory frame by means of external electric fields.  The resulting fluid equations are familiar as the Navier-Stokes equations, with the caveat that the coefficients of thermal conductivity and viscosity are anisotropic.  The work will investigate novelties of this anisotropy in realistic experimental conditions.  For example, one can envision stirring the fluid to excite vortical motion, then to investigate the effects of anisotropy on the transition to turbulent dynamics.  In a second effort, the research will investigate collisions of atoms and molecules that possess dense, complex resonance structures.  These can be approached semi-classically owing to the relatively high kinetic energy during the collision.  But this approach can be complemented by a search for the most appropriate approximate quantum numbers that identify the different resonant states.  In either case, one searches for the appropriate description that best represents the situation, trying to pry some degree of order from the apparent chaos.  Insights gained from these highly-controlled ultracold systems will then carry over to other areas of complex systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2408636</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Bohn</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John L Bohn</PI_FULL_NAME>
+<EmailAddress><![CDATA[bohn@murphy.colorado.edu]]></EmailAddress>
+<NSF_ID>000293723</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress><![CDATA[3100 MARINE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 481 572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>BOULDER</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803090001</ZipCode>
+<StreetAddress><![CDATA[3100 MARINE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128400</Code>
+<Text>AMO Theory/Atomic, Molecular &amp;</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1284</Code>
+<Text>ATOMIC THEORY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~298778</FUND_OBLG>
+</Award>
+</rootTag>

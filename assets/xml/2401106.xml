@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Analytic Number Theory at the Interface]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>75520</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The main objective of this award is to develop connections between analytic number theory and other areas of mathematics, specifically dynamics and probability theory. A basic problem in dynamics is to understand how quickly a deterministic process, for example particles in a gas sampled at regularly spaced intervals, randomizes. The regular spacing amounts to sampling the system at the integers. Answering the subtler questions in this area often requires a non-trivial understanding of the properties of the integers. Conversely, a basic problem in number theory is to show that fundamental properties of the integers (e.g their prime factorization) randomize, and here techniques from dynamics can be useful. As for probability, questions from mathematical physics led to the development of techniques for the study of interacting systems, for example the macroscopic properties of a gas of electrons constrained to a surface. It has been recently understood that these techniques are applicable in a number theoretic context, for example in the study of the Riemann zeta-function, a basic function governing the finer properties of the integers. A second objective of this proposal is to develop such techniques further in a number theoretic context. The PI will continue training graduate students and mentor postdocs on topics related to this research.&lt;br/&gt;&lt;br/&gt;In dynamics the focus of this project is to understand the convergence of dynamical systems over sparse sets (primes, squares) at every point in the space, with a particular focus on horocycle flow. A second goal is to reexamine the work of Elkies-McMullen on the gap distribution of square-roots of integers modulo one from the perspective of the circle method. In probability theory, the focus is on developing further connections with branching random walks and statistical mechanics, specifically by focusing on the Fyodorov-Hiary-Keating conjecture and its other avatars. A final goal of the project is to develop our understanding of automorphic forms of fractional weight, with applications to concrete number theoretic problems (e.g the equidistribution of Kummer sums).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401106</AwardID>
+<Investigator>
+<FirstName>Maksym</FirstName>
+<LastName>Radziwill</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maksym Radziwill</PI_FULL_NAME>
+<EmailAddress><![CDATA[maksym.radziwill@northwestern.edu]]></EmailAddress>
+<NSF_ID>000788790</NSF_ID>
+<StartDate>04/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress><![CDATA[633 CLARK ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602080830</ZipCode>
+<StreetAddress><![CDATA[2033 Sheridan Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~75520</FUND_OBLG>
+</Award>
+</rootTag>

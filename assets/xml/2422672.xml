@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-BSF: Development of a Chimera Enzyme Switch for Branched-chain Amino Acids Biosensing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>449651.00</AwardTotalIntnAmount>
+<AwardAmount>449651</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aleksandr Simonian</SignBlockName>
+<PO_EMAI>asimonia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922191</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The goal of the project is the development of a novel biosensor system for the ultra-selective and sensitive analysis of specific amino acids in clinical diagnostics and medicine. The combining of new biotechnological and bioanalytical approaches will lead to the creation of these novel bioanalytical systems. The interest of the proposed study is enhanced by the possibility of its simple and easily exchangeable adaptation to numerous amino acids as human health biomarkers. The primary project focus is on the diagnostics of Maple Syrup Urine Disease, a rare and severe genetic disorder impacting the processing of branched-chain amino acids including leucine. The early detection and continuous monitoring of leucine levels in the bloodstream are crucial for a timely diagnosis of such disorders in infants and young children. Thus, the project has not only scientific but also high practical importance, providing a new easy-to-use point-of-care biosensor system for end-users. The educational project’s impacts include the participation of undergraduate researchers as well as PhD students. Special attention is given to the recruitment of junior researchers at all levels, including those from underrepresented groups and war-affected countries. The mentoring by experts in the field will stimulate student achievement recognized via media coverage and high-level student-coauthored publications. The involvement in this multidisciplinary project will ignite interest in science improving the student’s education, and experience resulting in increasing chances for their successful professional career growth in the future.&lt;br/&gt;&lt;br/&gt;The present proposal aims to develop a new biotechnological/bioanalytical platform based on unique genetic-engineered chimera enzymes for biosensor use. The chimeric enzymes will be constructed by fusing ultraselective enzymes to specific amino acids – aminoacyl tRNA synthetases (RSs) with pyrroloquinoline-quinone glucose dehydrogenase (PQQ-GDH) as a reporter. The fused chimera enzymes will be characterized by a high selectivity toward the target amino acid and, simultaneously, by an ability to efficiently direct electron transfer to the physical transducer. The proposed platform is quite universal, as it is easy to modify the sensor's amino acid specificity by changing the specific RS domain of the fused chimera enzyme. To simplify the purification of the split parts of the chimera enzyme, the His6-tag will be integrated into the domains’ structure. Moreover, modifying the chimera by His6-tag makes it possible to control the immobilization of the fused chimeric enzyme on the surface of the physical transducer. The use of His6-tag affinity materials/chemicals (e.g., copper-formed nanoparticles or pyrene-NTA) will provide an appropriate orientation of the PQQ-GDH-consisting domains in a well-organized self-assembled layer close to the electrode surface. Such an approach ensures an efficient direct electron transfer from the PQQH2 reduced active center resulting in an increase in the signal amplification factor. Also, the controlled orientation will prevent the chimeric enzyme inhibition during its conformational changes in the immobilized state. The specific output from the immobilized chimeric enzymes will be analyzed by electrochemical and optical readouts (using a PQQ-specific fluorescent probe and a smartphone camera).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2422672</AwardID>
+<Investigator>
+<FirstName>Evgeny</FirstName>
+<LastName>Katz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Evgeny Katz</PI_FULL_NAME>
+<EmailAddress><![CDATA[ekatz@clarkson.edu]]></EmailAddress>
+<NSF_ID>000153259</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Oleh</FirstName>
+<LastName>Smutok</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Oleh Smutok</PI_FULL_NAME>
+<EmailAddress><![CDATA[osmutok@clarkson.edu]]></EmailAddress>
+<NSF_ID>000989079</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Clarkson University]]></Name>
+<CityName>POTSDAM</CityName>
+<ZipCode>136761401</ZipCode>
+<PhoneNumber>3152686475</PhoneNumber>
+<StreetAddress><![CDATA[8 CLARKSON AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>21</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY21</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SL2PF6R7MRN1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CLARKSON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Clarkson University]]></Name>
+<CityName>POTSDAM</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>136761401</ZipCode>
+<StreetAddress><![CDATA[8 CLARKSON AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>21</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY21</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>790900</Code>
+<Text>BIOSENS-Biosensing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1639</Code>
+<Text>SENSORS AND SENSING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~449651</FUND_OBLG>
+</Award>
+</rootTag>

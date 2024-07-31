@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Sensor-based frailty assessment tool using a smart watch]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>46304</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Molly Wasko</SignBlockName>
+<PO_EMAI>mwasko@nsf.gov</PO_EMAI>
+<PO_PHON>7032924749</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is the development of a technology for physical frailty assessment.  Frailty is an aging syndrome related to low physiological reserves in organs and systems and is associated with increased risk of hospitalization, adverse therapy outcomes, disability, and mortality. The proposed application of the technology is to risk stratify hospitalized and community dwelling older adults and will be implemented through a smartwatch and smartphone to measure frailty in under 5 minutes.  Monitoring technologies, such as the proposed frailty score, have the potential to improve older people’s safety, manage their health and assist them in maintaining their independence. Additionally, these technologies hold the promise of enormous cost savings for the healthcare system by enhancing the ability of providers to provide timely intervention prior to a patient’s deterioration requiring acute care.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of a novel objective sensor-based frailty assessment tool. In this frailty tool, for the first time, instead of assessing characteristics of physiological systems in basal resting-state conditions, a provocative physical stress test will be employed to quantify the level of physiological reserve within and across cardiac and motor systems. Biomechanics approaches including muscle model and heart rate dynamics analysis will be used to characterize motor and cardiac system behaviors. In addition, the proposed technology may be used to assess dynamic interactions between the motor and cardiac systems using state space reconstruction of motor and heart rate behaviors within the stress-response model. The test takes 60 seconds to perform (repetitive and fast elbow flexion) and can provide the frailty score immediately after the test. The proposed approach has been validated cross-sectionally using comprehensive frailty assessment approaches that take 45-60 minutes and longitudinally based on adverse hospital/treatment outcomes, readmission, and mortality.  In addition to the sensor-based frailty score, the technology has been transformed from more expensive equipment to a simple smartwatch platform.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413464</AwardID>
+<Investigator>
+<FirstName>Nima</FirstName>
+<LastName>Toosizadeh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nima Toosizadeh</PI_FULL_NAME>
+<EmailAddress><![CDATA[nima.toosizadeh@rutgers.edu]]></EmailAddress>
+<NSF_ID>000807087</NSF_ID>
+<StartDate>03/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY]]></Name>
+<CityName>NEWARK</CityName>
+<ZipCode>071073001</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress><![CDATA[65 BERGEN ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 1]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YVVTQD8CJC79</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS THE STATE UNIVERSITY OF NEW JERSEY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YVVTQD8CJC79</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY]]></Name>
+<CityName>NEWARK</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>071073001</ZipCode>
+<StreetAddress><![CDATA[65 BERGEN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~46304</FUND_OBLG>
+</Award>
+</rootTag>

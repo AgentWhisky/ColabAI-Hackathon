@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Zeros of L-functions and Arithmetic]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>252360.00</AwardTotalIntnAmount>
+<AwardAmount>252360</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award concerns research in number theory which is a very active area of mathematics, and the theory of L-functions, which were first introduced into the subject by Dirichlet in the 19-th century to study the distribution of prime numbers, has played a central role in its modern development. The tools used to study L-functions draw from many fields including analysis, algebra, algebraic geometry, automorphic forms, representation theory, probability and random matrices, and mathematical physics. Many of the projects in this proposal concern the connection between problems in number theory and the distribution of zeros of L-functions. This connection is central to two of the seven Millennium Prize Problems, the Riemann hypothesis and the Birch and Swinnerton-Dyer conjecture. This award aims to use tools from the theory of L-functions to make new progress on some classical problems in number theory as well as establish new connections between the theory of L-functions to fields such as additive combinatorics. The PI will continue training and mentoring graduate students on topics related to this research, and this project will provide research training opportunities for them.&lt;br/&gt; &lt;br/&gt;One goal of this project aims to use tools from Fourier analysis, along with input from zeros of L-functions, to study classical problems in number theory such as bounding the least quadratic non-residue modulo a prime, the least prime in an arithmetic progression, and the maximum size of modulus and argument of an L-functions on the critical line. Each of these problems requires using explicit formulae (connecting zeros of L-functions to the primes) to create a novel Fourier optimization framework and then to solve the resulting problem in analysis. This project also aims to study a number of problems concerning the L-functions associated to classical holomorphic modular forms, including studying simultaneous non-vanishing of L-functions at the central point, using sieve methods to studying non-vanishing of central values of L-functions in certain sparse (but arithmetically interesting) families, and to study the proportion of the non-trivial zeros of a modular form L-function that are simple. Using known partial progress toward the Birch and Swinnerton-Dyer conjecture, some of these proposed problems have applications to studying algebraic ranks of elliptic curves. Another goal of this project is to use tools from the theory of L-functions in a novel way to investigate problems in additive combinatorics such as studying sums of dilates in certain arithmetically interesting groups.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project is jointly funded by Algebra and Number Theory program, and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401461</AwardID>
+<Investigator>
+<FirstName>Micah</FirstName>
+<LastName>Milinovich</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Micah B Milinovich</PI_FULL_NAME>
+<EmailAddress><![CDATA[mbmilino@olemiss.edu]]></EmailAddress>
+<NSF_ID>000706630</NSF_ID>
+<StartDate>05/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Mississippi]]></Name>
+<CityName>UNIVERSITY</CityName>
+<ZipCode>386779704</ZipCode>
+<PhoneNumber>6629157482</PhoneNumber>
+<StreetAddress><![CDATA[113 FALKNER]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G1THVER8BNL4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF MISSISSIPPI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Mississippi]]></Name>
+<CityName>UNIVERSITY</CityName>
+<StateCode>MS</StateCode>
+<ZipCode>386779704</ZipCode>
+<StreetAddress><![CDATA[113 FALKNER]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~252360</FUND_OBLG>
+</Award>
+</rootTag>

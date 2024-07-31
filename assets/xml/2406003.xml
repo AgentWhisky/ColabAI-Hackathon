@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PDE Analysis of Thin Filament Hydrodynamics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>160000.00</AwardTotalIntnAmount>
+<AwardAmount>102609</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitry Golovaty</SignBlockName>
+<PO_EMAI>dgolovat@nsf.gov</PO_EMAI>
+<PO_PHON>7032922117</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project concerns the analysis of partial differential equations (PDEs) modeling the dynamics of thin filaments immersed in viscous fluids. Immersed filaments play an essential role in biological phenomena such as sperm motility, blood perfusion, and so-called bacterial turbulence. Many important mathematical models have been developed over the past 70 years to describe fluid-filament interaction across multiple scales, but most of our understanding of these models has come from numerical simulation and formal asymptotics. Often, trying to justify or understand these models from the perspective of rigorous PDEs gives rise to fascinating new analysis questions and potentially new biophysical insights. The goal of this project is to address some of the fundamental PDE questions inspired by these models of immersed fibers. The broader impacts of this project include course development and research mentoring. The PI plans to develop a new graduate-level course covering aspects of both the computational methods and PDE analysis of the models appearing in this project. In addition, this project involves training opportunities for students at both the undergraduate and graduate levels. The PI will continue to promote inclusivity in the math community through the EDGE program (Enhancing Diversity in Graduate Education), a network of women (especially from underrepresented groups) in math. &lt;br/&gt;&lt;br/&gt;In this project, the PI will address PDE questions inspired by immersed filament models at two scales: (1) dynamics of a single filament, and (2) collective dynamics of many filaments. At scale (1), the PI aims to make mathematical sense of a curve evolution model that is popular in numerics yet remains difficult to justify analytically. To address this, the PI will develop the PDE theory for a novel type of free boundary problem coupling quasi-1D filament dynamics with a 3D fluid background. Analysis of this free boundary problem will provide a more complete mathematical foundation for the many computational results on immersed filament dynamics based on slender body theory. The analytical framework developed to study this problem can be applied more broadly to tackle questions for models of swimming and blood flow. At scale (2), the PI aims to develop a detailed understanding of the dynamics of a kinetic model of a suspension of motile filaments that is fundamental in the active matter community. A particular focus is on quantifying how motility affects mixing and transport in the suspension both near and far from equilibrium.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406003</AwardID>
+<Investigator>
+<FirstName>Laurel</FirstName>
+<LastName>Ohm</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Laurel A Ohm</PI_FULL_NAME>
+<EmailAddress><![CDATA[lohm2@wisc.edu]]></EmailAddress>
+<NSF_ID>000751555</NSF_ID>
+<StartDate>05/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LCLSJAGTNZQ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~102609</FUND_OBLG>
+</Award>
+</rootTag>

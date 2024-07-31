@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[III: Medium: Responsive Optimization for Algorithmic Decision Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>1207987.00</AwardTotalIntnAmount>
+<AwardAmount>954310</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Judith Cushing</SignBlockName>
+<PO_EMAI>jcushing@nsf.gov</PO_EMAI>
+<PO_PHON>3607016450</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In many real-world decision-making scenarios, be it college admissions or law enforcement or personalized medicine, the underlying decisions are made by algorithms based on data. There has been a growing concern about the quality of these decisions, as often, the data used by the algorithms is neither perfect nor complete, and may even encode biases, leading to inefficiency or unfairness. This project focuses on ameliorating these issues via a framework of "responsive optimization." Specifically, a responsive decision-making system (or optimizer) should consider uncertainty in inputs and allow flexible objectives based on this uncertainty. It should be able to audit a solution for its robustness against uncertain inputs, and, when appropriate, compute an ensemble of solutions as alternatives to a single solution. It should ensure its optimization choices are explainable to human decision makers, and finally, interoperate with other optimizers or existing system components to achieve its objective. This project explores responsive optimization in two application domains: database query optimization and societal decision making. It aims to develop practical algorithms for these domains and advance general methods to pave the way for the next generation of responsive algorithmic decision systems.&lt;br/&gt;&lt;br/&gt;The key intellectual merit of this project lies in developing a principled and systematic approach to responsive optimization. To help assess solution robustness to uncertainty, the project seeks to approximate the landscape of possible solutions in a computationally efficient fashion. It then explores various ways of auditing solution robustness and tackles both the problem of finding the most robust solution and that of finding an ensemble of robust solutions. Explainability is ensured by imposing simple, low-dimensional constraints on solutions and, similarly, on counterfactuals to illustrate solution robustness (or lack thereof). For interoperability, the project devises techniques to probe existing optimizers, leveraging knowledge of their inner workings but respecting their interfaces. Additionally, the project models interoperability among multiple decentralized optimizers as an economic game and designs mechanisms to ensure that local decisions collectively achieve the global goal. The methods developed by this project are thus relevant to a wide range of domains where increasingly complex algorithms are making decisions, from urban route planning, energy grid management, personalized medicine, to resource allocation in law enforcement and fraud investigation. Building on the team's past success, the project plans to transfer its research to its two target application domains and integrate its research activities with teaching and mentoring. A novel tool for debugging and robustifying the performance of database query plans will be deployed in an educational context and made publicly accessible. The project will work to attract and cultivate a diverse group of young talents, equipping them to tackle the timely challenges in building a more trustworthy generation of algorithmic decision systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402823</AwardID>
+<Investigator>
+<FirstName>Pankaj</FirstName>
+<LastName>Agarwal</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pankaj K Agarwal</PI_FULL_NAME>
+<EmailAddress><![CDATA[pankaj@cs.duke.edu]]></EmailAddress>
+<NSF_ID>000462514</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jun</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jun Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[junyang@cs.duke.edu]]></EmailAddress>
+<NSF_ID>000486379</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kameshwar</FirstName>
+<LastName>Munagala</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kameshwar Munagala</PI_FULL_NAME>
+<EmailAddress><![CDATA[kamesh@cs.duke.edu]]></EmailAddress>
+<NSF_ID>000487108</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736400</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~954310</FUND_OBLG>
+</Award>
+</rootTag>

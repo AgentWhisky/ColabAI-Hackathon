@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Local Geometric Langlands Correspondence and Representation Theory]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>179991.00</AwardTotalIntnAmount>
+<AwardAmount>47858</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+<PO_EMAI>mdouglas@nsf.gov</PO_EMAI>
+<PO_PHON>7032922467</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Representation theory studies the realization of groups as linear symmetries. There are two typical stages: 1) finding the general structure of representations of a given group (e.g., classifying irreducible representations), and 2) applying this to representations of particular interest (e.g., functions on a homogeneous space). This project aims to study higher representation theory, which studies the realization of groups as categorical symmetries. The emphasis of the proposal focuses on loop groups, where the theory remarkably mirrors classical harmonic analysis for p-adic groups. In particular, one finds Langlands-style decompositions here. This project focuses on understanding some key categories of interest in this framework. The investigator will study 3d mirror symmetry conjectures, representations of affine Lie algebras, and moduli spaces of bundles arising in the global geometric Langlands program. This project provides training opportunities for graduate students.&lt;br/&gt;&lt;br/&gt;In more detail, 3d mirror symmetry, representations of (reductive) affine Lie algebras, and the geometric Langlands program are the three primary ways actions of loop groups of reductive groups on categories arise. A large class of 3d mirror symmetry conjectures concerns the categorical Plancherel formula for loop group actions on categories of sheaves on loop spaces of particular varieties with group actions. The PI will establish first cases of 3d mirror symmetry and apply the results to give coherent descriptions of some categories of primary interest in geometric representation theory. Representations of Lie algebras concern the action of a group on its category of Lie algebra representations.  The PI will extend previous work on critical level localization theory and develop a substitute for Soergel modules that will apply to poorly understood categories in the local geometric Langlands program. The applications to global geometric Langlands concern actions of loop groups of reductive groups on moduli spaces of a global nature, namely bundles with a level structure. The PI will extend the Satake theorem and apply the result to study Eisenstein series in the global geometric Langlands program.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2416129</AwardID>
+<Investigator>
+<FirstName>Sam</FirstName>
+<LastName>Raskin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sam Raskin</PI_FULL_NAME>
+<EmailAddress><![CDATA[sam.raskin@yale.edu]]></EmailAddress>
+<NSF_ID>000650862</NSF_ID>
+<StartDate>01/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<ZipCode>065113572</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress><![CDATA[150 MUNSON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FL6GV84CKN57</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>YALE UNIV</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FL6GV84CKN57</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>065118917</ZipCode>
+<StreetAddress><![CDATA[105 WALL ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~47858</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project focused on problems related to the geometric Langlands program. The main results of the principal investigator were the following:</p> <p>1) With Hilburn, a de Rham analogue of the local part of "Tate's thesis." This result fits into the emerging subject of homological 3d mirror symmetry, which studies the interplay between dualities in mathematical physics, S-duality, and geometric Langlands. This work established the abelian case of those conjectures.</p> <p>2) With Yang, a proof of the Frenkel-Gaitsgory conjecture on Kac-Moody algebras at critical level. This conjecture, which is of intrinsic representation theoretic interest, is fundamental to Frenkel-Gaitsgory's picture of a *local* geometric Langlands program.&nbsp;</p> <p>3) With Faergeman, some results on the tempered version of the geometric Langlands equivalence, which is a good approximation to the "true" geometric Langlands equivalence.</p> <p>We showed that the tempered geometric Langlands functor is conservative, i.e., the known methods for studying the equivalence "does not miss" anything -- this had been a major stumbling block. We also studied exactness properties in the setting of the Betti/restricted theory, obtaining results that elucidate the role of perverse sheaves in the theory.&nbsp;</p> <p>4) With Campbell, a factorizable version of the derived geometric Satake equivalence using factorization algebra techniques.</p> <p>5) With Arinkin, Beraldo, Campbell, Chen, Faergeman, Gaitsgory, Lin, Rozenblyum, a series of works culminating in a proof of the de Rham geometric Langlands equivalence (this work is still on-going).</p><br> <p>  Last Modified: 07/01/2024<br> Modified by: Sam&nbsp;Raskin</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project focused on problems related to the geometric Langlands program. The main results of the principal investigator were the following:   1) With Hilburn, a de Rham analogue of the local part of "Tate's thesis." This result fits into the emerging subject of homological 3d mirror symmetry, which studies the interplay between dualities in mathematical physics, S-duality, and geometric Langlands. This work established the abelian case of those conjectures.   2) With Yang, a proof of the Frenkel-Gaitsgory conjecture on Kac-Moody algebras at critical level. This conjecture, which is of intrinsic representation theoretic interest, is fundamental to Frenkel-Gaitsgory's picture of a *local* geometric Langlands program.   3) With Faergeman, some results on the tempered version of the geometric Langlands equivalence, which is a good approximation to the "true" geometric Langlands equivalence.   We showed that the tempered geometric Langlands functor is conservative, i.e., the known methods for studying the equivalence "does not miss" anything -- this had been a major stumbling block. We also studied exactness properties in the setting of the Betti/restricted theory, obtaining results that elucidate the role of perverse sheaves in the theory.   4) With Campbell, a factorizable version of the derived geometric Satake equivalence using factorization algebra techniques.   5) With Arinkin, Beraldo, Campbell, Chen, Faergeman, Gaitsgory, Lin, Rozenblyum, a series of works culminating in a proof of the de Rham geometric Langlands equivalence (this work is still on-going).     Last Modified: 07/01/2024       Submitted by: SamRaskin]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

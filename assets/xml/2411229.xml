@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Taming nonlinearity in PDE systems using lifted Newton nonlinear preconditioning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>399998.00</AwardTotalIntnAmount>
+<AwardAmount>399998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Many important questions in the natural sciences and in engineering involve nonlinear phenomena, mathematically described by nonlinear equations. Solving these problems typically requires iterative algorithms like Newton's method, which linearizes the nonlinear problem in each iteration. Newton's method is known for its rapid local convergence. However, the convergence theory only applies when the initialization is (very) close to the unknown solution. Thus, relying on local convergence theory is often impractical. Farther from the solution, small Newton updates are typically necessary to prevent divergence, leading to slow overall convergence. This project aims to develop better nonlinear solvers. This will benefit outer-loop problems, such as parameter estimation, learning, control, or design problems, which typically require solving many nonlinear (inner) problems. The project will also support the training and research of at least one graduate student, the mentoring of undergraduate students through the Courant’s Summer Undergraduate Research Experience (SURE) program, and the outreach to K-12 students through the cSplash activity in New York City.&lt;br/&gt;&lt;br/&gt;To address issues of slow nonlinear convergence, This project aims to develop methods that lift the nonlinear system to a higher-dimensional space, enabling the application of nonlinear transformations that can mitigate nonlinearity before Newton linearization. The project will develop and systematically study the resulting novel Newton methods for severely nonlinear systems of partial differential equations (PDEs). The proposed lifting and transformation method can be interpreted as nonlinear preconditioning, a research area much less developed than preconditioning for linear systems. The goal of this project is to study for which classes of nonlinear PDE problems this approach improves convergence, to theoretically analyze why, and to make these methods a more broadly accessible tool for solving severely nonlinear systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411229</AwardID>
+<Investigator>
+<FirstName>Georg</FirstName>
+<LastName>Stadler</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Georg Stadler</PI_FULL_NAME>
+<EmailAddress><![CDATA[stadler@courant.nyu.edu]]></EmailAddress>
+<NSF_ID>000526978</NSF_ID>
+<StartDate>06/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~399998</FUND_OBLG>
+</Award>
+</rootTag>

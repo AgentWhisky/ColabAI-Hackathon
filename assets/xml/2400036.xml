@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[New Challenges in the Study of Propagation of Randomness for Nonlinear Evolution Equations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>388536.00</AwardTotalIntnAmount>
+<AwardAmount>388536</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marian Bocea</SignBlockName>
+<PO_EMAI>mbocea@nsf.gov</PO_EMAI>
+<PO_PHON>7032922595</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Waves are everywhere in nature. We observe them when we look at the ripples that form when we throw a pebble in a lake, the expanding ring called a wave-packet; or when we look at a rainbow that is formed when light wave passes through a prism or water droplet and note the spatial separation of white light into different colors. Partial differential equations (PDE) modeling wave propagation phenomena have played a fundamental role in understanding such physical and natural events as well as quantum mechanics, fiber optics, ferromagnetism, atmospheric and water waves, and many other physical models. In these cases, wave phenomena are never too smooth or too simple, and in fact the byproduct of nonlinear wave interactions as they propagate in time. Being able to understand and describe the dynamical behavior of such models under certain noisy conditions or given an initial statistical ensemble and have a precise description of how the inherent randomness built in these models propagates, is fundamental to accurately predict wave phenomena when studying the natural world. This project is aimed at answering several central questions about long-time dynamics and the propagation of randomness in this context using analytical and probabilistic methodologies. The work of the project, and its connections to science, promotes interdisciplinary interactions and fosters the training of graduate students and junior researchers in the United States thus fundamentally contributing to its STEM workforce. &lt;br/&gt;&lt;br/&gt;The interplay of deterministic methods in nonlinear PDE and probabilistic ones naturally feed off each other and when combined contribute to a deep understanding of wave phenomena, which opens the door to new paradigms that move research forward in various directions. The Principal Investigator studies several projects at the forefront of current research. The problems, grouped in two interrelated directions, aim broadly at: (1) studying the out of equilibrium long-time dynamics of dispersive flows from a probabilistic viewpoint in energy subcritical regimes by means of suitable quantitative quasi-invariance, modified energies and stability theory of random structures; (2) establishing the invariance of Gibbs measures for the probabilistically critical three-dimensional nonlinear Schrödinger equation (also known as a model in constructive quantum field theory) in the context of equilibrium statistical mechanics; (3) establishing a suitable probabilistic local theory of the hyperbolic sine-Gordon equation on 2D tori and the invariance of its associated Gibbs measure; and (4) the development of the random tensor theory for the nonlinear wave equations and for non-Gaussian data. The research bridges between the dispersive and wave equations communities that specialize in stochastic equations and contributes to understanding in a fundamental way propagation of randomness in nonlinear wave phenomena.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400036</AwardID>
+<Investigator>
+<FirstName>Andrea</FirstName>
+<LastName>Nahmod</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrea R Nahmod</PI_FULL_NAME>
+<EmailAddress><![CDATA[nahmod@math.umass.edu]]></EmailAddress>
+<NSF_ID>000118068</NSF_ID>
+<StartDate>04/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Amherst</Name>
+<CityName>AMHERST</CityName>
+<ZipCode>010039252</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress>101 COMMONWEALTH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VGJHK59NMPK9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VGJHK59NMPK9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>AMHERST</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>010039254</ZipCode>
+<StreetAddress><![CDATA[COMMONWEALTH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~388536</FUND_OBLG>
+</Award>
+</rootTag>

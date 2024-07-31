@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Rice-sized Wireless Bluetooth Sensors for the Next Generation Internet of Things]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Molly Wasko</SignBlockName>
+<PO_EMAI>mwasko@nsf.gov</PO_EMAI>
+<PO_PHON>7032924749</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is the development of a miniature Bluetooth wireless sensor technology that enhances the capabilities of various industries through improved tracking and monitoring systems. This innovation could lead to several commercial opportunities.  In the healthcare sector, sensors could be integrated into implantable medical devices for real-time monitoring of vital signs, contributing to advanced patient care and management. In the agricultural domain, these sensors could lead to affordable and precise resource management and crop monitoring, potentially increasing yield while reducing waste. The versatility of the sensors also extends to logistics and manufacturing, where they could streamline inventory management and supply chain operations, thus bolstering efficiency and reducing costs. Moreover, the environmental monitoring capabilities of these sensors can assist in addressing climate change challenges by providing accurate data for sustainable practices. The anticipated proliferation of smart devices and the IoT ecosystem underscores the market potential that this technology can serve, meeting multiple needs in an increasingly interconnected world.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of crystal-free Bluetooth chip technology, a shift in the design and functionality of wireless sensors. The intellectual merit of this project lies in its approach to circumvent the traditional reliance on crystal components for frequency stabilization, which has historically restricted the miniaturization of such sensors. The outcome of our research is a compact Bluetooth chip, with dimensions of just 3x2mm^2—approximately 2X smaller than a grain of rice. This miniaturization achievement surpasses the size constraints of conventional sensors and enables new applications that were previously unfeasible due to size and weight limitations. A notable example of its application potential is in ecological monitoring, where our sensor has successfully been used to track the Asian Hornet that is killing 10-20% of the honeybee population in France, a task that conventional Bluetooth sensors could not accomplish due to their larger size and heavier weight. This technology could impact the realms of integrated circuits, the Internet of Things (IoT), and smart device technology, indicating a leap forward in the capabilities and applications of wireless sensors.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402731</AwardID>
+<Investigator>
+<FirstName>Kristofer</FirstName>
+<LastName>Pister</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kristofer S Pister</PI_FULL_NAME>
+<EmailAddress><![CDATA[pister@eecs.berkeley.edu]]></EmailAddress>
+<NSF_ID>000460875</NSF_ID>
+<StartDate>01/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Regents of the University of California]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[1608 4TH ST STE 220]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1639</Code>
+<Text>SENSORS AND SENSING SYSTEMS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

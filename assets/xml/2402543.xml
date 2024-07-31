@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Phospho-regulation of Cell Division]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>946895.00</AwardTotalIntnAmount>
+<AwardAmount>946895</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matt Buechner</SignBlockName>
+<PO_EMAI>mbuechne@nsf.gov</PO_EMAI>
+<PO_PHON>7032924675</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Cell division is a dynamic set of events that copies and transmits genetic material from one mother cell to two daughter cells. Protein phosphorylation, the modification of proteins by the addition of a phosphate group, is critical to the fidelity of cell division. However, the enzymes that carry out phosphorylation and the proteins that are modified by phosphorylation during cell division are still not well understood.  This project will advance this understanding by identifying new enzymes that carry out phosphorylation and the substrate proteins that they modify to ensure proper cell division.  This project will have a broader impact on society by providing educational, mentoring, research training, and career development opportunities to a large number of diverse high school, undergraduate, and graduate students that will prepare them for molecular and cellular bioscience careers.  Through this training, students will acquire rigorous experimental design skills, statistical skills for data analysis, computational skills, analytical and critical thinking skills, and science communication skills.  All research results and computational software will be disseminated broadly through publicly accessible publications, research presentations, and databases.&lt;br/&gt;&lt;br/&gt;The fidelity of cell division relies heavily on phosphorylation, which can act as a molecular switch to affect protein activity, protein-protein interactions, protein localization, and protein abundance.  Current knowledge of the phospho-circuitry of cell division is limited by the small number of kinase-phosphosite pairs that have been validated and shown to be important for cell division.  This project will integrate computational, biochemical, mass proteomic, and cell biological approaches to address this knowledge gap.  The investigators will take proximity-labeling proteomic approaches to identify phosphoproteins that associate with poorly characterized mitotic kinases, which will elucidate high-confidence kinase-phosphosite pairs.  They will take computational approaches to scan curated phosphoproteome databases and mitosis-specific phosphoproteomic datasets with the atlas of kinase consensus motifs to define mitosis-relevant kinase-phosphosite pairs. Identified kinase-phosphosite pairs and their importance to cell division will then be evaluated via in vitro kinase reactions and in-cell multiparametric phenotypic analyses.  This project will produce large phospho-proteomic data sets and will develop novel computational pipelines that will be made freely available to the scientific community.  Together, these interdisciplinary approaches will advance our understanding of the phospho-circuitry that coordinates cell division.&lt;br/&gt;&lt;br/&gt;This award is funded by the Cellular Dynamics and Function Cluster of the Division of Molecular and Cellular Biosciences in the Directorate for Biological Sciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402543</AwardID>
+<Investigator>
+<FirstName>Jorge</FirstName>
+<LastName>Torres</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jorge Torres</PI_FULL_NAME>
+<EmailAddress><![CDATA[torres@chem.ucla.edu]]></EmailAddress>
+<NSF_ID>000562604</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900244200</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress><![CDATA[10889 WILSHIRE BLVD STE 700]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA36</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RN64EPNH8JC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900951569</ZipCode>
+<StreetAddress><![CDATA[607 Charles E Young Dr E]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111400</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~946895</FUND_OBLG>
+</Award>
+</rootTag>

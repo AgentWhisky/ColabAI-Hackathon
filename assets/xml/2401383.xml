@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Non-Abelian Hodge Theory and Transcendence]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>330000.00</AwardTotalIntnAmount>
+<AwardAmount>330000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+<PO_EMAI>mdouglas@nsf.gov</PO_EMAI>
+<PO_PHON>7032922467</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Hodge theory is concerned with the integrals of algebraic forms along topological cycles.  The study of these invariants traces its roots to the work of Jacobi, Abel, and Riemann in the nineteenth century; the modern theory ties together the algebraic, topological, complex analytic, and arithmetic facets of the geometry of an algebraic variety, and has many applications.  Pioneering work of Simpson in the 1990s developed a non-abelian version of this theory where the space of representations of the fundamental group plays the role of the group of topological cycles.  The resulting non-abelian Hodge theory touches equally many fields of mathematics, but many aspects of it remain mysterious. In this project, the PI will extend recent progress in classical Hodge theory and transcendence theory via o-minimal methods to the non-abelian setting. The project will specifically be geared towards fostering the involvement of students and early-career mathematicians.&lt;br/&gt;&lt;br/&gt;In more detail, the PI will apply o-minimal techniques to address a number of open questions related to the geometry of local systems on algebraic varieties, and its connection to complex analysis, arithmetic, and transcendence theory. This includes the transcendence theory of the Riemann—Hilbert correspondence, the classification of tri-algebraic subvarieties, as well as the algebraicity and arithmeticity of non-abelian Hodge loci. These techniques will also be brought to bear on related geometric questions, including the construction of Shafarevich maps, transcendence theory of p-adic period maps, and the geometry of Lagrangian fibrations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401383</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Bakker</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benjamin T Bakker</PI_FULL_NAME>
+<EmailAddress><![CDATA[bakker@uic.edu]]></EmailAddress>
+<NSF_ID>000576409</NSF_ID>
+<StartDate>04/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606124305</ZipCode>
+<PhoneNumber>3129962862</PhoneNumber>
+<StreetAddress><![CDATA[809 S MARSHFIELD AVE M/C 551]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>W8XEAJDKMXH3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606124305</ZipCode>
+<StreetAddress><![CDATA[809 S MARSHFIELD AVE M/C 551]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~330000</FUND_OBLG>
+</Award>
+</rootTag>

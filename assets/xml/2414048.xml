@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Transitions: variable temperature cryoEM to redesign thermophilic enzymes for carbon fixation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>750000.00</AwardTotalIntnAmount>
+<AwardAmount>750000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bianca Garner</SignBlockName>
+<PO_EMAI>bgarner@nsf.gov</PO_EMAI>
+<PO_PHON>7032927587</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>There is an urgent need to reduce atmospheric carbon dioxide, the most abundant greenhouse gas that is driving global warming. Although much of the world’s CO2 is stored in plants, plants are carbon limited, particularly C3 plants which include many food and biofuel crops. This project will develop a simplified version of one of the alternative carbon-fixing pathways, the reductive TCA cycle, with the idea of introducing it into biofuel crops to increase CO2 fixation and plant productivity. Two of the enzymes that fix CO2 in this cycle are derived from thermophilic organisms that live at over 90 °C in hot springs and deep ocean vents. Enzymes active at high temperatures are less flexible at room temperature than related enzymes active at lower temperature. This project will develop an application of single particle cryoEM to analyze enzyme flexibility, where the PI will study cryoEM at the National Institute of Environmental Health Sciences (NIEHS). The PI will create a computational model of the simplified reductive TCA cycle that will then be used to characterize the cycle as a whole and predict how it will function in plants. In addition to training undergraduates, workshops will be held at North Carolina State University and at local minority-serving universities, expanding access to cryoEM. Finally, the PI will develop a capstone class for Biochemistry seniors, with an emphasis in combating global warming. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The long-term goal of this project is to increase the yield of C3 plants by supplementing carbon fixation by Rubisco in the Calvin Cycle. The investigators will optimize a synthetic version of the reductive TCA cycle developed by researchers at NCSU composed of just five enzymes. The slow step of the cycle is catalyzed by two thermophilic enzymes: 2-Oxoglutarate Carboxylase (OGC) and Oxalosuccinate Reductase (OSR), enzymes that utilize ATP to capture bicarbonate from solution and carboxylate and reduce 2-oxoglutarate to isocitrate. An integral component of the research strategy is based on comparing the temperature dependent activity and dynamics of thermophilic and related mesophilic enzymes. Thermophilic enzymes are typically stable at room temperature but not very active due to reduced dynamics. The PI will develop a protocol to analyze enzyme dynamics by variable temperature single-particle cryoEM during a six-month sabbatical at NIEHS. Samples will be vitrified from different temperatures, between 4-50 °C, with the Leica vitrobot at NIEHS, capturing multiple conformations that reflect the dynamics at that temperature. The dynamics will be modeled by Molecular Dynamics simulation. Variable temperature techniques will be applied to OGC and OSR. In addition, the rate-limiting step of these enzymes will be identified via a series of enzyme assays. Predicted temperature-associated residues will be tested through mutagenesis. The PI will develop a high temperature vitrification protocol using a Linkham cryostage, where the vitrified sample is heated with a laser under liquid nitrogen vapor, then rapidly refrozen. Finally, the team will develop a computational flux model of the synthetic rTCA cycle, in collaboration with Megan Matthews at the University of Illinois at Urbana-Champaign. The computational model will provide perspective for the future optimization of the crTCA cycle and its application in plant hosts.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414048</AwardID>
+<Investigator>
+<FirstName>Amy</FirstName>
+<LastName>Grunden</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amy M Grunden</PI_FULL_NAME>
+<EmailAddress><![CDATA[amy_grunden@ncsu.edu]]></EmailAddress>
+<NSF_ID>000119343</NSF_ID>
+<StartDate>06/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Rose</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert B Rose</PI_FULL_NAME>
+<EmailAddress><![CDATA[Bob_Rose@ncsu.edu]]></EmailAddress>
+<NSF_ID>000204018</NSF_ID>
+<StartDate>06/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Megan</FirstName>
+<LastName>Matthews</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Megan L Matthews</PI_FULL_NAME>
+<EmailAddress><![CDATA[mlmatth2@illinois.edu]]></EmailAddress>
+<NSF_ID>000928352</NSF_ID>
+<StartDate>06/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276950001</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NVH931QJJ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276957622</ZipCode>
+<StreetAddress><![CDATA[128 Polk Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>801100</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~750000</FUND_OBLG>
+</Award>
+</rootTag>

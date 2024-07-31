@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CNS: Medium: Scaling the bandwidth-per-TB wall with declarative distributed storage interfaces]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>1193601.00</AwardTotalIntnAmount>
+<AwardAmount>783402</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erik Brunvand</SignBlockName>
+<PO_EMAI>ebrunvan@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Large distributed storage systems within datacenters are primary components of cloud, Internet service, and data analytics infrastructures, and storage capacity demand is growing rapidly with the rise of data science, machine learning, and artificial intelligence.  Analysts estimate that 175 zettabytes of data will be generated annually by 2025, most of which will be stored in data centers, which would require over 8 billion 20terabyte (20TB) mechanical Hard Disk Drives (HDDs) before accounting for data redundancy needed to protect data from device failures.  Since such numbers are untenable, new technologies that allow higher capacity devices are being created, but they do not provide greater performance.  The result is a coming performance “wall”, where the available access bandwidth-per-TB of stored data is too low to allow that data to be stored, maintained, and used.&lt;br/&gt;&lt;br/&gt;The goal of this research is to reimagine the decades-old application interfaces used for datacenter storage to enable large reductions in the bandwidth needed so that higher-capacity devices can be used.  Existing input/output (IO) interfaces are imperative, such as “read this now” or “put this now”, which is easy for programmers but restrictive and inefficient for the system.  This research will develop new “declarative” IO interfaces and orchestration approaches that allow programmers to express larger data access plans/needs and thereby allow the storage system to coordinate, coalesce, and schedule IO to minimize the aggregate bandwidth-per-TB needed by the various applications and data maintenance tasks required for reliable datacenter storage.  The results will be more sustainable and cost-effective datacenter storage, eliminating the need to manufacture and deploy millions of HDDs, reducing Flash and DRAM cache requirements, and enabling deployment of new data maintenance activities that make data more useful, secure, and reliable.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402838</AwardID>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Ganger</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gregory R Ganger</PI_FULL_NAME>
+<EmailAddress><![CDATA[ganger@ece.cmu.edu]]></EmailAddress>
+<NSF_ID>000328442</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>George</FirstName>
+<LastName>Amvrosiadis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>George Amvrosiadis</PI_FULL_NAME>
+<EmailAddress><![CDATA[gamvrosi@cmu.edu]]></EmailAddress>
+<NSF_ID>000784427</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>735400</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~783402</FUND_OBLG>
+</Award>
+</rootTag>

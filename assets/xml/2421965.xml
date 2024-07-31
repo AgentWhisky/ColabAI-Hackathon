@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAP-HI/GOALI: Engineering Crops for Genetic Adaptation to Changing Enviroments]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>1999999.00</AwardTotalIntnAmount>
+<AwardAmount>985603</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Kramer</SignBlockName>
+<PO_EMAI>bkramer@nsf.gov</PO_EMAI>
+<PO_PHON>7032925348</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Leading Engineering for America's Prosperity, Health, and Infrastructure (LEAP-HI) Grant Opportunities for Academic Liaison with Industry (GOALI) project addresses the NSF Big Ideas of Understanding the Rules of Life and Harnessing the Data Revolution in targeting the need to provide food, fiber and fuel for a growing population using fewer resources (land, water, pesticides and fertilizers) in uncertain and rapidly changing environments. It is widely recognized that current agricultural technologies, from crop genetic improvement to field crop production, will not meet future agricultural demands, due to their heavy reliance on expensive, time-consuming, trail and error field trials to develop improved plant breeds. Emerging mathematical optimization and machine learning methods for analyzing high-dimensional data provide opportunities to speed up plant breeding to achieve rapid and efficient adaptation of crops to changing environments. The approaches in this project will take advantage of engineering techniques that have been used to remarkably improve the efficiency and resiliency of communication, manufacturing, transportation and energy systems.  The research requires the synthesis of multiple disciplines, including agronomy, crop modeling, machine learning, operations research, optimization and plant breeding and aims to demonstrate the leadership role of engineering in addressing agricultural challenges.&lt;br/&gt;&lt;br/&gt;Three technical issues, which represent a small but highly visible subset of agronomic systems, will be addressed: (1) accurately predicting plant phenotypes based on genetic, agronomic management and environmental data and their interactions; (2) design of genetic improvement systems to efficiently develop cultivars with superior phenotypes; and (3) design of crop management strategies to assure that crops achieve superior phenotypes under changing environments, while balancing reward, time, and risk in the decision-making process. The research team will first translate the technical issues into engineering objectives and then identify existing methods and design new ones to achieve the objectives. The corresponding engineering objectives are: (1) identify a small subset of variables associated with synergistic effects in addition to their additive effects; (2) design a set of algorithms for genomic selection, which is a special type of nonlinear, non-convex, high-dimensional, and dynamic optimization problem constrained by resource availability and laws of reproductive biology; and (3) create a set of multi-objective and multi-level optimization models and algorithms for balancing reward, time, and risk, subject to genetic, environmental, and logistical constraints. Achieving these objectives will demonstrate the power of engineering approaches in improving the efficiency and resiliency of agronomic systems, with the aim of establishing plant breeding as an engineering discipline.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421965</AwardID>
+<Investigator>
+<FirstName>Lizhi</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lizhi Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[lizhi.wang@okstate.edu]]></EmailAddress>
+<NSF_ID>000209028</NSF_ID>
+<StartDate>03/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Oklahoma State University]]></Name>
+<CityName>STILLWATER</CityName>
+<ZipCode>740781031</ZipCode>
+<PhoneNumber>4057449995</PhoneNumber>
+<StreetAddress><![CDATA[401 WHITEHURST HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OK03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNYDFK5FTSX9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OKLAHOMA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Oklahoma State University]]></Name>
+<CityName>STILLWATER</CityName>
+<StateCode>OK</StateCode>
+<ZipCode>740781031</ZipCode>
+<StreetAddress><![CDATA[401 WHITEHURST HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OK03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>068Y00</Code>
+<Text>LEAP-HI Leading Engineering fo</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>150400</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>158Y00</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5514</Code>
+<Text>OPERATIONS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8024</Code>
+<Text>Complex Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~820460</FUND_OBLG>
+<FUND_OBLG>2019~66910</FUND_OBLG>
+<FUND_OBLG>2020~98233</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A Search for Self-Lensing Compact Binaries with the Zwicky Transient Facility]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>526252.00</AwardTotalIntnAmount>
+<AwardAmount>526252</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hans Krimm</SignBlockName>
+<PO_EMAI>hkrimm@nsf.gov</PO_EMAI>
+<PO_PHON>7032922761</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Milky Way galaxy is home to possibly as many as 100,000,000 black holes (BH) and neutron stars (NS), known collectively as compact objects.  However, by their very nature, compact objects are very difficult to detect.  Most compact objects, particularly BHs, are detected through their close interaction with a normal star companion, a relatively rare situation.  A research program at the University of Washington aims to expand the search for compact objects by looking for them in “detached” binary star systems, in which the star and compact object orbit each other but do not interact.  They will do this using archival data from the NSF-supported Zwicky Transient Facility (ZTF), developing and applying novel methods for identifying gravitational self-lensing, in which light from the companion star is repeatedly gravitationally lensed as the compact object passes in front of it, creating a periodic brightening pulse.  Student training integral to this work will involve undergraduate and graduate students in data-intensive discovery and position them competitively for a wide range of STEM careers. Citizen scientists will help vet candidate self-lensing systems, providing an opportunity for them to engage in leading-edge scientific research.&lt;br/&gt;&lt;br/&gt;The inventory of Galactic BH and NS binaries remains both highly incomplete and biased towards the most extreme interacting systems. In particular, poor observational constraints on the rate and spatial distribution of unseen but numerous non-accreting compact binaries currently limit our knowledge of stellar and binary evolution, including the effects of the initial mass function and supernova natal kicks.  Drawing on the team’s experience with ZTF data, they will conduct a systematic search for Galactic self-lensing binaries among the more than 4.7 billion archival light curves provided by ZTF. They will employ multiple approaches to identify self-lensing signals at a wide range of binary orbital periods. These will include flare searches in ZTF continuous-cadence data, residual searches in ellipsoidal variables, and box-least-squares periodicity searches in sparsely sampled survey data. Follow-up photometric and spectroscopic observations will enable confirmation of candidates and refinement of the derived system parameters. Population synthesis modeling of the resulting candidates will enable new constraints on the mass, orbital period, and spatial distribution of compact objects and reveal poorly-probed phases of binary evolution.  Training a graduate student to use these tools will help advance the NSF objective to grow a diverse, globally-competitive STEM workforce. Mentorship of minoritized undergraduates through the University of Washington’s Pre-Major in Astronomy Program as well as in paid summer research will increase the involvement of communities under-represented in STEM.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407474</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Bellm</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric C Bellm</PI_FULL_NAME>
+<EmailAddress><![CDATA[ecbellm@uw.edu]]></EmailAddress>
+<NSF_ID>000762850</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981951016</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress><![CDATA[4333 BROOKLYN AVE NE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WASHINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>SEATTLE</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981951016</ZipCode>
+<StreetAddress><![CDATA[4333 BROOKLYN AVE NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>121500</Code>
+<Text>STELLAR ASTRONOMY &amp; ASTROPHYSC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>043Z</Code>
+<Text>PPSR- Public Participation in Scientific</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7480</Code>
+<Text>ARCHIVAL DATA ANALYSIS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~526252</FUND_OBLG>
+</Award>
+</rootTag>

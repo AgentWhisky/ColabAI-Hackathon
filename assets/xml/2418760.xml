@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Calculation of Molecular Properties with Multicomponent Methods]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>510000.00</AwardTotalIntnAmount>
+<AwardAmount>510000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michel Dupuis</SignBlockName>
+<PO_EMAI>mdupuis@nsf.gov</PO_EMAI>
+<PO_PHON>7032922919</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Theory, Models and Computational Methods Program in the Division of Chemistry, Kurt Brorsen of the University of Missouri-Columbia is developing techniques to compute molecular properties with multicomponent methods to account for critically important quantum mechanical effects. Part of the great success of quantum chemistry in the last fifty years has been its extension to the precise and accurate calculation of molecular properties such as structural and spectroscopic constants or nuclear magnetic resonance chemical shifts. However, most standard methods of quantum chemistry do not capture changes due to nuclear quantum effects. This can lead to errors that reduce the predictive ability of computation. Dr. Brorsen and his research group will extend a class of quantum-chemistry methods called multicomponent methods that inherently include nuclear quantum effects to the calculation of a variety of molecular properties. He will apply the methods to calculate the properties of small astrochemically relevant molecules hypothesized to be present in the interstellar medium. Building on an existing partnership with a regional area high school, Dr. Brorsen will implement a new educational program, Summer Chemistry Research at Mizzou (SCRAM), that will provide area high school students with research opportunities in computational chemistry. Through the SCRAM program, Dr. Brorsen and his group will introduce high school students to how computers can be used to calculate simple molecular properties such as bond distances.&lt;br/&gt;&lt;br/&gt;Multicomponent methods include nuclear quantum effects such as finite-sized nuclei and vibrational averaging in computational chemistry calculations by using a multicomponent Hamiltonian that treats electrons and nuclei identically and on equal footing. While the field of multicomponent methods has made great progress in the last few years, most previous studies have used multicomponent density functional theory (DFT) to compute quantities related to the potential energy surface. Dr. Brorsen and his group will extend the applicability of multicomponent DFT methods by developing multicomponent DFT methods to compute magnetic properties such as nuclear magnetic resonance shielding constants, indirect nuclear spin-spin coupling constants, and EPR hyperfine tensors. They will use these new methods to investigate actinide oxide compounds studied at the University of Missouri-Columbia. Dr. Brorsen and his group plan to derive and implement a constrained multicomponent coupled-cluster (CC) method. He and his group will also implement the first multicomponent CC analytic gradient. This will enable computationally efficient geometry optimizations and semi-numerical Hessians to be performed using multicomponent CC methods. The group will use the multicomponent CC method to compute the rotational constants and centrifugal-distortion constants of astrochemically relevant molecules such as HC3N and HC3NH+. All code from the project will be released with the Apache 2.0 permissive free software license to allow other researchers to use the methods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418760</AwardID>
+<Investigator>
+<FirstName>Kurt</FirstName>
+<LastName>Brorsen</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kurt R Brorsen</PI_FULL_NAME>
+<EmailAddress><![CDATA[brorsenk@missouri.edu]]></EmailAddress>
+<NSF_ID>000859481</NSF_ID>
+<StartDate>04/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Missouri-Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>652113020</ZipCode>
+<PhoneNumber>5738827560</PhoneNumber>
+<StreetAddress><![CDATA[121 UNIVERSITY HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SZPJL5ZRCLF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Curators of the University of Missouri]]></Name>
+<CityName>COLUMBIA</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>652110001</ZipCode>
+<StreetAddress><![CDATA[601 Turner Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688100</Code>
+<Text>Chem Thry, Mdls &amp; Cmptnl Mthds</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~510000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[ENG-NETZERO/Collaborative Research: Digital Twin Solutions for Energy Provision Logistics in Three-Sided Electric Mobility Markets]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>294929.00</AwardTotalIntnAmount>
+<AwardAmount>294929</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Siqian Shen</SignBlockName>
+<PO_EMAI>siqshen@nsf.gov</PO_EMAI>
+<PO_PHON>7032927048</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award will fund research that attempts to establish a new framework for digital twin modeling of urban energy delivery strategies. This framework is grounded in logistics and platform economics and leverages both model-based and data-driven approaches, along with a living lab and industry collaboration. The research project aims to address fundamental challenges in integrating electric mobility into urban infrastructure, ensuring efficient energy delivery while promoting sustainability and economic viability. The project's significance lies in its potential to enhance urban energy efficiency, reduce greenhouse gas emissions, and support the integration of renewable energy sources in a manner that inclusively serves all communities. By fostering collaboration between academia and industry, this research will contribute to the advancement of science and technology in urban energy systems. Additionally, it will support education by providing students with hands-on experience and exposure to interdisciplinary topics in energy and mobility with real-world data. The project also aims to promote diversity in STEM fields by engaging a broad range of students and researchers.&lt;br/&gt;&lt;br/&gt;The research consists of three thrusts designed to address the complexities of urban energy delivery through digital twin modeling. The first thrust will design a three-sided market modeling framework that captures the interactions between travelers, mobility providers, and energy providers. This framework will incorporate mechanisms from logistics and platform economics to understand and optimize the dynamics within electric mobility markets. The second thrust focuses on developing a scalable digital twin environment to support comprehensive analysis and decision-making for these ecosystems. This environment will integrate both model-based and data-driven approaches, enabling the simulation and evaluation of various strategies and their impacts on urban energy delivery. The third thrust aims to create an "energy delivery playbook" by identifying diverse strategies through industry collaboration and testing them in theoretical and living lab environments. This playbook will provide guidelines and best practices for implementing effective energy delivery solutions in urban settings. The research will establish fundamental bounds on the achievable performance of three-sided electric mobility markets and develop tools and algorithms with guaranteed performance metrics. By combining theoretical analysis with practical application, the project will offer robust solutions to enhance the efficiency and sustainability of urban energy systems. The integration of this research into education through a dedicated software platform will further extend its impact, offering students valuable experience and fostering the next generation of infrastructure experts.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423908</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Chow</LastName>
+<PI_MID_INIT>Y</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joseph Y Chow</PI_FULL_NAME>
+<EmailAddress><![CDATA[joseph.chow@nyu.edu]]></EmailAddress>
+<NSF_ID>000700281</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>163100</Code>
+<Text>CIS-Civil Infrastructure Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>029E</Code>
+<Text>INFRASTRUCTURE SYSTEMS MGT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~294929</FUND_OBLG>
+</Award>
+</rootTag>

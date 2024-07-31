@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FRG: Collaborative Research: Singularities in Incompressible Flows: Computer Assisted Proofs and Physics-Informed Neural Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>138009.00</AwardTotalIntnAmount>
+<AwardAmount>138009</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Whether three-dimensional incompressible flows develop singularities in finite time and whether (weak) solutions of Navier-Stokes equations are unique, are two of the most important problems in mathematical fluid dynamics. Any progress towards resolving these problems would have significant implications for the entire field. This project integrates theoretical proofs, numerical analysis, and machine learning for understanding singularities in fluids. Our recent investigations demonstrate that intersection between mathematical proofs and deep learning offers an exciting avenue for understanding how singularity occurs in fluids. Together, the five PIs encompass strengths in several areas such as mathematical analysis, numerical simulation, or computer-assisted proofs. In addition, the project will foster collaborations and increased interactions between the researchers at several leading research universities in the US, utilizing tools developed in one field to advance another, and promote learning and training of students and postdoctoral researchers with a goal of broadening the participation of researchers from underrepresented groups in the mathematical sciences.&lt;br/&gt;&lt;br/&gt;The PIs will focus on three specific projects: (1) non-uniqueness of the Leray-Hopf solutions of the Navier Stokes equations in 3 dimensions, (2) formation of singularities for solutions of the three-dimensional Euler equations, and (3) optimization of physics-informed neural networks (PINN). Students, postdoctoral fellows, and visitors will be actively involved in these collaborations. To promote these exchanges research workshops will be organized once a year at the PIs’ institutions. These meetings will have two main objectives: a training objective, involving lectures to disseminate current ideas and progress; and an annual meeting of the PIs to review the progress and plan future steps. The PIs will also organize a summer school at Princeton University, aimed at graduate students and advanced undergraduate students. The summer school will have a scientific component, including minicourses on the mathematics of fluids, and a mentorship component, including a round table discussion regarding careers in mathematics and a women in mathematics panel.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/08/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>12/08/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403764</AwardID>
+<Investigator>
+<FirstName>Tristan</FirstName>
+<LastName>Buckmaster</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tristan Buckmaster</PI_FULL_NAME>
+<EmailAddress><![CDATA[tb97@nyu.edu]]></EmailAddress>
+<NSF_ID>000705322</NSF_ID>
+<StartDate>12/08/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>128100</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1616</Code>
+<Text>FOCUSED RESEARCH GROUPS IN MATH SCIENCES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~138009</FUND_OBLG>
+</Award>
+</rootTag>

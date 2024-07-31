@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: Second Generation Kitaev Magnets - Development and Preliminary Characterization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Mann</SignBlockName>
+<PO_EMAI>elmann@nsf.gov</PO_EMAI>
+<PO_PHON>7032922655</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Non-technical abstract&lt;br/&gt;&lt;br/&gt;The field of quantum computing is currently very active because of the need to solve complex problems in fields like finance, medicine and climate. Those complex problems involve an enormous number of parameters that present-day computers and algorithms cannot handle, but quantum computers may. The first step towards this is to create a qubit – the basic building block of a quantum computer. One route to creating a qubit exploits the minimum-energy state of a particular type of solid, called a quantum spin liquid. This project investigates a new family of compounds generically known as Kitaev magnets to realize such a qubit, which has the advantage of being error-free. In addition, the education and research activities in this project introduces Hispanic high school and undergraduate students in El Paso region of Texas to the field of experimental physics, thereby developing capabilities at a minority Hispanic serving institution. &lt;br/&gt;&lt;br/&gt;Technical abstract&lt;br/&gt;&lt;br/&gt;The Kitaev model on a honeycomb lattice of spin-half entities predicts a spin liquid ground state and the possibility of topological quantum computation. First generation Kitaev magnets were 4d/5d honeycombs with spin-orbit coupling being operative, wherein the primary ingredient is a bond-centered magnetic exchange. However, real compounds show non-spin liquid phases due to additional isotropic exchanges and disorder. Following the hypothesis that alkali size, coordination and valency can tune the magnetic exchange via anion-mediated superexchange, this project examines second generation Kitaev systems in A2M2TeO6 family (A = Na, Ag; M = Ni, Cu). To understand the microscopic features of the crystal/magnetic structures and chemical coordination of the proposed compounds, X-ray and neutron scattering studies will be undertaken. Comprehensive magnetic field- and temperature-dependent magnetic phase diagrams of the second generation Kitaev magnets will be compiled from the measured physical properties.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418893</AwardID>
+<Investigator>
+<FirstName>Harikrishnan</FirstName>
+<LastName>Nair</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Harikrishnan S Nair</PI_FULL_NAME>
+<EmailAddress><![CDATA[hnair@utep.edu]]></EmailAddress>
+<NSF_ID>000796756</NSF_ID>
+<StartDate>07/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at El Paso]]></Name>
+<CityName>EL PASO</CityName>
+<ZipCode>799688900</ZipCode>
+<PhoneNumber>9157475680</PhoneNumber>
+<StreetAddress><![CDATA[500 W UNIVERSITY AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C1DEGMMKC7W7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF TEXAS AT EL PASO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>C1DEGMMKC7W7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at El Paso]]></Name>
+<CityName>EL PASO</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>799680001</ZipCode>
+<StreetAddress><![CDATA[500 W UNIVERSITY AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>217Y00</Code>
+<Text>LEAPS-MPS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~250000</FUND_OBLG>
+</Award>
+</rootTag>

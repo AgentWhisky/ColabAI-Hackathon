@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SCC-IRG Track 2: NeighborDrive: Community-driven Neighborhood Wellbeing Improvement through Active Vehicular Crowdsensing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>1461134.00</AwardTotalIntnAmount>
+<AwardAmount>1461134</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vishal Sharma</SignBlockName>
+<PO_EMAI>vsharma@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Cities across the US have experienced a significant increase in people experiencing homelessness, especially since the beginning of the COVID pandemic. Timely and early intervention that improves the well-being of those who are experiencing homelessness significantly improves their outcomes, reduces time spent in homelessness, and prevents persistent homelessness. However, because of the dynamic movements of unhoused persons (due to clearing of encampments, weather, safety, etc.) coupled with a reluctance to provide information to the authorities, it is difficult for existing programs to determine the magnitude and location of service needs and to ensure that well-intentioned programs do not inadvertently reduce overall wellbeing. The project will support research that will measure neighborhood conditions and factors that impact the wellbeing of homeless populations through cameras, noise, and environmental sensors mounted on cars driving throughout the city of San Jose. This data will help determine neighborhood conditions at a granular level and the localized need of the homeless population and to optimize the services they receive (e.g., meal delivery, trash and waste removal, and toilets) through our partners including the City of San Jose, Loaves &amp; Fishes, and Feed My Lamb.&lt;br/&gt;&lt;br/&gt;The project has four main technical research steps to achieve the goal of understanding neighborhood wellbeing and the local needs of the homeless population: (1) developing a community-driven vehicular and mobile crowdsensing system to measure neighborhood conditions, (2) designing clustered federated learning algorithms to reconstruct city-wide maps of neighborhood environments and service needs, (3) modeling the causal relationships between neighborhood environments and wellbeing across different communities, and (4) developing methods to optimize services to improve and reduce inequality in wellbeing. The research project involves three types of community partners: local food pantries, local residents, and the city government of San Jose. Through collaboration with these partners, the project will have immediate impact to provide localized actionable needs relating to food, trash, and toilets, and to improve the wellbeing of vulnerable populations in San Jose, CA. The methods and models developed in the project will be generally applicable to other cities and areas with diverse neighborhoods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409138</AwardID>
+<Investigator>
+<FirstName>Sarah</FirstName>
+<LastName>Billington</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sarah L Billington</PI_FULL_NAME>
+<EmailAddress><![CDATA[billington@stanford.edu]]></EmailAddress>
+<NSF_ID>000201091</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Pei</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pei Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[peizhang@umich.edu]]></EmailAddress>
+<NSF_ID>000518655</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hae Young</FirstName>
+<LastName>Noh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hae Young Noh</PI_FULL_NAME>
+<EmailAddress><![CDATA[noh@stanford.edu]]></EmailAddress>
+<NSF_ID>000629725</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carlee</FirstName>
+<LastName>Joe-Wong</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carlee Joe-Wong</PI_FULL_NAME>
+<EmailAddress><![CDATA[cjoewong@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000736588</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jackelyn</FirstName>
+<LastName>Hwang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jackelyn Hwang</PI_FULL_NAME>
+<EmailAddress><![CDATA[jihwang@stanford.edu]]></EmailAddress>
+<NSF_ID>000834286</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>STANFORD</CityName>
+<ZipCode>943052004</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress><![CDATA[450 JANE STANFORD WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJD6G4D6TJY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE LELAND STANFORD JUNIOR UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>STANFORD</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943052004</ZipCode>
+<StreetAddress><![CDATA[450 JANE STANFORD WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>033Y00</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1461134</FUND_OBLG>
+</Award>
+</rootTag>

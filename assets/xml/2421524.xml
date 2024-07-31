@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Next Generation Polarized Scattering Instrument for Ocean Biogeochemistry Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>847482.00</AwardTotalIntnAmount>
+<AwardAmount>847482</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kandace Binkley</SignBlockName>
+<PO_EMAI>kbinkley@nsf.gov</PO_EMAI>
+<PO_PHON>7032927577</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The scattering and absorption of light within seawater is driven by the materials within it. Absorption is the loss of light due to conversion to other forms of energy (such as by photosynthesis), and scattering is the redirection of light by molecules and suspended particles. In seawater, these materials can include the water itself, salts and other dissolved substances, biological organisms and their detritus, minerals,bubbles, and complex aggregates. Because absorption and scattering are affected by the materials in the medium, characteristics such as wavelength dependence, angular distribution, and polarization can be used as proxies to infer properties of the material constituents. This proxy approach is attractive because in situ optical sensors can make observations at high resolution (sub-centimeter and sub-second) in undisturbed water and are adaptable to autonomous platforms such as floats and gliders. In contrast, discrete sampling and sediment trap approaches are limited to larger-scale field efforts or campaigns, disrupt samples during the act of sampling or storage, are more spatially and temporally biased, and often have significant lab processing costs. Scattering is animportant measurement since it underpins thesatellite ocean color remote sensing signal used to understand global ocean change, and simple scattering sensors are being used extensively as proxies to quantify and constrain particle biogeochemical processes on autonomous platforms (for example, Biogeochemical Argo). However, assumptions and uncertainty involved in using scattering measurements as biogeochemical proxies directly equate to uncertainty in estimates for parameters such as particulate mass, size distributions, phytoplankton standing stock, and particulate organic carbon. There is also far more potential information content about suspended particles embodied by the scattering process beyond what is currently measured by single angle, unpolarized, and one or two wavelength scattering sensors that are typically deployed.&lt;br/&gt;&lt;br/&gt;The objective of this project is to develop a next generation in situ instrument for measurement of the volume scattering function (VSF) in the ocean that will cover a wide range of angles, characterize the degree of linear polarization of scattering, include multiple illumination wavelengths, and include detectors near direct backscattering that are crucial to advancing our understanding of lidar remote sensing. The proposed instrument will provide a powerful new tool for studying particle composition and refining and developing optical-biogeochemical proxies. The target application of the instrument is studying particle composition and flux, with a key aim of the work being to make the instrument deployable on autonomous platforms and make measurement of the VSF (including near-180° and degree of linear polarization) more routine and widespread. This will support acquisition of a large VSF database from which optical-biogeochemical proxies such as estimates of particle size distributions, composition (density and mineral vs. organic characteristics), and possibly shape and orientation information can be refined and developed&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421524</AwardID>
+<Investigator>
+<FirstName>Wayne</FirstName>
+<LastName>Slade</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wayne H Slade</PI_FULL_NAME>
+<EmailAddress><![CDATA[wayneslade@fau.edu]]></EmailAddress>
+<NSF_ID>000609326</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Twardowski</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael S Twardowski</PI_FULL_NAME>
+<EmailAddress><![CDATA[mtwardowski@fau.edu]]></EmailAddress>
+<NSF_ID>000797394</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Florida Atlantic University]]></Name>
+<CityName>BOCA RATON</CityName>
+<ZipCode>334316424</ZipCode>
+<PhoneNumber>5612970777</PhoneNumber>
+<StreetAddress><![CDATA[777 GLADES RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL23</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q266L2NDAVP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA ATLANTIC UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida Atlantic University]]></Name>
+<CityName>BOCA RATON</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>334316424</ZipCode>
+<StreetAddress><![CDATA[777 GLADES RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL23</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>168000</Code>
+<Text>OCEAN TECH &amp; INTERDISC COORDIN</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~847482</FUND_OBLG>
+</Award>
+</rootTag>

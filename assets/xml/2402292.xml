@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Postdoctoral Fellowship: MPS-Ascend: Global Kinetic Modeling of Compact Binary Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hans Krimm</SignBlockName>
+<PO_EMAI>hkrimm@nsf.gov</PO_EMAI>
+<PO_PHON>7032922761</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Jorge Ivan Cortés is awarded an NSF Mathematical and Physical Sciences Ascending Postdoctoral Research Fellowship (MPS-Ascend) to conduct a program of research and education at the University of California, Santa Cruz. Cortés will use computational simulations to study the extreme environments surrounding neutron stars in binary systems. This study will result in physically-grounded models that will lead to a better understanding of some of the most violent astrophysical phenomena. In tandem with the research program, Cortés will mentor participants of the UC Santa Cruz Lamat Institute, as well as develop and lead workshops (of various topics, e.g., high-performance computing, scientific programming, data visualization, etc.) for students of neighboring community colleges. &lt;br/&gt;&lt;br/&gt;Cortés intends to study the particle acceleration and non-thermal emission from neutron stars in binary systems via global fully-kinetic radiative particle-in-cell (PIC) simulations. Through the proposed research program, Cortés will (1) conduct 3D PIC simulations of the interaction between a neutron star’s wind and a nearby companion — taking Black Widow pulsars and TeV binaries as inspiration for simulation setup — and (2) determine the relative role of shock-driven magnetic reconnection in mediating efficient particle acceleration, and the impact of the resulting particle populations on the observed spectra and lightcurves. While the main focus is on compact binary systems, the question of particle acceleration in magnetically-dominated plasmas is of profound relevance to the physics of Poynting-flux-dominated relativistic outflows in other systems, like jets of active galactic nuclei and gamma-ray bursts. Thus, Cortés anticipates the findings of this project to be of broad interest to the whole high-energy astrophysics community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/13/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/13/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402292</AwardID>
+<Investigator>
+<FirstName>Jorge</FirstName>
+<LastName>Cortes</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jorge I Cortes</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000954362</NSF_ID>
+<StartDate>05/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Cortes, Jorge Ivan]]></Name>
+<CityName>New York</CityName>
+<ZipCode>10027</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California, Santa Cruz]]></Name>
+<CityName>Santa Cruz</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950641077</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>187Y00</Code>
+<Text>ASCEND - MPS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7487</Code>
+<Text>BROADENING PARTICIPATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~200000</FUND_OBLG>
+</Award>
+</rootTag>

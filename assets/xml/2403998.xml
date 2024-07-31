@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Probing Molecular Folding and Unfolding Rates Through Time-resolved Measurement of Ion-Neutral Collision Cross Sections]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>374720.00</AwardTotalIntnAmount>
+<AwardAmount>248175</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jose Almirall</SignBlockName>
+<PO_EMAI>jalmiral@nsf.gov</PO_EMAI>
+<PO_PHON>7032927434</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, Professor David Dearden and his research group at Brigham Young University are developing new tools to measure the folding and unfolding of simple, isolated molecules upon heating or cooling. These fundamental studies are important because they will make it possible to discover how molecular structure correlates with the energy is associated with its folding/unfolding and how quickly this takes place, in the absence of the complicating effects of other nearby molecules. This is key information, for example, in addressing problems that involve basic components of molecular devices such as "wheel and axle" structures that could be used in switches and memory storage devices built from the smallest possible parts, individual molecules. These new characterization methods are fundamental to applications that may impact manufacturing, computing, and medicine. This work will be carried out by graduate students who will be trained in advanced analytical techniques that are vital for the U.S. biotechnology industry, and by undergraduate students who will gain experience in chemical research that prepares them to enter the future science and technology workforce.&lt;br/&gt;&lt;br/&gt;Prior studies of changes in collision cross sections of gas phase ions have focused on large protein molecules and are based on ion mobility or traveling wave techniques. Such large molecules usually have complex structures, making observed changes in collision cross sections difficult to interpret, difficult to model, and difficult to correlate with structure. The work to be carried out here uses powerful but non-specialized Fourier transform ion cyclotron resonance mass spectrometric (FT-ICR MS) instrumentation to study smaller molecules that have a limited number of well-defined conformational possibilities and are straightforward to model computationally, facilitating discovery of correlations between structure and folding energetics and kinetics in a simple, solvent-free environment. The overall goal is to characterize the change in size of molecules following activation through desolvation, collisions, or photon absorption, followed by subsequent collisional or radiative cooling. These fundamental studies are important because much of chemical and biochemical reactivity and kinetics depends on molecular shape, and the ability to change shape as well as the rate of change can be an important modulator of chemical behavior. Because the cross section measurement methods developed here have been shown to be transferable to Orbitrap mass spectrometers and to the emerging field of electrostatic linear ion traps, the techniques developed here are expected to be immediately useful for interpretation of biomolecular studies such as those of the collision-induced unfolding of peptides.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403998</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Dearden</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David V Dearden</PI_FULL_NAME>
+<EmailAddress><![CDATA[david_dearden@byu.edu]]></EmailAddress>
+<NSF_ID>000367777</NSF_ID>
+<StartDate>05/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Asplund</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew C Asplund</PI_FULL_NAME>
+<EmailAddress><![CDATA[matthew.asplund@byu.edu]]></EmailAddress>
+<NSF_ID>000426060</NSF_ID>
+<StartDate>05/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Brigham Young University]]></Name>
+<CityName>PROVO</CityName>
+<ZipCode>846021128</ZipCode>
+<PhoneNumber>8014223360</PhoneNumber>
+<StreetAddress><![CDATA[A-153 ASB]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JWSYC7RUMJD1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BRIGHAM YOUNG UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Brigham Young University]]></Name>
+<CityName>PROVO</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>846021128</ZipCode>
+<StreetAddress><![CDATA[A-153 ASB]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688000</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~248175</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Comparative Study of Finite Element and Neural Network Discretizations for Partial Differential Equations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>550000.00</AwardTotalIntnAmount>
+<AwardAmount>140889</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This research connects two different fields, machine learning from data science and numerical partial differential equations from scientific and engineering computing, through the comparative study of the finite element method and finite neuron method. Finite element methods have undergone decades of study by mathematicians, scientists and engineers in many fields and there is a rich mathematical theory concerning them. They are widely used in scientific computing and modelling to generate accurate simulations of a wide variety of physical processes, most notably the deformation of materials and fluid mechanics. By contrast, deep neural networks are relatively new and have only been widely used in the last decade. In this short time, they have demonstrated remarkable empirical performance on a wide variety of machine learning tasks, most notably in computer vision and natural language processing. Despite this great empirical success, there is still a very limited mathematical understanding of why and how deep neural networks work so well. We hope to leverage the success of deep learning to improve numerical methods for partial differential equations and to leverage the theoretical understanding of the finite element method to better understand deep learning. The interdisciplinary nature of the research will also provide a good training experience for junior researchers. This project will support 1 graduate student each year of the three year project. &lt;br/&gt;&lt;br/&gt;Piecewise polynomials represent one of the most important functional classes in approximation theory.  In classical approximation theory and numerical methods for partial differential equations, these functional classes are often represented by linear functional spaces associated with a priori given grids, for example, by splines and finite element spaces. In deep learning, function classes are typically represented by a composition of a sequence of linear functions and coordinate-wise non-linearities. One important non-linearity is the rectified linear unit (ReLU) function and its powers (ReLUk).  The resulting functional class, ReLUk-DNN, does not form a linear vector space but is rather parameterized non-linearly by a high-dimensional set of parameters.  This function class can be used to solve partial differential equations and we call the resulting numerical algorithms the finite neuron method (FNM). Proposed research topics include: error estimates for the finite neuron method, universal construction of conforming finite elements for arbitrarily high order partial differential equations, an investigation into how and why the finite neuron method gives a much better asymptotic error estimate than the corresponding finite element method, and the development and analysis of efficient algorithms for using the finite neuron method.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2424305</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Siegel</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonathan W Siegel</PI_FULL_NAME>
+<EmailAddress><![CDATA[jwsiegel@tamu.edu]]></EmailAddress>
+<NSF_ID>000816689</NSF_ID>
+<StartDate>03/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas A&M University]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress><![CDATA[400 HARVEY MITCHELL PKY S STE 30]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JF6XLNB4CDJ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A &amp; M UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M University]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778433368</ZipCode>
+<StreetAddress><![CDATA[3368 TAMU]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~140889</FUND_OBLG>
+</Award>
+</rootTag>

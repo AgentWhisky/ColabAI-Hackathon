@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CyberTraining: Pilot: O-RAN-Based Cyberinfrastructure Training for Future-Generation Wireless Communication and Sensing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ashok Srinivasan</SignBlockName>
+<PO_EMAI>asriniva@nsf.gov</PO_EMAI>
+<PO_PHON>7032922122</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The national spectrum strategy emphasizes spectrum infrastructure and workforce development in the full range of operational, technical, and policy roles to establish U.S. leadership in future-generation (FutureG) wireless techniques.  However, achieving the strategic goal of spectrum workforce development involves non-trivial challenges, including limited capacity and availability of advanced wireless cyberinfrastructure (CI) and specialized tools, skills, and knowledge sets to develop, manage, and utilize wireless CI. This project responds to the national call for spectrum workforce development and trains the FutureG workforce by extending their research abilities through a novel “immersed” approach to promote project-based hands-on learning. An open radio access network (O-RAN) wireless testbed will be utilized to allow trainees to practice the operation and programming of FutureG wireless instruments and develop wireless applications. Cloud-based access to the O-RAN testbed and a suite of template projects will be offered to address the technical barriers and complexities of wireless CI access. New course modules, vertical-integration projects, and summer courses will be offered to both student trainees and existing students at PIs’ institutions. The training materials will be disseminated through public platforms including the ACCESS Knowledge Base to train a broader and diverse group of wireless professionals.    &lt;br/&gt;&lt;br/&gt;Specifically, this pilot project includes three tasks: Task 1 is to extend the abilities of wireless professionals with a publicly and remotely accessible wireless CI based on the O-RAN architecture. The CI integrates advanced RF and computing instruments including NI USRP X410 and 2974 supporting sub-6G Hz to mmWave bands, TMYTEK mmWave BBox at 28GHz and 39GHz, phrased-array beamformer and reconfigurable intelligent surface (RIS), and a GPU server with 8x NVIDIA RTX A5000. Task 2 aims at training wireless professionals with the development of AI/ML tools and services to allow automatic wireless data collection and intelligent analytics. Based on this unique CI, Task 3 develops a suite of hands-on projects to train and educate wireless professionals under different scenarios ranging from basic wireless instrument operation to advanced wireless research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417890</AwardID>
+<Investigator>
+<FirstName>Shucheng</FirstName>
+<LastName>Yu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shucheng Yu</PI_FULL_NAME>
+<EmailAddress><![CDATA[shucheng.yu@stevens.edu]]></EmailAddress>
+<NSF_ID>000572411</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Stevens Institute of Technology]]></Name>
+<CityName>HOBOKEN</CityName>
+<ZipCode>07030</ZipCode>
+<PhoneNumber>2012168762</PhoneNumber>
+<StreetAddress><![CDATA[1 CASTLEPOINT ON HUDSON]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJ6CN5Y5A2R5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stevens Institute of Technology]]></Name>
+<CityName>HOBOKEN</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>07030</ZipCode>
+<StreetAddress><![CDATA[1 CASTLEPOINT ON HUDSON]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>044Y00</Code>
+<Text>CyberTraining - Training-based</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>122Z</Code>
+<Text>CI Training and Professionals</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7361</Code>
+<Text>EDUCATION AND WORKFORCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~150000</FUND_OBLG>
+</Award>
+</rootTag>

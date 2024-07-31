@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Category II: REPACSS: Empowering Scientific Discovery through Renewable Energy Powered Advanced Computing Systems and Services]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>5000000.00</AwardTotalIntnAmount>
+<AwardAmount>5999999</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Chadduck</SignBlockName>
+<PO_EMAI>rchadduc@nsf.gov</PO_EMAI>
+<PO_PHON>7032922247</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Driven by a vision for reducing the carbon footprint of large-scale scientific computing loads, the Renewable Energy Powered Advanced Computing Systems and Services (REPACSS) project will carry out a five-year plan to develop new methods and tools to build, operate, and manage a high-performance computing infrastructure at sufficient scale to demonstrate the use of renewable energy in powering advanced computing systems.&lt;br/&gt;&lt;br/&gt;The project includes plans to deploy a modern computing facility of significant size and to tackle current R&amp;D issues that relate to managing scientific workflows in renewable energy settings. The project will develop and apply a combination of new tools for remote data center control, automation, and scientific workflow management to explore the use of renewable energy sources for large-scale computing. Barriers and tradeoffs between designs and the ability to predict and schedule scientific workloads based on varied energy production will be studied in a facility large enough to deliver significant amounts of computing and to attract use by other segments of the broad research community. Workloads are targeted to include small- to mid-scale jobs from one to a few thousand cores per job across broad areas of science and engineering, including long-tail science applications, deep learning, artificial intelligence, and machine learning applications by providing significant amounts of modern accelerator-based computing. As part of the research program, REPACSS will also study user workflows and behavior in responding to distinct types of power availability, including cost versus quality-of-service choices. These factors are important when considering commercial sources of computing such as commercial clouds for various categories of machine types and availability. In the latter stages, this project will expand and explore the use of these innovations to promote adoption by other facilities and throughout the data center industry.&lt;br/&gt;&lt;br/&gt;The REPACSS project will study in detail many factors related to the efficiency and practicality of delivering computing and optimizing the use of renewable energy to power science and engineering data centers and innovate significantly beyond their current limitations. Tools and methods will be developed throughout the project aimed towards lowering costs for electrical power and achieving dramatic reductions in climate impact for supplying large quantities of capacity computing. The REPACSS project will also carry out a series of outreach activities to engage undergraduate and high-school students in research activities, support and promote underrepresented minority students in computing, and train a broadly inclusive and globally competitive science workforce.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404438</AwardID>
+<Investigator>
+<FirstName>Yu</FirstName>
+<LastName>Zhuang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yu Zhuang</PI_FULL_NAME>
+<EmailAddress><![CDATA[yu.zhuang@ttu.edu]]></EmailAddress>
+<NSF_ID>000358586</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alan</FirstName>
+<LastName>Sill</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alan F Sill</PI_FULL_NAME>
+<EmailAddress><![CDATA[Alan.Sill@ttu.edu]]></EmailAddress>
+<NSF_ID>000474089</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Bayne</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen B Bayne</PI_FULL_NAME>
+<EmailAddress><![CDATA[stephen.bayne@ttu.edu]]></EmailAddress>
+<NSF_ID>000551316</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yong</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yong Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[yong.chen@ttu.edu]]></EmailAddress>
+<NSF_ID>000582420</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tommy</FirstName>
+<LastName>Dang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tommy Dang</PI_FULL_NAME>
+<EmailAddress><![CDATA[tommy.dang@ttu.edu]]></EmailAddress>
+<NSF_ID>000746781</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas Tech University]]></Name>
+<CityName>LUBBOCK</CityName>
+<ZipCode>79409</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress><![CDATA[2500 BROADWAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EGLKRQ5JBCZ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS TECH UNIVERSITY SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas Tech University]]></Name>
+<CityName>LUBBOCK</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>794091035</ZipCode>
+<StreetAddress><![CDATA[2500 BROADWAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>761900</Code>
+<Text>Innovative HPC</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~5999999</FUND_OBLG>
+</Award>
+</rootTag>

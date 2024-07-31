@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Automated and Optimized Three Dimensional Routing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>275000.00</AwardTotalIntnAmount>
+<AwardAmount>275000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Parvathi Chundi</SignBlockName>
+<PO_EMAI>pchundi@nsf.gov</PO_EMAI>
+<PO_PHON>7032925198</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase I project includes the development of new automated routing optimization methodologies, as well as advanced 3D data compression techniques, which will benefit a wide range of industries and applications beyond the initial focus on building construction systems, including civil and infrastructure design, data center design, robotics, path planning, military applications and the semi-conductor industry.  Any industry requiring 3D spatial analysis and/or routing will benefit from the work of this project.  The project will have broader economic and societal impacts due to a substantial reduction in construction materials and labor necessary for new and remodeled buildings.  Carbon reduction, including embodied carbon and operational carbon, is a critical part of all climate change initiatives.  This AI software will result in a meaningful reduction in emissions due to the ability to optimize the use of materials and labor in the construction and operation of buildings.   The proposed technology will address many forms of design coordination and construction waste, dramatically reducing the amount of raw material, labor and construction waste required to construct a building, while simultaneously reducing the cost and time to occupancy of the construction project.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase 1 project aims develop a suite of software that automatically routes building services systems through 3D obstructed space achieving a near optimal, clash-free solution. This involves developing a hyper-efficient 3D modeling environment using a process called “low-resolution surface tessellation” (LRST). In lieu of trying to achieve a high-resolution surface, the project will create as rudimentary of a surface representation as possible to minimize the number of data points stored, thereby reducing the size and complexity of the data set necessary in which to compute routes. The project will develop new 3D optimized routing algorithms in the new 3D environment using a combination of mixed integer linear programming, visibility graphs, non-linear reduction, and variable relaxation among other techniques. The resulting technology, if successful, will find the most efficient path from Point A to Point B through a 3D space filled with any nature of obstructions in polynomial time, or better with no conflicts or clashes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404228</AwardID>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Schnackel</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gregory R Schnackel</PI_FULL_NAME>
+<EmailAddress><![CDATA[gschnackel@schnackel.com]]></EmailAddress>
+<NSF_ID>000827521</NSF_ID>
+<StartDate>07/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SCHNACKEL ENGINEERS, INC]]></Name>
+<CityName>OMAHA</CityName>
+<ZipCode>681243569</ZipCode>
+<PhoneNumber>4023917680</PhoneNumber>
+<StreetAddress><![CDATA[3035 S 72ND ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NE02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QLMFAMGB3JE5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SCHNACKEL ENGINEERS INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QLMFAMGB3JE5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SCHNACKEL ENGINEERS, INC]]></Name>
+<CityName>OMAHA</CityName>
+<StateCode>NE</StateCode>
+<ZipCode>681243569</ZipCode>
+<StreetAddress><![CDATA[3035 S 72ND ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NE02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~275000</FUND_OBLG>
+</Award>
+</rootTag>

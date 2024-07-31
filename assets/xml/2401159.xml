@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-BSF: CDS&E: Tensor Train methods for Quantum Impurity Solvers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>355410.00</AwardTotalIntnAmount>
+<AwardAmount>123086</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daryl Hess</SignBlockName>
+<PO_EMAI>dhess@nsf.gov</PO_EMAI>
+<PO_PHON>7032924942</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>NONTECHNICAL SUMMARY&lt;br/&gt;This award is made on a joint US-Israeli NSF-BSF. It supports research aimed to develop computational techniques for studying quantum impurity models. These models are important for understanding small, strongly interacting, quantum systems that are coupled to larger environments, such as a single atom inside a host material or a quantum dot interacting with surrounding particles. Quantum impurities can display various interesting behaviors, including changes in their electrical or magnetic properties, depending on their environment.&lt;br/&gt;&lt;br/&gt;Most quantum impurity models are too complicated to solve with traditional mathematical approaches, particularly when they involve numerous interacting parts and lack symmetrical structure. The goal of this project is to advance the numerical tools we have available to tackle these complex systems and gain a deeper insight into their properties. &lt;br/&gt;&lt;br/&gt;Quantum impurity models are also key components of more sophisticated techniques to calculate the electronic properties of materials and models of materials.  &lt;br/&gt;&lt;br/&gt;Quantum impurity solvers resulting from this international collaboration may enable new techniques for calculating electronic properties of materials, particularly those involving correlated electron motion resulting from strong interactions. Numerical tools produced by this project will be made widely available to the community.  The project supports the training of graduate students in computational and theoretical materials research. Science presentations for the general public will be developed as part of a Saturday Morning Physics outreach activity to the general public.&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;This award supports the development of quantum impurity solvers for a variety of purposes. Quantum Impurity Solvers are numerical algorithms that capture the ‘entanglement’ or ‘correlation’ of confined quantum systems consisting of a few strongly interacting orbitals coupled to an environment. They are important both in their own right in applications ranging from quantum transport to Kondo physics, and in the context of embedding theories such as the dynamical mean field and self-energy embedding theories. The lack of accurate and generic quantum impurity solvers for impurities with general off-diagonal interactions and impurity-bath hybridization is one of the main theoretical limitations in the accurate simulation of quantum many-body systems. This joint US–Israeli NSF-BSF project will explore novel data-science-inspired tensor contraction and compression schemes for quantum impurity solvers, building on a long-standing collaboration between the US and the Israeli groups, with the aim of providing a new generation of quantum impurity solvers that provide access to areas of parameter space that are currently inaccessible. &lt;br/&gt;&lt;br/&gt;Quantum impurity solvers resulting from this international collaboration may enable new techniques for calculating electronic properties of materials, particularly those involving correlated electron motion resulting from strong interactions. Numerical tools produced by this project will be made widely available to the community.  The project supports the training of graduate students in computational and theoretical materials research. Science presentations for the general public will be developed as part of a Saturday Morning Physics outreach activity to the general public.&lt;br/&gt;&lt;br/&gt;Quantum impurity solvers resulting from this international collaboration may enable new techniques for calculating electronic properties of materials, particularly those involving correlated electron motion resulting from strong interactions. Numerical tools produced by this project will be made widely available to the community.  The project supports the training of graduate students in computational and theoretical materials research. Science presentations for the general public will be developed as part of a Saturday Morning Physics outreach activity to the general public.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401159</AwardID>
+<Investigator>
+<FirstName>Emanuel</FirstName>
+<LastName>Gull</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Emanuel C Gull</PI_FULL_NAME>
+<EmailAddress><![CDATA[egull@umich.edu]]></EmailAddress>
+<NSF_ID>000632072</NSF_ID>
+<StartDate>04/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>176500</Code>
+<Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7504</Code>
+<Text>NSF-INTERNAT COOP IN MATERIALS RES-OTHER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~123086</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-DST:CPS:Small: Equitable Energy Access via Energy Communities and Microgrids: A Cyber Physical System Approach]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anthony Kuh</SignBlockName>
+<PO_EMAI>akuh@nsf.gov</PO_EMAI>
+<PO_PHON>7032924714</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project develops a theoretical foundation, computational approaches, and practical solutions for equity-regarding cyberphysical systems. As a specific application, the project focuses on equitable energy access in energy communities and microgrids where energy demand and resources are co-optimized to achieve an optimal tradeoff among economic efficiency, equitable access among consumers with income inequality,  and operation resilience. The project is structured into three thrusts. Thrust One develops analytical measures of equity and decentralized equity regarding welfare maximization for the scheduling of individual and community-shared resources. Thrust Two focuses on equitable access in a microgrid where network reliability and resilience are additional constraints. Thrust Three focuses on validation, performance evaluations, and experimentations based on U.S. and India’s datasets on income, energy consumption, and community populations.  &lt;br/&gt;&lt;br/&gt;The intellectual merit of the proposed research is threefold. First, this research pursues a novel optimization-based system design theory for equity-regarding cyberphysical systems. Second, the project develops computational tools for equity-regarding welfare maximization by incorporating analytical equity measures through welfare functions that capture total community benefits gained through community-shared energy resources. Third, the project provides solutions to achieving reliable and resilient equitable energy access in microgrids under normal operating conditions and during extreme events. &lt;br/&gt;&lt;br/&gt;The broader impacts of the proposed research are along three axes.  First, the developed computational approach to equity- and resilience-regarding welfare maximization has wide applications in many cyberphysical system designs, particularly for social-economic systems such as health, environmental, and education systems.  Second, this multidisciplinary research will positively influence university curriculum and workforce developments by embedding socioeconomic concepts in engineering education. In addition, this US-India collaboration project includes developing an interactive course on equitable access to energy that brings global perspectives on energy equity and justice.  Finally, the research and education activities promote broader participation by under-represented minorities in STEM education and cyberphysical system research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412776</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Mount</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timothy D Mount</PI_FULL_NAME>
+<EmailAddress><![CDATA[tdm2@cornell.edu]]></EmailAddress>
+<NSF_ID>000435586</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lang</FirstName>
+<LastName>Tong</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lang Tong</PI_FULL_NAME>
+<EmailAddress><![CDATA[ltong@ece.cornell.edu]]></EmailAddress>
+<NSF_ID>000291970</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress><![CDATA[341 PINE TREE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148533801</ZipCode>
+<StreetAddress><![CDATA[136 Hoy Rd.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>791800</Code>
+<Text>CPS-Cyber-Physical Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>073E</Code>
+<Text>OPTIMIZATION &amp; DECISION MAKING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~500000</FUND_OBLG>
+</Award>
+</rootTag>

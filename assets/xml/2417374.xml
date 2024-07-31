@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Exploring the Value of LLMs in Teaching Introductory Programming]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Tymann</SignBlockName>
+<PO_EMAI>ptymann@nsf.gov</PO_EMAI>
+<PO_PHON>7032922832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project aims to serve the national interest by redesigning an introductory computer science course (CS1) to teach students how to write computer code with the aid of an artificial intelligence (AI) assistant. The rise of Large Language Model (LLM) tools such as ChatGPT and GitHub Copilot has created new challenges and opportunities for education. In computer science education, both enthusiasm and concern exist regarding how to best teach students to write code in the presence of these AI assistants. The proposed course called CS1-LLM intends to teach students skills different from the skills taught in traditional CS1 courses. In the proposed CS1-LLM course, less emphasis will be placed on syntax and writing code from scratch, but more emphasis and attention will be given to code reading, code testing, problem decomposition, and writing software in meaningful contexts. &lt;br/&gt;&lt;br/&gt;This proposed project will be built upon early results from a pilot course offered at UCSD in Fall 2023. This proposal seeks to build on the initial findings by: 1) redesigning the course to improve student success across a wide range of metrics, 2) studying how students will learn programming with the aid of an LLM, 3) comparing how well students can write software a year after completing a traditional CS1 course vs a CS1-LLM course, 4) examining how the inclusion of LLMs in a CS1 course will impact learning outcomes of the students from underrepresented groups, and 5) engaging instructors worldwide in this study to understand their perspectives of adopting such a course. The NSF IUSE: EDU Program supports research and development projects to improve the effectiveness of STEM education for all students. Through its Engaged Student Learning track, the program supports the creation, exploration, and implementation of promising practices and tools.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417374</AwardID>
+<Investigator>
+<FirstName>Leo</FirstName>
+<LastName>Porter</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leo Porter</PI_FULL_NAME>
+<EmailAddress><![CDATA[leporter@cs.ucsd.edu]]></EmailAddress>
+<NSF_ID>000592938</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress><![CDATA[9500 GILMAN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930021</ZipCode>
+<StreetAddress><![CDATA[9500 GILMAN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>199800</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>093Z</Code>
+<Text>AI Education/Workforce Develop</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8244</Code>
+<Text>EHR CL Opportunities (NSF 14-302)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>04002425DB</Code>
+<Name><![CDATA[NSF STEM Education]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~400000</FUND_OBLG>
+</Award>
+</rootTag>

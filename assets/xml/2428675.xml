@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation Potential of Advanced Medical Image Processing Algorithms for Stroke Diagnosis and Prognosis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaime A. Camelio</SignBlockName>
+<PO_EMAI>jcamelio@nsf.gov</PO_EMAI>
+<PO_PHON>7032922061</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is the development of stroke diagnosis assistance system. Through Magnetic Resonance Imaging analysis, this technology promises to improve stroke care by providing personalized, precise prognostic information that supports targeted rehabilitation and optimizes recovery. This technology can bridge critical gaps in the current healthcare system, offering benefits to individual patients and to the broader medical community. For patients and their families, it offers a clearer understanding of recovery trajectories, reducing anxiety and improving mental health. Healthcare providers gain a powerful tool for crafting personalized care plans and improving outcomes while making efficient use of resources. In rural areas, where specialized care is limited, this system can significantly enhance the quality of care by democratizing access to advanced neurological insights. By streamlining communication within the healthcare ecosystem, this technology fosters a collaborative approach to patient care, enhancing efficiency and quality across the board. Overall, the solution represents a shift towards more informed, efficient, and patient-centered stroke care, setting a new benchmark for the integration of artificial intelligence in healthcare.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of a stroke diagnosis assistance system that is able to automatically deliver comprehensive reports. At the core of this breakthrough is the utilization of artificial intelligence to process and interpret complex radiological data that traditionally requires extensive manual analysis by highly trained specialists. The algorithms are trained on vast datasets of stroke patient imaging and behavioral data, enabling the system to identify, quantify, and analyze stroke lesions with unprecedented precision. The resulting radiological reports provide detailed visualizations, lesion volume, and affected brain areas, alongside predictive assessments of long-term recovery across motor and cognitive functions. This technological prowess showcases the capabilities of advanced computational models and algorithms and sets a new standard in the application of artificial intelligence for enhancing diagnostic accuracy and treatment efficacy in stroke care.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2428675</AwardID>
+<Investigator>
+<FirstName>Michal</FirstName>
+<LastName>Brzus</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michal Brzus</PI_FULL_NAME>
+<EmailAddress><![CDATA[michal-brzus@uiowa.edu]]></EmailAddress>
+<NSF_ID>0000A04D4</NSF_ID>
+<StartDate>05/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hans</FirstName>
+<LastName>Johnson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hans Johnson</PI_FULL_NAME>
+<EmailAddress><![CDATA[hans-johnson@uiowa.edu]]></EmailAddress>
+<NSF_ID>000695320</NSF_ID>
+<StartDate>05/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Iowa]]></Name>
+<CityName>IOWA CITY</CityName>
+<ZipCode>522421316</ZipCode>
+<PhoneNumber>3193352123</PhoneNumber>
+<StreetAddress><![CDATA[105 JESSUP HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z1H9VJS8NG16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF IOWA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Iowa]]></Name>
+<CityName>IOWA CITY</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>522421316</ZipCode>
+<StreetAddress><![CDATA[105 JESSUP HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>004E</Code>
+<Text>BIOMEDICAL ENG AND DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Braids, Surfaces, and Polynomials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>395998.00</AwardTotalIntnAmount>
+<AwardAmount>317888</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Swatee Naik</SignBlockName>
+<PO_EMAI>snaik@nsf.gov</PO_EMAI>
+<PO_PHON>7032924876</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Polynomials arise in mathematics and science whenever we model a physical, biological, or chemical system. Surfaces often appear when we study the geometry of a system; for instance, the set of configurations of a mechanical system or the underlying template for a large dimensional data set. Braids occur whenever we have a collection of points moving in a surface, for instance stars and planets moving within our field of vision, or the roots of polynomials changing with respect to a parameter. In order to understand these phenomena, it is essential to study the set of symmetries of a surface, which is also known as the mapping class group of the surface. This is a  beautiful and rich theory that has been the focus of intense study over the past century. The goal of this research is to study surfaces, braids, and polynomials, and the interactions of these objects with each other. One project is to give fast algorithms for deciding basic properties of elements of the mapping class group. One of the properties that the algorithm computes is the entropy, which determines the amount of mixing happening on the surface. In addition to these research goals, the PI plans to continue work on several projects that have direct impact on graduate, undergraduate, and high school students. The first is the highly successful Topology Students Workshop, a conference that serves both as a research conference in topology for graduate students as well as a professional development workshop. The second is a free, online, interactive textbook for basic linear algebra, called Interactive Linear Algebra. The PI also plans to expand outreach activities to local K-12 classrooms.&lt;br/&gt;&lt;br/&gt;The PI will study Thurston maps, braid groups, and mapping class groups. A Thurston map is a branched cover of the complex plane (or Riemann sphere) over itself, with finite post-critical set. Many polynomials are Thurston maps. A basic recognition problem in complex dynamics is: given a Thurston map, is it equivalent to a polynomial, and if so, which one? In prior work, the PI and his collaborators gave a new, geometric algorithm to solve this recognition problem. The PI plans to investigate new, structural descriptions of the universe of such recognition problems. Specifically, the project will establish a version of the Bestvina-Handel algorithm from the theory of mapping class groups that is adapted to the setting of Thurston maps. The project will also provide a version of the Birman exact sequence (again from the theory of mapping class groups). One project in the theory of mapping class groups is to give a quadratic time algorithm that takes as input a product of generators of the mapping class group  and determines the Nielsen-Thurston type of that product. This algorithm also produces finer information about the product of generators, such as reducing curves and entropy. A third project is to classify homomorphisms between braid groups. The main new tool is the theory of totally symmetric sets, developed by the PI and his collaborators. By classifying these homomorphisms we gain insight into the relationships between polynomials of different degrees.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417920</AwardID>
+<Investigator>
+<FirstName>Dan</FirstName>
+<LastName>Margalit</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dan Margalit</PI_FULL_NAME>
+<EmailAddress><![CDATA[dan.margalit@vanderbilt.edu]]></EmailAddress>
+<NSF_ID>000512332</NSF_ID>
+<StartDate>03/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>NASHVILLE</CityName>
+<ZipCode>372032416</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>110 21ST AVE S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GTNBNWXJ12D5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VANDERBILT UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Vanderbilt University]]></Name>
+<CityName>NASHVILLE</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>372032416</ZipCode>
+<StreetAddress><![CDATA[110 21ST AVE S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1265</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1267</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~317887</FUND_OBLG>
+</Award>
+</rootTag>

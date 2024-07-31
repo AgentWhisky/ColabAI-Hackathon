@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Superresolution Neurochemical Probe based on Stochastic Neurotransmitter Localization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>473421</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Svetlana Tatic-Lucic</SignBlockName>
+<PO_EMAI>staticlu@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Understanding the functional components of the brain that underlie perception, cognition, and action is crucial for developing next-generation neural prostheses and brain-machine interfaces. This relies on our ability to reconstruct accurate images of brain activity from millions of neurons. However, traditional electrophysiological techniques using the current paradigm of the “single-neuron per electrode” approach lack the scalability to read signals from millions of neurons. Therefore, it is critical to investigate new means of interacting with neurons. To address this unmet need, the objective of this CAREER project is to discover a new neural interfacing modality using brain neurochemicals that can accurately capture the brain’s activity at a large scale. The project will also lead an exciting role in closing the knowledge and interest gaps in science and engineering via a multidimensional approach, including a new high-school research program, undergraduate research experience, and teach-in events at local public schools. &lt;br/&gt;&lt;br/&gt;The main idea of this project is to exploit the stochastic nature of neurotransmitter diffusion to investigate a superresolution neurochemical imaging technique. The excitation of neurons results in action potentials that propagate through the neuronal body and axons toward synapses. At the synapses, these action potentials instigate the secretion of neurotransmitters. Neurotransmitter molecules released from a single vesicle diffuse and subsequently reach multiple adjacent electrodes to be measured. Based on the diffusion characteristics, the precise origin of neurotransmitter secretion can be localized. This localization technique is similar to triangulation in principle, but it considers the diffusion path to make precise localization of neural activities. This method has unique advantages over triangulation by being able to distinguish both x-y location and also z position based on the diffusion characteristic. Also, because the diffusion of molecules is a slower process compared to voltage propagation, the point source can be pinpointed with high accuracy. Using this approach, a few electrodes can produce neurochemical imaging with a high spatial resolution. This new approach will transform neural interfaces by enabling simultaneous measurements from millions of neurons without requiring an equivalent density of electrodes. The superresolution neurochemical probe will help unravel the complex role of dopamine’s spatial distribution in cognitive processes by directly mapping the neurochemical activities in the brain with high spatiotemporal resolution. This project will result in not only the most advanced neurochemical probe available to date but also the superresolution algorithm that can enhance the spatial resolution into nanometers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/20/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/20/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411566</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Kim</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian N Kim</PI_FULL_NAME>
+<EmailAddress><![CDATA[Brian.Kim@ucf.edu]]></EmailAddress>
+<NSF_ID>000699806</NSF_ID>
+<StartDate>02/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Dallas]]></Name>
+<CityName>RICHARDSON</CityName>
+<ZipCode>750803021</ZipCode>
+<PhoneNumber>9728832313</PhoneNumber>
+<StreetAddress><![CDATA[800 WEST CAMPBELL RD.]]></StreetAddress>
+<StreetAddress2><![CDATA[SP2.25]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EJCVPNN1WFS5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT DALLAS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Dallas]]></Name>
+<CityName>RICHARDSON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>750803021</ZipCode>
+<StreetAddress><![CDATA[800 WEST CAMPBELL RD.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>756400</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>108E</Code>
+<Text>Bioelectronics</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~379796</FUND_OBLG>
+<FUND_OBLG>2023~93625</FUND_OBLG>
+</Award>
+</rootTag>

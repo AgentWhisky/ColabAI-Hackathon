@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: FuSe: Efficient Situation-Aware AI Processing in Advanced 2-Terminal SOT-MRAM]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>700000.00</AwardTotalIntnAmount>
+<AwardAmount>224413</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+<PO_EMAI>sabasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927843</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The amount of data required to be analyzed by computing systems has been increasing drastically to exascale (i.e., billions of gigabytes) and beyond. Meanwhile, owing to the boom in artificial intelligence (AI), especially Deep Neural Network (DNN), there is a need for high performance, efficient, fast, and adaptive AI-based big data processing systems. However, those requirements are not sufficiently met by existing computing solutions due to the power-wall in silicon-based semiconductor devices, memory-wall in traditional Von-Neuman computing architecture, and ultra computation- and memory-intensive DNN-based AI algorithms. This project brings together an interdisciplinary group of researchers, with expertise spanning from material science, device fabrication, integrated circuit design, computer architecture, and AI algorithms to undertake innovative device-circuit-algorithm co-design for developing an AI Processing-In-Memory (AI-PIM) system that could leverage the emerging non-volatile magnetic memory technology to implement efficient AI data processing, as well as situation-aware on-chip continual learning. This project targets to significantly improve the AI data processing energy efficiency, with 100X higher efficiency than that of state-of-the-art Graph Processing Units (GPUs). The project will greatly benefit various application areas, such as autonomous driving, robotics, personalized cognitive speech, and smart connected health, etc. This project will also involve education and workforce development activities, including K-12 STEM outreach, undergraduate/graduate training, curriculum development in semiconductor, semiconductor industry internship mentoring, cleanroom fab internships, advance integrated circuit design courses. It will also encourage broader participation of female and under-represented minorities in the microelectronics and semiconductor chip industry. &lt;br/&gt;&lt;br/&gt;This project will advance knowledge and conduct cross-layer research spanning from emerging Spin-Orbit Torque Magnetic Random Access Memory (SOT-MRAM) material, device, circuit, architecture, to AI algorithm exploration with three main interweaved thrusts. Thrust 1 will explore unconventional spins in SOT materials, e.g., MnPd3, and novel device geometry to fabricate a new design of 2-terminal SOT-MRAM, which simultaneously delivers unlimited endurance, nano-seconds programming time, very high cell density, deterministic programming without external magnetic field, zero leakage, and non-volatility. Leveraging the developed 2-terminal SOT-MRAM, Thrust 2 will design and tape-out an AI Processing-in-Memory (PIM) chip to implement fully digital ‘in-memory sparse multiplication-and-accumulation (MAC)’ operations that support both forward and backward computations of neural networks. Following a co-design methodology, Thrust 3 will first investigate automated network architecture search methods to construct AI model best suitable for given situation while considering our AI-PIM system constraint. This thrust will further develop novel PIM-friendly, compute- and memory-efficient, situation-aware continual learning algorithms that could minimize the power-hungry on-chip weight update (i.e., memory write) complexity, while learning new situation- and user-specific data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414603</AwardID>
+<Investigator>
+<FirstName>Deliang</FirstName>
+<LastName>Fan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Deliang Fan</PI_FULL_NAME>
+<EmailAddress><![CDATA[dfan10@jhu.edu]]></EmailAddress>
+<NSF_ID>000699728</NSF_ID>
+<StartDate>02/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212182608</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTMTDMBR29C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE JOHNS HOPKINS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212182608</ZipCode>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>216Y00</Code>
+<Text>FuSe-Future of Semiconductors</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>241Y00</Code>
+<Text>NSF-Intel Semiconductr Partnrs</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>254Y00</Code>
+<Text>NSF-Samsung Partnership</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>4082CYXXDB</Code>
+<Name><![CDATA[NSF TRUST FUND]]></Name>
+<FUND_SYMB_ID>048960</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>4082PYXXDB</Code>
+<Name><![CDATA[NSF TRUST FUND]]></Name>
+<FUND_SYMB_ID>048960</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~224413</FUND_OBLG>
+</Award>
+</rootTag>

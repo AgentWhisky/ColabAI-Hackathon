@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Stochastic Nonlinear Control and Learning via Spectral Dynamics Embedding]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anthony Kuh</SignBlockName>
+<PO_EMAI>akuh@nsf.gov</PO_EMAI>
+<PO_PHON>7032924714</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This proposal aims to address the challenges of achieving optimal nonlinear control for dynamical systems in stochastic environments considering applications such as robots, aircraft, and automated manufacturing processes. Traditional methods to control these systems either provide sub-optimal solutions, lack rigorous analysis, or require a large amount of computation that could result in intractable solutions. Our research introduces a novel approach called spectral dynamic embedding, which aims to create efficient and reliable control algorithms suitable for a wide range of nonlinear systems. These methods will be tested in both virtual simulation environments and real-world robotic labs. The practical algorithms developed through this research can be applied to various applications, enhancing technologies in robotics, aerospace, manufacturing, energy, and beyond. The team will collaborate with industry partners to broaden the impact on society. Additionally, the project will involve students at various levels in cutting-edge research and experimentation, and also develop K-12 educational materials to inspire the next generation of scientists and engineers.&lt;br/&gt;&lt;br/&gt;The key innovation of this research lies in the unified spectral dynamic embedding approach, which reformulates the system dynamics in stochastic nonlinear control linearly to a nonlinear spectral feature space, rather than linearizing the dynamic model. This novel perspective allows for tractable dynamic programming or linear programming to solve the optimal policy and enables rigorous analysis of control optimality for general stochastic nonlinear dynamics. It also facilitates a simple learning procedure and computationally tractable exploration to accelerate data collection, both grounded in solid theoretical foundations. The research will develop computationally efficient methods for stochastic nonlinear control with either known or unknown models and will ensure the robustness and safety of the system. This interdisciplinary effort combines expertise in online control, reinforcement learning, optimization, statistical learning, and reproducing kernel Hilbert space to tackle this longstanding problem, aiming for transformative impacts on both control theory and machine learning.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401390</AwardID>
+<Investigator>
+<FirstName>Na</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Na Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[nali@seas.harvard.edu]]></EmailAddress>
+<NSF_ID>000654507</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021385366</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress><![CDATA[1033 MASSACHUSETTS AVE STE 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LN53LCFJFL45</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>Allston</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021341037</ZipCode>
+<StreetAddress><![CDATA[150 Western Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>760700</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6840</Code>
+<Text>ROBOTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8888</Code>
+<Text>LEARNING &amp; INTELLIGENT SYSTEMS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

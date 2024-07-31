@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: OAC Core: Distributed Graph Learning Cyberinfrastructure for Large-scale Spatiotemporal Prediction]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>299973.00</AwardTotalIntnAmount>
+<AwardAmount>299973</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Juan Li</SignBlockName>
+<PO_EMAI>jjli@nsf.gov</PO_EMAI>
+<PO_PHON>7032922625</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Graph Neural Networks (GNNs) have extended Deep Neural Networks’ success from independent data points to relational data points, such as observations collected on-site from environmental sensors (e.g., humidity, temperature, PM2.5, etc.) widely distributed in different spatial locations. While most existing works focus on proof-of-concept on relatively small, well-curated data, with offline settings, real-world scientific research, and applications need more capable GNN models, which can effectively learn from large-scale, real-time, geographically distributed (geo-distributed) and diversely different (heterogeneous) data. This project aims to chart a radically new cyberinfrastructure solution for training large-spatial GNNs to fill this gap. The success of this project will provide a cyberinfrastructure that overcomes the fundamental computational and communication bottlenecks for a broad range of domain science applications that rely on massive spatiotemporal prediction. The proposed algorithms and systems will be ideal for cultivating a deeper understanding of designing large machine-learning systems at a geo-distributed scale, teaching and training students and peers, and providing graduate and undergraduate students with new courses, research, and internship opportunities.&lt;br/&gt; &lt;br/&gt;This project aims to develop a comprehensive set of graph construction and partitioning methods, distributed learning algorithms, and cyberinfrastructure designs to support large-scale GNNs for real-world spatiotemporal data in geospatial scientific research and applications. The project will address significant research challenges, including (1) formulating spatiotemporal prediction within a geographically inspired graph deep learning framework, (2) enabling highly accurate, efficient, and cost-effective spatiotemporal prediction tasks across vast, geographically dispersed datasets, and (3) integrating spatial correlation, spatial heterogeneity, spatial computing parallelism, and geographic communication efficiency. The research is organized around several key research themes: (1) Creating a universal framework for constructing graphs from spatiotemporal data, determining spatial relationships, and filling in missing node attributes. (2) Developing a centralized spatiotemporal graph learning infrastructure that leverages multiple edge micro-datacenters for collaborative GNN model learning. (3) Establishing a decentralized spatiotemporal graph learning infrastructure that supports decentralized geographical multitask learning to address spatial heterogeneity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403313</AwardID>
+<Investigator>
+<FirstName>Yue</FirstName>
+<LastName>Cheng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yue Cheng</PI_FULL_NAME>
+<EmailAddress><![CDATA[mrz7dp@virginia.edu]]></EmailAddress>
+<NSF_ID>000760446</NSF_ID>
+<StartDate>04/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229034833</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJG6HU8PA4S5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RECTOR &amp; VISITORS OF THE UNIVERSITY OF VIRGINIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>229034833</ZipCode>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>090Y00</Code>
+<Text>OAC-Advanced Cyberinfrast Core</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~299973</FUND_OBLG>
+</Award>
+</rootTag>

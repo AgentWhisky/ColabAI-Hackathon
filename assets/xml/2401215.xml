@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Neuro-navigation guided non-invasive brain stimulation for individualized precision rehabilitation in stroke]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>595895.00</AwardTotalIntnAmount>
+<AwardAmount>170617</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steve Zehnder</SignBlockName>
+<PO_EMAI>szehnder@nsf.gov</PO_EMAI>
+<PO_PHON>7032927014</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The goal of this project is to advance the scientific study of brain functional changes after a stroke and pioneer a tailored rehabilitation strategy that fits each individual’s needs. Movement impairments following a stroke are a major cause of adult disability in this country. The routine treatment is not yet optimal for every individual due to a lack of sufficient understanding of brain functional changes to inform clinical practice. This project seeks to combine different imaging methods to guide electrical stimulation to the brain that improves the recovery of movement. The outcomes of this project have the potential to advance stroke or brain injury research broadly to help over half a million people who undergo rehabilitation each year. This will reduce the healthcare and nursing costs for long-term disability caused by stroke and other similar brain injuries. Through education activities in this project, a multi-disciplinary research-education “eco-system” will be built to connect engineering students, clinician trainees, and STEM educators to promote the education of next-generation rehabilitation pioneers.&lt;br/&gt; &lt;br/&gt;Despite numerous efforts to develop new technologies for movement rehabilitation post-brain injuries, from brain imaging to neuromodulation approaches, optimal recovery is still limited due to a lack of imaging guidance and real-time neurofeedback to tailor rehabilitation strategies for each individual. This project will address this limitation and establish a unique rehabilitation engineering research paradigm based on a novel multi-modal brain imaging approach and a closed-loop high-definition transcranial direct current stimulation (HD-tDCS) platform. This new approach will precisely assess the changes to motor control in an injured brain and identify the key network to target for more precise HD-tDCS stimulation. The investigator will take integrated experimental and computational approaches to: 1) Identify and characterize individualized brain networks for movement control in injured brains; 2) Model and evaluate the dynamic effect of HD-tDCS on a “live” brain to enable targeted, precision stimulation of brain networks; and 3) Develop closed-loop imaging and neurofeedback guided HD-tDCS to improve brain function and behavior outcomes. This interdisciplinary project will be integrated with education and outreach activities to promote awareness of interdependencies between engineering and rehabilitation sciences and promote interdisciplinary education and training for next-generation rehabilitation engineers, with three educational objectives: 1) Promote the engagement of engineering and physical therapy students via summer research training, 2) Translate rehabilitation engineering knowledge to grade-appropriate STEM education via training high school teachers, and 3) Increase public awareness of engineering’s contributions to rehabilitation via museum events.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Disability and Rehabilitation Engineering Program and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/01/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>11/01/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401215</AwardID>
+<Investigator>
+<FirstName>Yuan</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yuan Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[yuany@illinois.edu]]></EmailAddress>
+<NSF_ID>000759546</NSF_ID>
+<StartDate>11/01/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>506 S WRIGHT ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5342</Code>
+<Text>Disability &amp; Rehab Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5342</Code>
+<Text>RESEARCH TO AID THE DISABLED</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~170617</FUND_OBLG>
+</Award>
+</rootTag>

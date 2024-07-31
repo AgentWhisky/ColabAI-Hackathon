@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: IMPRESS-U: Hardware-Efficient Realization of UA Cryptographic Standards]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maija Kukla</SignBlockName>
+<PO_EMAI>mkukla@nsf.gov</PO_EMAI>
+<PO_PHON>7032924940</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project is jointly supported by NSF, Estonian Research Council (ETAG), and US National Academy of Sciences. The research will be conducted in multilateral partnership uniting Carnegie Melon University (US), Tallinn University of Technology (Estonia), and V.N.Karazin Kharkiv National University (Ukraine). US part of the international research team is co-funded by NSF OISE/OD and CISE/CNS. &lt;br/&gt;&lt;br/&gt;Cryptographic algorithms allow us to send secret messages over an otherwise insecure communication channel, such as the internet. These algorithms are extremely important since they enable several aspects of our digital lives, be it online banking, messaging services, mobile phone networks, and many more. To realize such protected communications and maintain the privacy of the parties talking to each other, government agencies set cryptographic standards for adoption. These standards serve as a common language for two devices to talk to one another while keeping the content of the exchange messages protected. For instance, in the US, the National Institute of Standards and Technology (NIST) recommends, among others, the Advanced Encryption Standard (AES) for encryption/decryption in civilian communication. AES was chosen after a long competition where many candidates were considered and AES came out as the winning algorithm. Today, there are hundreds of implementations of AES in software form or in pure hardware form, i.e., implemented as a computer chip.&lt;br/&gt; &lt;br/&gt;Outside the US, many other standards exist. In Ukraine, a competition was also held which culminated in 2015 with the selection of Kalyna and Kupyna as the national standards. The existing software implementations of Kalyna and Kupyna have performance and security level comparable to their US counterparts. However, there is no known hardware architecture for the design of Kalyna or Kupyna. There is a need for Kalyna/Kupyna-capable hardware that displays (i) high performance; (ii) low power; (iii) tamper resistance; (iv) small footprint; and (v) physical security. This is the technical goal of this EAGER award, i.e., to execute a broad design space and security space exploration for the implementation of a block cipher (Kalyna) and a hash algorithm (Kupyna). This EAGER project represents a study on how to best implement these algorithms in a computer chip. The research team includes chip designers from the US and from Estonia, as well cryptography experts from Ukraine. The main technical outcome of the project is one fabricated chip containing several variants of the Kalyna and Kupyna algorithms. &lt;br/&gt;&lt;br/&gt;This EAGER award also has dissemination goals. Knowingly, the country of Ukraine does not enjoy access to trusted chip fabrication technology. Chip design knowledge is also scarce. We strive to have Ukrainian universities teaching, in the near future, both software and hardware cryptographic engineering. The latter is specific knowledge that, today, is not adequately covered by any university in the country. In order to achieve this goal, the chip design tasks executed in this project will be highly reproducible: design resources will be openly shared on public repositories, including Verilog source files. Synthesis scripts for state-of-the-art commercial chip design tools will also be shared. Finally, the entire design process will be documented in order to showcase the entire concept of the Kalyna/Kupyna chip, step by step, from RTL to layout. This documented effort will be made openly available to the chip design and cryptographic communities at large.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/13/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/13/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070, 47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414083</AwardID>
+<Investigator>
+<FirstName>Samuel</FirstName>
+<LastName>Pagliarini</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Samuel Pagliarini</PI_FULL_NAME>
+<EmailAddress><![CDATA[pagliarini@cmu.edu]]></EmailAddress>
+<NSF_ID>000710350</NSF_ID>
+<StartDate>03/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 FORBES AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7298</Code>
+<Text>International Research Collab</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5998</Code>
+<Text>UKRAINE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

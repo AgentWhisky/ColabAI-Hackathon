@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: NSFGEO-NERC: MEZCAL: Methods for Extending the horiZontal Coverage of the Amoc Latitudinally and back in time (MEZCAL)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/15/2023</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>217938.00</AwardTotalIntnAmount>
+<AwardAmount>217938</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Baris Uz</SignBlockName>
+<PO_EMAI>bmuz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924557</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The overarching aim of MEZCAL is to make a step change in monitoring the spatiotemporal evolution of the Atlantic meridional overturning circulation (AMOC) from indirect observations. MEZCAL will achieve this aim by delivering the following objectives: O1) Design and implement a spatiotemporally complete AMOC framework from indirect observations using proven reconstruction techniques. O2) Extend AMOC records backwards in time using machine learning and adjoint methods. O3) Make recommendations for an AMOC monitoring framework and enhanced observations to ensure a sustainable future AMOC monitoring system. In addition to contributing important scientific advancements relevant to our changing climate, this project will support two early career scientists (Le Bras and Amrhein) as well as a postdoc. Le Bras is committed to communicating the results of this project to a broad audience through talks with students, the public, and media platforms. She will continue to participate in organizing efforts for the oceanographic LGBTQ+ community. With support from this project and NSF-supported project FOCUS (OCE-2123692), Piecuch will ensure that findings from MEZCAL and the sea-level implications are communicated to coastal stakeholders and practitioners. Amrhein is committed to developing community software and scientific resources through efforts with the Community Earth System Model and NCAR, including spearheading data assimilation and regional modeling efforts to communicate climate impacts across scales. He is also an active member of the paleoclimate modeling and data community, and will serve as a cross-disciplinary bridge for AMOC science. &lt;br/&gt;&lt;br/&gt;By extending observation-based AMOC records spatially and backwards in time, MEZCAL will enable significant scientific discovery. It will address whether the AMOC has declined in the last century, and what the meridional connectivity and structure of the AMOC is: both important questions to address to better understand our climate system. MEZCAL will provide recommendations for the AMOC observing system, which will benefit the wider oceanographic observing community, and the modeling work will provide insight into climate model biases.&lt;br/&gt;&lt;br/&gt;This is a project jointly funded by the National Science Foundation’s Directorate for Geosciences (NSF/GEO) and the National Environment Research Council (NERC) of the United Kingdom (UK) via the NSF/GEO-NERC Lead Agency Agreement. This Agreement allows a single joint US/UK proposal to be submitted and peer-reviewed by the Agency whose investigator has the largest proportion of the budget. Upon successful joint determination of an award recommendation, each Agency funds the proportion of the budget that supports scientists at institutions in their respective countries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/19/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>12/19/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409764</AwardID>
+<Investigator>
+<FirstName>Isabela</FirstName>
+<LastName>Le Bras</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Isabela A Le Bras</PI_FULL_NAME>
+<EmailAddress><![CDATA[ilebras@whoi.edu]]></EmailAddress>
+<NSF_ID>000784381</NSF_ID>
+<StartDate>12/19/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Piecuch</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher G Piecuch</PI_FULL_NAME>
+<EmailAddress><![CDATA[cpiecuch@whoi.edu]]></EmailAddress>
+<NSF_ID>000640800</NSF_ID>
+<StartDate>12/19/2023</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Woods Hole Oceanographic Institution</Name>
+<CityName>WOODS HOLE</CityName>
+<ZipCode>025431535</ZipCode>
+<PhoneNumber>5082893542</PhoneNumber>
+<StreetAddress>266 WOODS HOLE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GFKFBWG2TV98</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WOODS HOLE OCEANOGRAPHIC INSTITUTION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Woods Hole Oceanographic Institution]]></Name>
+<CityName>WOODS HOLE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>025431535</ZipCode>
+<StreetAddress><![CDATA[266 WOODS HOLE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1610</Code>
+<Text>PHYSICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1324</Code>
+<Text>CLIMATE VARIABILITY AND PREDICTABILITY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~217938</FUND_OBLG>
+</Award>
+</rootTag>

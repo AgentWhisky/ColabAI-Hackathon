@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: User-Based Simulation Methods for Quantifying Sources of Error and Bias in Recommender Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>482081.00</AwardTotalIntnAmount>
+<AwardAmount>43597</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+<PO_EMAI>dcosley@nsf.gov</PO_EMAI>
+<PO_PHON>7032928832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Systems that recommend products, places, and services are an increasingly common part of everyday life and commerce, making it important to understand how recommendation algorithms affect outcomes for both individual users and larger social groups.  To do this, the project team will develop novel methods of simulating users' behavior based on large-scale historical datasets.  These methods will be used to better understand vulnerabilities that underlying biases in training datasets pose to commonly-used machine learning-based methods for building and testing recommender systems, as well as characterize the effectiveness of common evaluation metrics such as recommendation accuracy and diversity given different models of how people interact with recommender systems in practice.  The team will publicly release its datasets, software, and novel metrics for the benefit of other researchers and developers of recommender systems.  The work also will inform the development of computer science course materials about the social impact of data analytics as well as outreach activities for librarians, who are often in the position of helping information seekers understand the way search engines and other recommender systems affect their ability to get what they need.&lt;br/&gt;&lt;br/&gt;The work is organized around two main themes.  The first will quantify and mitigate the popularity bias and misclassified decoy problems in offline recommender evaluation that tend to lead to popular, known recommendations.  To do this, the team will develop simulation-based evaluation models that encode a variety of assumptions about how users select relevant items to buy and rate and use them to quantify the statistical biases these assumptions induce in recommendation quality metrics. They will calibrate these simulations by comparing with existing data sets covering books, research papers, music, and movies.  These models and datasets will help drive the second main project around measuring the impact of feature distributions in training data on recommender algorithm accuracy and diversity, while developing bias-resistant algorithms.  The team will use data resampling techniques along with the simulation models, extended to model system behavior over time, to evaluate how different algorithms mitigate, propagate, or exacerbate underlying distributional biases through their recommendations, and how those biased recommendations in turn affect future user behavior and experience.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415042</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Ekstrand</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Ekstrand</PI_FULL_NAME>
+<EmailAddress><![CDATA[mde48@drexel.edu]]></EmailAddress>
+<NSF_ID>000676745</NSF_ID>
+<StartDate>01/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Drexel University</Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191042875</ZipCode>
+<PhoneNumber>2158956342</PhoneNumber>
+<StreetAddress>3141 CHESTNUT ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XF3XM9642N96</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DREXEL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Drexel University]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191042816</ZipCode>
+<StreetAddress><![CDATA[3141 CHESTNUT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~43597</FUND_OBLG>
+</Award>
+</rootTag>

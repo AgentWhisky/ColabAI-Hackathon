@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Robust and efficient Bayesian inference for misspecified and underspecified models]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tapabrata Maiti</SignBlockName>
+<PO_EMAI>tmaiti@nsf.gov</PO_EMAI>
+<PO_PHON>7032925307</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This research project aims to improve data-driven modelling and decision-making.  Its focus is on the development of Bayesian methods for low-information settings.  Bayesian methods have proven to be tremendously successful in high-information settings where data is of high-quality, the scientific/business background that has generated the data is well-understood, and clear questions are asked.  This project will develop a suite of Bayesian methods designed for low-information settings, including those where (i) the data show particular types of deficiencies, such as a preponderance of outlying or “bad data”, (ii) a limited conceptual understanding of the phenomenon under study leads to a model that leaves a substantial gap between model and reality, producing a misspecified model or a model that is not fully specified, and (iii) when there is a shortage of data, so that the model captures only a very simplified version of reality.  The new methods will expand the scope of Bayesian applications, with attention to problems in biomedical applications and psychology.  The project will provide training for the next generation of data scientists. &lt;br/&gt; &lt;br/&gt;This project has two main threads.  For the first, the project will develop diagnostics that allow the analyst to assess the adequacy of portions of a posited model.  Such assessments point the way toward elaborations that will bring the model closer to reality, improving the full collection of inferences.  These assessments will also highlight limitations of the model, enabling the analyst to know when to make a decision and when to refrain from making one.  The second thread will explore the use of sample-size adaptive loss functions for modelling and for inference.  Adaptive loss functions have been used by classical statisticians to improve inference by exploiting the bias-variance tradeoff.  This thread will blend adaptivity with Bayesian methods.  This will robustify inference by providing smoother likelihoods for small and moderate sample sizes and by relying on smoother inference functions when the sample size is limited.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413823</AwardID>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>MacEachern</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven N MacEachern</PI_FULL_NAME>
+<EmailAddress><![CDATA[snm@stat.osu.edu]]></EmailAddress>
+<NSF_ID>000379898</NSF_ID>
+<StartDate>06/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ju Hee</FirstName>
+<LastName>Lee</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ju Hee Lee</PI_FULL_NAME>
+<EmailAddress><![CDATA[juheelee@soe.ucsc.edu]]></EmailAddress>
+<NSF_ID>000652413</NSF_ID>
+<StartDate>06/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hang Joon</FirstName>
+<LastName>Kim</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hang Joon Kim</PI_FULL_NAME>
+<EmailAddress><![CDATA[hang.kim@uc.edu]]></EmailAddress>
+<NSF_ID>000701923</NSF_ID>
+<StartDate>06/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

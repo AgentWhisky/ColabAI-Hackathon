@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAS: Linking bulk composition and structure to the dynamic active surface in OER]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>532560.00</AwardTotalIntnAmount>
+<AwardAmount>498340</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert McCabe</SignBlockName>
+<PO_EMAI>rmccabe@nsf.gov</PO_EMAI>
+<PO_PHON>7032924826</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Many chemical processes rely on catalytic materials that enhance process efficiency and product selectivity by promoting chemical reactions at the catalyst surface. For example, water electrolysis – the splitting of water into its constituent hydrogen and oxygen gases – requires catalysts for both the hydrogen and oxygen evolution reactions (HER and OER). Catalyst design has historically been driven by an understanding of bulk material properties; however, the surface where reactions occur can change dramatically in the reaction environment. The project explores relationships between bulk and surface catalytic properties of perovskite materials as a pathway to efficient, sustainable, hydrogen production via electrocatalytic water splitting – thereby enabling the hydrogen economy.  Additionally, the project develops related courses designed to train students in electrochemical devices for energy conversion and storage, while promoting outreach to underrepresented groups. &lt;br/&gt;&lt;br/&gt;This project illuminates relationships between perovskite material bulk template and surface properties, during and following electrocatalytic reactions.  The resulting data will guide materials design at the atomic level. The primary drivers of transformations at functional interfaces will be identified - considering not only the role of materials composition (and associated electronic structure), but also two-dimensional templating from strain imposed by the underlying lattice, and three-dimensional templating from the presence of defects such as mobile cations and oxygen vacancies. Additionally, both the magnitude and length scale of charge transfer between the bulk and surface layer will be investigated.  The project will combine atomically precise materials synthesis with surface-sensitive element-specific spectroscopy and microscopy, considering the family of (001)-oriented perovskite oxides for the oxygen evolution reaction (OER). Together, these studies will build understanding and ultimately control of the dynamic evolution of material interfaces, coupled with their activity and stability in the OER, enabling materials design to exploit this interphase region through innovative assemblies of matter. The work in this proposal will further be incorporated into hands-on learning activities and open-ended projects centered around electrochemical devices for energy conversion and storage in undergraduate curriculum and outreach to underrepresented groups.&lt;br/&gt;&lt;br/&gt;The project is co-funded by the Catalysis program in the Chemical, Bioengineering, Environmental and Transport Processes (CBET) Division and the Chemical Catalysis program in the Chemistry Division.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2426120</AwardID>
+<Investigator>
+<FirstName>Kelsey</FirstName>
+<LastName>Stoerzinger</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kelsey A Stoerzinger</PI_FULL_NAME>
+<EmailAddress><![CDATA[zinger@umn.edu]]></EmailAddress>
+<NSF_ID>000824085</NSF_ID>
+<StartDate>04/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress><![CDATA[200 OAK ST SE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554552009</ZipCode>
+<StreetAddress><![CDATA[200 OAK ST SE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>140100</Code>
+<Text>Catalysis</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>150400</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>688400</Code>
+<Text>Chemical Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090Z</Code>
+<Text>CAS-Critical Aspects of Sustainability</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8397</Code>
+<Text>Hydrogen Storage or Generation</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~443339</FUND_OBLG>
+<FUND_OBLG>2023~55000</FUND_OBLG>
+</Award>
+</rootTag>

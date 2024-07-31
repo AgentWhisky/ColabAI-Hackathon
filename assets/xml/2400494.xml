@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: APTAMER-INFUSED GRAPHENE TRANSISTOR TATTOOS AS TEMPORARY SWEAT BIOSENSING PLATFORM]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>199991.00</AwardTotalIntnAmount>
+<AwardAmount>199991</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aleksandr Simonian</SignBlockName>
+<PO_EMAI>asimonia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922191</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Sweat, a biofluid rich in essential bioanalytes, holds valuable insights into the physiological processes occurring within the human body. Current methods of biofluid testing, whether in sweat, blood, or interstitial fluid, are characterized by their time-consuming, invasive, and costly nature, rendering them impractical for regular use by the general population. The challenges associated with directing individuals to hospitals or clinics for continuous biofluid monitoring hinder the establishment of a comprehensive detection database and its correlation with behavioral patterns. One noteworthy example is the presence of cortisol in human biofluids, a biomarker associated with conditions such as stress, stroke, Cushing's syndrome, and Addison's disease. Despite its significance, existing technologies fall short in enabling regular intermittent monitoring of cortisol in sweat or other biofluids, especially in non-clinical, on-demand settings. Therefore, there is a compelling need to develop a novel modality that allows for superficial and user-friendly monitoring of the chemical composition of sweat, facilitating daily use by ordinary individuals. The impact of this research extends beyond technological innovation to encompass educational and societal dimensions. Graduate student training and the involvement of undergraduate students in the research process are integral components of this initiative. Additionally, leadership efforts in creating and spearheading programs that prepare undergraduates in biomedical engineering for graduate school contribute to goal of broadening participation within the field. Moreover, the dissemination of educational videos constitutes a proactive approach to increasing awareness and fostering interest in this interdisciplinary domain. These efforts collectively serve to bridge gaps between advanced technological research and the broader community, making the subject accessible and engaging to a diverse audience. &lt;br/&gt; &lt;br/&gt;The investigators propose to leverage the technology of graphene tattoos, by further functionalizing them with aptamers and bias as transistors directly via the skin. This way, the team will create the technology of aptamer-infused body-gated graphene tattoo transistors – a novel way to monitor one’s health. Such a sweat biosensing transistor tattoo will be biased through the body, via the unique skin-gating effect. The proof-of-concept devices will be designed to target cortisol, an important biomarker of stress, yet the technology will be multimodal and later can target detection of various biomolecules, cytokines, and viruses and be pivotal for future personalized healthcare. The investigators expect these sweat tattoo biosensing transistors to be self-administrable, allowing for non-clinical and on-demand biosensing, leading to frequent and even continuous monitoring of sweat bioanalytes. Beyond the task of frequent analyte monitoring, the technology holds the potential to improve the disease prognosis and prevention methodologies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>01/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400494</AwardID>
+<Investigator>
+<FirstName>Dmitry</FirstName>
+<LastName>Kireev</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dmitry Kireev</PI_FULL_NAME>
+<EmailAddress><![CDATA[dkireev@umass.edu]]></EmailAddress>
+<NSF_ID>000867600</NSF_ID>
+<StartDate>01/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>AMHERST</CityName>
+<ZipCode>010039252</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress><![CDATA[101 COMMONWEALTH AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VGJHK59NMPK9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>AMHERST</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>01003</ZipCode>
+<StreetAddress><![CDATA[COMMONWEALTH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>790900</Code>
+<Text>BIOSENS-Biosensing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1639</Code>
+<Text>SENSORS AND SENSING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~199991</FUND_OBLG>
+</Award>
+</rootTag>

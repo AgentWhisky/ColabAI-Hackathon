@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Automated AI-supported sample preparation and enrichment technology for rapid detection of food pathogens]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>275000.00</AwardTotalIntnAmount>
+<AwardAmount>275000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Parvathi Chundi</SignBlockName>
+<PO_EMAI>pchundi@nsf.gov</PO_EMAI>
+<PO_PHON>7032925198</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase I project is to provide the food industry with a fully automated platform for rapid detection of food pathogens. In the U.S., foodborne diseases cost ~$60.9B in medical care, lost productivity, and lives lost, rising to $90.2B when taking quality of life losses into account. Food pathogens also lead to greatly increased costs for food producers, both due to food safety testing itself and recalls caused by contaminated food, which average $10M in direct costs. The proposed food pathogen detection system will meet the food industry’s large unaddressed need for portable, affordable, accurate and time-sensitive testing that can be performed by non-specialists. Critically, an affordable onsite system will lower direct costs and increase testing capacity—the increased volume of testing will reduce the risk of contaminated food entering the marketplace with the associated costs to both businesses and the U.S. economy. Further, data collected by the proposed system will provide insights into the food safety landscape resulting in a safer food supply chain and reduced food producer liability.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project aims to develop an end-to-end, affordable, fully automated, easy-to-operate, portable system for accurate and rapid detection of food pathogens across a broad range of food types. The system uses adaptive design of experiments to optimize the platform hardware and protocols, enabling rapid testing and allowing for earlier detection of food pathogens than currently possible.  The proposed technology will provide the same value as traditional third-party laboratories, yet faster and at a fraction of the cost with the ability to test in-house, thus meeting the needs of small to medium-sized food producers and food processing plants. In Phase I, the company aims to  1) Build an automatic sample preparation module and explore its ability to enhance enrichment across food groups; 2) Develop an automated experimental design workflow to speed up the optimization of enrichment time; and 3) Using experimental data, develop an algorithm to quantify the microbial concentrations in food samples. Successful completion of this work will lay a foundation for future Phase II commercialization activities where the platform will be scaled to additional use cases.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402679</AwardID>
+<Investigator>
+<FirstName>Yuan-Sheng</FirstName>
+<LastName>Fang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yuan-Sheng Fang</PI_FULL_NAME>
+<EmailAddress><![CDATA[mfang@spectacularlabs.com]]></EmailAddress>
+<NSF_ID>000823506</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SPECTACULAR LABS, INC.]]></Name>
+<CityName>RICHMOND</CityName>
+<ZipCode>948047496</ZipCode>
+<PhoneNumber>5105846877</PhoneNumber>
+<StreetAddress><![CDATA[79 HARBOR VIEW DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CH5EELVPUEK5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SPECTACULAR LABS, INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>TSUUB7MAVA83</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SPECTACULAR LABS, INC.]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947091310</ZipCode>
+<StreetAddress><![CDATA[1822 ARCH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~275000</FUND_OBLG>
+</Award>
+</rootTag>

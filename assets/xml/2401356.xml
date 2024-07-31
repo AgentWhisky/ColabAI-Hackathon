@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Modular forms and L-functions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>182101.00</AwardTotalIntnAmount>
+<AwardAmount>182101</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The research in this project is in the area of analytic number theory, a field that uses analytic functions to study arithmetic structure. The main objects of study in this project are modular forms, complex analytic functions that encode a wide variety of arithmetic information in various ways and play a major role in modern number theory, with connections to combinatorics, algebraic geometry, representation theory, topology, and mathematical physics. While the most classical modular forms are holomorphic, real-analytic modular forms have also been studied for decades and become essential tools in analytic number theory. More recently, harmonic Maass forms have appeared in many applications, for example, to indefinite theta functions, combinatorics, and elliptic curves. This project will explore the arithmetic information encoded by the harmonic Maass forms and their closely related generalizations, and ways of extending classical methods from analytic number theory to study them.  The PI will also use the grant to support the dissemination of the research ideas by the PI and her PhD students at conferences and to organize number theory seminars.&lt;br/&gt;&lt;br/&gt;The PI plans to explore the connections between real-analytic modular forms and L-functions. This project will elucidate connections between values of L-functions and harmonic and polyharmonic Maass forms, and will use these connections to develop new methods of constructing modular forms and summation formulas for mock modular forms. The methods will utilize differential operators on modular forms, the spectral theory of automorphic forms, and techniques from the analytic theory of L-functions such as converse theorems. Applications to the study of Hurwitz class numbers and quadratic number fields will also be explored.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by Algebra and Number Theory program, and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401356</AwardID>
+<Investigator>
+<FirstName>Olivia</FirstName>
+<LastName>Beckwith</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Olivia Beckwith</PI_FULL_NAME>
+<EmailAddress><![CDATA[obeckwith@tulane.edu]]></EmailAddress>
+<NSF_ID>000901056</NSF_ID>
+<StartDate>06/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Tulane University]]></Name>
+<CityName>NEW ORLEANS</CityName>
+<ZipCode>701185665</ZipCode>
+<PhoneNumber>5048654000</PhoneNumber>
+<StreetAddress><![CDATA[6823 SAINT CHARLES AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XNY5ULPU8EN6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ADMINISTRATORS OF THE TULANE EDUCATIONAL FUND, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>XNY5ULPU8EN6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Tulane University]]></Name>
+<CityName>NEW ORLEANS</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>701185665</ZipCode>
+<StreetAddress><![CDATA[6823 SAINT CHARLES AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~182101</FUND_OBLG>
+</Award>
+</rootTag>

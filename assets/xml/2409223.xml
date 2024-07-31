@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Microscale Plasma Processes at High Beta in Shock and Turbulent Environments]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>341464.00</AwardTotalIntnAmount>
+<AwardAmount>341464</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vyacheslav (Slava) Lukin</SignBlockName>
+<PO_EMAI>vlukin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927382</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Ordinary gases like the Earth's atmosphere are often characterized by their pressure and temperature, from which it's possible to make many useful predictions using the laws of thermodynamics. Astrophysical gases follow similar laws, but most astrophysical systems are plasmas: made up of energetic, electrically charged particles often with an embedded magnetic field.  Under these conditions the simple thermodynamic descriptions do not apply because the laws which regulate the flow of energy between charged particles and the electromagnetic fields are so complex. Examples of such systems include accretion disks around black holes, the tenuous medium pervading clusters of galaxies, and the solar wind coming off of our own Sun. This project will use state of the art computer hardware and software to extract simple descriptions of these systems and use them to develop testable predictions for fundamental, observables such as the rate at which galaxy cluster plasmas emit x-rays and radio waves, whether plasma orbiting a black hole is swallowed up or launched into high energy jets, and what mechanisms power Nature's most energetic explosions, such as the mysterious bursts of radio waves and gamma rays detected throughout the cosmos.&lt;br/&gt;&lt;br/&gt;Hydrodynamics and magnetohydrodynamics are proven tools for elucidating the properties of diffuse astrophysical gas and have enabled great progress. Still, many unsolved problems remain, including heating and acceleration of particles at shocks and transport of momentum and heat in a turbulent plasma rich in instabilities driven by velocity space anisotropies. This collaborative award to Columbia University and the University of Wisconsin-Madison supports development of physics-based models of kinetic, non-equilibrium processes suitable for use in fluid codes.  The project will focus on (1) particle heating and acceleration in shocks and (2) thermodynamics and transport driven by large scale turbulence. These problems will be investigated with numerical simulations, analytical theory, and spacecraft data.  The project will engage undergraduate students who will receive mentorship and academic support throughout the project. The project will also develop an interactive website that will be used to expose local high-school students to the forefront of astrophysical research during day-long workshops in the schools.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409223</AwardID>
+<Investigator>
+<FirstName>Lorenzo</FirstName>
+<LastName>Sironi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lorenzo Sironi</PI_FULL_NAME>
+<EmailAddress><![CDATA[lsironi@astro.columbia.edu]]></EmailAddress>
+<NSF_ID>000708276</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100277922</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress><![CDATA[615 W 131ST ST]]></StreetAddress>
+<StreetAddress2><![CDATA[MC 8741]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100277922</ZipCode>
+<StreetAddress><![CDATA[202 LOW LIBRARY 535 W 116 ST MC 4309,]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>121500</Code>
+<Text>STELLAR ASTRONOMY &amp; ASTROPHYSC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>124200</Code>
+<Text>PLASMA PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8092</Code>
+<Text>Space Weather Research</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~341464</FUND_OBLG>
+</Award>
+</rootTag>

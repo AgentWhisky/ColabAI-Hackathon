@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Self-powered Electrochemical Actuators toward Untethered Soft Mobile Robots]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>498432.00</AwardTotalIntnAmount>
+<AwardAmount>498432</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Siddiq Qidwai</SignBlockName>
+<PO_EMAI>sqidwai@nsf.gov</PO_EMAI>
+<PO_PHON>7032922211</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Autonomy is crucial for robotic applications, e.g., in search and rescue, surveillance, and monitoring and patrol, as it reduces human labor and enhance efficiency. Soft robots are desirable in these applications because of their ability to navigate through rough, constrained, or otherwise complex terrains and environments though morphing, reconfiguration, and adaptability. Onboard energy storage and actuation systems are two outstanding challenges in achieving broader autonomy for soft robots because these systems are non-conformable, inflexible, and bulky. This award supports research in meeting these challenges by integrating a novel 3D printed deformable battery-based electrochemical actuator with soft robotic structures for creating self-powered, untethered mobile soft robots. The deformable battery will serve as both a power source and an actuator for dual functionality. A successful outcome of this research will enable soft robotic applications for land, undersea, and space exploration, human-machine interactions, health monitoring, wearable technology, and defense and security. The education and outreach objective of the project is to promote diversity in undergraduate researchers through multiple inside and outside-campus activities with hands-on projects, as well as to spark the interest of K-12 students in soft robots by contributing to and leveraging institutional summer programs and camps.&lt;br/&gt;&lt;br/&gt;The objective of this research to achieve a closed-loop integration of electrochemical and mechanical functions for robotic functionality towards developing a self-powered, untethered mobile soft robotic system. Three aims will be pursued: 1) coupling of electrochemical powering and actuation in 3D printed structural batteries for self-powered bending actuators, 2) integration of self-powered electrochemical actuators with monostable structures for untethered motion in repetitive soft jumping and swimming robots, and 3) fundamental investigation of electro-chemical-mechanical bending and actuation behavior through combined experimental characterization, analytical modeling, and multiphysics simulation. To attain these aims, the research will focus on several novel aspects such as 3D printing with controllable microstructure, design of deformable and high energy density carbon fiber batteries, and enabling of robotic functions through electro-chemical-mechanical coupling.&lt;br/&gt;&lt;br/&gt;This project is supported by the cross-directorate Foundational Research in Robotics program, jointly managed and funded by the Directorates for Engineering (ENG) and Computer and Information Science and Engineering (CISE).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/01/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>12/01/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406820</AwardID>
+<Investigator>
+<FirstName>Xiangyang</FirstName>
+<LastName>Dong</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiangyang Dong</PI_FULL_NAME>
+<EmailAddress><![CDATA[Xiangyang.Dong@asu.edu]]></EmailAddress>
+<NSF_ID>000764723</NSF_ID>
+<StartDate>12/01/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852813670</ZipCode>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144Y00</Code>
+<Text>FRR-Foundationl Rsrch Robotics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6840</Code>
+<Text>ROBOTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~498432</FUND_OBLG>
+</Award>
+</rootTag>

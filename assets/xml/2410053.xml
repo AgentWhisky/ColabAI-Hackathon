@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Monolithic Silicon-Photonics Accelerators Enabling Next-Gen Extreme MIMO]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>540000.00</AwardTotalIntnAmount>
+<AwardAmount>540000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ale Lukaszew</SignBlockName>
+<PO_EMAI>rlukasze@nsf.gov</PO_EMAI>
+<PO_PHON>7032928103</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The newly available millimeter wave (mmWave) spectrum in emerging 5G/6G wireless systems, coupled with advanced multiuser massive multiple-input multiple-output (MIMO) technology, will enable new wireless extended reality (XR) experience for many users in large groups to freely roam through common areas while jointly experiencing interactive, hyper-realistic, immersive virtual or mixed reality environments. While such wireless XR experience has potentially many applications in training, education, and entertainment, delivering such high-resolution digital XR experience requires tremendous data rates that necessitate aggressive use of multiple antennas so that the required data rates can be achieved by means of parallel data streams, but in turn, the dimension of matrices involved in the MIMO decoding process increases substantially. In particular, linear-detection-based MIMO decoding approaches require the inversion of channel matrices, estimated by the base station, at a timescale fast enough to accurately capture rapidly changing channel conditions. Unfortunately, the matrix inversion problem in this decoding process has cubic complexity in the worst case with the number of users, who need to be served simultaneously, making the performance of conventional digital electronics approaches a key limiting factor to the future scaling of massive MIMO systems. The vision of this project is to raise the creation of new, much faster, and efficient linear-algebra accelerators possessing immediate capabilities to advance massive MIMO systems, enable many more simultaneous users, support much more rapidly changing channel conditions, and benefit numerous existing and evolving applications that are limited by linear-algebra computations, including signal processing, image processing, and machine learning. The execution of this project can directly provide and develop scientific training for students at both graduate and undergraduate levels, including underrepresented minorities, in the fields of optical communication and computation, while continue expending hands-on classes to students engaged in STEM with diverse origins, ethnic, genders, and workforce populations.&lt;br/&gt;&lt;br/&gt;The main goal of this project is to formulate a computation-efficient matrix-inversion (MI) algorithm for realizing an energy/area-efficient hybrid photonic-electronic integrated accelerator, which can support the unprecedented computation workload of the massive MIMO channel decoding process. To realize this goal, the following objectives will be carried out: (I) co-design of the MI algorithm and hybrid photonic-electronic architecture; (II) co-design of photonic devices and electronic circuits to implement a system-on-chip (SoC) MI computation accelerator fabricated in a monolithic silicon-photonics (M-SiPh) semiconductor process technology (GlobalFoundries 45SPCLO); (III) the SoC prototyping and tape-out execution of the M-SiPh accelerator containing computation capabilities of high-dimensional matrix-vector multiplications, matrix-matrix multiplications, and MIs for massive MIMO channel decoding process; (IV) testing, characterizations, validations, and demonstrations of the fabricated M-SiPh accelerator; (V) rapid prototyping performed at UC San Diego Nano-3 facility for risk mitigations. Overall, the project scope is transformative in nature as it will significantly expand the speed and energy efficiency of next-generation massive MIMO systems, develop a fundamental understanding of performance metrics for hybrid photonic-electronic SoCs, and broaden the current notions of both photonic and electronic functionalities for future tech-transfers from research laboratories to commercial foundries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410053</AwardID>
+<Investigator>
+<FirstName>Yeshaiahu</FirstName>
+<LastName>Fainman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yeshaiahu Fainman</PI_FULL_NAME>
+<EmailAddress><![CDATA[fainman@ece.ucsd.edu]]></EmailAddress>
+<NSF_ID>000468645</NSF_ID>
+<StartDate>06/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bill</FirstName>
+<LastName>Lin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bill Lin</PI_FULL_NAME>
+<EmailAddress><![CDATA[billlin@ece.ucsd.edu]]></EmailAddress>
+<NSF_ID>000441658</NSF_ID>
+<StartDate>06/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tzu-Chien</FirstName>
+<LastName>Hsueh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tzu-Chien Hsueh</PI_FULL_NAME>
+<EmailAddress><![CDATA[tzhsueh@eng.ucsd.edu]]></EmailAddress>
+<NSF_ID>000833992</NSF_ID>
+<StartDate>06/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress><![CDATA[9500 GILMAN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930021</ZipCode>
+<StreetAddress><![CDATA[9500 GILMAN DRIVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>756400</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>154E</Code>
+<Text>Computat systems &amp; security</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~540000</FUND_OBLG>
+</Award>
+</rootTag>

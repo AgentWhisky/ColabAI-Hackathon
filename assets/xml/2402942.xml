@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SHF: Medium: End-to-End Resilience in Autonomous Driving Systems: Strategic Vulnerability Assessment and Mitigation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>272238.00</AwardTotalIntnAmount>
+<AwardAmount>272238</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol Greenspan</SignBlockName>
+<PO_EMAI>sgreensp@nsf.gov</PO_EMAI>
+<PO_PHON>7032927841</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Autonomous vehicles, such as self-driving cars, are complex and advanced cyber-physical systems that are part of a significant economic sector. With the goal of moving towards full autonomy without human drivers, the reliability and safety of these systems are of highest importance. The safe operation of autonomous vehicles depends not only on their physical components, such as sensors and brakes, but also on the proper operation of their autonomous control software and machine learning components. System faults such as transient faults (soft errors) in these components may lead to safety hazards and accidents. This project aims to enhance the safety of autonomous vehicles by thoroughly examining and improving their controller and machine learning components. This project brings classical reliability research methodologies to autonomous driving systems and improves them to understand the reliability behavior of autonomous vehicles with complicated software and hardware. This understanding will be used to identify vulnerabilities (that could lead to hazards) and to improve the reliability of autonomous vehicles. The involved research spans a broad range of theoretical and experimental approaches that are also applicable to other complex cyber-physical systems. &lt;br/&gt;&lt;br/&gt;This project will combine model-based and data-driven approaches for end-to-end strategic resilience assessment and multi-level selective resilience enhancement in autonomous vehicles through a holistic focus on temporal and spatial aspects of vulnerabilities within the software and hardware components. The project will start with a spatial vulnerability assessment to pinpoint critical fault locations inside the vast software space in autonomous vehicles, hence accelerating the process of identifying vulnerabilities in their machine learning models and the vulnerable functions and variables in the controller. Meanwhile, temporal vulnerability assessment will be performed to identify the underlying system contexts that are critical in the activation and propagation of faults and safety violations for the purpose of bridging the gap between in-lab reliability assessment and practical system development in the real world. Based on the spatial and temporal vulnerability assessment, the project will explore mitigation techniques through efficient selection protection to enhance the resilience of autonomous driving systems based on the knowledge of spatial and temporal criticality of vulnerabilities to address the challenges of real-time requirements and resource constraints in AVs. The research in this project will be tested and validated through the integration of strategic fault injection and selective protection mechanisms with end-to-end AV testbeds, comprising realistic control software, driving simulators, and safety intervention simulators.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402942</AwardID>
+<Investigator>
+<FirstName>Evgenia</FirstName>
+<LastName>Smirni</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Evgenia Smirni</PI_FULL_NAME>
+<EmailAddress><![CDATA[esmirni@cs.wm.edu]]></EmailAddress>
+<NSF_ID>000346140</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[College of William and Mary]]></Name>
+<CityName>WILLIAMSBURG</CityName>
+<ZipCode>231852817</ZipCode>
+<PhoneNumber>7572213965</PhoneNumber>
+<StreetAddress><![CDATA[1314 S MOUNT VERNON AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EVWJPCY6AD97</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLLEGE OF WILLIAM AND MARY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[College of William and Mary]]></Name>
+<CityName>WILLIAMSBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>231852817</ZipCode>
+<StreetAddress><![CDATA[1314 S MOUNT VERNON AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7944</Code>
+<Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~272238</FUND_OBLG>
+</Award>
+</rootTag>

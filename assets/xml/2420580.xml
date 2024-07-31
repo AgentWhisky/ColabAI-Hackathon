@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation Potential of a New Fluorescent Probe for Nucleic Acid Amplification Tests]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaime A. Camelio</SignBlockName>
+<PO_EMAI>jcamelio@nsf.gov</PO_EMAI>
+<PO_PHON>7032922061</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is the development of a simple, sensitive, economic, and highly quantitative solution to replace the current fluorescent molecular probes in nucleic acid detection and other assays. The technology has potential uses in several markets, including assay reagents, life science research tools, analytical chemistry services, and therapeutics. The technology and its commercialized products will benefit (1) resource-limited areas to conduct more nucleic acid amplification tests (NAATs) to control the spread of infectious diseases; (2) life science researchers who routinely perform NAATs in universities, government institutes, and industrial settings; (3) laboratory workers that constantly monitor nuclease and protease activities in the environment; (4) analytical chemists who provide services to analyze biological or chemical samples; and (5) pharmaceutical companies that typically rely on the expensive molecular probes for drug discovery. &lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of highly fluorescent silver nanocluster reporters that can transform from one cluster size (e.g., Ag13) to another (Ag10). When this transformation takes place, the silver cluster changes its emission color. This change of color can be employed as an indicator for many biological and chemical assays that rely on fluorescence for detection. Noble metal nanoclusters can be called quantum dots since they share a size-tunable fluorescence emission property with semiconductor quantum dots. Due to their strong quantum confinement effect, adding or removing one atom to or from a noble metal nanocluster can significantly change the structure of the cluster, thus altering its electronic and optical properties. Recently, a silver nanocluster probe was discovered that shows a clear green-to-red color conversion upon DNA host fragmentation by a nuclease. Such a novel probe could outperform the current fluorescent reporters.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2420580</AwardID>
+<Investigator>
+<FirstName>Hsin-Chih</FirstName>
+<LastName>Yeh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hsin-Chih Yeh</PI_FULL_NAME>
+<EmailAddress><![CDATA[tim.yeh@austin.utexas.edu]]></EmailAddress>
+<NSF_ID>000627133</NSF_ID>
+<StartDate>04/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>066E</Code>
+<Text>INSTRUMENTATION &amp; DIAGNOSTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

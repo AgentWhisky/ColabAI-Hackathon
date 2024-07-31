@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation Potential of Small-Size, Low-power, Electrostatic Actuator Driver Circuits]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is the development of an integrated electrical component or drive circuit for small-scale piezoelectric actuators that enables movement and is used in tactile sensory feedback applications. Currently, due to their small-size, high energy density, and good scalability, electrostatic actuators are used in vibrotactile feedback for sense-of-touch human interfaces such as cellphones, tablets, gaming controllers, surgical devices, machine controllers, and other applications. However, the required high voltage driving signals pose significant challenges for electronic actuator drive systems, which limits the size, cost, and overall adoption of these technologies. This technology uses a new class of piezoelectric drive circuit that may enable next-generation micro-mechanical actuators. These actuators have commercial potential in applications spanning small-scale and soft robotics, haptics systems in consumer, medical, military, and automotive electronics, and other applications that require small or scalable mechanical actuation.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. the solution is based on the development of integrated switched capacitor drive circuits for electrostatic actuators. The technology uses a high-voltage, bidirectional boost direct current-direct current converter that can deliver and recover reactive power efficiently. In addition, the approach uses high energy density capacitors as energy storage components to step the voltage across the load with small voltage steps. This helps to supply the reactive energy needed to actuate the transducer with less real power loss and allows a large fraction of the reactive energy to be recovered when the actuator is discharged. Compared to existing methods, the switched capacitor driver may reduce power loss (increase battery life) by over an order of magnitude while reducing overall solution size and cost. The effectiveness of the switched capacitor driver has &gt;5x higher energy density and &gt;10x lower power consumption than current technologies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/13/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/13/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2425474</AwardID>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Stauth</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jason T Stauth</PI_FULL_NAME>
+<EmailAddress><![CDATA[jason.t.stauth@dartmouth.edu]]></EmailAddress>
+<NSF_ID>000615619</NSF_ID>
+<StartDate>05/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Dartmouth College]]></Name>
+<CityName>HANOVER</CityName>
+<ZipCode>037552170</ZipCode>
+<PhoneNumber>6036463007</PhoneNumber>
+<StreetAddress><![CDATA[7 LEBANON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<StateCode>NH</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NH02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EB8ASJBCFER9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF DARTMOUTH COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>T4MWFG59C6R3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Dartmouth College]]></Name>
+<CityName>Hanover</CityName>
+<StateCode>NH</StateCode>
+<ZipCode>037554404</ZipCode>
+<StreetAddress><![CDATA[15 Thayer Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NH02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7607</Code>
+<Text>POWER, CONTROLS &amp; ADAPTIVE NET</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

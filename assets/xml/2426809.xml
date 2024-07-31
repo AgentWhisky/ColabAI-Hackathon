@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Dynamics and Transport of Compound Multiphase Bubble Rising and Bursting]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>321736.00</AwardTotalIntnAmount>
+<AwardAmount>321736</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Compound multiphase bubbles (gas-liquid bubbles coated by a distinct third fluid) are ubiquitous in various environmental and industrial configurations, since flow mechanics and physical chemistry allow bubbles to scavenge and concentrate dispersal compounds from the surrounding fluid. These buoyant compound bubbles can then transport the coating compound by rising, and ultimately eject them as small droplets into the atmosphere by bursting. The rising and bursting dynamics of these compound bubbles not only play an important role in ocean-to-atmosphere mass transfer of biogenic organics and anthropogenic pollutants, but also are widely applied in many bubble-mediated industrial processing, such as flotation and direct-contact heat exchange. Nevertheless, most previous studies only consider bare bubbles. How the rising and bursting dynamics of the compound bubbles are mediated by physical parameters of the multiphase system remains elusive. Therefore, the goal of this project is to develop a comprehensive and fundamental framework to understand how such a coating compound alters the bubble rising and bursting mechanics. The project will also provide outreach to a wide audience from K-12 to graduate levels, through undergraduate course reformulation, hands-on educational module, Engineering Open House, public web videos, mentorship and research training, to disseminate the research outcome and enhance public understanding of the project. &lt;br/&gt;&lt;br/&gt;This proposed research will leverage state-of-the-art experiments, scaling modeling and numerical simulations to accomplish two specific objectives. The first objective is to elucidate the rising dynamics of a compound multiphase bubble by characterizing the shape, trajectory, drag, path instability and wake structure with particle tracking and image velocimetry. Governing dimensionless parameters and the regime map for compound bubble rising dynamics will be obtained. The second objective is to elucidate the bursting dynamics and the resulting jets of a compound multiphase bubble by characterizing the cavity collapse and capillary wave damping  with high-speed imaging and direct numerical simulation. New scaling laws for the jet size and velocity will be obtained considering effect of the coating compound on the capillary waves that control the jet formation and droplet ejection. Successful completion of this project will advance the fundamental description of multiphase flow physics with structurally compound interfaces, provide the physics-based model constraints to evaluate bubble-mediated scavenging and aerosolization of contaminants, and help optimize the productivity of multiphase contactors and reactors that utilize bubble dynamics in industry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2426809</AwardID>
+<Investigator>
+<FirstName>Jie</FirstName>
+<LastName>Feng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jie Feng</PI_FULL_NAME>
+<EmailAddress><![CDATA[jiefeng@illinois.edu]]></EmailAddress>
+<NSF_ID>000841324</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144300</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~321736</FUND_OBLG>
+</Award>
+</rootTag>

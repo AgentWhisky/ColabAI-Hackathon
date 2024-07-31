@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF BSF: Sensitive EPR Methods to elucidate mechanism of transcriptional activation by a metalloregulator]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>774534.00</AwardTotalIntnAmount>
+<AwardAmount>774534</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Engin Serpersu</SignBlockName>
+<PO_EMAI>eserpers@nsf.gov</PO_EMAI>
+<PO_PHON>7032927124</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Pathogenic bacteria have developed elaborate mechanism to defend themselves from high concentrations of toxic metal ions. These bacteria contain proteins that have high affinity to these metal ions, and in the presence of these metal ions initiate the generation of other proteins that rapidly remove the metal ion,  convert them to less toxic redox states, or initiate other regulatory processes. This project will generate a holistic understanding of this sensing and transcription mechanism of a copper regulator in pathogenic bacterial cells. An understanding of the microscopic structural details of function is challenging given the absolute need to measure structural constraints and conformational changes that result upon interaction with metal ions as well as DNA. Measurement of such processes are often inaccessible to traditional structural techniques due to size of the full complexes, timescales of conformational changes, low solubility of the protein-DNA complex in the presence of metal ions, and the need to examine conformations at different ratios of the components (protein, DNA, and metal ions). This project will develop spin labeling strategies to be used in Electron Paramagnetic Resonance (EPR) Spectroscopy to shed light on the atomic level details of the conformational and structural adaptation that leads to protein function. Understanding the mechanistic details at an atomic-level detail enhances our ability to reduce this protective function in the cell, and thereby providing a new way to destroy pathogenic bacteria. Another centrally innovative aspect of this project is that the work will provide the wider biophysical community with new approaches to measure structural constraints. The project will train a diverse team of students at the interdisciplinary interface of Chemistry and Biophysics, promote access to EPR to four-year colleges, and create career awareness opportunities for K-12 students. &lt;br/&gt;&lt;br/&gt;More specifically, this NSF-BSF project will develop experimental EPR methodology and associated simulation methodology to elucidate the sensing and transcription mechanism of copper-inducible repressor, CopY. The CopY protein is a transcriptional regulator found in gram-positive bacteria such as Enterococcus and Streptococcus. CopY represses the transcription of metal regulatory proteins by binding to a specific DNA operon sequence. In the presence of Cu(I), the protein unbinds from DNA, thereby allowing RNA polymerase to access the promoter region to express proteins that remove toxic Cu(I) from the cell. Thus, the protein plays a crucial role in protecting the bacteria from toxic metal stress. The project will develop methods to improve the sensitivity of pulsed EPR distance measurement methods and generate orthogonal labeling schemes based on a novel site-directed spin label pioneered by the PI’s group; and elucidate the amplitude and nature of conformational changes in both protein and DNA that lead to the initiation of transcription. This collaborative US/Israel project is supported by the US National Science Foundation and the Israeli Binational Science Foundation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407706</AwardID>
+<Investigator>
+<FirstName>Sunil</FirstName>
+<LastName>Saxena</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sunil K Saxena</PI_FULL_NAME>
+<EmailAddress><![CDATA[sksaxena@pitt.edu]]></EmailAddress>
+<NSF_ID>000179129</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Pittsburgh]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152600001</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress><![CDATA[4200 FIFTH AVENUE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MKAGLD59JRL1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF PITTSBURGH - OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pittsburgh]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152600001</ZipCode>
+<StreetAddress><![CDATA[4200 FIFTH AVENUE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>114400</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>014Z</Code>
+<Text>NSF and US-Israel Binational Science Fou</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5905</Code>
+<Text>ISRAEL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~774534</FUND_OBLG>
+</Award>
+</rootTag>

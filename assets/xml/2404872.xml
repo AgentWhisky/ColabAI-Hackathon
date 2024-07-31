@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Reliability and Resilience Assurance of Cyber-Physical Energy Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>337539</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aranya Chakrabortty</SignBlockName>
+<PO_EMAI>achakrab@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Recent cyber-attacks and reconnaissance missions on cyber-physical energy systems (CPESs) have contributed to concerns regarding these systems' security, reliability, and resilience. As the deployment of new communication, computation, and control technologies in modern power systems increases, more sophisticated tools will be required to analyze and prevent failure and attack propagations between and within system layers. The objective of this project is to harden CPESs against failures and attacks and to educate future engineers about the new types of threats to future power systems and required tools to strengthen them. The proposed research encompasses the following key areas: classification of system layers and characterization of their interactions; establishment of new reliability and resilience indices; and development of advanced comprehensive models and methods for reliability and resilience assessment and enhancement of CPESs. The impacts of the proposed project extend well beyond these specific research areas. First, the problem of reliability and resilience assurance in power grids is timely since cyber-attacks and network reconnaissance missions have been increasing in recent years. Second, given that power grids are critical to the nation's economy and security and that the consequences of blackouts and damaged grid equipment are severe, it is becoming imperative to harden them against attacks and failure propagation. In addition to these large-scale contributions, the proposed research promises a direct and substantial educational impact, most notably by developing new curriculum, incorporating several project aspects into power reliability and resilient control courses, enhancing graduate and undergraduate research programs, and creating new student mentorship and career opportunities. The proposed research will contribute to the establishment of science and engineering principles for the design, reconstruction, and digitization of CPESs to ensure a secure, reliable, and resilient power supply, and will equip future generations of engineers with the necessary tools to operate and enhance them.&lt;br/&gt;&lt;br/&gt;While the objective of this proposal is to harden CPESs against failures and potential cyber- and physical-attacks, the proposed integrative approach addresses the reliability and resilience of future power grids and provides solutions to problems related to various research domains. The anticipated outcomes will advance the following topic areas: (1) characterizing inter- and intra-actions between and within system layers and sub-layers; (2) establishing a set of reliability and resilience indices to contribute to the power and energy industry's goal of developing standardized and universally accepted resilience indices and metrics for CPESs; (3) developing efficient hybrid evaluation methods based on the snowflake development theory for reliability and resilience assessment that is amenable to CPESs; and (4) developing a game theoretic approach to determine proactive defense solutions against unknown and unpredicted emerging threats. The research proposed here will contribute to the development of a transformative mathematical framework and methodology that will enable - both through direct consequences and through promotion of further research solutions to hurdles that presently impede the hardening of CPESs against catastrophic failures and attacks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/24/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>11/24/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404872</AwardID>
+<Investigator>
+<FirstName>Mohammed</FirstName>
+<LastName>Ben-Idris</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mohammed A Ben-Idris</PI_FULL_NAME>
+<EmailAddress><![CDATA[benidris@msu.edu]]></EmailAddress>
+<NSF_ID>000736091</NSF_ID>
+<StartDate>11/24/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>426 AUDITORIUM RD RM 2</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress><![CDATA[EAST LANSING, MI 488242600]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1504</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7607</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>019Z</Code>
+<Text>Grad Prep APG:Enhan. Experience</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7607</Code>
+<Text>POWER, CONTROLS &amp; ADAPTIVE NET</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~16430</FUND_OBLG>
+<FUND_OBLG>2021~211108</FUND_OBLG>
+<FUND_OBLG>2022~55000</FUND_OBLG>
+<FUND_OBLG>2023~55000</FUND_OBLG>
+</Award>
+</rootTag>

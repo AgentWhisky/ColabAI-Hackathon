@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Travel: NSF Student Travel Grant for the Twentieth Symposium on Usable Privacy and Security (SOUPS 2024) and the 33rd USENIX Security Symposium (USENIX Security 2024)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>40000.00</AwardTotalIntnAmount>
+<AwardAmount>40000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+<PO_EMAI>dcosley@nsf.gov</PO_EMAI>
+<PO_PHON>7032928832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The USENIX Security Conference is one of the most important research conferences for professionals to present cutting edge research of fundamental importance to advancing understanding of computer systems security.  Its co-located conference, the Symposium on Usable Privacy and Security (SOUPS) is a leading venue for research on security and privacy topics as they relate to people, organizations, and society.  This award will support student travel to the 33rd edition of USENIX Security and the 20th edition of SOUPS, to be held Aug 11-16, 2024 in Philadelphia.  Funding this travel will allow student researchers to connect to experts from across the academic, government, and industry communities to foster cross-disciplinary approaches and to address shared research challenges. &lt;br/&gt;&lt;br/&gt;This award will provide travel support to about 28 students who who otherwise have limited travel funding and so might not be able to attend.  The funding will allow students to present at the conference and receive valuable mentoring both at the conference and beyond, through an online community that supports attendees.  Criteria for selection include financial need, conference participation, close alignment with conference topics, first-time attendance, and diversity of personal and institutional backgrounds.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/28/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/28/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415713</AwardID>
+<Investigator>
+<FirstName>Camille</FirstName>
+<LastName>Mulligan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Camille Mulligan</PI_FULL_NAME>
+<EmailAddress><![CDATA[camille@usenix.org]]></EmailAddress>
+<NSF_ID>000638474</NSF_ID>
+<StartDate>02/28/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Catherine</FirstName>
+<LastName>Bergman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Catherine Bergman</PI_FULL_NAME>
+<EmailAddress><![CDATA[cathy@usenix.org]]></EmailAddress>
+<NSF_ID>000877733</NSF_ID>
+<StartDate>02/28/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[USENIX Association]]></Name>
+<CityName>LONG BEACH</CityName>
+<ZipCode>986316410</ZipCode>
+<PhoneNumber>5105288649</PhoneNumber>
+<StreetAddress><![CDATA[16415 M ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QJK1RVEY72A6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>USENIX ASSOCIATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[USENIX Association]]></Name>
+<CityName>LONG BEACH</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>986316410</ZipCode>
+<StreetAddress><![CDATA[16415 M ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>806000</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~40000</FUND_OBLG>
+</Award>
+</rootTag>

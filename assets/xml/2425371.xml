@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CIF: Small: Not All Eggs in One Basket: Authority Distribution for Resilience Against Compromised Nodes in Communication Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>240058</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+<PO_EMAI>pregalia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922981</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The ubiquity of networked communication systems in society raises ever-growing security and privacy concerns. In particular, such concerns exist for applications that collect private user information, as in health monitoring, e-commerce, and financial services, and applications associated with critical infrastructure as in transportation, smart grids, or process supervisory management systems. Indeed, for these applications, a single compromised/malicious agent or node of the network can provoke catastrophic events such as ransom payments to recover private data, large-scale electricity blackouts, interruptions of service, data breaches, financial losses, or fatalities. This project aims to explore how distributing the authority to launch critical tasks in the hands of multiple, rather than a single, nodes or users of the network can be an efficient means to avoid having a single point of failure and hence losing private data in its entirety in the case of a security breach. Furthermore, the proposed research studies how authority distribution is able to empower networks with the capability of coping with compromised devices or persons before they are identified as malicious and, most importantly, before they are able to do any harm.&lt;br/&gt;&lt;br/&gt;The project investigates novel solutions beyond traditional threshold cryptography to address challenging roadblocks in authority distribution for data access and biometric authentication. Specifically, the project aims to overcome (i) privacy challenges with the use of biometrics, (ii) the need for costly resources as perfectly secure communication channels, (iii) a poor scaling behavior with the number of users, and (iv) the need for a central entity which is not compatible with distributed systems, to unravel fundamental trade-offs between privacy and storage requirements. The project comprises three interrelated thrusts. The first thrust studies the fundamental security and privacy guarantees that authority distribution can offer in the presence of, potentially unnoticed, compromised users or nodes. The second thrust investigates the construction of low-complexity coding schemes for authority distribution that operate at finite blocklengths, based on novel methods derived from error control coding and cryptography. The third thrust aims to enable a universal learning framework for authority distribution via deep learning that is independent of the data statistics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2425371</AwardID>
+<Investigator>
+<FirstName>Remi</FirstName>
+<LastName>Chou</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Remi A Chou</PI_FULL_NAME>
+<EmailAddress><![CDATA[remi.chou@uta.edu]]></EmailAddress>
+<NSF_ID>000763335</NSF_ID>
+<StartDate>04/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Arlington]]></Name>
+<CityName>ARLINGTON</CityName>
+<ZipCode>760199800</ZipCode>
+<PhoneNumber>8172722105</PhoneNumber>
+<StreetAddress><![CDATA[701 S NEDDERMAN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMLUKUPJJ9N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT ARLINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Arlington]]></Name>
+<CityName>ARLINGTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>760199800</ZipCode>
+<StreetAddress><![CDATA[701 S. NEDDERMAN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779700</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7937</Code>
+<Text>NETWORK CODING AND INFO THEORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~240058</FUND_OBLG>
+</Award>
+</rootTag>

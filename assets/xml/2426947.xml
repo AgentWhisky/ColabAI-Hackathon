@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Developing an Interactive Dashboard for Collecting and Curating Traffic Data after the March 26, 2024 Francis Scott Key Bridge Collapse]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Siqian Shen</SignBlockName>
+<PO_EMAI>siqshen@nsf.gov</PO_EMAI>
+<PO_PHON>7032927048</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Grants for Rapid Response Research (RAPID) award will support research that will create a centralized, interactive online dashboard for collecting and curating traffic data in and around Baltimore, during and after the Francis Scott Key Bridge collapse on March 26, 2024. Although the immediate focus is on the aftermath of the Francis Scott Key Bridge collapse in Baltimore, Maryland, the findings are expected to yield insights that extend beyond this specific event, contributing to a broader understanding of how transportation infrastructure disruptions influence travel behaviors in both short and long term. This knowledge will aid transportation planners and engineers in devising strategies and policies aimed at reducing the impacts of future infrastructure failures, enhancing emergency response protocols and fostering resilient transportation networks. The dashboard will offer the public and government agencies critical information that they need to adapt their behaviors. Research activities will be incorporated into undergraduate and graduate courses to promote the synergy of research and education. Further, to broaden participation, this project will actively seek to involve under-represented minority students at both the undergraduate and graduate levels by attracting students through an undergraduate-level research course and a summer STEM program at Drexel University. &lt;br/&gt;&lt;br/&gt;This project will collect both local and regional traffic data during and after the Francis Scott Key Bridge collapse, using multiple publicly available data courses. A multi-scale sampling method will be used to reconcile the need for large-scale data collection and the demand for efficiency. Specifically, link-level traffic data for the entire road network will be collected in Baltimore and nearby counties like Anne Arundel and Howard in Maryland, while data will only be collected for major arterial routes and highways in broader regions such as Harford County in the State of Maryland. Beyond the life cycle of this project, the dataset will continue to benefit the academic community, allowing researchers to study traffic adaptation to transportation infrastructure failures. Additionally, the dashboard will become a reusable tool for future data collection and curation efforts when similar disasters happen in the future, which would much improve the response time of individuals and government agencies by offering timely information.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2426947</AwardID>
+<Investigator>
+<FirstName>Zhiwei</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhiwei Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[zc392@drexel.edu]]></EmailAddress>
+<NSF_ID>000927521</NSF_ID>
+<StartDate>04/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Drexel University]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191042875</ZipCode>
+<PhoneNumber>2158956342</PhoneNumber>
+<StreetAddress><![CDATA[3141 CHESTNUT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XF3XM9642N96</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DREXEL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Drexel University]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191042875</ZipCode>
+<StreetAddress><![CDATA[3141 CHESTNUT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>163100</Code>
+<Text>CIS-Civil Infrastructure Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>029E</Code>
+<Text>INFRASTRUCTURE SYSTEMS MGT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

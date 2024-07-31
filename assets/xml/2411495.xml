@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Research in Theoretical Nuclear and Neutrino Physics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bogdan Mihaila</SignBlockName>
+<PO_EMAI>bmihaila@nsf.gov</PO_EMAI>
+<PO_PHON>7032928235</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Neutrinos are weakly interacting electric charge neutral particles that are produced in copious amounts in the stars, supernova explosions, and neutron-star mergers. As such they easily transport excess energy and entropy away from those objects. The PI and their graduate students will study the interaction of neutrinos with their background particles as well as with each other in these astrophysical environments using both conventional techniques of neutrino many-body theory and tools from quantum information science. Theoretical research in those areas has a close coupling with ongoing state-of-the-art experimental and observational programs in the United States and abroad.&lt;br/&gt;&lt;br/&gt;Previously the PI and their students considered neutrino transport in astrophysical object within the two-flavor approximation, mapping two neutrino mass eigenstates onto up and down states of a qubit. Since neutrinos come in three flavors this approximation is inadequate and one needs to map three mass eigenstates onto qutrits. The team will develop the description of neutrino collective oscillations using qutrits. Since neutrinos control the value of the electron fraction, one can expect that different treatments of neutrino transport would result in different nucleosynthesis scenarios. Preliminary work showed that neutrino oscillations amplify the shift from proton-rich to neutron-rich nucleosynthesis and can result in a full intermediate neutron capture process. The team will explore the consequences of this “nu-i process” in detail. The PI with their collaborators will explore how neutrino spin-flavor precession gives feedback to the core-collapse supernova dynamics. The team will apply the statistical data assimilation technique, an inference procedure wherein a dynamical system is assumed to underlie any measured quantities, to the neutrino transport in the Sun (where much data are available) and core-collapse supernovae (using data from modeling).&lt;br/&gt;&lt;br/&gt;This project advances the objectives of "Windows on the Universe: the Era of Multi-Messenger Astrophysics", one of the 10 Big Ideas for Future NSF Investments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411495</AwardID>
+<Investigator>
+<FirstName>Akif Baha</FirstName>
+<LastName>Balantekin</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Akif Baha B Balantekin</PI_FULL_NAME>
+<EmailAddress><![CDATA[baha@physics.wisc.edu]]></EmailAddress>
+<NSF_ID>000116432</NSF_ID>
+<StartDate>07/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LCLSJAGTNZQ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>107Y00</Code>
+<Text>WoU-Windows on the Universe: T</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>128500</Code>
+<Text>NUCLEAR THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>069Z</Code>
+<Text>Windows on the Universe (WoU)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I:  Preventing Tumor Recurrence by Heat-Triggered Drug Delivery]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>275000.00</AwardTotalIntnAmount>
+<AwardAmount>275000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+<PO_EMAI>hahn@nsf.gov</PO_EMAI>
+<PO_PHON>7032927069</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project relates to a novel cancer therapy that addresses cancer regrowth after surgical therapy. Surgical removal of cancerous tumors is the first-line therapy for many cancers. In 30-40% of patients for certain cancers, cancerous cells remain after surgery that result in tumor recurrence. Such tumor recurrence is associated with worse prognosis and these patients often have limited treatment options. This project will develop technology that can deliver a large amount of chemotherapy precisely to the tissue where remnant cancer cells are anticipated after surgical tumor removal. The approach is based on heat-sensitive lipid particles that encapsulate the chemotherapy. When exposed to temperatures in the fever range, the lipid particles release the chemotherapy in the heated tissue regions. This approach enables the precisely targeted delivery of chemotherapy drugs to tissue with remnant cancer cells. If successful, this technology could cure many of those patients that would otherwise face tumor recurrence. Furthermore, the often-costly follow-up treatments will be avoided, making the approach cost-effective.&lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project will develop a novel device for the targeted delivery of chemotherapy agents to tissue surrounding surgically removed tumors. The device is based on an infrared laser which can be precisely targeted to the intended tissue region. The laser will be computer controlled to heat the tissue indicated by a physician to accurately controlled temperatures, triggering drug release in this tissue region. Furthermore, drug release will be monitored by an imaging technology that will be developed as part of this project. This imaging technology will provide feedback on amount of chemotherapy delivered, and location of delivery. The research objectives are: (1) Build and test a device prototype. The testing procedures will ensure that a targeted region can be heated to accurate temperatures. The imaging system component will be evaluated in terms of accuracy and sensitivity. (2) Large animal studies. These studies will confirm prototype operation in living organisms, where mock surgeries will be performed. The animal studies will confirm that adequate chemotherapy amount can be delivered to tissue surrounding a surgically removed specimen. Furthermore, the animal studies will ensure that no unintended organ damage occurs before transition to studies in human patients.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415653</AwardID>
+<Investigator>
+<FirstName>Christian</FirstName>
+<LastName>Rossmann</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christian Rossmann</PI_FULL_NAME>
+<EmailAddress><![CDATA[rossmann@oncoblaze.com]]></EmailAddress>
+<NSF_ID>000991450</NSF_ID>
+<StartDate>07/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dieter</FirstName>
+<LastName>Haemmerich</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dieter Haemmerich</PI_FULL_NAME>
+<EmailAddress><![CDATA[haemmer@musc.edu]]></EmailAddress>
+<NSF_ID>000511875</NSF_ID>
+<StartDate>07/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[ONCOBLAZE LLC]]></Name>
+<CityName>CHARLESTON</CityName>
+<ZipCode>294147328</ZipCode>
+<PhoneNumber>8438148180</PhoneNumber>
+<StreetAddress><![CDATA[8 FOREST CREEK CT]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>N9E1JKA4FAE4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ONCOBLAZE LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[ONCOBLAZE LLC]]></Name>
+<CityName>CHARLESTON</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>294147328</ZipCode>
+<StreetAddress><![CDATA[8 FOREST CREEK CT]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>150500</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>004E</Code>
+<Text>BIOMEDICAL ENG AND DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~275000</FUND_OBLG>
+</Award>
+</rootTag>

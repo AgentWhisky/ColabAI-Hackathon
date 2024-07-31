@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PFI-TT: Developing High-Energy and Long-Duration Primary Batteries based on Co-Advancement in Electrolyte and Cathode Design]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>549943.00</AwardTotalIntnAmount>
+<AwardAmount>549943</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samir M. Iqbal</SignBlockName>
+<PO_EMAI>smiqbal@nsf.gov</PO_EMAI>
+<PO_PHON>7032927529</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Partnerships for Innovation - Technology Translation (PFI-TT) project is the development of a high-energy, long-duration primary (non-rechargeable) battery with higher storage capacity than other currently available batteries. Lithium (Li) primary batteries have the highest energy of all batteries, making them indispensable for applications where recharge is nonessential, but a premium is placed on long lifetime and reliability.  Lead leading examples of the use of lithium primary batteries including medical implants, defense, and Internet-of Things (IoT) sensors. In those applications, the lifetime of the device is constrained by battery life, and there is high value associated with increasing the gravimetric/volumetric energy to enable new functions, longer-duration operation, and/or smaller/lighter devices for the same delivered energy. Unfortunately, the leading primary battery chemistries were developed several decades ago and have since matured with little/no new competitors entering the market. This team has developed a new primary battery chemistry that could boost the energy density of the current market-leading system by 50%, with good safety characteristics, and little or no increase in cost. The technology will address the unmet needs in the aforementioned industries and enable societal impacts such as improved patient quality of life, enhanced military mission flexibility, and new energy-intensive IoT use cases.&lt;br/&gt;&lt;br/&gt;The project is based on the development of a class of energy-dense, safe, and cost-effective catholyte (electrochemically active electrolyte) based on newly developed liquid fluorinated reactants (LFRs). Due to the excellent voltage alignment of LFR with a leading solid cathode material, the catholyte can be readily integrated into the current market-leading primary battery technology and replace the typically inactive electrolyte, substantially reducing the inactive weight of the cell. Such integration yields a hybrid solid-liquid cell design that significantly boosts gravimetric/volumetric energy by 20–30% (to date). Efforts so far have demonstrated significant performance improvements compared to the incumbent technology at low discharge rates over a wide temperature range (25–50 °C), but performances decline under high-rate conditions, especially approaching ambient temperature conditions. To address this hurdle, the objectives of this project are to: (1) advance cathode architecture design and anode stabilization strategies to overcome current performance limitations related to rate and operating temperature; and (2) improve cell design to demonstrate similar gains in practical-scale, high-capacity, pouch cells. This project will also conduct extensive cathode/anode modifications and cell-level structure design; iterative cell testing and co-optimization of cathode/catholyte; and prototype development and testing catering to energy/power needs in target markets.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414768</AwardID>
+<Investigator>
+<FirstName>Betar</FirstName>
+<LastName>Gallant</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Betar M Gallant</PI_FULL_NAME>
+<EmailAddress><![CDATA[bgallant@MIT.EDU]]></EmailAddress>
+<NSF_ID>000704397</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>166200</Code>
+<Text>PFI-Partnrships for Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~549943</FUND_OBLG>
+</Award>
+</rootTag>

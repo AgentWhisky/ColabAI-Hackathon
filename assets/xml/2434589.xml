@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation potential of using artificial intelligence for headache diagnosis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaime A. Camelio</SignBlockName>
+<PO_EMAI>jcamelio@nsf.gov</PO_EMAI>
+<PO_PHON>7032922061</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is the development of an advanced artificial intelligence system for the diagnosis and management of headache disorders. This innovative technology aims to enhance diagnostic accuracy and streamline the treatment process, which can significantly reduce healthcare costs and improve patient outcomes. The system enables patients to log their symptoms at home, providing healthcare providers with a comprehensive view of their condition, facilitating more accurate and timely diagnoses. The commercial potential extends beyond headache care, as the system can be adapted for use in monitoring other conditions such as memory disorders and gait instability, broadening its applicability in the digital health market.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution leverages the strong reasoning and information synthesis capabilities of large language models to analyze clinical data to support healthcare providers in diagnosing and managing headache disorders. The technology involves the collection and processing of extensive clinical datasets, leading to the creation and validation of artificial intelligence algorithms that alert providers when additional studies are needed, suggest treatment approaches, and assist with monitoring treatment compliance. Initial prototypes developed in collaboration with the VA Innovation Network have shown promising results. The technology has demonstrated significant potential for integration into clinical practice, offering a robust, data-driven approach to improving patient care and provider efficiency.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2434589</AwardID>
+<Investigator>
+<FirstName>Xiaolei</FirstName>
+<LastName>Huang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaolei Huang</PI_FULL_NAME>
+<EmailAddress><![CDATA[xiaolei.huang@memphis.edu]]></EmailAddress>
+<NSF_ID>000845551</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Memphis]]></Name>
+<CityName>MEMPHIS</CityName>
+<ZipCode>381520001</ZipCode>
+<PhoneNumber>9016783251</PhoneNumber>
+<StreetAddress><![CDATA[115 JOHN WILDER TOWER]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F2VSMAKDH8Z7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MEMPHIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Memphis]]></Name>
+<CityName>MEMPHIS</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>381520001</ZipCode>
+<StreetAddress><![CDATA[115 JOHN WILDER TOWER]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

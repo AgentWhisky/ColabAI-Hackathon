@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SHF: Medium: SCIOPT: Toward Certifiable Compression-Aware SciML Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>819000.00</AwardTotalIntnAmount>
+<AwardAmount>819000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The future of science-enabled discoveries critically relies on the speed of high-performance simulations conducted at large scales and high resolutions. Unfortunately, lacking such performance and scale, current approaches cannot keep up with the backlog of problems in areas of paramount societal consequence, such as climate science and the spread of pandemics. A principal reason for these shortfalls is the rising cost of moving huge amounts of simulation data between supercomputer memories and processors – a cost that increasingly dwarfs the time spent in actual computations. Thus, developing techniques to reduce the volume of data exchanged without sacrificing accuracy is key to future progress in computation-enabled research. Such data reduction is even more important in the emerging area of Scientific Machine Learning (SciML), where simulations are assisted by artificial intelligence (AI) based surrogate models,  an area where the data exchange needs are often much higher. The investigators’ expertise in scientific machine learning, data compression, compilers, and program correctness will be central in our collaboration to help SciOPT achieve its goal of fast and reliable AI-assisted scientific simulations. The impact of this project will be to establish new technologies that reduce data volume without sacrificing accuracy in both high-performance computing and the emerging area of SciML. These technologies, in turn, translate directly into societal benefits such as improved healthcare and safer environments. The project will broaden participation in this area through undergraduate research plans that reach out to students from groups underrepresented in computing.&lt;br/&gt;&lt;br/&gt;This research project, entitled SciOPT, will principally rely on data compression to reduce the amount of data moved: simulation data will be compressed before transmission and decoded upon reception before applying computations. The investigators will also pursue the potentially even more impactful approach of compressing the data and applying computations directly on the compressed data. SciOPT will evaluate both of these approaches in the context of challenging SciML applications that are currently bottlenecked by data exchanges. To ensure higher degrees of automation and productivity, SciOPT will develop efficient compiler-based methods to manage compressed data layout and locality. Moreover, it will automatically generate high-speed compression algorithms that are tailored to the data. To ensure the veracity of the computational results produced by these compressed-data simulations, SciOPT will include rigorous correctness-checking methods at multiple stages to guard the overall simulation workflows.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403379</AwardID>
+<Investigator>
+<FirstName>Mary</FirstName>
+<LastName>Hall</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mary Hall</PI_FULL_NAME>
+<EmailAddress><![CDATA[mhall@cs.utah.edu]]></EmailAddress>
+<NSF_ID>000367228</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Varun</FirstName>
+<LastName>Shankar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Varun Shankar</PI_FULL_NAME>
+<EmailAddress><![CDATA[shankar@cs.utah.edu]]></EmailAddress>
+<NSF_ID>000685181</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ganesh</FirstName>
+<LastName>Gopalakrishnan</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ganesh L Gopalakrishnan</PI_FULL_NAME>
+<EmailAddress><![CDATA[ganesh@cs.utah.edu]]></EmailAddress>
+<NSF_ID>000160895</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841129049</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL8GLEVH6MG3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF UTAH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841129049</ZipCode>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7942</Code>
+<Text>HIGH-PERFORMANCE COMPUTING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~819000</FUND_OBLG>
+</Award>
+</rootTag>

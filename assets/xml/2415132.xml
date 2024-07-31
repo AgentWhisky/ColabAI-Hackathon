@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation Potential of a Disaster Management Enterprise Information Resource Planning System for Disaster Response]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Molly Wasko</SignBlockName>
+<PO_EMAI>mwasko@nsf.gov</PO_EMAI>
+<PO_PHON>7032924749</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is based on the development of a disaster management enterprise information resource planning system, an advanced technological solution designed to rapidly implement emergency responses. This capability equips emergency responders with immediate, actionable intelligence, which facilitates swift decision-making and effective resource allocation in emergency situations. The potential advantages of this system include significantly enhancing the efficiency and accuracy of emergency management processes by quickly identifying and categorizing urgent needs under different disaster conditions. Overall, the broad applicability this technology is aimed at improving survival rates, reducing the overall impact of disasters, and contributing to societal well-being. By pushing the boundaries of current emergency management technologies, this system could enhance emergency preparedness, response, and recovery efforts, making a notable advancement in crisis management and public safety.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. The solution is based on the development of a disaster management enterprise information resource planning system which employs state-of-the-art deep learning techniques to facilitate the real-time processing and classification of extensive data streams, thereby offering a critical advancement in emergency management technology. This approach focuses on data classification and analysis to efficiently identify urgent needs and prioritize critical information, facilitating rapid decision-making in crisis situations. The system's novel innovation lies in its phrase extraction methods, context-aware features, and sophisticated data categorization techniques, which ensure high accuracy and relevancy in dynamically-changing disaster scenarios. These features highlight the system's potential to significantly improve the speed and precision of emergency responses. Furthermore, the system’s capacity for continuous learning and adaptation allows it to become increasingly effective over time, enabling the provision of faster, tailored emergency response strategies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415132</AwardID>
+<Investigator>
+<FirstName>Sanjay</FirstName>
+<LastName>Madria</LastName>
+<PI_MID_INIT>k</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sanjay k Madria</PI_FULL_NAME>
+<EmailAddress><![CDATA[madrias@mst.edu]]></EmailAddress>
+<NSF_ID>000289664</NSF_ID>
+<StartDate>04/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Missouri University of Science and Technology]]></Name>
+<CityName>ROLLA</CityName>
+<ZipCode>654091330</ZipCode>
+<PhoneNumber>5733414134</PhoneNumber>
+<StreetAddress><![CDATA[300 W. 12TH STREET]]></StreetAddress>
+<StreetAddress2><![CDATA[202 CENTENNIAL HALL]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y6MGH342N169</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Missouri University of Science and Technology]]></Name>
+<CityName>ROLLA</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>654091330</ZipCode>
+<StreetAddress><![CDATA[300 W. 12TH STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

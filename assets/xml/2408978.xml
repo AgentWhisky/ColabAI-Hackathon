@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Finite element methods for complex surface fluids]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>319951.00</AwardTotalIntnAmount>
+<AwardAmount>319951</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Material interfaces with lateral fluidity are widespread in biology and are vital for processes at various scales, from subcellular to tissue levels. Mathematical models describe these interfaces using systems of partial differential equations on deforming surfaces, sometimes linked to equations in the bulk. These equations govern the movement of interfaces and fluid flow along them and in the surrounding medium. While existing studies often focus on simple, homogeneous fluid flows on steady surfaces, real-life scenarios are more complex. This research project will develop and analyze new computational methods for studying these complex fluid systems. In addition, open-source software for simulating evolving surface PDEs will be developed and the project will provide research training opportunities for students.&lt;br/&gt; &lt;br/&gt;This project will develop and analyze a finite element method for the tangential fluid system posed on a moving surface, a multi-component surface flow problem, and a fluid-elastic interface model, all arising in the continuum modeling of inextensible viscous deformable membranes. A numerical approach will be employed in the project that falls into the category of geometrically unfitted discretizations. It will allow for large surface deformations, avoid the need for surface parametrization and triangulation, and have optimal complexity. The developed technique will incorporate an Eulerian treatment of time derivatives in evolving domains and employ physics-based stable and linear splitting schemes. The particular problems that will be addressed include the analysis of finite element methods for the Boussinesq-Scriven fluid problem on a passively evolving surface; the development of a stable linear finite element scheme for a phase-field model of two-phase surface flows on both steady and evolving surfaces; and the construction of a splitting scheme for equations governing the motion of a material surface exhibiting lateral fluidity and out-of-plane elasticity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/30/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2408978</AwardID>
+<Investigator>
+<FirstName>Maxim</FirstName>
+<LastName>Olshanskiy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maxim Olshanskiy</PI_FULL_NAME>
+<EmailAddress><![CDATA[molshan@math.uh.edu]]></EmailAddress>
+<NSF_ID>000630948</NSF_ID>
+<StartDate>05/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Houston]]></Name>
+<CityName>HOUSTON</CityName>
+<ZipCode>772043067</ZipCode>
+<PhoneNumber>7137435773</PhoneNumber>
+<StreetAddress><![CDATA[4300 MARTIN LUTHER KING BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QKWEF8XLMTT3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF HOUSTON SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Houston]]></Name>
+<CityName>HOUSTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>772043067</ZipCode>
+<StreetAddress><![CDATA[4300 MARTIN LUTHER KING BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~319951</FUND_OBLG>
+</Award>
+</rootTag>

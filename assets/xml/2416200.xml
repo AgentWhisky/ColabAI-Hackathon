@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: IUSE: EDU: Curriculum Development for Edge Artificial Intelligence with Hands-on Laboratory]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>95588.00</AwardTotalIntnAmount>
+<AwardAmount>95588</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Tymann</SignBlockName>
+<PO_EMAI>ptymann@nsf.gov</PO_EMAI>
+<PO_PHON>7032922832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project aims to serve the national interest by building an interdisciplinary edge intelligence curriculum to cultivate and sustain a skilled artificial intelligence (AI) workforce. Edge AI, infusing edge computing and AI, two crucial and emerging technologies recognized by the National Science and Technology Council, has received growing attention in advancing future smart Internet of Things (IoT) systems. Despite the evident importance and practicality, a noticeable gap exists in educational offerings tailored to the edge AI field. It is challenging for educational institutions to offer specialized courses or programs on edge intelligence because edge AI requires educators to cover diverse topics, ranging from foundational hardware integration to advanced AI algorithms, applications, and networks. To bridge the existing gap, this project intends to advance edge AI education and foster workforce development by creating an innovative suite of crafted teaching materials with hands-on labs and case studies, customized for edge intelligence within IoT systems. This project has the potential to meet the national AI workforce needs. &lt;br/&gt;&lt;br/&gt;The project has the following objectives: (1) designing four low-cost testbeds for edge intelligence education and research, (2) developing teaching materials with a comprehensive suite of hands-on labs and case studies that utilize the low-cost sensing and edge computing hardware and software, and (3) seamlessly integrating the existing labs and case studies into courses offered by participating institutions. The teaching materials in edge intelligence will be disseminated to institutions, including Historically Black Colleges and Universities, through a faculty training workshop and conference presentations. The NSF IUSE: EDU Program supports research and development projects to improve the effectiveness of STEM education for all students. Through its Engaged Student Learning track, the program supports the creation, exploration, and implementation of promising practices and tools.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2416200</AwardID>
+<Investigator>
+<FirstName>Cheng</FirstName>
+<LastName>Qian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cheng Qian</PI_FULL_NAME>
+<EmailAddress><![CDATA[qian@hood.edu]]></EmailAddress>
+<NSF_ID>000987288</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Hood College]]></Name>
+<CityName>FREDERICK</CityName>
+<ZipCode>217018524</ZipCode>
+<PhoneNumber>3016963828</PhoneNumber>
+<StreetAddress><![CDATA[401 ROSEMONT AVENUE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z33BKKJSLZV5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>HOOD COLLEGE OF FREDERICK, MARYLAND</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Hood College]]></Name>
+<CityName>FREDERICK</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>217018524</ZipCode>
+<StreetAddress><![CDATA[401 ROSEMONT AVENUE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>199800</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>093Z</Code>
+<Text>AI Education/Workforce Develop</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8244</Code>
+<Text>EHR CL Opportunities (NSF 14-302)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>04002425DB</Code>
+<Name><![CDATA[NSF STEM Education]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~95588</FUND_OBLG>
+</Award>
+</rootTag>

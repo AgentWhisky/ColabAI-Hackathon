@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[2022BBSRC-NSF/BIO: Self-replicating synthetic cells programmed by RNA]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>448355.00</AwardTotalIntnAmount>
+<AwardAmount>448355</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Rockcliffe</SignBlockName>
+<PO_EMAI>drockcli@nsf.gov</PO_EMAI>
+<PO_PHON>7032927123</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Building synthetic devices that reproduce the functionality of biological systems is one of the grand challenges of modern science and technology. The emergence of such devices promises to revolutionize biotechnology in areas as diverse as health care and biomanufacturing. Concomitantly, these devices could provide opportunities to address fundamental scientific questions through a "learning by building" approach, including the search for the origins of life. One of the defining characteristics of biological systems is their ability to grow and divide. Previous attempts to construct self-replicating synthetic systems have demonstrated either the duplication of genetic information or the growth and division of cell-like compartments. Using the toolkit of biological nanotechnology, this project builds a new type of engineered self-replicating system that can grow, divide, and replicate their genetic information. Bottom-up construction of synthetic cells with these capabilities would bring us a step closer to applications to problems requiring prolonged, self-sustaining operation. In addition to its scientific goal, this project catalyzes long-term synergies between the UK and US research teams, and more generally between the synthetic biology, nanotechnology and biophysics communities operating in the two countries.&lt;br/&gt;&lt;br/&gt;Toward the goal of recapitulating cell replication in a minimal system of molecular components, the UK-US team is constructing a new type of synthetic cell in which nucleic acids are used as both the primary structural element and the carrier of genetic information. These synthetic cells form and grow from RNA building blocks, which in turn are transcribed from a DNA "genome". Division and genome segregation result from phase separation, while genome replication is supported by reverse transcription. Because the nucleic acid nanostructures play both structural and genetic roles, the desired synergy between genetic replication, segregation, compartment growth, and division naturally occur, making these potential devices capable of supporting all key stages of cell replication. Through the construction of these nucleic acid-based, self-replicating synthetic cells, the project investigates the thermodynamic and kinetic principles that allow the nucleic acid condensates to support primitive cell cycles. Examples are the interplay between reaction and diffusion rates and the strength and selectivity of molecular interactions that underlie condensation and phase separation. The technical expertise acquired through this project is broadly disseminated to diverse research communities through student exchanges, summer school instructions, and research symposia.&lt;br/&gt;&lt;br/&gt;This collaborative US/UK project is supported by the US National Science Foundation (NSF) and the UK Biotechnology and Biological Sciences Research Council (BBSRC), where NSF funds the US investigator and BBSRC funds the partners in the UK.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411133</AwardID>
+<Investigator>
+<FirstName>Aleksei</FirstName>
+<LastName>Aksimentiev</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aleksei Aksimentiev</PI_FULL_NAME>
+<EmailAddress><![CDATA[aksiment@illinois.edu]]></EmailAddress>
+<NSF_ID>000309397</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>801100</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5946</Code>
+<Text>UNITED KINGDOM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~448355</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: A Quarter Century of Peridynamics (PD25); Tucson, Arizona; 22-25 April 2024]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>25000.00</AwardTotalIntnAmount>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy C. Crone</SignBlockName>
+<PO_EMAI>wcrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award provides travel support for 25 students, postdoctoral fellows, and early-career faculty from US institutions to attend the US Association for Computational Mechanics (USACM) Special Topic Conference “Quarter Century of Peridynamics” (PD25), which will be held 22-25 April 2024 in Tucson, Arizona. The main objective of the conference is to broaden the exposure of peridynamics (PD) modeling and simulation to a larger audience that may benefit from the advantages this approach provides to complex, previously unsolvable problems in science, engineering, and technology. Graduate students, post-docs, and participants from industry, national labs, and national agencies will be trained through their participation in the conference and associated short courses. The conference presents an ideal opportunity for networking to early career researchers specializing in modeling and simulation of material degradation and failure, and ways to reduce it (when protecting against damage is sought) or enhance it (as is needed in mining, recycling of materials, etc.). The conference organizers have sought to broaden participation from members of underrepresented groups and undergraduate students who aspire to learn more about PD modeling. These efforts will grow the pipeline of US researchers working on modeling and simulation of material failure and damage.&lt;br/&gt;&lt;br/&gt;Peridynamics (PD) was introduced in 2000 as a model of fracture and failure in materials and has recently experienced explosive growth in terms of the number of publications and research groups working on PD-related topics. PD is now reaching a broad range of research areas beyond fracture, including modeling of corrosion damage, growth of tumors, electromigration, simulating crushing of powders for medical tablets, and modeling of graphene layers.  The major focus of PD modeling and simulation is reliability and safety of mechanical, civil, and aerospace systems, with a direct impact on reducing costs and improving performance of such systems. These effects have a direct impact on health, quality of life, and homeland security. The conference program includes three short courses, running in parallel, on different aspects of PD-based computational software applied to predicting fracture and damage in a variety of materials, including glass and ceramics, metals, and fiber-reinforced composites. These courses, presented by leaders on PD modeling and simulation, aim to provide participants with hands-on experience with PD solvers in a variety of settings, including running massively parallel computations, or coupling with commercial software like ANSYS and Abaqus.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409104</AwardID>
+<Investigator>
+<FirstName>Florin</FirstName>
+<LastName>Bobaru</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Florin Bobaru</PI_FULL_NAME>
+<EmailAddress><![CDATA[fbobaru2@unl.edu]]></EmailAddress>
+<NSF_ID>000125605</NSF_ID>
+<StartDate>03/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Nebraska-Lincoln]]></Name>
+<CityName>LINCOLN</CityName>
+<ZipCode>685032427</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress><![CDATA[2200 VINE ST # 830861]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NE01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HTQ6K6NJFHA6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Nebraska-Lincoln]]></Name>
+<CityName>LINCOLN</CityName>
+<StateCode>NE</StateCode>
+<ZipCode>685032427</ZipCode>
+<StreetAddress><![CDATA[2200 VINE ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NE01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>163000</Code>
+<Text>Mechanics of Materials and Str</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022E</Code>
+<Text>SOLID MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>026E</Code>
+<Text>STRUCTURAL MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~25000</FUND_OBLG>
+</Award>
+</rootTag>

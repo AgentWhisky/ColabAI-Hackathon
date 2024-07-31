@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation Potential of a Graphics Processing Unit (GPU)-Accelerated Spiking Neural Network Simulator to Support Large Scale Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaime A. Camelio</SignBlockName>
+<PO_EMAI>jcamelio@nsf.gov</PO_EMAI>
+<PO_PHON>7032922061</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is the development of software tools to support brain-inspired next generation computers. Such computers have smaller size, weight, and power. This solution could have a societal benefit by moving artificial intelligence applications closer to where they are used. By not needing permanent connections to power intensive cloud servers, the trained neural networks could save orders of magnitude of energy and could operate autonomously in remote locations. Similarly, portable devices, such as wearables, drones, self-driving vehicles could run for longer periods of time on power sources.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of a Graphics Processing Unit (GPU) accelerated spiking neural network software framework that supports large-scale networks. This framework supports artificial intelligence and machine learning development by providing tools to convert these power-hungry neural networks to efficient spiking neural networks that can then be ported to low power, brain-inspired hardware, called neuromorphic computers. The framework supports brain-inspired learning algorithms which, unlike artificial intelligence, are more adaptable to unseen circumstances after deployment without the need for retraining.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/30/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421918</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Krichmar</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey L Krichmar</PI_FULL_NAME>
+<EmailAddress><![CDATA[jkrichma@uci.edu]]></EmailAddress>
+<NSF_ID>000099941</NSF_ID>
+<StartDate>04/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>IRVINE</CityName>
+<ZipCode>926970001</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress><![CDATA[160 ALDRICH HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA47</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MJC5FCYQTPE6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA IRVINE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MJC5FCYQTPE6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>IRVINE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>926975100</ZipCode>
+<StreetAddress><![CDATA[2220 Social & Behavioral Sciences Gateway]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA47</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

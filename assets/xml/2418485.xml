@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: A Novel Hybrid Light-Field and High-Energy Pulse Color and Depth Encoded Illumination PIV Technique for Unsteady Flow Analyses]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>283299.00</AwardTotalIntnAmount>
+<AwardAmount>283299</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Time dependent fluid flow such as aerodynamic and physiological flow are often studied experimentally using particle image velocimetry (PIV).  This has been the gold standard for over three decades and has been an effective technique to acquire two-dimensional flow information.  Tomographic PIV emerged as a flow measurement technique to obtain three-dimensional (3D) flow information in complex fluid flow scenarios.  However, this method is costly as it requires a multiple camera setup (typically 4 to 6 expensive cameras), a complex flow image reconstruction technique and the results are typically limited to the camera alignment which often results in poor axial resolution.  Recent work has shown that it is possible to obtain 3D PIV measurements using a single light field camera setup.  However, the axial resolution remains limited.  As a result, this research project aims to address these limitations by developing and validating a novel 3D PIV technique that incorporates a single light field color camera, a high energy pulsed rainbow illumination beam for generating color coded and particle depth information, and an in-house developed particle and flow reconstruction algorithm.  This method will improve limitations in axial resolution and will significantly advance capabilities of fluid flow measurement systems in academia, industry, and national laboratories. The particle and flow algorithms and validations will be disseminated to a wide range of potential users.  The educational component of this research will translate engineering analysis research to the classroom and enhance engineering recruitment and retention by targeting students from community colleges and university undergraduate students.&lt;br/&gt;&lt;br/&gt;This research project aims to develop a novel technique for 3D PIV that incorporates a single light-field camera, a high-energy pulse color-depth encoded beam, an alternating direction of multipliers (ADMM) and modified Horn-Schunck optical flow algorithm for particle position and flow reconstruction. Fundamentally, the light field camera will capture two-dimensional (2D) angular, spatial, and color-depth encoded information of particles illuminated by the high-energy beam, providing higher resolution particle reconstruction compared to current 3D PIV approaches. This research effort will address issues related to system development, system calibration, validation of measurements, and examining the technique’s ability to achieve 3D flow measurements in complex flow experiments with improved axial resolution. If successful, this novel technique will provide high 3D axial resolution measurement capabilities to researchers and engineers in all areas ranging from aeronautics to biomedical, thus having an indirect yet very broad impact on the nation’s industrial and research infrastructure.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/13/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/13/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418485</AwardID>
+<Investigator>
+<FirstName>Rodward</FirstName>
+<LastName>Hewlin</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME>Jr</PI_SUFX_NAME>
+<PI_FULL_NAME>Rodward L Hewlin</PI_FULL_NAME>
+<EmailAddress><![CDATA[rhewlin@uncc.edu]]></EmailAddress>
+<NSF_ID>000756545</NSF_ID>
+<StartDate>03/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Charlotte</Name>
+<CityName>CHARLOTTE</CityName>
+<ZipCode>282230001</ZipCode>
+<PhoneNumber>7046871888</PhoneNumber>
+<StreetAddress>9201 UNIVERSITY CITY BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JB33DT84JNA5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>N8DMK1K4C2K5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Charlotte]]></Name>
+<CityName>CHARLOTTE</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>282230001</ZipCode>
+<StreetAddress><![CDATA[9201 UNIVERSITY CITY BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1443</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~283299</FUND_OBLG>
+</Award>
+</rootTag>

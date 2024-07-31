@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Travel: Student Travel Support for MVAPICH User Group (MUG) 2024 Conference]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>10000.00</AwardTotalIntnAmount>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sheikh Ghafoor</SignBlockName>
+<PO_EMAI>sghafoor@nsf.gov</PO_EMAI>
+<PO_PHON>7032927116</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The 2024 MVAPICH User group (MUG) Conference is a gathering of experts, including users, system administrators, researchers, engineers, and students, focused on sharing knowledge about the MVAPICH libraries. It provides a platform for discussions and presentations from renowned researchers, users, and system administrators in the field. The event also features contributed presentations selected by the MVAPICH team, focusing on tuning, optimization strategies, troubleshooting guidelines, and more. Scheduled to take place in Columbus, OH, from August 19-21, 2024, the conference is organized by a distinguished group of specialists in message passing (MPI) and networking technologies. To support student participation, the project will provide funding, enabling them to engage with the MVAPICH research and user community. The conference serves the national interest by fostering research dissemination, facilitating connections among researchers, and training the next generation of scholars, aligned with the mission of the National Science Foundation (NSF). The organizers aim to recruit students from diverse institutions, emphasizing inclusivity. Attending the conference offers students various benefits, such as 1) exposure to cutting-edge high-performance computing (HPC) technologies, 2) in-depth understanding of designing open-source software environments for HPC systems, 3) training on optimization techniques, and 4) opportunities for interaction with industry professionals and national laboratory experts. The NSF funding significantly impacts the future careers of researchers in HPC, networking, and message passing technologies, while promoting diversity within the field.&lt;br/&gt;&lt;br/&gt;This project supports the rapidly evolving landscape of Modern High-Performance Computing (HPC) systems and preparing the next generation of engineers and scientists to navigate these advancements. With the emergence of multi-/many-core platforms like Intel Xeons, AMD EPYC, NVIDIA Grace, ARM and OpenPOWER; and various GPUs (NVIDIA, AMD, and Intel), coupled with RDMA-enabled networking technologies such as InfiniBand, RoCE, iWARP, Omni-Path, and Slingshot 11, it is crucial to understand and utilize these technologies to design HPC software stacks. The MVAPICH open-source message passing interface (MPI) library and its derivatives have played a significant role in exploiting the potential of RDMA-capable networks, resulting in the rapid growth and adoption of InfiniBand in the HPC community. The popularity of MVAPICH is evident, with over 3,375 organizations worldwide (in 91 countries) utilizing these libraries, resulting in more than 1.78 million downloads from the OSU website as of May 2024. Moreover, the annual MVAPICH User Group conference provides a collaborative platform for users, researchers, administrators, and students to exchange knowledge, share experiences, and discuss optimization strategies, troubleshooting guidelines, and other relevant topics. This project not only advances the field of HPC but also supports education, promotes diversity, and benefits society at large.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2430444</AwardID>
+<Investigator>
+<FirstName>Dhabaleswar</FirstName>
+<LastName>Panda</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dhabaleswar K Panda</PI_FULL_NAME>
+<EmailAddress><![CDATA[panda@cse.ohio-state.edu]]></EmailAddress>
+<NSF_ID>000487085</NSF_ID>
+<StartDate>05/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hari</FirstName>
+<LastName>Subramoni</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hari Subramoni</PI_FULL_NAME>
+<EmailAddress><![CDATA[subramoni.1@osu.edu]]></EmailAddress>
+<NSF_ID>000704577</NSF_ID>
+<StartDate>05/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Aamir</FirstName>
+<LastName>Shafi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aamir Shafi</PI_FULL_NAME>
+<EmailAddress><![CDATA[shafi.16@osu.edu]]></EmailAddress>
+<NSF_ID>000841500</NSF_ID>
+<StartDate>05/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mustafa</FirstName>
+<LastName>Abduljabbar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mustafa Abduljabbar</PI_FULL_NAME>
+<EmailAddress><![CDATA[abduljabbar.1@osu.edu]]></EmailAddress>
+<NSF_ID>000931934</NSF_ID>
+<StartDate>05/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>800400</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~10000</FUND_OBLG>
+</Award>
+</rootTag>

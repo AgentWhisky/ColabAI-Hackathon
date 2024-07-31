@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Number Theory, Potential Theory, and Convex Optimization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>263687.00</AwardTotalIntnAmount>
+<AwardAmount>263687</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The research and broader impacts of this award will contribute to current developments in number theory, computer science, and mathematical physics. Computer scientists and mathematicians are interested in the classification and optimal approximation of integral polynomials with real roots. The PI and his Ph.D. student (Bryce Orloski) will prove new (optimal) results and introduce new strategies in this direction. Their methods and algorithms will have applications in mathematical physics (ground states of interacting particle systems) and information theory (error-correcting codes). The PI is passionate and invested in teaching Mathematics to underrepresented minorities. He will use his funding to support his graduate students. The PI will organize a workshop on number theory and convex optimization at Penn State University in the third summer of the grant. The workshop will introduce around 20 advanced graduate students and beginning postdocs to an active area of research and enable them to start their work in this area, particularly in collaboration with each other or senior mathematicians. &lt;br/&gt; &lt;br/&gt;On a more technical level, understanding the distribution of roots of integral polynomials with real roots sheds light on the distribution of the roots of the zeta function of abelian varieties over finite fields, the distribution of eigenvalues of the adjacency matrices of graphs and the distribution of the eigenvalues of the symmetric integral matrices. The PI and his Ph.D. student (Bryce Orloski) will classify the possible asymptotic distributions of the conjugates of algebraic integers over a given number field. The main goal is to identify the leading exponent of the asymptotic number of algebraic integers with some adelic constraints with the generalized transfinite diameter defined by David Cantor and Robert Rumely. Moreover, they propose a new method since the work of Smyth in 1984 and derive new bounds for the Schur-Siegel-Smyth trace problem by formulating a convex optimization problem in potential theory. They will prove the existence of a unique analytic solution to this optimization problem as the solution to some linear and integral equations. They will develop and implement an efficient algorithm for approximating the optimal solution. Furthermore, physicists have used the linear programming (conformal bootstrap) method to constrain the spectrum of two-dimensional conformal field theories. The PI's project on the optimality of the hexagonal lattice and the extremal values of the first nontrivial eigenvalues of the Laplacian operator will prove new results for these problems and introduce new methods in this direction with applications in Mathematical Physics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401242</AwardID>
+<Investigator>
+<FirstName>Naser</FirstName>
+<LastName>Talebizadeh Sardari</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Naser Talebizadeh Sardari</PI_FULL_NAME>
+<EmailAddress><![CDATA[nzt5208@psu.edu]]></EmailAddress>
+<NSF_ID>000731074</NSF_ID>
+<StartDate>04/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168021503</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPM2J7MSCF61</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE PENNSYLVANIA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>168021503</ZipCode>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~263687</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Asymptotic Phenomena in Reaction-Diffusion, Stochastic, and Fluid Equations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitry Golovaty</SignBlockName>
+<PO_EMAI>dgolovat@nsf.gov</PO_EMAI>
+<PO_PHON>7032922117</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Many biological and physical systems exhibit high degrees of internal complexity that resist direct mathematical description. Examples include ecological dynamics in a varied environment and fluctuating flame fronts in combustion. Nonetheless, such systems often exhibit tractable behavior when viewed at large or fine scales. This "asymptotic" behavior plays a major role in applications, and often has a universal character that unites the study of disparate systems. In this project, the principal investigator (PI) will combine several mathematical methods to identify and justify asymptotic phenomena in partial differential equations (PDEs) originating in the sciences. This work has the potential to shed light on a variety of systems including ecological invasion, atomic deposition, and fluid shock formation. The PI is committed to undergraduate and graduate mentorship, with the particular aim of supporting students from underrepresented backgrounds. &lt;br/&gt;&lt;br/&gt;This project will explore the asymptotic behavior of various deterministic and stochastic PDEs in significant limiting regimes. The project comprises three interconnected lines of work. (1) The PI will study the long-time propagation speed and front structure of solutions to reaction-diffusion equations in heterogeneous and random environments. This investigation encompasses a dual analysis of associated branching particle systems. (2) The PI will combine analytic and probabilistic methods to study long-time and white-noise limits of several physically motivated stochastic PDEs, including stochastic conservation laws and stochastic heat equations near criticality. (3) The PI will investigate the action of weak viscosity on internal shock formation in the compressible Navier--Stokes equations. This involves a delicate coupling between hyperbolic and parabolic approximations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406946</AwardID>
+<Investigator>
+<FirstName>Cole</FirstName>
+<LastName>Graham</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cole Graham</PI_FULL_NAME>
+<EmailAddress><![CDATA[cole_graham@brown.edu]]></EmailAddress>
+<NSF_ID>000839734</NSF_ID>
+<StartDate>07/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Brown University]]></Name>
+<CityName>PROVIDENCE</CityName>
+<ZipCode>029129100</ZipCode>
+<PhoneNumber>4018632777</PhoneNumber>
+<StreetAddress><![CDATA[1 PROSPECT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>RI01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E3FDXZ6TBHW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BROWN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E3FDXZ6TBHW3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Brown University]]></Name>
+<CityName>PROVIDENCE</CityName>
+<StateCode>RI</StateCode>
+<ZipCode>029129127</ZipCode>
+<StreetAddress><![CDATA[1 PROSPECT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>RI01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~150000</FUND_OBLG>
+</Award>
+</rootTag>

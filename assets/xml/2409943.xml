@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Non-Hermitian Physics in Ultracold Atoms and Photonics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>243001.00</AwardTotalIntnAmount>
+<AwardAmount>155145</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Julio Gea-Banacloche</SignBlockName>
+<PO_EMAI>jgeabana@nsf.gov</PO_EMAI>
+<PO_PHON>7032927924</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Quantum and optical technologies are emerging as two major research frontiers that could potentially revolutionize computing, communication, security, measurement, and sensing for modern science and engineering. A common foundation for these technologies is that part of the underlying quantum equation, the Hamiltonian, that governs the internal phases and dynamics of the physical system.  A quantum Hamiltonian that describes the unitary time-evolution of real physical observables is said to be Hermitian (named after the mathematician Charles Hermite).  This work explores the dynamics of systems described by a non-Hermitian Hamiltonian.   Significant theoretical and experimental progress has been made in exploring non-Hermitian physics in classical photonic systems. Advances in classical systems naturally suggest extending the studies to quantum platforms such as ultracold atoms, which possess major ingredients that are lacking in classical photonics.  This project investigates the non-Hermitian physics in both classical photonics and ultracold atoms and explores their device applications. The proposed research will not only pave the way for non-Hermitian control of photonic and ultracold atomic systems for many important applications, but also influence fundamental research in optical and cold atom physics. The project provides a diverse platform for both graduate and undergraduate students to explore theoretical cold atomic, optical and condensed matter physics. The scope of this project also includes specific outreach activities for K-12 students and involving students from under-represented groups, such as women and minority students, for broadening participation.&lt;br/&gt;&lt;br/&gt;The overall objective of the proposal is to investigate the non-Hermitian driven topological physics in classical photonics and non-Hermitian quantum physics in ultracold atoms. Specific projects include: i) construction and characterization of new topological photonic lattices (e.g., fractal and 3D higher-order topological insulator) through Hermitian and non-Hermitian control; ii) study of novel topological phases (e.g. coupled edge states facilitated topological photonic lattice) arising from unique continuous hyperbolic metamaterials; iii) generation and control of non-Hermitian ultracold atomic matters utilizing their quantum, interacting, or fermionic properties. A diverse set of physical problems and systems will be investigated using versatile analytic and numerical tools (e.g., mean field theory, non-Hermitian density-matrix-renormalization-group algorithm, etc.). The proposed projects will not only lead to the experimental advances for exploring non-Hermitian matter, but also provide platforms for developing novel photonic and quantum technologies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/12/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>12/12/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409943</AwardID>
+<Investigator>
+<FirstName>Chuanwei</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chuanwei Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[chuanwei.zhang@wustl.edu]]></EmailAddress>
+<NSF_ID>000512132</NSF_ID>
+<StartDate>12/12/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Washington University]]></Name>
+<CityName>SAINT LOUIS</CityName>
+<ZipCode>63110</ZipCode>
+<PhoneNumber>3147474134</PhoneNumber>
+<StreetAddress><![CDATA[ONE BROOKINGS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L6NFUM28LQM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WASHINGTON UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Washington University]]></Name>
+<CityName>SAINT LOUIS</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>63110</ZipCode>
+<StreetAddress><![CDATA[ONE BROOKINGS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128400</Code>
+<Text>AMO Theory/Atomic, Molecular &amp;</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~155145</FUND_OBLG>
+</Award>
+</rootTag>

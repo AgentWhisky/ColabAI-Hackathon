@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Using Superacids to Study Proton Transfer in Molecular Complexes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>550000.00</AwardTotalIntnAmount>
+<AwardAmount>550000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samy El-Shall</SignBlockName>
+<PO_EMAI>selshall@nsf.gov</PO_EMAI>
+<PO_PHON>7032927416</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Structure and Dynamics (CSD) program in the Division of Chemistry, Professor Kenneth Leopold of the University of Minnesota is investigating the strong proton-donating ability of superacids using high resolution rotational spectroscopy. Rotational spectroscopy, when applied to small molecular clusters, provides molecular-level detail about molecular structure and dynamics. However, high resolution spectroscopic studies of proton transfer in small molecular clusters remain largely hindered by the requirement of microsolvent molecules to stabilize the resulting charge separation. Professor Leopold and his students will use superacids to effectively increase the available range of acidities and thus drive proton transfer in clusters that are small enough to study by high resolution Fourier transform microwave spectroscopy. Their studies could provide a better understanding of the interactions that enable chemical reactions in small clusters and could deepen our understanding of solvation, which critically influences thermodynamics and reactivity in solution. This work will have broader impact through the training of students, its potential implications for atmospheric chemistry, climate research, and its exemplification of the value of fundamental research through public outreach.&lt;br/&gt;&lt;br/&gt;By varying cluster size, as well as the acidity and basicity of the interacting moieties, this work will explore the factors that allow (or disallow) proton transfer in small, jet-cooled acid-base adducts. By using superacids to minimize the microsolvation requirements for proton transfer, the full spectrum of interactions between hydrogen bonding and ion pair formation can be realized within a cluster size range amenable to rotational spectroscopy. Experiments will employ both the older, cavity-style microwave technique of Flygare as well as the newer chirped-pulse method of Pate. The determination of rotational constants, nuclear quadrupole coupling constants, tunneling energies, and internal rotation barriers will provide detailed information about the interactions within the clusters studied. High level computational methods will play a strong supporting role, as they aid in identification of carrier of an observed spectrum and, moreover, provide information such as binding energies and potential surface topology, which cannot be directly determined in these experiments. Thus, theory and experiment are used synergistically to elicit a deeper understanding than either could provide independently.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/20/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413152</AwardID>
+<Investigator>
+<FirstName>Kenneth</FirstName>
+<LastName>Leopold</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kenneth R Leopold</PI_FULL_NAME>
+<EmailAddress><![CDATA[kleopold@umn.edu]]></EmailAddress>
+<NSF_ID>000158609</NSF_ID>
+<StartDate>06/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress><![CDATA[200 OAK ST SE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554552009</ZipCode>
+<StreetAddress><![CDATA[207 Pleasant St., SE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>910100</Code>
+<Text>CSD-Chem Strcture and Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5294</Code>
+<Text>USGCRP</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~550000</FUND_OBLG>
+</Award>
+</rootTag>

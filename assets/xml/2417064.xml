@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: IRES Track I: Wireless Federated Fog Computing for Remote Industry 4.0 Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>158279.00</AwardTotalIntnAmount>
+<AwardAmount>158279</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Fahmida Chowdhury</SignBlockName>
+<PO_EMAI>fchowdhu@nsf.gov</PO_EMAI>
+<PO_PHON>7032924672</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The overarching goal of this project is to create unique training and research opportunities for U.S. students through an international research collaboration with the IMDEA Networks Institute, a world-class research institution in Madrid, Spain. The project's research plan engages students in an interdisciplinary cutting-edge research at the intersections of wireless networking, edge/fog computing, and machine learning (ML). The proposed project will enable the U.S. team to build a wireless federated fog (WFF) platform that is robust and scalable in accommodating different types of Industry 4.0 applications in remote areas where there is shortage of access to cloud resources, i.e., it offers the illusion of accessing infinite cloud-like resources. To this end, a cross-layer communications-computing framework will be developed during the project years with novel solutions for: live container migration; deep learning (DL) partitioning and approximation; and serverless workflow development and deployment. The anticipated outcomes of the project will be the following artifacts: (1) Methods for seamless migration of containerized services across autonomous fog systems; (2) Methods for latency-aware partitioning of micro-service workflows across WFF; (3) A serverless framework for declarative and reliable workflow development (workflow as a code) on WFF; (4) Methods for robust and latency-aware distributed DL inference atop uncertain WFF; (5) Methods using approximate inference for on-premises execution of sensitive DL services. &lt;br/&gt;&lt;br/&gt;This project will provide a unique opportunity for U.S. students to gain international cross-disciplinary experience at a world-class research institute. Every year, graduate and undergraduate students will be selected via a well-defined procedure to visit the Global Computing research group at IMDEA for 8 summer weeks. The project will expose the students to both analytical and practical challenges of the communication-computing systems at a reputed research institution, and train them to become a globally-engaged and cultured workforce with world-class skills. The project outcomes will be evaluated annually by a professional evaluator, and enhanced during the subsequent years.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417064</AwardID>
+<Investigator>
+<FirstName>Mohsen</FirstName>
+<LastName>Amini Salehi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mohsen Amini Salehi</PI_FULL_NAME>
+<EmailAddress><![CDATA[mohsen.aminisalehi@unt.edu]]></EmailAddress>
+<NSF_ID>000691494</NSF_ID>
+<StartDate>02/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of North Texas]]></Name>
+<CityName>DENTON</CityName>
+<ZipCode>762051132</ZipCode>
+<PhoneNumber>9405653940</PhoneNumber>
+<StreetAddress><![CDATA[1112 DALLAS DR STE 4000]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G47WN1XZNWX9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH TEXAS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Texas]]></Name>
+<CityName>DENTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>762051132</ZipCode>
+<StreetAddress><![CDATA[1112 DALLAS DR STE 4000]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>772700</Code>
+<Text>IRES Track I: IRES Sites (IS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5952</Code>
+<Text>SPAIN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5980</Code>
+<Text>WESTERN EUROPE PROGRAM</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~158279</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SHF: III: Medium: Effortless Data Locality Through Near-memory On-the-fly Data Transformation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>396000.00</AwardTotalIntnAmount>
+<AwardAmount>396000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Computing systems' ability to efficiently and timely process large amounts of data is a key enabler in the modern landscape of data-driven applications. To bridge the widening gap between memory technology and processors, computing systems continue to rely heavily on complex multi-level cache hierarchies. Caches can prevent costly accesses to downstream memory if the processed data items exhibit good spatiotemporal locality. Unfortunately, locality does not always emerge naturally in complex data processing pipelines. Platform-specific algorithmic optimizations are often necessary to rearrange the algorithm’s memory access pattern for better locality while striving to maintain the original semantics. When operating on high-dimensional objects (e.g., tensors), data locality unlocks crucial performance gains, but it becomes harder to achieve. This project proposes a novel class of architectural data transformation units to be interposed between memory and compute, for example Central Processing Units (CPUs) and Graphics Processing Units (GPUs). By relying on knowledge of the data access pattern followed by the algorithmic semantics, they decouple the in-memory geometry of data items from the access sequence required by the computational logic. As such, they make data items requested sequentially appear to the processing unit—and cache hierarchy—as if they were stored sequentially without data duplication through on-the-fly transformations. This enables spatiotemporal locality to be achieved effortlessly, i.e., without the need for heavy algorithmic re-engineering. The findings will be integrated into undergraduate and graduate courses at Boston University and the University of Kansas, enhancing topics such as data systems, system performance evaluation, embedded real-time systems, and operating systems. The project will support underrepresented populations across educational levels and foster strong industry connections. &lt;br/&gt;&lt;br/&gt;This project explores the theory and practice concerning the formulation, design, and implementation of architectural on-the-fly Data Transformation Units (DTUs). It does so by thrusting along three interconnected research avenues. First, the investigators focus on developing a foundational science of on-the-fly data transformation. A key stepping stone is formulating an access pattern specification language that is both expressive and efficiently interpretable in hardware. In the second thrust, two alternative architectural paradigms are explored, namely (1) the integration of DTUs as a component logically placed on the memory bus and (2) the integration of a DTU directly into the memory controller. Doing so places data transformation as close as possible to the memory cells to exploit their inherent parallelism while supporting unmodified commercial memory modules. The third thrust explores which programming models can best empower application designers to use DTUs via a combination of instruction-set architecture extensions, operating system-level support, and user-space libraries. Finally, the fourth thrust aims at identifying widely adopted data processing pipelines that can greatly benefit from using DTUs, specifically focusing on relational databases and machine learning. These will be used to concretely showcase the potential of the proposed on-the-fly data transformation approach.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403013</AwardID>
+<Investigator>
+<FirstName>Heechul</FirstName>
+<LastName>Yun</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Heechul Yun</PI_FULL_NAME>
+<EmailAddress><![CDATA[heechul.yun@ku.edu]]></EmailAddress>
+<NSF_ID>000662879</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Kansas Center for Research Inc]]></Name>
+<CityName>LAWRENCE</CityName>
+<ZipCode>660457563</ZipCode>
+<PhoneNumber>7858643441</PhoneNumber>
+<StreetAddress><![CDATA[2385 IRVING HILL RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SSUJB3GSH8A5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF KANSAS CENTER FOR RESEARCH INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SSUJB3GSH8A5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Kansas Center for Research Inc]]></Name>
+<CityName>Lawrence</CityName>
+<StateCode>KS</StateCode>
+<ZipCode>660457568</ZipCode>
+<StreetAddress><![CDATA[2385 IRVING HILL RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7942</Code>
+<Text>HIGH-PERFORMANCE COMPUTING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~396000</FUND_OBLG>
+</Award>
+</rootTag>

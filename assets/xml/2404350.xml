@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Theoretical and Experimental Investigation of Thermoradiative Power Generators Using Space as the Cold Reservoir]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>499870.00</AwardTotalIntnAmount>
+<AwardAmount>499870</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sumanta Acharya</SignBlockName>
+<PO_EMAI>sacharya@nsf.gov</PO_EMAI>
+<PO_PHON>7032924509</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Typical photovoltaic devices like solar cells or thermophotovoltaic devices generate electricity by receiving heat from a high-temperature source. In a thermoradiative cell, by contrast, a semiconductor photodiode is placed on a hot body, and it generates power while emitting photons toward cold surroundings. Such a device is ideal for space applications since it can operate at moderate temperatures while utilizing space, whose temperature is around 3 K, to generate power. This project aims to lay the groundwork for thermoradiative power generators that use space as a cold reservoir. The findings will be broadly disseminated in multidisciplinary conferences and research journals, including a special volume on the emerging field of cryogenic heat transfer that will be compiled for publication in the Annual Reviews of Heat Transfer. The principal investigators will provide mentorship to junior researchers and students, especially those from traditionally underrepresented groups, and deliver seminars at historically black colleges and universities.&lt;br/&gt;&lt;br/&gt;While the theory for thermoradiative devices has been established in earlier studies and qualitative experiments have shown promise, further research is necessary to facilitate the practical application of thermoradiative devices for space applications. The composition and doping levels of indium antimonide and mercury-cadmium-telluride will be carefully selected and optimized for thermoradiative applications since the semiconductor p-n junctions are placed at temperatures from 300-600 K, which are much higher than the traditional operating temperatures of mid-infrared photodetectors. Previously demonstrated schemes for improving the performance of thermophotovoltaic devices will be evaluated and optimized for thermoradiative power generators operating in both far- and near-field regimes. Metamaterials will be designed to enhance the performance of near-field thermoradiative devices. A vacuum chamber equipped with a two-stage cryocooler will be used to create cold surroundings at a temperature down to about 4 K for testing the characteristics of semiconductor photodiodes with bandgaps in the mid-infrared region. This research will help improve the current understanding of how the photon chemical potential, micro/nanostructures, and near-field operation may affect the radiative heat transfer and charge transport processes. The interdisciplinary nature of this study will benefit future development of bandgap semiconductor devices, cryogenic engineering, and radiative energy conversion systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404350</AwardID>
+<Investigator>
+<FirstName>Zhuomin</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhuomin Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[zhuomin.zhang@me.gatech.edu]]></EmailAddress>
+<NSF_ID>000095189</NSF_ID>
+<StartDate>05/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Seyed</FirstName>
+<LastName>Ghiaasiaan</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Seyed M Ghiaasiaan</PI_FULL_NAME>
+<EmailAddress><![CDATA[mghiaasiaan@gatech.edu]]></EmailAddress>
+<NSF_ID>000956785</NSF_ID>
+<StartDate>05/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303186395</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 North Avenue, NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>140600</Code>
+<Text>TTP-Thermal Transport Process</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1406</Code>
+<Text>THERMAL TRANSPORT PROCESSES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~499870</FUND_OBLG>
+</Award>
+</rootTag>

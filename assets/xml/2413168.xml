@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[IUCRC Phase I George Mason University: Center for Wireless Innovation towards Secure, Pervasive, Efficient, and Resilient Next G Networks (WISPER)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>750000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mohan Kumar</SignBlockName>
+<PO_EMAI>mokumar@nsf.gov</PO_EMAI>
+<PO_PHON>7032927408</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>We are on the verge of the development of the next generation of wireless networks, variously referred to as 6G, Next G, or Future G. Over the past decades, mobile networks have become part of the country’s critical infrastructure, and it is vital for the U.S. to maintain technological leadership in this area. This industry-university research center, WISPER, forms a partnership between industry and academia in the research and innovation that will drive Next G. WISPER stands for Wireless Innovation towards Secure, Pervasive, Efficient and Resilient Next G Networks, reflecting a consensus that the next generation of networks needs to be secure by design, efficient and sustainable in the use of resources, and resilient to both failures and attacks.&lt;br/&gt;&lt;br/&gt;Our goals with WISPER include: (1) to grow the U.S. competitiveness and innovation capacity with Next G wireless technologies; (2) to deliver breakthrough pre-competitive research for enabling secure, pervasive, efficient, and resilient Next G; (3) to contribute to the emerging North American vision for the Next G, currently coordinated by the Next G Alliance; (4) to guide the R&amp;D effort on Next G; and (5) to train a workforce prepared to tackle complex Next G challenges. Researchers from Virginia Tech, the University of Arizona, and George Mason University will work together with a large array of industry members to develop this technology under the four major themes of: open software and interfaces; artificial intelligence-native network operation; spectrum innovation; and security. George Mason University will leverage its Open RAN and Next G testbed facilities within its Wireless Cyber Center in this research. &lt;br/&gt;&lt;br/&gt;WISPER aims to impact the 6G development and pre-standardization activities by leveraging its strong alignment with key 6G stakeholders. Furthermore, WISPER will respond to the urgent need for a diversified and skilled Next G workforce. The WISPER leadership has extensive experience recruiting students from underrepresented groups in computing; to this end, we will leverage the Commonwealth Cyber Initiative (CCI) consortium, which includes three HBCUs and dozens of community colleges. Developing our solutions on open-source platforms, such as Open RAN, will increase the accessibility of advanced Next G techniques, methods, tools, and platforms by professionals, trainees, and students. At George Mason University, we will leverage the Office of Student Creative Activities and Research and the Office of Diversity, Outreach, and Inclusive Learning to engage a broad representation of students in WISPER through faculty-mentored research projects and internship opportunities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413168</AwardID>
+<Investigator>
+<FirstName>Vijay</FirstName>
+<LastName>Shah</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vijay K Shah</PI_FULL_NAME>
+<EmailAddress><![CDATA[vkshah2@ncsu.edu]]></EmailAddress>
+<NSF_ID>000807960</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Duminda</FirstName>
+<LastName>Wijesekera</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Duminda Wijesekera</PI_FULL_NAME>
+<EmailAddress><![CDATA[dwijesek@gmu.edu]]></EmailAddress>
+<NSF_ID>000383359</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Mark</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian L Mark</PI_FULL_NAME>
+<EmailAddress><![CDATA[bmark@gmu.edu]]></EmailAddress>
+<NSF_ID>000189636</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Parth</FirstName>
+<LastName>Pathak</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Parth Pathak</PI_FULL_NAME>
+<EmailAddress><![CDATA[phpathak@gmu.edu]]></EmailAddress>
+<NSF_ID>000732256</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kai</FirstName>
+<LastName>Zeng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kai Zeng</PI_FULL_NAME>
+<EmailAddress><![CDATA[kzeng2@gmu.edu]]></EmailAddress>
+<NSF_ID>000595070</NSF_ID>
+<StartDate>07/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EADLFP7Z72E5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE MASON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>H4NRWLFCDF43</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>220304422</ZipCode>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>576100</Code>
+<Text>IUCRC-Indust-Univ Coop Res Ctr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~150000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Configuration Spaces of Rigid Origami]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>220042.00</AwardTotalIntnAmount>
+<AwardAmount>59029</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christopher Stark</SignBlockName>
+<PO_EMAI>cstark@nsf.gov</PO_EMAI>
+<PO_PHON>7032924869</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Origami, the art of paper folding, has been practiced for centuries. The mathematics behind origami, however, is not yet fully understood. In particular, some origami models can be folded and unfolded in such a way that we could make the crease lines be hinges and the paper between them stiff like sheet metal. Such models are called rigidly flexible origami and have applications that span the physical and biological sciences, ranging from unfolding solar sails to collapsible heart stents. This project will add mathematical tools that allow industrial applications to employ cutting-edge research, from large-scale architectural structures to nano-scale robotics driven by origami mechanics. The tools from this project will help design self-foldable structures. Currently self-folding designs in engineering, architecture, and the biological sciences involve building physical models in a trial-and-error approach, wasting time and resources. The self-folding research provided by this project will allow designers to avoid pitfalls and tighten the design-to-realization process significantly. In addition to the research component, the PI shall organize a diverse range of educational activities including in-service teacher training and education, undergraduate mentoring and preparation for graduate school; high-school and undergraduate classes on the mathematics of folding; for the public, general-audience articles, lectures, and exhibitions. This will increase interest in STEM fields through the fun, hands-on nature of origami while simultaneously disseminating project results.&lt;br/&gt;&lt;br/&gt;The methods of this project involve a blend of practical experimentation with theory. Programmed self-foldability of structures will be achieved by trimming away undesired paths from the configuration space of all possible rigid foldings. One approach is to transform a given rigid folding of a crease pattern into a kinematically equivalent rigid folding with fewer degrees of freedom. The PI has proposed such a transform and will develop others. Key to all of this, however, is gaining a better understanding of rigid origami configuration spaces, which are algebraically complicated and not well understood. The project seeks to understand, and exploit, local-to-global behavior that is present in many known examples of rigid origami. In these examples approximating the configuration space near the origin (the unfolded state) leads to exact equations for the global configuration space. Formulating rigid origami configuration spaces in this way will add insight into the general field of flexible polyhedral surfaces, as well as provide the data needed to prove the feasibility of origami crease pattern transforms and design reliably self-foldable origami mechanisms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2428771</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Hull</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas C Hull</PI_FULL_NAME>
+<EmailAddress><![CDATA[thull1@fandm.edu]]></EmailAddress>
+<NSF_ID>000605706</NSF_ID>
+<StartDate>04/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Franklin and Marshall College]]></Name>
+<CityName>LANCASTER</CityName>
+<ZipCode>176032827</ZipCode>
+<PhoneNumber>7173584517</PhoneNumber>
+<StreetAddress><![CDATA[415 HARRISBURG AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>P4NXVGAJNQK3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FRANKLIN AND MARSHALL COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>P4NXVGAJNQK3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Franklin and Marshall College]]></Name>
+<CityName>LANCASTER</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>176032827</ZipCode>
+<StreetAddress><![CDATA[415 HARRISBURG AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126500</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~59029</FUND_OBLG>
+</Award>
+</rootTag>

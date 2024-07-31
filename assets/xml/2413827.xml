@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Extreme Summer Urban Rainfall Modification under Urban Expansion in a Changing Climate]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>399134.00</AwardTotalIntnAmount>
+<AwardAmount>399134</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicholas Anderson</SignBlockName>
+<PO_EMAI>nanderso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924715</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Land surface characteristics of urban cities have long been known to affect rainfall amount, intensity, and timing.  There is also growing appreciation of the role of a warming Earth as a driver of extreme precipitation amplification.  This project will study the combined role of urban expansion and large-scale climate change on precipitation enhancement near urban areas through advanced numerical modeling.  The results of the work will be disseminated to local stakeholders in Texas and Arizona to help inform decisions about infrastructure development, land planning, and resilience.  The project will include training and educational opportunities for up to 8 early career scientists and students.&lt;br/&gt;&lt;br/&gt;The project will test the following hypothesis: ‘Large scale climate change will be the dominant factor responsible for increased extreme summertime rainfall; urban expansion will amplify impacts that will intensify existing events’. The project seeks to advance fundamental knowledge characterizing the processes impacting the spatio-temporal evolution of extreme summer rainfall over two rapidly expanding metropolitan areas across the US Sun Belt: Austin (TX) and Phoenix (AZ). The project work will: (1) conduct a set of Weather Research and Forecasting (WRF) simulations comprising of a suite of historically representative extreme wet summer seasons; (2) conduct a set of WRF simulations with identical configuration as the historical experiments, comprising of a suite of projected extreme wet summer seasons that account for urban expansion and greenhouse gas emissions, separately, and in tandem, using two contrasting dynamical downscaling methods (dynamical, and the pseudo-global warming approach); (3) conduct a process-based examination of the key physical drivers responsible for projected extreme summer season rainfall changes relative to the historical baseline. The high-resolution output in time (hourly) and space (2km grid spacing for the innermost domain) will permit improved process-based understanding of the mechanisms driving simulated extreme rainfall changes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413827</AwardID>
+<Investigator>
+<FirstName>Dev</FirstName>
+<LastName>Niyogi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dev Niyogi</PI_FULL_NAME>
+<EmailAddress><![CDATA[happy1@utexas.edu]]></EmailAddress>
+<NSF_ID>000250052</NSF_ID>
+<StartDate>07/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121139</ZipCode>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152500</Code>
+<Text>Physical &amp; Dynamic Meteorology</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~399134</FUND_OBLG>
+</Award>
+</rootTag>

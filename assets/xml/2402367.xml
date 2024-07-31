@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Rational GAGA and Applications to Field Invariants]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>495000.00</AwardTotalIntnAmount>
+<AwardAmount>162076</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Adriana Salerno</SignBlockName>
+<PO_EMAI>asalerno@nsf.gov</PO_EMAI>
+<PO_PHON>7032922271</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Geometric spaces arise in many contexts, and studying their behavior can lead to the solution of real world problems.  The study of these spaces has used methods both from algebra and from calculus (also called analysis).  Decades ago, a linkage between the algebraic and analytic approaches to geometry was established, which then led to important progress on geometric problems.  The PIs will extend this linkage to situations in which information is given only on a piece of a geometric space, rather than on the entire space.  This will make it possible to solve open problems concerning the computation of currently mysterious numerical data that relate to the behavior of geometric spaces.  The approach will involve studying spaces locally in order to gain a greater insight into their overall behavior.  The PIs will also engage in activities that have broader impacts.  These include mentoring, widening the pipeline into mathematical research for people from groups traditionally underrepresented in mathematics, and communicating mathematics to a broader audience.  In addition, graduate students supported by the award will receive training to contribute toward this research as well as to engage in further mathematical research in the future.&lt;br/&gt;&lt;br/&gt;More precisely, the PIs will study an analog of Serre's GAGA theorem in the context of function fields of varieties, rather than for the varieties themselves.  This will involve a structure sheaf that contains both holomorphic functions and rational functions. A key goal will then be to use this result to compute the conjectured period-index bound for rational function fields over the complex numbers in three or more variables. The PIs also aim to prove related results over more arithmetic ground fields, by bringing in ideas from the theory of formal schemes and building on their prior work in lower dimensions.  In addition, the PIs will work to understand the structure of the absolute differential Galois group of real rational function fields.  This work is motivated by results that they previously achieved in differential Galois theory over the complex numbers and in classical Galois theory over real function fields. The methods used will include local-global principles and patching, as well as the structure theory of linear algebraic groups, Galois cohomology, and other techniques.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2402367</AwardID>
+<Investigator>
+<FirstName>Julia</FirstName>
+<LastName>Hartmann</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Julia Hartmann</PI_FULL_NAME>
+<EmailAddress><![CDATA[hartmann@math.upenn.edu]]></EmailAddress>
+<NSF_ID>000676357</NSF_ID>
+<StartDate>04/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Harbater</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Harbater</PI_FULL_NAME>
+<EmailAddress><![CDATA[harbater@math.upenn.edu]]></EmailAddress>
+<NSF_ID>000122018</NSF_ID>
+<StartDate>04/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress><![CDATA[3451 WALNUT ST STE 440A]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GM1XX56LEP58</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GM1XX56LEP58</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191046396</ZipCode>
+<StreetAddress><![CDATA[209 SOUTH 33RD STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~162076</FUND_OBLG>
+</Award>
+</rootTag>

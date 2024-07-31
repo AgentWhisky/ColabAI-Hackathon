@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: The Molecular Programming Decadal Roadmap]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2025</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephanie Gage</SignBlockName>
+<PO_EMAI>sgage@nsf.gov</PO_EMAI>
+<PO_PHON>7032924748</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project brings together experts in molecular programming (MP) to develop a comprehensive 10-year plan for the field. Molecular programmers create computers that run on molecular interactions, rather than electricity, enabling computer programs to control physical matter. MP is a potentially transformative technology with diverse applications, including: (i) intelligent medicines that autonomously diagnose and treat diseases, (ii) high-density data storage, (iii) dynamic biosensors, (iv) nanofabrication, (v) soft robotic actuation, and (vi) chemical automation. Despite its potential, MP remains a relatively small and fragmented research field, with most efforts isolated within individual labs and relatively little inter-institutional coordination. This project will help accelerate the field of molecular programming by defining landmark research objectives across MP and developing novel collaborative frameworks beyond the single-lab research model to pursue these objectives.&lt;br/&gt;&lt;br/&gt;The project aims to foster large scale collaborations within molecular programming (MP) by first broadly surveying the field, then hosting an intensive in-person technology roadmapping workshop to outline landmark enabling technologies that are missing within MP, and finally following up with a novel inter-institutional collaborative research framework to pursue the roadmap collectively. Primary objectives are to: (1) define the field of “molecular programming” in the context of other related fields, (2) establish “lifetime” goals and applications for the field, (3) evaluate the current state of MP capabilities, (4) develop a ten-year technology roadmap of missing technologies within MP, (5) outline massively-collaborative research mechanisms to pursue the technology roadmap, (6) expand industry partnership and workforce development, and (7) broaden leadership and participation within the field. By creative a cohesive vision for the next decade, this project will significantly accelerate the field of molecular programming and will promote technological breakthroughs with applications in medicine, data storage, and programmable matter.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2436032</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Nivala</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey Nivala</PI_FULL_NAME>
+<EmailAddress><![CDATA[jmdn@uw.edu]]></EmailAddress>
+<NSF_ID>000759731</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dominic</FirstName>
+<LastName>Scalise</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dominic Scalise</PI_FULL_NAME>
+<EmailAddress><![CDATA[dominic.scalise@wsu.edu]]></EmailAddress>
+<NSF_ID>000937748</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Washington State University]]></Name>
+<CityName>PULLMAN</CityName>
+<ZipCode>991640001</ZipCode>
+<PhoneNumber>5093359661</PhoneNumber>
+<StreetAddress><![CDATA[240 FRENCH ADMINISTRATION BLDG]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XRJSGX384TD6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WASHINGTON STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>Seattle</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981950003</ZipCode>
+<StreetAddress><![CDATA[1410 NE Campus Pkwy]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>089Y00</Code>
+<Text>FET-Fndtns of Emerging Tech</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7946</Code>
+<Text>BIO COMPUTING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

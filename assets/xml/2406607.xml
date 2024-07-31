@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MSA: Quantifying the interactive effects of human disturbances on lake biota and harmful algal blooms at the continental scale]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Catherine O'Reilly</SignBlockName>
+<PO_EMAI>coreilly@nsf.gov</PO_EMAI>
+<PO_PHON>7032927934</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Lakes serve many important services, including providing people with drinking water, recreation, and providing critical habitat for wildlife. Lakes have also been disturbed by human activities that occur locally such as urban and agricultural land use near lakes and that occur globally such as climate change. These disturbances can interact in complicated ways to harm lakes, leading to such problems as increased nutrients from land that can lead to increased algal blooms, some of them harmful to people and animals. A recent survey of US lakes found that nearly a quarter of them had dangerous levels of a toxin created by harmful algae called microcystin, surpassing safe drinking water standards set by the World Health Organization. Also, the frequency of harmful algal blooms is expected to rise due to the combined influences of nutrient pollution and climate change. However, scientists do not know how these and other types of human activities that occur near lakes will interact to affect algal blooms. Moreover, a lake’s natural setting is also important for determining how it will respond to these human disturbances. Therefore, this project investigates the complex interactions between human disturbances and natural features to understand how they impact US lake ecosystems, generally, and algal blooms, specifically. This project will also forecast how US lakes may respond under multiple climate scenarios to aid decision-makers in prioritizing their efforts to minimize the effects of human activities on this critical natural resource. In addition, a postdoctoral researcher, graduate student, and two undergraduate students will develop their data science skills while working on the project.&lt;br/&gt;&lt;br/&gt;This research will study the effects of human disturbances, natural settings, and climate change on harmful algal blooms, toxins, and zooplankton for 500,000 lakes across the conterminous US. Zooplankton feed on algae and are food sources for higher trophic-level consumers, connecting the flow of energy and nutrients from lower to upper trophic levels. Given their role as primary consumers, they may also be some of the most sensitive organisms to changes in eutrophic conditions and toxic cyanobacteria. However, studying how natural populations such as zooplankton respond to human disturbances at macroscales has been limited by a lack of data. The increasing availability of large, but separate datasets on these many key components of this problem provides a new opportunity for conducting research at macroscales. The researchers will integrate databases from multiple sources and use advanced data science approaches to address 3 key research aims. First, the researchers will build a series of machine-learning models to quantify the interactions among multiple human disturbances and their relationships with algal blooms for 13,123 lakes with in-lake chlorophyll concentrations and microcystin data. The researchers will predict microcystin concentration and hypereutrophy (exceedingly high concentrations of chlorophyll that can result in harmful algal blooms), low levels of oxygen, and fish kills in all US lakes. Second, the researchers will build a structural equation model (SEM) to quantify the relationships between lake phytoplankton (algae) and zooplankton communities in a subset of 2,332 lakes with plankton data, and then make predictions of zooplankton communities for all lakes. Third, the researchers will forecast microcystin concentrations, hypereutrophy, and zooplankton community structure under different climate change scenarios for the roughly 120,000 lakes with modeled water temperature data. This project will contribute to knowledge of the complex interactions among multiple human disturbances on biological communities at macroscales. Its broader impacts include the production of an integrated, research-ready, and open macroscale dataset of harmful algal blooms, natural settings, climate, water temperature, and zooplankton communities in hundreds of thousands of lakes for other researchers and managers to use for research, management, and decision-making. The predictions will also provide valuable information to people living near and using lakes about the potential for exposure to harmful algal blooms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406607</AwardID>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Hanly</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Patrick J Hanly</PI_FULL_NAME>
+<EmailAddress><![CDATA[hanlypat@msu.edu]]></EmailAddress>
+<NSF_ID>000985439</NSF_ID>
+<StartDate>07/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kendra</FirstName>
+<LastName>Cheruvelil</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kendra S Cheruvelil</PI_FULL_NAME>
+<EmailAddress><![CDATA[ksc@msu.edu]]></EmailAddress>
+<NSF_ID>000523808</NSF_ID>
+<StartDate>07/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>795900</Code>
+<Text>MacroSysBIO &amp; NEON-Enabled Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7959</Code>
+<Text>MACROSYSTEM BIOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

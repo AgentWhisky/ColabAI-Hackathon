@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF: Small: End-to-End Formal Verification of Concurrent C Programs]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anindya Banerjee</SignBlockName>
+<PO_EMAI>abanerje@nsf.gov</PO_EMAI>
+<PO_PHON>7032927885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The C programming language is widely used in both the basic software that makes computers work, and in high-performance applications that need to perform many computations at the same time (concurrently). Unfortunately, C code is highly error-prone, and concurrent C code is even more so. The goal of this project is to guarantee that concurrent C programs always run correctly by developing tools for mathematically proving the correctness of those programs. The project’s novelties are the development of an end-to-end toolchain for concurrent C programs, with interactive and automatic proof tools at the top, a precise model of the behavior of concurrent C programs (including the latest high-performance concurrency features) in the middle, and a formal connection to the code that the computer actually executes at the bottom. The project’s impacts are more reliable software and a reduction in software failures, including those that lead to lost productivity, privacy and security breaches, and even physical safety incidents (for instance, due to bugs in car software).&lt;br/&gt;&lt;br/&gt;The project builds on the newest version of the Verified Software Toolchain (VST), a tool for proving that C programs meet specifications written in separation logic. Notably, VST is formally connected to the CompCert verified compiler, so that programs verified in VST are mathematically guaranteed to compile to assembly code with the desired behavior. The project extends VST in two directions. First, it integrates RefinedC, an annotation-based verifier for C based on the Iris separation logic framework; the newest version of VST also rests on Iris foundations, so the investigator will reimplement RefinedC’s annotations in VST and extend them to more features of the C language, yielding a semi-automatic end-to-end verification system for C programs. Second, the project extends VST’s logic and foundational guarantees to concurrent programs, including those that use the atomic operations introduced in the C11 standard. This includes both sequentially consistent operations (where each memory address appears to contain a single value) and, ultimately, weak-memory operations (where different threads may see different values at the same address). The end result is a complete toolchain for guaranteeing that high-performance concurrent C programs meet their specifications when compiled and run.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414582</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Mansky</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William Mansky</PI_FULL_NAME>
+<EmailAddress><![CDATA[mansky1@uic.edu]]></EmailAddress>
+<NSF_ID>000779474</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606124305</ZipCode>
+<PhoneNumber>3129962862</PhoneNumber>
+<StreetAddress><![CDATA[809 S MARSHFIELD AVE M/C 551]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>W8XEAJDKMXH3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606124305</ZipCode>
+<StreetAddress><![CDATA[809 S MARSHFIELD AVE M/C 551]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7943</Code>
+<Text>PROGRAMMING LANGUAGES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~600000</FUND_OBLG>
+</Award>
+</rootTag>

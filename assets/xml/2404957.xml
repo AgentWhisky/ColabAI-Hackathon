@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Understanding topological excitons via ultrafast and helicity-dependent photocurrent microscopy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>526989.00</AwardTotalIntnAmount>
+<AwardAmount>212965</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yaroslav Koshka</SignBlockName>
+<PO_EMAI>ykoshka@nsf.gov</PO_EMAI>
+<PO_PHON>7032924986</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Description:&lt;br/&gt;Topological materials represent a new family of materials with exciting and unique electronic properties, which offer promise of revolutionizing electronics and computers. Most of the prior research treated electrons in these materials as noninteracting particles. However, under certain conditions, electrons may strongly interact with their counterparts, holes, which are vacancies of electrons. In this case, quasiparticles made of electron and hole pairs, which are often referred to as excitons, may form a quantum state with exotic properties such as transport without energy dissipation. Topological excitons may provide new and exciting paradigm of exploiting excitons instead of electrons for higher temperature quantum computing. This project focuses on understanding excitons in topological materials, which is based on the principal investigator’s recent results of fast and long-distance transport of photogenerated charge carriers in topological insulators at low temperatures. The project uses innovative experimental techniques including spatially, temporally, and spectrally resolved photocurrent measurements, to offer key insights for fundamental understanding of the nature of topological excitons. This project also provides opportunities for educating and training undergraduate and graduate students in the critical areas of quantum and spintronic devices, nanodevice fabrication, and topological materials.&lt;br/&gt;&lt;br/&gt;Technical Description: &lt;br/&gt;Excitons formed at topological surface states can be protected against back-scattering and enjoy robust spin-polarization, providing a truly promising route to quantum devices and spintronic applications. Although single-particle physics has been extensively investigated, much less work has been carried out to understand excitons in these materials. Recent experimental studies of single-crystalline Sb-doped Bi2Se3 nanoribbons conducted by the principal investigator have revealed fast relaxation and ballistic transport of photogenerated carriers, strongly suggesting a possibility of highly dissipationless transport of photogenerated charge carriers in topological insulators. This project aims to uncover properties of the photogenerated excitons such as their velocity, lifetime, spin, and effects of magnetic field. Spatially resolved ultrafast pump-probe photocurrent measurements are used to determine the relaxation time and propagation velocity of excitons. Spatially resolved helicity-dependent photocurrent measurements in the visible and mid-infrared range are performed to better understand the exciton spin polarization and the momentum coupling properties at the surface. Optically modulated magnetoresistance measurements are carried out to understand the effect of magnetic field on exciton transport. This project helps graduate and undergrad students to acquire skills and knowledge to pursue research and development in the field of novel materials and quantum technologies in collaboration with industrial partners. The broader impact activities of the project are also integrated into the Cal-Bridge and American Physical Society Bridge programs, dedicated to mentoring underrepresented minority students, toward advanced degrees in physics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/07/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/07/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404957</AwardID>
+<Investigator>
+<FirstName>Dong</FirstName>
+<LastName>Yu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dong Yu</PI_FULL_NAME>
+<EmailAddress><![CDATA[yu@physics.ucdavis.edu]]></EmailAddress>
+<NSF_ID>000559200</NSF_ID>
+<StartDate>05/07/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Davis]]></Name>
+<CityName>DAVIS</CityName>
+<ZipCode>956186153</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress><![CDATA[1850 RESEARCH PARK DR STE 300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TX2DAGQPENZ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, DAVIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Davis]]></Name>
+<CityName>DAVIS</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>956186153</ZipCode>
+<StreetAddress><![CDATA[1850 RESEARCH PARK DR, STE 300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177500</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~212965</FUND_OBLG>
+</Award>
+</rootTag>

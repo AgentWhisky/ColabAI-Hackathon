@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: A Joint Research and Innovation Partnership toward Securing an AI-enabled Future in Agricultural Production and Climate Resilience]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01090000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OISE</Abbreviation>
+<LongName>Office Of Internatl Science &amp;Engineering</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne Emig</SignBlockName>
+<PO_EMAI>aemig@nsf.gov</PO_EMAI>
+<PO_PHON>7032927241</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Sustained intensification in agricultural production to meet the caloric needs of a rapidly increasing population, and to do so while combating the impacts of climate change – are two major grand challenges in 21st century agriculture. This project creates a three-way collaboration between the&lt;br/&gt;AgAID Institute (one of the five NIFA-funded AI Institutes) in the US led by Washington State University (WSU), the Indian Institute of Technology-Bombay (IIT-B) and IIT-B Technology Innovation Hub (TIH) in India, and the University of Tokyo in Japan – with a vision to include Australian research networks in the longer term. We will develop collaborative research plan using AI/ML methods and frameworks to improve agricultural and climate resilience in Indian agriculture.&lt;br/&gt;&lt;br/&gt;The proposed project will target two major scientific goals: 1) Build and test new AI-enabled infrastructure for in-field crop monitoring and phenotyping, with a focus on technology transfer across agricultural testbeds. 2) Develop and integrate AI-enabled soil water balance models for&lt;br/&gt;improved climate resilience and optimized water resource management in farms, to improve reliable estimation of soil moisture and other related soil-water balance measures at the farm scale.&lt;br/&gt;&lt;br/&gt;Crop monitoring and phenotyping are key technologies in precision agriculture that play a critical role for both on-farm, real-time decision support as well as in the development of new crop varieties optimized for important traits (e.g., yield, drought resistance, disease resistance). Furthermore, developing new predictive capabilities for key variables associated with soil and water is also vital for&lt;br/&gt;robust agricultural decision support. This project will investigate ways to test the transfer of AI-driven sensing technologies and edge-to-cloud &lt;br/&gt;workflows for potential deployment in rural Indian agriculture conditions. Toward predictive AI capabilities, this project will investigate the development of data-driven models for efficient water resource management, at a regional and farm scale. Innovations are expected for both the technology side – development of scalable and affordable farm IoT technologies – and the use-inspired AI side – new data-driven machine learning models that couple scientific models with observable data toward robust real-time and site-specific decision support. The choice of problems and the proposed approach through AI have global scope and relevance to extend to other similar semi-arid geographies.&lt;br/&gt;&lt;br/&gt;This project is funded as part of the Quad AI-ENGAGE initiative, a collaboration of the National Science Foundation, Commonwealth Scientific and Industrial Research Organization of Australia, Indian Council of Agricultural Research, and Japan Science and Technology Agency to advance innovation to empower next generation agriculture.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/30/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419136</AwardID>
+<Investigator>
+<FirstName>Jordan</FirstName>
+<LastName>Jobe</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jordan Jobe</PI_FULL_NAME>
+<EmailAddress><![CDATA[jordan.jobe@wsu.edu]]></EmailAddress>
+<NSF_ID>000876564</NSF_ID>
+<StartDate>04/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kirti</FirstName>
+<LastName>Rajagopalan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kirti Rajagopalan</PI_FULL_NAME>
+<EmailAddress><![CDATA[kirtir@wsu.edu]]></EmailAddress>
+<NSF_ID>000800709</NSF_ID>
+<StartDate>04/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paola</FirstName>
+<LastName>Pesantez</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paola G Pesantez</PI_FULL_NAME>
+<EmailAddress><![CDATA[p.pesantezcabrera@wsu.edu]]></EmailAddress>
+<NSF_ID>000876567</NSF_ID>
+<StartDate>04/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lav</FirstName>
+<LastName>Khot</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lav R Khot</PI_FULL_NAME>
+<EmailAddress><![CDATA[lav.khot@wsu.edu]]></EmailAddress>
+<NSF_ID>000690025</NSF_ID>
+<StartDate>04/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anantharaman</FirstName>
+<LastName>Kalyanaraman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anantharaman Kalyanaraman</PI_FULL_NAME>
+<EmailAddress><![CDATA[ananth@eecs.wsu.edu]]></EmailAddress>
+<NSF_ID>000289075</NSF_ID>
+<StartDate>04/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Washington State University]]></Name>
+<CityName>PULLMAN</CityName>
+<ZipCode>991640001</ZipCode>
+<PhoneNumber>5093359661</PhoneNumber>
+<StreetAddress><![CDATA[240 FRENCH ADMINISTRATION BLDG]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XRJSGX384TD6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WASHINGTON STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Washington State University]]></Name>
+<CityName>PULLMAN</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>991642752</ZipCode>
+<StreetAddress><![CDATA[355 NE Spokane Street, EME 102]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>054Y00</Code>
+<Text>GVF - Global Venture Fund</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5912</Code>
+<Text>AUSTRALIA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5919</Code>
+<Text>INDIA (COOPERATIVE SCIENCE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5921</Code>
+<Text>JAPAN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

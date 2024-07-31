@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Quantization and Compression for Neural Networks: Theory and Algorithms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>299889.00</AwardTotalIntnAmount>
+<AwardAmount>299889</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jodi Mead</SignBlockName>
+<PO_EMAI>jmead@nsf.gov</PO_EMAI>
+<PO_PHON>7032927212</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The research project focuses on making advanced AI technologies, like the neural networks used in language models and for image generation or analysis, more efficient and environmentally friendly. Today, these technologies require significant computational power, which makes them both costly and energy-intensive. This project aims at developing algorithms for replacing such networks with functionally equivalent ones that require fewer computational resources, without losing their effectiveness. The resulting reduction in computational complexity will also help enable the use of AI in real-time applications and on devices with limited resources, further expanding this critical technology's reach. Thus, the expected scientific outcome is the development of robust, efficient, practical algorithms that are also backed by rigorous theoretical guarantees. Moreover, we anticipate that the theoretical tools we develop in order to analyze these algorithms will find broader use in other application areas. The project also emphasizes the importance of education and academic community involvement. By integrating research findings into university courses and involving students from potentially diverse backgrounds, the project will help prepare the next generation of mathematicians and engineers. Additionally, it aims to share breakthroughs with broader communities through journal publications, workshops, and conferences, while also connecting students with real-world industry applications.&lt;br/&gt;&lt;br/&gt;As previously stated, the project aims to address the challenge of compressing large neural networks, which are pivotal in modern AI applications but are resource-intensive. Thus, the research will focus on developing algorithms that reduce the computational demands of these networks by minimizing the memory and power needed without compromising their performance. Our approach involves three main strategies, quantization, pruning, and low-rank approximation. Among these, quantization transforms neural network parameters into formats that require fewer bits, thus reducing memory usage and computational intensity. Meanwhile, pruning selectively removes less important parameters from the network to streamline computations. Finally, low-rank approximation replaces large matrices representing the weights in the network with products of smaller matrices, in a way that retains essential information while requiring less memory and computation.  We will develop algorithmic approaches for quantization, pruning, and low-rank approximation that are underpinned by rigorous mathematical theories to ensure the reliability and effectiveness of the compressed models. In our analysis, we will utilize stochastic process theory, geometric functional analysis, discrete geometry, discrepancy theory, optimization theory, compressed sensing, and dimensionality reduction, to name a few. These diverse areas will help us establish a solid theoretical foundation for our algorithms consisting of lower bounds on best-possible theoretical error guarantees as well as upper bounds on the errors resulting from our algorithms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410717</AwardID>
+<Investigator>
+<FirstName>Rayan</FirstName>
+<LastName>Saab</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rayan Saab</PI_FULL_NAME>
+<EmailAddress><![CDATA[rsaab@ucsd.edu]]></EmailAddress>
+<NSF_ID>000653192</NSF_ID>
+<StartDate>06/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress><![CDATA[9500 GILMAN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930021</ZipCode>
+<StreetAddress><![CDATA[9500 GILMAN DRIVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~299889</FUND_OBLG>
+</Award>
+</rootTag>

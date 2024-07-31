@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[IUCRC Phase I University of Southern California: Center for CO2 Storage Modeling, Analytics, and Risk Reduction Technologies (CO2-SMART)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>997971.00</AwardTotalIntnAmount>
+<AwardAmount>198564</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06010000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>RISE</Abbreviation>
+<LongName>Div of Res, Innovation, Synergies, &amp; Edu</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Barbara Ransom</SignBlockName>
+<PO_EMAI>bransom@nsf.gov</PO_EMAI>
+<PO_PHON>7032927792</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Geologic storage of carbon dioxide (CO2) can be used to reduce CO2 in the atmosphere, mitigating its climate change impacts by removing it from the surface carbon cycle. This Industry-University Cooperative Research Center for geologic CO2 Storage Modeling, Analytics, and Risk Reduction Technologies (CO2-SMART) creates a multidisciplinary program that accelerates the safe and cost-effective sequestration of CO2 in the deep subsurface, at scale. This is done via use-inspired, basic research and workforce development in an area needed by industry. CO2-SMART is a partnership between the University of Southern California and the Pennsylvania State University. The Center focuses on advancing the current understanding of the complex processes that are triggered during and after CO2 injection into geologic formations. It develops advanced modeling and other activities that improve the safety, efficiency, and economics of subsurface CO2 sequestration operations and develops a pragmatic policy framework for large scale deployment of geologic CO2 storage. The Center brings together leading faculty, researchers, and their students from across the fields of engineering, machine learning, computer science, statistics, subsurface flow, simulation, geoscience, energy policy, and economics at the two participating universities. It enables collaboration between university personnel and CO2 sequestration field operators and carbon management regulators to develop synergistic collaborations that allow key stakeholders to tackle the challenging problem of CO2 sequestration. Broader impacts have signifcant societal, energy security, and public health implications. These include development and training of the next carbon sequestration workforce, including developing engineers and scientists as technical leaders who are well-versed in implementing and managing large-scale geologic CO2 storage projects. The University of Southern California Site will contribute to the inclusion of students underrepresented in STEM fields from local Los Angeles high schools and community colleges. It will also develop new courses and degree programs relevant to the topic for graduate and undergraduate students. CO2 SMART's benefits can be extended to other subsurface flow systems including those related to groundwater, geothermal, and hydrocarbon resources, all of which share similar technological challenges. An Industry Advisory Board, consisting of companies, government agencies, and other interested parties will help guide Center research to ensure it is responsive to the evolving needs of the carbon economy and companies implementing geologic-carbon storage.&lt;br/&gt;&lt;br/&gt;The CO2-SMART Center aims to enable and accelerate safe, reliable, efficient CO2 storage and implementation strategies through use-inspired research relevant to the carbon sequestration economic. It's activities also include workforce development and public outreach in this important area. The Center achieves its goals through collaborative, pre-competitive, basic research in the following key thrust areas: (1) Site screening and characterization, including fluid, rock, and fracture properties; (2) Multiscale and multi-physics modeling/simulation for prediction of CO2 displacement in storage aquifers; (3) Cost-effective reservoir monitoring and characterization, including geophysical, geochemical, and geomechanical monitoring for high-resolution imaging; (4) Machine learning and data analytics for flexible and efficient workflows, including multiphysics data processing, predictive modeling, and decision support tools; (5) Risk assessment and uncertainty quantification for complex multi-physics subsurface storage systems that to informs risk mitigation strategies; and (6) Improving the economics of geologic carbon sequestration through optimization and field development planning. The University of Southern California, the lead Site of the CO2 SMART Center, contributes its expertise in multiphysics modeling, data science, data assimilation and simulation, and uncertainty quantification, risk assessment, and optimization. It also develops a range of education and public outreach activities that involves students from local community colleges and high schools in Center research. CO2 Smart will leverage university programs for increasing K-12 STEM competency via intensive summer engineering programs and distance learning activities. It will also access and/or create student and professional certificate and degree programs in the area of energy transition, energy engineering, and environmental sustainability.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413417</AwardID>
+<Investigator>
+<FirstName>Roger</FirstName>
+<LastName>Ghanem</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roger G Ghanem</PI_FULL_NAME>
+<EmailAddress><![CDATA[ghanem@usc.edu]]></EmailAddress>
+<NSF_ID>000379288</NSF_ID>
+<StartDate>06/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yan</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yan Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[yanliu.cs@usc.edu]]></EmailAddress>
+<NSF_ID>000572301</NSF_ID>
+<StartDate>06/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Behnam</FirstName>
+<LastName>Jafarpour</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Behnam Jafarpour</PI_FULL_NAME>
+<EmailAddress><![CDATA[behnam.jafarpour@usc.edu]]></EmailAddress>
+<NSF_ID>000619513</NSF_ID>
+<StartDate>06/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Felipe</FirstName>
+<LastName>de Barros</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Felipe de Barros</PI_FULL_NAME>
+<EmailAddress><![CDATA[fbarros@usc.edu]]></EmailAddress>
+<NSF_ID>000640558</NSF_ID>
+<StartDate>06/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Birendra</FirstName>
+<LastName>Jha</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Birendra Jha</PI_FULL_NAME>
+<EmailAddress><![CDATA[bjha@usc.edu]]></EmailAddress>
+<NSF_ID>000783367</NSF_ID>
+<StartDate>06/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900890701</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress><![CDATA[3720 S FLOWER ST FL 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900891121</ZipCode>
+<StreetAddress><![CDATA[925 Bloom Walk, HED-313]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>576100</Code>
+<Text>IUCRC-Indust-Univ Coop Res Ctr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~198564</FUND_OBLG>
+</Award>
+</rootTag>

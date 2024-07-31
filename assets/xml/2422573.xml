@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Liutex-based Sub-Grid Model for Large Eddy Simulation of Turbulent Flow]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>299632.00</AwardTotalIntnAmount>
+<AwardAmount>299632</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>An efficient, practical, and accurate numerical simulation method for turbulent flow is important in computational fluid dynamics for the study of tornadoes, hurricanes, aircraft design, and other turbulence-related areas. Due to the limitation of computation resources, it is hard to numerically resolve all-size vortices. Scientists have found that small-scale vortices have similarities although large-scale vortices are quite different. Large eddy simulation only resolves large-scale vortices and leaves sub-grid scales for modeling. Therefore, the accuracy of large eddy simulations is determined by the sub-grid models. The concept of eddy viscosity is still adopted in most practical turbulent flow simulations. However, most of the existing sub-grid models still use the resolved shear to calculate the eddy viscosity, which is inconsistent with the physics, especially in the shear-dominated regions like the laminar sublayer in turbulent boundary layers, where vorticity/shear is large, but eddy viscosity is zero. The inconsistency is caused by the misunderstanding that vortex strength is measured by vorticity. The remedy of using a wall function or artificial adjustment near the wall region cannot solve the consistency problem. Liutex is a new physical quantity exactly representing the direction and strength of a vortex or eddy. Previous direct numerical simulation has shown that Liutex has similarity in the dissipation subregion of the turbulent boundary layer, which paves the foundation for constructing a new sub-grid model by using Liutex.&lt;br/&gt;&lt;br/&gt;This project aims to develop a reliable and efficient Liutex-based sub-grid model for the large eddy simulation community. Liutex is a rigorous mathematical definition of vortex that correctly distinguishes fluid rotation and shear. The introduction of Liutex to extract the rigid rotation from the fluid velocity gradient is groundbreaking work in turbulence research. So, modeling small-scale vortices using Liutex instead of shear is very reasonable as eddy is vortex and vortex is Liutex. This project plans to (1) develop a new Liutex-based sub-grid model, (2) develop a new dynamic Liutex-based sub-grid model, (3) test new models in a variety of computational fluid dynamics cases such as backward step flow, S-duct flow, and flow around an airfoil, (4) evaluate the effect of new Liutex-based sub-grid model and compare it with other existing sub-grid models. The code of the new model will be provided to the community through GitHub. As large eddy simulation becomes one of the major tools of computational fluid dynamics, a breakthrough in the development of the sub-grid models will benefit almost all fluid-related research areas and engineering applications in multi-disciplinary research areas including aerodynamics, hydrodynamics, meteorology (hurricanes and tornadoes for example), bio-flow (blood flow and respiratory flow for example), astronomy (sun storm for example), etc.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2422573</AwardID>
+<Investigator>
+<FirstName>Yifei</FirstName>
+<LastName>Yu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yifei Yu</PI_FULL_NAME>
+<EmailAddress><![CDATA[yifei.yu@uta.edu]]></EmailAddress>
+<NSF_ID>000988877</NSF_ID>
+<StartDate>04/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chaoqun</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chaoqun Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[cliu@uta.edu]]></EmailAddress>
+<NSF_ID>000481998</NSF_ID>
+<StartDate>04/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Arlington]]></Name>
+<CityName>ARLINGTON</CityName>
+<ZipCode>760199800</ZipCode>
+<PhoneNumber>8172722105</PhoneNumber>
+<StreetAddress><![CDATA[701 S NEDDERMAN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMLUKUPJJ9N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT ARLINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Arlington]]></Name>
+<CityName>ARLINGTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>760199800</ZipCode>
+<StreetAddress><![CDATA[701 S. NEDDERMAN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144300</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~299632</FUND_OBLG>
+</Award>
+</rootTag>

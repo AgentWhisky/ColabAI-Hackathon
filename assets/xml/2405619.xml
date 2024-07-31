@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRA: Canopy structure traits: whole plant properties bridging leaves to ecosystems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>684503.00</AwardTotalIntnAmount>
+<AwardAmount>684503</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew J. Elmore</SignBlockName>
+<PO_EMAI>aelmore@nsf.gov</PO_EMAI>
+<PO_PHON>7032927939</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Plants have a wide variety of leaf traits, yet only a small set of trait combinations are viable in today’s changing world. Predicting the flow of carbon, water, and energy between plants and the atmosphere (i.e., ecosystem functioning) requires describing leaf traits and how leaves are arranged within a canopy. Leaves are not isolated units on a canopy, but rather, they interact with thousands of other leaves. Much of that interaction, and therefore ecosystem functioning, is determined by the position and orientation of leaves within the canopy. This project will leverage a new technology to map canopy details in three dimensions in forests in the eastern United States. The mapping effort will provide the position and orientation (angle relative to the horizontal plane) of every leaf in a canopy. The work will reveal how plant traits influence tree growth and resource use, deepening our understanding of how forest trees compete for water and light. The broader impacts of this project include creating virtual reality forests for eight National Ecological Observatory Network (NEON) sites. The use of virtual reality will provide an accessible and equitable experience for people who cannot visit forests in person. Researchers will work with collaborators at local schools to include these virtual forest galleries in their programs. The project will also support new class modules for field remote sensing courses at the University of Virginia.&lt;br/&gt;&lt;br/&gt;The research bridges the leaf and ecosystem scales, thus bringing the whole canopy perspective to studies of functional traits. The overarching question this project seeks to answer is: To what extent do canopy structural traits and leaf traits converge at the ecosystem scale? With new technology and algorithm development, this project will bring novel insight into the role of canopy structure metrics in the functional trait spectrum. These metrics include the statistical distribution of leaf angles, leaf area, and leaf clumping. Researchers will focus on eight forest NEON sites in the eastern United States. They will investigate the relationship between canopy structural metrics and leaf traits estimated by the trait maps generated from imaging spectroscopy data. Researchers will map canopy structural traits (leaf angle and clumping) using algorithms calibrated by co-located NEON Airborne Observation Platform canopy reflectance and Terrestrial Lidar Scanning data. The second part of this project focuses on three sites to assess the extent to which canopy structural traits optimize canopy photosynthesis. Testing the extent of optimization of canopy structural traits along the vertical gradient will shed light on how plants optimize (or not) photosynthesis, given the constraint of water and competition for light. Canopy structural trait maps and the vertical trait data set generated will provide durable benefits to the scientific community. In addition, valuable canopy structural information will be extracted from the Terrestrial Lidar Scanning data, such as branching patterns and biomass, providing essential datasets for forest ecologists. Through collaboration with K-12 institutions, researchers will develop educational materials that will elevate opportunities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2405619</AwardID>
+<Investigator>
+<FirstName>Manuel</FirstName>
+<LastName>Lerdau</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Manuel T Lerdau</PI_FULL_NAME>
+<EmailAddress><![CDATA[mlerdau@virginia.edu]]></EmailAddress>
+<NSF_ID>000236041</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xi</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xi Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[xiyang@virginia.edu]]></EmailAddress>
+<NSF_ID>000734447</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229034833</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJG6HU8PA4S5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RECTOR &amp; VISITORS OF THE UNIVERSITY OF VIRGINIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>229034833</ZipCode>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>795900</Code>
+<Text>MacroSysBIO &amp; NEON-Enabled Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7959</Code>
+<Text>MACROSYSTEM BIOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~684503</FUND_OBLG>
+</Award>
+</rootTag>

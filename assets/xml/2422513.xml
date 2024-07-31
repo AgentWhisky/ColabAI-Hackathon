@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Turbulent Buoyant Flows: from discovering their internal structures to developing LES models]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>350830.00</AwardTotalIntnAmount>
+<AwardAmount>350830</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Buoyancy – light warm gas goes up and heavy cold gas goes down – is widely understood as a core principle. The motion of the two fluids is induced by the unstable density stratification (heavy on top of light) and the presence of gravity.  As potential energy is converted into kinetic energy, the flow field becomes three-dimensional and random; it transitions to turbulence.  Simultaneously, a layer forms between the pure heavy and pure light fluids, where the two fluids mix.  These flow instabilities, often referred to as Rayleigh-Taylor instabilities, are found in a large diversity of engineering applications and natural phenomena (inertial confinement fusion, furnaces, fires, heat transfer within stars, supernova formation, underwater hot vents, oil spill, etc.).  A lot of research has been done on the initial and long-term growth of Rayleigh-Taylor instabilities; however, little is known about the structure of the turbulence inside these buoyant flows.  The main goal of the project is to isolate the specific features that make a turbulent buoyant flow different from regular turbulence.  Such understanding will enable new insights into buoyant flows across a wide range of fields.  The goal is also to bridge the gap between research and education with activities focusing on middle schools, undergraduate students, and the general public.&lt;br/&gt;&lt;br/&gt;In order to gain access into the fine details of turbulence, high-fidelity numerical simulations of various controlled experiments will be performed.  These configurations will span all regimes of turbulent buoyant flows, from weak buoyancy to buoyancy-dominated turbulence. The dependence of the vertical velocity on the fluid density, which is both a consequence of buoyancy and the mechanism behind Rayleigh-Taylor instabilities, will be extracted from these simulations.  Utilizing this dependence, a mathematical framework will be derived to relate any turbulent buoyant flow to regular turbulence.  This framework will be leveraged to derive reduced order models specifically designed for turbulent buoyant flows, thus addressing a long-standing deficiency.  Finally, the research will validate these new models in simulations of various experiments of increasing complexity, including buoyant plumes and fires.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2422513</AwardID>
+<Investigator>
+<FirstName>Guillaume</FirstName>
+<LastName>Blanquart</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Guillaume Blanquart</PI_FULL_NAME>
+<EmailAddress><![CDATA[g.blanquart@caltech.edu]]></EmailAddress>
+<NSF_ID>000543920</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250001</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress><![CDATA[1200 E CALIFORNIA BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA28</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U2JMKHNS5TG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CALIFORNIA INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>PASADENA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>911250001</ZipCode>
+<StreetAddress><![CDATA[1200 E CALIFORNIA BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA28</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144300</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~350830</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: Affine Ramsey Theory: Development and Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>112259.00</AwardTotalIntnAmount>
+<AwardAmount>112259</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+<PO_EMAI>tbartosz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Large networks appear across the natural sciences, from those modeling neurons in the brain to those modeling the internet.  Sufficiently large networks – regardless of their origin or complexity – are guaranteed to have organized substructures.  The branch of mathematics that makes this idea precise in theory and applications – and the branch of mathematics to which this project belongs – is called Ramsey Theory.  The main purpose of this project is the creation and development of Affine Ramsey Theory, a branch of Ramsey Theory focused on the combinatorial and number-theoretic interaction between addition and multiplication.  The questions motivating this subject come from Number Theory, while techniques and tools come from Combinatorics and the theory of Dynamical Systems.  The development of Affine Ramsey Theory in this project is expected to provide a new set of tools and results to approach outstanding open questions and find novel applications to other areas.  This project is specifically designed to help the University of Massachusetts Lowell, a Minority Serving Institution, reach and train the next generation of mathematics students.  The PI will lead a two-week, intensive summer program in the topic and advise two students in a year-long research program.  The research experiences provided by this project will engage undergraduate students with mathematics outside the classroom and help them develop specialized skills to carry forward into life and work after graduation.&lt;br/&gt;&lt;br/&gt;Classical Ramsey Theory is additive, in the sense that its theorems can be framed in terms of the natural action of the additive semigroup of the positive integers under addition on itself.  Abstractions of those results yield multiplicative analogues concerning the natural action of the multiplicative semigroup of the positive integers under multiplication on itself.  An emerging thread in modern Ramsey Theory, Combinatorial Number Theory, and Dynamical Systems seeks to understand the extent to which these additive and multiplicative actions interrelate.  This project will develop Affine Ramsey Theory with a focus on the natural action of the affine semigroup – the subsemigroup of the group of affine transformations of the rational numbers that map the positive integers into themselves – on the positive integers.  This focus is expected to strengthen what is known about the Ramsey-theoretic relationships between addition and multiplication; provide a conceptual framework for re-framing existing open problems; and suggest new applications and directions for further research.  Tools and techniques will come primarily from Topological Dynamics and Ergodic Theory, fields which have proven effective in the last several decades at addressing questions in Ramsey Theory.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418589</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Glasscock</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel G Glasscock</PI_FULL_NAME>
+<EmailAddress><![CDATA[daniel_glasscock@uml.edu]]></EmailAddress>
+<NSF_ID>000787101</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Massachusetts Lowell]]></Name>
+<CityName>LOWELL</CityName>
+<ZipCode>018543629</ZipCode>
+<PhoneNumber>9789344170</PhoneNumber>
+<StreetAddress><![CDATA[600 SUFFOLK ST STE 450]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LTNVSTJ3R6D5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS LOWELL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Lowell]]></Name>
+<CityName>LOWELL</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>018543624</ZipCode>
+<StreetAddress><![CDATA[600 SUFFOLK ST STE 212]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>217Y00</Code>
+<Text>LEAPS-MPS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~112259</FUND_OBLG>
+</Award>
+</rootTag>

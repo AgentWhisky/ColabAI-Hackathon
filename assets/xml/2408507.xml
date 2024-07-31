@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Variational Problems and Patterns in Materials Science: Martensitic Phase Transitions, Superconductivity and Porous Media]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>160000.00</AwardTotalIntnAmount>
+<AwardAmount>105399</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitry Golovaty</SignBlockName>
+<PO_EMAI>dgolovat@nsf.gov</PO_EMAI>
+<PO_PHON>7032922117</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Singularly perturbed variational problems in materials science have attracted significant attention in both mathematical and materials science communities. Crumples in a sheet of paper, wrinkles in curtains, defects in liquid crystals or superconductors share at least one thing in common - they are the results of a certain energy minimization. Hence, this project is aimed at creating novel energy minimizing models, in particular, in metallic alloys, which would be capable of capturing and explaining certain experimentally observable effects. The investigator is developing new mathematical techniques that address the mechanism behind the optimality of these models. Furthermore, these techniques have the potential to be used in other areas of materials science, such as the location of defects in superconductors or the analysis of random porous media, which are also addressed in the project. The project has both scientific and educational components. The importance of this work is not only that it introduces novel variational problems in materials science and develops new methods to analyze them, but it also advances the discovery and understanding of new phenomena and contributes to the development of new materials, such as shape memory alloys. The educational component of the project involves development of special topics courses at Virginia Commonwealth University (VCU) as well as mentorship of graduate and undergraduate students, especially those from underrepresented groups. As a part of this project, an applied mathematics seminar series is being held at VCU by bringing national and international experts to interact with faculty and students.&lt;br/&gt;&lt;br/&gt;The common aim of the project is understanding the structures, formed in a variety of physical systems of practical interest. The first part of the project is devoted to the patterns in martensitic phase transitions, or thermal material transformations, leading to shape memory effect. The investigator is obtaining a theoretical insight on certain experimentally observed phenomena in shape memory alloys, induced by bending and described in the physical literature. The investigator also addresses the effects of anisotropy and develops a novel approach to show that the experimentally observed patterns are energy minimizing. The second part of the project deals with the patterns in the Ginzburg-Landau model of superconductivity.  The investigator considers the variational problem, related to the minimization of Ginzburg-Landau functional with certain (semi-stiff) boundary conditions, and shows that this problem has solutions with defects (vortices) near the domain boundary. The technique of matching upper and lower bounds is used to predict the precise location of these defects. Finally, the third part of the project deals with optimal control problems for porous media equations with stochastic forcing. Optimal control problems have a vast range of applications, ranging from economics to engineering. In this project the investigator considers the porous medium equation, subject to additional stochastic influence, and extends the classic techniques of homogenization theory to the stochastically perturbed optimal control case.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2408507</AwardID>
+<Investigator>
+<FirstName>Oleksandr</FirstName>
+<LastName>Misiats</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Oleksandr Misiats</PI_FULL_NAME>
+<EmailAddress><![CDATA[omisiats@vcu.edu]]></EmailAddress>
+<NSF_ID>000757782</NSF_ID>
+<StartDate>05/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Virginia Commonwealth University]]></Name>
+<CityName>RICHMOND</CityName>
+<ZipCode>232849005</ZipCode>
+<PhoneNumber>8048286772</PhoneNumber>
+<StreetAddress><![CDATA[910 WEST FRANKLIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MLQFL4JSSAA9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA COMMONWEALTH UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>WXQLZ1PA6XP3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Commonwealth University]]></Name>
+<CityName>RICHMOND</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>232980568</ZipCode>
+<StreetAddress><![CDATA[910 WEST FRANKLIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~105399</FUND_OBLG>
+</Award>
+</rootTag>

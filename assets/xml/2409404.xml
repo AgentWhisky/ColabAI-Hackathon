@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Quantum Simulation and Collisions with Ultracold Triatomic Molecules]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>700000.00</AwardTotalIntnAmount>
+<AwardAmount>366058</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mark K. Beck</SignBlockName>
+<PO_EMAI>mkbeck@nsf.gov</PO_EMAI>
+<PO_PHON>7032922983</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Atoms and molecules are the microscopic building blocks of the world. Their behavior and interactions are governed by the theory of quantum mechanics, which describes at a fundamental level much of modern science and technology. Advancing quantum science and technology with atoms and molecules requires cooling to temperatures around one millionth of a degree above absolute zero and exquisitely controlling their structure in the quantum mechanical realm. Over the past several decades, powerful laser cooling techniques have been developed to reach these “ultracold” temperatures with atoms; in turn, a number of discoveries were made that shed light on the intricacies of quantum physics in complicated systems and made progress toward the creation of a useful quantum computer. These techniques have more recently been extended to diatomic molecules (containing two atoms), and very recently to larger, “polyatomic” molecules. Now, Professor John Doyle and his research team of graduate and undergraduate students and postdoctoral researchers will use laser-cooled CaOH (calcium monohydroxide) molecules to study the complex physics governing polyatomic molecules at ultracold temperatures. There are two primary aims of the research. The first is to study collisions of ultracold CaOH molecules, which will shed light on the quantum physics underlying molecular interactions and ultracold chemistry. The second is to control arrays of CaOH molecules at the level needed to build a quantum computer, both by controlling individual molecules in the array and by engineering their interactions. The resulting quantum computer could be used for powerful quantum simulations, e.g. for the development of new technological materials. Additionally, students will be trained in advanced, highly technical experimental methods, adding to the scientific human infrastructure of the nation.&lt;br/&gt;&lt;br/&gt;Professor Doyle and his research team will carry out this research using ultracold CaOH molecules in optical traps (bulk optical dipole traps as well as individual molecules in optical tweezers), using experimental techniques recently developed by the team. They will study the collisions of triatomic molecules in detail and develop techniques for quantum control of collisions, in particular by using the specific structure of polyatomic molecules to shield molecules from lossy short-range interactions, with the vision of carving a path towards a degenerate quantum gas of polyatomic molecules. Direct tests will be made of theory, leading to a better understanding of the relatively unknown territory of quantum-controlled collisions of polyatomic molecules. Researchers will also develop methods to control polyatomic molecules in optical tweezers for use in analog quantum simulators and as qubits in quantum information processing systems. The specific goal is to first characterize the coherence time of potential qubit states that take advantage of the unique structures present in polyatomic molecules. Professor Doyle and his research team will then use dipolar interactions to entangle CaOH molecules in adjacent optical tweezers and use these interactions to engineer quantum gates between polyatomic molecules.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409404</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Doyle</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John Doyle</PI_FULL_NAME>
+<EmailAddress><![CDATA[doyle@physics.harvard.edu]]></EmailAddress>
+<NSF_ID>000086698</NSF_ID>
+<StartDate>07/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021385366</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress><![CDATA[1033 MASSACHUSETTS AVE STE 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LN53LCFJFL45</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021385366</ZipCode>
+<StreetAddress><![CDATA[17 Oxford Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124100</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~366058</FUND_OBLG>
+</Award>
+</rootTag>

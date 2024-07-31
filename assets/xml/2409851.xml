@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SaTC: EDU: Developing Ready-to-Use Hands-on Labs with Portable Operating Environments for Digital Forensics Education]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/15/2023</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>391012.00</AwardTotalIntnAmount>
+<AwardAmount>214907</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11010000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DGE</Abbreviation>
+<LongName>Division Of Graduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>ChunSheng Xin</SignBlockName>
+<PO_EMAI>cxin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927353</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to develop an Instructional Forensics Education Resource (INFER) in the form of multiple step-by-step hands-on labs with accompanying instructional operating environments and study the labs’ impact on student learning in digital forensics. The labs will be portable, comprehensive, expandable, adjustable, and ready-to-use with the required lab environments and materials. Quality digital forensics education emphasizes the importance of gaining practical experience with forensics related platforms and tools. Experiential learning has been well studied for STEM fields, few research works have comprehensively studied the impact of experiential learning on student outcomes in digital forensics education. The current digital forensics education field lacks systematic and comprehensive hands-on labs that are readily available and easy to adopt to conduct such research in depth. The most mature hands-on training avenues for digital forensics are available to limited audiences. &lt;br/&gt;&lt;br/&gt;The proposed INFER lab suite will help improve the digital forensics curriculum, increase student success, generate new knowledge about the impact of experiential learning on digital forensics education, and enhance faculty development through workshops. INFER will distribute the content to other institutions including Historically Black Colleges and Universities (HBCUs). This project broadens the participation of misrepresented groups in digital forensics education and help develop a diverse cybersecurity workforce. The project develops hands-on labs that cover forensics related tools and platforms in various aspects of digital forensics. The labs will contain: step-by-step lab instructions with corresponding screenshots; instructional operating environments mainly in the form of Linux virtual machines with equipped software and tools;  lab materials, including artifacts, files, and skeleton code; and an instructor manual. The project minimizes instructors’ and students’ effort required for environment setup and allows them to focus on the fundamentals of digital forensics. Based on these labs, the project also studies the impact of experiential learning on digital forensics student learning outcomes such as knowledge, skills, and attitudes, an important contribution to a field where such comprehensive study is lacking.&lt;br/&gt;&lt;br/&gt;This project is supported by the Secure and Trustworthy Cyberspace (SaTC) program, which funds proposals that address cybersecurity and privacy, and in this case specifically cybersecurity education. The SaTC program aligns with the Federal Cybersecurity Research and Development Strategic Plan and the National Privacy Research Strategy to protect and preserve the growing social and economic benefits of cyber systems while ensuring security and privacy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409851</AwardID>
+<Investigator>
+<FirstName>Xiaoyan</FirstName>
+<LastName>Sun</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaoyan Sun</PI_FULL_NAME>
+<EmailAddress><![CDATA[xsun7@wpi.edu]]></EmailAddress>
+<NSF_ID>000808204</NSF_ID>
+<StartDate>03/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Worcester Polytechnic Institute]]></Name>
+<CityName>WORCESTER</CityName>
+<ZipCode>016092247</ZipCode>
+<PhoneNumber>5088315000</PhoneNumber>
+<StreetAddress><![CDATA[100 INSTITUTE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJNQME41NBU4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WORCESTER POLYTECHNIC INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Worcester Polytechnic Institute]]></Name>
+<CityName>WORCESTER</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>016092247</ZipCode>
+<StreetAddress><![CDATA[100 INSTITUTE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>806000</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>04002122DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~214907</FUND_OBLG>
+</Award>
+</rootTag>

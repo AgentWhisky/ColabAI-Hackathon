@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Elements: A Computational and Data-Capable Environment for Stochastic Simulation Optimization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>88864.00</AwardTotalIntnAmount>
+<AwardAmount>88864</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ashok Srinivasan</SignBlockName>
+<PO_EMAI>asriniva@nsf.gov</PO_EMAI>
+<PO_PHON>7032922122</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award investigates expanded and improved use of stochastic simulation models for optimal decision making under uncertainty. Simulation optimization (SO) can guide decisions that effectively hedge against risk, thus greater adoption will have many practical benefits across problems of importance to society in, for example, healthcare, transportation, and finance. The award addresses the lack of well-developed cyberinfrastructure for SO, which has hindered progress in the design and testing of efficient and reliable software for solving SO problems known as solvers. Significant steps will be taken to enhance the "SimOpt" testbed of SO problems and solvers to make it more powerful, widely applicable, aligned with emerging data-driven applications, and integral to the research community. Wider use of SimOpt through online content and tutorial workshops will foster more rigorous and reproducible experimentation in SO for researchers and practitioners in different fields and yield high-performing solvers for practical use. The improved library will also provide carefully curated resources for simulation educators to incorporate into their teaching efforts at all levels.&lt;br/&gt;&lt;br/&gt;Research completed for this project will help SimOpt achieve its full potential by improving the existing code base and increasing interoperability, expanding the kinds of experiments and analyses that can be carried out, and extending the role data plays in driving the library's models and problems to open up new frontiers in methodology and algorithm design. The next generation of SimOpt will accelerate advances in SO, including solver development and testing, more extensive experiments comparing new solvers to the state of the art, and hyper-parameter tuning to improve solver performance. The work will create a new data-centered capability in SimOpt that enables more comprehensive study of trace-driven simulation and an empirical risk minimization capability that bridges to closely related areas in machine learning. These data-centered initiatives will enable researchers from diverse fields to better identify and tackle critical open problems in calibration, empirical risk minimization, and distributionally robust optimization. The resulting cyberinfrastructure will enable significant developments in SO solver capabilities, leading to enhanced use of these powerful engines in applications and intellectual bridges to adjacent research communities.&lt;br/&gt;&lt;br/&gt;This award by the Office of Advanced Cyberinfrastructure is jointly supported by the Operations Engineering program in the Division of Civil, Mechanical and Manufacturing Innovation within the NSF Directorate for Engineering.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410950</AwardID>
+<Investigator>
+<FirstName>Shane</FirstName>
+<LastName>Henderson</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shane G Henderson</PI_FULL_NAME>
+<EmailAddress><![CDATA[sgh9@cornell.edu]]></EmailAddress>
+<NSF_ID>000490982</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress><![CDATA[341 PINE TREE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148533801</ZipCode>
+<StreetAddress><![CDATA[136 Hoy Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>006Y00</Code>
+<Text>OE Operations Engineering</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>800400</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>073E</Code>
+<Text>OPTIMIZATION &amp; DECISION MAKING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>077E</Code>
+<Text>SIMULATION MODELS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>077Z</Code>
+<Text>CSSI-1: Cyberinfr for Sustained Scientif</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~88864</FUND_OBLG>
+</Award>
+</rootTag>

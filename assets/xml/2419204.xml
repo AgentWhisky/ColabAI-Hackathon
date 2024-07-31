@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Trustworthy and Ethical AI Tutors with First-Principles/Axiomatic Reasoning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>270000.00</AwardTotalIntnAmount>
+<AwardAmount>270000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dominique Dagenais</SignBlockName>
+<PO_EMAI>ddagenai@nsf.gov</PO_EMAI>
+<PO_PHON>7032922980</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project aims to develop an Artificial Intelligence (AI) or Large Language Model (LLM) -powered conversational system to serve as a digital tutoring system in the domain of quantum information science and engineering (QISE). In contrast to the trend of larger and larger LLMs as in ChatGPT that reason by association, the proposed "Automated Interpretable Reasoning" for QISE (“AIR.QISE”) will reason by deduction to minimize the change of “confidently wrong” responses (hallucination) in tutoring and curriculum support in QISE.  The AIR.QISE will serve as a virtual tutor for students to understand the underlying concepts of quantum networks, irrespective of classroom access to top-tier educational institutions. AIR.QISE will have the capability for deductive reasoning and explaining how it arrived at a conclusion, rather than serve merely as an information retrieval tool. This will encourage students to develop critical thinking, rather than rely on rote learning. The code developed as part of this proposal will be open source, as opposed to the black-box approach of commercial products. An open access and community driven approach will help AIR.QISE generate current and bias-free educational content, since the code can be scrutinized by anyone on the internet. This will be instrumental in developing a workforce equipped with up-to-date knowledge of the latest advances in quantum network science. &lt;br/&gt;&lt;br/&gt;Technical Description&lt;br/&gt;With an initial focus on the domain of quantum networks, AIR.QISE will be based on a QISE-specific knowledge base, computational reasoning algorithms including the LEAN automated theorem proving tool, and interactive simulations based on tools such as QuTip. This EAGER program would support a proof of concept demonstration of AIR.QISE to investigate integrating these techniques with state of the art natural language processing and knowledge representation in a conversational AI framework. A successful program would impact QISE research as well as education and outreach through on-demand quality tutoring. Based on our recent work, we believe that we will be able to push the hallucination rate to near-zero thanks to its construction on numerical “self-simulation” by Sympy, Qutip, and other tools. The proposed knowledge base will moreover enable the system to produce verifiable answers, derived from numerical computation, in response to plain-english queries. &lt;br/&gt;The intellectual merit of AIR.QISE lies in its use of numerical tools to act as a trustworthy tutor capable of (a) first-principles reasoning and (b) provide explanations grounded in fundamental truths. The AIR.QISE framework will incorporate (a) large language model for query interpretation (b) a knowledge database for organized knowledge access and (c) a reinforcement learning module that iteratively refines the system's decision-making capabilities. The LLM will interpret the query and map it to the knowledge database, allowing it to select the most appropriate software tool for the problem statement, allowing AIR.QUISE to provide concrete examples and validate inferences by applying computational logic and numerical simulations.  AIR.QISE will address the challenge of “AI hallucination” by self-verification and admitting when it cannot arrive at an answer. In comparison, standalone LLMs reason by association and are prone to hallucination.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419204</AwardID>
+<Investigator>
+<FirstName>Dirk</FirstName>
+<LastName>Englund</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dirk R Englund</PI_FULL_NAME>
+<EmailAddress><![CDATA[englund@mit.edu]]></EmailAddress>
+<NSF_ID>000550729</NSF_ID>
+<StartDate>04/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125300</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~270000</FUND_OBLG>
+</Award>
+</rootTag>

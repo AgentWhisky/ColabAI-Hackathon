@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Structure of simple amenable C*-algebras]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>243580.00</AwardTotalIntnAmount>
+<AwardAmount>243580</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jan Cameron</SignBlockName>
+<PO_EMAI>jcameron@nsf.gov</PO_EMAI>
+<PO_PHON>7032924544</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project is focused on structural and classification problems of amenable operator algebras. The theory of operator algebras began in the 1930s with the goal of creating a mathematically rigorous foundation for Heisenberg's approach to quantum mechanics.  In Heisenberg's work, observable physical quantities are represented by certain linear operators on Hilbert space (roughly, infinite matrices of complex numbers).  One of the most famous results of quantum mechanics is Heisenberg's uncertainty principle that the momentum and position of a particle cannot be known simultaneously.  The mathematically rigorous version of this statement is that the operators P and Q which measure position and momentum do not commute, i.e., PQ and QP are not equal (there is, however, a precise formula relating P and Q).  Operator algebras is the study of algebraic relations between collections of operators.  Amenable C*-algebras form a particularly important class of operator algebras.  A large-scale effort over the last several decades has shown that, under relatively mild (though still somewhat mysterious) additional hypotheses, the simple (i.e., indecomposable) amenable C*-algebras can be completely classified.  The main goals of this project are to further examine the extra conditions needed for classification, with a view toward more powerful classification results, and to study of the finer structure of the classifiable operator algebras, including their symmetries.  The project will also enhance the mathematics workforce through research opportunities for graduate students, instructional workshops and seminars, and expository material on the main topics of research.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Recent progress in Elliott's Program has shown that separable, simple, nuclear, Z-stable C*-algebras in the UCT class are classified up to isomorphism via their operator K-theory groups, their trace simplex, and the pairing between them.  The Z-stability condition is known to be necessary and is currently the most difficult hypothesis to verify in practice.  The Toms-Winter conjecture predicts that under the other hypothesis, Z-stability follows from an a priori weaker condition known as strict comparison.  Part of the goal of the project is to examine this conjecture.  It is a long-standing open question if every separable nuclear C*-algebra satisfies the UCT.  While the UCT condition is usually easily verified in concrete examples (through a series of deep results in operator K-theory), the UCT continues to be a significant theoretical barrier.  This project will examine the possibility of obtaining classification results without a UCT assumption, at the expense of augmenting the Elliott invariant with KK-theoretic data.  Such classification results without the UCT will be crucial in advancing the structure and classification theory of non-simple nuclear C*-algebras and of group actions on (simple) nuclear C*-algebras.  Indeed, all prior works in this direction suggests that variants of KK-theory accounting for the ideal structure and/or the group action on the C*-algebra will be necessary, and even in most concrete examples, there are no satisfactory analogues of the UCT which account for this extra structure on KK-theory.  It will thus be necessary to work with KK-theory more directly than has been done previously in the (stably finite) classification theory.  Progress in this direction will set the stage for the next stages in the structure and classification theory of nuclear C*-algebras and group actions on such C*-algebras.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400178</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Schafhauser</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher P Schafhauser</PI_FULL_NAME>
+<EmailAddress><![CDATA[cschafhauser2@unl.edu]]></EmailAddress>
+<NSF_ID>000706597</NSF_ID>
+<StartDate>06/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Nebraska-Lincoln]]></Name>
+<CityName>LINCOLN</CityName>
+<ZipCode>685032427</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress><![CDATA[2200 VINE ST # 830861]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NE01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HTQ6K6NJFHA6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Nebraska-Lincoln]]></Name>
+<CityName>LINCOLN</CityName>
+<StateCode>NE</StateCode>
+<ZipCode>685032427</ZipCode>
+<StreetAddress><![CDATA[2200 VINE ST BOX 830861]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NE01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128100</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~243580</FUND_OBLG>
+</Award>
+</rootTag>

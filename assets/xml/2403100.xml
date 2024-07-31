@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FET Medium: Next-generation DNA-based Computing and Memory Materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>1150730.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephanie Gage</SignBlockName>
+<PO_EMAI>sgage@nsf.gov</PO_EMAI>
+<PO_PHON>7032924748</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Conventional silicon-based computing and data storage media have largely plateaued in their arc of advancement over the past decades, ushering in the ends of commonly known Moore’s and Kryder’s Laws. Radically new technological approaches are therefore needed to sustain rapid advances in computing and data storage capabilities across domains of science and technology ranging from financial modeling to bioinformatics, drug discovery, and data storage and encryption. The awarded molecular memory and computing framework based on programmable biological deoxyribonucleic (DNA) molecules offers an innovative, scalable approach to overcome fundamental limitations of current state-of-the-art computing and data storage approaches. Individual nanometer-scale DNA templates are investigated to test the limits of their data storage and computing capabilities. Unique spatial positioning of DNA data stores and compute nodes are patterned across large-scale wafers to facilitate rapid read-out, as well as enable interfacing with conventional electronic and optical data storage and computing media. Fundamental questions include the density of data that can be realized within individual DNA objects and their collections on-surface, the fidelity of data storage/read-out and computing that can be realized, and the parallelization of this storage and computing for eventual two-dimensional (2D) device applications to optical computing and data storage. This biological computing platform fabricated using DNA will engage students from disparate fields and disciplines that are typically isolated, including computer science, biological engineering, materials science, and nanotechnology. Under-represented groups in these disciplines including women will be engaged on campus and through summer programs to mentor them towards graduate and post-graduate careers. This project will therefore help train students for the next-generation workforce enabling a transition to the Bioeconomy, with sustainable materials engineering for next-generation computational and data storage devices.&lt;br/&gt;&lt;br/&gt;Whereas DNA conventionally stores genetic information biologically, it also offers nanoscale patterning and control over materials for alternative data storage and computing approaches. Molecular computing as a field has harnessed this sequence-controlled, information containing property of DNA to perform intricate algorithmic operations and efficient data storage and retrieval. However, these systems generally operate in solution and are largely incompatible with surface-based optical and electronic storage and computing media. In the present project, nanometer-scale DNA origami assemblies are patterned on 2D silicon surfaces to ‘display’ data in a chip-like format. By leveraging the functionality of DNA origami templates, fluorescent barcodes and particles are displayed on the structure to provide optical readout that can be parallelized across large micron-to-millimeter scale substrates. Lithography is used to pattern DNA origami across the substrate with spatial and orientational control, and methods to uniquely identify each origami are explored to enable their use as individual data storage and computing units. Distinct DNA origami template shapes with lithographically patterned matching shapes enable heterogeneous placement on-surface, with parallel imaging offering unique identification of origami objects on the wafer-scale. Nanoparticle placement on origami units offers encoding of unique data stores on each DNA origami template. Incorporation of molecular qubits on these structural DNA origami templates offers optically based computing using quantum gates in a parallel manner that may in principle operate at room temperature. Altogether, transformative approaches to on-surface data storage and computing are explored that offer new strategies to overcome current limitations of conventional data storage and computing media.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403100</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Bathe</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark Bathe</PI_FULL_NAME>
+<EmailAddress><![CDATA[mark.bathe@mit.edu]]></EmailAddress>
+<NSF_ID>000064127</NSF_ID>
+<StartDate>06/25/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>089Y00</Code>
+<Text>FET-Fndtns of Emerging Tech</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7946</Code>
+<Text>BIO COMPUTING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Using non-canonical genetic alphabets to expand genetic codes in synthetic cells]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>510000.00</AwardTotalIntnAmount>
+<AwardAmount>170000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David J. Klinke</SignBlockName>
+<PO_EMAI>dklinke@nsf.gov</PO_EMAI>
+<PO_PHON>7032922890</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Life as we know it relies on a common set of foundational elements, including four standard bases in the genetic alphabet of DNA (G, A, T, and C), and a highly conserved genetic code for the translation of proteins.  Synthetic biology seeks to determine the uniqueness and fungibility of these constraints, and one promise of synthetic cell engineering is to transcend the evolutionary constraints that have been handed down to us and instead create life-like systems with expanded chemistries.  The Ellington and Adamala labs seek to leverage the flexibility, evolvability, adaptability, and safety of purely in vitro (test tube-based) systems, to engineer synthetic cells with expanded genetic alphabets and genetic codes.  In particular, they aim to employ non-canonical nucleotides to broaden the scope of codons (triplet and ultimately new quadruplet codons) in the genetic code, ultimately leading to the incorporation of over 24 amino acids (that have distinctive and biotechnologically useful chemistries) into proteins.  Additionally, the project will focus on the biosafety and biosecurity impacts of expanded genetic alphabets.&lt;br/&gt;&lt;br/&gt;The development of non-canonical genetic alphabets and codes is rapidly advancing, with various groups exploring novel genetic alphabets that are becoming more accessible both in vitro and in vivo. Successful generation of an 8-letter code, and enzymatic incorporation in vitro, demonstrated utility of this technology for engineering novel genetic systems. However, adapting non-canonical genetic alphabets to non-canonical genetic codes presents challenges, mainly due to interdependencies within biological systems. Attempts to modify genetic alphabets and codes have faced systemic disruptions and fitness impacts in natural cells. In response, the focus is shifting towards synthetic cells, which offer greater control over systems biology, free from the evolutionary constraints of natural cells. This proposal aims to utilize synthetic cells for engineering efforts, particularly exploring the implementation of quadruplet codons for genetic code expansion, a task challenging to address in living cells. The synthetic cell approach allows for rationally designed, bottom-up experimentation and the concomitant resolution of complexities related to codon instantiation, contributing insights to both living and synthetic systems. In this work, the researchers will investigate the incorporation of non-canonical nucleotides into translation (Aim 1), followed by the incorporation of non-canonical amino acids via non-canonical genetic alphabets (Aim 2). Finally, they will use artificial evolution to optimize translation systems with non-canonical nucleotides and amino acids (Aim 3). Collectively, this project will explore biological diversity beyond that which currently exists in nature and is supported by the Systems and Synthetic Biology Cluster of the Division of Molecular and Cellular Biosciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419641</AwardID>
+<Investigator>
+<FirstName>Kate</FirstName>
+<LastName>Adamala</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kate Adamala</PI_FULL_NAME>
+<EmailAddress><![CDATA[kadamala@umn.edu]]></EmailAddress>
+<NSF_ID>000728679</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress><![CDATA[200 OAK ST SE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of he University of Minnesota]]></Name>
+<CityName>Minneapolis</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554550446</ZipCode>
+<StreetAddress><![CDATA[6-160 Jackson Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>801100</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~170000</FUND_OBLG>
+</Award>
+</rootTag>

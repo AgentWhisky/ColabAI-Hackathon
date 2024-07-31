@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[GOALI: Development of Next Generation MXene-based Li-S Batteries with Practical Operating Temperatures]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>488522.00</AwardTotalIntnAmount>
+<AwardAmount>321635</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carole Read</SignBlockName>
+<PO_EMAI>cread@nsf.gov</PO_EMAI>
+<PO_PHON>7032922418</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The workhorse of energy storage for transportation and personal electronics has been, and remains, the lithium-ion battery. And while that technology has proven to be quite robust and useful, one of its major drawbacks is the amount of energy they store. An alternate battery technology that has seen extensive research in the last decade is lithium-sulfur (Li-S) batteries. All else being equal and assuming some hurdles can be overcome, the Li-S battery would have 2-3 times the energy storage capacity of current lithium-ion batteries. It follows that if an electric car’s current range is 200 miles, its range if equipped with a Li-S battery would be 400-600 miles. Two important hurdles that need to be overcome for Li-S batteries are: the nature of the electrolyte between the electrodes and their rapid fade. In this project, the researchers, together with industry partners, will address both problems. Currently, most of the research in Li-S batteries make use of electrolytes (ether) that are highly volatile and pose safety risks when operated above room temperature. Moreover, additives to this electrolyte comes with serious transport regulations due to degassing safety concerns. In this project, the researchers will make use of the same electrolyte that is currently being used for Li-ion batteries, which has an excellent safety record and can be used at temperatures higher than room temperature. The second problem of the rapid fade in capacity with cycling is another challenge. To solve that problem the researchers will study new 2-dimensional materials (think sheets of paper at the atomic level) to immobilize the S, both physically and chemically, to prevent it from shuttling between the battery electrodes that leads to their fade. In terms of broader impact, the researchers, by partnering with a major battery company and an end-use heavy-duty automotive company, will ensure industrial relevance of the research. If successful, this technology could lead to longer lasting batteries, creating new jobs and ensuring that the United States becomes a major player in the energy storage field. Educational broader impact will be achieved by providing training and research opportunities for graduate students pursuing PhDs and undergraduates’ involvement in the research. &lt;br/&gt;&lt;br/&gt;This fundamental GOALI project will address two key barriers for Li-S battery performance, an electrolyte that can operate at higher temperatures and mitigation of capacity loss due to polysulfide shuttling loss. The project will study a new class of materials to host sulfur, S-terminated MXenes. MXenes are two-dimensional (2D) carbides and/or nitrides discovered at Drexel in 2011 that exhibit metallic conductivity. Preliminary results have shown that MXenes are one of the few material platforms that allow both physical and chemical confinement/immobilization of S, thus reducing/minimizing the polysulfide shuttle effect. The MXenes’ metallic conductivity and “dual-immobilization” strategy will allow stable operation in carbonate electrolytes, while still enabling &gt;70 wt.% S, with 7 mg/cm2 loadings and 83% effective S utilization (1400 mAh/g) – all necessary pre-requisites to approach the application targeted 500 Wh/kg. The cathode research on synthesis, fabrication, and study of redox activity of S-MXene cathodes will be integrated with carbonate electrolyte engineering to further suppress possible adverse polysulfide-carbonate reactions by reducing the electrophilicity. Post-mortem and in-operando spectroscopic and microscopic studies will be conducted to elucidate the quasi-solid-state redox pathways in S-terminated MXene hosts, detect the presence of polysulfides, or other undesired side products, from S-carbonate interactions. Cell-level Newman-type modeling, identifying limiting phenomena will further guide material design. The ultimate objective of this GOALI project - in collaboration with industry partners - is to develop Li-S batteries with practical S-loadings and S-utilizations that stably operate in high boiling point commercial carbonate electrolytes for application in heavy-duty battery electric vehicles.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2427203</AwardID>
+<Investigator>
+<FirstName>Vibha</FirstName>
+<LastName>Kalra</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vibha Kalra</PI_FULL_NAME>
+<EmailAddress><![CDATA[vk69@cornell.edu]]></EmailAddress>
+<NSF_ID>000560367</NSF_ID>
+<StartDate>04/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress><![CDATA[341 PINE TREE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148502820</ZipCode>
+<StreetAddress><![CDATA[341 PINE TREE RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>164200</Code>
+<Text>Special Initiatives</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>764400</Code>
+<Text>EchemS-Electrochemical Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~321634</FUND_OBLG>
+</Award>
+</rootTag>

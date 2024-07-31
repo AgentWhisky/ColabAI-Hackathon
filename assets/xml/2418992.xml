@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: A Hierarchical Computational Framework for Modeling Active Skeletal Muscles Across Scales]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>249894.00</AwardTotalIntnAmount>
+<AwardAmount>249894</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitry Golovaty</SignBlockName>
+<PO_EMAI>dgolovat@nsf.gov</PO_EMAI>
+<PO_PHON>7032922117</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Skeletal muscles, with their intricate hierarchical structures, are essential for generating the forces required for movement and stability. However, understanding their biomechanics is challenging due to their complex structural, architectural, biophysical, and mechanical aspects. Computational modeling offers a valuable, non-invasive approach to assess and predict the biomechanical behavior of skeletal muscles. This project aims to establish a comprehensive computational framework for hierarchical modeling of skeletal muscles, emphasizing the integration of knowledge from various domains, including computational methods, constitutive mathematical models, microstructural intricacies, muscle function complexities, and human dynamics. By deepening these integrations, the project contributes to advancing fundamental understanding and fosters cross-disciplinary insights that benefit the broader scientific community, while also providing students with opportunities for multidisciplinary research training.&lt;br/&gt;The project will develop advanced numerical methods and a series of finite element models for the hierarchical simulation of skeletal muscles across different length scales. By investigating multiscale muscle behaviors, this work will advance our understanding of muscle aging, injuries, and pathologies, including macroscopic and large-scale responses. Additionally, by merging commercial software and user-defined scripts, the project aims to enhance computational platforms for modeling soft tissues and other nonlinear materials undergoing large deformations. These efforts have the potential to inspire further research in tissue biomechanics and computational mechanics, contributing to scientific progress and promoting diversity within STEM through educational and outreach initiatives.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418992</AwardID>
+<Investigator>
+<FirstName>Wei</FirstName>
+<LastName>Zeng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wei Zeng</PI_FULL_NAME>
+<EmailAddress><![CDATA[wzeng03@nyit.edu]]></EmailAddress>
+<NSF_ID>000902376</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New York Institute of Technology]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100237606</ZipCode>
+<PhoneNumber>5166867737</PhoneNumber>
+<StreetAddress><![CDATA[1855 BROADWAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SVZSJHR2A4T6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York Institute of Technology]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100237606</ZipCode>
+<StreetAddress><![CDATA[1855 BROADWAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>217Y00</Code>
+<Text>LEAPS-MPS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~249894</FUND_OBLG>
+</Award>
+</rootTag>

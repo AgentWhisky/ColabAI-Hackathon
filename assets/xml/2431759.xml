@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: PBI: Entrepreneurial Ecosystems: Configurations and Critical Success Factors]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>289802.00</AwardTotalIntnAmount>
+<AwardAmount>289802</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rebecca Shearman</SignBlockName>
+<PO_EMAI>rshearma@nsf.gov</PO_EMAI>
+<PO_PHON>7032927403</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project aims to develop a new data platform and analytical toolset for modeling PBI across all 381 US metropolitan statistical areas (MSAs). Our research addresses state-of-the-art topics related to both “what” (configurations) and “why” (trajectories) questions concerning the dynamics of entrepreneurial ecosystems. We analyze both the static conditions of ecosystems to develop a typology with unique configurations and characteristics of successful ecosystems as well as the dynamic movements of ecosystems over time. The results of this analysis are expected to make novel contributions that are highly relevant to policymakers looking to support innovation through place-based policy, especially as the current policy push is exploring ways to invest in regions outside of highly successful hubs such as Silicon Valley to broaden the scope of US competitiveness, supporting the development of nascent regions, and fostering new advanced industry hubs. &lt;br/&gt;&lt;br/&gt;We will first conduct a configuration analysis to categorize different types of ecosystems, recognizing that ecosystems are heterogenous. To do so, we will accumulate data tracking diverse and multifaceted characteristics of an ecosystem, including metrics and indicators on aspects of innovation, human capital, industry, infrastructure, and culture. We will employ fuzzy-set qualitative comparative analysis (fsQCA) to analyze this dataset which will delineate the different configurations of entrepreneurial ecosystems. Second, we conduct a pioneering study to identify different models and pathways that a region may follow as it develops into an entrepreneurial ecosystem. The study will use the historical trajectories, spatial topologies, and sector orientations of regions to understand how economies transform. Together, these analytical steps will allow not only understanding the current state of affairs in ecosystems, but also how they evolved over time and what are their future trends in both technological and socioeconomic perspectives. A multi-disciplinary research design will combine classical economic theory with modern methods of analysis (fsQCA) and case studies from multiple places.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2431759</AwardID>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Vonortas</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nicholas S Vonortas</PI_FULL_NAME>
+<EmailAddress><![CDATA[vonortas@gwu.edu]]></EmailAddress>
+<NSF_ID>000160910</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Alexander</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey M Alexander</PI_FULL_NAME>
+<EmailAddress><![CDATA[jmalexander@rti.org]]></EmailAddress>
+<NSF_ID>000800764</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[George Washington University]]></Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200520042</ZipCode>
+<PhoneNumber>2029940728</PhoneNumber>
+<StreetAddress><![CDATA[1918 F ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ECR5E2LU5BL6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE WASHINGTON UNIVERSITY (THE)</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Washington University]]></Name>
+<CityName>WASHINGTON</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200520042</ZipCode>
+<StreetAddress><![CDATA[1918 F ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>301Y00</Code>
+<Text>NSF Engines - Type 2</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01AC2324DB</Code>
+<Name><![CDATA[R&RA DRSA DEFC AAB]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~289802</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAPS-MPS: Unveiling the Ultra-High-Energy Universe with the Giant Radio Array for Neutrino Detection (GRAND)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>249995.00</AwardTotalIntnAmount>
+<AwardAmount>249995</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kathleen McCloud</SignBlockName>
+<PO_EMAI>kmccloud@nsf.gov</PO_EMAI>
+<PO_PHON>7032928236</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Most of our knowledge about the Universe comes from the observation of photons, including microwaves, X-rays and gamma rays.   However for very large energies the Universe is not transparent.   In order to study the highest energy phenomena, one must look at ultra high energy (UHE) neutrinos.    They can address important questions such as the nature of dark matter, the possibility of new particles and interactions at energy scales beyond the Large Hadron Collider and new fundamental symmetries.   The PI will join the GRAND (Giant Radio Array for Neutrino Detection) observatory which has been proposed to study UHE neutrinos.    When these neutrinos enter the atmosphere, they will interact and produce large particle showers that will emit radio signals.   GRAND will detect these emissions with the most extensive array of radio antennas ever assembled.   There are several projects in the proposal that will each have significant student participation and will be accessible to undergraduates as well as Masters students at a Hispanic-serving institution.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The proposal consists of three projects for the GRAND observatory.    This observatory has the potential to make major contributions to multi-messenger astronomy.    It will detect much-awaited cosmogenic neutrinos and distinguish the contributions of newborn pulsars, AGNs, afterglows of gamma-ray bursts and galaxy clusters.   The three projects will make ample use of modern Machine Learning techniques to develop software and various statistical tools for the detection and analysis of UHE neutrinos.   They will implement a fast and accurate model parameter regression framework for the reconstruction of air showers using modern optimization algorithms, efficient disentangle real radio signals from background noise by configuring and training a Convolutional Denoising Autoencoder and will use modern Machine Learning methods to build a fast and accurate emulator for radio emissions from extensive air showers.   The project will establish a GRAND team at SF State and provide opportunities for students to participate in numerical modeling and lear research computing techniques.  They will create programming tutorials and enhance the MasterClass program led by the PI.&lt;br/&gt; &lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418730</AwardID>
+<Investigator>
+<FirstName>Oscar</FirstName>
+<LastName>Macias Ramirez</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Oscar A Macias Ramirez</PI_FULL_NAME>
+<EmailAddress><![CDATA[macias@sfsu.edu]]></EmailAddress>
+<NSF_ID>000958187</NSF_ID>
+<StartDate>05/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[San Francisco State University]]></Name>
+<CityName>SAN FRANCISCO</CityName>
+<ZipCode>941321740</ZipCode>
+<PhoneNumber>4153387090</PhoneNumber>
+<StreetAddress><![CDATA[1600 HOLLOWAY AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4SLJ5WF59F6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SAN FRANCISCO STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[San Francisco State University]]></Name>
+<CityName>SAN FRANCISCO</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>941321722</ZipCode>
+<StreetAddress><![CDATA[1600 HOLLOWAY AVE BUILDING NAD ROOM 358C]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>217Y00</Code>
+<Text>LEAPS-MPS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~249995</FUND_OBLG>
+</Award>
+</rootTag>

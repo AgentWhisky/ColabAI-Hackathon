@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Unsteady Reynolds averaged Navier-Stokes models and computational fluid dynamics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>220000.00</AwardTotalIntnAmount>
+<AwardAmount>220000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ludmil T. Zikatanov</SignBlockName>
+<PO_EMAI>lzikatan@nsf.gov</PO_EMAI>
+<PO_PHON>7032922175</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The project will conduct research on the numerical solution of turbulent ﬂows. Fluids transport and mix heat, chemical species, and contaminants. Accurate simulation of turbulent flow is essential for safety critical prediction and design in applications involving these and other eﬀects. Turbulent ﬂow prediction in science , engineering and industry requires the use of turbulence models. The research project has 3 objectives: increasing accuracy of these models, decreasing model complexity and exploring a promising algorithmic idea for computer solution of models. The proposed research also develops the expertise of graduate students in computational and applied mathematics while working on compelling problems addressing human needs. In their development into independent scientists, each student will develop their own research agenda and collaborate at points of contact among the problems studied.&lt;br/&gt; &lt;br/&gt;Modeling turbulence presents challenges at every level in every discipline it touches.  2-equation Unsteady Reynolds Averaged Navier-Stokes models are common in applications and also the ones with the most incomplete mathematical foundation. They have many calibration parameters, work acceptably for ﬂows similar to the calibration data set and require users to have an intuition about which model predictions to accept and which to ignore. The project’s model analysis will address model accuracy, complexity and reliability. Even after modeling, greater computational resources are often required for their computational solution. In 1991 Ramshaw and Mesina proposed a non-obvious synthesis of penalty and artiﬁcial compression methods, resulting in a dispersive regularization of ﬂuid motion. When the two effects were balanced, they reported a dramatic accuracy improvement over the most eﬃcient current methods. The project will develop, improve and test the method based on a new analysis of energy ﬂow.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/07/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/07/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2410893</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Layton</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William J Layton</PI_FULL_NAME>
+<EmailAddress><![CDATA[wjl+@pitt.edu]]></EmailAddress>
+<NSF_ID>000259930</NSF_ID>
+<StartDate>06/07/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Pittsburgh]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152600001</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress><![CDATA[4200 FIFTH AVENUE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MKAGLD59JRL1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF PITTSBURGH - OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pittsburgh]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152600001</ZipCode>
+<StreetAddress><![CDATA[4200 FIFTH AVENUE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~220000</FUND_OBLG>
+</Award>
+</rootTag>

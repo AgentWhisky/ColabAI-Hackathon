@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Hypoelliptic and Non-Markovian stochastic dynamical systems in machine learning and mathematical finance: from theory to application]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>165248.00</AwardTotalIntnAmount>
+<AwardAmount>152899</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project investigates stochastic analysis and numerical algorithms for stochastic dynamical systems, together with their applications in machine learning and finance. The first part focuses on the foundations of machine learning/data science, which guarantees the theoretical convergence of numerical algorithms (e.g., stochastic gradient descent, Markov Chain Monte Carlo) in non-convex optimization and multi-modal distribution sampling. This project will develop algorithms to solve such problems in big data and engineering, which include uncertainty quantification in AI safety problems, control robotics motions, and image processing. The second part focuses on the stochastic models in mathematical finance and algorithm designs in option/asset pricing. The applications in this part target efficient algorithms for path-dependent option pricing with rough volatilities, which are expected to significantly impact some computation-oriented financial instruments, such as model-based algorithm trading involving rough volatility and high-frequency data. This project will provide support and research opportunities for graduate and undergraduate students. &lt;br/&gt;&lt;br/&gt;The stochastic systems in this project possess degenerate, mean-field, or non-Markovian properties. In the first part, the PI will study the "hypocoercivity" (i.e., convergence to equilibrium) for highly degenerate and mean-field stochastic dynamical systems and their applications to algorithms design in machine learning. One of the proposed topics will focus on the (non)-asymptotic analysis of the general degenerate/mean-field system and its exponential convergence rate to the equilibrium (e.g., Vlasov-Fokker-Planck equations; Langevin dynamics on higher order nilpotent Lie groups). As applications of the convergence of such dynamics, the PI will design algorithms focusing on non-convex optimizations and distribution samplings in machine learning. In the second part, the PI will study non-Markovian stochastic dynamical systems capturing path-dependent and mean-field features of the financial market. The topics include path-dependent PDEs, stochastic Volterra integral equations, conditional mean-field SDEs, and the Volterra signatures. The PI focuses on addressing the fundamental issues, including the density for the rough volatility model and conditional mean-field SDEs and the structure of Volterra signatures. Furthermore, the PI focuses on designing efficient numerical algorithms using the Volterra signature and deep neural networks. These algorithms target solving path-dependent PDEs, path-dependent option pricing, and optimal stopping/switching problems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/06/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/06/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2420029</AwardID>
+<Investigator>
+<FirstName>Qi</FirstName>
+<LastName>Feng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Qi Feng</PI_FULL_NAME>
+<EmailAddress><![CDATA[qfeng2@fsu.edu]]></EmailAddress>
+<NSF_ID>000864581</NSF_ID>
+<StartDate>02/06/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Florida State University]]></Name>
+<CityName>TALLAHASSEE</CityName>
+<ZipCode>323060001</ZipCode>
+<PhoneNumber>8506445260</PhoneNumber>
+<StreetAddress><![CDATA[874 TRADITIONS WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JF2BLNN4PJC3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida State University]]></Name>
+<CityName>TALLAHASSEE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>323060001</ZipCode>
+<StreetAddress><![CDATA[TALLAHASSEE, FL 323060001]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~152899</FUND_OBLG>
+</Award>
+</rootTag>

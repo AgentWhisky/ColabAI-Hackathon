@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Reactor Antineutrino Physics with JUNO]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>750000.00</AwardTotalIntnAmount>
+<AwardAmount>750000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Wester</SignBlockName>
+<PO_EMAI>wwester@nsf.gov</PO_EMAI>
+<PO_PHON>7032924677</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The primary goal of this work is to play a leading role in the production of the first scientific results from the Jiangmen Underground Neutrino Observatory (JUNO) and to involve high school teachers and their students directly in this research. Neutrinos are elementary particles that provide insight into the fundamental makeup of our world and the sources that produce them. JUNO is an international experiment featuring a 20,000-ton liquid scintillator neutrino target observed by over 43,000 photomultiplier tubes (PMTs) and surrounded by 35,000 tons of ultrapure water. By studying the disappearance of reactor antineutrinos from eight nuclear reactors at a baseline of about 53 km, JUNO aims to determine the order of neutrino masses and measure three parameters driving neutrino oscillation with approximately one order of magnitude better precision than currently available. JUNO will also break new ground in the search for new physics and the study of neutrinos from the Sun, the Earth, supernovae, and the interaction of cosmic rays with the atmosphere, providing complementary information to that obtained via other channels.&lt;br/&gt;&lt;br/&gt;The JUNO group at UC Irvine is involved in the construction, commissioning, data analysis, and leadership of JUNO. The group co-leads the installation and commissioning of the 25,600 3-inch “small” PMT system and the efforts to get it ready for physics. The group is also co-responsible for planning and deploying a calibration for the 20-inch PMT system’s instrumental non-linearity using the small PMT system, which will directly impact many of the results released by the experiment. The PI co-convenes the working group responsible for analyzing the rich reactor antineutrino dataset collected by JUNO and its satellite detector, TAO. The UC Irvine group actively participates in this work through the development of its own analysis framework and is preparing to play a leading role in the release of JUNO’s first physics results with reactor antineutrinos, some already expected to achieve world-leading precision. This cutting-edge research will train young scientists from diverse backgrounds and develop expertise in areas of strategic importance, such as nuclear physics, data science, and machine learning. Moreover, high school students and their teachers will engage through activities organized in partnership with the QuarkNet organization, including masterclasses, workshops, school visits, and research internships.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411802</AwardID>
+<Investigator>
+<FirstName>Juan</FirstName>
+<LastName>Ochoa-Ricoux</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Juan P Ochoa-Ricoux</PI_FULL_NAME>
+<EmailAddress><![CDATA[jpochoa@uci.edu]]></EmailAddress>
+<NSF_ID>000792986</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>IRVINE</CityName>
+<ZipCode>926970001</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress><![CDATA[160 ALDRICH HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA47</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MJC5FCYQTPE6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA IRVINE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MJC5FCYQTPE6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Jiangmen Underground Neutrino Observatory (JUNO)]]></Name>
+<CityName>Kaiping City Jiangmen City</CityName>
+<StateCode/>
+<ZipCode>529386</ZipCode>
+<StreetAddress><![CDATA[Zhongweizi Shiyanzhan, Jinji Town]]></StreetAddress>
+<CountryCode>CH</CountryCode>
+<CountryName>China</CountryName>
+<StateName>RI REQUIRED</StateName>
+<CountryFlag>0</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF>""</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>723500</Code>
+<Text>Particle Astrophysics/Undergro</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7235</Code>
+<Text>UNDERGROUND PHYSICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~750000</FUND_OBLG>
+</Award>
+</rootTag>

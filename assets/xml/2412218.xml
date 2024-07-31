@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Generation and manipulation of spatially entangled states of structured photon pairs with 2D material quantum holograms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>169535.00</AwardTotalIntnAmount>
+<AwardAmount>65513</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yaroslav Koshka</SignBlockName>
+<PO_EMAI>ykoshka@nsf.gov</PO_EMAI>
+<PO_PHON>7032924986</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical description:&lt;br/&gt;Quantum entanglement is one fundamental phenomenon in quantum physics, which lies at the heart of future applications in quantum computing, communication, and information processing. Development of the sources of entangled photon pairs is important for the quantum science and technology. One common method to generate entangled photon pairs is spontaneous parametric down-conversion in second-order nonlinear crystals. Spatially entangled states of photon pairs are crucial for realizing high-capacity quantum computing, communication, and information processing, but the existing schemes to generate these states are based on bulky nonlinear crystals and free-space components. A major challenge is how to realize miniaturized spatially entangled photon-pair sources with nanometer thickness and high performance for on-chip quantum state engineering. In this project, a new concept of ultrathin 2D material quantum holograms will be demonstrated for directly generating and manipulating spatially entangled states of photon pairs through spontaneous parametric down-conversion. This research will benefit many emerging applications in integrated quantum light sources, quantum photonic chips, 2D material-based quantum optics, and quantum state engineering. This project also includes educational activities for training graduate students, recruiting underrepresented and female students, and mentoring high school students.&lt;br/&gt;&lt;br/&gt;Technical description:&lt;br/&gt;High-dimensional maximally entangled states with spatial degree of freedom provide a crucial resource for realizing high-capacity quantum computing, communication, and information processing. However, the existing schemes to generate these spatially entangled states are based on bulky nonlinear crystals and free-space components, which greatly limits the development of ultracompact entangled quantum light sources. The goal of this project is to explore a new concept of ultrathin 2D material quantum holograms based on 2D materials with giant second-order nonlinearities for directly generating and manipulating spatially entangled states of structured photon pairs. In this project, the design, sample fabrication, and experimental characterization of ultrathin 2D material quantum holograms will be performed to demonstrate the direct generation and manipulation of spatially entangled photon pairs. The unique 2D material quantum holograms producing specific spatial mode profiles are designed and demonstrated for engineering the maximally entangled states with the tailored weights and phases. This project will advance the integration of quantum light sources and quantum photonic devices based on 2D materials into the next-generation quantum chips.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412218</AwardID>
+<Investigator>
+<FirstName>Xiaodong</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaodong Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[yangxia@mst.edu]]></EmailAddress>
+<NSF_ID>000631278</NSF_ID>
+<StartDate>05/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Missouri University of Science and Technology]]></Name>
+<CityName>ROLLA</CityName>
+<ZipCode>654091330</ZipCode>
+<PhoneNumber>5733414134</PhoneNumber>
+<StreetAddress><![CDATA[300 W. 12TH STREET]]></StreetAddress>
+<StreetAddress2><![CDATA[202 CENTENNIAL HALL]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y6MGH342N169</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Missouri University of Science and Technology]]></Name>
+<CityName>ROLLA</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>654091330</ZipCode>
+<StreetAddress><![CDATA[300 W. 12TH STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177500</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~65513</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Semi-global Kuranishi Structures in Symplectic Field Theory]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>350000.00</AwardTotalIntnAmount>
+<AwardAmount>110904</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Swatee Naik</SignBlockName>
+<PO_EMAI>snaik@nsf.gov</PO_EMAI>
+<PO_PHON>7032924876</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Contact manifolds are a special type of space that naturally emerges in various contexts. For instance, they are used to describe the orbital paths of satellites. Taking the satellite scenario, for example, a natural question to ask is whether there are recurring orbits that a satellite can traverse. Contact homology offers a systematic way to explore the geometric features of these contact manifolds. In the satellite scenario, one can gain deep insights into all possible orbital paths of satellites by analyzing recurring satellite orbits. Contact homology has been highly successful in distinguishing different contact manifolds. This project aims to refine our understanding of contact manifolds using an enhanced approach based on contact homology. Furthermore, the PI intends to apply the techniques developed in this process to study other types of spaces beyond contact manifolds, such as spaces with symmetries. Symmetries play a crucial role in many aspects of daily life. For instance, ensuring that machine learning models treat people fairly, irrespective of their gender or race, reflects a key symmetry requirement. To address these issues, the PI will conduct an REU (Research Experience for Undergraduates) program focused on developing symmetrical neural networks to mitigate gender and racial biases.&lt;br/&gt;&lt;br/&gt;Symplectic Field Theory, introduced two decades ago, aims to provide invariants for symplectic and contact manifolds. It encompasses essential concepts such as cylindrical contact homology, contact homology, chain homotopy types of contact differential graded algebras (dga), and linearized contact homology. The projects presented here revolve around the foundational aspects of Symplectic Field Theory. The primary challenge addressed by the Principal Investigator (PI) concerns achieving transversality while preserving symmetries to derive the desired algebraic formula. Various tools and techniques, including obstruction bundle gluing and evaluation maps for cylindrical contact homology, and semi-global Kuranishi structures for contact homology, have been introduced or employed by the PI. The project applies these tools to investigate two specific invariants: the chain homotopy type of contact dga and linearized contact homology. Furthermore, the PI has developed a new tool, the semi-global Kuranishi structure for clean intersections, which lies between obstruction bundle gluing and semi-global Kuranishi structures. This tool offers increased computational efficiency and bridges seemingly unrelated techniques. The project also aims to establish a Smith-type rank inequality related to the Floer homology of the fixed point set, contributing to the understanding of the L-space conjecture.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404529</AwardID>
+<Investigator>
+<FirstName>Erkao</FirstName>
+<LastName>Bao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Erkao Bao</PI_FULL_NAME>
+<EmailAddress><![CDATA[bao@umn.edu]]></EmailAddress>
+<NSF_ID>000864935</NSF_ID>
+<StartDate>05/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress><![CDATA[200 OAK ST SE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554552009</ZipCode>
+<StreetAddress><![CDATA[206 Church St. SE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126500</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~110904</FUND_OBLG>
+</Award>
+</rootTag>

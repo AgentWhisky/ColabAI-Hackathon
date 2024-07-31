@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Quasimaps to Nakajima Varieties]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>244777.00</AwardTotalIntnAmount>
+<AwardAmount>80023</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+<PO_EMAI>mdouglas@nsf.gov</PO_EMAI>
+<PO_PHON>7032922467</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Counting curves in a given space is a fundamental problem of enumerative geometry. The origin of this problem can be traced back to quantum physics, and especially string theory, where the curve counting provides transition amplitudes for elementary particles. In this project the PI will study this problem for spaces that arise as Nakajima quiver varieties. These spaces are equipped with internal symmetries encoded in representations of quantum loop groups. Thanks to these symmetries, the enumerative geometry of Nakajima quiver varieties is extremely rich and connected with many areas of mathematics. A better understanding of the enumerative geometry of Nakajima quiver varieties will lead to new results in representation theory, algebraic geometry, number theory, combinatorics and theoretical physics. Many open questions in this field are suitable for graduate research projects and will provide ideal opportunities for students' rapid introduction to many advanced areas of contemporary mathematics.&lt;br/&gt; &lt;br/&gt;More specifically, this project will investigate and compute the generating functions of quasimaps to Nakajima quiver varieties with various boundary conditions, uncover new dualities between these functions, and prove open conjectures inspired by 3D-mirror symmetry. The project will also reveal new arithmetic properties of the generating functions via the analysis of quantum differential equations over p-adic fields. The main technical tools to be used include the (algebraic) geometry of quasimap moduli spaces, equivariant elliptic cohomology, representation theory of quantum loop groups, and integral representations of solutions of the quantum Knizhnik-Zamolodchikov equations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401380</AwardID>
+<Investigator>
+<FirstName>Andrey</FirstName>
+<LastName>Smirnov</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrey Smirnov</PI_FULL_NAME>
+<EmailAddress><![CDATA[asmirnov@live.unc.edu]]></EmailAddress>
+<NSF_ID>000786469</NSF_ID>
+<StartDate>04/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275995023</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress><![CDATA[104 AIRPORT DR STE 2200]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D3LHU66KBLD5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName>CHAPEL HILL</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>275995023</ZipCode>
+<StreetAddress><![CDATA[104 AIRPORT DR STE 2200]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~80023</FUND_OBLG>
+</Award>
+</rootTag>

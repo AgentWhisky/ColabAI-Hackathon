@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Studies in Moduli Theory and Birational Geometry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+<PO_EMAI>mdouglas@nsf.gov</PO_EMAI>
+<PO_PHON>7032922467</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The area of study of this project lies within algebraic geometry, the branch of mathematics devoted to geometric shapes called algebraic varieties, defined by polynomial equations. Algebraic geometry has significant applications in in coding, industrial control, computation, and in theoretical physics, where physicists consider algebraic varieties as a piece of the fine structure of our universe. One focus of this project is moduli theory, which studies a remarkable phenomenon in which the collection of all algebraic varieties of the same type is often manifested as an algebraic variety, called a moduli space, in its own right. Thus in algebraic geometry, the metaphor of thinking about a community of "organisms" as itself being an "organism" is not just a metaphor but a rigorous and quite useful fact. A second focus in this project is birational geometry, focusing here on resolution of singularities. Resolution of singularities is a fundamental procedure where "bad" points of an algebraic variety are removed and replaced by "good" points; it is the most powerful tool in the hands of a binational geometer. The project will provide research training opportunities for graduate students. &lt;br/&gt;&lt;br/&gt;In more detail, regarding moduli spaces the PI will study the enumerative geometry of certain moduli spaces of surfaces, a decades-old challenge. In an area where birational geometry and moduli spaces overlap, the PI will continue to study the birational geometry of stack theoretic weighted blowups, a transformation that occurs frequently on moduli spaces that has proven instrumental in describing their geometry. Regarding resolutions of singularities, new algorithms will be developed for logarithmic resolution that are remarkably simpler than earlier ones, an algorithm for resolution in the presence of a nested family of foliations will be developed, and singularity invariants in positive characteristic will be studied that will lead to new insights into the formidable challenges of resolution in positive characteristic. These efforts will serve as platforms to directly mentor PhD students and young researchers, and for lectures and training programs reaching broader audiences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401358</AwardID>
+<Investigator>
+<FirstName>Dan</FirstName>
+<LastName>Abramovich</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dan Abramovich</PI_FULL_NAME>
+<EmailAddress><![CDATA[dan_abramovich@brown.edu]]></EmailAddress>
+<NSF_ID>000091538</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Brown University]]></Name>
+<CityName>PROVIDENCE</CityName>
+<ZipCode>029129100</ZipCode>
+<PhoneNumber>4018632777</PhoneNumber>
+<StreetAddress><![CDATA[1 PROSPECT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>RI01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E3FDXZ6TBHW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BROWN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E3FDXZ6TBHW3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Brown University]]></Name>
+<CityName>PROVIDENCE</CityName>
+<StateCode>RI</StateCode>
+<ZipCode>029129127</ZipCode>
+<StreetAddress><![CDATA[1 PROSPECT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>RI01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125300</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~250000</FUND_OBLG>
+</Award>
+</rootTag>

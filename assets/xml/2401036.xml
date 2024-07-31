@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAISE: CET: Design and operation of community-informed equity-based virtual power plants for achieving impact in Philadelphia]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>999790.00</AwardTotalIntnAmount>
+<AwardAmount>999790</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carole Read</SignBlockName>
+<PO_EMAI>cread@nsf.gov</PO_EMAI>
+<PO_PHON>7032922418</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Research Advanced by Interdisciplinary Science and Engineering (RAISE) award is made in response to Dear Colleague Letter 23-109, as part of the NSF-wide Clean Energy Technology initiative. Virtual Power Plants (VPPs) are collections of distributed energy resources, such as batteries, and rooftop solar, which can be intelligently coordinated to improve the reliability, affordability, and sustainability of the electric grid. Traditional VPP models and programs are afflicted by both barriers and disproportionate risks to participants in disadvantaged communities (DACs). This is, in part, due to insufficient data for understanding how socio-technical factors influence energy flexibility and how providing opportunities for community input can improve the VPP design process. Further, algorithms and computational models for making technology and control decisions have neglected fairness and equity. To address these gaps, this project works directly with DACs in Philadelphia to design and evaluate new approaches to VPP participation that consider the unique conditions within a community along with issues of preference and fairness.  &lt;br/&gt;&lt;br/&gt;The goal of this project is to construct new models for equity-based design and control of VPPs from the ground up, considering the unique conditions and priorities in DACs. It adopts an interdisciplinary fusion of methods and data to solve the challenging problem of characterizing the needs and preferences of potential VPP participants in a way that facilitates new computational methods for design and control. The project uniquely focuses on services-based approaches, rather than considering electricity as a mere commodity, which enables new perspectives on what it means to deliver energy justice and equity within engineered systems. New equity-promoting and privacy-aware algorithms, with the ability to seamlessly resolve misspecification in model parameters by utilizing a learning layer, are studied, which will have broader application to other domains. Further, DAC participation in VPPs can potentially broaden the beneficial impacts of VPPs by monetizing behavioral flexibilities in access to energy services, a novel consideration for the basic science of VPP optimization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401036</AwardID>
+<Investigator>
+<FirstName>Uday</FirstName>
+<LastName>Shanbhag</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Uday V Shanbhag</PI_FULL_NAME>
+<EmailAddress><![CDATA[udaybag@psu.edu]]></EmailAddress>
+<NSF_ID>000106424</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chelsea</FirstName>
+<LastName>Schelly</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chelsea L Schelly</PI_FULL_NAME>
+<EmailAddress><![CDATA[cschelly@mtu.edu]]></EmailAddress>
+<NSF_ID>000649385</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Julian</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Julian Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[julian.wang@psu.edu]]></EmailAddress>
+<NSF_ID>000718213</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Pavlak</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gregory Pavlak</PI_FULL_NAME>
+<EmailAddress><![CDATA[gxp93@psu.edu]]></EmailAddress>
+<NSF_ID>000762655</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matt</FirstName>
+<LastName>Stern</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matt L Stern</PI_FULL_NAME>
+<EmailAddress><![CDATA[mstern@philaenergy.org]]></EmailAddress>
+<NSF_ID>000958566</NSF_ID>
+<StartDate>05/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168021503</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPM2J7MSCF61</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE PENNSYLVANIA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>168021503</ZipCode>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>268Y00</Code>
+<Text>CET Strategic Investments</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>049Z</Code>
+<Text>RAISE-Research Advanced by Interdiscipli</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01AB2324DB</Code>
+<Name><![CDATA[R&RA DRSA DEFC AAB]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~999790</FUND_OBLG>
+</Award>
+</rootTag>

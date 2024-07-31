@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: The Biothreats Emergence, Analysis, and Communications Network (BEACON)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>199979.00</AwardTotalIntnAmount>
+<AwardAmount>199979</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samuel Scheiner</SignBlockName>
+<PO_EMAI>sscheine@nsf.gov</PO_EMAI>
+<PO_PHON>7032927175</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will develop an open-source Large Language Model that will be able to identify, verify, prioritize, summarize and predict outcomes of disease emergence events in humans, other animals, and plants. That model will link detected signals and model outputs to human verification and public health context with the goal of sharing event reports on a publicly available web platform. BEACON, based at Boston University’s Center on Emerging infectious Diseases, is a web-based platform and accompanying public health program which aims to address this need by leveraging advanced AI and a global network of human subject matter experts to rapidly collect, analyze, and disseminate information on emerging disease threats. The current lack of similar free resources for the global community makes this initiative both&lt;br/&gt;transformative and timely. The impact of an independent, open-access, disease surveillance platform that utilizes advanced AI with human subject-matter oversight for near real-time reporting and analysis of emerging threats is substantial. BEACON will aid in global capacity strengthening and tailored international and national preparedness and response. It will empower policymakers, public health, and healthcare practitioners, and the public through actionable information, ultimately driving proactive measures to prevent and mitigate the spread of emerging threats.&lt;br/&gt;&lt;br/&gt;The exploratory approach of integrating AI/LLM into both discovery and assessment of new biological events will create a specialized large language model for processing vast datasets in order to detect potential biothreats. The developing machine learning algorithms will be capable of predicting the epidemic and pandemic potential of any new outbreak by integrating AI findings and predictive intelligence with trusted human expert verification and analysis. The LLM will be used to classify and rank new signals and reports depending on their relevance and importance, provide features (text embeddings) for predictive modeling, and compose/translate reports to be edited/approved by human subject matter experts. It will produce reports and data tools that will provide context for action, and disseminate and share the data and analyses via a user-friendly multilingual web platform that will operate as a global public good.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2433726</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Brownstein</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John Brownstein</PI_FULL_NAME>
+<EmailAddress><![CDATA[john.brownstein@childrens.harvard.edu]]></EmailAddress>
+<NSF_ID>000621063</NSF_ID>
+<StartDate>07/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ioannis</FirstName>
+<LastName>Paschalidis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ioannis Paschalidis</PI_FULL_NAME>
+<EmailAddress><![CDATA[yannisp@bu.edu]]></EmailAddress>
+<NSF_ID>000104809</NSF_ID>
+<StartDate>07/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nahid</FirstName>
+<LastName>Bhadelia</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nahid Bhadelia</PI_FULL_NAME>
+<EmailAddress><![CDATA[nbhadeli@bu.edu]]></EmailAddress>
+<NSF_ID>000864664</NSF_ID>
+<StartDate>07/23/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151703</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>THL6A6JLE1S7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF BOSTON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>022151703</ZipCode>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>Y10400</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425RB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~199979</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: ORCC: Integrating evolutionary adaptive capacity and trophic dynamics to predict multi-species responses to climate change]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>664796.00</AwardTotalIntnAmount>
+<AwardAmount>664796</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Patrick Abbot</SignBlockName>
+<PO_EMAI>dkabbot@nsf.gov</PO_EMAI>
+<PO_PHON>7032924740</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Changing climates are a major challenge for humans and nature. One of the most important scientific questions of the 21st century is “What will determine the vulnerability of species and biological communities to environmental disruption?” Addressing this question, however, is extremely challenging because changes in climate are complex, evolutionary history will determine species’ sensitivity, and species’ responses will be affected by the complex food webs of which they are a part. For example, even if a predator species is relatively insensitive to warming temperatures, it may still be vulnerable if the prey species it feeds on are sensitive and disappear. The research team will investigate thermal vulnerabilities of cutthroat trout predators and tailed frog tadpole prey in mountain streams of the U.S. Pacific Northwest using a multidisciplinary approach that combines cutting-edge DNA sequencing technology, physiology experiments, and high-performance computer modeling. This is an excellent predator-prey case study to investigate this question, as cutthroat trout are important predators of tailed frog tadpoles, both species are cold-water specialists that are sensitive to warming, and both species are of conservation concern. Thus, results of this study will be important for informing their conservation and management. The research team will work closely with federal and state natural resource agencies to make sure that results are useful for informing decisions about the conservation and management of stream biodiversity. The team will develop a web-based tool to help managers assess environmental vulnerabilities. The project will also provide training for four early career researchers. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;It is essential to integrate organismal, ecological, and evolutionary perspectives to predict the vulnerability of species and biological communities to global change. The proposed research will use a highly interdisciplinary approach to test several novel hypotheses about the mechanisms underlying environmental vulnerability in a predator (cutthroat trout) – prey (tailed frog) system in streams of the U.S. Pacific Northwest. In Aim 1, the research team will test whether predators (cutthroat trout) are more sensitive to increasing temperatures than their prey (tailed frogs) using a combination of environmental characterization, genomics, and physiology to quantify thermal adaptation. In Aim 2, they will test whether different dimensions of adaptive capacity (dispersal, evolutionary potential, and acclimation ability) differ between predators and prey by using genomics to characterize patterns and rates of connectivity across the landscape and evolutionary potential, and physiology to quantify acclimation. In Aim 3, the team will determine how predator-prey interactions respond to temperature and flow by quantifying the diet of cutthroat trout and energy content of tailed frogs, and by using a mechanistic food web model to predict how climate change-driven changes in energy flow and food web dynamics will affect cutthroat trout-tailed frog interactions. In Aim 4, they will integrate the results from Aims 1-3 using an individual-based, eco-evolutionary model to predict how species interactions, intraspecific variation in sensitivity, and adaptive capacity act synergistically to determine spatial patterns of thermal vulnerability in cutthroat trout and tailed frogs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413359</AwardID>
+<Investigator>
+<FirstName>Chris</FirstName>
+<LastName>Funk</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chris Funk</PI_FULL_NAME>
+<EmailAddress><![CDATA[Chris.Funk@colostate.edu]]></EmailAddress>
+<NSF_ID>000252918</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kara</FirstName>
+<LastName>Anlauf-Dunn</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kara J Anlauf-Dunn</PI_FULL_NAME>
+<EmailAddress><![CDATA[kara.j.anlauf-dunn@odfw.oregon.gov]]></EmailAddress>
+<NSF_ID>000917729</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Dunham</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jason Dunham</PI_FULL_NAME>
+<EmailAddress><![CDATA[jdunham@usgs.gov]]></EmailAddress>
+<NSF_ID>000917511</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joe</FirstName>
+<LastName>Benjamin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joe Benjamin</PI_FULL_NAME>
+<EmailAddress><![CDATA[jbenjamin@usgs.gov]]></EmailAddress>
+<NSF_ID>000988446</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Colorado State University]]></Name>
+<CityName>FORT COLLINS</CityName>
+<ZipCode>805212807</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress><![CDATA[601 S HOWES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LT9CXX8L19G1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLORADO STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Colorado State University]]></Name>
+<CityName>FORT COLLINS</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>805214593</ZipCode>
+<StreetAddress><![CDATA[200 W. Lake St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>208Y00</Code>
+<Text>ORCC-Organism Resp Clim Change</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~664796</FUND_OBLG>
+</Award>
+</rootTag>

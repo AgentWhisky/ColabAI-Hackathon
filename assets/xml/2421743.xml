@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Development of a novel self-powered Multimodal pH, pressure and temperature MEMS sensor for marine carbon dioxide removal]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>622016.00</AwardTotalIntnAmount>
+<AwardAmount>622016</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kandace Binkley</SignBlockName>
+<PO_EMAI>kbinkley@nsf.gov</PO_EMAI>
+<PO_PHON>7032927577</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Human activities have significantly increased atmospheric CO2 concentration. Marine carbon dioxide removal (mCDR) techniques have emerged as a promising solution to mitigate climate change caused by increased CO2 levels, aiming to enhance natural biological and chemical processes in the ocean to absorb and store more carbon from the atmosphere. Monitoring pH is fundamentally important for mCDR, playing a crucial role in assessing environmental impact, optimizing the processes, and ensuring the overall success and sustainability of mCDR efforts. However, current pH sensors face limitations such as low sensitivity and accuracy, drifting with pressure and temperature changes, and discontinuity due to limited power. In this proposal, researchers from three universities (UNT, UMich, and UCSD) are collaborating to develop a novel marine energy-powered multimodal MEMS (Micro-Electro-Mechanical System) sensor array that can simultaneously detect pH, pressure, and temperature. This innovative device aims to provide uninterrupted, highly sensitive, and accurate pH measurements across vast ocean areas with varying depths.  The proposed self-powered sensing system can also be adapted for other applications such as wave and tide gauging, tsunami detection, ocean surveys, seabed subsidence monitoring, inverted echo sounders, towed arrays, and calibration of underwater mapping systems. Additionally, the researchers will engage industrial offshore instrument developers and governmental labs to accelerate the deployment of the proposed instrument, particularly in mCDR, sustainable ocean monitoring, and ocean renewable energy fields. Furthermore, this project will also significantly benefit the three participating universities by supporting curriculum development, professional non-technical skills training, and research mentoring for graduate, undergraduate, and K-12 students, with an emphasis on diversity, equity, and inclusion.&lt;br/&gt;&lt;br/&gt;In this project we propose a MEMS resonant pH sensor that can significantly enhance the sensitivity, accuracy, and energy-sustainability of current pH sensors, addressing the challenges confronting the mCDR research community. This research focuses on three key areas: (1) the design, fabrication, and testing of a multimodal pH, pressure, and temperature sensor based on a piezoelectric single crystal wafer for highly sensitive and accurate pH measurements while remaining unaffected by variations in pressure and temperature; (2) the design, fabrication, and testing of a novel ocean wave energy converter that can break the fundamental challenge of mismatch of vibration frequency of small buoys and the low ocean wave excitation frequency, thus enabling efficient energy harvesting to provide sustainable power for uninterrupted long-term operation of the sensor system; and (3) system integration and test in the wave tank at UMich, and field demonstration at the marine lab facility at the Scripps Institution of Oceanography at UCSD. Upon successful completion, this novel tool will be suitable for long-term deployment in marine environments for mCDR monitoring.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421743</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Dickson</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew G Dickson</PI_FULL_NAME>
+<EmailAddress><![CDATA[adickson@ucsd.edu]]></EmailAddress>
+<NSF_ID>000264350</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Haifeng</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Haifeng Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[haifeng.zhang@unt.edu]]></EmailAddress>
+<NSF_ID>000518236</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of North Texas]]></Name>
+<CityName>DENTON</CityName>
+<ZipCode>762051132</ZipCode>
+<PhoneNumber>9405653940</PhoneNumber>
+<StreetAddress><![CDATA[1112 DALLAS DR STE 4000]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G47WN1XZNWX9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH TEXAS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Texas]]></Name>
+<CityName>DENTON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>762051132</ZipCode>
+<StreetAddress><![CDATA[1112 DALLAS DR STE 4000]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>168000</Code>
+<Text>OCEAN TECH &amp; INTERDISC COORDIN</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~622016</FUND_OBLG>
+</Award>
+</rootTag>

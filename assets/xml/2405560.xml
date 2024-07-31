@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EMERGENT SPIN TEXTURES AND DYNAMICS OF 2D MATERIALS]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>793715.00</AwardTotalIntnAmount>
+<AwardAmount>591720</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Mann</SignBlockName>
+<PO_EMAI>elmann@nsf.gov</PO_EMAI>
+<PO_PHON>7032922655</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical abstract&lt;br/&gt;&lt;br/&gt;The discovery of two-dimensional (2D) magnets opens the door to the exploration of magnetic behavior in these ultra-thin materials. However, it is a challenge to study these thin materials with tools designed for macroscopically large samples, making it hard to create accurate models of their magnetic properties. To tackle this challenge, the research team uses special X-ray and optical techniques that are sensitive to very thin samples, along with theoretical models to understand the properties of 2D magnets. The PI and team aim to focus on two main areas: (1) studying the nanoscale magnetic patterns in 2D magnets; and (2) exploring the low-energy dynamics of 2D magnets. The research work aims to develop electronic and magnetic devices for applications in low-power storage and computing, which are important for creating energy-efficient big data platforms in the age of artificial intelligence. The project includes a program to give research opportunities to college students from schools with fewer science resources, helping to reduce academic inequality and bring more diversity to STEM graduate programs.&lt;br/&gt;&lt;br/&gt;Technical abstract&lt;br/&gt;&lt;br/&gt;The study and characterization of the microscopic spin physics in two-dimensional (2D) magnets is a timely topic at the frontier of materials research. The discovery of atomically thin magnets adds a new building block and creates opportunities to realize novel spin phenomena in 2D quantum nanomaterials. However, the microscopic spin physics of this new class of materials in the ultrathin limit is inaccessible to several probes of bulk materials, hindering the development of quantitative models of emergent 2D magnetism. The research team approaches this important challenge using advanced X-ray and optical spectroscopy and scattering probes together with theoretical modeling of the microscopic interactions and magnetic phase diagram using ab initio (DFT) and Monte Carlo methods. The PI and team seek to pursue two main research directions: (1) the study of ground state magnetic textures in 2D magnets and heterostructures; and (2) the study of low-energy spin dynamics in 2D magnets. These activities are poised to significantly advance our understanding of spin phenomena in low-dimensional systems and serve to guide new applications in nanoengineered systems and devices. Additionally, the project includes a pilot program offering longitudinal research experiences to undergraduates from institutions with limited STEM opportunities, aiming to reduce academic inequality and diversify graduate applicant pools, alongside outreach activities for middle school students focused on materials research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2405560</AwardID>
+<Investigator>
+<FirstName>Riccardo</FirstName>
+<LastName>Comin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Riccardo Comin</PI_FULL_NAME>
+<EmailAddress><![CDATA[rcomin@MIT.EDU]]></EmailAddress>
+<NSF_ID>000727094</NSF_ID>
+<StartDate>06/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>171000</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~591720</FUND_OBLG>
+</Award>
+</rootTag>

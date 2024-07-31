@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Theory and algorithms for a new class of computationally amenable nonconvex functions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>240330.00</AwardTotalIntnAmount>
+<AwardAmount>240330</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jodi Mead</SignBlockName>
+<PO_EMAI>jmead@nsf.gov</PO_EMAI>
+<PO_PHON>7032927212</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>As the significance of data science continues to expand, nonconvex optimization models become increasingly prevalent in various scientific and engineering applications. Despite the field's rapid development, there are still a host of theoretical and applied problems that so far are left open and void of rigorous analysis and efficient methods for solution. Driven by practicality and reinforced by rigor, this project aims to conduct a comprehensive investigation of composite nonconvex optimization problems and games. The technologies developed will offer valuable tools for fundamental science and engineering research, positively impacting the environment and fostering societal integration with the big-data world. Additionally, the project will educate undergraduate and graduate students, cultivating the next generation of experts in the field.&lt;br/&gt;&lt;br/&gt;This project seeks to advance state-of-the-art techniques for solving nonconvex optimization problems and games through both theoretical and computational approaches. At its core is the innovative concept of "approachable difference-of-convex functions," which uncovers a hidden, asymptotically decomposable structure within the multi-composition of nonconvex and non-smooth functions. The project will tackle three main tasks: (i) establishing fundamental properties for a novel class of computationally amenable nonconvex and non-smooth composite functions; (ii) designing and analyzing computational schemes for single-agent optimization problems, with objective and constrained functions belonging to the aforementioned class; and (iii) extending these approaches to address nonconvex games.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2416250</AwardID>
+<Investigator>
+<FirstName>Ying</FirstName>
+<LastName>Cui</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ying Cui</PI_FULL_NAME>
+<EmailAddress><![CDATA[yingcui@berkeley.edu]]></EmailAddress>
+<NSF_ID>000836998</NSF_ID>
+<StartDate>03/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~240330</FUND_OBLG>
+</Award>
+</rootTag>

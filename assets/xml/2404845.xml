@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Nonlinear PDE in Complex Geometry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>193767.00</AwardTotalIntnAmount>
+<AwardAmount>193767</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Qun Li</SignBlockName>
+<PO_EMAI>qli@nsf.gov</PO_EMAI>
+<PO_PHON>7032927465</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The existence of canonical metrics has been an active research focus in geometry over the last century with immediate ties to the fields of general relativity and string theory. Canonical metrics can provide valuable insight into the specific geometry of geometric objects called manifolds. An example of canonical metrics are solutions to the Einstein field equations which relate the geometry of a spacetime, specifically the curvature, with the distribution of matter, energy and stress. In complex geometry, Calabi-Yau metrics, which are those with zero Ricci curvature, are a prime example of canonical metrics and their existence is directly related to solving a particular nonlinear partial differential equation called the complex Monge-Ampere equation. The equations of unified string theories are expected to yield new notions of canonical metrics as well as special geometries. This project aims to further our understanding of the existence of certain canonical metrics by developing necessary tools and new techniques in partial differential equations. Furthermore, the project will continue the PI's involvement in mentoring undergraduate and graduate students and organizing numerous seminars and conferences, with an emphasis on the inclusion of women and under-represented groups. &lt;br/&gt;&lt;br/&gt;The project will pursue a program in which the PI will investigate several geometric problems related to canonical&lt;br/&gt;metrics on a complex manifold and the classification of algebraic varieties using the methods of nonlinear partial differential equations. One of the main goals is to prove existence of constant scalar curvature Hermitian metrics by obtaining a priori estimates and applying them to glean insight into the geometry of the complex manifold through the use of a continuity path or parabolic flow approach. In addition, the PI would like to transform our understanding of canonical metrics on a given manifold to the problem of searching for a family of canonical metrics given by the process of reducing a complex manifold to its minimal model, as per Mori's Minimal Model program, and the Analytic Minimal Model program by Song-Tian.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404845</AwardID>
+<Investigator>
+<FirstName>Xi Sisi</FirstName>
+<LastName>Shen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xi Sisi Shen</PI_FULL_NAME>
+<EmailAddress><![CDATA[xss@math.columbia.edu]]></EmailAddress>
+<NSF_ID>000865733</NSF_ID>
+<StartDate>05/15/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100277922</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress><![CDATA[615 W 131ST ST]]></StreetAddress>
+<StreetAddress2><![CDATA[MC 8741]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100276902</ZipCode>
+<StreetAddress><![CDATA[2990 Broadway, RM 415, MC 4422]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126500</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~193767</FUND_OBLG>
+</Award>
+</rootTag>

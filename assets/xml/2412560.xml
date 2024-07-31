@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[AGS-PRF: Extending the Applicability of Monin-Obukhov Similarity Theory (MOST)-based Surface Layer Parameterizations to Complex Surfaces in Earth System Models (ESMs)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>202000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020105</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yu Gu</SignBlockName>
+<PO_EMAI>ygu@nsf.gov</PO_EMAI>
+<PO_PHON>7032928796</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Fundamental for modeling both weather and climate is how models exchange energy and moisture between the land (and ocean) surface and the atmosphere above it. For the past five decades, modelers have relied on a theory called Monin-Obukhov Similarity Theory (MOST) to model surface exchanges. MOST, however, is known for significant errors in its ability to predict how much heat and moisture is exchanged, which can have considerable impacts on the model’s ability to accurately predict weather events, and long-term climate. Recent investigations over groups of meteorological towers, however, have provided a promising method to account for these deviations from the ideal, traditional MOST using the anisotropy of turbulence to create new surface exchange relations (the Stiperski relations). The goal of this research is to examine the broad applicability of the Stiperski relations, extend the point-based studies to the atmospheric model grid, and develop schemes to estimate the anisotropy of turbulence. In total, this will allow for complete, updated, surface-atmosphere exchange schemes that are ready for implementation in regional and global weather and climate models. Since these schemes are used in virtually every atmospheric model, the potential impacts for weather and climate prediction globally are significant.&lt;br/&gt;&lt;br/&gt;The anisotropy-based generalizations of MOST to complex terrain will be examined as part of the work. These modified relations may be able to capture the deviations from MOST specifically around non-homogeneous surfaces, and non-stationarity. To assess the validity of the Stiperski relations, the research will examine them over 7 years of turbulence data from the 45, ecologically diverse eddy-covariance tower sites in the NSF funded National Ecological Observation Network (NEON). The next step in the research will be to examine if these relations derived for point-based towers can apply successfully in a gridded context using a high resolution (10m, 10m, 3m) large eddy simulation (LES). The LES will be conducted under various conditions over five of the NEON sites, using LiDAR point clouds from NEON to simulate a full picture of the surface and canopy. Finally, as the Stiperski relations are a function of turbulence anisotropy, the work will leverage NEON as well as satellite data to relate anisotropy to surface and flow characteristics that are available in large scale models, culminating in the completed surface exchange relations that are ready for broad implementation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412560</AwardID>
+<Investigator>
+<FirstName>Tyler</FirstName>
+<LastName>Waterman</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tyler S Waterman</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000974383</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Waterman, Tyler Steven]]></Name>
+<CityName>Durham</CityName>
+<ZipCode>27708</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>Salt Lake City</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841121109</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>713700</Code>
+<Text>Postdoctoral Fellowships</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5740</Code>
+<Text>CLIMATE &amp; LARGE-SCALE DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~100000</FUND_OBLG>
+</Award>
+</rootTag>

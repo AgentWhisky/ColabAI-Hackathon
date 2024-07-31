@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: A High-Throughput Single-Molecule Nanosensor to Characterize Loading Efficiency of Gene Delivery Preparations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>98157</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aleksandr Simonian</SignBlockName>
+<PO_EMAI>asimonia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922191</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Liposomes are nano- and microscopic lipid bubbles that can be filled with DNA and injected into the human body to fix a defective gene. Liposome-mediated gene therapy offers promises for greatly improving therapeutic efficacy, but this promise depends on the quality of liposome DNA loading uniformity. Current methods for quantifying DNA loading uniformity in liposomes are cumbersome, time-consuming, and expensive. This work proposes a nanosensor technology that could quantify DNA loading efficiency on a single-liposome basis, providing improved accuracy in DNA dosage. Successful completion of this work will enable future gene therapy clinical trials to be more effective. The highly interdisciplinary nature of this research will generate excitement among students across a broad spectrum of STEM interests throughout the academic training and outreach programs.&lt;br/&gt;&lt;br/&gt;The Investigators propose to design a bimodal optical-electrical nanosensor that utilizes nanopores to rupture liposomes and analyze their contained genetic contents. The proposed nanosensor, suitable for clinical settings, aims to quickly and accurately determine the encapsulation efficiency of circular DNA (cDNA)-loaded liposomes for gene therapy. The nanosensor features a double-nanopore architecture, with each nanopore serving a specific purpose: (1) An applied voltage bias will electrophoretically drive a liposome to the first silica (SiO2) nanopore, which has a smaller diameter than the liposome. The walls of the nanopore will exert a shear force, rupturing the liposome. (2) The released cDNA will then translocate across the second amorphous silicon nitride (SixNy) nanopore, verifying the presence of genetic material. Above the SixNy nanopore is a 100 nm gold layer with a double nanohole (DNH) architecture. A laser focused onto the DNH will optically trap the cDNA molecule immediately after translocating through the SixNy nanopore. While cDNA is held in the optical trap, the voltage bias will be reversed, removing the liposome fragments from the nanosensor. The optical trap will then be turned off, and a recapturing protocol will be applied to repeatedly translocate the cDNA molecule across the SixNy nanopore to improve the signal-to-noise ratio (SNR) of optical-electrical measurements used to verify cDNA loop integrity. These measurements will quantify the fraction of liposomes that are empty, loaded with a single, intact cDNA, or with fragmented or multiple cDNAs. Importantly, the nanosensor technology has the potential to serve as an analytical tool for other soft nanoparticles, such as viruses and exosomes. Successful completion of this work will enable future clinical trials in gene therapy to be more effective, while also offering highly interdisciplinary training to undergraduate and graduate students.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421778</AwardID>
+<Investigator>
+<FirstName>MinJun</FirstName>
+<LastName>Kim</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>MinJun Kim</PI_FULL_NAME>
+<EmailAddress><![CDATA[mjkim@lyle.smu.edu]]></EmailAddress>
+<NSF_ID>000491434</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Southern Methodist University]]></Name>
+<CityName>DALLAS</CityName>
+<ZipCode>752051902</ZipCode>
+<PhoneNumber>2147684708</PhoneNumber>
+<StreetAddress><![CDATA[6425 BOAZ ST RM 130]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D33QGS3Q3DJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOUTHERN METHODIST UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>S88YPE3BLV66</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Southern Methodist University]]></Name>
+<CityName>DALLAS</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>752051902</ZipCode>
+<StreetAddress><![CDATA[6425 BOAZ ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>790900</Code>
+<Text>BIOSENS-Biosensing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1639</Code>
+<Text>SENSORS AND SENSING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~98157</FUND_OBLG>
+</Award>
+</rootTag>

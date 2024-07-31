@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Advances in Randomization Inference for Causal Effects: Heterogeneity, Sensitivity, and Complexity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>145499</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yulia Gel</SignBlockName>
+<PO_EMAI>ygel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927888</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Understanding causal effects holds significant importance in various social, biomedical, and industrial studies, as it plays a vital role in decision making and policy formulation. This project aims to create innovative statistical methodologies that provide a more comprehensive understanding of causal effect heterogeneity, a more reliable assessment of the sensitivity of causal conclusions to unmeasured confounding in observational studies, and robust inference for modern complex experiments. The research has the potential to answer questions in such a diverse set of disciplines, as political science, education, and sociology. For instance, the project can help address inquiries regarding the proportion of individuals who benefit from a specific policy to any extent, in addition to the usual average treatment effects. The PI intends to disseminate the research outputs through publications, presentations, and the distribution of open-source software. Additionally, the educational and outreach activities will be systematically integrated to the  research agenda, aiming to enhance undergraduate education, spread causality knowledge to the broader audiences, and equip graduate students with the critical skills allowing them to become in-depth researchers and human-centered educators.&lt;br/&gt;&lt;br/&gt;The Principal Investigator plans to develop new tools that provide a more comprehensive and robust understanding of causal effects in both randomized experiments and observational studies. These tools will be built upon or inspired by the randomization inference, which uses the randomization of treatment assignments as the reasoned basis. The project has three primary objectives. First, the PI will develop inference techniques for the distribution of individual causal effects, which is an important concern in practice, yet difficult to infer due to its unidentifiability from the observed data. Second, the project will deliver new sensitivity analyses that can accommodate extreme hidden confounding in observational studies, which can strengthen the causal conclusions. Third, the PI will develop robust inference methods for complex randomized experiments that go beyond simple randomization or involve peer influence. Finally, the project will provide new computationally efficient algorithms and will create publicly available R software packages that will facilitate the use of these new tools in applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/06/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400961</AwardID>
+<Investigator>
+<FirstName>Xinran</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xinran Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[xinranli@illinois.edu]]></EmailAddress>
+<NSF_ID>000844747</NSF_ID>
+<StartDate>11/06/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUE9HKT2CLC9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ZUE9HKT2CLC9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606375418</ZipCode>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~58280</FUND_OBLG>
+<FUND_OBLG>2024~87219</FUND_OBLG>
+</Award>
+</rootTag>

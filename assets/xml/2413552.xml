@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Statistical Network Integration]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>114999.00</AwardTotalIntnAmount>
+<AwardAmount>37235</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yulia Gel</SignBlockName>
+<PO_EMAI>ygel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927888</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project pursues the contemporary problem of statistical network integration facing scientists, practitioners, and theoreticians. The study of networks and graph-structured data has received growing attention in recent years, motivated by investigations of complex systems throughout the biological and social sciences. Models and methods have been developed to analyze network data objects, often focused on single networks or homogeneous data settings, yet modern available data are increasingly heterogeneous, multi-sample, and multi-modal. Consequently, there is a growing need to leverage data arising from different sources that result in multiple network observations with attributes. This project will develop statistically principled data integration methodologies for neuroimaging studies, which routinely collect multiple subject data across different groups (strains, conditions, edge groups), modalities (functional and diffusion MRI), and brain covariate information (phenotypes, healthy status, gene expression data from brain tissue). The investigators will offer interdisciplinary mentoring opportunities to students participating in the research project and co-teach a workshop based on the proposed research.&lt;br/&gt;&lt;br/&gt;The goals of this project are to establish flexible, parsimonious latent space models for network integration and to develop efficient, theoretically justified inference procedures for such models. More specifically, this project will develop latent space models to disentangle common and individual local and global latent features in samples of networks, propose efficient spectral matrix-based methods for data integration, provide high-dimensional structured penalties for dimensionality reduction and regularization in network data, and develop cross-validation methods for multiple network data integration. New theoretical developments spanning concentration inequalities, eigenvector perturbation analysis, and distributional asymptotic results will elucidate the advantages and limitations of these methods in terms of signal aggregation, heterogeneity, and flexibility. Applications of these methodologies to the analysis of multi-subject brain network data will be studied. Emphasis will be on interpretability, computation, and theoretical justification.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413552</AwardID>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Cape</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joshua Cape</PI_FULL_NAME>
+<EmailAddress><![CDATA[jrcape@wisc.edu]]></EmailAddress>
+<NSF_ID>000789937</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LCLSJAGTNZQ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~37235</FUND_OBLG>
+</Award>
+</rootTag>

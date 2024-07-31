@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Arithmetic Structure in Dense Sets]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>350000.00</AwardTotalIntnAmount>
+<AwardAmount>117039</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project focuses primarily on three different problems in number theory, combinatorics, and ergodic theory. This includes work in additive combinatorics concerning generalizations of Szemerédi's theorem on arithmetic progressions (sequences of numbers that are all equally spaced, like 4, 6, 8, and 10), which, informally, says that any sufficiently large collection of whole numbers contains a long arithmetic progression. It is a central problem in additive combinatorics to determine how large "sufficiently large" is. The investigator will study versions of this question involving more complicated patterns than arithmetic progressions, and then use the results and techniques developed to make progress on a related problem in ergodic theory. The investigator will also study the size and structure of integer distance sets, which are sets of points whose pairwise distances are all whole numbers. This award will support undergraduate summer research on representation theory and additive combinatorics, and also support the training of graduate students.&lt;br/&gt;&lt;br/&gt;More specifically, the investigator will build on her previous work on quantitative bounds for subsets of the integers lacking polynomial progressions of distinct degrees and for subsets of vector spaces over finite fields lacking a certain four-point configuration to tackle more general polynomial, multidimensional, and multidimensional polynomial configurations. The results for multidimensional polynomial configurations of distinct degree will then be used to make progress on the Furstenberg--Bergelson--Leibman conjecture in ergodic theory, which concerns the pointwise almost everywhere convergence of certain nonconventional ergodic averages. She will also investigate the size and structure of integer distance sets, in both the Euclidean plane and in higher dimensions, by encoding them as subsets of rational points on certain families of varieties and then studying these varieties. With her undergraduate students, the investigator will study the distribution of entries in the character tables of symmetric groups and some algorithmic problems in higher-order Fourier analysis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401117</AwardID>
+<Investigator>
+<FirstName>Sarah</FirstName>
+<LastName>Peluse</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sarah Peluse</PI_FULL_NAME>
+<EmailAddress><![CDATA[speluse@umich.edu]]></EmailAddress>
+<NSF_ID>000786701</NSF_ID>
+<StartDate>04/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091079</ZipCode>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~117039</FUND_OBLG>
+</Award>
+</rootTag>

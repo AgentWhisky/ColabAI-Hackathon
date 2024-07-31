@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[LEAP-HI: GOALI: Accelerating Design for Additive Manufacturing of Smart Multimaterial Devices]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>1989747.00</AwardTotalIntnAmount>
+<AwardAmount>1856257</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Kramer</SignBlockName>
+<PO_EMAI>bkramer@nsf.gov</PO_EMAI>
+<PO_PHON>7032925348</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Additive manufacturing (AM), also known as 3D Printing, is the process of making customized parts layer-by-layer, directly from a digital file without the need for part-specific tooling.  Relative to conventional manufacturing processes, AM can shorten lead times, reduce waste, avoid supply chain disruptions, and enable unprecedented levels of functionality, design freedom, and customization with significant benefit to industries ranging from aerospace systems to medical devices.  This Leading Engineering for America's Prosperity, Health, and Infrastructure (LEAP-HI) Grant Opportunity for Academic Liaison with Industry (GOALI) project supports fundamental research to establish new AM capabilities for smart devices that can be rapidly customized for individual patients and enable engineered changes in shape as the patients’ needs change.  The highly integrated nature of this project requires addressing challenges in materials science, design engineering, and AM simultaneously to enable robust manufacturing of advanced smart devices–projected to be a $98.2 billion market by 2025–thus improving US competitiveness in crosscutting industries from medical devices to advanced electronics. Moreover, the project provides an opportunity for a gender studies scholar to study the process of collaboration among the all-female team of PIs and develop a better understanding of how technological and scientific advances are achieved and how to support technical leaders of any gender as they pursue similar goals.    &lt;br/&gt;&lt;br/&gt;Despite recent advances in AM technologies and the growth of research into smart devices and active materials, including printable ones, few researchers have demonstrated AM of smart multimaterial structures and devices. This award provides a transformative opportunity to address this gap in knowledge by careful integration of processing, modeling, design, and characterization, and by investigating the complex interactions between multiple foci.  Fundamental investigations include: (1) development of new polymer-based active materials with significantly enhanced performance via gradation of fillers, (2) development of a novel AM process that integrates multiple materials and functionally grades them on demand, (3) development of an efficient, robust design method that accounts for process variability, and (4) an ethnographic analysis of the female leadership team with the potential to positively impact the field of mechanical engineering more broadly.  The results are expected to enable the creation of customizable smart devices that can be commercialized by industry partners in medical and other fields.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>10/25/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>04/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401218</AwardID>
+<Investigator>
+<FirstName>Carolyn</FirstName>
+<LastName>Seepersad</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carolyn Seepersad</PI_FULL_NAME>
+<EmailAddress><![CDATA[carolyn.seepersad@me.gatech.edu]]></EmailAddress>
+<NSF_ID>000247824</NSF_ID>
+<StartDate>10/25/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mary</FirstName>
+<LastName>Frecker</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mary I Frecker</PI_FULL_NAME>
+<EmailAddress><![CDATA[mxf36@psu.edu]]></EmailAddress>
+<NSF_ID>000275822</NSF_ID>
+<StartDate>03/27/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lorraine</FirstName>
+<LastName>Dowler</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lorraine Dowler</PI_FULL_NAME>
+<EmailAddress><![CDATA[lxd17@psu.edu]]></EmailAddress>
+<NSF_ID>000186568</NSF_ID>
+<StartDate>03/27/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zoubeida</FirstName>
+<LastName>Ounaies</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zoubeida Ounaies</PI_FULL_NAME>
+<EmailAddress><![CDATA[zxo100@psu.edu]]></EmailAddress>
+<NSF_ID>000205519</NSF_ID>
+<StartDate>03/27/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303186395</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>30332</ZipCode>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>068Y</Code>
+<Text>LEAP-HI Leading Engineering fo</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>003E</Code>
+<Text>BIOMECHANICAL ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1331</Code>
+<Text>SOCIOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>152E</Code>
+<Text>Cyber-Physical Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5920</Code>
+<Text>ITALY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7299</Code>
+<Text>INTERNATIONAL PLAN &amp; WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~29525</FUND_OBLG>
+<FUND_OBLG>2023~1813747</FUND_OBLG>
+<FUND_OBLG>2024~12985</FUND_OBLG>
+</Award>
+</rootTag>

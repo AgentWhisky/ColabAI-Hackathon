@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Asymmetrical Fracture of Two-Dimensional High Entropy Materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>527235.00</AwardTotalIntnAmount>
+<AwardAmount>263618</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lucy T. Zhang</SignBlockName>
+<PO_EMAI>luzhang@nsf.gov</PO_EMAI>
+<PO_PHON>7032925016</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Faculty Early Career Development (CAREER) award supports research to investigate fracture of two-dimensional atoms-thick high entropy materials containing at least five elements. Two-dimensional materials, such as graphene, generally favor a brittle behavior, which reduces mechanical stability of the electronics, photonics, and energy storage devices built with them. Two-dimensional high entropy materials are expected to possess substantially better fracture toughness owing to a greater asymmetry at the atomic level. Thus, this project supports fundamental research to synthesize monolayer and multiplayer two-dimensional high entropy materials, conduct experiments in electron microscopes to visualize fracture, and theoretically reproduce the experimentally observed behaviors. Insights from this study will broaden the family of two-dimensional materials and advance the understanding of the effect of defects and other factors on their mechanical properties and behaviors. With higher fracture toughness, two-dimensional high entropy materials could potentially replace or be integrated with existing materials to produce high lifecycle nanoscale devices. As part of the project, an integrated research and education program will strive for societal impacts through classroom/online education, knowledge dissemination, engineering training, and outreach activities. Research opportunities will be afforded to both graduate and undergraduate students, specially underrepresented minority students. Outreach activities will target K-12 students and, uniquely, homeschoolers to motivate them towards STEM education. &lt;br/&gt;&lt;br/&gt;Confined to two-dimensional geometry, cracks generally lead to brittle behavior with minimum plasticity at room temperature, which forms the basis of the dilemma of mutually exclusive fracture toughness and mechanical strength performance in bulk materials. This research aims to investigate asymmetrical fracture of two-dimensional high entropy materials, where bifurcations, branches, and deflections emerge due to asymmetric edge elastic properties at the crack tip and edge swapping during crack propagation, thus, significantly increasing the fracture resistance. Various two-dimensional high entropy materials will be synthesized via solid state reaction and chemical vapor deposition methods. In situ tensile tests in SEM and TEM will be conducted to visualize the deformation and fracture evolution amid various microstructural defects and features, such as the competing ternary and quaternary phases. A multiscale modeling framework based on DFT calculations, data-driven MD simulations, and phase field modeling will be used to simulate fracture behavior with focus on crack initiation and propagation. Ultimately, the project will advance the understanding of the effect of lattice distortion, defects, strain rate, and crack geometry as well as composition on the mechanical behavior of two-dimensional high entropy materials.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Division of Civil, Mechanical and Manufacturing Innovation (CMMI) and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2420622</AwardID>
+<Investigator>
+<FirstName>Yingchao</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yingchao Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[Yingchao.Yang@missouri.edu]]></EmailAddress>
+<NSF_ID>000761506</NSF_ID>
+<StartDate>03/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Missouri-Columbia</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>652113020</ZipCode>
+<PhoneNumber>5738827560</PhoneNumber>
+<StreetAddress>121 UNIVERSITY HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SZPJL5ZRCLF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Missouri-Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>652113020</ZipCode>
+<StreetAddress><![CDATA[121 UNIVERSITY HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1630</Code>
+<Text>Mechanics of Materials and Str</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>013E</Code>
+<Text>MULTI-SCALE MODELING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>022E</Code>
+<Text>SOLID MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>024E</Code>
+<Text>MATERIALS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>027E</Code>
+<Text>NANOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~263618</FUND_OBLG>
+</Award>
+</rootTag>

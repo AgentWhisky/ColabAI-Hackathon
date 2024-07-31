@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Multi-analyte Detection Enabled by Machine-learning Guided Voltammetry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>514000.00</AwardTotalIntnAmount>
+<AwardAmount>220056</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jose Almirall</SignBlockName>
+<PO_EMAI>jalmiral@nsf.gov</PO_EMAI>
+<PO_PHON>7032927434</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, Professor Anne Andrews and her research group at the University of California, Los Angeles are developing a new approach to electrochemical sensing to enable the detection of multiple chemical compounds simultaneously. In place of traditional voltage sweeps, the Andrews group investigates fast pulsed waveforms to elicit unique electrical currents in the presence of a broad range of chemicals. They use machine learning to guide custom waveform development and to analyze large and complex datasets. This project aims to improve the detection of historically difficult-to-detect compounds such as brain signaling molecules, food and beverage components, and environmental contaminants by accelerating methods development. This project also seeks to uncover the fundamental nature of how waveforms affect chemical interactions with sensor surfaces in complex environments. The project will support graduate and undergraduate students in laboratory and computational research, with a specific focus on recruiting underrepresented groups to participate in cross-disciplinary and open-source science. &lt;br/&gt;&lt;br/&gt;Approaches to electroanalytical waveform development have remained relatively limited in innovationfor decades and are dominated by historic waveforms, heuristics, and simple grid searches. ‘Guess and check’ has left the overall search space for waveforms relatively unexplored. Voltammetry waveform design is inherently a black-box optimization problem. We will identify novel waveforms related to multiple optimal objectives (e.g., maximal sensitivity and selectivity) using Bayesian optimization and an automated flow cell for a high throughput discovery pipeline. The method development paradigm here involves adaptive, automated waveform design with built-in selectivity and applies to any panel of electroactive and even non-electroactive analytes, or to fields lacking systematic waveform design strategies. The team will employ interpretable machine learning to uncover physiochemical phenomena associated with optimized waveforms. The Andrews group members are designing new voltammetry acquisition and analysis software tools compatible with cloud-hosted data storage and computing to enable all voltammetry practitioners to contribute to and benefit from a reproducible, collaborative open-source community. This approach is expected to be  generalizable and, as such, has the potential to impact the community at large by changing how we think about solving difficult, important, real-world problems in analytical chemistry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2404470</AwardID>
+<Investigator>
+<FirstName>Anne</FirstName>
+<LastName>Andrews</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anne M Andrews</PI_FULL_NAME>
+<EmailAddress><![CDATA[aandrews@mednet.ucla.edu]]></EmailAddress>
+<NSF_ID>000216184</NSF_ID>
+<StartDate>05/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chong</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chong Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[chongliu@chem.ucla.edu]]></EmailAddress>
+<NSF_ID>000754881</NSF_ID>
+<StartDate>05/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Aaron</FirstName>
+<LastName>Meyer</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aaron S Meyer</PI_FULL_NAME>
+<EmailAddress><![CDATA[ameyer@ucla.edu]]></EmailAddress>
+<NSF_ID>000804381</NSF_ID>
+<StartDate>05/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900244200</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress><![CDATA[10889 WILSHIRE BLVD STE 700]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA36</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RN64EPNH8JC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900951406</ZipCode>
+<StreetAddress><![CDATA[10889 WILSHIRE BLVD STE 700]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688000</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~220056</FUND_OBLG>
+</Award>
+</rootTag>

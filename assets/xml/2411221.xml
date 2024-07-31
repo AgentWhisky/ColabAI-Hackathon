@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Frameworks: Cyberinfrastructure to Catalyze and Sustain the Urban Computing Community]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2029</AwardExpirationDate>
+<AwardTotalIntnAmount>2228505.00</AwardTotalIntnAmount>
+<AwardAmount>2228505</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ashok Srinivasan</SignBlockName>
+<PO_EMAI>asriniva@nsf.gov</PO_EMAI>
+<PO_PHON>7032922122</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Cities are loci of resource consumption, economic activity, and innovation. Given the increasing ability to collect, transmit, store, and analyze data, there is the opportunity to go beyond today’s understanding of cities to enable better operations, better planning, and better policies.  While there are already troves of open data about cities, their potential remains underexplored because of unique challenges related to the diversity and scale of urban data and the complex computations required to obtain trustworthy insights.  This project builds tools and infrastructure that meet the unique requirements of urban computing.  The open-source cyberinfrastructure supports data-driven exploration and empowers a broad range of stakeholders to analyze and model urban data at scale. This cyberinfrastructure serves as a catalyst to create and sustain a cohesive community around urban computing. By enabling sharing and collaboration, this cyberinfrastructure also streamlines and advances urban research and democratizes urban computing. The project includes activities and mechanisms to engage the community and integrate the results to support education. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project addresses two critical obstacles in urban computing: (1) the lack of documented, robust, well-engineered tools and open computing platforms and (2) the dispersed community of cross-disciplinary researchers and developers, which limits knowledge sharing and collective solutions.  A core component of the project is the development of a cyberinfrastructure that integrates methods and tools for the exploration of urban data that are scalable, reusable, and interoperable, and solutions to common challenges, including data discovery, cleaning, analytics, modeling, visualization, and reproducibility. The project deploys a cloud-based, open, collaborative environment that supports the use of this infrastructure over large and diverse urban data sets, allowing communities of users to quickly create analyses that are reproducible by design and that can be debugged, shared, and extended. The intellectual merit lies within the novelty of the tools and techniques it produces, as well as in the software engineering challenges involved in developing, maintaining, and supporting cyberinfrastructure that will be deployed and widely adopted.&lt;br/&gt;&lt;br/&gt;This Office of Advanced Cyberinfrastrucure project is jointly funded by the Cyberinfrastructure for Sustained Scientific Innovation (CSSI) program and the National Discovery Cloud for Climate (NDC-C).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411221</AwardID>
+<Investigator>
+<FirstName>Juliana</FirstName>
+<LastName>Freire</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Juliana Freire</PI_FULL_NAME>
+<EmailAddress><![CDATA[juliana.freire@nyu.edu]]></EmailAddress>
+<NSF_ID>000183765</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Claudio</FirstName>
+<LastName>Silva</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Claudio T Silva</PI_FULL_NAME>
+<EmailAddress><![CDATA[csilva@nyu.edu]]></EmailAddress>
+<NSF_ID>000124941</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Graham</FirstName>
+<LastName>Dove</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Graham Dove</PI_FULL_NAME>
+<EmailAddress><![CDATA[gd64@nyu.edu]]></EmailAddress>
+<NSF_ID>000770733</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>295Y00</Code>
+<Text>NDCC-Natl Discvry Cloud Climat</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>800400</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>077Z</Code>
+<Text>CSSI-1: Cyberinfr for Sustained Scientif</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~2228505</FUND_OBLG>
+</Award>
+</rootTag>

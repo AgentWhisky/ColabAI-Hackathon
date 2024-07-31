@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[New Directions in Bayesian Heterogeneous Data Integration: Methods, Theory and Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>149999.00</AwardTotalIntnAmount>
+<AwardAmount>49899</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tapabrata Maiti</SignBlockName>
+<PO_EMAI>tmaiti@nsf.gov</PO_EMAI>
+<PO_PHON>7032925307</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>As the scientific community is moving into a data-driven era, there is an unprecedented opportunity for the integrative analysis of network and functional data from multiple sources to uncover important scientific insights which might be missing when these data sources are analyzed in isolation. To this end, this project plans to transform the current landscape of integrating network and functional data, leveraging their combined strength for scientific advancements through the development of innovative hierarchical Bayesian statistical models. The proposed work holds transformative promise in vital scientific domains, such as cognitive and motor aging, and neurodegenerative diseases. It will enhance scientific collaborations with neuroscientists using multi-source image data for targeted investigations of key brain regions significant in the study of motor and cognitive aging. Moreover, the proposed research will facilitate the prediction of images, traditionally acquired via costly imaging modalities, utilizing images from more cost-effective alternatives, which is poised to bring about transformative changes in the healthcare economy. The open-source software and educational materials created will be maintained and accessible to a wider audience of statisticians and domain experts. This accessibility is anticipated to foster widespread adoption of these techniques among statisticians and domain scientists. The PI's involvement in conference presentations, specialized course development, curriculum expansion, graduate student mentoring, undergraduate research engagement with a focus on under-represented backgrounds, and provision of short courses will enhance dissemination efforts and encourage diverse utilization of the developed methods.&lt;br/&gt;&lt;br/&gt;The proposed project aims to address the urgent need for principled statistical approaches to seamlessly merge information from diverse sources, including modern network and functional data. It challenges the prevailing trend of analyzing individual data sources, which inherently limits the potential for uncovering innovative scientific insights that could arise from integrating multiple sources. Hierarchical Bayesian models are an effective way to capture the complex structures in network and functional data. These models naturally share information among heterogeneous objects, providing comprehensive uncertainty in inference through science-driven joint posterior distributions. Despite the potential advantages of Bayesian perspectives, their widespread adoption is hindered by the lack of theoretical guarantees, computational challenges, and difficulties in specifying robust priors for high-dimensional problems. This proposal will address these limitations by integrating network and functional data, leveraging their combined strength for scientific advancements through the development of innovative hierarchical Bayesian models. Specifically, the project will develop a semi-parametric joint regression framework with network and functional responses, deep network regression with multiple network responses, and Bayesian interpretable deep neural network regression with functional response on network and functional predictors. Besides offering a novel toolbox for multi-source object data integration, the proposed approach will advance the emerging field of interpretable deep learning for object regression by formulating novel and interpretable deep neural networks that combine predictive power with statistical model interpretability. The project will develop Bayesian asymptotic results to guarantee accurate parametric and predictive inference from these models as a function of network and functional features and sample size, an unexplored domain in the Bayesian integration of multi-object data. The proposed methodology will significantly enhance the seamless integration of multimodal neuroimaging data, leading to principled inferences and deeper comprehension of brain structure and function in the study of Alzheimer's disease and aging.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413721</AwardID>
+<Investigator>
+<FirstName>Sharmistha</FirstName>
+<LastName>Guha</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sharmistha Guha</PI_FULL_NAME>
+<EmailAddress><![CDATA[sharmistha@tamu.edu]]></EmailAddress>
+<NSF_ID>000867113</NSF_ID>
+<StartDate>06/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas A&M University]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress><![CDATA[400 HARVEY MITCHELL PKY S STE 30]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JF6XLNB4CDJ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A &amp; M UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M University]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778430001</ZipCode>
+<StreetAddress><![CDATA[3143 TAMU]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~49899</FUND_OBLG>
+</Award>
+</rootTag>

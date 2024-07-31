@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Algebraic Structures and the Arithmetic of Fields]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>260000.00</AwardTotalIntnAmount>
+<AwardAmount>68335</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Certain types of highly symmetric algebraic structures, such as quadratic forms and division algebras, have been ubiquitous in mathematics and its applications, playing important roles in such diverse fields as multiple-antenna wireless communications, efficient representations of spatial rotations, gauge symmetries of theoretical physics, and Galois representations in number theory. While our understanding of these structures has become quite rich, many fundamental questions still remain. This project will employ and develop new tools from the rapidly growing field of arithmetic geometry to deepen our understanding of these algebraic structures. The principal investigator will be involved in the training of students and the organization of conferences in the field.&lt;br/&gt;&lt;br/&gt;This research project will study the interplay between torsors for linear algebraic groups and field arithmetic, with the aim of developing refined versions of period-index type problems for the Brauer group and related notions for other classes of algebraic structures.  Doing this will also involve extending both the scope and applicability of "field patching" and related methods, building on prior work of the investigator with collaborators to produce new local-global principles for wider classes of objects as well as for more general fields.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>10/18/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>10/18/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401018</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Krashen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel Krashen</PI_FULL_NAME>
+<EmailAddress><![CDATA[dkrashen@sas.upenn.edu]]></EmailAddress>
+<NSF_ID>000466757</NSF_ID>
+<StartDate>10/18/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pennsylvania</Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress>3451 WALNUT ST STE 440A</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GM1XX56LEP58</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GM1XX56LEP58</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191046205</ZipCode>
+<StreetAddress><![CDATA[3451 WALNUT ST STE 440A]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~8335</FUND_OBLG>
+<FUND_OBLG>2021~60000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A Statistical Foundation of In-Context Learning and Chain-of-Thought Prompting with Large Language Models]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>80882</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tapabrata Maiti</SignBlockName>
+<PO_EMAI>tmaiti@nsf.gov</PO_EMAI>
+<PO_PHON>7032925307</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Large Language Models (LLMs) like GPT-4 have transformed natural language processing and related fields by demonstrating unprecedented capabilities in interpreting human instructions and completing complex reasoning tasks. Representing a paradigm shift in statistical machine learning, these models are trained on extensive text corpora and can perform novel tasks without modifications to their parameters. This project seeks to develop a comprehensive theoretical framework to understand mainstream methods used with deployed LLMs through a statistical lens. The anticipated broader impacts of this research include enriching educational curricula at participating institutions and providing significant training opportunities for both graduate and undergraduate students. Moreover, the project's outcomes are expected to enhance high-impact applications in sectors such as robotics and transportation systems, thereby improving the practical deployment of LLMs in complex decision-making scenarios.&lt;br/&gt;&lt;br/&gt;Specifically, this research explores the statistical foundations of various prompting methods utilized in LLMs, including in-context learning (ICL) and chain-of-thought (CoT) prompting. The study is organized around three main thrusts: first, deciphering how LLMs perform ICL and CoT as forms of implicit Bayesian inference and understanding how transformer architectures' attention mechanisms approximately encode these Bayesian estimators. Second, the project will develop algorithms to analyze the statistical errors—incurred during pre-training and prompting stages —associated with these prompting-based estimators. The third thrust aims to apply this theoretical framework to real-world applications like robotic control and autonomous driving, formulating principled methods that utilize pre-trained LLMs for complex decision-making. By establishing a robust statistical foundation for prompting-based methodologies, this research aims to advance the field of prompt engineering and contribute to the development of principled methods for using LLMs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2413243</AwardID>
+<Investigator>
+<FirstName>Zhuoran</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhuoran Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[zhuoran.yang@yale.edu]]></EmailAddress>
+<NSF_ID>000990265</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<ZipCode>065113572</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress><![CDATA[150 MUNSON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FL6GV84CKN57</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>YALE UNIV</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FL6GV84CKN57</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[YALE UNIVERSITY]]></Name>
+<CityName>NEW HAVEN</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>065118499</ZipCode>
+<StreetAddress><![CDATA[219 Prospect Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~80882</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-SNSF: Crack Path Prediction and Control in Nonlinearly Viscoelastic Materials: in-silico to Experiments with Viscoelastic and Tough Hydrogels]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>510000.00</AwardTotalIntnAmount>
+<AwardAmount>510000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lucy T. Zhang</SignBlockName>
+<PO_EMAI>luzhang@nsf.gov</PO_EMAI>
+<PO_PHON>7032925016</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The incredible advances in soft robotics, soft electronics and medical implants have outpaced our understanding of how the materials used in these devices fail. Such devices are often constructed of nonlinearly viscoelastic materials subject to planar loading conditions, and thus it is imperative that we understand how these materials fracture. This research project will investigate crack propagation in nonlinearly viscoelastic solids, using hydrogels as a model system. Its success will significantly advance the fracture mechanics of viscoelastic solids. In addition, this project has broader impacts in education and technology. It provides training opportunities to a diverse group of undergraduate and graduate student, and the international collaboration and exchange opportunities will further enable the students to learn new culture and perspectives. The research results will be disseminated broadly in the scientific community and used to develop demonstrations for K-12 outreach activities. As long-term deliverables, this work may strongly influence the engineering design and enhance the reliability of soft robotics, soft electronics and medical implants.&lt;br/&gt;&lt;br/&gt;The objective of this project is to perform research that strives to identify the criteria governing crack growth and path selection in viscoelastic solids through a combined numerical and experimental study of crack propagation under mixed-mode planar loading at different loading rates. Specifically, viscoelastic hydrogels will be used as a model system. This research is subdivided into four sub-tasks. First, the hydrogels used will be characterized, and baseline tensile fracture studies will be carried out. In parallel, a phase-field fracture model will be established to simulate rate-dependent crack propagation in nonlinearly viscoelastic solids. As a next step, parallel experimental and numerical studies that focus on more complex crack loading conditions and loading rates will be conducted. Finally, developed predictive capabilities will be demonstrated by steering a crack in a photo-responsive solid. It ois anticipated that the validated numerical model for complex crack loading conditions, the full-field, near-crack tip displacement measurements for nonlinearly viscoelastic fracture under controlled loading rates, and the identification of crack growth and path selection criteria will be the key scientific outcomes.&lt;br/&gt;&lt;br/&gt;This collaborative US-Swiss project is supported by the US National Science Foundation (NSF) and the Swiss National Science Foundation (SNSF), where NSF funds the US investigator and SNSF funds the partners in Switzerland.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/27/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/27/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403592</AwardID>
+<Investigator>
+<FirstName>Lihua</FirstName>
+<LastName>Jin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lihua Jin</PI_FULL_NAME>
+<EmailAddress><![CDATA[lihuajin@seas.ucla.edu]]></EmailAddress>
+<NSF_ID>000755296</NSF_ID>
+<StartDate>03/27/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900244200</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 WILSHIRE BLVD STE 700</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA36</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RN64EPNH8JC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900958357</ZipCode>
+<StreetAddress><![CDATA[420 Westwood Plaza]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1630</Code>
+<Text>Mechanics of Materials and Str</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022E</Code>
+<Text>SOLID MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>022Z</Code>
+<Text>International Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>129Z</Code>
+<Text>U.S. NSF-Swiss Resrch Corp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5950</Code>
+<Text>SWITZERLAND</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~510000</FUND_OBLG>
+</Award>
+</rootTag>

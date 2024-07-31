@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Building Secure Applications with Non-Static Information Flow Policies]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>513919.00</AwardTotalIntnAmount>
+<AwardAmount>268342</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol Greenspan</SignBlockName>
+<PO_EMAI>sgreensp@nsf.gov</PO_EMAI>
+<PO_PHON>7032927841</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Many security concerns in computer systems can be understood in terms of information flows: private and untrusted data, as well as data derived from them, should never flow to unintended channels in a computer system. In real-world systems, such security concerns typically change over time. For example, a payment system is allowed to use credit card details during a transaction, but it should not retain any record of credit card details once the transaction is complete. The dynamic nature of security concerns makes it challenging to build, verify and debug applications with non-static information flow policies. Consequently, the information flow policies of many security-sensitive applications are currently either unspecified at all, or being treated in an ad-hoc manner, resulting in large trusted computing bases and many security bugs in real applications. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This award investigates an integrated research and education plan designed to transform the way that programmers understand, specify, verify and debug non-static information flow policies. It contains three components to address the key obstacles of building secure applications with non-static policy: (1) Dependent policy gives a simple, declarative and unified view of non-static policies, including dynamic policy, downgrading policy and erasure policy that are currently formalized and checked with unconnected semantic goals, (2) CONST, a constraint language for analyzing non-static policies in applications, and (3) An error diagnosis module that provides useful feedbacks when a program violates the specified non-static policy. This research will also develop and open-source a new toolchain that integrates the three novel components, making it feasible to specify, verify and debug real applications with non-static information flow policy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/08/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401182</AwardID>
+<Investigator>
+<FirstName>Danfeng</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Danfeng Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[zhang@cse.psu.edu]]></EmailAddress>
+<NSF_ID>000702947</NSF_ID>
+<StartDate>11/08/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>806000</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~72417</FUND_OBLG>
+<FUND_OBLG>2023~98869</FUND_OBLG>
+<FUND_OBLG>2024~97056</FUND_OBLG>
+</Award>
+</rootTag>

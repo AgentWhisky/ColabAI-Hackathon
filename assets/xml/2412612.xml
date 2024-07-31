@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Bayesian Model Averaging for Nuclear Effective Field Teories]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bogdan Mihaila</SignBlockName>
+<PO_EMAI>bmihaila@nsf.gov</PO_EMAI>
+<PO_PHON>7032928235</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Proton-proton fusion is a critical reaction in the sun in which two protons react to form a deuteron under the emission of a positron and a neutrino. This rate is very small so it cannot be measured on Earth, and theoretical calculations are necessary. These calculations provide predictions for the rate that are important for solar simulations that impact, for example, the total amount of radiated neutrinos. Different approaches are currently being used to calculate this rate, each with its own uncertainties. In the past, combining the predictions and uncertainties obtained with different approaches has been challenging as differences between different methods are hard to compare. With this project, the PI and their team will study the application of the Bayesian model averaging technique to combining predictions for the proton-proton fusion rate into a single result with a reliably quantified uncertainty. Proton-proton fusion is the first process to be considered, as the PI and their team will apply this modern statistical technique to other processes of interest in nuclear physics, such as the nuclear structure induced Lamb and hyperfine shifts in atomic deuterium.&lt;br/&gt;&lt;br/&gt;Various observables in nuclear physics are calculated using different models for nuclear interactions. In particular, two approaches are used in the few-body sector: Pionless effective field theory and chiral effective field theory. These effective field theories are low-energy expansions in two different parameters reflecting the scale separations present in nuclear systems. These expansions are used to obtain results up to a desired order, where the largest omitted order provides an estimate of the theory uncertainty. To obtain a single result for an observable and reliable uncertainty estimates, the team will use Bayesian model averaging to obtain predictions for the pp-fusion rate with Bayesian uncertainties using chiral and pionless effective field theories. The team will then consolidate the Bayesian model averaging predictions, providing an accurate framework for theoretical calculations in nuclear physics. This approach will be extended to other observables that can be calculated using effective field theories, such as nuclear structure induced line shifts in atom deuterium.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412612</AwardID>
+<Investigator>
+<FirstName>Lucas</FirstName>
+<LastName>Platter</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lucas J Platter</PI_FULL_NAME>
+<EmailAddress><![CDATA[lplatter@utk.edu]]></EmailAddress>
+<NSF_ID>000685587</NSF_ID>
+<StartDate>07/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960001</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress><![CDATA[201 ANDY HOLT TOWER]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FN2YCS2YAUW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TENNESSEE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>LXG4F9K8YZK5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>KNOXVILLE</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>379960001</ZipCode>
+<StreetAddress><![CDATA[201 ANDY HOLT TOWER]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128500</Code>
+<Text>NUCLEAR THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

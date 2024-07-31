@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRII: CNS: IoT-aware Federated On-Device Intelligence]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>174967.00</AwardTotalIntnAmount>
+<AwardAmount>122705</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jason Hallstrom</SignBlockName>
+<PO_EMAI>jhallstr@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded in whole or in part under the American Rescue Plan Act of 2021 (Public Law 117-2).&lt;br/&gt;&lt;br/&gt;Recent breakthroughs in on-device machine learning bring artificial intelligence (AI) closer to Internet-of-Things (IoT) devices, shifting the IoT paradigm from “connected things” to “connected intelligence.” Given the presence of confidential IoT data and the widespread impact of data breaches, federated learning provides a privacy-preserving solution that enables knowledge sharing by exchanging on-device model updates rather than private IoT data. However, classical federated learning assumes homogeneous participating devices with a wealth of labeled data, which stands at odds with the properties of most IoT devices, such as resource constraints, heterogeneity, and lack of annotation. To unleash the potential of federated on-device intelligence in IoT systems, this project focuses on two critical yet open problems: (i) federated knowledge sharing across resource-constrained and heterogeneous IoT devices in a data-free manner; and (ii) federated domain adaptation with limited ground truth labeled knowledge under ever-changing IoT environments. The project develops novel and practical approaches to address conflicting goals on accuracy, efficiency, and data dependence at both the knowledge generation and transfer stages. The proposed research will be thoroughly and rigorously evaluated in simulator-driven and real-world testbeds.&lt;br/&gt;&lt;br/&gt;This project will advance the current understanding of federated learning in practical yet challenging IoT environments, address challenges to broad participation of federated on-device intelligence, and enable compelling new IoT applications with federated intelligence. The research outcomes of this project will be integrated with existing curriculums and K-12 programs and disseminated through conferences, seminars, and publications to accelerate progress in AI and IoT research. Furthermore, this project will actively involve undergraduate and underrepresented students and improve the presence of underrepresented minorities in computer science and engineering research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/12/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/12/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2418308</AwardID>
+<Investigator>
+<FirstName>Lan</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lan Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[lan7@clemson.edu]]></EmailAddress>
+<NSF_ID>000838192</NSF_ID>
+<StartDate>02/12/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Clemson University]]></Name>
+<CityName>CLEMSON</CityName>
+<ZipCode>296340001</ZipCode>
+<PhoneNumber>8646562424</PhoneNumber>
+<StreetAddress><![CDATA[201 SIKES HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H2BMNX7DSKU8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CLEMSON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Clemson University]]></Name>
+<CityName>CLEMSON</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>296340001</ZipCode>
+<StreetAddress><![CDATA[201 SIKES HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>735400</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~122705</FUND_OBLG>
+</Award>
+</rootTag>

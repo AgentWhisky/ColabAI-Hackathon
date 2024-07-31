@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Designing Electroanalytical Tools for Interrogating Curious Chemistry at the Discrete Microdroplet-Air Interface]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jose Almirall</SignBlockName>
+<PO_EMAI>jalmiral@nsf.gov</PO_EMAI>
+<PO_PHON>7032927434</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, Professor Dick’s research group at Purdue University is developing new measurement tools to understand how chemistry changes in small volumes. These tools are essential to understand fundamental concepts for energy storage and conversion, biosensing, biochemical reactions, aerosol chemistry, and have ramifications to understanding the origins of life. Small droplets, such as those found in clouds, sea spray, and even tiny vesicles within cells, permeate nature. For centuries, chemists have assumed that chemistry occurring in large volumes like that of a coffee cup can be extrapolated to chemistry occurring within vesicles inside cells. The new measurement methods developed in this project will allow insight into curious chemistry and reaction acceleration in microdroplets. A particular emphasis will be placed on understanding the importance of the nature of the interface, be it microdroplets suspended in an immiscible liquid (emulsions) or microdroplets in gas (aerosols). Graduate, undergraduate, and high school students will be introduced to measurement techniques through a historical perspective by learning how to build their own instruments to corroborate (or refute) centuries-old observations. The instruments developed will be donated to local schools, and resources will be made available to include frontier measurement science in middle and high school curricula. &lt;br/&gt;&lt;br/&gt;Most studies of curious chemistry and reaction acceleration in microdroplets have dealt with microdroplets surrounded by gas. Electrochemistry is rather difficult to perform in gas, and this project develops new measurement methods to probe chemistry within single liquid droplets, where the microdroplet|gas interface is dominant. The project uses stochastic electrochemistry to probe reactions in single, sub-femtoliter droplets, and the electrochemical signal reports on the rate of the reactions occurring within the droplets. Stochastic electrochemistry offers high temporal resolution to ensure microdroplets can be probed on a droplet-by-droplet basis. Given that coulometry can be used to size individual droplets, this project offers a direct pathway to studying how reaction rates change as a function of droplet size with various interfaces and chemical reactions of interest. The project will enable detailed insight into the role the microdroplet interface plays in reaction acceleration, the spontaneous generation of reactive species, and the mineralization of hard materials.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/26/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403964</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Dick</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey E Dick</PI_FULL_NAME>
+<EmailAddress><![CDATA[jdick@purdue.edu]]></EmailAddress>
+<NSF_ID>000759418</NSF_ID>
+<StartDate>06/26/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE STE 1900]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688000</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~450000</FUND_OBLG>
+</Award>
+</rootTag>

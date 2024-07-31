@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CyberTraining: Implementation: Medium: Interactive and Integrated Training for Building High-Performance Ethical AI]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>499996.00</AwardTotalIntnAmount>
+<AwardAmount>499996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Juan Li</SignBlockName>
+<PO_EMAI>jjli@nsf.gov</PO_EMAI>
+<PO_PHON>7032922625</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Artificial intelligence (AI) and machine learning (ML) has been widely and successfully used in many fields including transportation, autonomous driving, chip design, etc. Considering the profound impact of AI as a potent force of transformation across various societal domains, AI ethics has garnered significant scrutiny. AI systems trained on biased data can perpetuate or amplify negative biases, with profound implications for areas like criminal justice, hiring, and lending, where biased AI could lead to unfair or discriminatory outcomes. Designing an ethical AI system has significant social and political value. As AI models grow, the demand for cyberinfrastructure (CI) support becomes substantial. Much research has focused on designing high-performance computing (HPC) infrastructures to accelerate AI/ML. However, support from CI for ethical AI is lacking, primarily due to distinctive constraints introduced by ethical considerations. Notably, such ethical constraints or objectives integrated with AI algorithms can slow down the inference and training processes. Conversely, without consideration of ethical AI, traditional CI technologies such as quantization and approximation might compromise AI ethics, even if they expedite the computation. &lt;br/&gt;&lt;br/&gt;This project will establish interactive and integrated training for building high-performance ethical AI with three interdisciplinary training programs across philosophy, ethical AI, and HPC. These include nine training modules and activities for sustainability and fostering community. The goal is to fill the gap between CI and ethical AI and AI ethics and train both CI contributors and CI users to build high-performance ethical AI. The training programs include: 1) Philosophical AI ethics training for CI contributors and ethical AI designers; 2) Ethical AI training for CI contributors; 3) CI software and hardware technologies training for ethical AI designers. Moreover, several hands-on projects are proposed to deepen trainees’ understanding of those programs, including hardware acceleration for machine learning models, ethical AI implementation, etc. The long-term goal is to boost the adoption of new "Computing+AI+Ethics" to multidisciplinary students and researchers from different STEM domains.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/11/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417747</AwardID>
+<Investigator>
+<FirstName>Feng</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Feng Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[feng.chen@utdallas.edu]]></EmailAddress>
+<NSF_ID>000678263</NSF_ID>
+<StartDate>06/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bingzhe</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bingzhe Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[bingzhe.li@utdallas.edu]]></EmailAddress>
+<NSF_ID>000835435</NSF_ID>
+<StartDate>06/11/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Dallas]]></Name>
+<CityName>RICHARDSON</CityName>
+<ZipCode>750803021</ZipCode>
+<PhoneNumber>9728832313</PhoneNumber>
+<StreetAddress><![CDATA[800 WEST CAMPBELL RD.]]></StreetAddress>
+<StreetAddress2><![CDATA[SP2.25]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EJCVPNN1WFS5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT DALLAS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Dallas]]></Name>
+<CityName>RICHARDSON</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>750803021</ZipCode>
+<StreetAddress><![CDATA[800 WEST CAMPBELL RD.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>044Y00</Code>
+<Text>CyberTraining - Training-based</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>122Z</Code>
+<Text>CI Training and Professionals</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7361</Code>
+<Text>EDUCATION AND WORKFORCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~499996</FUND_OBLG>
+</Award>
+</rootTag>

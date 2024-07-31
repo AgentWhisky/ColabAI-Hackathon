@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Energetic Variational Inference: Foundations, Algorithms, and Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>267816</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Variational Inference is a powerful tool used to boost efficiency and flexibility in machine learning and artificial intelligence algorithms, particularly those based on large amounts of data. In this project, the investigators plan to create a unified and systematic framework for variational inference methods, making two key contributions. First, the investigators will establish the theoretical foundations for the proposed framework, which will support and justify using existing and new variational inference algorithms in machine learning applications. Second, the investigators will provide a systemic procedure to create new variational inference algorithms and apply them to emerging machine learning problems. In addition to these new scientific developments, the investigators will create new courses and workshops on machine learning, recruit both undergraduate and graduate students for summer, project-based research programs, and provide mentorship to local high school students through hands-on machine learning training programs. Collaborations are planned with industrial data science partners to apply these new algorithms in practice and to train the workforce with the start-of-the-art machine learning tools.&lt;br/&gt;&lt;br/&gt;The proposed "Energetic Variational Inference" framework is based on an energetic variational approach, which has been successfully used to study complicated non-equilibrium systems in physics and biology.  The investigators will provide a blueprint for generating new algorithms by introducing various options for the four essential components of the proposed framework: the divergence functional, the dissipation functional, the representation of the probability density, and the temporal discretization. The investigators will study convergence in the continuous formulation as well as estimate the error bounds after temporal discretization of the underlying continuous dynamic system. More importantly, these theoretical results can be applied or extended to other flow-based variational inference approaches. These methods will be applied to problems in supervised learning, density estimation, and generative learning. Additional novel applications in machine learning, statistics, and statistical physics will also be developed. The algorithms will be packaged into open-source software for public use.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/17/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2429324</AwardID>
+<Investigator>
+<FirstName>Lulu</FirstName>
+<LastName>Kang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lulu Kang</PI_FULL_NAME>
+<EmailAddress><![CDATA[lulukang@umass.edu]]></EmailAddress>
+<NSF_ID>000582245</NSF_ID>
+<StartDate>05/17/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>AMHERST</CityName>
+<ZipCode>010039252</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress><![CDATA[101 COMMONWEALTH AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VGJHK59NMPK9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>AMHERST</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>010039252</ZipCode>
+<StreetAddress><![CDATA[COMMONWEALTH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>171200</Code>
+<Text>DMR SHORT TERM SUPPORT</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>806900</Code>
+<Text>CDS&amp;E-MSS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>144E</Code>
+<Text>Synthetic biology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7573</Code>
+<Text>BIO-RELATED MATERIALS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~112949</FUND_OBLG>
+<FUND_OBLG>2023~59998</FUND_OBLG>
+<FUND_OBLG>2024~94869</FUND_OBLG>
+</Award>
+</rootTag>

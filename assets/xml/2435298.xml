@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: Quantum+Chips Summer School at University of Minnesota 2024]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>30000.00</AwardTotalIntnAmount>
+<AwardAmount>30000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Usha Varshney</SignBlockName>
+<PO_EMAI>uvarshne@nsf.gov</PO_EMAI>
+<PO_PHON>7032925385</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The rapid expansion of workforce development for future computing technologies is needed to meet the demands of the semiconductor industry in creating next-generation computing and memory devices. Despite its crucial role in contemporary technology, the semiconductor industry lacks the visibility of more glamorous sectors such as internet and software technologies. The semiconductor workforce requires a unique and complex set of skills across diverse fields, which typically necessitates specialized training through advanced undergraduate and post-graduate programs. This team is dedicated to educating the next generation of skilled technical professionals, focusing on materials and device co-design approaches through innovative immersive experiences. Summer school programs at the college level can effectively raise awareness about workforce needs in the country, the exciting deep technologies, vast career opportunities, networking prospects, and the enjoyable science involved in this work. This summer school, with its multi-pronged, holistic approach that incorporates academic and industry participation, aims to provide students with training and experience in "Quantum + Chips." Additionally, the goal is to inspire students by demonstrating the fun aspects of the physics underlying these technologies.&lt;br/&gt;&lt;br/&gt;The planned summer school will be held at the University of Minnesota from July 29th to August 9th, 2024. This 2-week immersive summer experience is designed for undergraduate students, from freshmen to seniors, to expose them to a wide range of computing technologies and paradigms. The first week includes curated lectures focusing on physics and computing fundamentals, computer labs, experimental labs, and demonstrations. Topics covered include fundamental concepts of quantum mechanics, semiconductor physics, carrier statistics, quantum transport, transistors, spintronics, and quantum computing, among others. The second week features company visits and talks by industry and academic experts on the latest advancements in computing devices and technologies. Technical talks will cover topics such as transistors, optical computing, spintronics, Ising computing, and quantum computing. Speakers from participating semiconductor and quantum technology companies will provide technical and career talks, along with company tours. Student lodging will be provided for the summer school participants. Surveys indicate that students enjoy the dormitory experience and the networking opportunities with their peers in other institutions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2435298</AwardID>
+<Investigator>
+<FirstName>Jian-Ping</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jian-Ping Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[jpwang@umn.edu]]></EmailAddress>
+<NSF_ID>000385176</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tony</FirstName>
+<LastName>Low</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tony Low</PI_FULL_NAME>
+<EmailAddress><![CDATA[tonyaslow@gmail.com]]></EmailAddress>
+<NSF_ID>000679004</NSF_ID>
+<StartDate>07/10/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress><![CDATA[200 OAK ST SE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554550169</ZipCode>
+<StreetAddress><![CDATA[200 Union ST SE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>151700</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>107E</Code>
+<Text>Magnetics and spin electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~30000</FUND_OBLG>
+</Award>
+</rootTag>

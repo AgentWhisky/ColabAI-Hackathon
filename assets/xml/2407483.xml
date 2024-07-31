@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: New Routes to Cloud Patterns  Formation: Pseudoparabolic Ginzburg-Landau Oscillators and Data-driven Equation Discovery]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>198875.00</AwardTotalIntnAmount>
+<AwardAmount>198875</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Marine stratocumulus and continental shallow cumulus clouds are prevalent worldwide, forming extensive decks, particularly over subtropical regions. These clouds exhibit intriguing, organized patterns at various scales, influencing Earth's climate significantly. Their ability to shade vast areas from sunlight creates a cooling effect, with magnitude heavily dependent on the cloud's organization. This project delves into the nonlinear dynamics governing this cloud organization. By understanding this dynamics, the Principal Investigators (PIs) aim to improve predictions regarding the clouds' response to human activities (anthropogenic forcing) and potential abrupt, critical transitions (climate tipping points) as suggested by prior studies. To achieve this, the project will utilize a novel class of spatially extended models specifically designed for cloud dynamics that are computationally more attractive than those currently relying on large-eddy simulations and that will be data-driven and stochastically-driven to reach accuracy. In that respect, these models will leverage insights from previous studies that employed networks of stochastic nonlinear oscillators to understand pattern formation in complex systems. The methods, ideas and outcomes of this project are general and flexible. They hold promise for broad applications in nonlinear sciences, encompassing atmospheric sciences, and the study of complex systems. In addition. this project offers opportunities for student involvement in research projects and has the potential to become a valuable teaching resource due to its innovative approach.&lt;br/&gt;&lt;br/&gt;This project will explore the mathematical underpinnings and phenomenological behaviors of these models using a nonlinear dynamics perspective. The project will focus on a new class of partial differential equations called pseudoparabolic Ginzburg-Landau equations (PGLEs), obtained as formal limit of the aforementioned networks. These equations support a wealth of patterns that are not only consistent with cloud organization but also relevant to atmospheric dispersive relations. To account for the crucial effects of turbulence, aerosols, and other microphysical processes on cloud formation, the project will employ modern techniques of state-dependent stochastic parameterizations. These parameterizations will be integrated into the PGLE models, enhancing the variability of solutions in space and time. The PIs will then utilize advanced rare event algorithms to analyze the landscape of possible stochastic patterns. In parallel, the PIs aim to develop high-resolution data-driven PGLE models (1 km resolution), whose coefficients and parameterizations will be trained using high-resolution satellite datasets of clouds. The new equations and parameterizations that are proposed to be analyzed in this project have high interdisciplinary scientific values at the crossroads of data-driven modeling, stochastic analysis, partial differential equation theory, and nonlinear dynamics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407483</AwardID>
+<Investigator>
+<FirstName>Honghu</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Honghu Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[hhliu@vt.edu]]></EmailAddress>
+<NSF_ID>000706246</NSF_ID>
+<StartDate>05/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M515A1DKXAN8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240603359</ZipCode>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1303</Code>
+<Text>CLIMATE MODELING &amp; PREDICTION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~198875</FUND_OBLG>
+</Award>
+</rootTag>

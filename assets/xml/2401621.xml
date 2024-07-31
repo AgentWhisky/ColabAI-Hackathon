@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Multiphysics and Coupled Micromechanics of Fault Zones]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>400207.00</AwardTotalIntnAmount>
+<AwardAmount>258297</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy Panero</SignBlockName>
+<PO_EMAI>wpanero@nsf.gov</PO_EMAI>
+<PO_PHON>7032925058</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The deformation and breaking of Earth materials are crucial processes occurring at across time and space, particularly in earthquake-prone regions. Earthquakes that are a result of tectonic forces, frequently occur in zones containing fine-grained, crushed and ground-up rock fragments called gouge. Therefore, the deformation of this gouge material is critical to understand the earthquake process. Traditional mechanical techniques do not consider the complexity of gouge materials as observed in field studies, overlooking the heterogeneities visible in high-resolution images. The consequences of shape simplification are not well understood, especially for gouge materials formed by the grinding of rocks during prior earthquake events. Consequently, modeling the interactions of such materials in fault gouge zones remains a significant challenge. The community lacks a comprehensive understanding of how these complexities influence ruptures and critical factors in fault zones. This project addresses these challenges by producing realistic models from the limited information available from raw data and images and using more realistic shapes for conducting micromechanical modeling. The findings can bring about new insights into the mechanical properties of gouge zones and enhance the predictive capabilities of models when representative models are used within a realistic micromechanical model. The project integrates education and outreach efforts, engaging graduate, undergraduate, and high school students. The PI will actively recruit and support students from underrepresented groups, in particular students with disabilities. The project also aims to build stronger partnerships between academia and industry, with broad impacts across multiple fields, including mechanical modeling, soil science, powder technology, materials science, biology, and physics.&lt;br/&gt;&lt;br/&gt;Geomaterials undergo significant changes as a natural process that takes place at different scales, particularly in areas with seismic activity where earthquakes occur. The focus of this proposal is on the gouge zones as they often represent materials with complex heterogeneity. These regions typically contain complex rock formations due to tectonic forces and surrounding geological structures. Conventional computational approaches often simplify the complexity of these materials and ignore the complex frictional and interlocking characteristics. In addition to computational barriers in numerical methods, the lack of representative shape models limits our understanding of the mechanical behavior of such materials. At the same time, our understanding of how these complexities influence fault rupture, critical zone factors, and transport properties is still incomplete. This proposal addresses these gaps by incorporating relevant complexities in building realistic models. Subsequently, these are incorporated into a micromechanical model in which the displacement of gouge materials in faults can be quantified. This project will utilize high-performance computing to build models for use in analyzing the interactions of gouge materials under seismic conditions. This project will enable large-scale domain generation, capturing the true complexity of gouge materials and evaluating their mechanical behaviors. The expected outcomes of this research will enhance our understanding of the mechanical properties of fault gouge zones and lead to the development of more predictive models. These results can also inform large-scale finite-element methods and experimental tests by providing more representative constitutive models and informative experiments, respectively.  These models will improve our ability to simulate fault behavior during earthquakes, providing valuable information for earthquake hazard assessment and mitigation strategies. This project provides opportunities for the mentorship of and outreach to populations with disabilities by involving them in research. The results of this research will also be included in the graduate and undergraduate courses taught by the PI.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401621</AwardID>
+<Investigator>
+<FirstName>Pejman</FirstName>
+<LastName>Tahmasebi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pejman Tahmasebi</PI_FULL_NAME>
+<EmailAddress><![CDATA[tahmasebi@mines.edu]]></EmailAddress>
+<NSF_ID>000740622</NSF_ID>
+<StartDate>07/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Colorado School of Mines]]></Name>
+<CityName>GOLDEN</CityName>
+<ZipCode>804011887</ZipCode>
+<PhoneNumber>3032733000</PhoneNumber>
+<StreetAddress><![CDATA[1500 ILLINOIS ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JW2NGMP4NMA3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF THE COLORADO SCHOOL OF MINES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JW2NGMP4NMA3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Colorado School of Mines]]></Name>
+<CityName>GOLDEN</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>804011887</ZipCode>
+<StreetAddress><![CDATA[1500 ILLINOIS ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>157400</Code>
+<Text>Geophysics</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~258297</FUND_OBLG>
+</Award>
+</rootTag>

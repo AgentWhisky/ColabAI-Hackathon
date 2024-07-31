@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Two programs in the mathematical theory of fluids, gases, and plasmas]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>270000.00</AwardTotalIntnAmount>
+<AwardAmount>270000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This is a project on the mathematical theory of fluids, gases, and plasmas, whose motion is modeled by nonlinear partial differential equations (PDEs). In many regimes of interest, fluids and plasmas exhibit extremely small scales; two key examples, which are relevant to this project, are the eddies which comprise a turbulent flow and the shock wave created by an aircraft as it breaks the sound barrier. This tendency toward small scales makes both theoretical and computational questions about fluids, plasmas, and the PDEs which model them highly challenging. In particular, traditional expectations about the predictive power of the standard PDEs can be violated in these regimes: In fluids, the most standard equations support significant non-uniqueness, while in gases and plasmas, they are not strictly valid inside a shock. This project will develop a mathematical theory to understand and overcome these challenges. This project will also provide opportunities for the integration of students into the research.&lt;br/&gt;&lt;br/&gt;This project will carry out two programs in nonlinear partial differential equations (PDEs): (1) understanding non-uniqueness phenomena as an extreme form of instability in nonlinear PDEs, especially those arising in incompressible fluid mechanics, and (2) a rigorous PDE investigation of shock structure based on collisional kinetic theory. Regarding (1), the current non-uniqueness theory comes with caveats, e.g., the non-unique Navier-Stokes solutions are either forced or conjectural with supporting numerical evidence. The project will study problems of non-uniqueness and selection principle, without these caveats, in the Allen-Cahn and complex Ginzburg-Landau equations. Concerning (2), the project will investigate weak kinetic shock profiles for fundamental PDEs of plasma dynamics and advance the topological approach to constructing strong kinetic shock profiles.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406947</AwardID>
+<Investigator>
+<FirstName>Dallas</FirstName>
+<LastName>Albritton</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dallas Albritton</PI_FULL_NAME>
+<EmailAddress><![CDATA[dalbritton@wisc.edu]]></EmailAddress>
+<NSF_ID>000812537</NSF_ID>
+<StartDate>05/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LCLSJAGTNZQ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537151218</ZipCode>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~270000</FUND_OBLG>
+</Award>
+</rootTag>

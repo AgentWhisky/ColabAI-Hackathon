@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A Privacy-Preserving Collaborative Condition Monitoring and Decision-Making Methodology for Distributed Manufacturing Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>398786.00</AwardTotalIntnAmount>
+<AwardAmount>398786</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janis Terpenny</SignBlockName>
+<PO_EMAI>jterpenn@nsf.gov</PO_EMAI>
+<PO_PHON>7032922487</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award supports research on developing privacy-preserving industrial data analytics methods that enable collaborative condition monitoring and decision-making among distributed manufacturing systems. In modern manufacturing sectors, comprehensive data analytics is critical for detecting anomalies, diagnosing faults, predicting the failure times of key assets, and optimizing operational decisions. The effectiveness of these data analytics models relies heavily on the amount of historical data available for model training. Unfortunately, individual manufacturing facilities often lack sufficient historical data on anomalies, faults, and failures to independently train effective monitoring and decision-making models. This research addresses this challenge with a novel solution that enables multiple geographically distributed manufacturing systems to collaboratively utilize their collective data to construct condition monitoring and decision-making models while keeping each system’s data local and confidential. By facilitating this collaboration, the project aims to overcome the limited data availability challenge and enhance the overall performance and reliability of manufacturing systems. This research helps enhance national economic competitiveness by improving manufacturing efficiency and reliability, aligning with the National Science Foundation's mission to promote the progress of science and advance national health, prosperity, and welfare.&lt;br/&gt;&lt;br/&gt;The project plans to develop a federated learning framework comprising four primary components: data curation, feature engineering, analytics and decision-making, and verification and deployment. This approach represents the first systematic solution for privacy-preserving collaborative condition monitoring and decision-making within the industrial asset management sphere. Techniques such as robust low-rank statistical learning for data curation, supervised dimension reduction for joint feature engineering, classification-based anomaly detection, regularization-based fault diagnosis, parametric statistical learning for prognostics, and federated optimization algorithms for operational decision-making will be developed. These techniques are designed to handle diverse data formats prevalent in manufacturing systems, such as time series, profiles, and image streams. Successful implementation of these methods will significantly advance the fields of federated learning, statistical learning, and industrial data analytics, providing substantial benefits across manufacturing and service industries by improving equipment reliability, reducing costs, and preventing failures.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/20/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421921</AwardID>
+<Investigator>
+<FirstName>Xiaolei</FirstName>
+<LastName>Fang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaolei Fang</PI_FULL_NAME>
+<EmailAddress><![CDATA[xfang8@ncsu.edu]]></EmailAddress>
+<NSF_ID>000785929</NSF_ID>
+<StartDate>06/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276950001</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NVH931QJJ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276077001</ZipCode>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>229Y00</Code>
+<Text>MSI-Manufacturing Systms Integ</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>016Z</Code>
+<Text>Cybermanufacturing Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>118E</Code>
+<Text>GRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1786</Code>
+<Text>MANFG ENTERPRISE SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~398786</FUND_OBLG>
+</Award>
+</rootTag>

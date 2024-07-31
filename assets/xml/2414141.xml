@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Planning: Artificial Intelligence Assisted High-Performance Parallel Computing for Power System Optimization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01060100</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OIA</Abbreviation>
+<LongName>OIA-Office of Integrative Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Casonya Johnson</SignBlockName>
+<PO_EMAI>casjohns@nsf.gov</PO_EMAI>
+<PO_PHON>7032922658</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In the increasingly electrified society, the growing dependence on electricity poses challenges to the energy industry, particularly as transformative shifts in modern power grids unfold. The critical importance of robust power systems and their optimal operations is underscored by the need for reliable, resilient, sustainable, efficient, and affordable electric power. Addressing the complexity of large-scale, geographically distributed, and interconnected nonlinear networks in modern power system operations requires advanced computing technologies. This planning grant project aims to lay the foundation for a comprehensive research initiative, investigating how the parallel algorithms and High-Performance Computing (HPC) techniques with the assistance of Artificial Intelligence (AI) technologies can efficiently tackle complex optimization problems in power system operations. The successful outcome of this inquiry has the potential to yield billions of dollars in annual savings within the U.S. energy sector through systematic power system optimization.&lt;br/&gt;&lt;br/&gt;While recent strides have been made in parallel algorithms and HPC techniques, their consistent effectiveness falls short in meeting the stringent requirements of power system operations. Striking a flexible balance between solution quality and speed remains a challenge, coupled with limited adaptability and scalability for addressing varying attributes, sizes, or complexities of problems. This project seeks to overcome these limitations by exploring innovative strategies that leverage the power of AI. The planning grant activities will involve extensive literature reviews, pilot studies, interdisciplinary collaborations, the identification of critical issues and knowledge gaps, and the design of a comprehensive research methodology. These activities will deepen understanding in AI technologies, HPC techniques, parallel optimization, mathematical programming, and power system engineering. Particularly, they will underscore the combined benefits and applications of these techniques for developing next-generation AI-assisted High-Performance Parallel Computing (AI-HPPC) methods and tools. These efforts are also instrumental in increasing the intellectual merit and broader impacts of the planning grant, aligning the prepared full HBCU-EiR proposal with targeted NSF research funding programs, and ultimately elevating the accomplishments of the future full HBCU-EiR research project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/16/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414141</AwardID>
+<Investigator>
+<FirstName>Lin</FirstName>
+<LastName>Gong</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lin Gong</PI_FULL_NAME>
+<EmailAddress><![CDATA[engineerlingong@gmail.com]]></EmailAddress>
+<NSF_ID>000877633</NSF_ID>
+<StartDate>02/16/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Jackson State University]]></Name>
+<CityName>JACKSON</CityName>
+<ZipCode>392170002</ZipCode>
+<PhoneNumber>6019792008</PhoneNumber>
+<StreetAddress><![CDATA[1400 J R LYNCH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MS02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WFVHMSF6BU45</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>JACKSON STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Jackson State University]]></Name>
+<CityName>JACKSON</CityName>
+<StateCode>MS</StateCode>
+<ZipCode>392170002</ZipCode>
+<StreetAddress><![CDATA[1400 J R LYNCH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MS02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>070Y00</Code>
+<Text>HBCU-EiR - HBCU-Excellence in</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>112Z</Code>
+<Text>Racial Equity in STEM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~100000</FUND_OBLG>
+</Award>
+</rootTag>

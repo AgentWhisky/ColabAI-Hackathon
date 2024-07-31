@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: NCS-FR: Individual variability in auditory learning characterized using multi-scale and multi-modal physiology and neuromodulation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>1013101.00</AwardTotalIntnAmount>
+<AwardAmount>1013101</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Daniel</SignBlockName>
+<PO_EMAI>ddaniel@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>It is critical for people around the world to be able to learn new skills and information throughout their lives, although often people differ in their proficiency to do so. For example, while all adults are capable of some extent of non-native speech sound category learning with optimized behavioral training paradigms, some people achieve high levels of proficiency with extensive training, while many others fail to overcome fundamental challenges. Prior work has attempted to explain individual differences in learning using static "traits" that are thought to change very little over time - e.g., working memory span, IQ, and musical ability. However, recent work has suggested that a major source of variability is the constantly changing "states" of the brain during learning. Scientists are at a unique moment where advances in cognitive and systems neuroscience, computational behavioral modeling, and neuromodulation (the ability to manipulate neural systems safely and non-invasively in humans) will allow us to achieve a unified, cohesive, neuroscience-based model of learning that explains individual differences. Using information gleaned from a series of studies in both human and animal models, this project seeks to develop a non-invasive device that integrates attention (pupil dilation) and its modulation (vagal nerve stimulation) toward the goal of problem solving, in this case second-language learning. Success in this endeavor will enable the development of novel neurotechnologies and training regimens that will make challenging tasks like second language acquisition accessible to wide array of underserved and overlooked communities in education.&lt;br/&gt;&lt;br/&gt;The main goal of this study is to take an integrative approach to understanding an underappreciated set of critical factors that are hypothesized to underly individual variability in perceptual learning: task-related dynamic neural states. Subcortical arousal systems (e.g., noradrenergic, cholinergic, and dopaminergic) have a substantial impact on cortical circuit function during distinct phases of a learning task, including pre-stimulus periods, stimulus encoding, and feedback monitoring. By studying each of these task phases at multiple scales, from specific neuromodulators and single neurons in mice, to population neurophysiology and dynamic behavior in mice and humans, it will be possible to explain substantially more variability in learning than is currently possible. Furthermore, researchers will leverage a neuromodulation approach, vagus nerve stimulation (VNS), to regulate the activity of these neuromodulatory systems and help improve learning performance in a targeted and highly dynamic way. Using a multi-modal, cross-species (humans and rodents) approach, the researchers propose a conceptual framework where rapidly changing and high dimensional neural states have dynamics that cut across traditional boundaries of human trait categories, such as memory capacity and perceptual experience, and neuromodulatory system functions, such as arousal, attention, and reward signaling. This multi-scale approach is all tied together with concurrent measurement of pupil-linked arousal, population neural dynamics, and trial-by-trial behavioral performance. This work will have transformative implications for understanding why individuals struggle to learn important skills in adulthood, and will advance the development of simple, cheap, and safe tools for enhancing performance and leveling the playing field across diverse communities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/21/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>05/28/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075, 47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409652</AwardID>
+<Investigator>
+<FirstName>Bharath</FirstName>
+<LastName>Chandrasekaran</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bharath Chandrasekaran</PI_FULL_NAME>
+<EmailAddress><![CDATA[bchandra@northwestern.edu]]></EmailAddress>
+<NSF_ID>000600158</NSF_ID>
+<StartDate>12/21/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress><![CDATA[633 CLARK ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602080001</ZipCode>
+<StreetAddress><![CDATA[633 CLARK STREET]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>798000</Code>
+<Text>ECR-EDU Core Research</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>862400</Code>
+<Text>IntgStrat Undst Neurl&amp;Cogn Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8551</Code>
+<Text>IntgStrat Undst Neurl&amp;Cogn Sys</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>04002324DB</Code>
+<Name><![CDATA[NSF STEM Education]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~1013101</FUND_OBLG>
+</Award>
+</rootTag>

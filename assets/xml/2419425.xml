@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Unraveling intertwined orders with precision magneto-optic microscopy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>522937.00</AwardTotalIntnAmount>
+<AwardAmount>522937</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mun Chan</SignBlockName>
+<PO_EMAI>mchan@nsf.gov</PO_EMAI>
+<PO_PHON>7032927104</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Non-technical description:&lt;br/&gt;New functionalities could emerge in quantum materials when different yet related orders coexist, often referred to as “intertwined orders”. An important case is intertwined superconductivity and magnetism that are restricted to two dimensions, such as at the surface or interface. Such a scenario is extremely rare as the conditions for superconductivity and magnetism are usually mutually exclusive, yet the resulting new phases of matter are theoretically predicted to host exotic excitations useful as information carriers in quantum information technologies. In this work, the research team investigates the Fe-chalcogenide superconductors FeTe1-xSex (FTS), where intertwined superconductivity and magnetism have recently been discovered in the surface state. Precision magnetic microscopy and other experimental techniques are used to establish the rich magnetic and superconducting phase diagram, and to search for signatures of the predicted exotic excitations towards applications in magnetic sensing, energy-efficient electronics, and quantum information technologies. This project allows graduate and undergraduate students from underrepresented groups to take part in research and receive trainings in optics, cryogenics, precision measurement electronics, and programming. Through the outreach component, the research team reaches out to middle school students from disadvantaged regions in Santa Ana and motivates them to pursue careers in science and technology. &lt;br/&gt;&lt;br/&gt;Technical description:&lt;br/&gt;Highly correlated condensed matter systems are complex, with coexisting phases that are identified either by the topology of their electronic structure or through the spontaneous breaking of a certain symmetry. This complexity is recognized with “intertwined orders” due to their intimate relations and is technologically important due to the resulting new phases of matter. Of tremendous current interest is the correlated material system Fe-chalcogenide superconductors FeTe1-xSex (FTS) with rich intertwined orders. Using precision magneto-optic Sagnac imaging and transport techniques, the research team has recently established that the surface state is a topological magnetic metal with proximity-inherited superconducting order from the bulk, which remains superconducting but non-magnetic. As such, emerging phases of matter would occur in the surface state with predicted excitations called Majorana zero modes that promise important applications in quantum information technologies. In this project, the research team studies in an interconnected manner three forms of FTS: bulk crystal, exfoliated nano-flake, and atomic layers, to map out the phase diagram of intertwined orders as a function of chemical compositions, structure, and other external stimuli. The obtained information provides the basis for the search for signatures of predicted Majorana zero modes, their propagation at the boundary between adjacent crystal faces, as well as the manipulation of these excitations for potential devices. Through a hands-on outreach program, the research team interacts with students from the local disadvantaged Santa Ana area and motivates them to pursue careers in STEM.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/08/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2419425</AwardID>
+<Investigator>
+<FirstName>Jing</FirstName>
+<LastName>Xia</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jing Xia</PI_FULL_NAME>
+<EmailAddress><![CDATA[xia.jing@uci.edu]]></EmailAddress>
+<NSF_ID>000614579</NSF_ID>
+<StartDate>07/08/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>IRVINE</CityName>
+<ZipCode>926970001</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress><![CDATA[160 ALDRICH HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA47</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MJC5FCYQTPE6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA IRVINE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MJC5FCYQTPE6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>IRVINE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>926970001</ZipCode>
+<StreetAddress><![CDATA[4129 Reines Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA47</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>171000</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~522937</FUND_OBLG>
+</Award>
+</rootTag>

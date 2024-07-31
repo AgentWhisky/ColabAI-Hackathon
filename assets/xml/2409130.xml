@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation Potential of a Secure Data Platform Empowering Artificial Intelligence Assisted Digital Pathology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaime A. Camelio</SignBlockName>
+<PO_EMAI>jcamelio@nsf.gov</PO_EMAI>
+<PO_PHON>7032922061</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is the development of a new healthcare data management system. The new encryption workflow platform will enhance data traceability, fortify security, and simplify access, addressing critical deficiencies in traditional health record and imaging storage systems. The solution promises improved confidentiality, traceability, and accessibility of patient health records, tackling the growing challenges of data breaches in healthcare. Commercially, the technology offers a solution applicable across various healthcare segments, potentially reshaping the digital pathology market, projected to reach $2 billion by 2029. The platform's potential extends beyond pathology, with other opportunities in healthcare information management. &lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. The solution is based on the prior development of a data encryption workflow platform. The technology introduces a multi-signature encryption schema certified by Non-Fungible Tokens (NFTs) on the blockchain, using key-generation oracles, thus ensuring the secure deployment of artificial intelligence algorithms. The encryption schema will enable secure data transfers, guaranteeing data traceability, ownership, and secure storage. The robustness of the encryption method, validated through technical results, forms the foundation for advancing healthcare information management and digital pathology. This technology will provide a framework applicable across diverse healthcare domains.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/20/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/20/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409130</AwardID>
+<Investigator>
+<FirstName>Hemang</FirstName>
+<LastName>Subramanian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hemang Subramanian</PI_FULL_NAME>
+<EmailAddress><![CDATA[hsubrama@fiu.edu]]></EmailAddress>
+<NSF_ID>000720754</NSF_ID>
+<StartDate>02/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>MIAMI</CityName>
+<ZipCode>331992516</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress><![CDATA[11200 SW 8TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q3KCVK5S9CP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA INTERNATIONAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Q3KCVK5S9CP1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>MIAMI</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331992516</ZipCode>
+<StreetAddress><![CDATA[11200 SW 8TH ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8023</Code>
+<Text>Health Care Enterprise Systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

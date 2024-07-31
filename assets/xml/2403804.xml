@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Electronic, transport and topological properties of frustrated magnets]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>258480.00</AwardTotalIntnAmount>
+<AwardAmount>258480</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Serdar Ogut</SignBlockName>
+<PO_EMAI>sogut@nsf.gov</PO_EMAI>
+<PO_PHON>7032924429</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[NONTECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This award supports theoretical research on understanding quantum materials and phenomena related to frustrated magnetism, which refers to magnetic materials that have competing tendencies to assume different and mutually exclusive magnetic orders that lead to different macroscopic magnetic behavior. Additional complexity due to magnetic frustration makes theoretical and computational study of such materials rather challenging, and many interesting questions remain unanswered. Yet, for the same reason magnetically frustrated materials feature novel physical properties, which are of both fundamental and potential technological interest. This project is aimed at achieving new advances in conceptual understanding of the microscopic physics of such materials through a combined effort of theoretical physics and computational materials science approaches. The theoretical and computational research will proceed in close collaboration with experimental groups studying the same materials.&lt;br/&gt;&lt;br/&gt;This award also supports the PI's educational activities aimed at training undergraduate and graduate students, and a postdoctoral research associate in computational materials science. This training is expected to offer the students and postdoc an excellent opportunity to acquire knowledge in advanced electronic structure methods, state-of-the-art materials modeling techniques, and high-performance computing, which are essential for their future employment in academia or industry. &lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This award supports theoretical research on understanding quantum materials and phenomena related to frustrated magnetism. Magnetic frustration lies at the core of the notion of skyrmions and quantum spin liquids, and more often than not also triggers promising topological properties: Weyl and Dirac points, topological Hall effect, quantized anomalous Hall effect, controllable magneto-optics, and others. This project concentrates on electronic, transport and topological properties of frustrated magnets, using methods of theoretical physics and computational materials science.&lt;br/&gt;&lt;br/&gt;The goal of this project is to gain microscopic, materials-oriented insight into several novel classes of quantum materials with frustrated magnetism, providing a conceptual framework for design, discovery and application of relevant materials. Analytical modeling and both first principles (density functional theory and beyond) and second-principles (such as Monte-Carlo simulations utilizing first-principles-derived Hamiltonians) calculations will be employed. The research will approach the field of frustrated magnetism from both materials direction and physical effects direction. As such, the project has a potential to transform our understanding of the interplay between electronic structure, electronic topology, chemistry, crystallography and complex magnetic patterns, with an ultimate goal of providing a theoretical framework for synthesizing materials that can shape future technology and quantum information science through the emergent phenomena these materials harbor, applicable for spintronics, dissipationless electronics and quantum computing. &lt;br/&gt;&lt;br/&gt;This award also supports the PI's educational activities aimed at training undergraduate and graduate students, and a postdoctoral research associate in computational materials science. This training is expected to offer the students and postdoc an excellent opportunity to acquire knowledge in advanced electronic structure methods, state-of-the-art materials modeling techniques, and high-performance computing, which are essential for their future employment in academia or industry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2403804</AwardID>
+<Investigator>
+<FirstName>Igor</FirstName>
+<LastName>Mazin</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Igor I Mazin</PI_FULL_NAME>
+<EmailAddress><![CDATA[imazin2@gmu.edu]]></EmailAddress>
+<NSF_ID>000813379</NSF_ID>
+<StartDate>04/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Mason University</Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress>4400 UNIVERSITY DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EADLFP7Z72E5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE MASON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>H4NRWLFCDF43</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>220304422</ZipCode>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1765</Code>
+<Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~258480</FUND_OBLG>
+</Award>
+</rootTag>

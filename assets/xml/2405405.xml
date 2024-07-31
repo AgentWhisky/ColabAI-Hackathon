@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Algebraic Structures in String Topology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>288912.00</AwardTotalIntnAmount>
+<AwardAmount>288912</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eriko Hironaka</SignBlockName>
+<PO_EMAI>ehironak@nsf.gov</PO_EMAI>
+<PO_PHON>7032927041</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to understand the general structure of string interactions in a background space, its significance in geometry and mathematical physics, and to carry out explicit computations using algebraic models. Interactions of strings, paths, and loops are ubiquitous throughout mathematics and science. These range from observable phenomena in fluid dynamics (vortex rings in a fluid coming together to become a new ring or self-intersecting and breaking apart into multiple rings) to patterns arising in areas of theoretical physics such as string theory and quantum field theory. String topology proposes a mathematical model to study these interactions in terms of operations defined by intersecting, reconnecting, and cutting strings (closed curves) evolving in time in a manifold. Giving a rigorous and complete description of the structure of string topology, which is one of the aims of the proposed project, will also provide solid foundations for physical theories. Furthermore, the physicially inspired theory of string topology turns out to inform theoretical questions in mathematics: probing a space through strings and studying how all possible interactions are organized also reveals intricate aspects of the background geometry. Building upon previous work of the PI, the project proposes to algebraicize string topology through tractable models obtained by decomposing, or discretizing, the underlying space into cells and using techniques from algebraic topology and homological algebra, two well developed active fields of pure mathematics. These models will be applicable to study a wide range of string interaction phenomena appearing in both pure and applied mathematics as well as in theoretical physics. The proposed project includes a broad educational component focused on fostering mathematical activity and access at multiple levels. This involves graduate student training, organization of summer workshops and conferences that bring together researchers from a wide variety of fields, and the support of periodic seminars at the PI’s institution. &lt;br/&gt;&lt;br/&gt;In more technical detail, this project aims to study chain-level string topology with a focus on operations that are sensitive to geometric structure beyond the homotopy type of the underlying manifold. In particular, the PI proposes to construct a homotopy coherent structure lifting the Goresky-Hingston loop coalgebra (and its S^1-symmetric Lie cobracket version) originally defined on the homology of the space of free loops on a manifold relative to the constant loops. The construction of such structure will use an appropriate refinement of Poincaré duality and intersection theory at the level of chains on a finely triangulated manifold together with the theory of algebraic models for loop spaces of non-simply connected manifolds developed in previous work of the PI using techniques from Hochschild homology theory and Koszul duality theory. These models will be transparent enough to reveal the precise geometric ingredients that are necessary to construct a coherent hierarchy of higher structures for string topology. This hierarchy of chain-level operations will provide a rich source of computable and potentially new manifold invariants. Connections with symplectic geometry, homological mirror symmetry, and the theory of quantization will be explored.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2405405</AwardID>
+<Investigator>
+<FirstName>Manuel</FirstName>
+<LastName>Rivera</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Manuel L Rivera</PI_FULL_NAME>
+<EmailAddress><![CDATA[river227@purdue.edu]]></EmailAddress>
+<NSF_ID>000681384</NSF_ID>
+<StartDate>03/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE STE 1900]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126700</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~288912</FUND_OBLG>
+</Award>
+</rootTag>

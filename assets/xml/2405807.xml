@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Recycling the Radio Spectrum for Science: A New Paradigm for UAS-based Precision Agriculture]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>460747</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jenshan Lin</SignBlockName>
+<PO_EMAI>jenlin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927360</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Demand for radio spectrum space is growing quickly, spurred by the explosion of emerging technologies such as the Internet of Things (IoT), Unmanned Aircraft Systems (UASs), and 5G networks. Unfortunately, the growth of active wireless systems often increases radio frequency (RF) interference (RFI) in science observations. As it stands, very little of the RF spectrum is dedicated to science, and the small amount of spectrum available can fall victim to neighboring RFI or re-allocation for commercial use in the wake of the growing demand for bandwidth in commercial applications.  This project focuses on changing the paradigm of remote sensing methods and developing next generation technologies and ideas that are more spectrum efficient, more effective, and meet the challenges of present and future spectrum congestion.  In particular, the project will recycle existing RF communication and navigation signals to enable new remote sensing methodologies at these commercially protected bands for scientific use in a myriad of practical solutions for precision agriculture, forestry, water conservation.  This project will demonstrate new, low-cost sensing technologies in practical settings and contribute to the agriculture economy.  The developed technology aims to usher in a host of precision irrigation for agricultural applications in the nation and worldwide with emphasis in economically distressed areas and developing countries.  The complementary educational goals of the Principal Investigator (PI) are to generate a greater awareness and understanding among students, the public, and farmers about the amazing world of microwave remote sensing and its utility for non-intrusive tracking of the world’s most precious resource: water in plants and soil. The project will support the PI’s efforts to broaden the participation of today’s diverse students, including underrepresented minority groups, in STEM education though activities such as new mobile apps, drones, games, and fun facts. &lt;br/&gt;&lt;br/&gt;This project will construct fundamental microwave remote sensing science, a disruptive sensing framework, and integrated ubiquitous platforms that are non-intrusive, widely accessible, and automated to improve water utilization. This goal will be realized by offering at least three specific new contributions: (1) generating fundamental knowledge needed for a paradigm shift towards microwave bands in UAS-based precision agriculture, (2) designing an integrated/connected RF testbed for evaluating the new paradigm, and (3) integrating smartphones into low-cost drones for broader adaptation. These objectives will be achieved by conducting advanced electromagnetic modeling and simulations, physics-aware machine-learning-based soil moisture retrievals, and field validation. Specifically, this work will generate the scientific basis for accurate water monitoring of root-zone soil moisture observations by recycling low-frequency emissions in microwave spectrum from small drones. Exploring the low-frequency microwave spectrum for remote sensing from drones is unprecedented because no existing small drone instrument is capable of remote sensing at such low frequencies in microwave spectrum. This project will fill in the necessary scientific basis to evaluate the approach’s feasibility and develop the foundation for the algorithms to support such a paradigm. This work will be important for developing the requirements for water utilization in irrigated and rainfed farming and creating algorithms for the new paradigm of RF-assisted UAS-based precision agriculture.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/04/2023</MinAmdLetterDate>
+<MaxAmdLetterDate>12/04/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2405807</AwardID>
+<Investigator>
+<FirstName>Mehmet</FirstName>
+<LastName>Kurum</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mehmet Kurum</PI_FULL_NAME>
+<EmailAddress><![CDATA[kurum@uga.edu]]></EmailAddress>
+<NSF_ID>000745410</NSF_ID>
+<StartDate>12/04/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Georgia Research Foundation Inc]]></Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress><![CDATA[310 E CAMPUS RD RM 409]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NMJHD63STRC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia Research Foundation Inc]]></Name>
+<CityName>ATHENS</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306021589</ZipCode>
+<StreetAddress><![CDATA[310 E CAMPUS RD RM 409]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>756400</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096E</Code>
+<Text>High freq comm/sensing circuits</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>105E</Code>
+<Text>RF/Microwave &amp; mm-wave tech</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~359805</FUND_OBLG>
+<FUND_OBLG>2023~100942</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Tensor-valued finite elements and applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>56009</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Tensor-valued functions are crucial mathematical abstractions in many areas of science. They are indispensable in modeling solids, fluids, electromagnetics, and even the spacetime we occupy, all areas touched upon in this project. The overarching goal of this project is to build new numerical facilities for approximating certain important tensor fields using new finite elements. The pursuit of this goal is guided not only by the utilitarian considerations of the applications, but also by the elegance of mathematical structures within which the new numerical tools potentially fit. These abstract structures have transdisciplinary connections, including applications of societal impact in material science, fluid dynamics, and optics.&lt;br/&gt;&lt;br/&gt;Several specific tensor functions, rich in applications, are targeted in this study for finite element approximation. They include the Riemann curvature tensor on manifolds, the Cauchy stress tensor in solid mechanics, and viscous stresses in incompressible fluids. Certain second-order differential operators, like the incompatibility operator, arising in mechanics and linearized relativity, are targeted for approximation using distributional techniques suited for non-smooth finite elements. The project develops new simulation tools for temporal evolution of certain tensors using symplectic integrators and automatic locally variable timestepping using spacetime tents. Varied elements of this project are unified by a modern viewpoint, exemplified by fitting many existing scalar and vector finite elements into a subcomplex of the de Rham complex. The search for a similar unifying algebraic structure connecting tensor spaces, through certain natural second-order differential operators, is a common mathematical thread running through all aspects of this project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/03/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409900</AwardID>
+<Investigator>
+<FirstName>Jay</FirstName>
+<LastName>Gopalakrishnan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jay Gopalakrishnan</PI_FULL_NAME>
+<EmailAddress><![CDATA[gjay@pdx.edu]]></EmailAddress>
+<NSF_ID>000604925</NSF_ID>
+<StartDate>06/03/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Portland State University]]></Name>
+<CityName>PORTLAND</CityName>
+<ZipCode>972015508</ZipCode>
+<PhoneNumber>5037259900</PhoneNumber>
+<StreetAddress><![CDATA[1600 SW 4TH AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H4CAHK2RD945</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PORTLAND STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>WWUJS84WJ647</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Portland State University]]></Name>
+<CityName>PORTLAND</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>972015522</ZipCode>
+<StreetAddress><![CDATA[1600 SW 4TH AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~56009</FUND_OBLG>
+</Award>
+</rootTag>

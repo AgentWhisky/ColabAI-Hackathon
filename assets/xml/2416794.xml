@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: The Supply-Side of the United States Supreme Court Docket]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>151175.00</AwardTotalIntnAmount>
+<AwardAmount>47623</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reginald Sheehan</SignBlockName>
+<PO_EMAI>rsheehan@nsf.gov</PO_EMAI>
+<PO_PHON>7032925389</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>As the ultimate arbiter of crucial legal disputes, the U.S. Supreme Court occupies a pivotal position in American democracy. However, relatively few cases make it to the Court. In any given year, the Court receives thousands of petitions asking it to review lower court decisions, of which less than one hundred are granted review, or writ of certiorari. The discretionary authority to choose its cases endows the Court with substantial influence in shaping national public policy. Given the statistical rarity of a case receiving a formal decision by the U.S. Supreme Court, and the unrepresentative nature of the petitions that justices choose among, it is critical to understand not just the decisions the Court makes on the merit, but also the density and diversity of issues and interests competing for the Court’s consideration. How does the supply of certiorari petitions shape the justices’ behaviors? How do external actors, such as interest groups and the media, shape the Court’s docket? How does the Court’s selection of petitions granted review represent the plurality of public interests? To answer these and related questions, the research project endeavors to collect, categorize and analyze a host of important features in the writ of certiorari process. Recognizing the seminal importance of the agenda-setting stage, the research intends to provide a better understanding of judicial decision-making and judicial processes as well as the essential role of courts in American democracy.&lt;br/&gt;&lt;br/&gt;The research enhances existing theories of judicial behavior, with a specific focus on the early stage of decision-making in the United States Supreme Court: the decision to grant review, or writ of certiorari. The research collects and analyzes case features from all writ of certiorari petitions— that is, all lower court cases where the losing party, dissatisfied with the outcome, appeals to the US Supreme Court. The study catalogs—for the first time—the geographic origin, temporal distribution, and issue areas of cases the Court is asked to review. It also examines the role played by external actors in shaping the Court’s agenda, including the media and interest groups, as well as the extent to which the Court’s final selection of cases is consistent with the expectations of the plurality of interests in society. This multifaceted investigation inquires into how these factors collectively impact the decision-making process of the justices, leading to both empirical and theoretical contributions in the study of judicial decision-making. First, it provides new data on writs of certiorari petitions that are comprehensive over time and space, and across issues. Second, the project presents a unique perspective on the courts more generally by contributing to theories that are built around informational cues, and by using computational social science methods to test how the selection of cases impacts judicial outcomes. Third, it seeks to refine and extend machine learning algorithms for legal text analysis of cert petitions and external actors, potentially paving the way and setting new standards for data-driven research in judicial politics. Finally, it supplements the quantitative analyses with interviews of former Supreme Court clerks and amicus-filing entities to provide a richer perspective on how the justices sort through the large number of petitions received every year, and how the Court selects the final set of cases to review. Through the research, and, importantly, the creation of a dataset that categorizes a host of features of all cert petitions to the Court, this project will provide judicial, interest group, media scholars and the public with new insights on the workings of the judicial system.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/27/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2416794</AwardID>
+<Investigator>
+<FirstName>Dino</FirstName>
+<LastName>Christenson</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dino P Christenson</PI_FULL_NAME>
+<EmailAddress><![CDATA[dinopc@wustl.edu]]></EmailAddress>
+<NSF_ID>000580389</NSF_ID>
+<StartDate>06/27/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Washington University]]></Name>
+<CityName>SAINT LOUIS</CityName>
+<ZipCode>63110</ZipCode>
+<PhoneNumber>3147474134</PhoneNumber>
+<StreetAddress><![CDATA[ONE BROOKINGS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L6NFUM28LQM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WASHINGTON UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Washington University]]></Name>
+<CityName>SAINT LOUIS</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>63110</ZipCode>
+<StreetAddress><![CDATA[ONE BROOKINGS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128Y00</Code>
+<Text>Law &amp; Science</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~47623</FUND_OBLG>
+</Award>
+</rootTag>

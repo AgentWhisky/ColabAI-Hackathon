@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CPS: NSF-JST: Enabling Human-Centered Digital Twins for Community Resilience]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>299798.00</AwardTotalIntnAmount>
+<AwardAmount>299798</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Fahmida Chowdhury</SignBlockName>
+<PO_EMAI>fchowdhu@nsf.gov</PO_EMAI>
+<PO_PHON>7032924672</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This US-Japan joint research project aims to apply and expand the concept of “digital twins” into disaster science and build a “Disaster Digital Twin” (DDT) which utilizes human-centered data to improve community resilience. The DDT will capture the evolution of a disaster and its impacts to humans, creating an approximate replica in the cyberworld through sensing, computing, and communication. Given that disasters have a disproportionate impact on older adults (across disasters in Japan and the US, nearly 75% of mortality and morbidity burdens are among those over the age of 65), this project will focus on older adults as the key population with personalized care needs in a disaster. The US-Japan team will design tools to create “Virtual Disaster City” (VDC) with the aim to provide transformative improvements to disaster science by integrating model-driven methods with data driven techniques. As data are continuously updated, so are the models executing within the VDC – as changes occur, new predictions and recommendations will help drive disaster management decisions.&lt;br/&gt;&lt;br/&gt;Specific research tasks of this collaborative US-Japan project include: 1) stakeholder workshops to understand the older adult disaster resilience landscape; 2) integrate diverse data sources (geospatial and human-centric) into a novel data architecture, that supports enrichment and harmonization/alignment of multiresolution spatiotemporal data; 3) execute physics-driven hazard simulations developed by experts in the US/Japan team using the integrated data; and 4) simulate disaster processes and consequences in VDC with target older adult population and relevant hazards on the US West Coast and Tohoku region in Japan to explore optimality of response decisions/policies. The disaster digital twin framework and tools developed will build upon existing, tested technologies by PIs at both countries: multi-agent disaster simulation framework developed in Japan, and he CAREDEX data exchange platform for older adults in the US.&lt;br/&gt;&lt;br/&gt;While the project focuses on disaster preparedness for senior populations during hazard events such as tsunamis and earthquakes, the proposed technology has the potential for widespread usage for vulnerable populations in multihazard settings. The project will offer opportunities for PhD and postdoctoral researchers to contribute, as well as involve undergraduates, graduates and minorities to develop and ruggedize systems related to disaster resilience for our vulnerable populations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070, 47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2420846</AwardID>
+<Investigator>
+<FirstName>Ronald</FirstName>
+<LastName>Eguchi</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ronald T Eguchi</PI_FULL_NAME>
+<EmailAddress><![CDATA[rte@imagecatinc.com]]></EmailAddress>
+<NSF_ID>000455303</NSF_ID>
+<StartDate>02/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sharad</FirstName>
+<LastName>Mehrotra</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sharad Mehrotra</PI_FULL_NAME>
+<EmailAddress><![CDATA[sharad@ics.uci.edu]]></EmailAddress>
+<NSF_ID>000491471</NSF_ID>
+<StartDate>02/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nalini</FirstName>
+<LastName>Venkatasubramanian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nalini Venkatasubramanian</PI_FULL_NAME>
+<EmailAddress><![CDATA[nalini@ics.uci.edu]]></EmailAddress>
+<NSF_ID>000315745</NSF_ID>
+<StartDate>02/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>IRVINE</CityName>
+<ZipCode>926970001</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>160 ALDRICH HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA47</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MJC5FCYQTPE6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA IRVINE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>IRVINE</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>926973425</ZipCode>
+<StreetAddress><![CDATA[2082 Bren Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA47</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>054Y</Code>
+<Text>GVF - Global Venture Fund</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7918</Code>
+<Text>CPS-Cyber-Physical Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5921</Code>
+<Text>JAPAN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~299798</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Splicing Summation Formulae and Triple Product L-Functions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>220000.00</AwardTotalIntnAmount>
+<AwardAmount>220000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award concerns the Langlands program which has been described as a grand unification theory within mathematics.  In some sense the atoms of the theory are automorphic representations.  The Langlands functoriality conjecture predicts that a collection of natural correspondences preserve these atoms.  To even formulate this conjecture precisely, mathematical subjects as diverse as number theory, representation theory, harmonic analysis, algebraic geometry, and mathematical physics are required.  In turn, work on the conjecture has enriched these subjects, and in some cases completely reshaped them. &lt;br/&gt;&lt;br/&gt;One particularly important example of a correspondence that should preserve automorphic representations is the automorphic tensor product. It has been known for some time that in order to establish this particular case of Langlands functoriality it suffices to prove that certain functions known as L-functions are analytically well-behaved. More recently, Braverman and Kazhdan, Ngo, Lafforgue and Sakellaridis have explained that the expected properties of these L-functions would follow if one could obtain certain generalized Poisson summation formulae.  The PI has isolated a particular family of known Poisson summation formulae and proposes to splice them together to obtain the Poisson summation formulae relevant for establishing the automorphic tensor product.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400550</AwardID>
+<Investigator>
+<FirstName>Jayce</FirstName>
+<LastName>Getz</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jayce R Getz</PI_FULL_NAME>
+<EmailAddress><![CDATA[jgetz@math.duke.edu]]></EmailAddress>
+<NSF_ID>000627725</NSF_ID>
+<StartDate>04/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054640</ZipCode>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~220000</FUND_OBLG>
+</Award>
+</rootTag>

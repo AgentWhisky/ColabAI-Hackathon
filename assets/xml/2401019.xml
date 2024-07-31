@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: Supplementary funding for the BIRS-CMO workshop Optimal Transport and Dynamics (24s5198)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>14420.00</AwardTotalIntnAmount>
+<AwardAmount>14420</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jan Cameron</SignBlockName>
+<PO_EMAI>jcameron@nsf.gov</PO_EMAI>
+<PO_PHON>7032924544</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The funds from this award will support local expenses for additional participants from US institutions to the Banff International Research Station-Casa Matemática Oaxaca workshop 24w5198, “Optimal Transport and Dynamics” which will be held August 11 to August 16, 2024, in Oaxaca, Mexico. This workshop will focus on applications of the optimal transport problem, a mathematical problem where the goal is to minimize the total cost of transporting mass from one location to another, to problems involving physical processes that change with time. Such processes include interface motion (such as how water spreads on a surface), models for tumor growth, modeling fluid flows, multi-species population dynamics, and reconstruction of the state of the early universe. The workshop will provide a unique opportunity for early-career researchers to develop connections with and be exposed to the cutting-edge research of well-established leaders in the field. Additionally, the workshop will establish connections between mathematicians and cosmologists, to further accelerate development of the tools and theory behind computation in early universe reconstruction.  More information on the workshop may be found at https://www.birs.ca/events/2024/5-day-workshops/24w5198.&lt;br/&gt; &lt;br/&gt; &lt;br/&gt;The workshop will bring together experts working in optimal transport (Monge-Kantorovich) theory with connections to dynamics interpreted in a broad sense. This includes using optimal transport and related tools to analyze and model fluid flows, interface motion in evolutionary PDE, and also the use of dynamical techniques such as the theory of the parabolic Monge-Ampère PDE for computational and theoretical analysis of optimal transport itself. Optimal transport theory has also been used as a computational model for early universe reconstruction that is consistent with the Zel’dovich approximation, by cosmologists with great success. With recent developments in cosmological surveying and the availability of new data, this area is currently experiencing a revival and is a particularly timely topic. The workshop will consist of a combination of short and long talks solicited from participants, with priority given to presentations by early-career researchers (i.e., graduate students, postdoctoral researchers, and pre-tenure faculty). To take advantage of the international diversity present in the participant list, there will also be a panel discussion on differences in academic job search procedures in different countries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401019</AwardID>
+<Investigator>
+<FirstName>Jun</FirstName>
+<LastName>Kitagawa</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jun Kitagawa</PI_FULL_NAME>
+<EmailAddress><![CDATA[jun@msu.edu]]></EmailAddress>
+<NSF_ID>000705090</NSF_ID>
+<StartDate>04/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128100</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~14420</FUND_OBLG>
+</Award>
+</rootTag>

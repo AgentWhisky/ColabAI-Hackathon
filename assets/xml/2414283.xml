@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Infrared photonics using ferroelectric scandium-aluminum nitride semiconductors]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>550000.00</AwardTotalIntnAmount>
+<AwardAmount>180489</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yaroslav Koshka</SignBlockName>
+<PO_EMAI>ykoshka@nsf.gov</PO_EMAI>
+<PO_PHON>7032924986</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Nontechnical description&lt;br/&gt;This project investigates the unique electronic and optical properties brought about by incorporation of scandium into traditional nitride semiconductors. These materials enable novel light sources and detectors that can be used in practical applications ranging from chemical sensing and medical diagnostics to power electronics and energy harvesting. The research effort involves material design with computer simulations, synthesis of ultra-pure defect-free semiconductors, as well as structural and optical material characterization. This project also combines material research with educational and outreach activities that aim to increase learning opportunities for students of all ages, inside and outside the traditional classroom. The investigators and students involved in this project participate in outreach activities organized either in-house or at local schools to increase exposure of K-12 students and the general public to modern scientific topics in materials science in a fun, project-oriented environment. Lesson plans are designed and experimental demonstrations of basic optical properties of matter are built for the middle-school summer camp “Physics Inside Out” at Purdue. To maximize impact at the high-school level, the activities engage teachers in summer research. In particular, the teachers are developing inquiry-based lesson plans incorporating concepts related to quantum science into the high-school curriculum. The researchers also design hands-on activities with take-home materials for the annual meeting of the Hoosier Association of Science Teachers.&lt;br/&gt;&lt;br/&gt;Technical description&lt;br/&gt;The principal objective of this project is to establish wurtzite ScAlN as a viable photonic platform for novel infrared applications.  This project exploits the unique native properties of ferroelectric ScAlN and further manipulates them within designed structures to facilitate utilization of the near-infrared range of the spectrum. In particular, optical transitions between quantized states in the conduction band of near lattice-matched ScAlN/GaN heterostructures are utilized to expand device capabilities to generate, detect, and modulate infrared light. III-nitride semiconductors have unique electronic properties that make them suitable for advancing the functionality of semiconductor devices into spectral ranges currently inaccessible with other material systems. The innovative approach employs the emergent photonic material Sc-Al-nitride to mitigate strain-related issues that have impeded progress of nitride photonics into the infrared in the past. The research effort is interdisciplinary and involves material design and growth, structural characterization, and optical characterization. ScAlN/GaN heterostructures are designed using extensive band-structure calculations. To achieve maximum material purity and monolayer-control of the atomic structure, the Sc-containing materials are grown by plasma-assisted molecular beam epitaxy on high quality quasi-bulk GaN substrates. A central task is to identify the epitaxial growth conditions that satisfy the most stringent requirements imposed by near-infrared optical processes. To correlate microstructure with optical and electronic properties, the structure of the semiconductor materials is comprehensively characterized with high-resolution x-ray diffraction, aberration-corrected transmission electron microscopy, and atom-probe tomography. The band structure of the materials is probed experimentally with Fourier transform infrared spectroscopy and photoluminescence. The research contributes to the fundamental understanding of the physics of intersubband optical transitions and nonlinear optical processes. These infrared materials are expected to immediately enable emitters and photodetectors with functionality unmatched by current technologies (wider spectral range, higher speeds, and better temperature performance). They are also ideal candidates for photonic integrated circuits as well as monolithic integration with Si electronics. Successful second-harmonic generation on chip opens avenues for other nonlinear processes such as difference frequency generation and parametric down-conversion. Moreover, the novel Sc-containing semiconductors are beneficial for other applications in electronic (e.g. high-electron mobility transistors), ultraviolet, thermoelectric, piezoelectric, and plasmonic devices.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414283</AwardID>
+<Investigator>
+<FirstName>Oana</FirstName>
+<LastName>Malis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Oana Malis</PI_FULL_NAME>
+<EmailAddress><![CDATA[omalis@purdue.edu]]></EmailAddress>
+<NSF_ID>000096958</NSF_ID>
+<StartDate>03/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Manfra</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Manfra</PI_FULL_NAME>
+<EmailAddress><![CDATA[mmanfra@purdue.edu]]></EmailAddress>
+<NSF_ID>000544506</NSF_ID>
+<StartDate>03/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>2550 NORTHWESTERN AVE # 1100</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE STE 1900]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>106Z</Code>
+<Text>Microelectronics and Semiconductors</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~180489</FUND_OBLG>
+</Award>
+</rootTag>

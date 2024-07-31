@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: A Genome Wide HDR Enhancement Screen in Maize]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kan Wang</SignBlockName>
+<PO_EMAI>kawang@nsf.gov</PO_EMAI>
+<PO_PHON>7032924591</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[A powerful way to protect crops from disease and climate stress is to replace traits of susceptible crop varieties with traits from resistant varieties. The enormous variety of traits that different plants have evolved to cope with stress then becomes available to protect the food supply. The discovery of CRISPR (clustered regularly interspaced short palindromic repeats) and its application to biology have made such trait-replacement approaches possible by replacing one piece of DNA (the genetic material that encodes traits) with another at a precise location in a plant’s DNA. However, the replacement activity, which relies on the plant’s own proteins, is highly inefficient in plants, making its use impractical. The project embarks on a search to test many possible ways to change crop DNA in order to make the replacement function of CRISPR more efficient. In this project, a plant and animal researcher join forces to conduct the type of searches – called screens – that were done in human cells and now in plant cells. These screens are done in preparations of millions of free cells that activate many genes to test for one that makes replacement more efficient. The goal of the project is to develop a method to make the most productive crops amenable to receiving new genes that make them more stress-tolerant.&lt;br/&gt;&lt;br/&gt;The ability to transfer traits from one plant to another using CRISPR-mediated homology directed repair (HDR) would offer a powerful approach to develop new varieties that could tolerate climate change. However, HDR, which involves the activity of endogenous genes, is highly inefficient in plants, limiting its use. The project adapts HDR-enhancement screens performed in animals to plants, screening for endogenous genes that improve HDR efficiency. The screen involves a genome-wide CRISPR activation (CRISPRa) component in a suspension of free plant cells (protoplasts), in this case from Zea mays. The CRISPRa components are tittered to activate one gene per cell. The cells come from a line that carries a constitutively expressed green fluorescent protein (GFP). A rare “hit” – a gene whose activation improves HDR – will replace the GFP with a cyan fluorescent protein (CFP) sequence. The CFP-positive cells are separated via Fluorescence Activated Cell Sorting (FACS) and the genes that mediated the HDR events are identified by amplifying the guide RNA cassette by the Polymerase Chain Reaction and sequencing. These hits are then verified by independent tests and, if they pass secondary screening, are tethered to a CRISPR associated protein 9 enzyme for testing in planta.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/07/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>02/07/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409037</AwardID>
+<Investigator>
+<FirstName>Kenneth</FirstName>
+<LastName>Birnbaum</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kenneth D Birnbaum</PI_FULL_NAME>
+<EmailAddress><![CDATA[ken.birnbaum@nyu.edu]]></EmailAddress>
+<NSF_ID>000174889</NSF_ID>
+<StartDate>02/07/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Neville</FirstName>
+<LastName>Sanjana</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Neville Sanjana</PI_FULL_NAME>
+<EmailAddress><![CDATA[nsanjana@nygenome.org]]></EmailAddress>
+<NSF_ID>000874028</NSF_ID>
+<StartDate>02/07/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQ S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1329</Code>
+<Text>Plant Genome Research Project</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~300000</FUND_OBLG>
+</Award>
+</rootTag>

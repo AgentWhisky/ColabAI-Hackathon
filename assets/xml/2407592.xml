@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Liquid crystals, their suspensions, and extreme wave phenomena in photonic devices]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>230111.00</AwardTotalIntnAmount>
+<AwardAmount>230111</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project has two scientific research threads: a) liquid crystals (and their suspensions), and b) extreme wave phenomena in photonic devices. Concerning a): Certain materials, often made up of rod-like or disc-like molecules, display a range of "liquid crystalline phases" at suitable temperature/concentration ranges; these phases lie between the traditional (disordered) liquid and (ordered) crystalline phase, and thus possess varying degrees of order. Liquid crystals and their suspensions have revolutionized the industry of ultra-thin display devices and are showing promise in a number of other applications such as drug delivery, active matter and the orientation of carbon nanotubes. Concerning b): The photonic devices studied in this project include certain novel kinds of resonators, waveguides, and antennas. Particular focus is on devices made from epsilon near zero materials: these are materials whose dielectric permittivity is close to zero at the frequency of device operation. These novel devices find applications in efforts to enhance light-matter interactions. Common to both scientific threads of the proposed research is that their mathematical modeling leads to unconventional questions in partial differential equations and the calculus of variations that require new analytical tools that this project will develop. The scientific broader impact of this research is that its findings are expected to shed valuable insights on specific models used in application areas. These insights are expected to explain the results of direct numerical simulation (DNS) when this is possible, and more importantly, provide qualitative and (sometimes) quantitative information when DNS becomes formidable or even prohibitive. The project will also include a significant component on human resource development: a number of the projects in this award will be carried out in collaboration with graduate students and postdocs at the University of Utah. The trainees will learn, use, and develop tools in the calculus of variations, partial differential equations, geometric measure theory and homogenization theory.&lt;br/&gt;&lt;br/&gt;Concerning liquid crystals, at the heart of their role in the aforementioned applications are both their anisotropic properties leading to their ordered phases on the one hand, and the rich phase transitions they can undergo between phases displaying varying degrees of order. This project will elucidate these effects through mathematical modeling and analysis and explain how they robustly result in a description of the shapes of the phase boundaries between the ordered nematic and disordered isotropic phase. A different goal of the research thread on liquid crystals is the justification of the widely used "electrostatic" description of the many-particle interactions in out-of-equilibrium liquid crystal colloids. Such a description is invaluable, because without it the modeling of liquid crystal colloids consists of a highly nonconvex, nonlinear problem in a domain exterior to the colloidal particles (coupled with other multi-physics aspects of the specific application). Concerning photonic devices: The mathematical problems addressed will involve either the Maxwell system (in 3D) or the scalar Helmholtz equation (in 2D) but with piecewise constant, complex coefficients; often such systems interact in interesting ways with geometric features such as corners, producing resonance effects. This project is aimed at understanding these effects, and some novel shape optimization problems arising from these physical situations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/13/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/13/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2407592</AwardID>
+<Investigator>
+<FirstName>Raghavendra</FirstName>
+<LastName>Venkatraman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Raghavendra Venkatraman</PI_FULL_NAME>
+<EmailAddress><![CDATA[rv705@nyu.edu]]></EmailAddress>
+<NSF_ID>000964456</NSF_ID>
+<StartDate>05/13/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841129049</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL8GLEVH6MG3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF UTAH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841129049</ZipCode>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~230111</FUND_OBLG>
+</Award>
+</rootTag>

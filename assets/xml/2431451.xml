@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CIVIC-PG Track A: A Disaster Multiplayer Online Game (DMOG) to Enhance Emergency Preparedness and Resilience in the Midwest]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>75000.00</AwardTotalIntnAmount>
+<AwardAmount>75000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daan Liang</SignBlockName>
+<PO_EMAI>dliang@nsf.gov</PO_EMAI>
+<PO_PHON>7032922441</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Civic Innovation Challenge Planning Grant (CIVIC-PG) supports research on design and implementation of an online game that focuses on disasters in the Midwest. Communities face major barriers during pre-disaster planning as emergency preparedness and response involve multiple organizations and decision makers, each with different roles and responsibilities and limited resources. The type and severity of disaster, its timing, and its location are uncertain. To overcome these barriers, Iowa State University and Polk County (Iowa) Emergency Management will collaboratively develop the Disaster Multiplayer Online Game (DMOG). DMOG brings decision makers together in an engaging, online interactive activity in which participants (e.g., law enforcement, fire, medical services, city and state officials) explore disaster scenario (i.e., a derecho during the Iowa State Fair), grapple with the uncertainty and trade-offs, and learn about the roles and responsibilities of different organizations. Such an immersive experience enables stakeholders to gain more intuitive judgment about disaster planning and make better emergency planning decisions. &lt;br/&gt;&lt;br/&gt;DMOG introduces innovation to training and education for emergency management profession. The learning objectives of DMOG are to: (i) increase knowledge sharing about roles in emergency management and enhance emergency preparedness decision making, and (ii) foster continuous collaboration and communication among emergency management decision makers. To what extent an online synchronous disaster game enhances knowledge gain and preparedness capabilities is systematically assessed. The Stage 1 planning grant focuses on identifying, interviewing, and recruiting project participants, especially in organizations involved in emergency management and community leaders in Polk County. DMOG adopts an iterative participatory design, resulting in a Game Design Document (GDD) at the end of Stage 1. The GDD serves as the blueprint for game play, players and their roles, and specific characteristics of the disaster scenario. The project team then conducts experiments to assess the effectiveness of DMOG during Stage 2 against existing training and tabletop exercises.&lt;br/&gt;&lt;br/&gt;This project is in response to the Civic Innovation Challenge program’s Track A. Climate and Environmental Instability - Building Resilient Communities through Co-Design, Adaption, and Mitigation and is a collaboration between NSF, the Department of Homeland Security, and the Department of Energy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2431451</AwardID>
+<Investigator>
+<FirstName>Eliot</FirstName>
+<LastName>Winer</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eliot H Winer</PI_FULL_NAME>
+<EmailAddress><![CDATA[ewiner@iastate.edu]]></EmailAddress>
+<NSF_ID>000149354</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sri</FirstName>
+<LastName>Sritharan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sri Sritharan</PI_FULL_NAME>
+<EmailAddress><![CDATA[sri@iastate.edu]]></EmailAddress>
+<NSF_ID>000486815</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Gilbert</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen B Gilbert</PI_FULL_NAME>
+<EmailAddress><![CDATA[gilbert@iastate.edu]]></EmailAddress>
+<NSF_ID>000504477</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Cameron</FirstName>
+<LastName>MacKenzie</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cameron A MacKenzie</PI_FULL_NAME>
+<EmailAddress><![CDATA[camacken@iastate.edu]]></EmailAddress>
+<NSF_ID>000731701</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Cristina</FirstName>
+<LastName>Poleacovschi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cristina Poleacovschi</PI_FULL_NAME>
+<EmailAddress><![CDATA[poleacov@iastate.edu]]></EmailAddress>
+<NSF_ID>000755512</NSF_ID>
+<StartDate>07/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<ZipCode>500112103</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress><![CDATA[1350 BEARDSHEAR HALL]]></StreetAddress>
+<StreetAddress2><![CDATA[515 MORRILL ROAD]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DQDBM7FGJPC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DQDBM7FGJPC5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>500112103</ZipCode>
+<StreetAddress><![CDATA[1350 BEARDSHEAR HALL]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>033Y00</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>138500</Code>
+<Text>SSA-Special Studies &amp; Analysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>041E</Code>
+<Text>HAZARD AND DISASTER REDUCTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>042E</Code>
+<Text>HAZARD AND DISASTER RESPONSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~75000</FUND_OBLG>
+</Award>
+</rootTag>

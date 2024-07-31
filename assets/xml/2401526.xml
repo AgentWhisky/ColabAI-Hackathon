@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Geometric Langlands and Automorphic Functions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>360000.00</AwardTotalIntnAmount>
+<AwardAmount>118501</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+<PO_EMAI>mdouglas@nsf.gov</PO_EMAI>
+<PO_PHON>7032922467</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The modern, connected world is built on mathematical duality. Signals have two equivalent mathematical representations: one containing the data we care about, and a second, Fourier dual representation, as a formal mathematical sum of functions like sines and cosines. Mathematically, one can formally convert between the two pictures, but the differences between the two points of view matter in mathematics, physics, and engineering. For example, in order to “simplify” an image, one might naively cut it in half; a better idea is to use the Fourier transform, forget some of the information, and then apply an inverse Fourier transform; this is the basis of image compression. This project will study an incarnation of duality in a setting that involves geometry and arithmetic. The project will provide research training opportunities for graduate students.   &lt;br/&gt;&lt;br/&gt;In more detail, in the 1960’s, Robert Langlands proposed settings in number theory where similar ideas about mathematical duality could be considered. He conjectured that automorphic functions would replace signals and representations of a dual group would replace the periodicity types of sine and cosine functions. These conjectures have been the starting point for a great deal of interesting mathematics since; they contain profound arithmetic meaning in a non-abelian Fourier package. A geometric variant of Langlands' conjectures was later proposed by Beilinson and Drinfeld. This project will prove the latter conjectures for general groups and obtain applications to the classical (arithmetic) Langlands conjectures. The results will be the first global theorems of their type for general reductive groups.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/29/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/29/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401526</AwardID>
+<Investigator>
+<FirstName>Sam</FirstName>
+<LastName>Raskin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sam Raskin</PI_FULL_NAME>
+<EmailAddress><![CDATA[sam.raskin@yale.edu]]></EmailAddress>
+<NSF_ID>000650862</NSF_ID>
+<StartDate>04/29/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<ZipCode>065113572</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress><![CDATA[150 MUNSON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FL6GV84CKN57</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>YALE UNIV</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FL6GV84CKN57</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[YALE UNIVERSITY]]></Name>
+<CityName>NEW HAVEN</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>065113572</ZipCode>
+<StreetAddress><![CDATA[150 MUNSON ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~118501</FUND_OBLG>
+</Award>
+</rootTag>

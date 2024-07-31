@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Spatial Homogeneity Learning Models with Applications to Socioeconomic Problems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cheryl Eavey</SignBlockName>
+<PO_EMAI>ceavey@nsf.gov</PO_EMAI>
+<PO_PHON>7032927269</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This research project will develop statistical methodologies and associated theories that facilitate the analysis of spatial data for socioeconomic problems. The project is motivated by common features found in many modern datasets, such as the U.S. Census Bureau's American Community Survey, data from the U.S. Bureau of Economic Analysis, and County Health Rankings &amp; Roadmaps data. These public-use datasets are enormous and have hidden homogeneity features on many different demographic and economic indicators, at different spatial locations and different time periods. This project will provide a general formulation and a flexible machine learning toolbox for exploring latent heterogeneity and subgroups and discovering hidden patterns within subgroups of spatial data. Students will be recruited, especially from underrepresented groups, to participate in the research. New courses on spatio-temporal statistics and geographic information systems and user-friendly software packages will be developed. The project will advance knowledge within the statistical sciences, and the research results will be of value to the work of government agencies.&lt;br/&gt;&lt;br/&gt;This research project will develop a geographically adaptive concave fusion penalized (GACP) learning method that can simultaneously estimate the model parameters and recover the latent memberships. Based on the GACP learning, the project will pursue three specific research topics, and the newly developed methodology will be applied to different socioeconomic problems. In the first topic, the project will develop a generalized optimization estimation approach based on the GACP learning for spatially varying coefficient models with a latent grouping structure. In the second topic, the project will extend the newly developed framework to compositional covariates to explore heterogeneous effects of Intersectoral Gross Domestic Product contributions on Gini coefficients over subregions in the United States. In the third topic, the project will derive a joint estimation and clustering procedure of Lorenz curves across different states in the US. The project will establish consistency and asymptotic distributions for the newly developed estimators and will develop eﬀicient algorithms for optimization. This project will advance the frontiers of spatial heterogeneity learning for socioeconomic problems. The knowledge gained from this research will benefit regional economic policy and other complex socioeconomic problems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/20/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/25/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2412922</AwardID>
+<Investigator>
+<FirstName>Sergio</FirstName>
+<LastName>Rey</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sergio Rey</PI_FULL_NAME>
+<EmailAddress><![CDATA[srey@sdsu.edu]]></EmailAddress>
+<NSF_ID>000509827</NSF_ID>
+<StartDate>04/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shujie</FirstName>
+<LastName>Ma</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shujie Ma</PI_FULL_NAME>
+<EmailAddress><![CDATA[shujie.ma@ucr.edu]]></EmailAddress>
+<NSF_ID>000604712</NSF_ID>
+<StartDate>04/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Guanyu</FirstName>
+<LastName>Hu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Guanyu Hu</PI_FULL_NAME>
+<EmailAddress><![CDATA[guanyu.hu@uth.tmc.edu]]></EmailAddress>
+<NSF_ID>000861673</NSF_ID>
+<StartDate>02/20/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[The University of Texas Health Science Center at Houston]]></Name>
+<CityName>HOUSTON</CityName>
+<ZipCode>770303870</ZipCode>
+<PhoneNumber>7135003999</PhoneNumber>
+<StreetAddress><![CDATA[7000 FANNIN ST FL 9]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUFBNVZ587D4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT HOUSTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Texas Health Science Center at Houston]]></Name>
+<CityName>Houston</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>770305400</ZipCode>
+<StreetAddress><![CDATA[7000 FANNIN ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>133300</Code>
+<Text>Methodology, Measuremt &amp; Stats</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>141Y00</Code>
+<Text>Human-Envi &amp; Geographical Scis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>105Z</Code>
+<Text>HEGS: Human-Envirnmnt and Geogrphcl Sci</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~500000</FUND_OBLG>
+</Award>
+</rootTag>

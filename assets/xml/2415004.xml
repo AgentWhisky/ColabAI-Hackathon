@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Unlocking the Full Potential of Next-Generation Expansion Microscopy through Automation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>274998.00</AwardTotalIntnAmount>
+<AwardAmount>274998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+<PO_EMAI>hahn@nsf.gov</PO_EMAI>
+<PO_PHON>7032927069</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project stems from addressing critical barriers in nanoscale bioimaging—specifically, the prohibitive costs, technical complexities, and specialized expertise required for super-resolution and electron microscopes, which range from hundreds of thousands to several million dollars with sample preparation costs up to thousands and processing times exceeding a week. This project introduces a transformative solution by automating Magnify Expansion Microscopy into a cost-effective device, enabling conventional optical microscopes to achieve detailed biological insights at the nanoscale. By reducing sample preparation costs to under $10 and cutting processing times to less than a day, this technology will democratize nanoscale imaging, expanding research capabilities across various scientific domains. It enables researchers in labs without advanced microscopes to explore molecular and structural changes in diseases, discover new biomarkers, and develop diagnostic and prognostic tests. Societal benefits include pioneering discoveries in untapped territories, innovative diagnostic and prognostic tools, and significant healthcare cost reductions. Commercially, equipping existing microscopes with the AutoMagnify device is set to revolutionize the high-end microscopy market, potentially creating a billion-dollar industry by dramatically enhancing speed, cost-effectiveness, and ease of use, paralleling the transformative advancements seen in next-generation sequencing in genomics.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project aims to develop an automated AutoMagnify device that physically expands biological specimens up to 1000 times in isotropically in 3-dimensions, while preserving their spatial and molecular integrity. This advancement will enable conventional light microscopes to achieve imaging resolutions down to 25 nm, capabilities typically reserved for super-resolution and electron microscopy. By shifting the focus from costly optical enhancements to physical specimen magnification, this project offers a practical, scalable solution for widespread nanoscale bioimaging. The AutoMagnify system reduces the sample preparation time from traditionally over a week to less than 24 hours, dramatically lowering both the financial and technical thresholds for super-resolution imaging. This project builds upon foundational Magnify Expansion Microscopy techniques to develop new rapid protocols and leverage durable gel compositions that address machine handling and reliability issues. The expected result is a fully functional prototype that standardizes sample preparation and staining protocols, enabling researchers in academia and pharmaceutical companies using conventional microscopes to access super-resolution quality images for their discovery needs. This pivotal innovation not only makes advanced imaging techniques more accessible but also significantly extends the research capabilities of scientific laboratories globally, potentially redefining the landscape of nanoscale imaging.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2415004</AwardID>
+<Investigator>
+<FirstName>Aleksandra</FirstName>
+<LastName>Klimas</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aleksandra Klimas</PI_FULL_NAME>
+<EmailAddress><![CDATA[aklimas@magnifybiosci.com]]></EmailAddress>
+<NSF_ID>000940145</NSF_ID>
+<StartDate>06/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[MAGNIFY BIOSCIENCES INC.]]></Name>
+<CityName>SEWICKLEY</CityName>
+<ZipCode>151438557</ZipCode>
+<PhoneNumber>4123563678</PhoneNumber>
+<StreetAddress><![CDATA[1632 NORMAN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA17</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYGVDZDSW9Q3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MAGNIFY BIOSCIENCES INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[MAGNIFY BIOSCIENCES INC.]]></Name>
+<CityName>SEWICKLEY</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>151438557</ZipCode>
+<StreetAddress><![CDATA[1632 NORMAN DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~274998</FUND_OBLG>
+</Award>
+</rootTag>

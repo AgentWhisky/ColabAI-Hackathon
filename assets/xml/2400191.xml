@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Group Actions, Rigidity, and Invariant Measures]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>353236.00</AwardTotalIntnAmount>
+<AwardAmount>353236</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jan Cameron</SignBlockName>
+<PO_EMAI>jcameron@nsf.gov</PO_EMAI>
+<PO_PHON>7032924544</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project focuses on questions at the interface of dynamical systems and rigidity of group actions. Many mathematical objects admit large groups of symmetries.  The structure of such groups may highly constrain the underlying object or properties of the action.  Questions across fields of mathematics can often be reformulated as questions about the (non-)fractal nature of invariant geometric structures (particularly sets and measures) for certain group actions.  The project will employ tools from the field of dynamical systems to study group actions, with broad aims of classifying actions and the objects on which groups act, classifying certain invariant geometric structures, and showing certain actions do not admit fractal invariant structures. The project will also support the training of PhD students. &lt;br/&gt;&lt;br/&gt;The project will focus on actions of groups, including higher-rank abelian groups and higher-rank lattices, with an emphasis on classifying actions with certain dynamical properties, classifying the underlying spaces on the group acts, or classifying invariant measures and orbit closures. The project will employ tools from hyperbolic dynamical systems (dynamical systems with positive Lyapunov exponents) with a common theme of studying invariant measures for the action (or certain subgroups). Classifying or ruling out fractal properties of certain invariant measures will produce further rigidity properties of the action including additional invariance of the measure, local homogeneous structures for the action, or dimension constraints on the space.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2400191</AwardID>
+<Investigator>
+<FirstName>Aaron</FirstName>
+<LastName>Brown</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aaron Brown</PI_FULL_NAME>
+<EmailAddress><![CDATA[awb@northwestern.edu]]></EmailAddress>
+<NSF_ID>000732164</NSF_ID>
+<StartDate>04/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress><![CDATA[633 CLARK ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602080830</ZipCode>
+<StreetAddress><![CDATA[2033 Sheridan Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128100</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~353236</FUND_OBLG>
+</Award>
+</rootTag>

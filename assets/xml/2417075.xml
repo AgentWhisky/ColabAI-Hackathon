@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SLES: A Neurosymbolic Approach for Safe Multi-Agent Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>1500000.00</AwardTotalIntnAmount>
+<AwardAmount>1500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anindya Banerjee</SignBlockName>
+<PO_EMAI>abanerje@nsf.gov</PO_EMAI>
+<PO_PHON>7032927885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Advances in machine learning offer a tremendous opportunity to deploy learning-enabled multi-agent systems (LEMAS) in uncertain and high-stakes environments. Examples of a LEMAS could include a team of self-organizing drones in wildfire prevention or robots in semi-automated warehouses. Guaranteeing safety and robustness of LEMAS is challenging as agents form complex interacting networks where agents make individual decisions with local information. A major challenge is the effect of imperfect learning-enabled components (LECs) on the network structure. For example, a poorly calibrated perception system can result in loss of information between agents, which challenges the network's safety and robustness. Additionally, LEMAS are high-dimensional which makes it difficult to foresee all possible failure scenarios, which is a combinatorial and computational bottleneck. Addressing these challenges requires a fundamental rethinking. This project does that with a novel statistical neurosymbolic approach for the design of safe learning-enabled multi-agent systems. These approaches are neurosymbolic as they use symbolic reasoning over a novel multi-agent logic and statistical, as they provide probabilistic end-to-end safety guarantees. The project’s impacts are new theories and algorithms that will be relevant to any safety-critical LEMAS with significant societal impact on civilian and commercial applications. The project will also have significant impact on wildfire prevention by teams of drones, the primary application domain. The broader impact lies also on the educational agenda involving undergraduate and graduate level education at the University of Southern California. &lt;br/&gt;&lt;br/&gt;Each agent within a modern LEMAS uses state-of-the-art learning-enabled components for perception, trajectory prediction, and control. While learning-enabled single-agent systems are fairly well understood, it is unclear how to design safe LEMAS due to their size, complex network structure, and data dependencies between agents. To formalize safety for LEMAS, the project proposes the formal specification language “multi-agent spatio-temporal logic” (MASTL). MASTL enables to jointly reason about the network structure of LEMASs and the reliability of learning-enabled components. The project proposes a combination of statistical and formal verification techniques for MASTL to obtain provable safety guarantees for LEMAS utilizing surrogate models, reachability analysis, and statistical tests. Alongside, the project proposes reinforcement learning techniques under MASTL specifications that result in self-organizing swarm behavior. The techniques proposed in the project use photorealistic simulators that provide cheap yet realistic dataset. Because deployed LEMAS may behave differently in the real world and be subject to data distribution shifts, the project proposes training algorithms that are robust against data corruption and distribution shifts. These algorithms enjoy formal safety guarantees under quantifiable assumptions on the distribution shift. To detect extreme events and unknown unknowns in the environment, the project proposes adaptive and robust predictive runtime monitors. In the last step, the project provides real-time algorithms for self-organizing drone swarms for wildfire prevention and robots in semi-automated warehouses.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/14/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417075</AwardID>
+<Investigator>
+<FirstName>Gaurav</FirstName>
+<LastName>Sukhatme</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gaurav Sukhatme</PI_FULL_NAME>
+<EmailAddress><![CDATA[gaurav@cs.usc.edu]]></EmailAddress>
+<NSF_ID>000489305</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mahdi</FirstName>
+<LastName>Soltanolkotabi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mahdi Soltanolkotabi</PI_FULL_NAME>
+<EmailAddress><![CDATA[soltanol@usc.edu]]></EmailAddress>
+<NSF_ID>000703524</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jyotirmoy</FirstName>
+<LastName>Deshmukh</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jyotirmoy V Deshmukh</PI_FULL_NAME>
+<EmailAddress><![CDATA[jdeshmuk@usc.edu]]></EmailAddress>
+<NSF_ID>000758462</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lars</FirstName>
+<LastName>Lindemann</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lars Lindemann</PI_FULL_NAME>
+<EmailAddress><![CDATA[llindema@usc.edu]]></EmailAddress>
+<NSF_ID>000926438</NSF_ID>
+<StartDate>07/14/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900890701</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress><![CDATA[3720 S FLOWER ST FL 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900890134</ZipCode>
+<StreetAddress><![CDATA[941 Bloom Walk]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>248Y00</Code>
+<Text>AI-Safety</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~1500000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SHF: Medium: Toward Understandability and Interpretability for Neural Language Models of Source Code]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>745197.00</AwardTotalIntnAmount>
+<AwardAmount>745197</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol Greenspan</SignBlockName>
+<PO_EMAI>sgreensp@nsf.gov</PO_EMAI>
+<PO_PHON>7032927841</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Advances in artificial intelligence (AI) have led to the development of several new types of tools for software developers that aim to help automate various parts of the software development process of building and maintaining software. However, the combination of complex underlying deep-learning models and massive training datasets makes it difficult to interpret why these models, and the developer tools powered by them, behave the way they do. Given the increasingly important role that these tools are beginning to play in software engineering (SE), it is imperative that techniques be developed that allow stakeholders to better understand and work with these tools such that critical software infrastructure can be maintained. This project will develop a framework and methodology that enables both researchers who build AI-powered developer tools, and software engineers who use these tools, to interpret why the underlying models make the predictions they do. The objective is to allow researchers to obtain detailed insights into why a model may not be performing as expected, allowing for targeted improvement and informed creation of new models. The methodology will be integrated into AI-powered software development tools, allowing software engineers to make informed decisions about when a tool’s suggestion may be helpful or harmful, thus building trust in their use. The interpretability framework will also enable new forms of interaction with these tools, providing a mechanism for natural language feedback that improves over time. This project will produce and disseminate educational materials on best practices related to building and using AI-powered programming tools. These materials are intended to be integrated into existing computer-literacy courses at all levels of education. In addition, the project will focus on recruiting and retaining computer science students from traditionally underrepresented categories.&lt;br/&gt;&lt;br/&gt;This project has three specific goals. First, it will design an automated approach for generating global explanations of the behavior of “context-free” neural language models for source code. This component of the project will map predictions from large language models to human-interpretable programming language concepts using causal inference theory, wherein explanations of behavior will be generated via causal interventions. Second, it will develop automated techniques for local explanations of contextualized language models of code by developing a set of interpretability techniques that generate behavioral, feature-based, and textual explanations defined for given SE tasks (e.g., program repair). Finally, the project will create techniques that enable researchers and developers to provide feedback to models based on generated explanations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2423813</AwardID>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Moran</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kevin P Moran</PI_FULL_NAME>
+<EmailAddress><![CDATA[kpmoran@ucf.edu]]></EmailAddress>
+<NSF_ID>000788103</NSF_ID>
+<StartDate>04/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[The University of Central Florida Board of Trustees]]></Name>
+<CityName>ORLANDO</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress><![CDATA[4000 CENTRAL FLORIDA BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RD7MXJV7DKT9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Central Florida Board of Trustees]]></Name>
+<CityName>ORLANDO</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>328168005</ZipCode>
+<StreetAddress><![CDATA[4000 CENTRAL FLORIDA BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7944</Code>
+<Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2023~745197</FUND_OBLG>
+</Award>
+</rootTag>

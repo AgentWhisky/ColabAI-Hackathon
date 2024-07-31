@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CDS&E: Inverse Design of Electrically Conductive and Magnetically Bi-stable Coordination Polymers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>416841.00</AwardTotalIntnAmount>
+<AwardAmount>416841</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Hoy</SignBlockName>
+<PO_EMAI>rhoy@nsf.gov</PO_EMAI>
+<PO_PHON>7032922340</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;Magnetically bi-stable coordination polymers (bi-CCPs) are viable candidates for versatile electronic devices, such as electronic switches, quantum sensors, and reversible high-density memories in an era in which shifting from inorganic and silicon-based materials toward organic and hybrid organic-inorganic materials has become inevitable. However, achieving this goal relies on imparting high electrical conductivity in bi-CCPs to allow the use of electric current as a viable device output. In this combined theoretical and experimental project, Professors Farnaz A. Shakib and Mengqiang Zhao from the New Jersey Institute of Technology will develop a fundamental molecular-level understanding of the structure-property-function relationships in existing bi-CCPs. The produced knowledge will then be utilized in designing new classes of tunable/controllable bi-CCPs equipped with an inherent high electrical conductivity, realizing a dream “nano-scale sensing material”. The theoretical investigations will be followed by the synthesis and characterization of the designed multi-functional materials. This project will advance science by employing novel computational and experimental techniques to design, synthesize, and investigate the functionality of a new class of materials and will encourage their further applications in exotic electronic devices. During this project, graduate students will be trained as the skilled workforce for the future of STEM. Undergraduate and K-12 level students will also be exposed to the fundamentals of theoretical and experimental materials research through full-day workshops and Summer Schools, which will help their growth in STEM fields.&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;Incorporating high electrical conductivity in spin-crossover (SCO) materials has been a challenging and somewhat overlooked task, with most reported bi-CCPs to date being insulators. Here, novel bi-CCPs equipped with high electrical conductivity will be designed following an inverse chemical engineering route. First, noticing that the structural, electronic, and magnetic properties of bi-CCPs have a dynamic interrelation, the research groups will establish the features that induce the highest electrical conductivity without diminishing the thermodynamic/dynamic stability or hindering their SCO behaviors. Using Shakib group’s in-house developed Crystal Structure Producer Python Package (CrySP), a new database of electrically conductive (EC) bi-CCPs will be created by systematic conjugated pillar ligand insertions in the selected EC-CCPs from the online EC-MOF/Phase I database. The DFT-calculated properties of the hypothetical structures gathered in this newly developed database will be used (i) to find the optimal EC bi-CCPs for synthesis and characterization and (ii) to train machine learning (ML) algorithms. These ML algorithms will then be used to calculate bulk properties such as electrical conductivity, carrier mobility, and magnetic properties, bypassing the astronomical computational cost of periodic DFT calculations and accelerating the design and discovery procedure. The chosen systems with the highest electrical conductivity, carrier mobilities, and desired magnetic properties will be introduced to well-established experimental synthetic procedures, i.e., the precipitation method or the liquid-phase epitaxy method. The morphology, structure, electronic, and SCO properties of these materials will be investigated in detail using well-established characterization methods. The results of the experiment/characterization will be used to further refine the ML models. This closed feedback loop of theory and experiment will lead to optimal EC bi-CCPs for applications in nano-scale electronic switches, temperature/pressure sensors, and quantum information science.&lt;br/&gt;&lt;br/&gt;STATEMENT OF MERIT REVIEW&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/31/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401733</AwardID>
+<Investigator>
+<FirstName>Mengqiang</FirstName>
+<LastName>Zhao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mengqiang Zhao</PI_FULL_NAME>
+<EmailAddress><![CDATA[mz24@njit.edu]]></EmailAddress>
+<NSF_ID>000854644</NSF_ID>
+<StartDate>05/31/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Farnaz</FirstName>
+<LastName>shakib</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Farnaz A shakib</PI_FULL_NAME>
+<EmailAddress><![CDATA[shakib@njit.edu]]></EmailAddress>
+<NSF_ID>000865620</NSF_ID>
+<StartDate>05/31/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New Jersey Institute of Technology]]></Name>
+<CityName>NEWARK</CityName>
+<ZipCode>071021824</ZipCode>
+<PhoneNumber>9735965275</PhoneNumber>
+<StreetAddress><![CDATA[323 DR MARTIN LUTHER KING JR BLV]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SGBMHQ7VXNH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW JERSEY INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New Jersey Institute of Technology]]></Name>
+<CityName>NEWARK</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>071021824</ZipCode>
+<StreetAddress><![CDATA[323 DR MARTIN LUTHER KING JR BLVD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>176200</Code>
+<Text>SOLID STATE &amp; MATERIALS CHEMIS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>176500</Code>
+<Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>094Z</Code>
+<Text>Materials Data</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>095Z</Code>
+<Text>Materials AI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>106Z</Code>
+<Text>Microelectronics and Semiconductors</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8249</Code>
+<Text>Sustainable Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~416841</FUND_OBLG>
+</Award>
+</rootTag>

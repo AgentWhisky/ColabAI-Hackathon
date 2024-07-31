@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRA: Using NEON and other network data to anchor a continental multi-scale carbon cycle assimilation and forecast]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>929221.00</AwardTotalIntnAmount>
+<AwardAmount>929221</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew J. Elmore</SignBlockName>
+<PO_EMAI>aelmore@nsf.gov</PO_EMAI>
+<PO_PHON>7032927939</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>There is considerable scientific and societal interest in better understanding the terrestrial carbon cycle: how carbon dioxide is taken out of the air by plants, moves through ecosystems (i.e., fluxes), is stored in different plant and soil pools, and is released back to the atmosphere. Researchers need to better understand the variability and predictability of the cycle over the short-term (for carbon inventory monitoring, reporting, and verification), medium-term (for developing natural climate solutions), and long-term (to understand climate stabilizing feedbacks), and across spatial scales from individual sites to continents. This project aims to better understand carbon variability and predictability through the generation and analysis of a new North American terrestrial carbon cycle data tool that harmonizes information coming from an unprecedented volume and variety of on-the-ground measurements, data from satellites, and mathematical models of how the carbon cycle works. These analyses will provide new insights into long-standing questions such as: (1) How do different carbon pools and fluxes vary across space, time, and in response to environmental variables like temperature, precipitation, land use, and topography? (2) Under what conditions are mathematical models most/least reliable? (3) Where are the gaps in existing data-collection networks? (4) How far into the future are different carbon pools/fluxes predictable and which sources of uncertainty most limit predictability? To facilitate uptake this team of researchers will work with the US Forest Service (USFS) to incorporate these data products into federal carbon accounting efforts and seek certification of these open-source technologies for use in the voluntary carbon markets. Finally, this project will contribute to the training of two graduate students and four undergraduates, with the latter recruited through an environmental data science program focused on increasing American Indian/Alaskan Native involvement in STEM.&lt;br/&gt;&lt;br/&gt;This project will produce a carbon cycle “reanalysis” product based on the iterative model–data assimilation approaches commonly employed in numerical weather forecasting to harmonize process-based mathematical models with new observations. Specifically, the PEcAn terrestrial carbon data assimilation and forecasting system will be expanded to integrate twelve new bottom-up field data constraints from the National Ecological Observatory Network (NEON), five data constraints from the USFS Forest Inventory, and Ameriflux eddy-covariance tower and ancillary data. These bottom-up constraints will “anchor” PEcAn’s existing assimilation, which is based on optical, lidar, and microwave remote sensing. To support this, existing data assimilation approaches will be refined to not only jointly estimate pools and fluxes, but to also capture spatiotemporal variability in model parameters and employ hybrid machine learning approaches to understand the variability in model residual error. Finally, the variability in the continental-scale reanalysis product will be re-analyzed against a range of explanatory variables and across multiple time scales, spatial scales, and prediction lead times. Integrated into the research project will be training opportunities for graduate and undergraduate students.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/05/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406258</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Dietze</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Dietze</PI_FULL_NAME>
+<EmailAddress><![CDATA[dietze@bu.edu]]></EmailAddress>
+<NSF_ID>000522115</NSF_ID>
+<StartDate>07/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Huggins</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonathan H Huggins</PI_FULL_NAME>
+<EmailAddress><![CDATA[huggins@bu.edu]]></EmailAddress>
+<NSF_ID>000838135</NSF_ID>
+<StartDate>07/05/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151703</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>THL6A6JLE1S7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF BOSTON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>022151703</ZipCode>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>795900</Code>
+<Text>MacroSysBIO &amp; NEON-Enabled Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7959</Code>
+<Text>MACROSYSTEM BIOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~929221</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[TRAILBLAZER: Super-Planckian Far Field Radiation via Non-equilibrium Polaritons]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>3000000.00</AwardTotalIntnAmount>
+<AwardAmount>3000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07040000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EFMA</Abbreviation>
+<LongName>Emerging Frontiers &amp; Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alias Smith</SignBlockName>
+<PO_EMAI>alismith@nsf.gov</PO_EMAI>
+<PO_PHON>7032928367</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Efficient heat dissipation is a bottleneck for a broad spectrum of technologies. Radiative heat transfer over large distances, or the so-called far field radiation, has an upper bound known as the blackbody limit, which is derived from Planck’s theory for radiation from equilibrium thermal sources with well-defined temperatures. In a recent study of heat conduction along Silicone carbide (SiC) nanowires, it was shown that phonon polaritons, a type of energy carriers resulting from the coupling between infrared light and vibrations of polar molecules in solids, can contribute remarkably to heat conduction when efficiently launched from a gold coating at the end of the SiC nanowires. This observation leads to the hypothesis that the polaritons launched by the gold coating are out of thermal equilibrium with the polar SiC nanowires. As such, radiation mediated by these polaritons is not bounded by the blackbody limit and can reach a much higher heat transfer rate. This TRAILBLAZER project will verify this bold scientific hypothesis and establish a new paradigm of far field radiation with significantly enhanced radiative heat dissipation capabilities beyond the blackbody limit. The resulting super-efficient radiative cooling approaches could revolutionize a wide range of engineering practices including energy conversion, data center and microelectronic device thermal management, and passive cooling of buildings. The new knowledge extending fundamental physical laws will provide rich opportunities for inspiring and educating large groups of undergraduate students from a diverse background to pursue innovations in energy technology. &lt;br/&gt;&lt;br/&gt;The objectives of this TRAILBLAZER project are to demonstrate super-Planckian far field radiation mediated by thermally launched strongly non-equilibrium phonon polaritons, and to transform radiative cooling through creative design of radiation surfaces. Systematic experiments will be performed to (1) demonstrate super-Planckian far field radiation from individual polar nanowires with a short segment of gold coating at the end of the wire, (2) disclose the polariton launching mechanism and efficiency from the cavity formed by the gold coating, and (3) construct large metal surfaces with partially embedded polar nanowire arrays, and characterize their emissivity as well as cooling effectiveness when attached to solar panels and light emitting devices (LEDs). The experimental studies will follow a multidisciplinary approach involving materials design, high-precision thermal measurements and optical characterization. Importantly, theoretical modeling will be performed to confirm and understand the novel thermal energy transport process mediated by non-equilibrium polaritons. The project breaks new ground of thermal transport mediated by thermally triggered highly non-equilibrium polaritons, which represents a significant departure from the conventional near-equilibrium thermal transport regime. As such, the project will shift the paradigm of thermal radiation and revolutionize thermal engineering through super-Planckian far field radiation surfaces with an emissivity beyond unity, manifesting its trailblazing nature through convergence of science and engineering domains.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2421448</AwardID>
+<Investigator>
+<FirstName>Deyu</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Deyu Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[deyu.li@vanderbilt.edu]]></EmailAddress>
+<NSF_ID>000300079</NSF_ID>
+<StartDate>07/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Vanderbilt University]]></Name>
+<CityName>NASHVILLE</CityName>
+<ZipCode>372032416</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress><![CDATA[110 21ST AVE S]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GTNBNWXJ12D5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VANDERBILT UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Vanderbilt University]]></Name>
+<CityName>NASHVILLE</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>372032416</ZipCode>
+<StreetAddress><![CDATA[110 21ST AVE S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>763300</Code>
+<Text>EFRI Research Projects</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~3000000</FUND_OBLG>
+</Award>
+</rootTag>

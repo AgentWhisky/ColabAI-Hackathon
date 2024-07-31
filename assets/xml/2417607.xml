@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CyberTraining: Implementation: Medium:  AI and Cybersecurity Education for Cyberinfrastructure: A Hands-on Approach]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2028</AwardExpirationDate>
+<AwardTotalIntnAmount>640000.00</AwardTotalIntnAmount>
+<AwardAmount>640000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Juan Li</SignBlockName>
+<PO_EMAI>jjli@nsf.gov</PO_EMAI>
+<PO_PHON>7032922625</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Cyberinfrastructure (CI) plays a vital role in today's scientific landscape. Investments in CI bring significant economic benefits across various sectors. However, the field faces three critical challenges: a lack of skilled professionals, especially in combining cybersecurity and machine learning; limited opportunities for underrepresented minorities; and education falling behind the fast pace of technological advancements like AI and large language models. Project ACE (Advancing Cyberinfrastructure Education) aims to address these challenges by providing comprehensive education and training to build a more robust CI workforce. This effort will enhance defenses against cyberattacks, drive technological progress, and support the resilience and advancement of digital economies and scientific research.&lt;br/&gt;&lt;br/&gt;Project ACE's innovative approaches are highlighted in three key areas. First, it integrates Machine Learning (ML) and Cybersecurity within Cyberinfrastructure (CI) frameworks, training students on secure design principles and advanced ML techniques to tackle modern cyber threats. Second, it incorporates advanced Artificial Intelligence (AI), particularly Large Language Models (LLM), and experiential learning to bridge the gap between theory and practice, preparing students to apply AI creatively in various CI contexts. Lastly, it lays the groundwork for future CI workforce development through a scalable and adaptable educational framework that meets current technological needs and adapts to future advancements. The project's success will enhance the security and resilience of Cyberinfrastructure (CI) across various sectors by democratizing access to CI resources and education, particularly for underrepresented groups, including those at Historically Black Colleges and Universities (HBCUs). Furthermore, a cooperative network of educators, industry experts, and policymakers will foster the growth of a dynamic and innovative CI workforce ecosystem.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2417607</AwardID>
+<Investigator>
+<FirstName>Tonglin</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tonglin Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[tlzhang@purdue.edu]]></EmailAddress>
+<NSF_ID>000382729</NSF_ID>
+<StartDate>06/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Baijian</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Baijian Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[byang@purdue.edu]]></EmailAddress>
+<NSF_ID>000650698</NSF_ID>
+<StartDate>06/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jin</FirstName>
+<LastName>Wei-Kocsis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jin Wei-Kocsis</PI_FULL_NAME>
+<EmailAddress><![CDATA[kocsis0@purdue.edu]]></EmailAddress>
+<NSF_ID>000692907</NSF_ID>
+<StartDate>06/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Deepak</FirstName>
+<LastName>Nadig</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Deepak Nadig</PI_FULL_NAME>
+<EmailAddress><![CDATA[nadig@purdue.edu]]></EmailAddress>
+<NSF_ID>000940986</NSF_ID>
+<StartDate>06/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479061332</ZipCode>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>044Y00</Code>
+<Text>CyberTraining - Training-based</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>122Z</Code>
+<Text>CI Training and Professionals</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7361</Code>
+<Text>EDUCATION AND WORKFORCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~640000</FUND_OBLG>
+</Award>
+</rootTag>

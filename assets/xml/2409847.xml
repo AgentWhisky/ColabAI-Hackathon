@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Decision-Embedded Deep Learning for Transit Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>432572.00</AwardTotalIntnAmount>
+<AwardAmount>432572</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Siqian Shen</SignBlockName>
+<PO_EMAI>siqshen@nsf.gov</PO_EMAI>
+<PO_PHON>7032927048</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award support research that investigates the impacts of deep learning on decision-making and the development of a new type of learning paradigm where decision models are directly integrated into deep learning model design, with an explicit focus on transit system applications. It aims to help transit decision-makers understand the impacts of deep learning models on their decision-making outcomes such as transit timetable design and bus motion control. It also aims to offer transit researchers and practitioners a novel framework for developing deep learning models with verifiable decision quality in both normal and adversarial (e.g., malicious cyberattacks, sensor malfunctions, and extreme weather conditions) scenarios. The outcomes of this project will open new research areas in both fundamental methodologies and civil infrastructure applications. The project will offer interdisciplinary education and research training opportunities and new deep-learning-related courses to undergraduate and graduate students. It will also involve under-represented minority students at the secondary, undergraduate, and graduate levels through course projects, research assistantships and internship opportunities.&lt;br/&gt;&lt;br/&gt;This research project integrates deep learning theories with knowledge and methods from transportation engineering to generate new knowledge on the interplay between learning-based prediction and transit decision-making. Theoretical bounds identified through this research projct will assist transit agencies in designing deep learning models, such as choosing the right sample size and identifying the appropriate model architecture, to optimize transit decision-making quality. A new deep learning paradigm will be created to overcome the limitations of existing works, thereby assuring optimal decision-making outcomes in transit systems. This researched paradigm intends to leverage decision errors to update parameters in deep learning models so that they move toward optimal and reliable decisions directly. This paradigm could not only benefit transportation systems but also transform many other infrastructure systems such as power distribution and communications where parameter prediction and decision-making are currently largely siloed.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/21/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/21/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2409847</AwardID>
+<Investigator>
+<FirstName>Zhiwei</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhiwei Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[zc392@drexel.edu]]></EmailAddress>
+<NSF_ID>000927521</NSF_ID>
+<StartDate>03/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kaidi</FirstName>
+<LastName>Xu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kaidi Xu</PI_FULL_NAME>
+<EmailAddress><![CDATA[kx46@drexel.edu]]></EmailAddress>
+<NSF_ID>000862899</NSF_ID>
+<StartDate>03/21/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Drexel University</Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191042875</ZipCode>
+<PhoneNumber>2158956342</PhoneNumber>
+<StreetAddress>3141 CHESTNUT ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XF3XM9642N96</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DREXEL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Drexel University]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191042816</ZipCode>
+<StreetAddress><![CDATA[3141 CHESTNUT ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1631</Code>
+<Text>CIS-Civil Infrastructure Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>029E</Code>
+<Text>INFRASTRUCTURE SYSTEMS MGT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~432572</FUND_OBLG>
+</Award>
+</rootTag>

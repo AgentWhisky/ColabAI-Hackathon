@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Functoriality for Relative Trace Formulas]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>312005.00</AwardTotalIntnAmount>
+<AwardAmount>106185</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Langlands functoriality conjecture, that "different arithmetic drums share some common eigenfrequencies," has immense applications in number theory, among others to the century-old conjectures due to Ramanujan and others about the size of coefficients of special functions called automorphic forms. The PI and his collaborators have broadened this conjecture to the so-called "relative" setting, which includes methods of studying special values of L-functions (also called zeta functions), such as in the prominent, and more recent, conjectures of Gan, Gross, and Prasad. The main tool for proving important instances of functoriality so far has been the trace formula, but in its current form it has nearly reached its limits. This project will examine ways to prove these conjectures by use of the idea of quantization, whose origins lie in mathematical physics. This idea will be used to construct novel ways of comparing (relative) trace formulas, drastically expanding their potential reach and applicability. The broader impacts of the project include conference organization and mentoring of graduate students.&lt;br/&gt;&lt;br/&gt;The PI has already shown, in prior work, that in some low-rank cases one can establish relative functoriality via some novel "transfer operators" between relative trace formulas. Such non-standard comparisons of trace formulas were envisioned in Langlands's "Beyond Endoscopy" proposal; the "relative" setting allows for more flexibility, and more potential applications, for the exploration of such comparisons. Prior work was focused mostly on the case when the L-groups associated to the relative trace formulas are of rank one. The main goal of this project will be to examine ways to generalize the construction of transfer operators to higher rank. The main idea is to view a trace formula as the quantization of its cotangent stack, which in turn is largely controlled by the L-group. Using natural correspondences between such cotangent stacks, the project aims to construct transfer operators between their quantizations. On a separate track, the project will continue work on the duality of Hamiltonian spaces conjectured in the PI's recent work with Ben-Zvi and Venkatesh, with the aim of extending this duality beyond the hyperspherical setting, and exploring applications for the representation theory of p-adic groups.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/04/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401554</AwardID>
+<Investigator>
+<FirstName>Ioannis</FirstName>
+<LastName>Sakellaridis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ioannis Sakellaridis</PI_FULL_NAME>
+<EmailAddress><![CDATA[sakellar@jhu.edu]]></EmailAddress>
+<NSF_ID>000575138</NSF_ID>
+<StartDate>04/04/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212182608</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTMTDMBR29C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE JOHNS HOPKINS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212182608</ZipCode>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~106185</FUND_OBLG>
+</Award>
+</rootTag>

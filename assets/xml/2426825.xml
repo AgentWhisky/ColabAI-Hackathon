@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Conference: Modeling Randomness in Neural Network Training: Mathematical, Statistical, and Numerical Guarantees]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>39733.00</AwardTotalIntnAmount>
+<AwardAmount>39733</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+<PO_EMAI>pregalia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922981</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Neural networks are at the heart of modern machine learning and artificial intelligence (ML/AI) systems. The rapid development of these technologies has led to rapid adoption across a variety of domains, particularly in speech processing, computer vision, and natural language processing. At the same time, the theoretical underpinnings of these statistical models are not yet fully understood. The question of how and why neural networks “work" can be approached from a variety of mathematical perspectives. One of the most promising mathematical tools for analysis of neural networks is random matrix theory, a field that has recently reached mathematical maturity and whose relevance and applicability to modeling, understanding, and characterizing a vast array of science and technology problems keeps growing every day. From principle component analysis and random growth processes to particle interactions and community detection in large networks, random matrices are now used to investigate and explain high-dimensional phenomena like concentration (the so- called "blessing of dimensionality" as opposed to the "curse of dimensionality"). Recent results in universality allow for usage of more complex, non-Gaussian models, sometimes even allowing for limited dependencies. This prompts the question: what can probability theory in general---and random matrix theory (RMT) in particular---tell us about neural networks, modern machine learning, and AI? Such fundamental insights could lead to novel approaches that simplify or improve the efficiency of neural network design and training.&lt;br/&gt;&lt;br/&gt;The DIMACS Center at Rutgers University will hold the Workshop on Modeling Randomness in Neural Network Training: Mathematical, Statistical, and Numerical Guarantees at Rutgers University on June 5–7, 2024. This is a multidisciplinary workshop to create bridges between the different mathematical and computational communities by bringing together researchers with a diverse set of perspectives on neural networks. Random matrix theory can be used to understand different phenomena in neural network training. The workshop will center around the following themes: understanding matrix-valued random processes that arise during neural network training, modeling/measuring uncertainty and designing estimators for training processes, and applications to these designs within optimization algorithms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/24/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/24/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2426825</AwardID>
+<Investigator>
+<FirstName>Ioana</FirstName>
+<LastName>Dumitriu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ioana Dumitriu</PI_FULL_NAME>
+<EmailAddress><![CDATA[idumitriu@ucsd.edu]]></EmailAddress>
+<NSF_ID>000071417</NSF_ID>
+<StartDate>05/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tony</FirstName>
+<LastName>Chiang</LastName>
+<PI_MID_INIT>Y</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tony Y Chiang</PI_FULL_NAME>
+<EmailAddress><![CDATA[tc@alum.mit.edu]]></EmailAddress>
+<NSF_ID>000575652</NSF_ID>
+<StartDate>05/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anand</FirstName>
+<LastName>Sarwate</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anand D Sarwate</PI_FULL_NAME>
+<EmailAddress><![CDATA[anand.sarwate@rutgers.edu]]></EmailAddress>
+<NSF_ID>000608994</NSF_ID>
+<StartDate>05/24/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>NEW BRUNSWICK</CityName>
+<ZipCode>089018559</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress><![CDATA[3 RUTGERS PLZ]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1LVPE5GLSD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>NEW BRUNSWICK</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>089018559</ZipCode>
+<StreetAddress><![CDATA[3 RUTGERS PLZ]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126300</Code>
+<Text>PROBABILITY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>779700</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~39733</FUND_OBLG>
+</Award>
+</rootTag>

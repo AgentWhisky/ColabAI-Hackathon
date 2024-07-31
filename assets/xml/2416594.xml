@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CSR: Small: Lightweight Correctness of System Software Leveraging Rust]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jason Hallstrom</SignBlockName>
+<PO_EMAI>jhallstr@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Systems software, such as an operating system, is relied upon by the applications and services built upon it. However, due to rapidly evolving complexity, ensuring the correctness of systems software through formal verification, which provides very strong guarantees, is costly. This project leverages the type system of the Rust programming language to achieve correctness more cost-effectively, albeit with weaker guarantees, complementing formal verification. In doing so, the project targets several scientific contributions. It will develop an intralingual representation system where a system resource is represented by a linear-type instance, and its runtime management can be reasoned about at compile-time. Additionally, the project will discover and apply design patterns for operating system implementation, where correctness theorems, their assumptions, and hardware knowledge are encoded into Rust types and checked at compile-time. The project will also develop a hybrid approach that selectively employs formal and informal reasoning to further enhance intralingual design. Lastly, the project will extend the aforementioned technologies to Linux kernel modules written in Rust.&lt;br/&gt;&lt;br/&gt;This project aims to make correctness more affordable for systems software developers, thereby improving the security and reliability of computer systems, ranging from embedded devices to datacenter servers. It is expected to significantly influence the development of systems software, and consequently impact many aspects of computer users' lives. The project will foster interaction with other research fields, specifically programming languages and formal methods, by inspiring new language features and introducing additional ways to ensure correctness statically, as well as by extending the scope of formal verification to large-scale systems software. Additionally, the project will provide resources to modernize introductory systems courses and serve as a platform to engage both undergraduate and high school students in computer systems research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2416594</AwardID>
+<Investigator>
+<FirstName>Lin</FirstName>
+<LastName>Zhong</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lin Zhong</PI_FULL_NAME>
+<EmailAddress><![CDATA[lin.zhong@yale.edu]]></EmailAddress>
+<NSF_ID>000189041</NSF_ID>
+<StartDate>07/02/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<ZipCode>065113572</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress><![CDATA[150 MUNSON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FL6GV84CKN57</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>YALE UNIV</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FL6GV84CKN57</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>065118937</ZipCode>
+<StreetAddress><![CDATA[51 Prospect Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>735400</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~600000</FUND_OBLG>
+</Award>
+</rootTag>

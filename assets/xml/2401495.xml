@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Theory of Atoms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>215000.00</AwardTotalIntnAmount>
+<AwardAmount>215000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Adriana Salerno</SignBlockName>
+<PO_EMAI>asalerno@nsf.gov</PO_EMAI>
+<PO_PHON>7032922271</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Algebraic varieties are shapes defined by solution sets of systems of polynomial equations. A fundamental problem in geometry is the classification of algebraic varieties, as it helps us gain a better understanding of the structures and relations between them. The first step in classification is called birational classification, i.e. two algebraic varieties are called birational if they are equal outside some lower-dimensional loci. In this proposal, the PI will investigate new birational invariants, atoms, based on foundations coming from theoretical physics. The theory of atoms has its origin in conformal field theory and homological mirror symmetry. This project will also support training of early-career mathematicians and dissemination events through the Institute of Mathematical Sciences of Americas in the University of Miami. &lt;br/&gt;&lt;br/&gt;More specifically, the PI’s approach in birational geometry is based on developing a new singularity theory of Landau-Ginzburg  models and a non-commutative  refinement of the notion of an eigenspectrum of quantum multiplication operators. These new non-commutative spectra provide natural obstructions to rationality and equivariant rationality of Fano varieties.  This could lead to even stronger birational invariants as well as to new unexpected bridges, including: a new connection between Steenbrink spectra of the LG models and asymptotics of quantum differential equations; new birational applications of atoms to the cases of singular varieties and the case of varieties over algebraically non closed fields; and a new relation between non-Kahler manifolds, their Homological Mirror Symmetry (HMS) and their atoms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2401495</AwardID>
+<Investigator>
+<FirstName>Ludmil</FirstName>
+<LastName>Katzarkov</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ludmil V Katzarkov</PI_FULL_NAME>
+<EmailAddress><![CDATA[lkatzarkov@gmail.com]]></EmailAddress>
+<NSF_ID>000206486</NSF_ID>
+<StartDate>07/18/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Miami]]></Name>
+<CityName>CORAL GABLES</CityName>
+<ZipCode>331462919</ZipCode>
+<PhoneNumber>3052843924</PhoneNumber>
+<StreetAddress><![CDATA[1320 SOUTH DIXIE HIGHWAY STE 650]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>27</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL27</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RQMFJGDTQ5V3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MIAMI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Miami]]></Name>
+<CityName>CORAL GABLES</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331462508</ZipCode>
+<StreetAddress><![CDATA[1365 Memorial Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>27</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL27</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~215000</FUND_OBLG>
+</Award>
+</rootTag>

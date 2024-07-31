@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF/BIO-DFG: Biology and mechanism of an ancestral opsin function]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>888757.00</AwardTotalIntnAmount>
+<AwardAmount>888757</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Sztul</SignBlockName>
+<PO_EMAI>esztul@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will explore an unexpected function of a protein called opsin. Opsin is well known for its role in vision — it is commonly located in the retina, the light-sensing tissue in the eye, where it detects light and transmits a signal to the brain enabling animals to 'see'. However, the protein appears to have another, more ancient function that is independent of its light-sensing ability. This function is evident in cells in certain organs other than the retina. The research outlined in this project will probe this other function of opsin with the goal of  understanding its biological importance and the molecular mechanism of its action. In so doing, the project addresses a fundamental problem in molecular cell biology. Trainees who work on this project will delve deeply into protein science and the cell biology of different sensory cells, and learn that proteins can moonlight, i.e., perform more than one cellular function.&lt;br/&gt;&lt;br/&gt;The opsin protein in fruit flies (Drosophila melanogaster) is called NINAE and it is found in both photo- and mechano-receptor cells. In photoreceptors opsin binds retinal, a light-sensitive chromophore, enabling visual transduction, whereas in mechanoreceptors opsin is retinal-free. In flies without NINAE, both cell-types degenerate. Photoreceptor degeneration results from retinal toxicity, but mechanoreceptor degeneration is unexpected, implying a critical chromophore-independent function for opsin. Precedent for such a function comes from bovine rod opsin that, when reconstituted into lipid vesicles, scrambles phospholipids between opposing membrane leaflets, independently of retinal. Molecular dynamics (MD) simulations suggest a mechanism for opsin-mediated scrambling, but this remains to be tested experimentally. Also, the biological importance of opsin-mediated scrambling is unclear because elucidating it would necessitate genetic manipulations in animals. Pilot studies revealed that NINAE has phospholipid scramblase activity, laying the foundation for determining how scrambling occurs and how it impacts cell homeostasis and animal behavior. Firstly, NINAE will be extracted from fly eyes and reconstituted into liposomes to (i) characterize its scramblase activity. Secondly, protein residues along the lipid transport pathway predicted by MD will be mutagenized in the fly to test for effects on (ii) phospholipid scrambling in vitro, and (iii) the structure and function of NINAE-expressing photo- and mechanoreceptors and sensory behaviors, using electrophysiology, immunohistology, electron microscopy, and behavioral assays. In addition to establishing a novel function for Drosophila opsin, the completion of this project will provide a molecular understanding of how unconjugated opsins scramble phospholipids, how scrambling dynamics impact opsin-expressing sensory receptors and the viability of sensory cells, and how that ultimately affects sensory behaviors. Addressing these questions is important for a general understanding of opsins as phospholipid scrambling might be the ancestral primary function of these light sensor proteins.&lt;br/&gt;&lt;br/&gt;This collaborative US/German project is supported by the US National Science Foundation (NSF) and the Deutsche Forschungsgemeinschaft (DFG) where NSF funds the US investigator and DFG funds the German partner.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/22/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2425586</AwardID>
+<Investigator>
+<FirstName>Anant</FirstName>
+<LastName>Menon</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anant K Menon</PI_FULL_NAME>
+<EmailAddress><![CDATA[akm2003@med.cornell.edu]]></EmailAddress>
+<NSF_ID>000641129</NSF_ID>
+<StartDate>05/22/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Joan and Sanford I. Weill Medical College of Cornell University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100226145</ZipCode>
+<PhoneNumber>6469628290</PhoneNumber>
+<StreetAddress><![CDATA[575 LEXINGTON AVE FL 9]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YNT8TCJH8FQ8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WEILL MEDICAL COLLEGE OF CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QV1RJ11H58C4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Joan and Sanford I. Weill Medical College of Cornell University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100654805</ZipCode>
+<StreetAddress><![CDATA[1300 YORK AVENUE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111400</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~888757</FUND_OBLG>
+</Award>
+</rootTag>

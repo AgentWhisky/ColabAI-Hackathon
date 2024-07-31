@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SaTC: CORE: Small: Secure and Robust Machine Learning in Multi-Tenant Cloud FPGA]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2023</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen Karavanic</SignBlockName>
+<PO_EMAI>kkaravan@nsf.gov</PO_EMAI>
+<PO_PHON>7032922594</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Alongside the rapid growth of cloud-computing market and critical developments in machine learning (ML) computation, the cloud-FPGA (Field Programmable Gate Arrays) has become a vital hardware resource for public lease, where multiple tenants can co-reside and share an FPGA chip over time or even simultaneously. With many hardware resources being jointly used in the multi-tenant cloud-FPGA environment, a unique attack surface is created, where a malicious tenant can leverage such indirect interaction to manipulate the circuit application of other tenants, e.g., intentionally injecting faults. It has been demonstrated in prior research that small, but carefully designed, perturbation of the ML model parameter transmission between off-chip memory and on-chip buffer could completely malfunction ML intelligence, even under black-box attack scenario, posing an unprecedented threat to future ML cloud-FPGA system. This project (1) targets to understand the vulnerability of multi-tenant ML cloud-FPGA systems and explore defensive approaches, which are crucial and timely for both industry and academia in the cloud-FPGA computing domain; (2) advances the security of ML cloud system against hardware-based model tampering on off-chip data transmission in multi-tenant cloud-FPGA computing infrastructure; and (3) integrates the research outcomes with education in terms of new curriculum development, undergraduate and graduate student training, as well as promoting women and underrepresented minorities in STEM through K-12 outreach programs. &lt;br/&gt;&lt;br/&gt;This project integrates ML algorithm security and FPGA hardware security to follow a software-hardware co-design mechanism, exploring novel solutions that improve the security of multi-tenant ML cloud-FPGA system. It consists of three research thrusts. Thrust-1 systematically studies, models, and characterizes an adversarial weight duplication hardware fault injection method, which leverages aggressive power-plundering circuits in malicious tenant to inject fault into the victim tenant's ML model. Thrust-2 explores various ML algorithmic methodologies to enhance the intrinsic robustness and resiliency of ML model against adversarial fault injection into model parameters during the transmission from off-chip memory to on-chip buffer. Thrust-3 investigates FPGA system-level tamper-resistant approaches to further provide comprehensive solutions to improve the ML-FPGA system security.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/19/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>03/19/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2411207</AwardID>
+<Investigator>
+<FirstName>Deliang</FirstName>
+<LastName>Fan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Deliang Fan</PI_FULL_NAME>
+<EmailAddress><![CDATA[dfan10@jhu.edu]]></EmailAddress>
+<NSF_ID>000699728</NSF_ID>
+<StartDate>03/19/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212182608</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTMTDMBR29C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE JOHNS HOPKINS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212182608</ZipCode>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>806000</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~250000</FUND_OBLG>
+</Award>
+</rootTag>

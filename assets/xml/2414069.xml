@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Translation potential of harsh environment sensing by guiding light within crystalline sapphire fibers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaime A. Camelio</SignBlockName>
+<PO_EMAI>jcamelio@nsf.gov</PO_EMAI>
+<PO_PHON>7032922061</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is the development of a critical technology to enable optical sensing in harsh environments in a variety of industrial applications. The technology can provide aerospace, nuclear, and electric power industries with advanced sensing capabilities for early warning of potential failures, better control of fuel/energy efficiency, reduction of carbon and toxic emissions, and design and testing of new-generation combustion engines/power plants and nuclear reactors. These areas represent environments where harsh conditions of extremely high temperature, chemical corrosion, and radiation do not permit the use of existing sensing technologies. In addition, this solution can be useful for high-power laser delivery needed in other applications like laser-based additive manufacturing and medical surgery.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of a method to create embedded cladding structures for light propagation within sapphire fibers, a platform of high chemical and thermal stability for optics sensing in extreme conditions. The implementation of sapphire fibers in harsh-condition sensing has long been hampered by substantial optical losses due to the lack of sapphire fiber claddings capable of light guiding. This sapphire fiber technology makes use of ion implantation for formation of nanoscale voids that effectively reduce the refractive index of the sapphire crystals, allowing for light signal guiding at a high efficiency in the fiber core below the ion implanted region. Such cladding structures are thermally stable and immune to ambient conditions, thus promising exceptional performance in guiding and transmitting optical signals for real-time remote sensing in harsh environments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/01/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>04/01/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2414069</AwardID>
+<Investigator>
+<FirstName>MengBing</FirstName>
+<LastName>Huang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>MengBing Huang</PI_FULL_NAME>
+<EmailAddress><![CDATA[mhuang@albany.edu]]></EmailAddress>
+<NSF_ID>000346926</NSF_ID>
+<StartDate>04/01/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SUNY at Albany]]></Name>
+<CityName>ALBANY</CityName>
+<ZipCode>122220100</ZipCode>
+<PhoneNumber>5184374974</PhoneNumber>
+<StreetAddress><![CDATA[1400 WASHINGTON AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NHH3T1Z96H29</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NHH3T1Z96H29</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University at Albany]]></Name>
+<CityName>ALBANY</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>122220100</ZipCode>
+<StreetAddress><![CDATA[1400 WASHINGTON AVE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8616</Code>
+<Text>Instr Rsrch,Metro&amp;Std NanTech</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~50000</FUND_OBLG>
+</Award>
+</rootTag>

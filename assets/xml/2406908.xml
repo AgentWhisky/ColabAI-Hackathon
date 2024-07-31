@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Pair Discharges and Magnetic Reconnection in Pulsars: Implications for the multi-wavelength emission]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2024</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2027</AwardExpirationDate>
+<AwardTotalIntnAmount>431872.00</AwardTotalIntnAmount>
+<AwardAmount>431872</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hans Krimm</SignBlockName>
+<PO_EMAI>hkrimm@nsf.gov</PO_EMAI>
+<PO_PHON>7032922761</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Pulsars, or rapidly spinning neutron stars (NS), have been detected with radio telescopes for over half a century. However, the processes through which this radio emission arises remain enigmatic. The recent discovery of radio emission from fast radio bursts and magnetars, or highly magnetized pulsars, underscores the role of NS as key to understanding coherent emission in many astrophysical systems. A research team at the University of Maryland (UMD) will carry out first-principles numerical investigations of key plasma physical processes responsible for the generation of coherent radio emission. They will also investigate the physics behind the production of X-rays from both thermal and non-thermal processes in NS, as well as ultra-high-energy photons, associated to these processes. The proposed research will involve undergraduate and graduate students through semester- or year-long projects at UMD. The project will involve students from groups traditionally underrepresented in STEM, who will be recruited through a new initiative at UMD’s Physics Department, “Pathway to Physics Ph.D.”  The principal investigator will organize two summer schools for graduate students devoted to research on compact objects, where participants will become familiar with various theoretical and/or numerical problems at the forefront of research. &lt;br/&gt;&lt;br/&gt;Employing recent novel ideas about non-stationary behavior of pair plasma discharges and magnetic reconnection, the researchers will study how these fundamental plasma physics processes lead to the generation of powerful coherent radio emission and ultimately to thermal and non-thermal X-ray and TeV emission in pulsars. To achieve this ambitious goal, they will use modern multi-dimensional radiative kinetic numerical particle-in-cell simulations. At the time of completion of this project, the team will have produced ab-initio quantitative models of coherent radio, X-ray and TeV emission from pulsars. They will also test predictions from non-stationary pair discharge simulations of polar cap gamma-ray emission against the available limits and make testable predictions for future space missions. The proposal addresses issues that are at the forefront of high-energy astrophysics – interactions in ultra-strong magnetic fields, pair production, relativistic reconnection, particle acceleration and generation of coherent radio emission in the Universe.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2024</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2406908</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Philippov</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander Philippov</PI_FULL_NAME>
+<EmailAddress><![CDATA[sashaph@umd.edu]]></EmailAddress>
+<NSF_ID>000790574</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Miller</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Miller</PI_FULL_NAME>
+<EmailAddress><![CDATA[miller@astro.umd.edu]]></EmailAddress>
+<NSF_ID>000323164</NSF_ID>
+<StartDate>07/09/2024</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425100</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress><![CDATA[3112 LEE BUILDING]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NPU8ULVAAS23</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>College Park</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207425103</ZipCode>
+<StreetAddress><![CDATA[3112 LEE BLDG 7809 REGENTS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>121500</Code>
+<Text>STELLAR ASTRONOMY &amp; ASTROPHYSC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2024~431872</FUND_OBLG>
+</Award>
+</rootTag>
